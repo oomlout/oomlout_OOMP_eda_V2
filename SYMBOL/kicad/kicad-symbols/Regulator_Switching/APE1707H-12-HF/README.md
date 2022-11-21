@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGAPE177H12HF > Regulator_Switching : APE1707H-12-HF](#szkregulatorswitchingape177h12hf--regulator_switching--ape1707h-12-hf)
+* [SZKREGULATORSWINGAPE177H12HF > Regulator_Switching : APE1707H-12-HF](#szkregulatorswingape177h12hf--regulator_switching--ape1707h-12-hf)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGAPE177H12HF > Regulator_Switching : APE1707H-12-HF
+# SZKREGULATORSWINGAPE177H12HF > Regulator_Switching : APE1707H-12-HF
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-APE1707H-12-HF
-- Hex ID: SZKREGULATORSWITCHINGAPE177H12HF
+- Hex ID: SZKREGULATORSWINGAPE177H12HF
 - Name: Regulator_Switching : APE1707H-12-HF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/APE1707H-12-HF/
 - Description: Regulator_Switching : APE1707H-12-HF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-APE1707H-12-HF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-APE1707H-12-HF)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGAPE177H12HF](http://oom.lt/SZKREGULATORSWITCHINGAPE177H12HF)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGAPE177H12HF](http://oom.lt/SZKREGULATORSWINGAPE177H12HF)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|APE1707H-12-HF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-APE1707H-12-HF|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGAPE177H12HF|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGAPE177H12HF|
 |name|name|Regulator_Switching : APE1707H-12-HF|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'APE1707H-33-HF'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'APE1707H-12-HF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-252-5_TabPin3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdf.datasheet.live/datasheets-1/advanced_power_electronics/APE1707H-12-HF.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '12V 2A 150KHz PWM Buck DC/DC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2A</td><td> 150KHz PWM Buck DC/DC Converter</td><td> fixed 12.0V output voltage</td><td> TO-252-5 (D-PAK)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?252*TabPin3*'</td></tr></table>]|
 ||||

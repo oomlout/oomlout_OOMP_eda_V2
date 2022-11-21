@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-tricore-P-LBGA-260
 - Hex ID: FZEINFINEONTRICOREPLBGA26
 - Name: infineon-tricore : P-LBGA-260
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon-tricore/P-LBGA-260/
 - Description: infineon-tricore : P-LBGA-260
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-tricore-P-LBGA-260](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-tricore-P-LBGA-260)
 - Short Link: [http://oom.lt/FZEINFINEONTRICOREPLBGA26](http://oom.lt/FZEINFINEONTRICOREPLBGA26)

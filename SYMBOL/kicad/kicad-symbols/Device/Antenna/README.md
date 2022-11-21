@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Antenna
 - Hex ID: SZKDEVICEANTENNA
 - Name: Device : Antenna
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Antenna/
 - Description: Device : Antenna
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Antenna](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Antenna)
 - Short Link: [http://oom.lt/SZKDEVICEANTENNA](http://oom.lt/SZKDEVICEANTENNA)

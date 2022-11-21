@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Small
 - Hex ID: SZKDEVICEDSLL
 - Name: Device : D_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Small/
 - Description: Device : D_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Small)
 - Short Link: [http://oom.lt/SZKDEVICEDSLL](http://oom.lt/SZKDEVICEDSLL)

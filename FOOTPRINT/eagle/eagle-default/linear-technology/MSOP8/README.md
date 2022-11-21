@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-MSOP8
 - Hex ID: FZELINEARTECHNOLOGYMS8
 - Name: linear-technology : MSOP8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/MSOP8/
 - Description: linear-technology : MSOP8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-MSOP8](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-MSOP8)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYMS8](http://oom.lt/FZELINEARTECHNOLOGYMS8)

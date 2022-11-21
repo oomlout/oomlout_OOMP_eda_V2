@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-P1-12E
 - Hex ID: FZEDIODEP112E
 - Name: diode : P1-12E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/P1-12E/
 - Description: diode : P1-12E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-P1-12E](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-P1-12E)
 - Short Link: [http://oom.lt/FZEDIODEP112E](http://oom.lt/FZEDIODEP112E)

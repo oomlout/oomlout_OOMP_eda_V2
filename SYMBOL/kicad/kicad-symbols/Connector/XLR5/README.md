@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-XLR5
 - Hex ID: SZKCNXLR5
 - Name: Connector : XLR5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/XLR5/
 - Description: Connector : XLR5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR5)
 - Short Link: [http://oom.lt/SZKCNXLR5](http://oom.lt/SZKCNXLR5)

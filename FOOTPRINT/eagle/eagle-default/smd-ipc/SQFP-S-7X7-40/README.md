@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-7X7-40
 - Hex ID: FZESMIPCSQFPS7X74
 - Name: smd-ipc : SQFP-S-7X7-40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SQFP-S-7X7-40/
 - Description: smd-ipc : SQFP-S-7X7-40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-7X7-40](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-7X7-40)
 - Short Link: [http://oom.lt/FZESMIPCSQFPS7X74](http://oom.lt/FZESMIPCSQFPS7X74)

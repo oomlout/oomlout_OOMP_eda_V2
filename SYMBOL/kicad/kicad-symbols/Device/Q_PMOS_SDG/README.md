@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_SDG
 - Hex ID: SZKDEVICEQPMOSSDG
 - Name: Device : Q_PMOS_SDG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_PMOS_SDG/
 - Description: Device : Q_PMOS_SDG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_SDG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_SDG)
 - Short Link: [http://oom.lt/SZKDEVICEQPMOSSDG](http://oom.lt/SZKDEVICEQPMOSSDG)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-SFH9302
 - Hex ID: FZEOPTOCOUPLERSFH932
 - Name: optocoupler : SFH9302
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/SFH9302/
 - Description: optocoupler : SFH9302
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SFH9302](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SFH9302)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERSFH932](http://oom.lt/FZEOPTOCOUPLERSFH932)

@@ -6,19 +6,27 @@ Contents
 ========
 
 * [FZECONWAGO23348 > con-wago : 233-408](#fzeconwago23348--con-wago--233-408)
+	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONWAGO23348 > con-wago : 233-408
 
 - ID: FOOTPRINT-eagle-eagle-default-con-wago-233-408
 - Hex ID: FZECONWAGO23348
 - Name: con-wago : 233-408
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-wago/233-408/
 - Description: con-wago : 233-408
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-233-408](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-wago-233-408)
 - Short Link: [http://oom.lt/FZECONWAGO23348](http://oom.lt/FZECONWAGO23348)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-wago/233-408/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-wago/233-408/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-wago/233-408/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-wago/233-408/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-wago/233-408/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-wago/233-408/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-wago/233-408/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-wago/233-408/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-wago/233-408/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-wago/233-408/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +41,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONWAGO23348|
 |name|name|con-wago : 233-408|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FB
 - Hex ID: FZAFB
 - Name: adafruit : FB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/FB/
 - Description: adafruit : FB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FB](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FB)
 - Short Link: [http://oom.lt/FZAFB](http://oom.lt/FZAFB)

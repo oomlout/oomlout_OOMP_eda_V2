@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG > digikey-footprints : Cellular_Modem_NL-SW-LTE-TSVG](#fzkicaddigikeykicadlibrarydigikeyfootprintscellularmodemnlswltetsvg--digikey-footprints--cellular_modem_nl-sw-lte-tsvg)
+* [FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG > digikey-footprints : Cellular_Modem_NL-SW-LTE-TSVG](#fzdigidigikeyfootprintscellularmodemnlswltetsvg--digikey-footprints--cellular_modem_nl-sw-lte-tsvg)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG > digikey-footprints : Cellular_Modem_NL-SW-LTE-TSVG
+# FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG > digikey-footprints : Cellular_Modem_NL-SW-LTE-TSVG
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-LTE-TSVG
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG
 - Name: digikey-footprints : Cellular_Modem_NL-SW-LTE-TSVG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Modem_NL-SW-LTE-TSVG/
 - Description: digikey-footprints : Cellular_Modem_NL-SW-LTE-TSVG
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-LTE-TSVG](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-LTE-TSVG)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Cellular_Modem_NL-SW-LTE-TSVG|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-LTE-TSVG|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG|
 |name|name|digikey-footprints : Cellular_Modem_NL-SW-LTE-TSVG|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Cellular_Modem_NL-SW-LTE-TSVG'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

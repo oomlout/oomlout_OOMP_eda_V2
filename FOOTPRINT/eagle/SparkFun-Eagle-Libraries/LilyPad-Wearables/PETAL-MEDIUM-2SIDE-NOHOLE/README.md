@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSLWPETALMEDIUM2SIDENH > LilyPad-Wearables : PETAL-MEDIUM-2SIDE-NOHOLE](#fzslwpetalmedium2sidenh--lilypad-wearables--petal-medium-2side-nohole)
+* [FZSLWPM2SIDENH > LilyPad-Wearables : PETAL-MEDIUM-2SIDE-NOHOLE](#fzslwpm2sidenh--lilypad-wearables--petal-medium-2side-nohole)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSLWPETALMEDIUM2SIDENH > LilyPad-Wearables : PETAL-MEDIUM-2SIDE-NOHOLE
+# FZSLWPM2SIDENH > LilyPad-Wearables : PETAL-MEDIUM-2SIDE-NOHOLE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-PETAL-MEDIUM-2SIDE-NOHOLE
-- Hex ID: FZSLWPETALMEDIUM2SIDENH
+- Hex ID: FZSLWPM2SIDENH
 - Name: LilyPad-Wearables : PETAL-MEDIUM-2SIDE-NOHOLE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/LilyPad-Wearables/PETAL-MEDIUM-2SIDE-NOHOLE/
 - Description: LilyPad-Wearables : PETAL-MEDIUM-2SIDE-NOHOLE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-PETAL-MEDIUM-2SIDE-NOHOLE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-PETAL-MEDIUM-2SIDE-NOHOLE)
-- Short Link: [http://oom.lt/FZSLWPETALMEDIUM2SIDENH](http://oom.lt/FZSLWPETALMEDIUM2SIDENH)
+- Short Link: [http://oom.lt/FZSLWPM2SIDENH](http://oom.lt/FZSLWPM2SIDENH)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|LilyPad-Wearables|
 |OOMP Index|oompIndex|PETAL-MEDIUM-2SIDE-NOHOLE|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-PETAL-MEDIUM-2SIDE-NOHOLE|
-|Hex ID (short code)|hexID|FZSLWPETALMEDIUM2SIDENH|
+|Hex ID (short code)|hexID|FZSLWPM2SIDENH|
 |name|name|LilyPad-Wearables : PETAL-MEDIUM-2SIDE-NOHOLE|
 ||||

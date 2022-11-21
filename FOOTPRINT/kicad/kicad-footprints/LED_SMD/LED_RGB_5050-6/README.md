@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKLSMLRGB556 > LED_SMD : LED_RGB_5050-6](#fzklsmlrgb556--led_smd--led_rgb_5050-6)
+* [FZKLLRGB556 > LED_SMD : LED_RGB_5050-6](#fzkllrgb556--led_smd--led_rgb_5050-6)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLRGB556 > LED_SMD : LED_RGB_5050-6
+# FZKLLRGB556 > LED_SMD : LED_RGB_5050-6
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_5050-6
-- Hex ID: FZKLSMLRGB556
+- Hex ID: FZKLLRGB556
 - Name: LED_SMD : LED_RGB_5050-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_RGB_5050-6/
 - Description: LED_SMD : LED_RGB_5050-6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_5050-6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_5050-6)
-- Short Link: [http://oom.lt/FZKLSMLRGB556](http://oom.lt/FZKLSMLRGB556)
+- Short Link: [http://oom.lt/FZKLLRGB556](http://oom.lt/FZKLLRGB556)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_RGB_5050-6|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_5050-6|
-|Hex ID (short code)|hexID|FZKLSMLRGB556|
+|Hex ID (short code)|hexID|FZKLLRGB556|
 |name|name|LED_SMD : LED_RGB_5050-6|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_RGB_5050-6'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf'</td><td> 'tags'</td></tr><tr><td> 'RGB LED 5050-6'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_RGB_5050-6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

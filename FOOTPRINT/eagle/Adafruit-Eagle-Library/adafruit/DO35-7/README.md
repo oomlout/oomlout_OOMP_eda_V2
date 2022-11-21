@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO35-7
 - Hex ID: FZADO357
 - Name: adafruit : DO35-7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/DO35-7/
 - Description: adafruit : DO35-7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO35-7](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO35-7)
 - Short Link: [http://oom.lt/FZADO357](http://oom.lt/FZADO357)

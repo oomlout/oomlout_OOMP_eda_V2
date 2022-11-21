@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-DIL16
 - Hex ID: FZEINFINEONDIL16
 - Name: infineon : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon/DIL16/
 - Description: infineon : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-DIL16)
 - Short Link: [http://oom.lt/FZEINFINEONDIL16](http://oom.lt/FZEINFINEONDIL16)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI38-3VA_1xSec
 - Hex ID: FZKTRTRCHKEI383VA1XSEC
 - Name: Transformer_THT : Transformer_CHK_EI38-3VA_1xSec
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_EI38-3VA_1xSec/
 - Description: Transformer_THT : Transformer_CHK_EI38-3VA_1xSec
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI38-3VA_1xSec](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI38-3VA_1xSec)
 - Short Link: [http://oom.lt/FZKTRTRCHKEI383VA1XSEC](http://oom.lt/FZKTRTRCHKEI383VA1XSEC)

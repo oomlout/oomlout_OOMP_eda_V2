@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-51
 - Hex ID: SZKOCSSG51
 - Name: Oscillator : SG-51
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/SG-51/
 - Description: Oscillator : SG-51
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-51](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-51)
 - Short Link: [http://oom.lt/SZKOCSSG51](http://oom.lt/SZKOCSSG51)

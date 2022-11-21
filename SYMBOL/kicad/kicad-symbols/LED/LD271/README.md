@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-LD271
 - Hex ID: SZKLLD271
 - Name: LED : LD271
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/LD271/
 - Description: LED : LD271
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-LD271](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-LD271)
 - Short Link: [http://oom.lt/SZKLLD271](http://oom.lt/SZKLLD271)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL20L8
 - Hex ID: SZKLOGICPROGRAABLEPAL2L8
 - Name: Logic_Programmable : PAL20L8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_Programmable/PAL20L8/
 - Description: Logic_Programmable : PAL20L8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL20L8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL20L8)
 - Short Link: [http://oom.lt/SZKLOGICPROGRAABLEPAL2L8](http://oom.lt/SZKLOGICPROGRAABLEPAL2L8)

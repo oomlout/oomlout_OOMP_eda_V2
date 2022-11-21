@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-P-QFP48-7X7MM
 - Hex ID: FZETEXASPQFP487X7
 - Name: texas : P-QFP48-7X7MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/P-QFP48-7X7MM/
 - Description: texas : P-QFP48-7X7MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-P-QFP48-7X7MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-P-QFP48-7X7MM)
 - Short Link: [http://oom.lt/FZETEXASPQFP487X7](http://oom.lt/FZETEXASPQFP487X7)

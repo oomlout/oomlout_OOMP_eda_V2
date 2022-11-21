@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-pspice-VSOURCE
 - Hex ID: SZKPSPICEVSOURCE
 - Name: pspice : VSOURCE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/pspice/VSOURCE/
 - Description: pspice : VSOURCE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-VSOURCE](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-VSOURCE)
 - Short Link: [http://oom.lt/SZKPSPICEVSOURCE](http://oom.lt/SZKPSPICEVSOURCE)

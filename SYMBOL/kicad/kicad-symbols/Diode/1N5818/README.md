@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N5818
 - Hex ID: SZKDIODE1N5818
 - Name: Diode : 1N5818
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N5818/
 - Description: Diode : 1N5818
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5818](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5818)
 - Short Link: [http://oom.lt/SZKDIODE1N5818](http://oom.lt/SZKDIODE1N5818)

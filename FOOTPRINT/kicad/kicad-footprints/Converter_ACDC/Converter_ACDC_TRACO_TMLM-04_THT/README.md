@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_TRACO_TMLM-04_THT
 - Hex ID: FZKCONCONTRACOTMLM4THT
 - Name: Converter_ACDC : Converter_ACDC_TRACO_TMLM-04_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_TRACO_TMLM-04_THT/
 - Description: Converter_ACDC : Converter_ACDC_TRACO_TMLM-04_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_TRACO_TMLM-04_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_TRACO_TMLM-04_THT)
 - Short Link: [http://oom.lt/FZKCONCONTRACOTMLM4THT](http://oom.lt/FZKCONCONTRACOTMLM4THT)

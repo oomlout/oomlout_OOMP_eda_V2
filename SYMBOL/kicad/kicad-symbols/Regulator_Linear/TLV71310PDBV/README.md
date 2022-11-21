@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV71310PDBV
 - Hex ID: SZKREGULATORLINEARTLV7131PDBV
 - Name: Regulator_Linear : TLV71310PDBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV71310PDBV/
 - Description: Regulator_Linear : TLV71310PDBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV71310PDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV71310PDBV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV7131PDBV](http://oom.lt/SZKREGULATORLINEARTLV7131PDBV)

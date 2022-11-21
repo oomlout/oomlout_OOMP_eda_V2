@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micrel-MLF10
 - Hex ID: FZEMICRELMLF1
 - Name: micrel : MLF10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micrel/MLF10/
 - Description: micrel : MLF10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micrel-MLF10](http://oom.lt/FOOTPRINT-eagle-eagle-default-micrel-MLF10)
 - Short Link: [http://oom.lt/FZEMICRELMLF1](http://oom.lt/FZEMICRELMLF1)

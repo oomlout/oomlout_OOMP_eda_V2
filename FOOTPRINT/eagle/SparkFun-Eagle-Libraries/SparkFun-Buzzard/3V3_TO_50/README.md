@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-3V3_TO_50
 - Hex ID: FZSBU3V3TO5
 - Name: SparkFun-Buzzard : 3V3_TO_50
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/3V3_TO_50/
 - Description: SparkFun-Buzzard : 3V3_TO_50
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-3V3_TO_50](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-3V3_TO_50)
 - Short Link: [http://oom.lt/FZSBU3V3TO5](http://oom.lt/FZSBU3V3TO5)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZAPANASONICE > adafruit : PANASONIC_E](#fzapanasonice--adafruit--panasonic_e)
+* [FZAPANE > adafruit : PANASONIC_E](#fzapane--adafruit--panasonic_e)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZAPANASONICE > adafruit : PANASONIC_E
+# FZAPANE > adafruit : PANASONIC_E
 
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PANASONIC_E
-- Hex ID: FZAPANASONICE
+- Hex ID: FZAPANE
 - Name: adafruit : PANASONIC_E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PANASONIC_E/
 - Description: adafruit : PANASONIC_E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PANASONIC_E](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PANASONIC_E)
-- Short Link: [http://oom.lt/FZAPANASONICE](http://oom.lt/FZAPANASONICE)
+- Short Link: [http://oom.lt/FZAPANE](http://oom.lt/FZAPANE)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|adafruit|
 |OOMP Index|oompIndex|PANASONIC_E|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PANASONIC_E|
-|Hex ID (short code)|hexID|FZAPANASONICE|
+|Hex ID (short code)|hexID|FZAPANE|
 |name|name|adafruit : PANASONIC_E|
 ||||
 

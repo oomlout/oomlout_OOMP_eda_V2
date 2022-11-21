@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSS2W39 > digikey-footprints : SSOP-20_W3.9mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsss2w39--digikey-footprints--ssop-20_w39mm)
+* [FZDIGIDIGIKEYFOOTPRINTSSS2W39 > digikey-footprints : SSOP-20_W3.9mm](#fzdigidigikeyfootprintsss2w39--digikey-footprints--ssop-20_w39mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSS2W39 > digikey-footprints : SSOP-20_W3.9mm
+# FZDIGIDIGIKEYFOOTPRINTSSS2W39 > digikey-footprints : SSOP-20_W3.9mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-20_W3.9mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSS2W39
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSS2W39
 - Name: digikey-footprints : SSOP-20_W3.9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SSOP-20_W3.9mm/
 - Description: digikey-footprints : SSOP-20_W3.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-20_W3.9mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-20_W3.9mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSS2W39](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSS2W39)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSS2W39](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSS2W39)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SSOP-20_W3.9mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-20_W3.9mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSS2W39|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSS2W39|
 |name|name|digikey-footprints : SSOP-20_W3.9mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SSOP-20_W3.9mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

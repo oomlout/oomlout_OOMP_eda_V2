@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-RCLAMP0582B
 - Hex ID: SZKPOWERPROTECTIONRCLAMP582B
 - Name: Power_Protection : RCLAMP0582B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/RCLAMP0582B/
 - Description: Power_Protection : RCLAMP0582B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-RCLAMP0582B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-RCLAMP0582B)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONRCLAMP582B](http://oom.lt/SZKPOWERPROTECTIONRCLAMP582B)

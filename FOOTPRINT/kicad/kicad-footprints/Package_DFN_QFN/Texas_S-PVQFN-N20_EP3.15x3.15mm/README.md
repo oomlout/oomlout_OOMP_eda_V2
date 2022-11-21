@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N20_EP3.15x3.15mm
 - Hex ID: FZKDFNTEXASSPVQFNN2EP315X315
 - Name: Package_DFN_QFN : Texas_S-PVQFN-N20_EP3.15x3.15mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N20_EP3.15x3.15mm/
 - Description: Package_DFN_QFN : Texas_S-PVQFN-N20_EP3.15x3.15mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N20_EP3.15x3.15mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N20_EP3.15x3.15mm)
 - Short Link: [http://oom.lt/FZKDFNTEXASSPVQFNN2EP315X315](http://oom.lt/FZKDFNTEXASSPVQFNN2EP315X315)

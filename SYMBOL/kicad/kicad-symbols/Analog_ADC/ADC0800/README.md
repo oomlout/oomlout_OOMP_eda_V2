@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC0800
 - Hex ID: SZKANALOGADCADC8
 - Name: Analog_ADC : ADC0800
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC0800/
 - Description: Analog_ADC : ADC0800
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC0800](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC0800)
 - Short Link: [http://oom.lt/SZKANALOGADCADC8](http://oom.lt/SZKANALOGADCADC8)

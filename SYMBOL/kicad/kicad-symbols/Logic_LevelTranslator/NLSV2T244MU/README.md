@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NLSV2T244MU
 - Hex ID: SZKLOGICLEVELTRANSLATORNLSV2T244MU
 - Name: Logic_LevelTranslator : NLSV2T244MU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/NLSV2T244MU/
 - Description: Logic_LevelTranslator : NLSV2T244MU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NLSV2T244MU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NLSV2T244MU)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORNLSV2T244MU](http://oom.lt/SZKLOGICLEVELTRANSLATORNLSV2T244MU)

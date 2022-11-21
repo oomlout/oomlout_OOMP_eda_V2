@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-QFP120_SOT349-2
 - Hex ID: FZEMPHILIPSQFP12SOT3492
 - Name: micro-philips : QFP120_SOT349-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/QFP120_SOT349-2/
 - Description: micro-philips : QFP120_SOT349-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-QFP120_SOT349-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-QFP120_SOT349-2)
 - Short Link: [http://oom.lt/FZEMPHILIPSQFP12SOT3492](http://oom.lt/FZEMPHILIPSQFP12SOT3492)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESTO252 > ref-packages : TO252](#fzerefpackagesto252--ref-packages--to252)
+* [FZEREFPSTO252 > ref-packages : TO252](#fzerefpsto252--ref-packages--to252)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESTO252 > ref-packages : TO252
+# FZEREFPSTO252 > ref-packages : TO252
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO252
-- Hex ID: FZEREFPACKAGESTO252
+- Hex ID: FZEREFPSTO252
 - Name: ref-packages : TO252
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/TO252/
 - Description: ref-packages : TO252
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO252](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO252)
-- Short Link: [http://oom.lt/FZEREFPACKAGESTO252](http://oom.lt/FZEREFPACKAGESTO252)
+- Short Link: [http://oom.lt/FZEREFPSTO252](http://oom.lt/FZEREFPSTO252)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|TO252|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-TO252|
-|Hex ID (short code)|hexID|FZEREFPACKAGESTO252|
+|Hex ID (short code)|hexID|FZEREFPSTO252|
 |name|name|ref-packages : TO252|
 ||||

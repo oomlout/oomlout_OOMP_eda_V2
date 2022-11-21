@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-SK95-2M3
 - Hex ID: FZEHSK952M3
 - Name: heatsink : SK95-2M3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/SK95-2M3/
 - Description: heatsink : SK95-2M3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK95-2M3](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK95-2M3)
 - Short Link: [http://oom.lt/FZEHSK952M3](http://oom.lt/FZEHSK952M3)

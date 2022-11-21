@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT1012
 - Hex ID: SZKAMPLIFIEROPERATIONALLT112
 - Name: Amplifier_Operational : LT1012
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LT1012/
 - Description: Amplifier_Operational : LT1012
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT1012](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT1012)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLT112](http://oom.lt/SZKAMPLIFIEROPERATIONALLT112)

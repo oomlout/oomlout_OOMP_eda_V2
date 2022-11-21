@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5WTINT1LT5W > oomlout_OOMP_parts : LEDS-05-W-TINT-01-LT5W](#szkicadoomloutoompkicadoomloutoomppartsls5wtint1lt5w--oomlout_oomp_parts--leds-05-w-tint-01-lt5w)
+* [SZOOMPKOOMPPLS5WTINT1LT5W > oomlout_OOMP_parts : LEDS-05-W-TINT-01-LT5W](#szoompkoomppls5wtint1lt5w--oomlout_oomp_parts--leds-05-w-tint-01-lt5w)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5WTINT1LT5W > oomlout_OOMP_parts : LEDS-05-W-TINT-01-LT5W
+# SZOOMPKOOMPPLS5WTINT1LT5W > oomlout_OOMP_parts : LEDS-05-W-TINT-01-LT5W
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-W-TINT-01-LT5W
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5WTINT1LT5W
+- Hex ID: SZOOMPKOOMPPLS5WTINT1LT5W
 - Name: oomlout_OOMP_parts : LEDS-05-W-TINT-01-LT5W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-05-W-TINT-01-LT5W/
 - Description: oomlout_OOMP_parts : LEDS-05-W-TINT-01-LT5W
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-W-TINT-01-LT5W](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-W-TINT-01-LT5W)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5WTINT1LT5W](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5WTINT1LT5W)
+- Short Link: [http://oom.lt/SZOOMPKOOMPPLS5WTINT1LT5W](http://oom.lt/SZOOMPKOOMPPLS5WTINT1LT5W)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +31,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|LEDS-05-W-TINT-01-LT5W|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-W-TINT-01-LT5W|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5WTINT1LT5W|
+|Hex ID (short code)|hexID|SZOOMPKOOMPPLS5WTINT1LT5W|
 |name|name|oomlout_OOMP_parts : LEDS-05-W-TINT-01-LT5W|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LEDS-05-W-TINT-01-LT5W'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>LEDS-05-W-TINT-01-LT5W'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/LT5W'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> LT5W;Light emitting diode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED* LED_SMD</td></tr><tr><td>* LED_THT</td></tr><tr><td>*'</td></tr></table>]|
 ||||

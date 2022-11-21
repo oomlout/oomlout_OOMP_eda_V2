@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847SPWR
 - Hex ID: SZKDRIVERMOTORDRV8847SPWR
 - Name: Driver_Motor : DRV8847SPWR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8847SPWR/
 - Description: Driver_Motor : DRV8847SPWR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847SPWR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847SPWR)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV8847SPWR](http://oom.lt/SZKDRIVERMOTORDRV8847SPWR)

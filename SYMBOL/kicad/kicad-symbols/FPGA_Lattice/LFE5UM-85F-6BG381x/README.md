@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFE5UM-85F-6BG381x
 - Hex ID: SZKFPGALATTICELFE5UM85F6BG381X
 - Name: FPGA_Lattice : LFE5UM-85F-6BG381x
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5UM-85F-6BG381x/
 - Description: FPGA_Lattice : LFE5UM-85F-6BG381x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFE5UM-85F-6BG381x](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFE5UM-85F-6BG381x)
 - Short Link: [http://oom.lt/SZKFPGALATTICELFE5UM85F6BG381X](http://oom.lt/SZKFPGALATTICELFE5UM85F6BG381X)

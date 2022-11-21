@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-SOT25
 - Hex ID: FZEVREGSOT25
 - Name: v-reg : SOT25
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/SOT25/
 - Description: v-reg : SOT25
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-SOT25](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-SOT25)
 - Short Link: [http://oom.lt/FZEVREGSOT25](http://oom.lt/FZEVREGSOT25)

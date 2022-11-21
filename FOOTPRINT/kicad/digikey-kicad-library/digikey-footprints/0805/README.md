@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS85 > digikey-footprints : 0805](#fzkicaddigikeykicadlibrarydigikeyfootprints85--digikey-footprints--0805)
+* [FZDIGIDIGIKEYFOOTPRINTS85 > digikey-footprints : 0805](#fzdigidigikeyfootprints85--digikey-footprints--0805)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS85 > digikey-footprints : 0805
+# FZDIGIDIGIKEYFOOTPRINTS85 > digikey-footprints : 0805
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-0805
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS85
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTS85
 - Name: digikey-footprints : 0805
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/0805/
 - Description: digikey-footprints : 0805
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-0805](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-0805)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS85](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS85)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS85](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS85)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +31,7 @@ NO IMAGES
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|0805|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-0805|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS85|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTS85|
 |name|name|digikey-footprints : 0805|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> '805'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

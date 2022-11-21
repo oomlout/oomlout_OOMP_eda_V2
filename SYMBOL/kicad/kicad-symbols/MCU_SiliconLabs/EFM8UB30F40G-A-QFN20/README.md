@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8UB30F40G-A-QFN20
 - Hex ID: SZKMCUSILICONLABSEFM8UB3F4GAQFN2
 - Name: MCU_SiliconLabs : EFM8UB30F40G-A-QFN20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8UB30F40G-A-QFN20/
 - Description: MCU_SiliconLabs : EFM8UB30F40G-A-QFN20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8UB30F40G-A-QFN20](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8UB30F40G-A-QFN20)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM8UB3F4GAQFN2](http://oom.lt/SZKMCUSILICONLABSEFM8UB3F4GAQFN2)

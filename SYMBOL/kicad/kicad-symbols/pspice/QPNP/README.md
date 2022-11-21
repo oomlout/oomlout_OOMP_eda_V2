@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-pspice-QPNP
 - Hex ID: SZKPSPICEQPNP
 - Name: pspice : QPNP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/pspice/QPNP/
 - Description: pspice : QPNP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-QPNP](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-QPNP)
 - Short Link: [http://oom.lt/SZKPSPICEQPNP](http://oom.lt/SZKPSPICEQPNP)

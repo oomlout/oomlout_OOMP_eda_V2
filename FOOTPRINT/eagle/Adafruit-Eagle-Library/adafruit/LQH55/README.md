@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LQH55
 - Hex ID: FZALQH55
 - Name: adafruit : LQH55
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/LQH55/
 - Description: adafruit : LQH55
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LQH55](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LQH55)
 - Short Link: [http://oom.lt/FZALQH55](http://oom.lt/FZALQH55)

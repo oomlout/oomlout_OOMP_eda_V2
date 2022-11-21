@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-DFN14-4X3DE
 - Hex ID: FZELINEARTECHNOLOGYDFN144X3DE
 - Name: linear-technology : DFN14-4X3DE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/DFN14-4X3DE/
 - Description: linear-technology : DFN14-4X3DE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-DFN14-4X3DE](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-DFN14-4X3DE)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYDFN144X3DE](http://oom.lt/FZELINEARTECHNOLOGYDFN144X3DE)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_33.5x30mm_SilkScreen
 - Hex ID: FZKSZOSHWSY335X3SILKSCREEN
 - Name: Symbol : OSHW-Symbol_33.5x30mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_33.5x30mm_SilkScreen/
 - Description: Symbol : OSHW-Symbol_33.5x30mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_33.5x30mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_33.5x30mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZOSHWSY335X3SILKSCREEN](http://oom.lt/FZKSZOSHWSY335X3SILKSCREEN)

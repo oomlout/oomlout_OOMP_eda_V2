@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C075-063X106
 - Hex ID: FZERCLC7563X16
 - Name: rcl : C075-063X106
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C075-063X106/
 - Description: rcl : C075-063X106
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C075-063X106](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C075-063X106)
 - Short Link: [http://oom.lt/FZERCLC7563X16](http://oom.lt/FZERCLC7563X16)

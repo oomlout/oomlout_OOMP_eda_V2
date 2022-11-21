@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Microchip-ATF1502ASL-xAx44
 - Hex ID: SZKCPLDMCHIPATF152ASLXAX44
 - Name: CPLD_Microchip : ATF1502ASL-xAx44
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Microchip/ATF1502ASL-xAx44/
 - Description: CPLD_Microchip : ATF1502ASL-xAx44
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Microchip-ATF1502ASL-xAx44](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Microchip-ATF1502ASL-xAx44)
 - Short Link: [http://oom.lt/SZKCPLDMCHIPATF152ASLXAX44](http://oom.lt/SZKCPLDMCHIPATF152ASLXAX44)

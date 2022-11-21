@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny441-M
 - Hex ID: SZKMCUMCHIPATTINYATTINY441M
 - Name: MCU_Microchip_ATtiny : ATtiny441-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny441-M/
 - Description: MCU_Microchip_ATtiny : ATtiny441-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny441-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny441-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY441M](http://oom.lt/SZKMCUMCHIPATTINYATTINY441M)

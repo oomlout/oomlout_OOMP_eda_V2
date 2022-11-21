@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNJWTA39631X2P396VERTICAL > Connector : JWT_A3963_1x02_P3.96mm_Vertical](#fzkcnjwta39631x2p396vertical--connector--jwt_a3963_1x02_p396mm_vertical)
+* [FZKCNJWTA39631X2P396F > Connector : JWT_A3963_1x02_P3.96mm_Vertical](#fzkcnjwta39631x2p396f--connector--jwt_a3963_1x02_p396mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJWTA39631X2P396VERTICAL > Connector : JWT_A3963_1x02_P3.96mm_Vertical
+# FZKCNJWTA39631X2P396F > Connector : JWT_A3963_1x02_P3.96mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector-JWT_A3963_1x02_P3.96mm_Vertical
-- Hex ID: FZKCNJWTA39631X2P396VERTICAL
+- Hex ID: FZKCNJWTA39631X2P396F
 - Name: Connector : JWT_A3963_1x02_P3.96mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/JWT_A3963_1x02_P3.96mm_Vertical/
 - Description: Connector : JWT_A3963_1x02_P3.96mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-JWT_A3963_1x02_P3.96mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-JWT_A3963_1x02_P3.96mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJWTA39631X2P396VERTICAL](http://oom.lt/FZKCNJWTA39631X2P396VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJWTA39631X2P396F](http://oom.lt/FZKCNJWTA39631X2P396F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|JWT_A3963_1x02_P3.96mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-JWT_A3963_1x02_P3.96mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJWTA39631X2P396VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJWTA39631X2P396F|
 |name|name|Connector : JWT_A3963_1x02_P3.96mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JWT_A3963_1x02_P3.96mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JWT A3963</td><td> 3.96mm pitch Pin head connector (http</td></tr><tr><td>//www.jwt.com.tw/pro_pdf/A3963.pdf)'</td><td> 'tags'</td></tr><tr><td> 'connector JWT A3963 pinhead'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector.3dshapes/JWT_A3963_1x02_P3.96mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

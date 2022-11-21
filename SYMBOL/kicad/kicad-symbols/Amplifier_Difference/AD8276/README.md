@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AD8276
 - Hex ID: SZKAMPLIFIERDIFFERENCEAD8276
 - Name: Amplifier_Difference : AD8276
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/AD8276/
 - Description: Amplifier_Difference : AD8276
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AD8276](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AD8276)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCEAD8276](http://oom.lt/SZKAMPLIFIERDIFFERENCEAD8276)

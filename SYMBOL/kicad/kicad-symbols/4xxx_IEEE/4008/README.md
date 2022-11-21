@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4008
 - Hex ID: SZK4XXXIEEE48
 - Name: 4xxx_IEEE : 4008
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4008/
 - Description: 4xxx_IEEE : 4008
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4008](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4008)
 - Short Link: [http://oom.lt/SZK4XXXIEEE48](http://oom.lt/SZK4XXXIEEE48)

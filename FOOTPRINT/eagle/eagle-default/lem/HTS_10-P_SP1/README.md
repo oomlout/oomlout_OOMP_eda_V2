@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lem-HTS_10-P_SP1
 - Hex ID: FZELEMHTS1PSP1
 - Name: lem : HTS_10-P_SP1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lem/HTS_10-P_SP1/
 - Description: lem : HTS_10-P_SP1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lem-HTS_10-P_SP1](http://oom.lt/FOOTPRINT-eagle-eagle-default-lem-HTS_10-P_SP1)
 - Short Link: [http://oom.lt/FZELEMHTS1PSP1](http://oom.lt/FZELEMHTS1PSP1)

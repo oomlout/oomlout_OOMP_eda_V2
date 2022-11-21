@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-MICROB
 - Hex ID: FZSSPARKFUNCNSUMB
 - Name: SparkFun-Connectors : USB-MICROB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-MICROB/
 - Description: SparkFun-Connectors : USB-MICROB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-MICROB](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-MICROB)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSUMB](http://oom.lt/FZSSPARKFUNCNSUMB)

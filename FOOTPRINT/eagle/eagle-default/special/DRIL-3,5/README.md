@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-DRIL-3,5
 - Hex ID: FZESPECIALDRIL35
 - Name: special : DRIL-3,5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/DRIL-3,5/
 - Description: special : DRIL-3,5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DRIL-3,5](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DRIL-3,5)
 - Short Link: [http://oom.lt/FZESPECIALDRIL35](http://oom.lt/FZESPECIALDRIL35)

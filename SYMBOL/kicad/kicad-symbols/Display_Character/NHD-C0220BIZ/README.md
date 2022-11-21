@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-NHD-C0220BIZ
 - Hex ID: SZKDICHARACTERNHDC22BIZ
 - Name: Display_Character : NHD-C0220BIZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/NHD-C0220BIZ/
 - Description: Display_Character : NHD-C0220BIZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-NHD-C0220BIZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-NHD-C0220BIZ)
 - Short Link: [http://oom.lt/SZKDICHARACTERNHDC22BIZ](http://oom.lt/SZKDICHARACTERNHDC22BIZ)

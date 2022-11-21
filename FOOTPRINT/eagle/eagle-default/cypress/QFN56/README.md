@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-QFN56
 - Hex ID: FZECYPRESSQFN56
 - Name: cypress : QFN56
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/QFN56/
 - Description: cypress : QFN56
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-QFN56](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-QFN56)
 - Short Link: [http://oom.lt/FZECYPRESSQFN56](http://oom.lt/FZECYPRESSQFN56)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-POWERSO-36
 - Hex ID: FZESTMELECTRONICSPOWERSO36
 - Name: st-microelectronics : POWERSO-36
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/POWERSO-36/
 - Description: st-microelectronics : POWERSO-36
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-POWERSO-36](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-POWERSO-36)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSPOWERSO36](http://oom.lt/FZESTMELECTRONICSPOWERSO36)

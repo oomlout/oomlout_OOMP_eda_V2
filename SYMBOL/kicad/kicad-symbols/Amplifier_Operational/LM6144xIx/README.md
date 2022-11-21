@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM6144xIx
 - Hex ID: SZKAMPLIFIEROPERATIONALLM6144XIX
 - Name: Amplifier_Operational : LM6144xIx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM6144xIx/
 - Description: Amplifier_Operational : LM6144xIx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM6144xIx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM6144xIx)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM6144XIX](http://oom.lt/SZKAMPLIFIEROPERATIONALLM6144XIX)

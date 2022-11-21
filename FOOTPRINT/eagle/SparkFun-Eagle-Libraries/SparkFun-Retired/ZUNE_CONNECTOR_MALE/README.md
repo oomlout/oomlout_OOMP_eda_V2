@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ZUNE_CONNECTOR_MALE
 - Hex ID: FZSRTZUNECNMALE
 - Name: SparkFun-Retired : ZUNE_CONNECTOR_MALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/ZUNE_CONNECTOR_MALE/
 - Description: SparkFun-Retired : ZUNE_CONNECTOR_MALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ZUNE_CONNECTOR_MALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ZUNE_CONNECTOR_MALE)
 - Short Link: [http://oom.lt/FZSRTZUNECNMALE](http://oom.lt/FZSRTZUNECNMALE)

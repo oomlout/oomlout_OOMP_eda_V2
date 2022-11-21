@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-XLR-3_MALE
 - Hex ID: FZSSPARKFUNCNSXLR3MALE
 - Name: SparkFun-Connectors : XLR-3_MALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/XLR-3_MALE/
 - Description: SparkFun-Connectors : XLR-3_MALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-XLR-3_MALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-XLR-3_MALE)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSXLR3MALE](http://oom.lt/FZSSPARKFUNCNSXLR3MALE)

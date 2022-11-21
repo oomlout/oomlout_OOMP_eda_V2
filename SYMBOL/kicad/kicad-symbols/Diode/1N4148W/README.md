@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N4148W
 - Hex ID: SZKDIODE1N4148W
 - Name: Diode : 1N4148W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N4148W/
 - Description: Diode : 1N4148W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4148W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4148W)
 - Short Link: [http://oom.lt/SZKDIODE1N4148W](http://oom.lt/SZKDIODE1N4148W)

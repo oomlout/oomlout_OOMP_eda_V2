@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-murata-filter-NFM3DC
 - Hex ID: FZEMURATAFILNFM3DC
 - Name: murata-filter : NFM3DC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/murata-filter/NFM3DC/
 - Description: murata-filter : NFM3DC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-murata-filter-NFM3DC](http://oom.lt/FOOTPRINT-eagle-eagle-default-murata-filter-NFM3DC)
 - Short Link: [http://oom.lt/FZEMURATAFILNFM3DC](http://oom.lt/FZEMURATAFILNFM3DC)

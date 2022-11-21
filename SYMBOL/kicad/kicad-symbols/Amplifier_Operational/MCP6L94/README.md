@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L94
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP6L94
 - Name: Amplifier_Operational : MCP6L94
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L94/
 - Description: Amplifier_Operational : MCP6L94
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L94](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L94)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L94](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L94)

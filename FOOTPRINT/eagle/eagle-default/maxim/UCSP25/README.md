@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-UCSP25
 - Hex ID: FZEMAXIMUCSP25
 - Name: maxim : UCSP25
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/UCSP25/
 - Description: maxim : UCSP25
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-UCSP25](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-UCSP25)
 - Short Link: [http://oom.lt/FZEMAXIMUCSP25](http://oom.lt/FZEMAXIMUCSP25)

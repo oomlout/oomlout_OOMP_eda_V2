@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNSUASNOSILKFEMALE > SparkFun-Connectors : USB-A-S-NOSILK-FEMALE](#fzssparkfuncnsuasnosilkfemale--sparkfun-connectors--usb-a-s-nosilk-female)
+* [FZSSPARKFUNCNSUASNOSILKF > SparkFun-Connectors : USB-A-S-NOSILK-FEMALE](#fzssparkfuncnsuasnosilkf--sparkfun-connectors--usb-a-s-nosilk-female)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNSUASNOSILKFEMALE > SparkFun-Connectors : USB-A-S-NOSILK-FEMALE
+# FZSSPARKFUNCNSUASNOSILKF > SparkFun-Connectors : USB-A-S-NOSILK-FEMALE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-S-NOSILK-FEMALE
-- Hex ID: FZSSPARKFUNCNSUASNOSILKFEMALE
+- Hex ID: FZSSPARKFUNCNSUASNOSILKF
 - Name: SparkFun-Connectors : USB-A-S-NOSILK-FEMALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-A-S-NOSILK-FEMALE/
 - Description: SparkFun-Connectors : USB-A-S-NOSILK-FEMALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-S-NOSILK-FEMALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-S-NOSILK-FEMALE)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNSUASNOSILKFEMALE](http://oom.lt/FZSSPARKFUNCNSUASNOSILKFEMALE)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNSUASNOSILKF](http://oom.lt/FZSSPARKFUNCNSUASNOSILKF)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|USB-A-S-NOSILK-FEMALE|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-S-NOSILK-FEMALE|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNSUASNOSILKFEMALE|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNSUASNOSILKF|
 |name|name|SparkFun-Connectors : USB-A-S-NOSILK-FEMALE|
 ||||

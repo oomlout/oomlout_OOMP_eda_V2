@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS73
 - Hex ID: SZK74XX74LS73
 - Name: 74xx : 74LS73
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/74LS73/
 - Description: 74xx : 74LS73
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS73](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS73)
 - Short Link: [http://oom.lt/SZK74XX74LS73](http://oom.lt/SZK74XX74LS73)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-HLK-PM03
 - Hex ID: SZKCONHLKPM3
 - Name: Converter_ACDC : HLK-PM03
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/HLK-PM03/
 - Description: Converter_ACDC : HLK-PM03
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HLK-PM03](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HLK-PM03)
 - Short Link: [http://oom.lt/SZKCONHLKPM3](http://oom.lt/SZKCONHLKPM3)

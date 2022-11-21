@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-68901_PLCC
 - Hex ID: SZKINTERFACE6891PLCC
 - Name: Interface : 68901_PLCC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/68901_PLCC/
 - Description: Interface : 68901_PLCC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-68901_PLCC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-68901_PLCC)
 - Short Link: [http://oom.lt/SZKINTERFACE6891PLCC](http://oom.lt/SZKINTERFACE6891PLCC)

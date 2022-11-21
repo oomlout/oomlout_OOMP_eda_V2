@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNHARWINHARWINLTEKMALE2P2VERTICAL > Connector_Harwin : Harwin_LTek-Male_02_P2.00mm_Vertical](#fzkcnharwinharwinltekmale2p2vertical--connector_harwin--harwin_ltek-male_02_p200mm_vertical)
+* [FZKCNHARWINHARWINLTEKMALE2P2F > Connector_Harwin : Harwin_LTek-Male_02_P2.00mm_Vertical](#fzkcnharwinharwinltekmale2p2f--connector_harwin--harwin_ltek-male_02_p200mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNHARWINHARWINLTEKMALE2P2VERTICAL > Connector_Harwin : Harwin_LTek-Male_02_P2.00mm_Vertical
+# FZKCNHARWINHARWINLTEKMALE2P2F > Connector_Harwin : Harwin_LTek-Male_02_P2.00mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_02_P2.00mm_Vertical
-- Hex ID: FZKCNHARWINHARWINLTEKMALE2P2VERTICAL
+- Hex ID: FZKCNHARWINHARWINLTEKMALE2P2F
 - Name: Connector_Harwin : Harwin_LTek-Male_02_P2.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical/
 - Description: Connector_Harwin : Harwin_LTek-Male_02_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_02_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_02_P2.00mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNHARWINHARWINLTEKMALE2P2VERTICAL](http://oom.lt/FZKCNHARWINHARWINLTEKMALE2P2VERTICAL)
+- Short Link: [http://oom.lt/FZKCNHARWINHARWINLTEKMALE2P2F](http://oom.lt/FZKCNHARWINHARWINLTEKMALE2P2F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Harwin|
 |OOMP Index|oompIndex|Harwin_LTek-Male_02_P2.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_02_P2.00mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNHARWINHARWINLTEKMALE2P2VERTICAL|
+|Hex ID (short code)|hexID|FZKCNHARWINHARWINLTEKMALE2P2F|
 |name|name|Connector_Harwin : Harwin_LTek-Male_02_P2.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Harwin_LTek-Male_02_P2.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Harwin LTek Connector</td><td> 2 pins</td><td> single row male</td><td> vertical entry'</td><td> 'tags'</td></tr><tr><td> 'connector harwin ltek M80'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Harwin.3dshapes/Harwin_LTek-Male_02_P2.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

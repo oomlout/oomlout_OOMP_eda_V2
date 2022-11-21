@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-8080A
 - Hex ID: SZKMCUINTEL88A
 - Name: MCU_Intel : 8080A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Intel/8080A/
 - Description: MCU_Intel : 8080A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8080A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8080A)
 - Short Link: [http://oom.lt/SZKMCUINTEL88A](http://oom.lt/SZKMCUINTEL88A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_QMBIII
 - Hex ID: FZEBUZZERFQMBIII
 - Name: buzzer : F_QMBIII
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_QMBIII/
 - Description: buzzer : F_QMBIII
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_QMBIII](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_QMBIII)
 - Short Link: [http://oom.lt/FZEBUZZERFQMBIII](http://oom.lt/FZEBUZZERFQMBIII)

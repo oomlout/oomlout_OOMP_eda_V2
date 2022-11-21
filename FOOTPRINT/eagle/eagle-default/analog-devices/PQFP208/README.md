@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-PQFP208
 - Hex ID: FZEANALOGDEVICESPQFP28
 - Name: analog-devices : PQFP208
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/PQFP208/
 - Description: analog-devices : PQFP208
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PQFP208](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PQFP208)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESPQFP28](http://oom.lt/FZEANALOGDEVICESPQFP28)

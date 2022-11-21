@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rf-solutions-SO-18W
 - Hex ID: FZERFSOLUTIONSSO18W
 - Name: rf-solutions : SO-18W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rf-solutions/SO-18W/
 - Description: rf-solutions : SO-18W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rf-solutions-SO-18W](http://oom.lt/FOOTPRINT-eagle-eagle-default-rf-solutions-SO-18W)
 - Short Link: [http://oom.lt/FZERFSOLUTIONSSO18W](http://oom.lt/FZERFSOLUTIONSSO18W)

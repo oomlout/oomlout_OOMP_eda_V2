@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIPSMIP12W953CLEARANCE8 > Package_DIP : SMDIP-12_W9.53mm_Clearance8mm](#fzkdipsmip12w953clearance8--package_dip--smdip-12_w953mm_clearance8mm)
+* [FZKDSMIP12W953CLEARANCE8 > Package_DIP : SMDIP-12_W9.53mm_Clearance8mm](#fzkdsmip12w953clearance8--package_dip--smdip-12_w953mm_clearance8mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIPSMIP12W953CLEARANCE8 > Package_DIP : SMDIP-12_W9.53mm_Clearance8mm
+# FZKDSMIP12W953CLEARANCE8 > Package_DIP : SMDIP-12_W9.53mm_Clearance8mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-12_W9.53mm_Clearance8mm
-- Hex ID: FZKDIPSMIP12W953CLEARANCE8
+- Hex ID: FZKDSMIP12W953CLEARANCE8
 - Name: Package_DIP : SMDIP-12_W9.53mm_Clearance8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-12_W9.53mm_Clearance8mm/
 - Description: Package_DIP : SMDIP-12_W9.53mm_Clearance8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-12_W9.53mm_Clearance8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-12_W9.53mm_Clearance8mm)
-- Short Link: [http://oom.lt/FZKDIPSMIP12W953CLEARANCE8](http://oom.lt/FZKDIPSMIP12W953CLEARANCE8)
+- Short Link: [http://oom.lt/FZKDSMIP12W953CLEARANCE8](http://oom.lt/FZKDSMIP12W953CLEARANCE8)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DIP|
 |OOMP Index|oompIndex|SMDIP-12_W9.53mm_Clearance8mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-12_W9.53mm_Clearance8mm|
-|Hex ID (short code)|hexID|FZKDIPSMIP12W953CLEARANCE8|
+|Hex ID (short code)|hexID|FZKDSMIP12W953CLEARANCE8|
 |name|name|Package_DIP : SMDIP-12_W9.53mm_Clearance8mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMDIP-12_W9.53mm_Clearance8mm'</td><td> 'description'</td></tr><tr><td> '12-lead surface-mounted (SMD) DIP package</td><td> row spacing 9.53 mm (375 mils)</td><td> Clearance8mm'</td><td> 'tags'</td></tr><tr><td> 'SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/SMDIP-12_W9.53mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

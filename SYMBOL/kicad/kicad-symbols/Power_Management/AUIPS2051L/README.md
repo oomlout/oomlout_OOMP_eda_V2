@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS2051L
 - Hex ID: SZKPOWERMANAGEMENTAUIPS251L
 - Name: Power_Management : AUIPS2051L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS2051L/
 - Description: Power_Management : AUIPS2051L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS2051L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS2051L)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIPS251L](http://oom.lt/SZKPOWERMANAGEMENTAUIPS251L)

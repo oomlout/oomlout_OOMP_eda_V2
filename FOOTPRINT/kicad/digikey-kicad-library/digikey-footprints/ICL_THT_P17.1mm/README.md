@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSICLTHTP171 > digikey-footprints : ICL_THT_P17.1mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsiclthtp171--digikey-footprints--icl_tht_p171mm)
+* [FZDIGIDIGIKEYFOOTPRINTSICLTHTP171 > digikey-footprints : ICL_THT_P17.1mm](#fzdigidigikeyfootprintsiclthtp171--digikey-footprints--icl_tht_p171mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSICLTHTP171 > digikey-footprints : ICL_THT_P17.1mm
+# FZDIGIDIGIKEYFOOTPRINTSICLTHTP171 > digikey-footprints : ICL_THT_P17.1mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ICL_THT_P17.1mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSICLTHTP171
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSICLTHTP171
 - Name: digikey-footprints : ICL_THT_P17.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/ICL_THT_P17.1mm/
 - Description: digikey-footprints : ICL_THT_P17.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ICL_THT_P17.1mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ICL_THT_P17.1mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSICLTHTP171](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSICLTHTP171)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSICLTHTP171](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSICLTHTP171)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|ICL_THT_P17.1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ICL_THT_P17.1mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSICLTHTP171|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSICLTHTP171|
 |name|name|digikey-footprints : ICL_THT_P17.1mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ICL_THT_P17.1mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ametherm.com/datasheets/as322r025'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-PIS2816
 - Hex ID: FZERCLPIS2816
 - Name: rcl : PIS2816
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/PIS2816/
 - Description: rcl : PIS2816
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-PIS2816](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-PIS2816)
 - Short Link: [http://oom.lt/FZERCLPIS2816](http://oom.lt/FZERCLPIS2816)

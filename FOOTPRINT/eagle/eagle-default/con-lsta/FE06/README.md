@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lsta-FE06
 - Hex ID: FZECONLSTAFE6
 - Name: con-lsta : FE06
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lsta/FE06/
 - Description: con-lsta : FE06
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-FE06](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-FE06)
 - Short Link: [http://oom.lt/FZECONLSTAFE6](http://oom.lt/FZECONLSTAFE6)

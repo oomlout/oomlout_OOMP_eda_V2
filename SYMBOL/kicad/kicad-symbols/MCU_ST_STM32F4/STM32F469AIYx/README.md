@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F469AIYx
 - Hex ID: SZKMCUSTSTM32F4STM32F469AIYX
 - Name: MCU_ST_STM32F4 : STM32F469AIYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F469AIYx/
 - Description: MCU_ST_STM32F4 : STM32F469AIYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F469AIYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F469AIYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F469AIYX](http://oom.lt/SZKMCUSTSTM32F4STM32F469AIYX)

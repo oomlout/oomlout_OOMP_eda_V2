@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-zetex-E3LINE
 - Hex ID: FZEZETEXE3LINE
 - Name: zetex : E3LINE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/E3LINE/
 - Description: zetex : E3LINE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-E3LINE](http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-E3LINE)
 - Short Link: [http://oom.lt/FZEZETEXE3LINE](http://oom.lt/FZEZETEXE3LINE)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX9-CSG225
 - Hex ID: SZKFPGAXILINXSPARTAN6XC6SLX9CSG225
 - Name: FPGA_Xilinx_Spartan6 : XC6SLX9-CSG225
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX9-CSG225/
 - Description: FPGA_Xilinx_Spartan6 : XC6SLX9-CSG225
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX9-CSG225](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX9-CSG225)
 - Short Link: [http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX9CSG225](http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX9CSG225)

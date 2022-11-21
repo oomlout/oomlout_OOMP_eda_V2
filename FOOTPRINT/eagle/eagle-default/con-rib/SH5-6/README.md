@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-rib-SH5-6
 - Hex ID: FZECONRIBSH56
 - Name: con-rib : SH5-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-rib/SH5-6/
 - Description: con-rib : SH5-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-rib-SH5-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-rib-SH5-6)
 - Short Link: [http://oom.lt/FZECONRIBSH56](http://oom.lt/FZECONRIBSH56)

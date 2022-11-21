@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-MQUAD160
 - Hex ID: FZEMSIEMENSMQUAD16
 - Name: micro-siemens : MQUAD160
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/MQUAD160/
 - Description: micro-siemens : MQUAD160
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-MQUAD160](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-MQUAD160)
 - Short Link: [http://oom.lt/FZEMSIEMENSMQUAD16](http://oom.lt/FZEMSIEMENSMQUAD16)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSWSWITCHDPDTPGPI152313 > SparkFun-Switches : SWITCH_DPDT_PTH_GPI-152-3013](#fzswswitchdpdtpgpi152313--sparkfun-switches--switch_dpdt_pth_gpi-152-3013)
+* [FZSWSWDPDTPGPI152313 > SparkFun-Switches : SWITCH_DPDT_PTH_GPI-152-3013](#fzswswdpdtpgpi152313--sparkfun-switches--switch_dpdt_pth_gpi-152-3013)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSWSWITCHDPDTPGPI152313 > SparkFun-Switches : SWITCH_DPDT_PTH_GPI-152-3013
+# FZSWSWDPDTPGPI152313 > SparkFun-Switches : SWITCH_DPDT_PTH_GPI-152-3013
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_DPDT_PTH_GPI-152-3013
-- Hex ID: FZSWSWITCHDPDTPGPI152313
+- Hex ID: FZSWSWDPDTPGPI152313
 - Name: SparkFun-Switches : SWITCH_DPDT_PTH_GPI-152-3013
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/SWITCH_DPDT_PTH_GPI-152-3013/
 - Description: SparkFun-Switches : SWITCH_DPDT_PTH_GPI-152-3013
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_DPDT_PTH_GPI-152-3013](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_DPDT_PTH_GPI-152-3013)
-- Short Link: [http://oom.lt/FZSWSWITCHDPDTPGPI152313](http://oom.lt/FZSWSWITCHDPDTPGPI152313)
+- Short Link: [http://oom.lt/FZSWSWDPDTPGPI152313](http://oom.lt/FZSWSWDPDTPGPI152313)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Switches|
 |OOMP Index|oompIndex|SWITCH_DPDT_PTH_GPI-152-3013|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_DPDT_PTH_GPI-152-3013|
-|Hex ID (short code)|hexID|FZSWSWITCHDPDTPGPI152313|
+|Hex ID (short code)|hexID|FZSWSWDPDTPGPI152313|
 |name|name|SparkFun-Switches : SWITCH_DPDT_PTH_GPI-152-3013|
 ||||

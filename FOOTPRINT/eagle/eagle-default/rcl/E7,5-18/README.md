@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-E7,5-18
 - Hex ID: FZERCLE7518
 - Name: rcl : E7,5-18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/E7,5-18/
 - Description: rcl : E7,5-18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E7,5-18](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E7,5-18)
 - Short Link: [http://oom.lt/FZERCLE7518](http://oom.lt/FZERCLE7518)

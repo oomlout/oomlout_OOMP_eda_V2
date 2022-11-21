@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-TO39_4
 - Hex ID: FZELINEARTO394
 - Name: linear : TO39_4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/TO39_4/
 - Description: linear : TO39_4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO39_4](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO39_4)
 - Short Link: [http://oom.lt/FZELINEARTO394](http://oom.lt/FZELINEARTO394)

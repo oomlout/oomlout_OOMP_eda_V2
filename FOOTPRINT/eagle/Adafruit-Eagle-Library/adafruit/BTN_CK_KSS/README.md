@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BTN_CK_KSS
 - Hex ID: FZABTNCKKSS
 - Name: adafruit : BTN_CK_KSS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/BTN_CK_KSS/
 - Description: adafruit : BTN_CK_KSS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BTN_CK_KSS](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BTN_CK_KSS)
 - Short Link: [http://oom.lt/FZABTNCKKSS](http://oom.lt/FZABTNCKKSS)

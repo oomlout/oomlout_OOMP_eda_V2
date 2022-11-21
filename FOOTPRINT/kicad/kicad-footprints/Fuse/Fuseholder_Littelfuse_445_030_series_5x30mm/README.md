@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKFUFUHOLDERLITTELFU4453SERIES5X3 > Fuse : Fuseholder_Littelfuse_445_030_series_5x30mm](#fzkfufuholderlittelfu4453series5x3--fuse--fuseholder_littelfuse_445_030_series_5x30mm)
+* [FZKFUFUHLITTELFU4453SERIES5X3 > Fuse : Fuseholder_Littelfuse_445_030_series_5x30mm](#fzkfufuhlittelfu4453series5x3--fuse--fuseholder_littelfuse_445_030_series_5x30mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKFUFUHOLDERLITTELFU4453SERIES5X3 > Fuse : Fuseholder_Littelfuse_445_030_series_5x30mm
+# FZKFUFUHLITTELFU4453SERIES5X3 > Fuse : Fuseholder_Littelfuse_445_030_series_5x30mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Littelfuse_445_030_series_5x30mm
-- Hex ID: FZKFUFUHOLDERLITTELFU4453SERIES5X3
+- Hex ID: FZKFUFUHLITTELFU4453SERIES5X3
 - Name: Fuse : Fuseholder_Littelfuse_445_030_series_5x30mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Littelfuse_445_030_series_5x30mm/
 - Description: Fuse : Fuseholder_Littelfuse_445_030_series_5x30mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Littelfuse_445_030_series_5x30mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Littelfuse_445_030_series_5x30mm)
-- Short Link: [http://oom.lt/FZKFUFUHOLDERLITTELFU4453SERIES5X3](http://oom.lt/FZKFUFUHOLDERLITTELFU4453SERIES5X3)
+- Short Link: [http://oom.lt/FZKFUFUHLITTELFU4453SERIES5X3](http://oom.lt/FZKFUFUHLITTELFU4453SERIES5X3)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Fuse|
 |OOMP Index|oompIndex|Fuseholder_Littelfuse_445_030_series_5x30mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Littelfuse_445_030_series_5x30mm|
-|Hex ID (short code)|hexID|FZKFUFUHOLDERLITTELFU4453SERIES5X3|
+|Hex ID (short code)|hexID|FZKFUFUHLITTELFU4453SERIES5X3|
 |name|name|Fuse : Fuseholder_Littelfuse_445_030_series_5x30mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Littelfuse_445_030_series_5x30mm'</td><td> 'description'</td></tr><tr><td> 'Littelfuse clips</td><td> https</td></tr><tr><td>//www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf'</td><td> 'tags'</td></tr><tr><td> 'Fuseholder clips'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Littelfuse_445_030_series_5x30mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

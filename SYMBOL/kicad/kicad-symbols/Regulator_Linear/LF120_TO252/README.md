@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LF120_TO252
 - Hex ID: SZKREGULATORLINEARLF12TO252
 - Name: Regulator_Linear : LF120_TO252
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LF120_TO252/
 - Description: Regulator_Linear : LF120_TO252
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LF120_TO252](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LF120_TO252)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLF12TO252](http://oom.lt/SZKREGULATORLINEARLF12TO252)

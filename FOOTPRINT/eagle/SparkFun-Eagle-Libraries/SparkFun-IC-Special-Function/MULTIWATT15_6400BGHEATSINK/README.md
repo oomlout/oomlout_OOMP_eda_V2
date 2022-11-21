@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-MULTIWATT15_6400BGHEATSINK
 - Hex ID: FZSISMULTIWATT1564BGH
 - Name: SparkFun-IC-Special-Function : MULTIWATT15_6400BGHEATSINK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/MULTIWATT15_6400BGHEATSINK/
 - Description: SparkFun-IC-Special-Function : MULTIWATT15_6400BGHEATSINK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-MULTIWATT15_6400BGHEATSINK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-MULTIWATT15_6400BGHEATSINK)
 - Short Link: [http://oom.lt/FZSISMULTIWATT1564BGH](http://oom.lt/FZSISMULTIWATT1564BGH)

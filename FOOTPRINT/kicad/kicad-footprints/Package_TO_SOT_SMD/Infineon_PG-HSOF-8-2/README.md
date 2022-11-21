@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMINFINEONPGHSOF82 > Package_TO_SOT_SMD : Infineon_PG-HSOF-8-2](#fzkpackagetosotsminfineonpghsof82--package_to_sot_smd--infineon_pg-hsof-8-2)
+* [FZKSOTINFINEONPGHSOF82 > Package_TO_SOT_SMD : Infineon_PG-HSOF-8-2](#fzksotinfineonpghsof82--package_to_sot_smd--infineon_pg-hsof-8-2)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMINFINEONPGHSOF82 > Package_TO_SOT_SMD : Infineon_PG-HSOF-8-2
+# FZKSOTINFINEONPGHSOF82 > Package_TO_SOT_SMD : Infineon_PG-HSOF-8-2
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HSOF-8-2
-- Hex ID: FZKPACKAGETOSOTSMINFINEONPGHSOF82
+- Hex ID: FZKSOTINFINEONPGHSOF82
 - Name: Package_TO_SOT_SMD : Infineon_PG-HSOF-8-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Infineon_PG-HSOF-8-2/
 - Description: Package_TO_SOT_SMD : Infineon_PG-HSOF-8-2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HSOF-8-2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HSOF-8-2)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMINFINEONPGHSOF82](http://oom.lt/FZKPACKAGETOSOTSMINFINEONPGHSOF82)
+- Short Link: [http://oom.lt/FZKSOTINFINEONPGHSOF82](http://oom.lt/FZKSOTINFINEONPGHSOF82)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|Infineon_PG-HSOF-8-2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HSOF-8-2|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMINFINEONPGHSOF82|
+|Hex ID (short code)|hexID|FZKSOTINFINEONPGHSOF82|
 |name|name|Package_TO_SOT_SMD : Infineon_PG-HSOF-8-2|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Infineon_PG-HSOF-8-2'</td><td> 'description'</td></tr><tr><td> 'HSOF-8-2 [TOLL] power MOSFET (http</td></tr><tr><td>//www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-2/)'</td><td> 'tags'</td></tr><tr><td> 'mosfet hsof toll'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HSOF-8-2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

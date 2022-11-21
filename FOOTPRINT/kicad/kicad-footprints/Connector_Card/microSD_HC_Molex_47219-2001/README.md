@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Molex_47219-2001
 - Hex ID: FZKCNCARDMSDHCMX4721921
 - Name: Connector_Card : microSD_HC_Molex_47219-2001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Molex_47219-2001/
 - Description: Connector_Card : microSD_HC_Molex_47219-2001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Molex_47219-2001](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Molex_47219-2001)
 - Short Link: [http://oom.lt/FZKCNCARDMSDHCMX4721921](http://oom.lt/FZKCNCARDMSDHCMX4721921)

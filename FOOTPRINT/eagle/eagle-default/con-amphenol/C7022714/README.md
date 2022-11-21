@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amphenol-C7022714
 - Hex ID: FZECONAMPHENOLC722714
 - Name: con-amphenol : C7022714
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amphenol/C7022714/
 - Description: con-amphenol : C7022714
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amphenol-C7022714](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amphenol-C7022714)
 - Short Link: [http://oom.lt/FZECONAMPHENOLC722714](http://oom.lt/FZECONAMPHENOLC722714)

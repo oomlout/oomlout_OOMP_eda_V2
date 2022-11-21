@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-tricore-P-BGA329
 - Hex ID: FZEINFINEONTRICOREPBGA329
 - Name: infineon-tricore : P-BGA329
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon-tricore/P-BGA329/
 - Description: infineon-tricore : P-BGA329
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-tricore-P-BGA329](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-tricore-P-BGA329)
 - Short Link: [http://oom.lt/FZEINFINEONTRICOREPBGA329](http://oom.lt/FZEINFINEONTRICOREPBGA329)

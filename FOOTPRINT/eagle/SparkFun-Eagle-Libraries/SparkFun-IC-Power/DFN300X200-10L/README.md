@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-DFN300X200-10L
 - Hex ID: FZSIPDFN3X21L
 - Name: SparkFun-IC-Power : DFN300X200-10L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/DFN300X200-10L/
 - Description: SparkFun-IC-Power : DFN300X200-10L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-DFN300X200-10L](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-DFN300X200-10L)
 - Short Link: [http://oom.lt/FZSIPDFN3X21L](http://oom.lt/FZSIPDFN3X21L)

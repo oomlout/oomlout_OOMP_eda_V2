@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADTO22 > ref-packages-longpad : TO220](#fzerefpackageslongpadto22--ref-packages-longpad--to220)
+* [FZEREFPSLPTO22 > ref-packages-longpad : TO220](#fzerefpslpto22--ref-packages-longpad--to220)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADTO22 > ref-packages-longpad : TO220
+# FZEREFPSLPTO22 > ref-packages-longpad : TO220
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO220
-- Hex ID: FZEREFPACKAGESLONGPADTO22
+- Hex ID: FZEREFPSLPTO22
 - Name: ref-packages-longpad : TO220
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/TO220/
 - Description: ref-packages-longpad : TO220
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO220](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO220)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADTO22](http://oom.lt/FZEREFPACKAGESLONGPADTO22)
+- Short Link: [http://oom.lt/FZEREFPSLPTO22](http://oom.lt/FZEREFPSLPTO22)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|TO220|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO220|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADTO22|
+|Hex ID (short code)|hexID|FZEREFPSLPTO22|
 |name|name|ref-packages-longpad : TO220|
 ||||

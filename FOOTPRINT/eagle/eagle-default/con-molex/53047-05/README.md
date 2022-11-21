@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-53047-05
 - Hex ID: FZECONMX53475
 - Name: con-molex : 53047-05
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/53047-05/
 - Description: con-molex : 53047-05
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-53047-05](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-53047-05)
 - Short Link: [http://oom.lt/FZECONMX53475](http://oom.lt/FZECONMX53475)

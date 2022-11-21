@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP38G36
 - Hex ID: SZKINTERFACEOPTICALTS38G36
 - Name: Interface_Optical : TSOP38G36
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSOP38G36/
 - Description: Interface_Optical : TSOP38G36
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP38G36](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP38G36)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTS38G36](http://oom.lt/SZKINTERFACEOPTICALTS38G36)

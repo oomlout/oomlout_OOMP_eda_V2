@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-SK96_84
 - Hex ID: FZEHSK9684
 - Name: heatsink : SK96_84
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/SK96_84/
 - Description: heatsink : SK96_84
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK96_84](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK96_84)
 - Short Link: [http://oom.lt/FZEHSK9684](http://oom.lt/FZEHSK9684)

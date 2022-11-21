@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-VR31
 - Hex ID: FZETRAFOVR31
 - Name: trafo : VR31
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/VR31/
 - Description: trafo : VR31
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-VR31](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-VR31)
 - Short Link: [http://oom.lt/FZETRAFOVR31](http://oom.lt/FZETRAFOVR31)

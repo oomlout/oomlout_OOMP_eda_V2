@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCSPLFCSP321EP5X5P5EP31X31THERMALVIAS > Package_CSP : LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias](#fzkcsplfcsp321ep5x5p5ep31x31thermalvias--package_csp--lfcsp-32-1ep_5x5mm_p05mm_ep31x31mm_thermalvias)
+* [FZKCSPLFCSP321EP5X5P5EP31X31THV > Package_CSP : LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias](#fzkcsplfcsp321ep5x5p5ep31x31thv--package_csp--lfcsp-32-1ep_5x5mm_p05mm_ep31x31mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCSPLFCSP321EP5X5P5EP31X31THERMALVIAS > Package_CSP : LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias
+# FZKCSPLFCSP321EP5X5P5EP31X31THV > Package_CSP : LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias
-- Hex ID: FZKCSPLFCSP321EP5X5P5EP31X31THERMALVIAS
+- Hex ID: FZKCSPLFCSP321EP5X5P5EP31X31THV
 - Name: Package_CSP : LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias/
 - Description: Package_CSP : LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKCSPLFCSP321EP5X5P5EP31X31THERMALVIAS](http://oom.lt/FZKCSPLFCSP321EP5X5P5EP31X31THERMALVIAS)
+- Short Link: [http://oom.lt/FZKCSPLFCSP321EP5X5P5EP31X31THV](http://oom.lt/FZKCSPLFCSP321EP5X5P5EP31X31THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_CSP|
 |OOMP Index|oompIndex|LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKCSPLFCSP321EP5X5P5EP31X31THERMALVIAS|
+|Hex ID (short code)|hexID|FZKCSPLFCSP321EP5X5P5EP31X31THV|
 |name|name|Package_CSP : LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'LFCSP</td><td> 32 Pin (https</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/414143737956480539664569cp_32_2.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LFCSP NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||

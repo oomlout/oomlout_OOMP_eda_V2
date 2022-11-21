@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-QFN44ML8X8
 - Hex ID: FZEMCHIPQFN44ML8X8
 - Name: microchip : QFN44ML8X8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/QFN44ML8X8/
 - Description: microchip : QFN44ML8X8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-QFN44ML8X8](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-QFN44ML8X8)
 - Short Link: [http://oom.lt/FZEMCHIPQFN44ML8X8](http://oom.lt/FZEMCHIPQFN44ML8X8)

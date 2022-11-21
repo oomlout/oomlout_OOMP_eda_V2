@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Pack04
 - Hex ID: SZKDEVICERPACK4
 - Name: Device : R_Pack04
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Pack04/
 - Description: Device : R_Pack04
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack04](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack04)
 - Short Link: [http://oom.lt/SZKDEVICERPACK4](http://oom.lt/SZKDEVICERPACK4)

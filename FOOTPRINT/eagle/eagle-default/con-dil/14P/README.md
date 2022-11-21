@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-dil-14P
 - Hex ID: FZECONDIL14P
 - Name: con-dil : 14P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-dil/14P/
 - Description: con-dil : 14P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-14P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-14P)
 - Short Link: [http://oom.lt/FZECONDIL14P](http://oom.lt/FZECONDIL14P)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO268
 - Hex ID: FZETRANSISTORPOWERTO268
 - Name: transistor-power : TO268
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO268/
 - Description: transistor-power : TO268
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO268](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO268)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO268](http://oom.lt/FZETRANSISTORPOWERTO268)

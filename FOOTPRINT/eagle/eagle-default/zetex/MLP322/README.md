@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-zetex-MLP322
 - Hex ID: FZEZETEXMLP322
 - Name: zetex : MLP322
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/MLP322/
 - Description: zetex : MLP322
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-MLP322](http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-MLP322)
 - Short Link: [http://oom.lt/FZEZETEXMLP322](http://oom.lt/FZEZETEXMLP322)

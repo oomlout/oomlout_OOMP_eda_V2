@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1594IS
 - Hex ID: SZKANALOGADCLTC1594IS
 - Name: Analog_ADC : LTC1594IS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1594IS/
 - Description: Analog_ADC : LTC1594IS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1594IS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1594IS)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC1594IS](http://oom.lt/SZKANALOGADCLTC1594IS)

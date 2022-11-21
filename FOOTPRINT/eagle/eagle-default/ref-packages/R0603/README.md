@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESR63 > ref-packages : R0603](#fzerefpackagesr63--ref-packages--r0603)
+* [FZEREFPSR63 > ref-packages : R0603](#fzerefpsr63--ref-packages--r0603)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESR63 > ref-packages : R0603
+# FZEREFPSR63 > ref-packages : R0603
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-R0603
-- Hex ID: FZEREFPACKAGESR63
+- Hex ID: FZEREFPSR63
 - Name: ref-packages : R0603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/R0603/
 - Description: ref-packages : R0603
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-R0603](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-R0603)
-- Short Link: [http://oom.lt/FZEREFPACKAGESR63](http://oom.lt/FZEREFPACKAGESR63)
+- Short Link: [http://oom.lt/FZEREFPSR63](http://oom.lt/FZEREFPSR63)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|R0603|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-R0603|
-|Hex ID (short code)|hexID|FZEREFPACKAGESR63|
+|Hex ID (short code)|hexID|FZEREFPSR63|
 |name|name|ref-packages : R0603|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-RWM10X64
 - Hex ID: FZERESISTORPOWERRWM1X64
 - Name: resistor-power : RWM10X64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/RWM10X64/
 - Description: resistor-power : RWM10X64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RWM10X64](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RWM10X64)
 - Short Link: [http://oom.lt/FZERESISTORPOWERRWM1X64](http://oom.lt/FZERESISTORPOWERRWM1X64)

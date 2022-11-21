@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SM518
 - Hex ID: SZKDIODESM518
 - Name: Diode : SM518
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM518/
 - Description: Diode : SM518
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM518](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM518)
 - Short Link: [http://oom.lt/SZKDIODESM518](http://oom.lt/SZKDIODESM518)

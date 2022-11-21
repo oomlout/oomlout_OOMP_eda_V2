@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSISDIP14 > SparkFun-IC-Special-Function : DIP14](#fzsisdip14--sparkfun-ic-special-function--dip14)
+* [FZSISD14 > SparkFun-IC-Special-Function : DIP14](#fzsisd14--sparkfun-ic-special-function--dip14)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSISDIP14 > SparkFun-IC-Special-Function : DIP14
+# FZSISD14 > SparkFun-IC-Special-Function : DIP14
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-DIP14
-- Hex ID: FZSISDIP14
+- Hex ID: FZSISD14
 - Name: SparkFun-IC-Special-Function : DIP14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/DIP14/
 - Description: SparkFun-IC-Special-Function : DIP14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-DIP14](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-DIP14)
-- Short Link: [http://oom.lt/FZSISDIP14](http://oom.lt/FZSISDIP14)
+- Short Link: [http://oom.lt/FZSISD14](http://oom.lt/FZSISD14)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-IC-Special-Function|
 |OOMP Index|oompIndex|DIP14|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-DIP14|
-|Hex ID (short code)|hexID|FZSISDIP14|
+|Hex ID (short code)|hexID|FZSISD14|
 |name|name|SparkFun-IC-Special-Function : DIP14|
 ||||

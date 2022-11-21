@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-KP296
 - Hex ID: FZERESISTORPOWERKP296
 - Name: resistor-power : KP296
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/KP296/
 - Description: resistor-power : KP296
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-KP296](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-KP296)
 - Short Link: [http://oom.lt/FZERESISTORPOWERKP296](http://oom.lt/FZERESISTORPOWERKP296)

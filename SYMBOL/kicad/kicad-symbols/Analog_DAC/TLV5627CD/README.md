@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-TLV5627CD
 - Hex ID: SZKANALOGDACTLV5627CD
 - Name: Analog_DAC : TLV5627CD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/TLV5627CD/
 - Description: Analog_DAC : TLV5627CD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-TLV5627CD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-TLV5627CD)
 - Short Link: [http://oom.lt/SZKANALOGDACTLV5627CD](http://oom.lt/SZKANALOGDACTLV5627CD)

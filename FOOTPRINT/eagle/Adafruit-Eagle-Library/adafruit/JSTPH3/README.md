@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JSTPH3
 - Hex ID: FZAJSTPH3
 - Name: adafruit : JSTPH3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/JSTPH3/
 - Description: adafruit : JSTPH3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JSTPH3](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JSTPH3)
 - Short Link: [http://oom.lt/FZAJSTPH3](http://oom.lt/FZAJSTPH3)

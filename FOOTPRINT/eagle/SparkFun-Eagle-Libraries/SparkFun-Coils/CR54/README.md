@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-CR54
 - Hex ID: FZSCOCR54
 - Name: SparkFun-Coils : CR54
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/CR54/
 - Description: SparkFun-Coils : CR54
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-CR54](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-CR54)
 - Short Link: [http://oom.lt/FZSCOCR54](http://oom.lt/FZSCOCR54)

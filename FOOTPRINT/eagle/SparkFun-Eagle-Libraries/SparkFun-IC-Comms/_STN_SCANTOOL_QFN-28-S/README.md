@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-_STN_SCANTOOL_QFN-28-S
 - Hex ID: FZSICSTNSCANTOOLQFN28S
 - Name: SparkFun-IC-Comms : _STN_SCANTOOL_QFN-28-S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Comms/_STN_SCANTOOL_QFN-28-S/
 - Description: SparkFun-IC-Comms : _STN_SCANTOOL_QFN-28-S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-_STN_SCANTOOL_QFN-28-S](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-_STN_SCANTOOL_QFN-28-S)
 - Short Link: [http://oom.lt/FZSICSTNSCANTOOLQFN28S](http://oom.lt/FZSICSTNSCANTOOLQFN28S)

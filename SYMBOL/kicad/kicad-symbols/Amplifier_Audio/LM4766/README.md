@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4766
 - Hex ID: SZKAMPLIFIERAUDIOLM4766
 - Name: Amplifier_Audio : LM4766
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM4766/
 - Description: Amplifier_Audio : LM4766
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4766](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4766)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM4766](http://oom.lt/SZKAMPLIFIERAUDIOLM4766)

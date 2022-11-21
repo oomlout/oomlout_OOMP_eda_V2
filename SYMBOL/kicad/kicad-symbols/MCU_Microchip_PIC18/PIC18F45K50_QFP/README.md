@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F45K50_QFP
 - Hex ID: SZKMCUMCHIPPIC18PIC18F45K5QFP
 - Name: MCU_Microchip_PIC18 : PIC18F45K50_QFP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F45K50_QFP/
 - Description: MCU_Microchip_PIC18 : PIC18F45K50_QFP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F45K50_QFP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F45K50_QFP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F45K5QFP](http://oom.lt/SZKMCUMCHIPPIC18PIC18F45K5QFP)

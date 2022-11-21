@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP100-270D
 - Hex ID: SZKPOWERSUPERVISORMCP127D
 - Name: Power_Supervisor : MCP100-270D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP100-270D/
 - Description: Power_Supervisor : MCP100-270D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP100-270D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP100-270D)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP127D](http://oom.lt/SZKPOWERSUPERVISORMCP127D)

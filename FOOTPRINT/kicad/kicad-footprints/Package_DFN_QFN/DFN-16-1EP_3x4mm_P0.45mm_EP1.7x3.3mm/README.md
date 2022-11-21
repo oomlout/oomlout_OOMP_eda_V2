@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-16-1EP_3x4mm_P0.45mm_EP1.7x3.3mm
 - Hex ID: FZKDFNDFN161EP3X4P45EP17X33
 - Name: Package_DFN_QFN : DFN-16-1EP_3x4mm_P0.45mm_EP1.7x3.3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-16-1EP_3x4mm_P0.45mm_EP1.7x3.3mm/
 - Description: Package_DFN_QFN : DFN-16-1EP_3x4mm_P0.45mm_EP1.7x3.3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-16-1EP_3x4mm_P0.45mm_EP1.7x3.3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-16-1EP_3x4mm_P0.45mm_EP1.7x3.3mm)
 - Short Link: [http://oom.lt/FZKDFNDFN161EP3X4P45EP17X33](http://oom.lt/FZKDFNDFN161EP3X4P45EP17X33)

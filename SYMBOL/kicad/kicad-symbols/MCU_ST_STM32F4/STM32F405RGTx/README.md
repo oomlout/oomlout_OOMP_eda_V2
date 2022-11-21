@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405RGTx
 - Hex ID: SZKMCUSTSTM32F4STM32F45RGTX
 - Name: MCU_ST_STM32F4 : STM32F405RGTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F405RGTx/
 - Description: MCU_ST_STM32F4 : STM32F405RGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405RGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405RGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F45RGTX](http://oom.lt/SZKMCUSTSTM32F4STM32F45RGTX)

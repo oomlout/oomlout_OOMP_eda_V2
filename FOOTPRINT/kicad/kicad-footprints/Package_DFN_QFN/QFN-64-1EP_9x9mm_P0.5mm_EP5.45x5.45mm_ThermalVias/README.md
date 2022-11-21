@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNQFN641EP9X9P5EP545X545THERMALVIAS > Package_DFN_QFN : QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias](#fzkdfnqfn641ep9x9p5ep545x545thermalvias--package_dfn_qfn--qfn-64-1ep_9x9mm_p05mm_ep545x545mm_thermalvias)
+* [FZKDFNQFN641EP9X9P5EP545X545THV > Package_DFN_QFN : QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias](#fzkdfnqfn641ep9x9p5ep545x545thv--package_dfn_qfn--qfn-64-1ep_9x9mm_p05mm_ep545x545mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNQFN641EP9X9P5EP545X545THERMALVIAS > Package_DFN_QFN : QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias
+# FZKDFNQFN641EP9X9P5EP545X545THV > Package_DFN_QFN : QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias
-- Hex ID: FZKDFNQFN641EP9X9P5EP545X545THERMALVIAS
+- Hex ID: FZKDFNQFN641EP9X9P5EP545X545THV
 - Name: Package_DFN_QFN : QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias/
 - Description: Package_DFN_QFN : QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNQFN641EP9X9P5EP545X545THERMALVIAS](http://oom.lt/FZKDFNQFN641EP9X9P5EP545X545THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNQFN641EP9X9P5EP545X545THV](http://oom.lt/FZKDFNQFN641EP9X9P5EP545X545THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNQFN641EP9X9P5EP545X545THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNQFN641EP9X9P5EP545X545THV|
 |name|name|Package_DFN_QFN : QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 64 Pin (https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-MA12040-DS-v01_00-EN.pdf?fileId=5546d46264a8de7e0164b7467a3d617c#page=81)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

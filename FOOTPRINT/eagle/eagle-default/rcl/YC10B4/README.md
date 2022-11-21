@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-YC10B4
 - Hex ID: FZERCLYC1B4
 - Name: rcl : YC10B4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/YC10B4/
 - Description: rcl : YC10B4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-YC10B4](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-YC10B4)
 - Short Link: [http://oom.lt/FZERCLYC1B4](http://oom.lt/FZERCLYC1B4)

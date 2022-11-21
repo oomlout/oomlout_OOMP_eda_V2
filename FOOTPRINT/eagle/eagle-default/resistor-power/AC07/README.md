@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-AC07
 - Hex ID: FZERESISTORPOWERAC7
 - Name: resistor-power : AC07
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/AC07/
 - Description: resistor-power : AC07
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-AC07](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-AC07)
 - Short Link: [http://oom.lt/FZERESISTORPOWERAC7](http://oom.lt/FZERESISTORPOWERAC7)

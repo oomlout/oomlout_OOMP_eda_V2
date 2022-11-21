@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-PGA280
 - Hex ID: FZEALTERAPGA28
 - Name: altera : PGA280
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/PGA280/
 - Description: altera : PGA280
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PGA280](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PGA280)
 - Short Link: [http://oom.lt/FZEALTERAPGA28](http://oom.lt/FZEALTERAPGA28)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHMISC9771 > switch-misc : 9077-1](#fzeswitchmisc9771--switch-misc--9077-1)
+* [FZESWMISC9771 > switch-misc : 9077-1](#fzeswmisc9771--switch-misc--9077-1)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHMISC9771 > switch-misc : 9077-1
+# FZESWMISC9771 > switch-misc : 9077-1
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-9077-1
-- Hex ID: FZESWITCHMISC9771
+- Hex ID: FZESWMISC9771
 - Name: switch-misc : 9077-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/9077-1/
 - Description: switch-misc : 9077-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-9077-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-9077-1)
-- Short Link: [http://oom.lt/FZESWITCHMISC9771](http://oom.lt/FZESWITCHMISC9771)
+- Short Link: [http://oom.lt/FZESWMISC9771](http://oom.lt/FZESWMISC9771)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-misc|
 |OOMP Index|oompIndex|9077-1|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-misc-9077-1|
-|Hex ID (short code)|hexID|FZESWITCHMISC9771|
+|Hex ID (short code)|hexID|FZESWMISC9771|
 |name|name|switch-misc : 9077-1|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-Q62902-B153
 - Hex ID: FZAQ6292B153
 - Name: adafruit : Q62902-B153
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/Q62902-B153/
 - Description: adafruit : Q62902-B153
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-Q62902-B153](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-Q62902-B153)
 - Short Link: [http://oom.lt/FZAQ6292B153](http://oom.lt/FZAQ6292B153)

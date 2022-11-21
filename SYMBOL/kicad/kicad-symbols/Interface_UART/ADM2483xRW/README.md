@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2483xRW
 - Hex ID: SZKINTERFACEUARTADM2483XRW
 - Name: Interface_UART : ADM2483xRW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM2483xRW/
 - Description: Interface_UART : ADM2483xRW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2483xRW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2483xRW)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM2483XRW](http://oom.lt/SZKINTERFACEUARTADM2483XRW)

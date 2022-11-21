@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lsta-FE09
 - Hex ID: FZECONLSTAFE9
 - Name: con-lsta : FE09
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lsta/FE09/
 - Description: con-lsta : FE09
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-FE09](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-FE09)
 - Short Link: [http://oom.lt/FZECONLSTAFE9](http://oom.lt/FZECONLSTAFE9)

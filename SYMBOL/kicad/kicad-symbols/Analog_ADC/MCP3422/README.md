@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3422
 - Hex ID: SZKANALOGADCMCP3422
 - Name: Analog_ADC : MCP3422
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3422/
 - Description: Analog_ADC : MCP3422
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3422](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3422)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3422](http://oom.lt/SZKANALOGADCMCP3422)

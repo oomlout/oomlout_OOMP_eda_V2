@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microphon-WM-61A
 - Hex ID: FZEMPHONWM61A
 - Name: microphon : WM-61A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microphon/WM-61A/
 - Description: microphon : WM-61A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-WM-61A](http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-WM-61A)
 - Short Link: [http://oom.lt/FZEMPHONWM61A](http://oom.lt/FZEMPHONWM61A)

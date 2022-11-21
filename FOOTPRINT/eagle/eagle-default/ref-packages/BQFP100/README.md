@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESBQFP1 > ref-packages : BQFP100](#fzerefpackagesbqfp1--ref-packages--bqfp100)
+* [FZEREFPSBQFP1 > ref-packages : BQFP100](#fzerefpsbqfp1--ref-packages--bqfp100)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESBQFP1 > ref-packages : BQFP100
+# FZEREFPSBQFP1 > ref-packages : BQFP100
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-BQFP100
-- Hex ID: FZEREFPACKAGESBQFP1
+- Hex ID: FZEREFPSBQFP1
 - Name: ref-packages : BQFP100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/BQFP100/
 - Description: ref-packages : BQFP100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-BQFP100](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-BQFP100)
-- Short Link: [http://oom.lt/FZEREFPACKAGESBQFP1](http://oom.lt/FZEREFPACKAGESBQFP1)
+- Short Link: [http://oom.lt/FZEREFPSBQFP1](http://oom.lt/FZEREFPSBQFP1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|BQFP100|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-BQFP100|
-|Hex ID (short code)|hexID|FZEREFPACKAGESBQFP1|
+|Hex ID (short code)|hexID|FZEREFPSBQFP1|
 |name|name|ref-packages : BQFP100|
 ||||

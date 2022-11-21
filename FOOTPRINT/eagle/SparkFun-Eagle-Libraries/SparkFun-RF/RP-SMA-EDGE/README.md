@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RP-SMA-EDGE
 - Hex ID: FZSRFRPSEDGE
 - Name: SparkFun-RF : RP-SMA-EDGE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/RP-SMA-EDGE/
 - Description: SparkFun-RF : RP-SMA-EDGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RP-SMA-EDGE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RP-SMA-EDGE)
 - Short Link: [http://oom.lt/FZSRFRPSEDGE](http://oom.lt/FZSRFRPSEDGE)

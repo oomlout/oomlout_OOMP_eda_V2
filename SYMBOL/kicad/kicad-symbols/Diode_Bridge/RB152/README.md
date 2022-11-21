@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-RB152
 - Hex ID: SZKDIODEBRIDGERB152
 - Name: Diode_Bridge : RB152
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/RB152/
 - Description: Diode_Bridge : RB152
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-RB152](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-RB152)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGERB152](http://oom.lt/SZKDIODEBRIDGERB152)

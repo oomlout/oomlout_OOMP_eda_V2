@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-STBR6008WY
 - Hex ID: SZKDIODESTBR68WY
 - Name: Diode : STBR6008WY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/STBR6008WY/
 - Description: Diode : STBR6008WY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STBR6008WY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STBR6008WY)
 - Short Link: [http://oom.lt/SZKDIODESTBR68WY](http://oom.lt/SZKDIODESTBR68WY)

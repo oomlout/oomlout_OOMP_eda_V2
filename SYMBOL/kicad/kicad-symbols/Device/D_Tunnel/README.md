@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Tunnel
 - Hex ID: SZKDEVICEDTUNNEL
 - Name: Device : D_Tunnel
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Tunnel/
 - Description: Device : D_Tunnel
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Tunnel](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Tunnel)
 - Short Link: [http://oom.lt/SZKDEVICEDTUNNEL](http://oom.lt/SZKDEVICEDTUNNEL)

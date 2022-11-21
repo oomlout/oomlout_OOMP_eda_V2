@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-PQ12--R
 - Hex ID: FZSEPQ12R
 - Name: SparkFun-Electromechanical : PQ12--R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Electromechanical/PQ12--R/
 - Description: SparkFun-Electromechanical : PQ12--R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-PQ12--R](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-PQ12--R)
 - Short Link: [http://oom.lt/FZSEPQ12R](http://oom.lt/FZSEPQ12R)

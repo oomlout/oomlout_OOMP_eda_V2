@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N40_EP4.6x4.6mm
 - Hex ID: FZKDFNTEXASSPVQFNN4EP46X46
 - Name: Package_DFN_QFN : Texas_S-PVQFN-N40_EP4.6x4.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N40_EP4.6x4.6mm/
 - Description: Package_DFN_QFN : Texas_S-PVQFN-N40_EP4.6x4.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N40_EP4.6x4.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N40_EP4.6x4.6mm)
 - Short Link: [http://oom.lt/FZKDFNTEXASSPVQFNN4EP46X46](http://oom.lt/FZKDFNTEXASSPVQFNN4EP46X46)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-SOT886
 - Hex ID: FZSIPSOT886
 - Name: SparkFun-IC-Power : SOT886
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/SOT886/
 - Description: SparkFun-IC-Power : SOT886
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-SOT886](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-SOT886)
 - Short Link: [http://oom.lt/FZSIPSOT886](http://oom.lt/FZSIPSOT886)

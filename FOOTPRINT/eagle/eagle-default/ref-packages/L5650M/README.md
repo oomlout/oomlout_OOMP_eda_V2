@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESL565M > ref-packages : L5650M](#fzerefpackagesl565m--ref-packages--l5650m)
+* [FZEREFPSL565M > ref-packages : L5650M](#fzerefpsl565m--ref-packages--l5650m)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESL565M > ref-packages : L5650M
+# FZEREFPSL565M > ref-packages : L5650M
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-L5650M
-- Hex ID: FZEREFPACKAGESL565M
+- Hex ID: FZEREFPSL565M
 - Name: ref-packages : L5650M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/L5650M/
 - Description: ref-packages : L5650M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-L5650M](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-L5650M)
-- Short Link: [http://oom.lt/FZEREFPACKAGESL565M](http://oom.lt/FZEREFPACKAGESL565M)
+- Short Link: [http://oom.lt/FZEREFPSL565M](http://oom.lt/FZEREFPSL565M)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|L5650M|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-L5650M|
-|Hex ID (short code)|hexID|FZEREFPACKAGESL565M|
+|Hex ID (short code)|hexID|FZEREFPSL565M|
 |name|name|ref-packages : L5650M|
 ||||

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSIS14PINOESIP > SparkFun-IC-Special-Function : 14_PIN_OESIP](#fzsis14pinoesip--sparkfun-ic-special-function--14_pin_oesip)
+* [FZSIS14POESIP > SparkFun-IC-Special-Function : 14_PIN_OESIP](#fzsis14poesip--sparkfun-ic-special-function--14_pin_oesip)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSIS14PINOESIP > SparkFun-IC-Special-Function : 14_PIN_OESIP
+# FZSIS14POESIP > SparkFun-IC-Special-Function : 14_PIN_OESIP
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-14_PIN_OESIP
-- Hex ID: FZSIS14PINOESIP
+- Hex ID: FZSIS14POESIP
 - Name: SparkFun-IC-Special-Function : 14_PIN_OESIP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/14_PIN_OESIP/
 - Description: SparkFun-IC-Special-Function : 14_PIN_OESIP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-14_PIN_OESIP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-14_PIN_OESIP)
-- Short Link: [http://oom.lt/FZSIS14PINOESIP](http://oom.lt/FZSIS14PINOESIP)
+- Short Link: [http://oom.lt/FZSIS14POESIP](http://oom.lt/FZSIS14POESIP)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-IC-Special-Function|
 |OOMP Index|oompIndex|14_PIN_OESIP|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-14_PIN_OESIP|
-|Hex ID (short code)|hexID|FZSIS14PINOESIP|
+|Hex ID (short code)|hexID|FZSIS14POESIP|
 |name|name|SparkFun-IC-Special-Function : 14_PIN_OESIP|
 ||||

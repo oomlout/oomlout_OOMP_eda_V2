@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ45_Bel_SI-60062-F
 - Hex ID: SZKCNRJ45BELSI662F
 - Name: Connector : RJ45_Bel_SI-60062-F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Bel_SI-60062-F/
 - Description: Connector : RJ45_Bel_SI-60062-F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ45_Bel_SI-60062-F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ45_Bel_SI-60062-F)
 - Short Link: [http://oom.lt/SZKCNRJ45BELSI662F](http://oom.lt/SZKCNRJ45BELSI662F)

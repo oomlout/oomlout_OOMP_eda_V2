@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-SN65LVDS1DBV
 - Hex ID: SZKINTERFACESN65LVDS1DBV
 - Name: Interface : SN65LVDS1DBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/SN65LVDS1DBV/
 - Description: Interface : SN65LVDS1DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN65LVDS1DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN65LVDS1DBV)
 - Short Link: [http://oom.lt/SZKINTERFACESN65LVDS1DBV](http://oom.lt/SZKINTERFACESN65LVDS1DBV)

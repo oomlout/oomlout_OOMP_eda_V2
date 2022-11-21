@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-103_26.21x26.21mm
 - Hex ID: FZKRFSLAIRDTECHNOLOGIESBMIS132621X2621
 - Name: RF_Shielding : Laird_Technologies_BMI-S-103_26.21x26.21mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-103_26.21x26.21mm/
 - Description: RF_Shielding : Laird_Technologies_BMI-S-103_26.21x26.21mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-103_26.21x26.21mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-103_26.21x26.21mm)
 - Short Link: [http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS132621X2621](http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS132621X2621)

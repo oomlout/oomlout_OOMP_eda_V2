@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU8M
 - Hex ID: SZKDIODEBRIDGEKBU8M
 - Name: Diode_Bridge : KBU8M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBU8M/
 - Description: Diode_Bridge : KBU8M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU8M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU8M)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBU8M](http://oom.lt/SZKDIODEBRIDGEKBU8M)

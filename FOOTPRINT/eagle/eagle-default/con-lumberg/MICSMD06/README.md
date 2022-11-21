@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-MICSMD06
 - Hex ID: FZECONLUMBERGMICSM6
 - Name: con-lumberg : MICSMD06
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/MICSMD06/
 - Description: con-lumberg : MICSMD06
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MICSMD06](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MICSMD06)
 - Short Link: [http://oom.lt/FZECONLUMBERGMICSM6](http://oom.lt/FZECONLUMBERGMICSM6)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZASTRIP5PINSS > adafruit : STRIP-5PINSS](#fzastrip5pinss--adafruit--strip-5pinss)
+* [FZASTRIP5PSS > adafruit : STRIP-5PINSS](#fzastrip5pss--adafruit--strip-5pinss)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZASTRIP5PINSS > adafruit : STRIP-5PINSS
+# FZASTRIP5PSS > adafruit : STRIP-5PINSS
 
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STRIP-5PINSS
-- Hex ID: FZASTRIP5PINSS
+- Hex ID: FZASTRIP5PSS
 - Name: adafruit : STRIP-5PINSS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/STRIP-5PINSS/
 - Description: adafruit : STRIP-5PINSS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STRIP-5PINSS](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STRIP-5PINSS)
-- Short Link: [http://oom.lt/FZASTRIP5PINSS](http://oom.lt/FZASTRIP5PINSS)
+- Short Link: [http://oom.lt/FZASTRIP5PSS](http://oom.lt/FZASTRIP5PSS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|adafruit|
 |OOMP Index|oompIndex|STRIP-5PINSS|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STRIP-5PINSS|
-|Hex ID (short code)|hexID|FZASTRIP5PINSS|
+|Hex ID (short code)|hexID|FZASTRIP5PSS|
 |name|name|adafruit : STRIP-5PINSS|
 ||||
 

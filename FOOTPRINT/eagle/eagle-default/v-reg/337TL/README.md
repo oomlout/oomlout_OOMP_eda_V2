@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-337TL
 - Hex ID: FZEVREG337TL
 - Name: v-reg : 337TL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/337TL/
 - Description: v-reg : 337TL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-337TL](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-337TL)
 - Short Link: [http://oom.lt/FZEVREG337TL](http://oom.lt/FZEVREG337TL)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-MO004-14
 - Hex ID: FZESMIPCMO414
 - Name: smd-ipc : MO004-14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/MO004-14/
 - Description: smd-ipc : MO004-14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-MO004-14](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-MO004-14)
 - Short Link: [http://oom.lt/FZESMIPCMO414](http://oom.lt/FZESMIPCMO414)

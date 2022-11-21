@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74AUC1G18
 - Hex ID: SZK74XGXX74AUC1G18
 - Name: 74xGxx : 74AUC1G18
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74AUC1G18/
 - Description: 74xGxx : 74AUC1G18
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUC1G18](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUC1G18)
 - Short Link: [http://oom.lt/SZK74XGXX74AUC1G18](http://oom.lt/SZK74XGXX74AUC1G18)

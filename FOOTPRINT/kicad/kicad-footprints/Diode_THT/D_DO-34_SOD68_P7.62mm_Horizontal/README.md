@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDDDO34SOD68P762HORIZONTAL > Diode_THT : D_DO-34_SOD68_P7.62mm_Horizontal](#fzkdddo34sod68p762horizontal--diode_tht--d_do-34_sod68_p762mm_horizontal)
+* [FZKDDDO34SOD68P762H > Diode_THT : D_DO-34_SOD68_P7.62mm_Horizontal](#fzkdddo34sod68p762h--diode_tht--d_do-34_sod68_p762mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDDDO34SOD68P762HORIZONTAL > Diode_THT : D_DO-34_SOD68_P7.62mm_Horizontal
+# FZKDDDO34SOD68P762H > Diode_THT : D_DO-34_SOD68_P7.62mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-34_SOD68_P7.62mm_Horizontal
-- Hex ID: FZKDDDO34SOD68P762HORIZONTAL
+- Hex ID: FZKDDDO34SOD68P762H
 - Name: Diode_THT : D_DO-34_SOD68_P7.62mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P7.62mm_Horizontal/
 - Description: Diode_THT : D_DO-34_SOD68_P7.62mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-34_SOD68_P7.62mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-34_SOD68_P7.62mm_Horizontal)
-- Short Link: [http://oom.lt/FZKDDDO34SOD68P762HORIZONTAL](http://oom.lt/FZKDDDO34SOD68P762HORIZONTAL)
+- Short Link: [http://oom.lt/FZKDDDO34SOD68P762H](http://oom.lt/FZKDDDO34SOD68P762H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Diode_THT|
 |OOMP Index|oompIndex|D_DO-34_SOD68_P7.62mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-34_SOD68_P7.62mm_Horizontal|
-|Hex ID (short code)|hexID|FZKDDDO34SOD68P762HORIZONTAL|
+|Hex ID (short code)|hexID|FZKDDDO34SOD68P762H|
 |name|name|Diode_THT : D_DO-34_SOD68_P7.62mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_DO-34_SOD68_P7.62mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Diode</td><td> DO-34_SOD68 series</td><td> Axial</td><td> Horizontal</td><td> pin pitch=7.62mm</td><td> </td><td> length*diameter=3.04*1.6mm^2</td><td> </td><td> https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf'</td><td> 'tags'</td></tr><tr><td> 'Diode DO-34_SOD68 series Axial Horizontal pin pitch 7.62mm  length 3.04mm diameter 1.6mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/D_DO-34_SOD68_P7.62mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

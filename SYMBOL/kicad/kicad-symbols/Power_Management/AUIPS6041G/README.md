@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS6041G
 - Hex ID: SZKPOWERMANAGEMENTAUIPS641G
 - Name: Power_Management : AUIPS6041G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS6041G/
 - Description: Power_Management : AUIPS6041G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS6041G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS6041G)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIPS641G](http://oom.lt/SZKPOWERMANAGEMENTAUIPS641G)

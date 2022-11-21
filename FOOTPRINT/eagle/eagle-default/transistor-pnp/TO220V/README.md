@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-pnp-TO220V
 - Hex ID: FZETRANSISTORPNPTO22V
 - Name: transistor-pnp : TO220V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-pnp/TO220V/
 - Description: transistor-pnp : TO220V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO220V](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO220V)
 - Short Link: [http://oom.lt/FZETRANSISTORPNPTO22V](http://oom.lt/FZETRANSISTORPNPTO22V)

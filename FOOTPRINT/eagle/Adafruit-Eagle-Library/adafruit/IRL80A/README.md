@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-IRL80A
 - Hex ID: FZAIRL8A
 - Name: adafruit : IRL80A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/IRL80A/
 - Description: adafruit : IRL80A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-IRL80A](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-IRL80A)
 - Short Link: [http://oom.lt/FZAIRL8A](http://oom.lt/FZAIRL8A)

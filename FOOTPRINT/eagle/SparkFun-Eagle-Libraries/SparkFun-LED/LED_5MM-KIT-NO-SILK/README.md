@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_5MM-KIT-NO-SILK
 - Hex ID: FZSLL5KNOSILK
 - Name: SparkFun-LED : LED_5MM-KIT-NO-SILK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/LED_5MM-KIT-NO-SILK/
 - Description: SparkFun-LED : LED_5MM-KIT-NO-SILK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_5MM-KIT-NO-SILK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_5MM-KIT-NO-SILK)
 - Short Link: [http://oom.lt/FZSLL5KNOSILK](http://oom.lt/FZSLL5KNOSILK)

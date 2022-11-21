@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-ERM19264
 - Hex ID: FZKDIERM19264
 - Name: Display : ERM19264
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/ERM19264/
 - Description: Display : ERM19264
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-ERM19264](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-ERM19264)
 - Short Link: [http://oom.lt/FZKDIERM19264](http://oom.lt/FZKDIERM19264)

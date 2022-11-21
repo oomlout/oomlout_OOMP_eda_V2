@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-DC34
 - Hex ID: SZKDIODEDC34
 - Name: Diode : DC34
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/DC34/
 - Description: Diode : DC34
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DC34](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DC34)
 - Short Link: [http://oom.lt/SZKDIODEDC34](http://oom.lt/SZKDIODEDC34)

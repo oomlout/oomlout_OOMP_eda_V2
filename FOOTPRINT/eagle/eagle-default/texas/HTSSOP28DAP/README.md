@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-HTSSOP28DAP
 - Hex ID: FZETEXASHTSS28DAP
 - Name: texas : HTSSOP28DAP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/HTSSOP28DAP/
 - Description: texas : HTSSOP28DAP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTSSOP28DAP](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTSSOP28DAP)
 - Short Link: [http://oom.lt/FZETEXASHTSS28DAP](http://oom.lt/FZETEXASHTSS28DAP)

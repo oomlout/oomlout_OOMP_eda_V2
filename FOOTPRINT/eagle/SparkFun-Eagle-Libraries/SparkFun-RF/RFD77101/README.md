@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RFD77101
 - Hex ID: FZSRFRFD7711
 - Name: SparkFun-RF : RFD77101
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/RFD77101/
 - Description: SparkFun-RF : RFD77101
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RFD77101](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RFD77101)
 - Short Link: [http://oom.lt/FZSRFRFD7711](http://oom.lt/FZSRFRFD7711)

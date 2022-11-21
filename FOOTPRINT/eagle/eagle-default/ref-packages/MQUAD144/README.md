@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESMQUAD144 > ref-packages : MQUAD144](#fzerefpackagesmquad144--ref-packages--mquad144)
+* [FZEREFPSMQUAD144 > ref-packages : MQUAD144](#fzerefpsmquad144--ref-packages--mquad144)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESMQUAD144 > ref-packages : MQUAD144
+# FZEREFPSMQUAD144 > ref-packages : MQUAD144
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-MQUAD144
-- Hex ID: FZEREFPACKAGESMQUAD144
+- Hex ID: FZEREFPSMQUAD144
 - Name: ref-packages : MQUAD144
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/MQUAD144/
 - Description: ref-packages : MQUAD144
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MQUAD144](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MQUAD144)
-- Short Link: [http://oom.lt/FZEREFPACKAGESMQUAD144](http://oom.lt/FZEREFPACKAGESMQUAD144)
+- Short Link: [http://oom.lt/FZEREFPSMQUAD144](http://oom.lt/FZEREFPSMQUAD144)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|MQUAD144|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-MQUAD144|
-|Hex ID (short code)|hexID|FZEREFPACKAGESMQUAD144|
+|Hex ID (short code)|hexID|FZEREFPSMQUAD144|
 |name|name|ref-packages : MQUAD144|
 ||||

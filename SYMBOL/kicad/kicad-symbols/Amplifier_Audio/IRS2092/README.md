@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2092
 - Hex ID: SZKAMPLIFIERAUDIOIRS292
 - Name: Amplifier_Audio : IRS2092
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2092/
 - Description: Amplifier_Audio : IRS2092
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2092](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2092)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIRS292](http://oom.lt/SZKAMPLIFIERAUDIOIRS292)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-U.FL_REDUCED_FOOTPRINT
 - Hex ID: FZSSPARKFUNCNSUFLREDUCEDFOOTPRINT
 - Name: SparkFun-Connectors : U.FL_REDUCED_FOOTPRINT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/U.FL_REDUCED_FOOTPRINT/
 - Description: SparkFun-Connectors : U.FL_REDUCED_FOOTPRINT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-U.FL_REDUCED_FOOTPRINT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-U.FL_REDUCED_FOOTPRINT)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSUFLREDUCEDFOOTPRINT](http://oom.lt/FZSSPARKFUNCNSUFLREDUCEDFOOTPRINT)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS1041R
 - Hex ID: SZKPOWERMANAGEMENTAUIPS141R
 - Name: Power_Management : AUIPS1041R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS1041R/
 - Description: Power_Management : AUIPS1041R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS1041R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS1041R)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIPS141R](http://oom.lt/SZKPOWERMANAGEMENTAUIPS141R)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LCC-36
 - Hex ID: FZSSPARKFUNSENSLCC36
 - Name: SparkFun-Sensors : LCC-36
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/LCC-36/
 - Description: SparkFun-Sensors : LCC-36
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LCC-36](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LCC-36)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSLCC36](http://oom.lt/FZSSPARKFUNSENSLCC36)

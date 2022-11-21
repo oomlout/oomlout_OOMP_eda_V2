@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L051F3P
 - Hex ID: SZKMCUSTSTM8STM8L51F3P
 - Name: MCU_ST_STM8 : STM8L051F3P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8L051F3P/
 - Description: MCU_ST_STM8 : STM8L051F3P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L051F3P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L051F3P)
 - Short Link: [http://oom.lt/SZKMCUSTSTM8STM8L51F3P](http://oom.lt/SZKMCUSTSTM8STM8L51F3P)

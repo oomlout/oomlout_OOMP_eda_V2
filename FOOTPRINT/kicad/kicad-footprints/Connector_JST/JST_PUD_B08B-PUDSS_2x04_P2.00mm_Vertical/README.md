@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNJSTJSTPUDB8BPUDSS2X4P2VERTICAL > Connector_JST : JST_PUD_B08B-PUDSS_2x04_P2.00mm_Vertical](#fzkcnjstjstpudb8bpudss2x4p2vertical--connector_jst--jst_pud_b08b-pudss_2x04_p200mm_vertical)
+* [FZKCNJSTJSTPUDB8BPUDSS2X4P2F > Connector_JST : JST_PUD_B08B-PUDSS_2x04_P2.00mm_Vertical](#fzkcnjstjstpudb8bpudss2x4p2f--connector_jst--jst_pud_b08b-pudss_2x04_p200mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTPUDB8BPUDSS2X4P2VERTICAL > Connector_JST : JST_PUD_B08B-PUDSS_2x04_P2.00mm_Vertical
+# FZKCNJSTJSTPUDB8BPUDSS2X4P2F > Connector_JST : JST_PUD_B08B-PUDSS_2x04_P2.00mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_B08B-PUDSS_2x04_P2.00mm_Vertical
-- Hex ID: FZKCNJSTJSTPUDB8BPUDSS2X4P2VERTICAL
+- Hex ID: FZKCNJSTJSTPUDB8BPUDSS2X4P2F
 - Name: Connector_JST : JST_PUD_B08B-PUDSS_2x04_P2.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PUD_B08B-PUDSS_2x04_P2.00mm_Vertical/
 - Description: Connector_JST : JST_PUD_B08B-PUDSS_2x04_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_B08B-PUDSS_2x04_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_B08B-PUDSS_2x04_P2.00mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJSTJSTPUDB8BPUDSS2X4P2VERTICAL](http://oom.lt/FZKCNJSTJSTPUDB8BPUDSS2X4P2VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTPUDB8BPUDSS2X4P2F](http://oom.lt/FZKCNJSTJSTPUDB8BPUDSS2X4P2F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_PUD_B08B-PUDSS_2x04_P2.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_B08B-PUDSS_2x04_P2.00mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJSTJSTPUDB8BPUDSS2X4P2VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTPUDB8BPUDSS2X4P2F|
 |name|name|Connector_JST : JST_PUD_B08B-PUDSS_2x04_P2.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_PUD_B08B-PUDSS_2x04_P2.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST PUD series connector</td><td> B08B-PUDSS (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/ePUD.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST PUD side entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_PUD_B08B-PUDSS_2x04_P2.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

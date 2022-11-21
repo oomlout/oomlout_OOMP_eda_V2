@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm
 - Hex ID: FZKOPPAPVAQYSS4445X265P127
 - Name: OptoDevice : Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm/
 - Description: OptoDevice : Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKOPPAPVAQYSS4445X265P127](http://oom.lt/FZKOPPAPVAQYSS4445X265P127)

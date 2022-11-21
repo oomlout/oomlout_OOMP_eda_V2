@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-LT4295xUFD
 - Hex ID: SZKREGULATORCONTROLLERLT4295XUFD
 - Name: Regulator_Controller : LT4295xUFD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LT4295xUFD/
 - Description: Regulator_Controller : LT4295xUFD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LT4295xUFD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LT4295xUFD)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERLT4295XUFD](http://oom.lt/SZKREGULATORCONTROLLERLT4295XUFD)

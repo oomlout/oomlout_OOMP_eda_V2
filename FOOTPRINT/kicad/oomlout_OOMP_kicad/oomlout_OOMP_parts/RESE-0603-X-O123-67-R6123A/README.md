@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO12367R6123A > oomlout_OOMP_parts : RESE-0603-X-O123-67-R6123A](#fzkicadoomloutoompkicadoomloutoomppartsrese63xo12367r6123a--oomlout_oomp_parts--rese-0603-x-o123-67-r6123a)
+* [FZOOMPKOOMPPRESE63XO12367R6123A > oomlout_OOMP_parts : RESE-0603-X-O123-67-R6123A](#fzoompkoompprese63xo12367r6123a--oomlout_oomp_parts--rese-0603-x-o123-67-r6123a)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO12367R6123A > oomlout_OOMP_parts : RESE-0603-X-O123-67-R6123A
+# FZOOMPKOOMPPRESE63XO12367R6123A > oomlout_OOMP_parts : RESE-0603-X-O123-67-R6123A
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O123-67-R6123A
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO12367R6123A
+- Hex ID: FZOOMPKOOMPPRESE63XO12367R6123A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O123-67-R6123A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O123-67-R6123A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O123-67-R6123A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O123-67-R6123A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O123-67-R6123A)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO12367R6123A](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO12367R6123A)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO12367R6123A](http://oom.lt/FZOOMPKOOMPPRESE63XO12367R6123A)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0603-X-O123-67-R6123A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O123-67-R6123A|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO12367R6123A|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPRESE63XO12367R6123A|
 |name|name|oomlout_OOMP_parts : RESE-0603-X-O123-67-R6123A|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RESE-0603-X-O123-67-R6123A'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R6123A; Resistor SMD 0603 (1608 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

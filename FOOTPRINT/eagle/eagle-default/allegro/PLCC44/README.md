@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-allegro-PLCC44
 - Hex ID: FZEALLEGROPLCC44
 - Name: allegro : PLCC44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/PLCC44/
 - Description: allegro : PLCC44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-PLCC44](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-PLCC44)
 - Short Link: [http://oom.lt/FZEALLEGROPLCC44](http://oom.lt/FZEALLEGROPLCC44)

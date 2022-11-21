@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPPOTENTIOMETERTTP915N > Potentiometer_THT : Potentiometer_TT_P0915N](#fzkppotentiometerttp915n--potentiometer_tht--potentiometer_tt_p0915n)
+* [FZKPPOTTTP915N > Potentiometer_THT : Potentiometer_TT_P0915N](#fzkppotttp915n--potentiometer_tht--potentiometer_tt_p0915n)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPPOTENTIOMETERTTP915N > Potentiometer_THT : Potentiometer_TT_P0915N
+# FZKPPOTTTP915N > Potentiometer_THT : Potentiometer_TT_P0915N
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_TT_P0915N
-- Hex ID: FZKPPOTENTIOMETERTTP915N
+- Hex ID: FZKPPOTTTP915N
 - Name: Potentiometer_THT : Potentiometer_TT_P0915N
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_TT_P0915N/
 - Description: Potentiometer_THT : Potentiometer_TT_P0915N
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_TT_P0915N](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_TT_P0915N)
-- Short Link: [http://oom.lt/FZKPPOTENTIOMETERTTP915N](http://oom.lt/FZKPPOTENTIOMETERTTP915N)
+- Short Link: [http://oom.lt/FZKPPOTTTP915N](http://oom.lt/FZKPPOTTTP915N)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_THT|
 |OOMP Index|oompIndex|Potentiometer_TT_P0915N|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_TT_P0915N|
-|Hex ID (short code)|hexID|FZKPPOTENTIOMETERTTP915N|
+|Hex ID (short code)|hexID|FZKPPOTTTP915N|
 |name|name|Potentiometer_THT : Potentiometer_TT_P0915N|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_TT_P0915N'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ttelectronics.com/sites/default/files/download-files/Datasheet_PanelPot_P09xSeries.pdf'</td><td> 'tags'</td></tr><tr><td> 'potentiometer vertical TT P0915N single'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_TT_P0915N.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

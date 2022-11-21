@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-351
 - Hex ID: FZERELAY351
 - Name: relay : 351
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/351/
 - Description: relay : 351
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-351](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-351)
 - Short Link: [http://oom.lt/FZERELAY351](http://oom.lt/FZERELAY351)

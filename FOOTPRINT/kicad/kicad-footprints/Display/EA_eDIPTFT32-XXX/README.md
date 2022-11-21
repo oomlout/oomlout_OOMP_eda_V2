@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIEAEDIPTFT32XXX > Display : EA_eDIPTFT32-XXX](#fzkdieaediptft32xxx--display--ea_ediptft32-xxx)
+* [FZKDIEAEDTFT32XXX > Display : EA_eDIPTFT32-XXX](#fzkdieaedtft32xxx--display--ea_ediptft32-xxx)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIEAEDIPTFT32XXX > Display : EA_eDIPTFT32-XXX
+# FZKDIEAEDTFT32XXX > Display : EA_eDIPTFT32-XXX
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIPTFT32-XXX
-- Hex ID: FZKDIEAEDIPTFT32XXX
+- Hex ID: FZKDIEAEDTFT32XXX
 - Name: Display : EA_eDIPTFT32-XXX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIPTFT32-XXX/
 - Description: Display : EA_eDIPTFT32-XXX
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIPTFT32-XXX](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIPTFT32-XXX)
-- Short Link: [http://oom.lt/FZKDIEAEDIPTFT32XXX](http://oom.lt/FZKDIEAEDIPTFT32XXX)
+- Short Link: [http://oom.lt/FZKDIEAEDTFT32XXX](http://oom.lt/FZKDIEAEDTFT32XXX)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Display|
 |OOMP Index|oompIndex|EA_eDIPTFT32-XXX|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIPTFT32-XXX|
-|Hex ID (short code)|hexID|FZKDIEAEDIPTFT32XXX|
+|Hex ID (short code)|hexID|FZKDIEAEDTFT32XXX|
 |name|name|Display : EA_eDIPTFT32-XXX|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'EA_eDIPTFT32-XXX'</td><td> 'description'</td></tr><tr><td> 'TFT-graphic display 320x240 16 bit colour with led backlight http</td></tr><tr><td>//www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft32-ae.pdf'</td><td> 'tags'</td></tr><tr><td> 'TFT-graphic display 320x240 16 bit colour with led backlight'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/EA_eDIPTFT32-XXX.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

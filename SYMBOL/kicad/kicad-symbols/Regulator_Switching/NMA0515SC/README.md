@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGNMA515SC > Regulator_Switching : NMA0515SC](#szkregulatorswitchingnma515sc--regulator_switching--nma0515sc)
+* [SZKREGULATORSWINGNMA515SC > Regulator_Switching : NMA0515SC](#szkregulatorswingnma515sc--regulator_switching--nma0515sc)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGNMA515SC > Regulator_Switching : NMA0515SC
+# SZKREGULATORSWINGNMA515SC > Regulator_Switching : NMA0515SC
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA0515SC
-- Hex ID: SZKREGULATORSWITCHINGNMA515SC
+- Hex ID: SZKREGULATORSWINGNMA515SC
 - Name: Regulator_Switching : NMA0515SC
 - Description: Regulator_Switching : NMA0515SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA0515SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA0515SC)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGNMA515SC](http://oom.lt/SZKREGULATORSWITCHINGNMA515SC)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGNMA515SC](http://oom.lt/SZKREGULATORSWINGNMA515SC)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|NMA0515SC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA0515SC|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGNMA515SC|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGNMA515SC|
 |name|name|Regulator_Switching : NMA0515SC|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NMA0512SC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NMA0515SC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_Murata_NMAxxxxSC_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//power.murata.com/data/power/ncl/kdc_nma.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Murata isolated isolation dc-dc converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '+/-33mA Isolated 1W Dual output DC/DC Converter Module</td><td> 5V Input Voltage</td><td> +/-15V Output Voltage</td><td> SIP3'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*DCDC*Murata*NMAxxxxSC*'</td></tr></table>]|
 ||||

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIPDIP48W1524SO > Package_DIP : DIP-48_W15.24mm_Socket](#fzkdipdip48w1524so--package_dip--dip-48_w1524mm_socket)
+* [FZKDD48W1524SO > Package_DIP : DIP-48_W15.24mm_Socket](#fzkdd48w1524so--package_dip--dip-48_w1524mm_socket)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIPDIP48W1524SO > Package_DIP : DIP-48_W15.24mm_Socket
+# FZKDD48W1524SO > Package_DIP : DIP-48_W15.24mm_Socket
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-48_W15.24mm_Socket
-- Hex ID: FZKDIPDIP48W1524SO
+- Hex ID: FZKDD48W1524SO
 - Name: Package_DIP : DIP-48_W15.24mm_Socket
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-48_W15.24mm_Socket/
 - Description: Package_DIP : DIP-48_W15.24mm_Socket
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-48_W15.24mm_Socket](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-48_W15.24mm_Socket)
-- Short Link: [http://oom.lt/FZKDIPDIP48W1524SO](http://oom.lt/FZKDIPDIP48W1524SO)
+- Short Link: [http://oom.lt/FZKDD48W1524SO](http://oom.lt/FZKDD48W1524SO)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DIP|
 |OOMP Index|oompIndex|DIP-48_W15.24mm_Socket|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-48_W15.24mm_Socket|
-|Hex ID (short code)|hexID|FZKDIPDIP48W1524SO|
+|Hex ID (short code)|hexID|FZKDD48W1524SO|
 |name|name|Package_DIP : DIP-48_W15.24mm_Socket|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-48_W15.24mm_Socket'</td><td> 'description'</td></tr><tr><td> '48-lead though-hole mounted DIP package</td><td> row spacing 15.24 mm (600 mils)</td><td> Socket'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-48_W15.24mm_Socket.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

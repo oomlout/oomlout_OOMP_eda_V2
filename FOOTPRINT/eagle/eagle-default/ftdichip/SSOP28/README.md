@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ftdichip-SSOP28
 - Hex ID: FZEFTDICHIPSS28
 - Name: ftdichip : SSOP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ftdichip/SSOP28/
 - Description: ftdichip : SSOP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ftdichip-SSOP28](http://oom.lt/FOOTPRINT-eagle-eagle-default-ftdichip-SSOP28)
 - Short Link: [http://oom.lt/FZEFTDICHIPSS28](http://oom.lt/FZEFTDICHIPSS28)

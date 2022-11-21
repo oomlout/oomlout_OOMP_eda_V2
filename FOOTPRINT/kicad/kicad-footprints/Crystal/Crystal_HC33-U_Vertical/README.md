@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXXHC33UVERTICAL > Crystal : Crystal_HC33-U_Vertical](#fzkxxhc33uvertical--crystal--crystal_hc33-u_vertical)
+* [FZKXXHC33UF > Crystal : Crystal_HC33-U_Vertical](#fzkxxhc33uf--crystal--crystal_hc33-u_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXHC33UVERTICAL > Crystal : Crystal_HC33-U_Vertical
+# FZKXXHC33UF > Crystal : Crystal_HC33-U_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC33-U_Vertical
-- Hex ID: FZKXXHC33UVERTICAL
+- Hex ID: FZKXXHC33UF
 - Name: Crystal : Crystal_HC33-U_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC33-U_Vertical/
 - Description: Crystal : Crystal_HC33-U_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC33-U_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC33-U_Vertical)
-- Short Link: [http://oom.lt/FZKXXHC33UVERTICAL](http://oom.lt/FZKXXHC33UVERTICAL)
+- Short Link: [http://oom.lt/FZKXXHC33UF](http://oom.lt/FZKXXHC33UF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_HC33-U_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC33-U_Vertical|
-|Hex ID (short code)|hexID|FZKXXHC33UVERTICAL|
+|Hex ID (short code)|hexID|FZKXXHC33UF|
 |name|name|Crystal : Crystal_HC33-U_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_HC33-U_Vertical'</td><td> 'description'</td></tr><tr><td> 'Crystal THT HC-33/U</td><td> http</td></tr><tr><td>//pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf'</td><td> 'tags'</td></tr><tr><td> 'THT crystalHC-33/U'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_HC33-U_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

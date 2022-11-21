@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-PRL1632
 - Hex ID: FZERCLPRL1632
 - Name: rcl : PRL1632
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/PRL1632/
 - Description: rcl : PRL1632
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-PRL1632](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-PRL1632)
 - Short Link: [http://oom.lt/FZERCLPRL1632](http://oom.lt/FZERCLPRL1632)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-68_24.2x24.2mm_P1.27mm
 - Hex ID: FZKLCCPLCC68242X242P127
 - Name: Package_LCC : PLCC-68_24.2x24.2mm_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-68_24.2x24.2mm_P1.27mm/
 - Description: Package_LCC : PLCC-68_24.2x24.2mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-68_24.2x24.2mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-68_24.2x24.2mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKLCCPLCC68242X242P127](http://oom.lt/FZKLCCPLCC68242X242P127)

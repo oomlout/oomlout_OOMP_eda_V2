@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-TEENSY-3.1
 - Hex ID: FZSBOTEENSY31
 - Name: SparkFun-Boards : TEENSY-3.1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/TEENSY-3.1/
 - Description: SparkFun-Boards : TEENSY-3.1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-TEENSY-3.1](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-TEENSY-3.1)
 - Short Link: [http://oom.lt/FZSBOTEENSY31](http://oom.lt/FZSBOTEENSY31)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-harting-v-40V
 - Hex ID: FZECONHARTINGV4V
 - Name: con-harting-v : 40V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-harting-v/40V/
 - Description: con-harting-v : 40V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-v-40V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-v-40V)
 - Short Link: [http://oom.lt/FZECONHARTINGV4V](http://oom.lt/FZECONHARTINGV4V)

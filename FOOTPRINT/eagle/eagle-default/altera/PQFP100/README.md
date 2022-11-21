@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-PQFP100
 - Hex ID: FZEALTERAPQFP1
 - Name: altera : PQFP100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/PQFP100/
 - Description: altera : PQFP100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PQFP100](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PQFP100)
 - Short Link: [http://oom.lt/FZEALTERAPQFP1](http://oom.lt/FZEALTERAPQFP1)

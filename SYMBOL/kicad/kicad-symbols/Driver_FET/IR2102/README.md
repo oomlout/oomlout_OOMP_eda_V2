@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2102
 - Hex ID: SZKDRIVERFETIR212
 - Name: Driver_FET : IR2102
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2102/
 - Description: Driver_FET : IR2102
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2102](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2102)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR212](http://oom.lt/SZKDRIVERFETIR212)

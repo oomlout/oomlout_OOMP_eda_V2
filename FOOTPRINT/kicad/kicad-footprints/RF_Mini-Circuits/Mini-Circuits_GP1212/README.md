@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP1212
 - Hex ID: FZKRFMCIRCUITSGP1212
 - Name: RF_Mini-Circuits : Mini-Circuits_GP1212
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_GP1212/
 - Description: RF_Mini-Circuits : Mini-Circuits_GP1212
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP1212](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP1212)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSGP1212](http://oom.lt/FZKRFMCIRCUITSGP1212)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-npn-SOT89-BCE
 - Hex ID: FZETRANSISTORNPNSOT89BCE
 - Name: transistor-npn : SOT89-BCE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-npn/SOT89-BCE/
 - Description: transistor-npn : SOT89-BCE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-SOT89-BCE](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-SOT89-BCE)
 - Short Link: [http://oom.lt/FZETRANSISTORNPNSOT89BCE](http://oom.lt/FZETRANSISTORNPNSOT89BCE)

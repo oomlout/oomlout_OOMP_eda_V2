@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-L4035M
 - Hex ID: FZERCLL435M
 - Name: rcl : L4035M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/L4035M/
 - Description: rcl : L4035M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L4035M](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L4035M)
 - Short Link: [http://oom.lt/FZERCLL435M](http://oom.lt/FZERCLL435M)

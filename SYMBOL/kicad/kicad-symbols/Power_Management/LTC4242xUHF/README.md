@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4242xUHF
 - Hex ID: SZKPOWERMANAGEMENTLTC4242XUHF
 - Name: Power_Management : LTC4242xUHF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4242xUHF/
 - Description: Power_Management : LTC4242xUHF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4242xUHF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4242xUHF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4242XUHF](http://oom.lt/SZKPOWERMANAGEMENTLTC4242XUHF)

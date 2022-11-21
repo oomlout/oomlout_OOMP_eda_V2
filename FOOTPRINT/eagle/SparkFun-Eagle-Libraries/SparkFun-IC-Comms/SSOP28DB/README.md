@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SSOP28DB
 - Hex ID: FZSICSS28DB
 - Name: SparkFun-IC-Comms : SSOP28DB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Comms/SSOP28DB/
 - Description: SparkFun-IC-Comms : SSOP28DB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SSOP28DB](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SSOP28DB)
 - Short Link: [http://oom.lt/FZSICSS28DB](http://oom.lt/FZSICSS28DB)

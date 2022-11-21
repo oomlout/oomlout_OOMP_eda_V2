@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Interface-SN74LV8153N
 - Hex ID: SZKINTERFACESN74LV8153N
 - Name: Interface : SN74LV8153N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/SN74LV8153N/
 - Description: Interface : SN74LV8153N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN74LV8153N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN74LV8153N)
 - Short Link: [http://oom.lt/SZKINTERFACESN74LV8153N](http://oom.lt/SZKINTERFACESN74LV8153N)

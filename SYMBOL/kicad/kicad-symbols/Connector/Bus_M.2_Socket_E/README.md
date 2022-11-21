@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_E
 - Hex ID: SZKCNBUSM2SOE
 - Name: Connector : Bus_M.2_Socket_E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_M.2_Socket_E/
 - Description: Connector : Bus_M.2_Socket_E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_E)
 - Short Link: [http://oom.lt/SZKCNBUSM2SOE](http://oom.lt/SZKCNBUSM2SOE)

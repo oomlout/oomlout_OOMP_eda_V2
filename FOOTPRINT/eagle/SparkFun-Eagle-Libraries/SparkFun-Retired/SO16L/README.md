@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO16L
 - Hex ID: FZSRTSO16L
 - Name: SparkFun-Retired : SO16L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SO16L/
 - Description: SparkFun-Retired : SO16L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO16L](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO16L)
 - Short Link: [http://oom.lt/FZSRTSO16L](http://oom.lt/FZSRTSO16L)

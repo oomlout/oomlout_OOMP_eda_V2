@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm
 - Hex ID: FZKRELRELAYDPDTAXICOMIMSERIESPITCH58
 - Name: Relay_THT : Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm/
 - Description: Relay_THT : Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm)
 - Short Link: [http://oom.lt/FZKRELRELAYDPDTAXICOMIMSERIESPITCH58](http://oom.lt/FZKRELRELAYDPDTAXICOMIMSERIESPITCH58)

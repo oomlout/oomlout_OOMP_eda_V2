@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO225AA
 - Hex ID: FZETRANSISTORNEUTO92TO225AA
 - Name: transistor-neu-to92 : TO225AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-neu-to92/TO225AA/
 - Description: transistor-neu-to92 : TO225AA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO225AA](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO225AA)
 - Short Link: [http://oom.lt/FZETRANSISTORNEUTO92TO225AA](http://oom.lt/FZETRANSISTORNEUTO92TO225AA)

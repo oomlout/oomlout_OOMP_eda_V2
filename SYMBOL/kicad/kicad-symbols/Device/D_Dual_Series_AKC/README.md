@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_AKC
 - Hex ID: SZKDEVICEDDUALSERIESAKC
 - Name: Device : D_Dual_Series_AKC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Dual_Series_AKC/
 - Description: Device : D_Dual_Series_AKC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_AKC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_AKC)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALSERIESAKC](http://oom.lt/SZKDEVICEDDUALSERIESAKC)

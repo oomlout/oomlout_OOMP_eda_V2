@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-MC6850
 - Hex ID: SZKINTERFACEUARTMC685
 - Name: Interface_UART : MC6850
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/MC6850/
 - Description: Interface_UART : MC6850
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MC6850](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MC6850)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMC685](http://oom.lt/SZKINTERFACEUARTMC685)

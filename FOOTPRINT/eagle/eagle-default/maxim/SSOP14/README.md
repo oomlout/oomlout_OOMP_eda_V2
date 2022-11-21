@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-SSOP14
 - Hex ID: FZEMAXIMSS14
 - Name: maxim : SSOP14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/SSOP14/
 - Description: maxim : SSOP14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SSOP14](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SSOP14)
 - Short Link: [http://oom.lt/FZEMAXIMSS14](http://oom.lt/FZEMAXIMSS14)

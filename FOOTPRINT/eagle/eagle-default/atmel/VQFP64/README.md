@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-VQFP64
 - Hex ID: FZEATMELVQFP64
 - Name: atmel : VQFP64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/VQFP64/
 - Description: atmel : VQFP64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-VQFP64](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-VQFP64)
 - Short Link: [http://oom.lt/FZEATMELVQFP64](http://oom.lt/FZEATMELVQFP64)

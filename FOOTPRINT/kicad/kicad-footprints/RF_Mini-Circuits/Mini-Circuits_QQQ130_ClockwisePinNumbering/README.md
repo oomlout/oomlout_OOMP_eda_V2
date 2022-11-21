@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKRFMCIRCUITSQQQ13CLWISEPINNUMBERING > RF_Mini-Circuits : Mini-Circuits_QQQ130_ClockwisePinNumbering](#fzkrfmcircuitsqqq13clwisepinnumbering--rf_mini-circuits--mini-circuits_qqq130_clockwisepinnumbering)
+* [FZKRFMCIRCUITSQQQ13CLWISEPNUMBERING > RF_Mini-Circuits : Mini-Circuits_QQQ130_ClockwisePinNumbering](#fzkrfmcircuitsqqq13clwisepnumbering--rf_mini-circuits--mini-circuits_qqq130_clockwisepinnumbering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRFMCIRCUITSQQQ13CLWISEPINNUMBERING > RF_Mini-Circuits : Mini-Circuits_QQQ130_ClockwisePinNumbering
+# FZKRFMCIRCUITSQQQ13CLWISEPNUMBERING > RF_Mini-Circuits : Mini-Circuits_QQQ130_ClockwisePinNumbering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_QQQ130_ClockwisePinNumbering
-- Hex ID: FZKRFMCIRCUITSQQQ13CLWISEPINNUMBERING
+- Hex ID: FZKRFMCIRCUITSQQQ13CLWISEPNUMBERING
 - Name: RF_Mini-Circuits : Mini-Circuits_QQQ130_ClockwisePinNumbering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_QQQ130_ClockwisePinNumbering/
 - Description: RF_Mini-Circuits : Mini-Circuits_QQQ130_ClockwisePinNumbering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_QQQ130_ClockwisePinNumbering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_QQQ130_ClockwisePinNumbering)
-- Short Link: [http://oom.lt/FZKRFMCIRCUITSQQQ13CLWISEPINNUMBERING](http://oom.lt/FZKRFMCIRCUITSQQQ13CLWISEPINNUMBERING)
+- Short Link: [http://oom.lt/FZKRFMCIRCUITSQQQ13CLWISEPNUMBERING](http://oom.lt/FZKRFMCIRCUITSQQQ13CLWISEPNUMBERING)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|RF_Mini-Circuits|
 |OOMP Index|oompIndex|Mini-Circuits_QQQ130_ClockwisePinNumbering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_QQQ130_ClockwisePinNumbering|
-|Hex ID (short code)|hexID|FZKRFMCIRCUITSQQQ13CLWISEPINNUMBERING|
+|Hex ID (short code)|hexID|FZKRFMCIRCUITSQQQ13CLWISEPNUMBERING|
 |name|name|RF_Mini-Circuits : Mini-Circuits_QQQ130_ClockwisePinNumbering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mini-Circuits_QQQ130_ClockwisePinNumbering'</td><td> 'description'</td></tr><tr><td> 'Footprint for Mini-Circuits case QQQ130 (https</td></tr><tr><td>//ww2.minicircuits.com/case_style/QQQ130.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Mini-Circuits QQQ130'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Mini-Circuits.3dshapes/Mini-Circuits_QQQ130.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

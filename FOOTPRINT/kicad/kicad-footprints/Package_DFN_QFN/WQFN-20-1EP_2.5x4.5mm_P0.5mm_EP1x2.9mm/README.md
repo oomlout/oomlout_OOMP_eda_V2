@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm
 - Hex ID: FZKDFNWQFN21EP25X45P5EP1X29
 - Name: Package_DFN_QFN : WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm/
 - Description: Package_DFN_QFN : WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm)
 - Short Link: [http://oom.lt/FZKDFNWQFN21EP25X45P5EP1X29](http://oom.lt/FZKDFNWQFN21EP25X45P5EP1X29)

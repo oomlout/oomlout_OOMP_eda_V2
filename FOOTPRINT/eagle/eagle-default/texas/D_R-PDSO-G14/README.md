@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-D_R-PDSO-G14
 - Hex ID: FZETEXASDRPDSOG14
 - Name: texas : D_R-PDSO-G14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/D_R-PDSO-G14/
 - Description: texas : D_R-PDSO-G14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-D_R-PDSO-G14](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-D_R-PDSO-G14)
 - Short Link: [http://oom.lt/FZETEXASDRPDSOG14](http://oom.lt/FZETEXASDRPDSOG14)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TACT_PANA-EVQ
 - Hex ID: FZATACTPANAEVQ
 - Name: adafruit : TACT_PANA-EVQ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TACT_PANA-EVQ/
 - Description: adafruit : TACT_PANA-EVQ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TACT_PANA-EVQ](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TACT_PANA-EVQ)
 - Short Link: [http://oom.lt/FZATACTPANAEVQ](http://oom.lt/FZATACTPANAEVQ)

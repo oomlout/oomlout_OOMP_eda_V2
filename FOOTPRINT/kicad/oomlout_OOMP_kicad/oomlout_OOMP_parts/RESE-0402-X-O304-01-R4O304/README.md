@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO341R4O34 > oomlout_OOMP_parts : RESE-0402-X-O304-01-R4O304](#fzkicadoomloutoompkicadoomloutoomppartsrese42xo341r4o34--oomlout_oomp_parts--rese-0402-x-o304-01-r4o304)
+* [FZOOMPKOOMPPRESE42XO341R4O34 > oomlout_OOMP_parts : RESE-0402-X-O304-01-R4O304](#fzoompkoompprese42xo341r4o34--oomlout_oomp_parts--rese-0402-x-o304-01-r4o304)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO341R4O34 > oomlout_OOMP_parts : RESE-0402-X-O304-01-R4O304
+# FZOOMPKOOMPPRESE42XO341R4O34 > oomlout_OOMP_parts : RESE-0402-X-O304-01-R4O304
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O304-01-R4O304
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO341R4O34
+- Hex ID: FZOOMPKOOMPPRESE42XO341R4O34
 - Name: oomlout_OOMP_parts : RESE-0402-X-O304-01-R4O304
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O304-01-R4O304/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O304-01-R4O304
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O304-01-R4O304](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O304-01-R4O304)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO341R4O34](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO341R4O34)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO341R4O34](http://oom.lt/FZOOMPKOOMPPRESE42XO341R4O34)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0402-X-O304-01-R4O304|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O304-01-R4O304|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO341R4O34|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPRESE42XO341R4O34|
 |name|name|oomlout_OOMP_parts : RESE-0402-X-O304-01-R4O304|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RESE-0402-X-O304-01-R4O304'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4O304;PARTL C-JLCC;C25774;MANUF C-XXXX;0402WGF3003TCE; Resistor SMD 0402 (1005 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

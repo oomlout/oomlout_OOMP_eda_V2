@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-TLV320AIC3100
 - Hex ID: SZKAUDIOTLV32AIC31
 - Name: Audio : TLV320AIC3100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/TLV320AIC3100/
 - Description: Audio : TLV320AIC3100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TLV320AIC3100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TLV320AIC3100)
 - Short Link: [http://oom.lt/SZKAUDIOTLV32AIC31](http://oom.lt/SZKAUDIOTLV32AIC31)

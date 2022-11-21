@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Sipeed-M1
 - Hex ID: SZKMCUMOSIPEEDM1
 - Name: MCU_Module : Sipeed-M1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Sipeed-M1/
 - Description: MCU_Module : Sipeed-M1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Sipeed-M1](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Sipeed-M1)
 - Short Link: [http://oom.lt/SZKMCUMOSIPEEDM1](http://oom.lt/SZKMCUMOSIPEEDM1)

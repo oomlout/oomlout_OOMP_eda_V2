@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-E3,5-8
 - Hex ID: FZERCLE358
 - Name: rcl : E3,5-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/E3,5-8/
 - Description: rcl : E3,5-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E3,5-8](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E3,5-8)
 - Short Link: [http://oom.lt/FZERCLE358](http://oom.lt/FZERCLE358)

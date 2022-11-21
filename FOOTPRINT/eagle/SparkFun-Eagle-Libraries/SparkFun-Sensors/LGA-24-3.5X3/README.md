@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-24-3.5X3
 - Hex ID: FZSSPARKFUNSENSLGA2435X3
 - Name: SparkFun-Sensors : LGA-24-3.5X3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/LGA-24-3.5X3/
 - Description: SparkFun-Sensors : LGA-24-3.5X3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-24-3.5X3](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-24-3.5X3)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSLGA2435X3](http://oom.lt/FZSSPARKFUNSENSLGA2435X3)

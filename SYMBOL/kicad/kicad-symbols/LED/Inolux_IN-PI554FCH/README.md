@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-Inolux_IN-PI554FCH
 - Hex ID: SZKLINOLUXINPI554FCH
 - Name: LED : Inolux_IN-PI554FCH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI554FCH/
 - Description: LED : Inolux_IN-PI554FCH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-Inolux_IN-PI554FCH](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-Inolux_IN-PI554FCH)
 - Short Link: [http://oom.lt/SZKLINOLUXINPI554FCH](http://oom.lt/SZKLINOLUXINPI554FCH)

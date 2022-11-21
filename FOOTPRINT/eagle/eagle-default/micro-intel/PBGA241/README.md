@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-PBGA241
 - Hex ID: FZEMINTELPBGA241
 - Name: micro-intel : PBGA241
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/PBGA241/
 - Description: micro-intel : PBGA241
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PBGA241](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PBGA241)
 - Short Link: [http://oom.lt/FZEMINTELPBGA241](http://oom.lt/FZEMINTELPBGA241)

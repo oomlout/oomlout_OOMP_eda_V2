@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-LEMO4
 - Hex ID: SZKCNLEMO4
 - Name: Connector : LEMO4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/LEMO4/
 - Description: Connector : LEMO4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-LEMO4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-LEMO4)
 - Short Link: [http://oom.lt/SZKCNLEMO4](http://oom.lt/SZKCNLEMO4)

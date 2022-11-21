@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F870-ISP
 - Hex ID: SZKMCUMCHIPPIC16PIC16F87ISP
 - Name: MCU_Microchip_PIC16 : PIC16F870-ISP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F870-ISP/
 - Description: MCU_Microchip_PIC16 : PIC16F870-ISP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F870-ISP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F870-ISP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F87ISP](http://oom.lt/SZKMCUMCHIPPIC16PIC16F87ISP)

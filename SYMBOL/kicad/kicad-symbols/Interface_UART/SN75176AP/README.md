@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-SN75176AP
 - Hex ID: SZKINTERFACEUARTSN75176AP
 - Name: Interface_UART : SN75176AP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/SN75176AP/
 - Description: Interface_UART : SN75176AP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SN75176AP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SN75176AP)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSN75176AP](http://oom.lt/SZKINTERFACEUARTSN75176AP)

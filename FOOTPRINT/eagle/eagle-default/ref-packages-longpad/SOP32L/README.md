@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADS32L > ref-packages-longpad : SOP32L](#fzerefpackageslongpads32l--ref-packages-longpad--sop32l)
+* [FZEREFPSLPS32L > ref-packages-longpad : SOP32L](#fzerefpslps32l--ref-packages-longpad--sop32l)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADS32L > ref-packages-longpad : SOP32L
+# FZEREFPSLPS32L > ref-packages-longpad : SOP32L
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOP32L
-- Hex ID: FZEREFPACKAGESLONGPADS32L
+- Hex ID: FZEREFPSLPS32L
 - Name: ref-packages-longpad : SOP32L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SOP32L/
 - Description: ref-packages-longpad : SOP32L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOP32L](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOP32L)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADS32L](http://oom.lt/FZEREFPACKAGESLONGPADS32L)
+- Short Link: [http://oom.lt/FZEREFPSLPS32L](http://oom.lt/FZEREFPSLPS32L)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SOP32L|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOP32L|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADS32L|
+|Hex ID (short code)|hexID|FZEREFPSLPS32L|
 |name|name|ref-packages-longpad : SOP32L|
 ||||

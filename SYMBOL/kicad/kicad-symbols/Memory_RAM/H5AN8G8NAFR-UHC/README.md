@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-H5AN8G8NAFR-UHC
 - Hex ID: SZKMEMORYRAMH5AN8G8NAFRUHC
 - Name: Memory_RAM : H5AN8G8NAFR-UHC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/H5AN8G8NAFR-UHC/
 - Description: Memory_RAM : H5AN8G8NAFR-UHC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-H5AN8G8NAFR-UHC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-H5AN8G8NAFR-UHC)
 - Short Link: [http://oom.lt/SZKMEMORYRAMH5AN8G8NAFRUHC](http://oom.lt/SZKMEMORYRAMH5AN8G8NAFRUHC)

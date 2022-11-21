@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-P-BGA-416
 - Hex ID: FZEMSIEMENSPBGA416
 - Name: micro-siemens : P-BGA-416
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/P-BGA-416/
 - Description: micro-siemens : P-BGA-416
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-P-BGA-416](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-P-BGA-416)
 - Short Link: [http://oom.lt/FZEMSIEMENSPBGA416](http://oom.lt/FZEMSIEMENSPBGA416)

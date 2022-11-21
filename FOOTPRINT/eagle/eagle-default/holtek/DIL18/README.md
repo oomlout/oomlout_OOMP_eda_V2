@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-holtek-DIL18
 - Hex ID: FZEHOLTEKDIL18
 - Name: holtek : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/holtek/DIL18/
 - Description: holtek : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-holtek-DIL18](http://oom.lt/FOOTPRINT-eagle-eagle-default-holtek-DIL18)
 - Short Link: [http://oom.lt/FZEHOLTEKDIL18](http://oom.lt/FZEHOLTEKDIL18)

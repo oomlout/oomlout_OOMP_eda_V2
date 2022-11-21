@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-8050
 - Hex ID: SZKMCUINTEL85
 - Name: MCU_Intel : 8050
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Intel/8050/
 - Description: MCU_Intel : 8050
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8050](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8050)
 - Short Link: [http://oom.lt/SZKMCUINTEL85](http://oom.lt/SZKMCUINTEL85)

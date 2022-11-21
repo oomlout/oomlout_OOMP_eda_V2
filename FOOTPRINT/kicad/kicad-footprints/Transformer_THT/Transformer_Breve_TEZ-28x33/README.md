@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Breve_TEZ-28x33
 - Hex ID: FZKTRTRBREVETEZ28X33
 - Name: Transformer_THT : Transformer_Breve_TEZ-28x33
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-28x33/
 - Description: Transformer_THT : Transformer_Breve_TEZ-28x33
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Breve_TEZ-28x33](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Breve_TEZ-28x33)
 - Short Link: [http://oom.lt/FZKTRTRBREVETEZ28X33](http://oom.lt/FZKTRTRBREVETEZ28X33)

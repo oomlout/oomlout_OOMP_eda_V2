@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESTO264 > ref-packages : TO264](#fzerefpackagesto264--ref-packages--to264)
+* [FZEREFPSTO264 > ref-packages : TO264](#fzerefpsto264--ref-packages--to264)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESTO264 > ref-packages : TO264
+# FZEREFPSTO264 > ref-packages : TO264
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO264
-- Hex ID: FZEREFPACKAGESTO264
+- Hex ID: FZEREFPSTO264
 - Name: ref-packages : TO264
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/TO264/
 - Description: ref-packages : TO264
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO264](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO264)
-- Short Link: [http://oom.lt/FZEREFPACKAGESTO264](http://oom.lt/FZEREFPACKAGESTO264)
+- Short Link: [http://oom.lt/FZEREFPSTO264](http://oom.lt/FZEREFPSTO264)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|TO264|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-TO264|
-|Hex ID (short code)|hexID|FZEREFPACKAGESTO264|
+|Hex ID (short code)|hexID|FZEREFPSTO264|
 |name|name|ref-packages : TO264|
 ||||

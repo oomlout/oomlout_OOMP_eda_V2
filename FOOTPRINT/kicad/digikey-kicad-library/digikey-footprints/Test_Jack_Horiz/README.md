@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTESTJHORIZ > digikey-footprints : Test_Jack_Horiz](#fzkicaddigikeykicadlibrarydigikeyfootprintstestjhoriz--digikey-footprints--test_jack_horiz)
+* [FZDIGIDIGIKEYFOOTPRINTSTESTJHORIZ > digikey-footprints : Test_Jack_Horiz](#fzdigidigikeyfootprintstestjhoriz--digikey-footprints--test_jack_horiz)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTESTJHORIZ > digikey-footprints : Test_Jack_Horiz
+# FZDIGIDIGIKEYFOOTPRINTSTESTJHORIZ > digikey-footprints : Test_Jack_Horiz
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Jack_Horiz
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTESTJHORIZ
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTESTJHORIZ
 - Name: digikey-footprints : Test_Jack_Horiz
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Test_Jack_Horiz/
 - Description: digikey-footprints : Test_Jack_Horiz
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Jack_Horiz](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Jack_Horiz)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTESTJHORIZ](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTESTJHORIZ)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTESTJHORIZ](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTESTJHORIZ)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Test_Jack_Horiz|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Jack_Horiz|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTESTJHORIZ|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTESTJHORIZ|
 |name|name|digikey-footprints : Test_Jack_Horiz|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Test_Jack_Horiz'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//belfuse.com/resources/Johnson/drawings/dr-1051101001.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

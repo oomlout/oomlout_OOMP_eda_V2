@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSIM_JAE_SF53S006VCBR2000
 - Hex ID: FZKCNCARDMSIMJAESF53S6VCBR2
 - Name: Connector_Card : microSIM_JAE_SF53S006VCBR2000
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSIM_JAE_SF53S006VCBR2000/
 - Description: Connector_Card : microSIM_JAE_SF53S006VCBR2000
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSIM_JAE_SF53S006VCBR2000](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSIM_JAE_SF53S006VCBR2000)
 - Short Link: [http://oom.lt/FZKCNCARDMSIMJAESF53S6VCBR2](http://oom.lt/FZKCNCARDMSIMJAESF53S6VCBR2)

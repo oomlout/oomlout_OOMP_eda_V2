@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-Choke_Schaffner_RN102-1.5-02-1M6
 - Hex ID: SZKFILCHOKESCHAFFNERRN121521M6
 - Name: Filter : Choke_Schaffner_RN102-1.5-02-1M6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/Choke_Schaffner_RN102-1.5-02-1M6/
 - Description: Filter : Choke_Schaffner_RN102-1.5-02-1M6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-Choke_Schaffner_RN102-1.5-02-1M6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-Choke_Schaffner_RN102-1.5-02-1M6)
 - Short Link: [http://oom.lt/SZKFILCHOKESCHAFFNERRN121521M6](http://oom.lt/SZKFILCHOKESCHAFFNERRN121521M6)

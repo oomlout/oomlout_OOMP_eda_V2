@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1703A-5002_SOT223
 - Hex ID: SZKREGULATORLINEARMCP173A52SOT223
 - Name: Regulator_Linear : MCP1703A-5002_SOT223
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1703A-5002_SOT223/
 - Description: Regulator_Linear : MCP1703A-5002_SOT223
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1703A-5002_SOT223](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1703A-5002_SOT223)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP173A52SOT223](http://oom.lt/SZKREGULATORLINEARMCP173A52SOT223)

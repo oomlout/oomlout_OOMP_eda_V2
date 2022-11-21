@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKTPTPPADD25 > TestPoint : TestPoint_Pad_D2.5mm](#fzktptppadd25--testpoint--testpoint_pad_d25mm)
+* [FZKTPTPPD25 > TestPoint : TestPoint_Pad_D2.5mm](#fzktptppd25--testpoint--testpoint_pad_d25mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTPTPPADD25 > TestPoint : TestPoint_Pad_D2.5mm
+# FZKTPTPPD25 > TestPoint : TestPoint_Pad_D2.5mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Pad_D2.5mm
-- Hex ID: FZKTPTPPADD25
+- Hex ID: FZKTPTPPD25
 - Name: TestPoint : TestPoint_Pad_D2.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Pad_D2.5mm/
 - Description: TestPoint : TestPoint_Pad_D2.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Pad_D2.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Pad_D2.5mm)
-- Short Link: [http://oom.lt/FZKTPTPPADD25](http://oom.lt/FZKTPTPPADD25)
+- Short Link: [http://oom.lt/FZKTPTPPD25](http://oom.lt/FZKTPTPPD25)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|TestPoint|
 |OOMP Index|oompIndex|TestPoint_Pad_D2.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Pad_D2.5mm|
-|Hex ID (short code)|hexID|FZKTPTPPADD25|
+|Hex ID (short code)|hexID|FZKTPTPPD25|
 |name|name|TestPoint : TestPoint_Pad_D2.5mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TestPoint_Pad_D2.5mm'</td><td> 'description'</td></tr><tr><td> 'SMD pad as test Point</td><td> diameter 2.5mm'</td><td> 'tags'</td></tr><tr><td> 'test point SMD pad'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

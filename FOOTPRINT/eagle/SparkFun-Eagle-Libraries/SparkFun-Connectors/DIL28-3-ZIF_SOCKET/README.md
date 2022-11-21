@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DIL28-3-ZIF_SOCKET
 - Hex ID: FZSSPARKFUNCNSDIL283ZIFSO
 - Name: SparkFun-Connectors : DIL28-3-ZIF_SOCKET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/DIL28-3-ZIF_SOCKET/
 - Description: SparkFun-Connectors : DIL28-3-ZIF_SOCKET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DIL28-3-ZIF_SOCKET](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DIL28-3-ZIF_SOCKET)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSDIL283ZIFSO](http://oom.lt/FZSSPARKFUNCNSDIL283ZIFSO)

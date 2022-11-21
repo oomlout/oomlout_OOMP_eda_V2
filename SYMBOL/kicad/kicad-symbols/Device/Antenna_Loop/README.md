@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Antenna_Loop
 - Hex ID: SZKDEVICEANTENNALOOP
 - Name: Device : Antenna_Loop
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Antenna_Loop/
 - Description: Device : Antenna_Loop
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Antenna_Loop](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Antenna_Loop)
 - Short Link: [http://oom.lt/SZKDEVICEANTENNALOOP](http://oom.lt/SZKDEVICEANTENNALOOP)

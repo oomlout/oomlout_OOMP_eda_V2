@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002JC
 - Hex ID: SZKOCSSG82JC
 - Name: Oscillator : SG-8002JC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/SG-8002JC/
 - Description: Oscillator : SG-8002JC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002JC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002JC)
 - Short Link: [http://oom.lt/SZKOCSSG82JC](http://oom.lt/SZKOCSSG82JC)

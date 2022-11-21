@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ9563RNX
 - Hex ID: SZKINTERFACEETHERNETKSZ9563RNX
 - Name: Interface_Ethernet : KSZ9563RNX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ9563RNX/
 - Description: Interface_Ethernet : KSZ9563RNX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ9563RNX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ9563RNX)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETKSZ9563RNX](http://oom.lt/SZKINTERFACEETHERNETKSZ9563RNX)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E2,5RE
 - Hex ID: FZAE25RE
 - Name: adafruit : E2,5RE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E2,5RE/
 - Description: adafruit : E2,5RE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E2,5RE](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E2,5RE)
 - Short Link: [http://oom.lt/FZAE25RE](http://oom.lt/FZAE25RE)

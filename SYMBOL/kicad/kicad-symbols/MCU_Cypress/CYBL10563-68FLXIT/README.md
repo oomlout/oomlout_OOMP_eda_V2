@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10563-68FLXIT
 - Hex ID: SZKMCUCYPRESSCYBL156368FLXIT
 - Name: MCU_Cypress : CYBL10563-68FLXIT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CYBL10563-68FLXIT/
 - Description: MCU_Cypress : CYBL10563-68FLXIT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10563-68FLXIT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10563-68FLXIT)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCYBL156368FLXIT](http://oom.lt/SZKMCUCYPRESSCYBL156368FLXIT)

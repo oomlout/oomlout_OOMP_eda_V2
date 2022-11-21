@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TIL111
 - Hex ID: SZKISOLATORTIL111
 - Name: Isolator : TIL111
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TIL111/
 - Description: Isolator : TIL111
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TIL111](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TIL111)
 - Short Link: [http://oom.lt/SZKISOLATORTIL111](http://oom.lt/SZKISOLATORTIL111)

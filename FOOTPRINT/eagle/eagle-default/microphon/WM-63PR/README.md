@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microphon-WM-63PR
 - Hex ID: FZEMPHONWM63PR
 - Name: microphon : WM-63PR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microphon/WM-63PR/
 - Description: microphon : WM-63PR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-WM-63PR](http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-WM-63PR)
 - Short Link: [http://oom.lt/FZEMPHONWM63PR](http://oom.lt/FZEMPHONWM63PR)

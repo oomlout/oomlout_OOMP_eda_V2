@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL28-3-TI
 - Hex ID: FZADIL283TI
 - Name: adafruit : DIL28-3-TI
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/DIL28-3-TI/
 - Description: adafruit : DIL28-3-TI
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL28-3-TI](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL28-3-TI)
 - Short Link: [http://oom.lt/FZADIL283TI](http://oom.lt/FZADIL283TI)

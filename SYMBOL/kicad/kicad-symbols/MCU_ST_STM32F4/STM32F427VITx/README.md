@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F427VITx
 - Hex ID: SZKMCUSTSTM32F4STM32F427VITX
 - Name: MCU_ST_STM32F4 : STM32F427VITx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F427VITx/
 - Description: MCU_ST_STM32F4 : STM32F427VITx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F427VITx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F427VITx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F427VITX](http://oom.lt/SZKMCUSTSTM32F4STM32F427VITX)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-panduit-057-034-1
 - Hex ID: FZECONPANDUIT57341
 - Name: con-panduit : 057-034-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-panduit/057-034-1/
 - Description: con-panduit : 057-034-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-panduit-057-034-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-panduit-057-034-1)
 - Short Link: [http://oom.lt/FZECONPANDUIT57341](http://oom.lt/FZECONPANDUIT57341)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNAUDIOJSPEAKONNEUTRIKNL4MDVRVERTICAL > Connector_Audio : Jack_speakON_Neutrik_NL4MD-V-R_Vertical](#fzkcnaudiojspeakonneutriknl4mdvrvertical--connector_audio--jack_speakon_neutrik_nl4md-v-r_vertical)
+* [FZKCNAUDIOJSPEAKONNEUTRIKNL4MDVRF > Connector_Audio : Jack_speakON_Neutrik_NL4MD-V-R_Vertical](#fzkcnaudiojspeakonneutriknl4mdvrf--connector_audio--jack_speakon_neutrik_nl4md-v-r_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJSPEAKONNEUTRIKNL4MDVRVERTICAL > Connector_Audio : Jack_speakON_Neutrik_NL4MD-V-R_Vertical
+# FZKCNAUDIOJSPEAKONNEUTRIKNL4MDVRF > Connector_Audio : Jack_speakON_Neutrik_NL4MD-V-R_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL4MD-V-R_Vertical
-- Hex ID: FZKCNAUDIOJSPEAKONNEUTRIKNL4MDVRVERTICAL
+- Hex ID: FZKCNAUDIOJSPEAKONNEUTRIKNL4MDVRF
 - Name: Connector_Audio : Jack_speakON_Neutrik_NL4MD-V-R_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_speakON_Neutrik_NL4MD-V-R_Vertical/
 - Description: Connector_Audio : Jack_speakON_Neutrik_NL4MD-V-R_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL4MD-V-R_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL4MD-V-R_Vertical)
-- Short Link: [http://oom.lt/FZKCNAUDIOJSPEAKONNEUTRIKNL4MDVRVERTICAL](http://oom.lt/FZKCNAUDIOJSPEAKONNEUTRIKNL4MDVRVERTICAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJSPEAKONNEUTRIKNL4MDVRF](http://oom.lt/FZKCNAUDIOJSPEAKONNEUTRIKNL4MDVRF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_speakON_Neutrik_NL4MD-V-R_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL4MD-V-R_Vertical|
-|Hex ID (short code)|hexID|FZKCNAUDIOJSPEAKONNEUTRIKNL4MDVRVERTICAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJSPEAKONNEUTRIKNL4MDVRF|
 |name|name|Connector_Audio : Jack_speakON_Neutrik_NL4MD-V-R_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_speakON_Neutrik_NL4MD-V-R_Vertical'</td><td> 'description'</td></tr><tr><td> 'speakON Chassis Connectors</td><td> 4 pole chassis connector</td><td> red D-size flange</td><td> countersunk thru holes</td><td> vertical PCB mount</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nl4md-v-r'</td><td> 'tags'</td></tr><tr><td> 'neutrik speakon'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_speakON_Neutrik_NL4MD-V-R_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

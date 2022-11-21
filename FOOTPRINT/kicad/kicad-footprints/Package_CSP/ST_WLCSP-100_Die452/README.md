@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-100_Die452
 - Hex ID: FZKCSPSTWLCSP1DIE452
 - Name: Package_CSP : ST_WLCSP-100_Die452
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-100_Die452/
 - Description: Package_CSP : ST_WLCSP-100_Die452
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-100_Die452](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-100_Die452)
 - Short Link: [http://oom.lt/FZKCSPSTWLCSP1DIE452](http://oom.lt/FZKCSPSTWLCSP1DIE452)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_KAA
 - Hex ID: SZKDEVICEDKAA
 - Name: Device : D_KAA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_KAA/
 - Description: Device : D_KAA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_KAA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_KAA)
 - Short Link: [http://oom.lt/SZKDEVICEDKAA](http://oom.lt/SZKDEVICEDKAA)

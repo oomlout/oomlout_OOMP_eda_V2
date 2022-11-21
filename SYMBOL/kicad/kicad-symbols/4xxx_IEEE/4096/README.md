@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4096
 - Hex ID: SZK4XXXIEEE496
 - Name: 4xxx_IEEE : 4096
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4096/
 - Description: 4xxx_IEEE : 4096
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4096](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4096)
 - Short Link: [http://oom.lt/SZK4XXXIEEE496](http://oom.lt/SZK4XXXIEEE496)

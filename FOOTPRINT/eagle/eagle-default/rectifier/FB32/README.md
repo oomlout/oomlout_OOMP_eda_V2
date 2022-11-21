@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-FB32
 - Hex ID: FZERECTIFIERFB32
 - Name: rectifier : FB32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/FB32/
 - Description: rectifier : FB32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-FB32](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-FB32)
 - Short Link: [http://oom.lt/FZERECTIFIERFB32](http://oom.lt/FZERECTIFIERFB32)

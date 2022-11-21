@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74LVC3G07
 - Hex ID: SZK74XGXX74LVC3G7
 - Name: 74xGxx : 74LVC3G07
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74LVC3G07/
 - Description: 74xGxx : 74LVC3G07
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74LVC3G07](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74LVC3G07)
 - Short Link: [http://oom.lt/SZK74XGXX74LVC3G7](http://oom.lt/SZK74XGXX74LVC3G7)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADCQFP44 > ref-packages-longpad : CQFP-44](#fzerefpackageslongpadcqfp44--ref-packages-longpad--cqfp-44)
+* [FZEREFPSLPCQFP44 > ref-packages-longpad : CQFP-44](#fzerefpslpcqfp44--ref-packages-longpad--cqfp-44)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADCQFP44 > ref-packages-longpad : CQFP-44
+# FZEREFPSLPCQFP44 > ref-packages-longpad : CQFP-44
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CQFP-44
-- Hex ID: FZEREFPACKAGESLONGPADCQFP44
+- Hex ID: FZEREFPSLPCQFP44
 - Name: ref-packages-longpad : CQFP-44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/CQFP-44/
 - Description: ref-packages-longpad : CQFP-44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CQFP-44](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CQFP-44)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADCQFP44](http://oom.lt/FZEREFPACKAGESLONGPADCQFP44)
+- Short Link: [http://oom.lt/FZEREFPSLPCQFP44](http://oom.lt/FZEREFPSLPCQFP44)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|CQFP-44|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CQFP-44|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADCQFP44|
+|Hex ID (short code)|hexID|FZEREFPSLPCQFP44|
 |name|name|ref-packages-longpad : CQFP-44|
 ||||

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADPD > ref-packages-longpad : PANASONIC_D](#fzerefpackageslongpadpd--ref-packages-longpad--panasonic_d)
+* [FZEREFPSLPPD > ref-packages-longpad : PANASONIC_D](#fzerefpslppd--ref-packages-longpad--panasonic_d)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADPD > ref-packages-longpad : PANASONIC_D
+# FZEREFPSLPPD > ref-packages-longpad : PANASONIC_D
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PANASONIC_D
-- Hex ID: FZEREFPACKAGESLONGPADPD
+- Hex ID: FZEREFPSLPPD
 - Name: ref-packages-longpad : PANASONIC_D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/PANASONIC_D/
 - Description: ref-packages-longpad : PANASONIC_D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PANASONIC_D](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PANASONIC_D)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADPD](http://oom.lt/FZEREFPACKAGESLONGPADPD)
+- Short Link: [http://oom.lt/FZEREFPSLPPD](http://oom.lt/FZEREFPSLPPD)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|PANASONIC_D|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PANASONIC_D|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADPD|
+|Hex ID (short code)|hexID|FZEREFPSLPPD|
 |name|name|ref-packages-longpad : PANASONIC_D|
 ||||

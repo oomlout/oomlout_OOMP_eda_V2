@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_HiLink_HLK-PMxx
 - Hex ID: FZKCONCONHILINKHLKPMXX
 - Name: Converter_ACDC : Converter_ACDC_HiLink_HLK-PMxx
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_HiLink_HLK-PMxx/
 - Description: Converter_ACDC : Converter_ACDC_HiLink_HLK-PMxx
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_HiLink_HLK-PMxx](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_HiLink_HLK-PMxx)
 - Short Link: [http://oom.lt/FZKCONCONHILINKHLKPMXX](http://oom.lt/FZKCONCONHILINKHLKPMXX)

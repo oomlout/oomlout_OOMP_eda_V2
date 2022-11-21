@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-ITS5215
 - Hex ID: SZKPOWERMANAGEMENTITS5215
 - Name: Power_Management : ITS5215
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/ITS5215/
 - Description: Power_Management : ITS5215
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-ITS5215](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-ITS5215)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTITS5215](http://oom.lt/SZKPOWERMANAGEMENTITS5215)

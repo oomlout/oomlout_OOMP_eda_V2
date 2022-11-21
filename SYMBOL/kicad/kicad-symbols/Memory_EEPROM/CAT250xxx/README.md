@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT250xxx
 - Hex ID: SZKMEMORYEEPROMCAT25XXX
 - Name: Memory_EEPROM : CAT250xxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/CAT250xxx/
 - Description: Memory_EEPROM : CAT250xxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT250xxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT250xxx)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMCAT25XXX](http://oom.lt/SZKMEMORYEEPROMCAT25XXX)

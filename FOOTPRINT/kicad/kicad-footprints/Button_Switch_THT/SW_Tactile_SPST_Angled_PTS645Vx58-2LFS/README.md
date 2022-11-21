@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBSWTACTILESPSTANGLPTS645VX582LFS > Button_Switch_THT : SW_Tactile_SPST_Angled_PTS645Vx58-2LFS](#fzkbswtactilespstanglpts645vx582lfs--button_switch_tht--sw_tactile_spst_angled_pts645vx58-2lfs)
+* [FZKBSWTSPSTANGLPTS645VX582LFS > Button_Switch_THT : SW_Tactile_SPST_Angled_PTS645Vx58-2LFS](#fzkbswtspstanglpts645vx582lfs--button_switch_tht--sw_tactile_spst_angled_pts645vx58-2lfs)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWTACTILESPSTANGLPTS645VX582LFS > Button_Switch_THT : SW_Tactile_SPST_Angled_PTS645Vx58-2LFS
+# FZKBSWTSPSTANGLPTS645VX582LFS > Button_Switch_THT : SW_Tactile_SPST_Angled_PTS645Vx58-2LFS
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_SPST_Angled_PTS645Vx58-2LFS
-- Hex ID: FZKBSWTACTILESPSTANGLPTS645VX582LFS
+- Hex ID: FZKBSWTSPSTANGLPTS645VX582LFS
 - Name: Button_Switch_THT : SW_Tactile_SPST_Angled_PTS645Vx58-2LFS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx58-2LFS/
 - Description: Button_Switch_THT : SW_Tactile_SPST_Angled_PTS645Vx58-2LFS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_SPST_Angled_PTS645Vx58-2LFS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_SPST_Angled_PTS645Vx58-2LFS)
-- Short Link: [http://oom.lt/FZKBSWTACTILESPSTANGLPTS645VX582LFS](http://oom.lt/FZKBSWTACTILESPSTANGLPTS645VX582LFS)
+- Short Link: [http://oom.lt/FZKBSWTSPSTANGLPTS645VX582LFS](http://oom.lt/FZKBSWTSPSTANGLPTS645VX582LFS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_THT|
 |OOMP Index|oompIndex|SW_Tactile_SPST_Angled_PTS645Vx58-2LFS|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_SPST_Angled_PTS645Vx58-2LFS|
-|Hex ID (short code)|hexID|FZKBSWTACTILESPSTANGLPTS645VX582LFS|
+|Hex ID (short code)|hexID|FZKBSWTSPSTANGLPTS645VX582LFS|
 |name|name|Button_Switch_THT : SW_Tactile_SPST_Angled_PTS645Vx58-2LFS|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_Tactile_SPST_Angled_PTS645Vx58-2LFS'</td><td> 'description'</td></tr><tr><td> 'tactile switch SPST right angle</td><td> PTS645VL58-2 LFS'</td><td> 'tags'</td></tr><tr><td> 'tactile switch SPST angled PTS645VL58-2 LFS C&K Button'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_Tactile_SPST_Angled_PTS645Vx58-2LFS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

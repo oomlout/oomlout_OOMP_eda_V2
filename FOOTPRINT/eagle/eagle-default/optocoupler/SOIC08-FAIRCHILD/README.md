@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-SOIC08-FAIRCHILD
 - Hex ID: FZEOPTOCOUPLERSOIC8FAIRCHILD
 - Name: optocoupler : SOIC08-FAIRCHILD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/SOIC08-FAIRCHILD/
 - Description: optocoupler : SOIC08-FAIRCHILD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SOIC08-FAIRCHILD](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SOIC08-FAIRCHILD)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERSOIC8FAIRCHILD](http://oom.lt/FZEOPTOCOUPLERSOIC8FAIRCHILD)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNSAMTECSAMTECLSHM12XXXXDVS2X21SHP5VERTICAL > Connector_Samtec : Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical](#fzkcnsamtecsamteclshm12xxxxdvs2x21shp5vertical--connector_samtec--samtec_lshm-120-xxx-x-dv-s_2x20-1sh_p050mm_vertical)
+* [FZKCNSAMTECSAMTECLSHM12XXXXDVS2X21SHP5F > Connector_Samtec : Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical](#fzkcnsamtecsamteclshm12xxxxdvs2x21shp5f--connector_samtec--samtec_lshm-120-xxx-x-dv-s_2x20-1sh_p050mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNSAMTECSAMTECLSHM12XXXXDVS2X21SHP5VERTICAL > Connector_Samtec : Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical
+# FZKCNSAMTECSAMTECLSHM12XXXXDVS2X21SHP5F > Connector_Samtec : Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical
-- Hex ID: FZKCNSAMTECSAMTECLSHM12XXXXDVS2X21SHP5VERTICAL
+- Hex ID: FZKCNSAMTECSAMTECLSHM12XXXXDVS2X21SHP5F
 - Name: Connector_Samtec : Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical/
 - Description: Connector_Samtec : Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNSAMTECSAMTECLSHM12XXXXDVS2X21SHP5VERTICAL](http://oom.lt/FZKCNSAMTECSAMTECLSHM12XXXXDVS2X21SHP5VERTICAL)
+- Short Link: [http://oom.lt/FZKCNSAMTECSAMTECLSHM12XXXXDVS2X21SHP5F](http://oom.lt/FZKCNSAMTECSAMTECLSHM12XXXXDVS2X21SHP5F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Samtec|
 |OOMP Index|oompIndex|Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNSAMTECSAMTECLSHM12XXXXDVS2X21SHP5VERTICAL|
+|Hex ID (short code)|hexID|FZKCNSAMTECSAMTECLSHM12XXXXDVS2X21SHP5F|
 |name|name|Connector_Samtec : Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex LSHM 0.50 mm Razor Beam High-Speed Hermaphroditic Terminal/Socket Strip</td><td> LSHM-120-xx.x-x-DV-S</td><td> 20 Pins per row (http</td></tr><tr><td>//suddendocs.samtec.com/prints/lshm-1xx-xx.x-x-dv-a-x-x-tr-footprint.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Samtec  side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Samtec.3dshapes/Samtec_LSHM-120-xx.x-x-DV-S_2x20-1SH_P0.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

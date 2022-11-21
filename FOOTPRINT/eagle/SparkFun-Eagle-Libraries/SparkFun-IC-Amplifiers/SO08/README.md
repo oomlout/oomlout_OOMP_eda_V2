@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SO08
 - Hex ID: FZSIASO8
 - Name: SparkFun-IC-Amplifiers : SO08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Amplifiers/SO08/
 - Description: SparkFun-IC-Amplifiers : SO08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SO08](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SO08)
 - Short Link: [http://oom.lt/FZSIASO8](http://oom.lt/FZSIASO8)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm
 - Hex ID: FZKBGABGA115635X35LAYOUT34X34P1
 - Name: Package_BGA : BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm/
 - Description: Package_BGA : BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm)
 - Short Link: [http://oom.lt/FZKBGABGA115635X35LAYOUT34X34P1](http://oom.lt/FZKBGABGA115635X35LAYOUT34X34P1)

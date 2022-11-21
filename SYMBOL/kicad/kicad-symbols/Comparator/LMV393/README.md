@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LMV393
 - Hex ID: SZKCOMPARATORLMV393
 - Name: Comparator : LMV393
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LMV393/
 - Description: Comparator : LMV393
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV393](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV393)
 - Short Link: [http://oom.lt/SZKCOMPARATORLMV393](http://oom.lt/SZKCOMPARATORLMV393)

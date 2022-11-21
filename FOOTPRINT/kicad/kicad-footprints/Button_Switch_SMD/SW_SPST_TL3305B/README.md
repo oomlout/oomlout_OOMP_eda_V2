@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBSWITCHSMSWSPSTTL335B > Button_Switch_SMD : SW_SPST_TL3305B](#fzkbswitchsmswspsttl335b--button_switch_smd--sw_spst_tl3305b)
+* [FZKBSWSPSTTL335B > Button_Switch_SMD : SW_SPST_TL3305B](#fzkbswspsttl335b--button_switch_smd--sw_spst_tl3305b)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWITCHSMSWSPSTTL335B > Button_Switch_SMD : SW_SPST_TL3305B
+# FZKBSWSPSTTL335B > Button_Switch_SMD : SW_SPST_TL3305B
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_TL3305B
-- Hex ID: FZKBSWITCHSMSWSPSTTL335B
+- Hex ID: FZKBSWSPSTTL335B
 - Name: Button_Switch_SMD : SW_SPST_TL3305B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_TL3305B/
 - Description: Button_Switch_SMD : SW_SPST_TL3305B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_TL3305B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_TL3305B)
-- Short Link: [http://oom.lt/FZKBSWITCHSMSWSPSTTL335B](http://oom.lt/FZKBSWITCHSMSWSPSTTL335B)
+- Short Link: [http://oom.lt/FZKBSWSPSTTL335B](http://oom.lt/FZKBSWSPSTTL335B)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_SMD|
 |OOMP Index|oompIndex|SW_SPST_TL3305B|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_TL3305B|
-|Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTTL335B|
+|Hex ID (short code)|hexID|FZKBSWSPSTTL335B|
 |name|name|Button_Switch_SMD : SW_SPST_TL3305B|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPST_TL3305B'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf'</td><td> 'tags'</td></tr><tr><td> 'TL3305 Series Tact Switch'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPST_TL3305B.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

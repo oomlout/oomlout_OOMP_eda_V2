@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXXC38LFD3L8VERTICAL > Crystal : Crystal_C38-LF_D3.0mm_L8.0mm_Vertical](#fzkxxc38lfd3l8vertical--crystal--crystal_c38-lf_d30mm_l80mm_vertical)
+* [FZKXXC38LFD3L8F > Crystal : Crystal_C38-LF_D3.0mm_L8.0mm_Vertical](#fzkxxc38lfd3l8f--crystal--crystal_c38-lf_d30mm_l80mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXC38LFD3L8VERTICAL > Crystal : Crystal_C38-LF_D3.0mm_L8.0mm_Vertical
+# FZKXXC38LFD3L8F > Crystal : Crystal_C38-LF_D3.0mm_L8.0mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C38-LF_D3.0mm_L8.0mm_Vertical
-- Hex ID: FZKXXC38LFD3L8VERTICAL
+- Hex ID: FZKXXC38LFD3L8F
 - Name: Crystal : Crystal_C38-LF_D3.0mm_L8.0mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_C38-LF_D3.0mm_L8.0mm_Vertical/
 - Description: Crystal : Crystal_C38-LF_D3.0mm_L8.0mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C38-LF_D3.0mm_L8.0mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C38-LF_D3.0mm_L8.0mm_Vertical)
-- Short Link: [http://oom.lt/FZKXXC38LFD3L8VERTICAL](http://oom.lt/FZKXXC38LFD3L8VERTICAL)
+- Short Link: [http://oom.lt/FZKXXC38LFD3L8F](http://oom.lt/FZKXXC38LFD3L8F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_C38-LF_D3.0mm_L8.0mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C38-LF_D3.0mm_L8.0mm_Vertical|
-|Hex ID (short code)|hexID|FZKXXC38LFD3L8VERTICAL|
+|Hex ID (short code)|hexID|FZKXXC38LFD3L8F|
 |name|name|Crystal : Crystal_C38-LF_D3.0mm_L8.0mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_C38-LF_D3.0mm_L8.0mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Crystal THT C38-LF 8.0mm length 3.0mm diameter'</td><td> 'tags'</td></tr><tr><td> "['C38-LF']"</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_C38-LF_D3.0mm_L8.0mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

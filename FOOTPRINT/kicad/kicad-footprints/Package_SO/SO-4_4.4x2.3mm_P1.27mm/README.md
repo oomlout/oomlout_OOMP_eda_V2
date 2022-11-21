@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-4_4.4x2.3mm_P1.27mm
 - Hex ID: FZKSOSO444X23P127
 - Name: Package_SO : SO-4_4.4x2.3mm_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SO-4_4.4x2.3mm_P1.27mm/
 - Description: Package_SO : SO-4_4.4x2.3mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-4_4.4x2.3mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-4_4.4x2.3mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKSOSO444X23P127](http://oom.lt/FZKSOSO444X23P127)

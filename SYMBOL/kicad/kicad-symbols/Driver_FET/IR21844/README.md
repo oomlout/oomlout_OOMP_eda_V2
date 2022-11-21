@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR21844
 - Hex ID: SZKDRIVERFETIR21844
 - Name: Driver_FET : IR21844
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR21844/
 - Description: Driver_FET : IR21844
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR21844](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR21844)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR21844](http://oom.lt/SZKDRIVERFETIR21844)

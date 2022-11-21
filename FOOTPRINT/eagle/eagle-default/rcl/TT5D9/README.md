@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-TT5D9
 - Hex ID: FZERCLTT5D9
 - Name: rcl : TT5D9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/TT5D9/
 - Description: rcl : TT5D9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TT5D9](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TT5D9)
 - Short Link: [http://oom.lt/FZERCLTT5D9](http://oom.lt/FZERCLTT5D9)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-pspice-CAP
 - Hex ID: SZKPSPICECAP
 - Name: pspice : CAP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/pspice/CAP/
 - Description: pspice : CAP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-CAP](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-CAP)
 - Short Link: [http://oom.lt/SZKPSPICECAP](http://oom.lt/SZKPSPICECAP)

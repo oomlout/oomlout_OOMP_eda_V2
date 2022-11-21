@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOP24
 - Hex ID: FZESMIPCS24
 - Name: smd-ipc : SOP24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOP24/
 - Description: smd-ipc : SOP24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP24](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP24)
 - Short Link: [http://oom.lt/FZESMIPCS24](http://oom.lt/FZESMIPCS24)

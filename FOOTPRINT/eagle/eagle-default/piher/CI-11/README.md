@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-piher-CI-11
 - Hex ID: FZEPIHERCI11
 - Name: piher : CI-11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/piher/CI-11/
 - Description: piher : CI-11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-piher-CI-11](http://oom.lt/FOOTPRINT-eagle-eagle-default-piher-CI-11)
 - Short Link: [http://oom.lt/FZEPIHERCI11](http://oom.lt/FZEPIHERCI11)

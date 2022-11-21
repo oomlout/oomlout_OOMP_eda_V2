@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1.5KExxCA
 - Hex ID: SZKDIODE15KEXXCA
 - Name: Diode : 1.5KExxCA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1.5KExxCA/
 - Description: Diode : 1.5KExxCA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1.5KExxCA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1.5KExxCA)
 - Short Link: [http://oom.lt/SZKDIODE15KEXXCA](http://oom.lt/SZKDIODE15KEXXCA)

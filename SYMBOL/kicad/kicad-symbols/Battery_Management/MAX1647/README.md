@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-MAX1647
 - Hex ID: SZKBATMANAGEMENTMAX1647
 - Name: Battery_Management : MAX1647
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX1647/
 - Description: Battery_Management : MAX1647
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX1647](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX1647)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMAX1647](http://oom.lt/SZKBATMANAGEMENTMAX1647)

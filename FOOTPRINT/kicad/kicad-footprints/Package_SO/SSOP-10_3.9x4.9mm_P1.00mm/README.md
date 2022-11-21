@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-10_3.9x4.9mm_P1.00mm
 - Hex ID: FZKSOSS139X49P1
 - Name: Package_SO : SSOP-10_3.9x4.9mm_P1.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-10_3.9x4.9mm_P1.00mm/
 - Description: Package_SO : SSOP-10_3.9x4.9mm_P1.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-10_3.9x4.9mm_P1.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-10_3.9x4.9mm_P1.00mm)
 - Short Link: [http://oom.lt/FZKSOSS139X49P1](http://oom.lt/FZKSOSS139X49P1)

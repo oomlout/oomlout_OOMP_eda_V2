@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC7578xRGE
 - Hex ID: SZKANALOGDACDAC7578XRGE
 - Name: Analog_DAC : DAC7578xRGE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC7578xRGE/
 - Description: Analog_DAC : DAC7578xRGE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC7578xRGE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC7578xRGE)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC7578XRGE](http://oom.lt/SZKANALOGDACDAC7578XRGE)

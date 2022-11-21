@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSOT54BA > ref-packages-longpad : SOT54BA](#fzerefpackageslongpadsot54ba--ref-packages-longpad--sot54ba)
+* [FZEREFPSLPSOT54BA > ref-packages-longpad : SOT54BA](#fzerefpslpsot54ba--ref-packages-longpad--sot54ba)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSOT54BA > ref-packages-longpad : SOT54BA
+# FZEREFPSLPSOT54BA > ref-packages-longpad : SOT54BA
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT54BA
-- Hex ID: FZEREFPACKAGESLONGPADSOT54BA
+- Hex ID: FZEREFPSLPSOT54BA
 - Name: ref-packages-longpad : SOT54BA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SOT54BA/
 - Description: ref-packages-longpad : SOT54BA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT54BA](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT54BA)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSOT54BA](http://oom.lt/FZEREFPACKAGESLONGPADSOT54BA)
+- Short Link: [http://oom.lt/FZEREFPSLPSOT54BA](http://oom.lt/FZEREFPSLPSOT54BA)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SOT54BA|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT54BA|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSOT54BA|
+|Hex ID (short code)|hexID|FZEREFPSLPSOT54BA|
 |name|name|ref-packages-longpad : SOT54BA|
 ||||

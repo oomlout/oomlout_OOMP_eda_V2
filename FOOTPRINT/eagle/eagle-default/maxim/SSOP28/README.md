@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-SSOP28
 - Hex ID: FZEMAXIMSS28
 - Name: maxim : SSOP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/SSOP28/
 - Description: maxim : SSOP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SSOP28](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SSOP28)
 - Short Link: [http://oom.lt/FZEMAXIMSS28](http://oom.lt/FZEMAXIMSS28)

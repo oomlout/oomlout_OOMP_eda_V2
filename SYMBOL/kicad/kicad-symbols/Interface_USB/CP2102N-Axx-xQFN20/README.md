@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-CP2102N-Axx-xQFN20
 - Hex ID: SZKINTERFACEUCP212NAXXXQFN2
 - Name: Interface_USB : CP2102N-Axx-xQFN20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CP2102N-Axx-xQFN20/
 - Description: Interface_USB : CP2102N-Axx-xQFN20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CP2102N-Axx-xQFN20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CP2102N-Axx-xQFN20)
 - Short Link: [http://oom.lt/SZKINTERFACEUCP212NAXXXQFN2](http://oom.lt/SZKINTERFACEUCP212NAXXXQFN2)

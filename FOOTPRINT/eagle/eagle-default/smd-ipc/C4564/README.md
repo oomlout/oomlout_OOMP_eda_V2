@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-C4564
 - Hex ID: FZESMIPCC4564
 - Name: smd-ipc : C4564
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/C4564/
 - Description: smd-ipc : C4564
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-C4564](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-C4564)
 - Short Link: [http://oom.lt/FZESMIPCC4564](http://oom.lt/FZESMIPCC4564)

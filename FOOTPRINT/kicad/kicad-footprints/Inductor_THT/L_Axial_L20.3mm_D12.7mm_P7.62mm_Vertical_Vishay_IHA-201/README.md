@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINLAXIALL23D127P762VERTICALVISHAYIHA21 > Inductor_THT : L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201](#fzkinlaxiall23d127p762verticalvishayiha21--inductor_tht--l_axial_l203mm_d127mm_p762mm_vertical_vishay_iha-201)
+* [FZKINLAXIALL23D127P762FVISHAYIHA21 > Inductor_THT : L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201](#fzkinlaxiall23d127p762fvishayiha21--inductor_tht--l_axial_l203mm_d127mm_p762mm_vertical_vishay_iha-201)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINLAXIALL23D127P762VERTICALVISHAYIHA21 > Inductor_THT : L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201
+# FZKINLAXIALL23D127P762FVISHAYIHA21 > Inductor_THT : L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201
-- Hex ID: FZKINLAXIALL23D127P762VERTICALVISHAYIHA21
+- Hex ID: FZKINLAXIALL23D127P762FVISHAYIHA21
 - Name: Inductor_THT : L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201/
 - Description: Inductor_THT : L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201)
-- Short Link: [http://oom.lt/FZKINLAXIALL23D127P762VERTICALVISHAYIHA21](http://oom.lt/FZKINLAXIALL23D127P762VERTICALVISHAYIHA21)
+- Short Link: [http://oom.lt/FZKINLAXIALL23D127P762FVISHAYIHA21](http://oom.lt/FZKINLAXIALL23D127P762FVISHAYIHA21)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_THT|
 |OOMP Index|oompIndex|L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201|
-|Hex ID (short code)|hexID|FZKINLAXIALL23D127P762VERTICALVISHAYIHA21|
+|Hex ID (short code)|hexID|FZKINLAXIALL23D127P762FVISHAYIHA21|
 |name|name|Inductor_THT : L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Axial series</td><td> Axial</td><td> Vertical</td><td> pin pitch=7.62mm</td><td> </td><td> length*diameter=20.32*12.7mm^2</td><td> Vishay</td><td> IHA-201</td><td> http</td></tr><tr><td>//www.vishay.com/docs/34014/iha.pdf'</td><td> 'tags'</td></tr><tr><td> 'Inductor Axial series Axial Vertical pin pitch 7.62mm  length 20.32mm diameter 12.7mm Vishay IHA-201'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

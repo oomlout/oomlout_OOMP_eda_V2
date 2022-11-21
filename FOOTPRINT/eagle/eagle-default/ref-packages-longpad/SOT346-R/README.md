@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSOT346R > ref-packages-longpad : SOT346-R](#fzerefpackageslongpadsot346r--ref-packages-longpad--sot346-r)
+* [FZEREFPSLPSOT346R > ref-packages-longpad : SOT346-R](#fzerefpslpsot346r--ref-packages-longpad--sot346-r)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSOT346R > ref-packages-longpad : SOT346-R
+# FZEREFPSLPSOT346R > ref-packages-longpad : SOT346-R
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT346-R
-- Hex ID: FZEREFPACKAGESLONGPADSOT346R
+- Hex ID: FZEREFPSLPSOT346R
 - Name: ref-packages-longpad : SOT346-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SOT346-R/
 - Description: ref-packages-longpad : SOT346-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT346-R](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT346-R)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSOT346R](http://oom.lt/FZEREFPACKAGESLONGPADSOT346R)
+- Short Link: [http://oom.lt/FZEREFPSLPSOT346R](http://oom.lt/FZEREFPSLPSOT346R)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SOT346-R|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT346-R|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSOT346R|
+|Hex ID (short code)|hexID|FZEREFPSLPSOT346R|
 |name|name|ref-packages-longpad : SOT346-R|
 ||||

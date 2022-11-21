@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-DBZ_R-PDSO-G3
 - Hex ID: FZETEXASDBZRPDSOG3
 - Name: texas : DBZ_R-PDSO-G3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/DBZ_R-PDSO-G3/
 - Description: texas : DBZ_R-PDSO-G3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DBZ_R-PDSO-G3](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DBZ_R-PDSO-G3)
 - Short Link: [http://oom.lt/FZETEXASDBZRPDSOG3](http://oom.lt/FZETEXASDBZRPDSOG3)

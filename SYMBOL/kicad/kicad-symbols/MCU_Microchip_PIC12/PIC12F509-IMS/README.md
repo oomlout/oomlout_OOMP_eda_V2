@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F509-IMS
 - Hex ID: SZKMCUMCHIPPIC12PIC12F59IMS
 - Name: MCU_Microchip_PIC12 : PIC12F509-IMS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12F509-IMS/
 - Description: MCU_Microchip_PIC12 : PIC12F509-IMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F509-IMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F509-IMS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12F59IMS](http://oom.lt/SZKMCUMCHIPPIC12PIC12F59IMS)

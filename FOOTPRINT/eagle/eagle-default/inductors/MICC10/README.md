@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSMICC1 > inductors : MICC10](#fzeinductorsmicc1--inductors--micc10)
+* [FZEINSMICC1 > inductors : MICC10](#fzeinsmicc1--inductors--micc10)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSMICC1 > inductors : MICC10
+# FZEINSMICC1 > inductors : MICC10
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-MICC10
-- Hex ID: FZEINDUCTORSMICC1
+- Hex ID: FZEINSMICC1
 - Name: inductors : MICC10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/MICC10/
 - Description: inductors : MICC10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-MICC10](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-MICC10)
-- Short Link: [http://oom.lt/FZEINDUCTORSMICC1](http://oom.lt/FZEINDUCTORSMICC1)
+- Short Link: [http://oom.lt/FZEINSMICC1](http://oom.lt/FZEINSMICC1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|MICC10|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-MICC10|
-|Hex ID (short code)|hexID|FZEINDUCTORSMICC1|
+|Hex ID (short code)|hexID|FZEINSMICC1|
 |name|name|inductors : MICC10|
 ||||

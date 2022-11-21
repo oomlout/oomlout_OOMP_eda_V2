@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Dialog-DA14695
 - Hex ID: SZKMCUDIALOGDA14695
 - Name: MCU_Dialog : DA14695
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Dialog/DA14695/
 - Description: MCU_Dialog : DA14695
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Dialog-DA14695](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Dialog-DA14695)
 - Short Link: [http://oom.lt/SZKMCUDIALOGDA14695](http://oom.lt/SZKMCUDIALOGDA14695)

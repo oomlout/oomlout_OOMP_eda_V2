@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE519-IP
 - Hex ID: SZKMCUMCHIPPIC12PIC12CE519IP
 - Name: MCU_Microchip_PIC12 : PIC12CE519-IP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12CE519-IP/
 - Description: MCU_Microchip_PIC12 : PIC12CE519-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE519-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE519-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12CE519IP](http://oom.lt/SZKMCUMCHIPPIC12PIC12CE519IP)

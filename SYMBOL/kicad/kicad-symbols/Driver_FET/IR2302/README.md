@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2302
 - Hex ID: SZKDRIVERFETIR232
 - Name: Driver_FET : IR2302
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2302/
 - Description: Driver_FET : IR2302
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2302](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2302)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR232](http://oom.lt/SZKDRIVERFETIR232)

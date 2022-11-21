@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKRELAYSMRELAYDPDTOMRONG6SK2F > Relay_SMD : Relay_DPDT_Omron_G6SK-2F](#fzkrelaysmrelaydpdtomrong6sk2f--relay_smd--relay_dpdt_omron_g6sk-2f)
+* [FZKRELRELAYDPDTOMRONG6SK2F > Relay_SMD : Relay_DPDT_Omron_G6SK-2F](#fzkrelrelaydpdtomrong6sk2f--relay_smd--relay_dpdt_omron_g6sk-2f)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRELAYSMRELAYDPDTOMRONG6SK2F > Relay_SMD : Relay_DPDT_Omron_G6SK-2F
+# FZKRELRELAYDPDTOMRONG6SK2F > Relay_SMD : Relay_DPDT_Omron_G6SK-2F
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6SK-2F
-- Hex ID: FZKRELAYSMRELAYDPDTOMRONG6SK2F
+- Hex ID: FZKRELRELAYDPDTOMRONG6SK2F
 - Name: Relay_SMD : Relay_DPDT_Omron_G6SK-2F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6SK-2F/
 - Description: Relay_SMD : Relay_DPDT_Omron_G6SK-2F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6SK-2F](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6SK-2F)
-- Short Link: [http://oom.lt/FZKRELAYSMRELAYDPDTOMRONG6SK2F](http://oom.lt/FZKRELAYSMRELAYDPDTOMRONG6SK2F)
+- Short Link: [http://oom.lt/FZKRELRELAYDPDTOMRONG6SK2F](http://oom.lt/FZKRELRELAYDPDTOMRONG6SK2F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Relay_SMD|
 |OOMP Index|oompIndex|Relay_DPDT_Omron_G6SK-2F|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6SK-2F|
-|Hex ID (short code)|hexID|FZKRELAYSMRELAYDPDTOMRONG6SK2F|
+|Hex ID (short code)|hexID|FZKRELRELAYDPDTOMRONG6SK2F|
 |name|name|Relay_SMD : Relay_DPDT_Omron_G6SK-2F|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_DPDT_Omron_G6SK-2F'</td><td> 'description'</td></tr><tr><td> 'Relay Omron G6SK-2F</td><td> see http</td></tr><tr><td>//omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf'</td><td> 'tags'</td></tr><tr><td> 'Relay Omron G6SK-2F'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_SMD.3dshapes/Relay_DPDT_Omron_G6SK-2F.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

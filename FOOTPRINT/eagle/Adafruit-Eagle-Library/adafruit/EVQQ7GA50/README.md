@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EVQQ7GA50
 - Hex ID: FZAEVQQ7GA5
 - Name: adafruit : EVQQ7GA50
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/EVQQ7GA50/
 - Description: adafruit : EVQQ7GA50
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EVQQ7GA50](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EVQQ7GA50)
 - Short Link: [http://oom.lt/FZAEVQQ7GA5](http://oom.lt/FZAEVQQ7GA5)

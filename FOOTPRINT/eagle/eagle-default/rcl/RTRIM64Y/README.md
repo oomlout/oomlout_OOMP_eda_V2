@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIM64Y
 - Hex ID: FZERCLRTRIM64Y
 - Name: rcl : RTRIM64Y
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/RTRIM64Y/
 - Description: rcl : RTRIM64Y
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM64Y](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM64Y)
 - Short Link: [http://oom.lt/FZERCLRTRIM64Y](http://oom.lt/FZERCLRTRIM64Y)

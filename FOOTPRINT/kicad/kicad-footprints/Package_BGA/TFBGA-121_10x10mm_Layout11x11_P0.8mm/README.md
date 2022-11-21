@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-TFBGA-121_10x10mm_Layout11x11_P0.8mm
 - Hex ID: FZKBGATFBGA1211X1LAYOUT11X11P8
 - Name: Package_BGA : TFBGA-121_10x10mm_Layout11x11_P0.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-121_10x10mm_Layout11x11_P0.8mm/
 - Description: Package_BGA : TFBGA-121_10x10mm_Layout11x11_P0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-TFBGA-121_10x10mm_Layout11x11_P0.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-TFBGA-121_10x10mm_Layout11x11_P0.8mm)
 - Short Link: [http://oom.lt/FZKBGATFBGA1211X1LAYOUT11X11P8](http://oom.lt/FZKBGATFBGA1211X1LAYOUT11X11P8)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNQFN561EP8X8P5EP45X52THERMALVIASTOPTENTED > Package_DFN_QFN : QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented](#fzkdfnqfn561ep8x8p5ep45x52thermalviastoptented--package_dfn_qfn--qfn-56-1ep_8x8mm_p05mm_ep45x52mm_thermalvias_toptented)
+* [FZKDFNQFN561EP8X8P5EP45X52THVTOPTENTED > Package_DFN_QFN : QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented](#fzkdfnqfn561ep8x8p5ep45x52thvtoptented--package_dfn_qfn--qfn-56-1ep_8x8mm_p05mm_ep45x52mm_thermalvias_toptented)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNQFN561EP8X8P5EP45X52THERMALVIASTOPTENTED > Package_DFN_QFN : QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented
+# FZKDFNQFN561EP8X8P5EP45X52THVTOPTENTED > Package_DFN_QFN : QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented
-- Hex ID: FZKDFNQFN561EP8X8P5EP45X52THERMALVIASTOPTENTED
+- Hex ID: FZKDFNQFN561EP8X8P5EP45X52THVTOPTENTED
 - Name: Package_DFN_QFN : QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented/
 - Description: Package_DFN_QFN : QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented)
-- Short Link: [http://oom.lt/FZKDFNQFN561EP8X8P5EP45X52THERMALVIASTOPTENTED](http://oom.lt/FZKDFNQFN561EP8X8P5EP45X52THERMALVIASTOPTENTED)
+- Short Link: [http://oom.lt/FZKDFNQFN561EP8X8P5EP45X52THVTOPTENTED](http://oom.lt/FZKDFNQFN561EP8X8P5EP45X52THVTOPTENTED)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented|
-|Hex ID (short code)|hexID|FZKDFNQFN561EP8X8P5EP45X52THERMALVIASTOPTENTED|
+|Hex ID (short code)|hexID|FZKDFNQFN561EP8X8P5EP45X52THVTOPTENTED|
 |name|name|Package_DFN_QFN : QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 56 Pin top tented version (manually modified). For information see</td></tr><tr><td> http</td></tr><tr><td>//www.cypress.com/file/138911/download'</td><td> 'tags'</td></tr><tr><td> 'QFN DFN_QFN'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||

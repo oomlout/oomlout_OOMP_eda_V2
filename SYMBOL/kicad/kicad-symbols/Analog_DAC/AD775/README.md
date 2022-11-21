@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD775
 - Hex ID: SZKANALOGDACAD775
 - Name: Analog_DAC : AD775
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD775/
 - Description: Analog_DAC : AD775
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD775](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD775)
 - Short Link: [http://oom.lt/SZKANALOGDACAD775](http://oom.lt/SZKANALOGDACAD775)

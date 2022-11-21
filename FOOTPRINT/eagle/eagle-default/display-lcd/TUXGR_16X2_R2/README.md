@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-TUXGR_16X2_R2
 - Hex ID: FZEDILCDTUXGR16X2R2
 - Name: display-lcd : TUXGR_16X2_R2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-lcd/TUXGR_16X2_R2/
 - Description: display-lcd : TUXGR_16X2_R2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-TUXGR_16X2_R2](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-TUXGR_16X2_R2)
 - Short Link: [http://oom.lt/FZEDILCDTUXGR16X2R2](http://oom.lt/FZEDILCDTUXGR16X2R2)

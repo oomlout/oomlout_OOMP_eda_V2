@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2014-2.85VxCTTR
 - Hex ID: SZKREGULATORLINEARTC214285VXCTTR
 - Name: Regulator_Linear : TC2014-2.85VxCTTR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC2014-2.85VxCTTR/
 - Description: Regulator_Linear : TC2014-2.85VxCTTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2014-2.85VxCTTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2014-2.85VxCTTR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC214285VXCTTR](http://oom.lt/SZKREGULATORLINEARTC214285VXCTTR)

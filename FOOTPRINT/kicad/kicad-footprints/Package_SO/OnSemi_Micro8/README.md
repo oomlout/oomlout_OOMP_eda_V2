@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-OnSemi_Micro8
 - Hex ID: FZKSOONSEMIM8
 - Name: Package_SO : OnSemi_Micro8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/OnSemi_Micro8/
 - Description: Package_SO : OnSemi_Micro8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-OnSemi_Micro8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-OnSemi_Micro8)
 - Short Link: [http://oom.lt/FZKSOONSEMIM8](http://oom.lt/FZKSOONSEMIM8)

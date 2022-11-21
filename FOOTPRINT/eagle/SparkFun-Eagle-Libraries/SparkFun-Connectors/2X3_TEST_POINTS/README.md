@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X3_TEST_POINTS
 - Hex ID: FZSSPARKFUNCNS2X3TESTPOINTS
 - Name: SparkFun-Connectors : 2X3_TEST_POINTS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/2X3_TEST_POINTS/
 - Description: SparkFun-Connectors : 2X3_TEST_POINTS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X3_TEST_POINTS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X3_TEST_POINTS)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS2X3TESTPOINTS](http://oom.lt/FZSSPARKFUNCNS2X3TESTPOINTS)

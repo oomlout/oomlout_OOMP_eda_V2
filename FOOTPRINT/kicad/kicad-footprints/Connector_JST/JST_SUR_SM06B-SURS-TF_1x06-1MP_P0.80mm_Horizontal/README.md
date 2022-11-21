@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNJSTJSTSURSM6BSURSTF1X61MPP8HORIZONTAL > Connector_JST : JST_SUR_SM06B-SURS-TF_1x06-1MP_P0.80mm_Horizontal](#fzkcnjstjstsursm6bsurstf1x61mpp8horizontal--connector_jst--jst_sur_sm06b-surs-tf_1x06-1mp_p080mm_horizontal)
+* [FZKCNJSTJSTSURSM6BSURSTF1X61MPP8H > Connector_JST : JST_SUR_SM06B-SURS-TF_1x06-1MP_P0.80mm_Horizontal](#fzkcnjstjstsursm6bsurstf1x61mpp8h--connector_jst--jst_sur_sm06b-surs-tf_1x06-1mp_p080mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTSURSM6BSURSTF1X61MPP8HORIZONTAL > Connector_JST : JST_SUR_SM06B-SURS-TF_1x06-1MP_P0.80mm_Horizontal
+# FZKCNJSTJSTSURSM6BSURSTF1X61MPP8H > Connector_JST : JST_SUR_SM06B-SURS-TF_1x06-1MP_P0.80mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_SM06B-SURS-TF_1x06-1MP_P0.80mm_Horizontal
-- Hex ID: FZKCNJSTJSTSURSM6BSURSTF1X61MPP8HORIZONTAL
+- Hex ID: FZKCNJSTJSTSURSM6BSURSTF1X61MPP8H
 - Name: Connector_JST : JST_SUR_SM06B-SURS-TF_1x06-1MP_P0.80mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM06B-SURS-TF_1x06-1MP_P0.80mm_Horizontal/
 - Description: Connector_JST : JST_SUR_SM06B-SURS-TF_1x06-1MP_P0.80mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_SM06B-SURS-TF_1x06-1MP_P0.80mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_SM06B-SURS-TF_1x06-1MP_P0.80mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNJSTJSTSURSM6BSURSTF1X61MPP8HORIZONTAL](http://oom.lt/FZKCNJSTJSTSURSM6BSURSTF1X61MPP8HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTSURSM6BSURSTF1X61MPP8H](http://oom.lt/FZKCNJSTJSTSURSM6BSURSTF1X61MPP8H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_SUR_SM06B-SURS-TF_1x06-1MP_P0.80mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_SM06B-SURS-TF_1x06-1MP_P0.80mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNJSTJSTSURSM6BSURSTF1X61MPP8HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTSURSM6BSURSTF1X61MPP8H|
 |name|name|Connector_JST : JST_SUR_SM06B-SURS-TF_1x06-1MP_P0.80mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_SUR_SM06B-SURS-TF_1x06-1MP_P0.80mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'JST SUR series connector</td><td> SM06B-SURS-TF (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eSUR.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST SUR top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_SUR_SM06B-SURS-TF_1x06-1MP_P0.80mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

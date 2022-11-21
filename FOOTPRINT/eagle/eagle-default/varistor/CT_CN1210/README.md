@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-CT_CN1210
 - Hex ID: FZEVCTCN121
 - Name: varistor : CT_CN1210
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/CT_CN1210/
 - Description: varistor : CT_CN1210
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-CT_CN1210](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-CT_CN1210)
 - Short Link: [http://oom.lt/FZEVCTCN121](http://oom.lt/FZEVCTCN121)

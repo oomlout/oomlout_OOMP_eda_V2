@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2500DRC
 - Hex ID: SZKINTERFACEUTPS25DRC
 - Name: Interface_USB : TPS2500DRC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/TPS2500DRC/
 - Description: Interface_USB : TPS2500DRC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2500DRC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2500DRC)
 - Short Link: [http://oom.lt/SZKINTERFACEUTPS25DRC](http://oom.lt/SZKINTERFACEUTPS25DRC)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNEOSIDTL21 > inductor-neosid : TL21](#fzeinductorneosidtl21--inductor-neosid--tl21)
+* [FZEINNEOSIDTL21 > inductor-neosid : TL21](#fzeinneosidtl21--inductor-neosid--tl21)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNEOSIDTL21 > inductor-neosid : TL21
+# FZEINNEOSIDTL21 > inductor-neosid : TL21
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-TL21
-- Hex ID: FZEINDUCTORNEOSIDTL21
+- Hex ID: FZEINNEOSIDTL21
 - Name: inductor-neosid : TL21
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-neosid/TL21/
 - Description: inductor-neosid : TL21
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-TL21](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-TL21)
-- Short Link: [http://oom.lt/FZEINDUCTORNEOSIDTL21](http://oom.lt/FZEINDUCTORNEOSIDTL21)
+- Short Link: [http://oom.lt/FZEINNEOSIDTL21](http://oom.lt/FZEINNEOSIDTL21)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-neosid|
 |OOMP Index|oompIndex|TL21|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-neosid-TL21|
-|Hex ID (short code)|hexID|FZEINDUCTORNEOSIDTL21|
+|Hex ID (short code)|hexID|FZEINNEOSIDTL21|
 |name|name|inductor-neosid : TL21|
 ||||

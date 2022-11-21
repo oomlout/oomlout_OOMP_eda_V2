@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amphenol-B0080002
 - Hex ID: FZECONAMPHENOLB82
 - Name: con-amphenol : B0080002
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amphenol/B0080002/
 - Description: con-amphenol : B0080002
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amphenol-B0080002](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amphenol-B0080002)
 - Short Link: [http://oom.lt/FZECONAMPHENOLB82](http://oom.lt/FZECONAMPHENOLB82)

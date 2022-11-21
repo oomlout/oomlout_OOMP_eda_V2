@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirose-DF9-31S
 - Hex ID: FZECONHIROSEDF931S
 - Name: con-hirose : DF9-31S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirose/DF9-31S/
 - Description: con-hirose : DF9-31S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-DF9-31S](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-DF9-31S)
 - Short Link: [http://oom.lt/FZECONHIROSEDF931S](http://oom.lt/FZECONHIROSEDF931S)

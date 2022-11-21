@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F302R8Tx
 - Hex ID: SZKMCUSTSTM32F3STM32F32R8TX
 - Name: MCU_ST_STM32F3 : STM32F302R8Tx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F302R8Tx/
 - Description: MCU_ST_STM32F3 : STM32F302R8Tx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F302R8Tx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F302R8Tx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F3STM32F32R8TX](http://oom.lt/SZKMCUSTSTM32F3STM32F32R8TX)

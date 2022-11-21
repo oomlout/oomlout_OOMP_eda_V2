@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG40T10ER
 - Hex ID: SZKDIODEPMEG4T1ER
 - Name: Diode : PMEG40T10ER
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG40T10ER/
 - Description: Diode : PMEG40T10ER
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG40T10ER](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG40T10ER)
 - Short Link: [http://oom.lt/SZKDIODEPMEG4T1ER](http://oom.lt/SZKDIODEPMEG4T1ER)

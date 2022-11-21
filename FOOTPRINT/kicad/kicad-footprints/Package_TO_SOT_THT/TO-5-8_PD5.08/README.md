@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-5-8_PD5.08
 - Hex ID: FZKSOTTO58PD58
 - Name: Package_TO_SOT_THT : TO-5-8_PD5.08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-5-8_PD5.08/
 - Description: Package_TO_SOT_THT : TO-5-8_PD5.08
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-5-8_PD5.08](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-5-8_PD5.08)
 - Short Link: [http://oom.lt/FZKSOTTO58PD58](http://oom.lt/FZKSOTTO58PD58)

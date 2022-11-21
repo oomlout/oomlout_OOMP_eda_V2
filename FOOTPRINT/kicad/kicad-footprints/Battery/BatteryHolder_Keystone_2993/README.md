@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBATBATHOLDERKEYSTONE2993 > Battery : BatteryHolder_Keystone_2993](#fzkbatbatholderkeystone2993--battery--batteryholder_keystone_2993)
+* [FZKBATBATHKEYSTONE2993 > Battery : BatteryHolder_Keystone_2993](#fzkbatbathkeystone2993--battery--batteryholder_keystone_2993)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBATBATHOLDERKEYSTONE2993 > Battery : BatteryHolder_Keystone_2993
+# FZKBATBATHKEYSTONE2993 > Battery : BatteryHolder_Keystone_2993
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2993
-- Hex ID: FZKBATBATHOLDERKEYSTONE2993
+- Hex ID: FZKBATBATHKEYSTONE2993
 - Name: Battery : BatteryHolder_Keystone_2993
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2993/
 - Description: Battery : BatteryHolder_Keystone_2993
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2993](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2993)
-- Short Link: [http://oom.lt/FZKBATBATHOLDERKEYSTONE2993](http://oom.lt/FZKBATBATHOLDERKEYSTONE2993)
+- Short Link: [http://oom.lt/FZKBATBATHKEYSTONE2993](http://oom.lt/FZKBATBATHKEYSTONE2993)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Battery|
 |OOMP Index|oompIndex|BatteryHolder_Keystone_2993|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2993|
-|Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE2993|
+|Hex ID (short code)|hexID|FZKBATBATHKEYSTONE2993|
 |name|name|Battery : BatteryHolder_Keystone_2993|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_Keystone_2993'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.keyelco.com/product-pdf.cfm?p=776'</td><td> 'tags'</td></tr><tr><td> 'Keystone type 2993 negative battery contact'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_Keystone_2993.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

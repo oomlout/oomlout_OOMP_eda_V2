@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-MC34673
 - Hex ID: SZKBATMANAGEMENTMC34673
 - Name: Battery_Management : MC34673
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/MC34673/
 - Description: Battery_Management : MC34673
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MC34673](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MC34673)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMC34673](http://oom.lt/SZKBATMANAGEMENTMC34673)

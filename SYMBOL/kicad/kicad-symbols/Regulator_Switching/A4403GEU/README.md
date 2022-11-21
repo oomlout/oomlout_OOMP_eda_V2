@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGA443GEU > Regulator_Switching : A4403GEU](#szkregulatorswitchinga443geu--regulator_switching--a4403geu)
+* [SZKREGULATORSWINGA443GEU > Regulator_Switching : A4403GEU](#szkregulatorswinga443geu--regulator_switching--a4403geu)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGA443GEU > Regulator_Switching : A4403GEU
+# SZKREGULATORSWINGA443GEU > Regulator_Switching : A4403GEU
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-A4403GEU
-- Hex ID: SZKREGULATORSWITCHINGA443GEU
+- Hex ID: SZKREGULATORSWINGA443GEU
 - Name: Regulator_Switching : A4403GEU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/A4403GEU/
 - Description: Regulator_Switching : A4403GEU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-A4403GEU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-A4403GEU)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGA443GEU](http://oom.lt/SZKREGULATORSWITCHINGA443GEU)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGA443GEU](http://oom.lt/SZKREGULATORSWINGA443GEU)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|A4403GEU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-A4403GEU|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGA443GEU|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGA443GEU|
 |name|name|Regulator_Switching : A4403GEU|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'A4403GEU'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.allegromicro.com/~/media/Files/Datasheets/A4403-Datasheet.ashx'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'buck regulator adjustable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Valley current mode buck converter</td><td> 46V</td><td> 3A</td><td> up to 2MHz</td><td> QFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.65mm*EP2.7x2.7mm*'</td></tr></table>]|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5907MFX-3.1
 - Hex ID: SZKREGULATORLINEARLP597MFX31
 - Name: Regulator_Linear : LP5907MFX-3.1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP5907MFX-3.1/
 - Description: Regulator_Linear : LP5907MFX-3.1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5907MFX-3.1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5907MFX-3.1)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP597MFX31](http://oom.lt/SZKREGULATORLINEARLP597MFX31)

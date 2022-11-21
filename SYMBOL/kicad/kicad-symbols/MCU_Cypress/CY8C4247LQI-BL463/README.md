@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4247LQI-BL463
 - Hex ID: SZKMCUCYPRESSCY8C4247LQIBL463
 - Name: MCU_Cypress : CY8C4247LQI-BL463
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4247LQI-BL463/
 - Description: MCU_Cypress : CY8C4247LQI-BL463
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4247LQI-BL463](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4247LQI-BL463)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY8C4247LQIBL463](http://oom.lt/SZKMCUCYPRESSCY8C4247LQIBL463)

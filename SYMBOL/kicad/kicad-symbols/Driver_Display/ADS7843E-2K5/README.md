@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Display-ADS7843E-2K5
 - Hex ID: SZKDRIVERDIADS7843E2K5
 - Name: Driver_Display : ADS7843E-2K5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Display/ADS7843E-2K5/
 - Description: Driver_Display : ADS7843E-2K5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-ADS7843E-2K5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-ADS7843E-2K5)
 - Short Link: [http://oom.lt/SZKDRIVERDIADS7843E2K5](http://oom.lt/SZKDRIVERDIADS7843E2K5)

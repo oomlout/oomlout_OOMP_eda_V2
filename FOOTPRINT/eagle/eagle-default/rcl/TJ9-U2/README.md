@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-TJ9-U2
 - Hex ID: FZERCLTJ9U2
 - Name: rcl : TJ9-U2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/TJ9-U2/
 - Description: rcl : TJ9-U2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TJ9-U2](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TJ9-U2)
 - Short Link: [http://oom.lt/FZERCLTJ9U2](http://oom.lt/FZERCLTJ9U2)

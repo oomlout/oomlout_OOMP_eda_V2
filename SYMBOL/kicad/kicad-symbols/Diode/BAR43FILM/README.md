@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAR43FILM
 - Hex ID: SZKDIODEBAR43FILM
 - Name: Diode : BAR43FILM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAR43FILM/
 - Description: Diode : BAR43FILM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAR43FILM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAR43FILM)
 - Short Link: [http://oom.lt/SZKDIODEBAR43FILM](http://oom.lt/SZKDIODEBAR43FILM)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8801RTY
 - Hex ID: SZKDRIVERMOTORDRV881RTY
 - Name: Driver_Motor : DRV8801RTY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8801RTY/
 - Description: Driver_Motor : DRV8801RTY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8801RTY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8801RTY)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV881RTY](http://oom.lt/SZKDRIVERMOTORDRV881RTY)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ST485EBDR
 - Hex ID: SZKINTERFACEUARTST485EBDR
 - Name: Interface_UART : ST485EBDR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ST485EBDR/
 - Description: Interface_UART : ST485EBDR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ST485EBDR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ST485EBDR)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTST485EBDR](http://oom.lt/SZKINTERFACEUARTST485EBDR)

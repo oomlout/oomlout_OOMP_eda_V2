@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-GP3906-TLP
 - Hex ID: FZSGGP396TLP
 - Name: SparkFun-GPS : GP3906-TLP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/GP3906-TLP/
 - Description: SparkFun-GPS : GP3906-TLP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-GP3906-TLP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-GP3906-TLP)
 - Short Link: [http://oom.lt/FZSGGP396TLP](http://oom.lt/FZSGGP396TLP)

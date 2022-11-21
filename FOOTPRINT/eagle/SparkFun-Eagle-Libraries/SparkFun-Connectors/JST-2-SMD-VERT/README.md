@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-2-SMD-VERT
 - Hex ID: FZSSPARKFUNCNSJST2SMVERT
 - Name: SparkFun-Connectors : JST-2-SMD-VERT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/JST-2-SMD-VERT/
 - Description: SparkFun-Connectors : JST-2-SMD-VERT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-2-SMD-VERT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-2-SMD-VERT)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSJST2SMVERT](http://oom.lt/FZSSPARKFUNCNSJST2SMVERT)

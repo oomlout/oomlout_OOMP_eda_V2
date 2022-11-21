@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSRPOTSWITCHP > SparkFun-Resistors : POT-SWITCH-PTH](#fzsrpotswitchp--sparkfun-resistors--pot-switch-pth)
+* [FZSRPOTSWP > SparkFun-Resistors : POT-SWITCH-PTH](#fzsrpotswp--sparkfun-resistors--pot-switch-pth)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSRPOTSWITCHP > SparkFun-Resistors : POT-SWITCH-PTH
+# FZSRPOTSWP > SparkFun-Resistors : POT-SWITCH-PTH
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-SWITCH-PTH
-- Hex ID: FZSRPOTSWITCHP
+- Hex ID: FZSRPOTSWP
 - Name: SparkFun-Resistors : POT-SWITCH-PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/POT-SWITCH-PTH/
 - Description: SparkFun-Resistors : POT-SWITCH-PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-SWITCH-PTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-SWITCH-PTH)
-- Short Link: [http://oom.lt/FZSRPOTSWITCHP](http://oom.lt/FZSRPOTSWITCHP)
+- Short Link: [http://oom.lt/FZSRPOTSWP](http://oom.lt/FZSRPOTSWP)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Resistors|
 |OOMP Index|oompIndex|POT-SWITCH-PTH|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-SWITCH-PTH|
-|Hex ID (short code)|hexID|FZSRPOTSWITCHP|
+|Hex ID (short code)|hexID|FZSRPOTSWP|
 |name|name|SparkFun-Resistors : POT-SWITCH-PTH|
 ||||

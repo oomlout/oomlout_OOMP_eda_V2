@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-MMYML
 - Hex ID: SZKREGULATORLINEARMIC5356YML
 - Name: Regulator_Linear : MIC5356-MMYML
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5356-MMYML/
 - Description: Regulator_Linear : MIC5356-MMYML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-MMYML](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-MMYML)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC5356YML](http://oom.lt/SZKREGULATORLINEARMIC5356YML)

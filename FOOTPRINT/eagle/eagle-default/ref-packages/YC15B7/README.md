@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESYC15B7 > ref-packages : YC15B7](#fzerefpackagesyc15b7--ref-packages--yc15b7)
+* [FZEREFPSYC15B7 > ref-packages : YC15B7](#fzerefpsyc15b7--ref-packages--yc15b7)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESYC15B7 > ref-packages : YC15B7
+# FZEREFPSYC15B7 > ref-packages : YC15B7
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-YC15B7
-- Hex ID: FZEREFPACKAGESYC15B7
+- Hex ID: FZEREFPSYC15B7
 - Name: ref-packages : YC15B7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/YC15B7/
 - Description: ref-packages : YC15B7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-YC15B7](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-YC15B7)
-- Short Link: [http://oom.lt/FZEREFPACKAGESYC15B7](http://oom.lt/FZEREFPACKAGESYC15B7)
+- Short Link: [http://oom.lt/FZEREFPSYC15B7](http://oom.lt/FZEREFPSYC15B7)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|YC15B7|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-YC15B7|
-|Hex ID (short code)|hexID|FZEREFPACKAGESYC15B7|
+|Hex ID (short code)|hexID|FZEREFPSYC15B7|
 |name|name|ref-packages : YC15B7|
 ||||

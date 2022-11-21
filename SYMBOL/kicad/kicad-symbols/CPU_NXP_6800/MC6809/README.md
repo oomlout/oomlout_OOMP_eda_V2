@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC6809
 - Hex ID: SZKCPUNXP68MC689
 - Name: CPU_NXP_6800 : MC6809
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC6809/
 - Description: CPU_NXP_6800 : MC6809
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC6809](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC6809)
 - Short Link: [http://oom.lt/SZKCPUNXP68MC689](http://oom.lt/SZKCPUNXP68MC689)

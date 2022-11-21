@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1014IDGS
 - Hex ID: SZKANALOGADCADS114IDGS
 - Name: Analog_ADC : ADS1014IDGS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1014IDGS/
 - Description: Analog_ADC : ADS1014IDGS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1014IDGS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1014IDGS)
 - Short Link: [http://oom.lt/SZKANALOGADCADS114IDGS](http://oom.lt/SZKANALOGADCADS114IDGS)

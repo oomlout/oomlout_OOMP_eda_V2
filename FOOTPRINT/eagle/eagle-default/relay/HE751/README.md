@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-HE751
 - Hex ID: FZERELAYHE751
 - Name: relay : HE751
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/HE751/
 - Description: relay : HE751
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-HE751](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-HE751)
 - Short Link: [http://oom.lt/FZERELAYHE751](http://oom.lt/FZERELAYHE751)

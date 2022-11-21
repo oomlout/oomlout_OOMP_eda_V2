@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-on-semiconductor-SOT23
 - Hex ID: FZEONSEMICONDUCTORSOT23
 - Name: on-semiconductor : SOT23
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/on-semiconductor/SOT23/
 - Description: on-semiconductor : SOT23
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-SOT23](http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-SOT23)
 - Short Link: [http://oom.lt/FZEONSEMICONDUCTORSOT23](http://oom.lt/FZEONSEMICONDUCTORSOT23)

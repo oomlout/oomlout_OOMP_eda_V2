@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MSOP8
 - Hex ID: FZSRTMS8
 - Name: SparkFun-Retired : MSOP8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/MSOP8/
 - Description: SparkFun-Retired : MSOP8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MSOP8](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MSOP8)
 - Short Link: [http://oom.lt/FZSRTMS8](http://oom.lt/FZSRTMS8)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-silabs-MLP28
 - Hex ID: FZESILABSMLP28
 - Name: silabs : MLP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/silabs/MLP28/
 - Description: silabs : MLP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-silabs-MLP28](http://oom.lt/FOOTPRINT-eagle-eagle-default-silabs-MLP28)
 - Short Link: [http://oom.lt/FZESILABSMLP28](http://oom.lt/FZESILABSMLP28)

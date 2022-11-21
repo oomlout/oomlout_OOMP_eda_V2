@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B45181D
 - Hex ID: FZAB45181D
 - Name: adafruit : B45181D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/B45181D/
 - Description: adafruit : B45181D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B45181D](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B45181D)
 - Short Link: [http://oom.lt/FZAB45181D](http://oom.lt/FZAB45181D)

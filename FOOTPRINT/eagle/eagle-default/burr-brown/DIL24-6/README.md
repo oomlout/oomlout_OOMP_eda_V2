@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBURRBROWNDIL246 > burr-brown : DIL24-6](#fzeburrbrowndil246--burr-brown--dil24-6)
+* [FZEBURRBRNDIL246 > burr-brown : DIL24-6](#fzeburrbrndil246--burr-brown--dil24-6)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBURRBROWNDIL246 > burr-brown : DIL24-6
+# FZEBURRBRNDIL246 > burr-brown : DIL24-6
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-DIL24-6
-- Hex ID: FZEBURRBROWNDIL246
+- Hex ID: FZEBURRBRNDIL246
 - Name: burr-brown : DIL24-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/burr-brown/DIL24-6/
 - Description: burr-brown : DIL24-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-DIL24-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-DIL24-6)
-- Short Link: [http://oom.lt/FZEBURRBROWNDIL246](http://oom.lt/FZEBURRBROWNDIL246)
+- Short Link: [http://oom.lt/FZEBURRBRNDIL246](http://oom.lt/FZEBURRBRNDIL246)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|burr-brown|
 |OOMP Index|oompIndex|DIL24-6|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-burr-brown-DIL24-6|
-|Hex ID (short code)|hexID|FZEBURRBROWNDIL246|
+|Hex ID (short code)|hexID|FZEBURRBRNDIL246|
 |name|name|burr-brown : DIL24-6|
 ||||
 

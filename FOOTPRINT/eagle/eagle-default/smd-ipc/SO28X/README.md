@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SO28X
 - Hex ID: FZESMIPCSO28X
 - Name: smd-ipc : SO28X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SO28X/
 - Description: smd-ipc : SO28X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SO28X](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SO28X)
 - Short Link: [http://oom.lt/FZESMIPCSO28X](http://oom.lt/FZESMIPCSO28X)

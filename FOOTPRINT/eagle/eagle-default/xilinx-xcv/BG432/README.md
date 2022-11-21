@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-BG432
 - Hex ID: FZEXILINXXCVBG432
 - Name: xilinx-xcv : BG432
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/BG432/
 - Description: xilinx-xcv : BG432
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-BG432](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-BG432)
 - Short Link: [http://oom.lt/FZEXILINXXCVBG432](http://oom.lt/FZEXILINXXCVBG432)

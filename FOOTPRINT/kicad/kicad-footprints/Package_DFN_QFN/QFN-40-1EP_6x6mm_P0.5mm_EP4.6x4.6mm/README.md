@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm
 - Hex ID: FZKDFNQFN41EP6X6P5EP46X46
 - Name: Package_DFN_QFN : QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm/
 - Description: Package_DFN_QFN : QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm)
 - Short Link: [http://oom.lt/FZKDFNQFN41EP6X6P5EP46X46](http://oom.lt/FZKDFNQFN41EP6X6P5EP46X46)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_HJR-4102
 - Hex ID: FZKRELRELAYSPDTHJR412
 - Name: Relay_THT : Relay_SPDT_HJR-4102
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPDT_HJR-4102/
 - Description: Relay_THT : Relay_SPDT_HJR-4102
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_HJR-4102](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_HJR-4102)
 - Short Link: [http://oom.lt/FZKRELRELAYSPDTHJR412](http://oom.lt/FZKRELRELAYSPDTHJR412)

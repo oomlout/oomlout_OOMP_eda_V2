@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-LTC-4627JR
 - Hex ID: SZKDICHARACTERLTC4627JR
 - Name: Display_Character : LTC-4627JR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/LTC-4627JR/
 - Description: Display_Character : LTC-4627JR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTC-4627JR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTC-4627JR)
 - Short Link: [http://oom.lt/SZKDICHARACTERLTC4627JR](http://oom.lt/SZKDICHARACTERLTC4627JR)

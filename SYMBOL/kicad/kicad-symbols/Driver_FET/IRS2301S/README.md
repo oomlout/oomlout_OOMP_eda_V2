@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2301S
 - Hex ID: SZKDRIVERFETIRS231S
 - Name: Driver_FET : IRS2301S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS2301S/
 - Description: Driver_FET : IRS2301S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2301S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2301S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS231S](http://oom.lt/SZKDRIVERFETIRS231S)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-on-semiconductor-DIL8
 - Hex ID: FZEONSEMICONDUCTORDIL8
 - Name: on-semiconductor : DIL8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/on-semiconductor/DIL8/
 - Description: on-semiconductor : DIL8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-DIL8](http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-DIL8)
 - Short Link: [http://oom.lt/FZEONSEMICONDUCTORDIL8](http://oom.lt/FZEONSEMICONDUCTORDIL8)

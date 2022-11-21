@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-QTE-040
 - Hex ID: FZECONSAMTECQTE4
 - Name: con-samtec : QTE-040
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/QTE-040/
 - Description: con-samtec : QTE-040
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-QTE-040](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-QTE-040)
 - Short Link: [http://oom.lt/FZECONSAMTECQTE4](http://oom.lt/FZECONSAMTECQTE4)

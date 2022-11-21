@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-MCP14A1201xMNY
 - Hex ID: SZKDRIVERFETMCP14A121XMNY
 - Name: Driver_FET : MCP14A1201xMNY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/MCP14A1201xMNY/
 - Description: Driver_FET : MCP14A1201xMNY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP14A1201xMNY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP14A1201xMNY)
 - Short Link: [http://oom.lt/SZKDRIVERFETMCP14A121XMNY](http://oom.lt/SZKDRIVERFETMCP14A121XMNY)

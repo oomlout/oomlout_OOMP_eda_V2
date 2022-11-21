@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny26L-8S
 - Hex ID: SZKMCUMCHIPATTINYATTINY26L8S
 - Name: MCU_Microchip_ATtiny : ATtiny26L-8S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny26L-8S/
 - Description: MCU_Microchip_ATtiny : ATtiny26L-8S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny26L-8S](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny26L-8S)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY26L8S](http://oom.lt/SZKMCUMCHIPATTINYATTINY26L8S)

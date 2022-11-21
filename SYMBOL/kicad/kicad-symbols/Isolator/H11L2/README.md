@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-H11L2
 - Hex ID: SZKISOLATORH11L2
 - Name: Isolator : H11L2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/H11L2/
 - Description: Isolator : H11L2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-H11L2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-H11L2)
 - Short Link: [http://oom.lt/SZKISOLATORH11L2](http://oom.lt/SZKISOLATORH11L2)

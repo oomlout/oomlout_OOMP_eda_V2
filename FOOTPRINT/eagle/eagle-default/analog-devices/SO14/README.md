@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-SO14
 - Hex ID: FZEANALOGDEVICESSO14
 - Name: analog-devices : SO14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/SO14/
 - Description: analog-devices : SO14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO14](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO14)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESSO14](http://oom.lt/FZEANALOGDEVICESSO14)

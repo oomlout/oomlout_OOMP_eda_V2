@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2897
 - Hex ID: SZKREGULATORCONTROLLERUCC2897
 - Name: Regulator_Controller : UCC2897
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC2897/
 - Description: Regulator_Controller : UCC2897
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2897](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2897)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC2897](http://oom.lt/SZKREGULATORCONTROLLERUCC2897)

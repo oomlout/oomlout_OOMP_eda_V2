@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBZMAGNETICBUZZERKINGSTATEKCG61 > Buzzer_Beeper : MagneticBuzzer_Kingstate_KCG0601](#fzkbzmagneticbuzzerkingstatekcg61--buzzer_beeper--magneticbuzzer_kingstate_kcg0601)
+* [FZKBZMAGNETICBUZZERKSTATEKCG61 > Buzzer_Beeper : MagneticBuzzer_Kingstate_KCG0601](#fzkbzmagneticbuzzerkstatekcg61--buzzer_beeper--magneticbuzzer_kingstate_kcg0601)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBZMAGNETICBUZZERKINGSTATEKCG61 > Buzzer_Beeper : MagneticBuzzer_Kingstate_KCG0601
+# FZKBZMAGNETICBUZZERKSTATEKCG61 > Buzzer_Beeper : MagneticBuzzer_Kingstate_KCG0601
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_Kingstate_KCG0601
-- Hex ID: FZKBZMAGNETICBUZZERKINGSTATEKCG61
+- Hex ID: FZKBZMAGNETICBUZZERKSTATEKCG61
 - Name: Buzzer_Beeper : MagneticBuzzer_Kingstate_KCG0601
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_Kingstate_KCG0601/
 - Description: Buzzer_Beeper : MagneticBuzzer_Kingstate_KCG0601
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_Kingstate_KCG0601](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_Kingstate_KCG0601)
-- Short Link: [http://oom.lt/FZKBZMAGNETICBUZZERKINGSTATEKCG61](http://oom.lt/FZKBZMAGNETICBUZZERKINGSTATEKCG61)
+- Short Link: [http://oom.lt/FZKBZMAGNETICBUZZERKSTATEKCG61](http://oom.lt/FZKBZMAGNETICBUZZERKSTATEKCG61)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Buzzer_Beeper|
 |OOMP Index|oompIndex|MagneticBuzzer_Kingstate_KCG0601|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_Kingstate_KCG0601|
-|Hex ID (short code)|hexID|FZKBZMAGNETICBUZZERKINGSTATEKCG61|
+|Hex ID (short code)|hexID|FZKBZMAGNETICBUZZERKSTATEKCG61|
 |name|name|Buzzer_Beeper : MagneticBuzzer_Kingstate_KCG0601|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MagneticBuzzer_Kingstate_KCG0601'</td><td> 'description'</td></tr><tr><td> 'Buzzer</td><td> Elektromagnetic Beeper</td><td> Summer</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Kingstate KCG0601 '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Buzzer_Beeper.3dshapes/MagneticBuzzer_Kingstate_KCG0601.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

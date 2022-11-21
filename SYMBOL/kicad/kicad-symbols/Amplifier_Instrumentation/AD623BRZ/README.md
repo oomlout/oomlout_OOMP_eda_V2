@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623BRZ
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD623BRZ
 - Name: Amplifier_Instrumentation : AD623BRZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD623BRZ/
 - Description: Amplifier_Instrumentation : AD623BRZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623BRZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623BRZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623BRZ](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623BRZ)

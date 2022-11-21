@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7705A
 - Hex ID: SZKPOWERSUPERVISORTL775A
 - Name: Power_Supervisor : TL7705A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7705A/
 - Description: Power_Supervisor : TL7705A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7705A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7705A)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTL775A](http://oom.lt/SZKPOWERSUPERVISORTL775A)

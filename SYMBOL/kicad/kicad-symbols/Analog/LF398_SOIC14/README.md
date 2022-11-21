@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog-LF398_SOIC14
 - Hex ID: SZKANALOGLF398SOIC14
 - Name: Analog : LF398_SOIC14
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog/LF398_SOIC14/
 - Description: Analog : LF398_SOIC14
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-LF398_SOIC14](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-LF398_SOIC14)
 - Short Link: [http://oom.lt/SZKANALOGLF398SOIC14](http://oom.lt/SZKANALOGLF398SOIC14)

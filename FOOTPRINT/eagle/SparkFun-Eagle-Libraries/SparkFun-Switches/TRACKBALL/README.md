@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TRACKBALL
 - Hex ID: FZSWTRACKBALL
 - Name: SparkFun-Switches : TRACKBALL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/TRACKBALL/
 - Description: SparkFun-Switches : TRACKBALL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TRACKBALL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TRACKBALL)
 - Short Link: [http://oom.lt/FZSWTRACKBALL](http://oom.lt/FZSWTRACKBALL)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAML-ATSAML21E15B-MUT
 - Hex ID: SZKMCUMCHIPSAMLATSAML21E15BMUT
 - Name: MCU_Microchip_SAML : ATSAML21E15B-MUT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAML/ATSAML21E15B-MUT/
 - Description: MCU_Microchip_SAML : ATSAML21E15B-MUT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAML-ATSAML21E15B-MUT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAML-ATSAML21E15B-MUT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMLATSAML21E15BMUT](http://oom.lt/SZKMCUMCHIPSAMLATSAML21E15BMUT)

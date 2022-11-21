@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-PGA88
 - Hex ID: FZEMINTELPGA88
 - Name: micro-intel : PGA88
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/PGA88/
 - Description: micro-intel : PGA88
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PGA88](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PGA88)
 - Short Link: [http://oom.lt/FZEMINTELPGA88](http://oom.lt/FZEMINTELPGA88)

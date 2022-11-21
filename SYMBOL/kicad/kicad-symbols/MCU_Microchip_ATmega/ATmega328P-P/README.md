@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega328P-P
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA328PP
 - Name: MCU_Microchip_ATmega : ATmega328P-P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega328P-P/
 - Description: MCU_Microchip_ATmega : ATmega328P-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega328P-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega328P-P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA328PP](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA328PP)

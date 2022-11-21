@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-C1702E15
 - Hex ID: FZEDIODEC172E15
 - Name: diode : C1702E15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/C1702E15/
 - Description: diode : C1702E15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C1702E15](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C1702E15)
 - Short Link: [http://oom.lt/FZEDIODEC172E15](http://oom.lt/FZEDIODEC172E15)

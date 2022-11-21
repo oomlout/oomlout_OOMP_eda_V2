@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-TRIMPOT-PTH-3386U
 - Hex ID: FZSRTRIMPOTP3386U
 - Name: SparkFun-Resistors : TRIMPOT-PTH-3386U
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/TRIMPOT-PTH-3386U/
 - Description: SparkFun-Resistors : TRIMPOT-PTH-3386U
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-TRIMPOT-PTH-3386U](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-TRIMPOT-PTH-3386U)
 - Short Link: [http://oom.lt/FZSRTRIMPOTP3386U](http://oom.lt/FZSRTRIMPOTP3386U)

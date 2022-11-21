@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF28A
 - Hex ID: SZKDIODESMF28A
 - Name: Diode : SMF28A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF28A/
 - Description: Diode : SMF28A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF28A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF28A)
 - Short Link: [http://oom.lt/SZKDIODESMF28A](http://oom.lt/SZKDIODESMF28A)

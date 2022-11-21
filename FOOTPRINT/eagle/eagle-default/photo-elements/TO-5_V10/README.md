@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-photo-elements-TO-5_V10
 - Hex ID: FZEPHOTOELEMENTSTO5V1
 - Name: photo-elements : TO-5_V10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/photo-elements/TO-5_V10/
 - Description: photo-elements : TO-5_V10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-TO-5_V10](http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-TO-5_V10)
 - Short Link: [http://oom.lt/FZEPHOTOELEMENTSTO5V1](http://oom.lt/FZEPHOTOELEMENTSTO5V1)

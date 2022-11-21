@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M5923
 - Hex ID: FZAM5923
 - Name: adafruit : M5923
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/M5923/
 - Description: adafruit : M5923
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M5923](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M5923)
 - Short Link: [http://oom.lt/FZAM5923](http://oom.lt/FZAM5923)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-DIL08
 - Hex ID: FZEVREGDIL8
 - Name: v-reg : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/DIL08/
 - Description: v-reg : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-DIL08)
 - Short Link: [http://oom.lt/FZEVREGDIL8](http://oom.lt/FZEVREGDIL8)

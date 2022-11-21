@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-AD215
 - Hex ID: FZEANALOGDEVICESAD215
 - Name: analog-devices : AD215
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/AD215/
 - Description: analog-devices : AD215
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-AD215](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-AD215)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESAD215](http://oom.lt/FZEANALOGDEVICESAD215)

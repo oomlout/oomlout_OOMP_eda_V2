@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB7340
 - Hex ID: SZKINTERFACEUTU734
 - Name: Interface_USB : TUSB7340
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/TUSB7340/
 - Description: Interface_USB : TUSB7340
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB7340](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB7340)
 - Short Link: [http://oom.lt/SZKINTERFACEUTU734](http://oom.lt/SZKINTERFACEUTU734)

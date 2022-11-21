@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LMV339
 - Hex ID: SZKCOMPARATORLMV339
 - Name: Comparator : LMV339
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LMV339/
 - Description: Comparator : LMV339
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV339](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV339)
 - Short Link: [http://oom.lt/SZKCOMPARATORLMV339](http://oom.lt/SZKCOMPARATORLMV339)

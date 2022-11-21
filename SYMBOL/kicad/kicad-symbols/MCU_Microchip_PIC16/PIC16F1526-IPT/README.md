@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1526-IPT
 - Hex ID: SZKMCUMCHIPPIC16PIC16F1526IPT
 - Name: MCU_Microchip_PIC16 : PIC16F1526-IPT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1526-IPT/
 - Description: MCU_Microchip_PIC16 : PIC16F1526-IPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1526-IPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1526-IPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1526IPT](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1526IPT)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MICROSD_TO
 - Hex ID: FZSBUMSDTO
 - Name: SparkFun-Buzzard : MICROSD_TO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/MICROSD_TO/
 - Description: SparkFun-Buzzard : MICROSD_TO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MICROSD_TO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MICROSD_TO)
 - Short Link: [http://oom.lt/FZSBUMSDTO](http://oom.lt/FZSBUMSDTO)

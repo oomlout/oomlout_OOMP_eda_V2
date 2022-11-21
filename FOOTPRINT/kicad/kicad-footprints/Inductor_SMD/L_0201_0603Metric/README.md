@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINDUCTORSML2163METRIC > Inductor_SMD : L_0201_0603Metric](#fzkinductorsml2163metric--inductor_smd--l_0201_0603metric)
+* [FZKINL2163VA > Inductor_SMD : L_0201_0603Metric](#fzkinl2163va--inductor_smd--l_0201_0603metric)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSML2163METRIC > Inductor_SMD : L_0201_0603Metric
+# FZKINL2163VA > Inductor_SMD : L_0201_0603Metric
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0201_0603Metric
-- Hex ID: FZKINDUCTORSML2163METRIC
+- Hex ID: FZKINL2163VA
 - Name: Inductor_SMD : L_0201_0603Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_0201_0603Metric/
 - Description: Inductor_SMD : L_0201_0603Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0201_0603Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0201_0603Metric)
-- Short Link: [http://oom.lt/FZKINDUCTORSML2163METRIC](http://oom.lt/FZKINDUCTORSML2163METRIC)
+- Short Link: [http://oom.lt/FZKINL2163VA](http://oom.lt/FZKINL2163VA)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_0201_0603Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0201_0603Metric|
-|Hex ID (short code)|hexID|FZKINDUCTORSML2163METRIC|
+|Hex ID (short code)|hexID|FZKINL2163VA|
 |name|name|Inductor_SMD : L_0201_0603Metric|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_0201_0603Metric'</td><td> 'description'</td></tr><tr><td> 'Inductor SMD 0201 (0603 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> https</td></tr><tr><td>//www.vishay.com/docs/20052/crcw0201e3.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'inductor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_0201_0603Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

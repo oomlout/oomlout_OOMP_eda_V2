@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-121_12.0x12.0mm_Layout11x11_P1.0mm
 - Hex ID: FZKBGABGA12112X12LAYOUT11X11P1
 - Name: Package_BGA : BGA-121_12.0x12.0mm_Layout11x11_P1.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-121_12.0x12.0mm_Layout11x11_P1.0mm/
 - Description: Package_BGA : BGA-121_12.0x12.0mm_Layout11x11_P1.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-121_12.0x12.0mm_Layout11x11_P1.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-121_12.0x12.0mm_Layout11x11_P1.0mm)
 - Short Link: [http://oom.lt/FZKBGABGA12112X12LAYOUT11X11P1](http://oom.lt/FZKBGABGA12112X12LAYOUT11X11P1)

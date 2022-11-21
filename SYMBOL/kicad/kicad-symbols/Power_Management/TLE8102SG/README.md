@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TLE8102SG
 - Hex ID: SZKPOWERMANAGEMENTTLE812SG
 - Name: Power_Management : TLE8102SG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/TLE8102SG/
 - Description: Power_Management : TLE8102SG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TLE8102SG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TLE8102SG)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTLE812SG](http://oom.lt/SZKPOWERMANAGEMENTTLE812SG)

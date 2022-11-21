@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-cyclone-II-PQFP240
 - Hex ID: FZEALTERACYCLONEIIPQFP24
 - Name: altera-cyclone-II : PQFP240
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera-cyclone-II/PQFP240/
 - Description: altera-cyclone-II : PQFP240
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-cyclone-II-PQFP240](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-cyclone-II-PQFP240)
 - Short Link: [http://oom.lt/FZEALTERACYCLONEIIPQFP24](http://oom.lt/FZEALTERACYCLONEIIPQFP24)

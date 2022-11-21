@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-19inch-BL2,8
 - Hex ID: FZE19INCHBL28
 - Name: 19inch : BL2,8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/BL2,8/
 - Description: 19inch : BL2,8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-BL2,8](http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-BL2,8)
 - Short Link: [http://oom.lt/FZE19INCHBL28](http://oom.lt/FZE19INCHBL28)

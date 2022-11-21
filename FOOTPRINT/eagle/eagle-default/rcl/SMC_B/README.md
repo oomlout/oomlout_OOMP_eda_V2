@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-SMC_B
 - Hex ID: FZERCLSMCB
 - Name: rcl : SMC_B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/SMC_B/
 - Description: rcl : SMC_B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-SMC_B](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-SMC_B)
 - Short Link: [http://oom.lt/FZERCLSMCB](http://oom.lt/FZERCLSMCB)

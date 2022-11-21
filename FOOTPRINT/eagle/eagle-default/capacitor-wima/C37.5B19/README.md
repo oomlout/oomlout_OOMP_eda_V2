@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-capacitor-wima-C37.5B19
 - Hex ID: FZECAPACITORWIMAC375B19
 - Name: capacitor-wima : C37.5B19
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/capacitor-wima/C37.5B19/
 - Description: capacitor-wima : C37.5B19
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-capacitor-wima-C37.5B19](http://oom.lt/FOOTPRINT-eagle-eagle-default-capacitor-wima-C37.5B19)
 - Short Link: [http://oom.lt/FZECAPACITORWIMAC375B19](http://oom.lt/FZECAPACITORWIMAC375B19)

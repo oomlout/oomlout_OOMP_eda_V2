@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-bourns-2QSP20
 - Hex ID: FZERESISTORBOURNS2QSP2
 - Name: resistor-bourns : 2QSP20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-bourns/2QSP20/
 - Description: resistor-bourns : 2QSP20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-bourns-2QSP20](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-bourns-2QSP20)
 - Short Link: [http://oom.lt/FZERESISTORBOURNS2QSP2](http://oom.lt/FZERESISTORBOURNS2QSP2)

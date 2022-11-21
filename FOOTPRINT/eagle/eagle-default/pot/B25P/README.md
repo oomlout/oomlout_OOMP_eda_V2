@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-B25P
 - Hex ID: FZEPOTB25P
 - Name: pot : B25P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/B25P/
 - Description: pot : B25P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-B25P](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-B25P)
 - Short Link: [http://oom.lt/FZEPOTB25P](http://oom.lt/FZEPOTB25P)

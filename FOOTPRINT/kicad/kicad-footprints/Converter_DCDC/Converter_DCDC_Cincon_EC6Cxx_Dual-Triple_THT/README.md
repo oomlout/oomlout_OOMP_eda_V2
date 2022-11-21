@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT
 - Hex ID: FZKCONCONCINCONEC6CXXDUALTRIPLETHT
 - Name: Converter_DCDC : Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT/
 - Description: Converter_DCDC : Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT)
 - Short Link: [http://oom.lt/FZKCONCONCINCONEC6CXXDUALTRIPLETHT](http://oom.lt/FZKCONCONCINCONEC6CXXDUALTRIPLETHT)

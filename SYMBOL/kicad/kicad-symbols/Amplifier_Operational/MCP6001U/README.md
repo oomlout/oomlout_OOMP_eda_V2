@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6001U
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP61U
 - Name: Amplifier_Operational : MCP6001U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6001U/
 - Description: Amplifier_Operational : MCP6001U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6001U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6001U)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP61U](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP61U)

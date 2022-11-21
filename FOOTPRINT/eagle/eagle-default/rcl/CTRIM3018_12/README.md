@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-CTRIM3018_12
 - Hex ID: FZERCLCTRIM31812
 - Name: rcl : CTRIM3018_12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/CTRIM3018_12/
 - Description: rcl : CTRIM3018_12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CTRIM3018_12](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CTRIM3018_12)
 - Short Link: [http://oom.lt/FZERCLCTRIM31812](http://oom.lt/FZERCLCTRIM31812)

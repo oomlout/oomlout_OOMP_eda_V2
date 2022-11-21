@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DIN-7
 - Hex ID: SZKCNDIN7
 - Name: Connector : DIN-7
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DIN-7/
 - Description: Connector : DIN-7
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN-7](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN-7)
 - Short Link: [http://oom.lt/SZKCNDIN7](http://oom.lt/SZKCNDIN7)

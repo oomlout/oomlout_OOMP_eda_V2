@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOT323
 - Hex ID: FZSDSSOT323
 - Name: SparkFun-DiscreteSemi : SOT323
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SOT323/
 - Description: SparkFun-DiscreteSemi : SOT323
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOT323](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOT323)
 - Short Link: [http://oom.lt/FZSDSSOT323](http://oom.lt/FZSDSSOT323)

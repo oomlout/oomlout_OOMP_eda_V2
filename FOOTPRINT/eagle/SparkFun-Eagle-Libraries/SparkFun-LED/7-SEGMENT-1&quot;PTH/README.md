@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-7-SEGMENT-1&quot;PTH
 - Hex ID: FZSL7S1&QUOT;P
 - Name: SparkFun-LED : 7-SEGMENT-1&quot;PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/7-SEGMENT-1&quot;PTH/
 - Description: SparkFun-LED : 7-SEGMENT-1&quot;PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-7-SEGMENT-1&quot;PTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-7-SEGMENT-1&quot;PTH)
 - Short Link: [http://oom.lt/FZSL7S1&QUOT;P](http://oom.lt/FZSL7S1&QUOT;P)

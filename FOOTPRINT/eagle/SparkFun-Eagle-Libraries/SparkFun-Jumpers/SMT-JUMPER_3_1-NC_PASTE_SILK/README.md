@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Jumpers-SMT-JUMPER_3_1-NC_PASTE_SILK
 - Hex ID: FZSSPARKFUNJSSJ31NCPASTESILK
 - Name: SparkFun-Jumpers : SMT-JUMPER_3_1-NC_PASTE_SILK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Jumpers/SMT-JUMPER_3_1-NC_PASTE_SILK/
 - Description: SparkFun-Jumpers : SMT-JUMPER_3_1-NC_PASTE_SILK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Jumpers-SMT-JUMPER_3_1-NC_PASTE_SILK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Jumpers-SMT-JUMPER_3_1-NC_PASTE_SILK)
 - Short Link: [http://oom.lt/FZSSPARKFUNJSSJ31NCPASTESILK](http://oom.lt/FZSSPARKFUNJSSJ31NCPASTESILK)

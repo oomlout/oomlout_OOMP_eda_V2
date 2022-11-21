@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-berg-PN61729
 - Hex ID: FZECONBERGPN61729
 - Name: con-berg : PN61729
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-berg/PN61729/
 - Description: con-berg : PN61729
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-berg-PN61729](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-berg-PN61729)
 - Short Link: [http://oom.lt/FZECONBERGPN61729](http://oom.lt/FZECONBERGPN61729)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-B40R
 - Hex ID: SZKDIODEBRIDGEB4R
 - Name: Diode_Bridge : B40R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B40R/
 - Description: Diode_Bridge : B40R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B40R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B40R)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEB4R](http://oom.lt/SZKDIODEBRIDGEB4R)

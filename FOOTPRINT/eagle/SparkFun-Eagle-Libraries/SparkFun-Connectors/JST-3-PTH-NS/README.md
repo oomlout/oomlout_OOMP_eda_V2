@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-3-PTH-NS
 - Hex ID: FZSSPARKFUNCNSJST3PNS
 - Name: SparkFun-Connectors : JST-3-PTH-NS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/JST-3-PTH-NS/
 - Description: SparkFun-Connectors : JST-3-PTH-NS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-3-PTH-NS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-3-PTH-NS)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSJST3PNS](http://oom.lt/FZSSPARKFUNCNSJST3PNS)

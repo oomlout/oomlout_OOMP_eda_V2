@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-PLCC20
 - Hex ID: FZEMAXIMPLCC2
 - Name: maxim : PLCC20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/PLCC20/
 - Description: maxim : PLCC20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-PLCC20](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-PLCC20)
 - Short Link: [http://oom.lt/FZEMAXIMPLCC2](http://oom.lt/FZEMAXIMPLCC2)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R6332W
 - Hex ID: FZAR6332W
 - Name: adafruit : R6332W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/R6332W/
 - Description: adafruit : R6332W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R6332W](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R6332W)
 - Short Link: [http://oom.lt/FZAR6332W](http://oom.lt/FZAR6332W)

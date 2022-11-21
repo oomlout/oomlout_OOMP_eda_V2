@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ25_Shielded
 - Hex ID: SZKCNRJ25SHED
 - Name: Connector : RJ25_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ25_Shielded/
 - Description: Connector : RJ25_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ25_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ25_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ25SHED](http://oom.lt/SZKCNRJ25SHED)

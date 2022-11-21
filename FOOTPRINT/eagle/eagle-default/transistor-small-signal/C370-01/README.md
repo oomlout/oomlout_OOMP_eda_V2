@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-C370-01
 - Hex ID: FZETRANSISTORSLLSIGNALC371
 - Name: transistor-small-signal : C370-01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/C370-01/
 - Description: transistor-small-signal : C370-01
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-C370-01](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-C370-01)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALC371](http://oom.lt/FZETRANSISTORSLLSIGNALC371)

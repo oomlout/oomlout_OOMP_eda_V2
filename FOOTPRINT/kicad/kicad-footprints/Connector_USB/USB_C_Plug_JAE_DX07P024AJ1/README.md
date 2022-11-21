@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Plug_JAE_DX07P024AJ1
 - Hex ID: FZKCNUUCPLUGJAEDX7P24AJ1
 - Name: Connector_USB : USB_C_Plug_JAE_DX07P024AJ1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Plug_JAE_DX07P024AJ1/
 - Description: Connector_USB : USB_C_Plug_JAE_DX07P024AJ1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Plug_JAE_DX07P024AJ1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Plug_JAE_DX07P024AJ1)
 - Short Link: [http://oom.lt/FZKCNUUCPLUGJAEDX7P24AJ1](http://oom.lt/FZKCNUUCPLUGJAEDX7P24AJ1)

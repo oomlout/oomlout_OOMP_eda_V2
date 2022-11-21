@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-HDMI_A
 - Hex ID: SZKCNHDMIA
 - Name: Connector : HDMI_A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/HDMI_A/
 - Description: Connector : HDMI_A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_A)
 - Short Link: [http://oom.lt/SZKCNHDMIA](http://oom.lt/SZKCNHDMIA)

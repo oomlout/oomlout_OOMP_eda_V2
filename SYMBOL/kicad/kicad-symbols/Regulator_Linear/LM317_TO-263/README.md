@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM317_TO-263
 - Hex ID: SZKREGULATORLINEARLM317TO263
 - Name: Regulator_Linear : LM317_TO-263
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM317_TO-263/
 - Description: Regulator_Linear : LM317_TO-263
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM317_TO-263](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM317_TO-263)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM317TO263](http://oom.lt/SZKREGULATORLINEARLM317TO263)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-PICOFUSE
 - Hex ID: FZEFUPICOFU
 - Name: fuse : PICOFUSE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/PICOFUSE/
 - Description: fuse : PICOFUSE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-PICOFUSE](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-PICOFUSE)
 - Short Link: [http://oom.lt/FZEFUPICOFU](http://oom.lt/FZEFUPICOFU)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL14-LARDO
 - Hex ID: FZADIL14LARDO
 - Name: adafruit : DIL14-LARDO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/DIL14-LARDO/
 - Description: adafruit : DIL14-LARDO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL14-LARDO](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL14-LARDO)
 - Short Link: [http://oom.lt/FZADIL14LARDO](http://oom.lt/FZADIL14LARDO)

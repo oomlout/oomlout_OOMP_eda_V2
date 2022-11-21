@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNTAGCONNECTTC25IDCNL2X5P127VERTICAL > Connector : Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical](#fzkcntagconnecttc25idcnl2x5p127vertical--connector--tag-connect_tc2050-idc-nl_2x05_p127mm_vertical)
+* [FZKCNTAGCECTTC25IDCNL2X5P127F > Connector : Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical](#fzkcntagcecttc25idcnl2x5p127f--connector--tag-connect_tc2050-idc-nl_2x05_p127mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNTAGCONNECTTC25IDCNL2X5P127VERTICAL > Connector : Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical
+# FZKCNTAGCECTTC25IDCNL2X5P127F > Connector : Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical
-- Hex ID: FZKCNTAGCONNECTTC25IDCNL2X5P127VERTICAL
+- Hex ID: FZKCNTAGCECTTC25IDCNL2X5P127F
 - Name: Connector : Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical/
 - Description: Connector : Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNTAGCONNECTTC25IDCNL2X5P127VERTICAL](http://oom.lt/FZKCNTAGCONNECTTC25IDCNL2X5P127VERTICAL)
+- Short Link: [http://oom.lt/FZKCNTAGCECTTC25IDCNL2X5P127F](http://oom.lt/FZKCNTAGCECTTC25IDCNL2X5P127F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNTAGCONNECTTC25IDCNL2X5P127VERTICAL|
+|Hex ID (short code)|hexID|FZKCNTAGCECTTC25IDCNL2X5P127F|
 |name|name|Connector : Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Tag-Connect programming header; http</td></tr><tr><td>//www.tag-connect.com/Materials/TC2050-IDC-NL%20Datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'tag connect programming header pogo pins'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

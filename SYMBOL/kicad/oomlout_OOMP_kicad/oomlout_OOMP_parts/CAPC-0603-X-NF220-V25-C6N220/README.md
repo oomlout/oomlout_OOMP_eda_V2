@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF22V25C6N22 > oomlout_OOMP_parts : CAPC-0603-X-NF220-V25-C6N220](#szkicadoomloutoompkicadoomloutoomppartscapc63xnf22v25c6n22--oomlout_oomp_parts--capc-0603-x-nf220-v25-c6n220)
+* [SZOOMPKOOMPPCAPC63XNF22V25C6N22 > oomlout_OOMP_parts : CAPC-0603-X-NF220-V25-C6N220](#szoompkoomppcapc63xnf22v25c6n22--oomlout_oomp_parts--capc-0603-x-nf220-v25-c6n220)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF22V25C6N22 > oomlout_OOMP_parts : CAPC-0603-X-NF220-V25-C6N220
+# SZOOMPKOOMPPCAPC63XNF22V25C6N22 > oomlout_OOMP_parts : CAPC-0603-X-NF220-V25-C6N220
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF220-V25-C6N220
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF22V25C6N22
+- Hex ID: SZOOMPKOOMPPCAPC63XNF22V25C6N22
 - Name: oomlout_OOMP_parts : CAPC-0603-X-NF220-V25-C6N220
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-NF220-V25-C6N220/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-NF220-V25-C6N220
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF220-V25-C6N220](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF220-V25-C6N220)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF22V25C6N22](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF22V25C6N22)
+- Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC63XNF22V25C6N22](http://oom.lt/SZOOMPKOOMPPCAPC63XNF22V25C6N22)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +31,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|CAPC-0603-X-NF220-V25-C6N220|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF220-V25-C6N220|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF22V25C6N22|
+|Hex ID (short code)|hexID|SZOOMPKOOMPPCAPC63XNF22V25C6N22|
 |name|name|oomlout_OOMP_parts : CAPC-0603-X-NF220-V25-C6N220|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0603-X-NF220-V25-C6N220'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0603-X-NF220-V25-C6N220'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C6N220'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C6N220;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-PTN78020W_EUK-7
 - Hex ID: SZKCONPTN782WEUK7
 - Name: Converter_DCDC : PTN78020W_EUK-7
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78020W_EUK-7/
 - Description: Converter_DCDC : PTN78020W_EUK-7
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-PTN78020W_EUK-7](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-PTN78020W_EUK-7)
 - Short Link: [http://oom.lt/SZKCONPTN782WEUK7](http://oom.lt/SZKCONPTN782WEUK7)

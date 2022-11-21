@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ISO7330FC
 - Hex ID: SZKISOLATORISO733FC
 - Name: Isolator : ISO7330FC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ISO7330FC/
 - Description: Isolator : ISO7330FC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7330FC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7330FC)
 - Short Link: [http://oom.lt/SZKISOLATORISO733FC](http://oom.lt/SZKISOLATORISO733FC)

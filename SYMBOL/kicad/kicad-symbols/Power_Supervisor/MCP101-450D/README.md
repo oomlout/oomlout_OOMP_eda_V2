@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP101-450D
 - Hex ID: SZKPOWERSUPERVISORMCP1145D
 - Name: Power_Supervisor : MCP101-450D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP101-450D/
 - Description: Power_Supervisor : MCP101-450D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP101-450D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP101-450D)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP1145D](http://oom.lt/SZKPOWERSUPERVISORMCP1145D)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-DSI32
 - Hex ID: FZERECTIFIERDSI32
 - Name: rectifier : DSI32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/DSI32/
 - Description: rectifier : DSI32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-DSI32](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-DSI32)
 - Short Link: [http://oom.lt/FZERECTIFIERDSI32](http://oom.lt/FZERECTIFIERDSI32)

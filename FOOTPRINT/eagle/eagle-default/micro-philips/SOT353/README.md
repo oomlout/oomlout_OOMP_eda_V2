@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-SOT353
 - Hex ID: FZEMPHILIPSSOT353
 - Name: micro-philips : SOT353
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/SOT353/
 - Description: micro-philips : SOT353
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-SOT353](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-SOT353)
 - Short Link: [http://oom.lt/FZEMPHILIPSSOT353](http://oom.lt/FZEMPHILIPSSOT353)

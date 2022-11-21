@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO22X67R622X > oomlout_OOMP_parts : RESE-0603-X-O22X-67-R622X](#szkicadoomloutoompkicadoomloutoomppartsrese63xo22x67r622x--oomlout_oomp_parts--rese-0603-x-o22x-67-r622x)
+* [SZOOMPKOOMPPRESE63XO22X67R622X > oomlout_OOMP_parts : RESE-0603-X-O22X-67-R622X](#szoompkoompprese63xo22x67r622x--oomlout_oomp_parts--rese-0603-x-o22x-67-r622x)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO22X67R622X > oomlout_OOMP_parts : RESE-0603-X-O22X-67-R622X
+# SZOOMPKOOMPPRESE63XO22X67R622X > oomlout_OOMP_parts : RESE-0603-X-O22X-67-R622X
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O22X-67-R622X
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO22X67R622X
+- Hex ID: SZOOMPKOOMPPRESE63XO22X67R622X
 - Name: oomlout_OOMP_parts : RESE-0603-X-O22X-67-R622X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O22X-67-R622X/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O22X-67-R622X
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O22X-67-R622X](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O22X-67-R622X)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO22X67R622X](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO22X67R622X)
+- Short Link: [http://oom.lt/SZOOMPKOOMPPRESE63XO22X67R622X](http://oom.lt/SZOOMPKOOMPPRESE63XO22X67R622X)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +31,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0603-X-O22X-67-R622X|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O22X-67-R622X|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO22X67R622X|
+|Hex ID (short code)|hexID|SZOOMPKOOMPPRESE63XO22X67R622X|
 |name|name|oomlout_OOMP_parts : RESE-0603-X-O22X-67-R622X|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0603-X-O22X-67-R622X'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0603-X-O22X-67-R622X'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R622X'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R622X;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

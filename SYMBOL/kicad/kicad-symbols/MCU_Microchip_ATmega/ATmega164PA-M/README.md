@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164PA-M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA164PAM
 - Name: MCU_Microchip_ATmega : ATmega164PA-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega164PA-M/
 - Description: MCU_Microchip_ATmega : ATmega164PA-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164PA-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164PA-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA164PAM](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA164PAM)

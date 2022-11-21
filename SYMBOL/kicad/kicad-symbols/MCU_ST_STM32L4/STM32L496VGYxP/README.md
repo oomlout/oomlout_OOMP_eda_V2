@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L496VGYxP
 - Hex ID: SZKMCUSTSTM32L4STM32L496VGYXP
 - Name: MCU_ST_STM32L4 : STM32L496VGYxP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L496VGYxP/
 - Description: MCU_ST_STM32L4 : STM32L496VGYxP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L496VGYxP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L496VGYxP)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L496VGYXP](http://oom.lt/SZKMCUSTSTM32L4STM32L496VGYXP)

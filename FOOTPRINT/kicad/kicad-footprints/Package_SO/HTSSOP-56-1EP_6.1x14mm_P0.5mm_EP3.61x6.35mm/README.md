@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm
 - Hex ID: FZKSOHTSS561EP61X14P5EP361X635
 - Name: Package_SO : HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm/
 - Description: Package_SO : HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm)
 - Short Link: [http://oom.lt/FZKSOHTSS561EP61X14P5EP361X635](http://oom.lt/FZKSOHTSS561EP61X14P5EP361X635)

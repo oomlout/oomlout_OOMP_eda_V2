@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SSOP16
 - Hex ID: FZSISSS16
 - Name: SparkFun-IC-Special-Function : SSOP16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/SSOP16/
 - Description: SparkFun-IC-Special-Function : SSOP16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SSOP16](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SSOP16)
 - Short Link: [http://oom.lt/FZSISSS16](http://oom.lt/FZSISSS16)

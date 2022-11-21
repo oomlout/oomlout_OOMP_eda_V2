@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-eu-TSSOP14
 - Hex ID: FZE74XXEUTSS14
 - Name: 74xx-eu : TSSOP14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-eu/TSSOP14/
 - Description: 74xx-eu : TSSOP14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-TSSOP14](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-TSSOP14)
 - Short Link: [http://oom.lt/FZE74XXEUTSS14](http://oom.lt/FZE74XXEUTSS14)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-mc68000-MPGA132
 - Hex ID: FZEMMC68MPGA132
 - Name: micro-mc68000 : MPGA132
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-mc68000/MPGA132/
 - Description: micro-mc68000 : MPGA132
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-mc68000-MPGA132](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-mc68000-MPGA132)
 - Short Link: [http://oom.lt/FZEMMC68MPGA132](http://oom.lt/FZEMMC68MPGA132)

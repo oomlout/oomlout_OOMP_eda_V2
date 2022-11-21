@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SC59-EBC
 - Hex ID: FZETRANSISTORNEUTO92SC59EBC
 - Name: transistor-neu-to92 : SC59-EBC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-neu-to92/SC59-EBC/
 - Description: transistor-neu-to92 : SC59-EBC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SC59-EBC](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SC59-EBC)
 - Short Link: [http://oom.lt/FZETRANSISTORNEUTO92SC59EBC](http://oom.lt/FZETRANSISTORNEUTO92SC59EBC)

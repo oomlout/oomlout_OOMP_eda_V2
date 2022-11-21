@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-PBGA256-27
 - Hex ID: FZEMINTELPBGA25627
 - Name: micro-intel : PBGA256-27
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/PBGA256-27/
 - Description: micro-intel : PBGA256-27
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PBGA256-27](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PBGA256-27)
 - Short Link: [http://oom.lt/FZEMINTELPBGA25627](http://oom.lt/FZEMINTELPBGA25627)

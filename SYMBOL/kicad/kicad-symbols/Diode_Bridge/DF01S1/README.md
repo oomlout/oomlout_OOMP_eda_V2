@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF01S1
 - Hex ID: SZKDIODEBRIDGEDF1S1
 - Name: Diode_Bridge : DF01S1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DF01S1/
 - Description: Diode_Bridge : DF01S1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF01S1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF01S1)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEDF1S1](http://oom.lt/SZKDIODEBRIDGEDF1S1)

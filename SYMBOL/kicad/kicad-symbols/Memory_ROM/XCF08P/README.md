@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_ROM-XCF08P
 - Hex ID: SZKMEMORYROMXCF8P
 - Name: Memory_ROM : XCF08P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_ROM/XCF08P/
 - Description: Memory_ROM : XCF08P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_ROM-XCF08P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_ROM-XCF08P)
 - Short Link: [http://oom.lt/SZKMEMORYROMXCF8P](http://oom.lt/SZKMEMORYROMXCF8P)

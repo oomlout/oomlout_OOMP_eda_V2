@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L31.5mm_W17.0mm_P27.50mm_MKS4
 - Hex ID: FZKCCRECTL315W17P275MKS4
 - Name: Capacitor_THT : C_Rect_L31.5mm_W17.0mm_P27.50mm_MKS4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L31.5mm_W17.0mm_P27.50mm_MKS4/
 - Description: Capacitor_THT : C_Rect_L31.5mm_W17.0mm_P27.50mm_MKS4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L31.5mm_W17.0mm_P27.50mm_MKS4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L31.5mm_W17.0mm_P27.50mm_MKS4)
 - Short Link: [http://oom.lt/FZKCCRECTL315W17P275MKS4](http://oom.lt/FZKCCRECTL315W17P275MKS4)

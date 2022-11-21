@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP5
 - Hex ID: FZKRRARRAYSIP5
 - Name: Resistor_THT : R_Array_SIP5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Array_SIP5/
 - Description: Resistor_THT : R_Array_SIP5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP5](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP5)
 - Short Link: [http://oom.lt/FZKRRARRAYSIP5](http://oom.lt/FZKRRARRAYSIP5)

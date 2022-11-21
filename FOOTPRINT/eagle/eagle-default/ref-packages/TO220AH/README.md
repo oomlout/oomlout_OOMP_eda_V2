@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESTO22AH > ref-packages : TO220AH](#fzerefpackagesto22ah--ref-packages--to220ah)
+* [FZEREFPSTO22AH > ref-packages : TO220AH](#fzerefpsto22ah--ref-packages--to220ah)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESTO22AH > ref-packages : TO220AH
+# FZEREFPSTO22AH > ref-packages : TO220AH
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO220AH
-- Hex ID: FZEREFPACKAGESTO22AH
+- Hex ID: FZEREFPSTO22AH
 - Name: ref-packages : TO220AH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/TO220AH/
 - Description: ref-packages : TO220AH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO220AH](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO220AH)
-- Short Link: [http://oom.lt/FZEREFPACKAGESTO22AH](http://oom.lt/FZEREFPACKAGESTO22AH)
+- Short Link: [http://oom.lt/FZEREFPSTO22AH](http://oom.lt/FZEREFPSTO22AH)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|TO220AH|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-TO220AH|
-|Hex ID (short code)|hexID|FZEREFPACKAGESTO22AH|
+|Hex ID (short code)|hexID|FZEREFPSTO22AH|
 |name|name|ref-packages : TO220AH|
 ||||

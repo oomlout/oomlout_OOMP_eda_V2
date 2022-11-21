@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74ac-logic-SO16
 - Hex ID: FZE74ACLOGICSO16
 - Name: 74ac-logic : SO16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74ac-logic/SO16/
 - Description: 74ac-logic : SO16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SO16](http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SO16)
 - Short Link: [http://oom.lt/FZE74ACLOGICSO16](http://oom.lt/FZE74ACLOGICSO16)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-MINIB
 - Hex ID: FZSSPARKFUNCNSUMB
 - Name: SparkFun-Connectors : USB-MINIB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-MINIB/
 - Description: SparkFun-Connectors : USB-MINIB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-MINIB](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-MINIB)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSUMB](http://oom.lt/FZSSPARKFUNCNSUMB)

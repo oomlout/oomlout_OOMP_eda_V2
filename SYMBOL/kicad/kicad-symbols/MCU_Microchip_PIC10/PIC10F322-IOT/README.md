@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F322-IOT
 - Hex ID: SZKMCUMCHIPPIC1PIC1F322IOT
 - Name: MCU_Microchip_PIC10 : PIC10F322-IOT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F322-IOT/
 - Description: MCU_Microchip_PIC10 : PIC10F322-IOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F322-IOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F322-IOT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC1PIC1F322IOT](http://oom.lt/SZKMCUMCHIPPIC1PIC1F322IOT)

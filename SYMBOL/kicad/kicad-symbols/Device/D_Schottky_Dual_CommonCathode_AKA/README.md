@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonCathode_AKA
 - Hex ID: SZKDEVICEDSCHOTTKYDUALCOONCATHODEAKA
 - Name: Device : D_Schottky_Dual_CommonCathode_AKA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_CommonCathode_AKA/
 - Description: Device : D_Schottky_Dual_CommonCathode_AKA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonCathode_AKA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonCathode_AKA)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYDUALCOONCATHODEAKA](http://oom.lt/SZKDEVICEDSCHOTTKYDUALCOONCATHODEAKA)

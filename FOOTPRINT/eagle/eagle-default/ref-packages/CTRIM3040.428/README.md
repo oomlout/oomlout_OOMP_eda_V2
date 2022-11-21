@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESCTRIM34428 > ref-packages : CTRIM3040.428](#fzerefpackagesctrim34428--ref-packages--ctrim3040428)
+* [FZEREFPSCTRIM34428 > ref-packages : CTRIM3040.428](#fzerefpsctrim34428--ref-packages--ctrim3040428)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESCTRIM34428 > ref-packages : CTRIM3040.428
+# FZEREFPSCTRIM34428 > ref-packages : CTRIM3040.428
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-CTRIM3040.428
-- Hex ID: FZEREFPACKAGESCTRIM34428
+- Hex ID: FZEREFPSCTRIM34428
 - Name: ref-packages : CTRIM3040.428
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/CTRIM3040.428/
 - Description: ref-packages : CTRIM3040.428
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-CTRIM3040.428](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-CTRIM3040.428)
-- Short Link: [http://oom.lt/FZEREFPACKAGESCTRIM34428](http://oom.lt/FZEREFPACKAGESCTRIM34428)
+- Short Link: [http://oom.lt/FZEREFPSCTRIM34428](http://oom.lt/FZEREFPSCTRIM34428)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|CTRIM3040.428|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-CTRIM3040.428|
-|Hex ID (short code)|hexID|FZEREFPACKAGESCTRIM34428|
+|Hex ID (short code)|hexID|FZEREFPSCTRIM34428|
 |name|name|ref-packages : CTRIM3040.428|
 ||||

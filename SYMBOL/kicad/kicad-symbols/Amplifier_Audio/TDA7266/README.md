@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7266
 - Hex ID: SZKAMPLIFIERAUDIOTDA7266
 - Name: Amplifier_Audio : TDA7266
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TDA7266/
 - Description: Amplifier_Audio : TDA7266
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7266](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7266)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTDA7266](http://oom.lt/SZKAMPLIFIERAUDIOTDA7266)

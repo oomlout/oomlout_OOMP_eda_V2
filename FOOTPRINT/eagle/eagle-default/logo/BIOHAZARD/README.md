@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-BIOHAZARD
 - Hex ID: FZELBIOHAZARD
 - Name: logo : BIOHAZARD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/BIOHAZARD/
 - Description: logo : BIOHAZARD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-BIOHAZARD](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-BIOHAZARD)
 - Short Link: [http://oom.lt/FZELBIOHAZARD](http://oom.lt/FZELBIOHAZARD)

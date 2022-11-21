@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Omron-G5Q-1A
 - Hex ID: FZKRELRELAYSPSTOMRONG5Q1A
 - Name: Relay_THT : Relay_SPST_Omron-G5Q-1A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Omron-G5Q-1A/
 - Description: Relay_THT : Relay_SPST_Omron-G5Q-1A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Omron-G5Q-1A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Omron-G5Q-1A)
 - Short Link: [http://oom.lt/FZKRELRELAYSPSTOMRONG5Q1A](http://oom.lt/FZKRELRELAYSPSTOMRONG5Q1A)

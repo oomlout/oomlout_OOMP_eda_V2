@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC24L
 - Hex ID: FZELSICOMPUTERSYSTEMSSOIC24L
 - Name: lsi-computer-systems : SOIC24L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/SOIC24L/
 - Description: lsi-computer-systems : SOIC24L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC24L](http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC24L)
 - Short Link: [http://oom.lt/FZELSICOMPUTERSYSTEMSSOIC24L](http://oom.lt/FZELSICOMPUTERSYSTEMSSOIC24L)

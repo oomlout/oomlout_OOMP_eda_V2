@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QTECHKNOW-LOGO-SMALL-SILK
 - Hex ID: FZSAQTECHKNOWLSLLSILK
 - Name: SparkFun-Aesthetics : QTECHKNOW-LOGO-SMALL-SILK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/QTECHKNOW-LOGO-SMALL-SILK/
 - Description: SparkFun-Aesthetics : QTECHKNOW-LOGO-SMALL-SILK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QTECHKNOW-LOGO-SMALL-SILK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QTECHKNOW-LOGO-SMALL-SILK)
 - Short Link: [http://oom.lt/FZSAQTECHKNOWLSLLSILK](http://oom.lt/FZSAQTECHKNOWLSLLSILK)

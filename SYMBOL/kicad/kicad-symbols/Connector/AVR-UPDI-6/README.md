@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AVR-UPDI-6
 - Hex ID: SZKCNAVRUPDI6
 - Name: Connector : AVR-UPDI-6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/AVR-UPDI-6/
 - Description: Connector : AVR-UPDI-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-UPDI-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-UPDI-6)
 - Short Link: [http://oom.lt/SZKCNAVRUPDI6](http://oom.lt/SZKCNAVRUPDI6)

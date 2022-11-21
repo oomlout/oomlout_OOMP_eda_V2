@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SO24W
 - Hex ID: FZESMIPCSO24W
 - Name: smd-ipc : SO24W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SO24W/
 - Description: smd-ipc : SO24W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SO24W](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SO24W)
 - Short Link: [http://oom.lt/FZESMIPCSO24W](http://oom.lt/FZESMIPCSO24W)

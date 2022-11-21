@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-MOLEX_GNSS_CHIP
 - Hex ID: FZSGMXGNSSCHIP
 - Name: SparkFun-GPS : MOLEX_GNSS_CHIP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/MOLEX_GNSS_CHIP/
 - Description: SparkFun-GPS : MOLEX_GNSS_CHIP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-MOLEX_GNSS_CHIP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-MOLEX_GNSS_CHIP)
 - Short Link: [http://oom.lt/FZSGMXGNSSCHIP](http://oom.lt/FZSGMXGNSSCHIP)

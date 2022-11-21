@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-AD9951
 - Hex ID: SZKINTERFACEAD9951
 - Name: Interface : AD9951
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/AD9951/
 - Description: Interface : AD9951
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9951](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9951)
 - Short Link: [http://oom.lt/SZKINTERFACEAD9951](http://oom.lt/SZKINTERFACEAD9951)

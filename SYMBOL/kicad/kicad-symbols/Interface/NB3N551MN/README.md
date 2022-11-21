@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-NB3N551MN
 - Hex ID: SZKINTERFACENB3N551MN
 - Name: Interface : NB3N551MN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/NB3N551MN/
 - Description: Interface : NB3N551MN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-NB3N551MN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-NB3N551MN)
 - Short Link: [http://oom.lt/SZKINTERFACENB3N551MN](http://oom.lt/SZKINTERFACENB3N551MN)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5907MFX-2.8
 - Hex ID: SZKREGULATORLINEARLP597MFX28
 - Name: Regulator_Linear : LP5907MFX-2.8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP5907MFX-2.8/
 - Description: Regulator_Linear : LP5907MFX-2.8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5907MFX-2.8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5907MFX-2.8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP597MFX28](http://oom.lt/SZKREGULATORLINEARLP597MFX28)

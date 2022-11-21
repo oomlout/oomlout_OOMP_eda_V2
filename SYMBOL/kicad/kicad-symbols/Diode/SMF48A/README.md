@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF48A
 - Hex ID: SZKDIODESMF48A
 - Name: Diode : SMF48A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF48A/
 - Description: Diode : SMF48A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF48A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF48A)
 - Short Link: [http://oom.lt/SZKDIODESMF48A](http://oom.lt/SZKDIODESMF48A)

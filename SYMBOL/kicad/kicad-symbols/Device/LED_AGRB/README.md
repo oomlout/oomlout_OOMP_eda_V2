@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_AGRB
 - Hex ID: SZKDEVICELAGRB
 - Name: Device : LED_AGRB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_AGRB/
 - Description: Device : LED_AGRB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_AGRB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_AGRB)
 - Short Link: [http://oom.lt/SZKDEVICELAGRB](http://oom.lt/SZKDEVICELAGRB)

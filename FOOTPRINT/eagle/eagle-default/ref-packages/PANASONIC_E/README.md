@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPE > ref-packages : PANASONIC_E](#fzerefpackagespe--ref-packages--panasonic_e)
+* [FZEREFPSPE > ref-packages : PANASONIC_E](#fzerefpspe--ref-packages--panasonic_e)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPE > ref-packages : PANASONIC_E
+# FZEREFPSPE > ref-packages : PANASONIC_E
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-PANASONIC_E
-- Hex ID: FZEREFPACKAGESPE
+- Hex ID: FZEREFPSPE
 - Name: ref-packages : PANASONIC_E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/PANASONIC_E/
 - Description: ref-packages : PANASONIC_E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PANASONIC_E](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PANASONIC_E)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPE](http://oom.lt/FZEREFPACKAGESPE)
+- Short Link: [http://oom.lt/FZEREFPSPE](http://oom.lt/FZEREFPSPE)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|PANASONIC_E|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-PANASONIC_E|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPE|
+|Hex ID (short code)|hexID|FZEREFPSPE|
 |name|name|ref-packages : PANASONIC_E|
 ||||

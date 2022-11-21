@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2851xMS8
 - Hex ID: SZKINTERFACEUARTLTC2851XMS8
 - Name: Interface_UART : LTC2851xMS8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/LTC2851xMS8/
 - Description: Interface_UART : LTC2851xMS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2851xMS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2851xMS8)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTLTC2851XMS8](http://oom.lt/SZKINTERFACEUARTLTC2851XMS8)

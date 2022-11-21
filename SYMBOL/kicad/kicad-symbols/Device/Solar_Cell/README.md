@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Solar_Cell
 - Hex ID: SZKDEVICESOLARCELL
 - Name: Device : Solar_Cell
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Solar_Cell/
 - Description: Device : Solar_Cell
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Solar_Cell](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Solar_Cell)
 - Short Link: [http://oom.lt/SZKDEVICESOLARCELL](http://oom.lt/SZKDEVICESOLARCELL)

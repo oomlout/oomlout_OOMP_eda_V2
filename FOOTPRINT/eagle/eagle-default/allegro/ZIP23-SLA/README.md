@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-allegro-ZIP23-SLA
 - Hex ID: FZEALLEGROZIP23SLA
 - Name: allegro : ZIP23-SLA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/ZIP23-SLA/
 - Description: allegro : ZIP23-SLA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-ZIP23-SLA](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-ZIP23-SLA)
 - Short Link: [http://oom.lt/FZEALLEGROZIP23SLA](http://oom.lt/FZEALLEGROZIP23SLA)

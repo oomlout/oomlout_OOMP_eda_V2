@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AL60P
 - Hex ID: FZAAL6P
 - Name: adafruit : AL60P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/AL60P/
 - Description: adafruit : AL60P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AL60P](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AL60P)
 - Short Link: [http://oom.lt/FZAAL6P](http://oom.lt/FZAAL6P)

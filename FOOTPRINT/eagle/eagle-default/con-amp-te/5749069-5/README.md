@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-te-5749069-5
 - Hex ID: FZECONAMPTE5749695
 - Name: con-amp-te : 5749069-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-te/5749069-5/
 - Description: con-amp-te : 5749069-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-te-5749069-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-te-5749069-5)
 - Short Link: [http://oom.lt/FZECONAMPTE5749695](http://oom.lt/FZECONAMPTE5749695)

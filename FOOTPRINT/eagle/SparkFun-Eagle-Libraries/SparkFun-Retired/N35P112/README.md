@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-N35P112
 - Hex ID: FZSRTN35P112
 - Name: SparkFun-Retired : N35P112
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/N35P112/
 - Description: SparkFun-Retired : N35P112
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-N35P112](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-N35P112)
 - Short Link: [http://oom.lt/FZSRTN35P112](http://oom.lt/FZSRTN35P112)

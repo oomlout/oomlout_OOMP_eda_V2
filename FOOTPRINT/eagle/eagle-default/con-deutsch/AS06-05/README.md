@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-deutsch-AS06-05
 - Hex ID: FZECONDEUTSCHAS65
 - Name: con-deutsch : AS06-05
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-deutsch/AS06-05/
 - Description: con-deutsch : AS06-05
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS06-05](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS06-05)
 - Short Link: [http://oom.lt/FZECONDEUTSCHAS65](http://oom.lt/FZECONDEUTSCHAS65)

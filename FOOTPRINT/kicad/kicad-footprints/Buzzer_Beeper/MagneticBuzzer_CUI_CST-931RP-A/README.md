@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_CUI_CST-931RP-A
 - Hex ID: FZKBZMAGNETICBUZZERCUICST931RPA
 - Name: Buzzer_Beeper : MagneticBuzzer_CUI_CST-931RP-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_CUI_CST-931RP-A/
 - Description: Buzzer_Beeper : MagneticBuzzer_CUI_CST-931RP-A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_CUI_CST-931RP-A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_CUI_CST-931RP-A)
 - Short Link: [http://oom.lt/FZKBZMAGNETICBUZZERCUICST931RPA](http://oom.lt/FZKBZMAGNETICBUZZERCUICST931RPA)

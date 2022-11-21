@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Infineon_PG-LSON-8-1
 - Hex ID: FZKSONINFINEONPGLSON81
 - Name: Package_SON : Infineon_PG-LSON-8-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Infineon_PG-LSON-8-1/
 - Description: Package_SON : Infineon_PG-LSON-8-1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Infineon_PG-LSON-8-1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Infineon_PG-LSON-8-1)
 - Short Link: [http://oom.lt/FZKSONINFINEONPGLSON81](http://oom.lt/FZKSONINFINEONPGLSON81)

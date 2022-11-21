@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-SO16W
 - Hex ID: FZEMMOTOROLASO16W
 - Name: micro-motorola : SO16W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/SO16W/
 - Description: micro-motorola : SO16W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-SO16W](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-SO16W)
 - Short Link: [http://oom.lt/FZEMMOTOROLASO16W](http://oom.lt/FZEMMOTOROLASO16W)

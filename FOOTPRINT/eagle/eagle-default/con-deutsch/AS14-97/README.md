@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-deutsch-AS14-97
 - Hex ID: FZECONDEUTSCHAS1497
 - Name: con-deutsch : AS14-97
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-deutsch/AS14-97/
 - Description: con-deutsch : AS14-97
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS14-97](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS14-97)
 - Short Link: [http://oom.lt/FZECONDEUTSCHAS1497](http://oom.lt/FZECONDEUTSCHAS1497)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C_6032-28R
 - Hex ID: FZERCLC63228R
 - Name: rcl : C_6032-28R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C_6032-28R/
 - Description: rcl : C_6032-28R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C_6032-28R](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C_6032-28R)
 - Short Link: [http://oom.lt/FZERCLC63228R](http://oom.lt/FZERCLC63228R)

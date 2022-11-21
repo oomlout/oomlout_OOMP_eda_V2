@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65213-28PVXI
 - Hex ID: SZKINTERFACEUCY7C6521328PVXI
 - Name: Interface_USB : CY7C65213-28PVXI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CY7C65213-28PVXI/
 - Description: Interface_USB : CY7C65213-28PVXI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65213-28PVXI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65213-28PVXI)
 - Short Link: [http://oom.lt/SZKINTERFACEUCY7C6521328PVXI](http://oom.lt/SZKINTERFACEUCY7C6521328PVXI)

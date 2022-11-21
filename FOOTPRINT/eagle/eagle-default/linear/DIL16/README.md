@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-DIL16
 - Hex ID: FZELINEARDIL16
 - Name: linear : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/DIL16/
 - Description: linear : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-DIL16)
 - Short Link: [http://oom.lt/FZELINEARDIL16](http://oom.lt/FZELINEARDIL16)

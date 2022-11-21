@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-KCSC02-136
 - Hex ID: SZKDICHARACTERKCSC2136
 - Name: Display_Character : KCSC02-136
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/KCSC02-136/
 - Description: Display_Character : KCSC02-136
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-KCSC02-136](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-KCSC02-136)
 - Short Link: [http://oom.lt/SZKDICHARACTERKCSC2136](http://oom.lt/SZKDICHARACTERKCSC2136)

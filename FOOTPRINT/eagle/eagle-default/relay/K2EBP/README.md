@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-K2EBP
 - Hex ID: FZERELAYK2EBP
 - Name: relay : K2EBP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/K2EBP/
 - Description: relay : K2EBP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-K2EBP](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-K2EBP)
 - Short Link: [http://oom.lt/FZERELAYK2EBP](http://oom.lt/FZERELAYK2EBP)

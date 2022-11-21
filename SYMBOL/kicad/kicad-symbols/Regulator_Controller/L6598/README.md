@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6598
 - Hex ID: SZKREGULATORCONTROLLERL6598
 - Name: Regulator_Controller : L6598
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/L6598/
 - Description: Regulator_Controller : L6598
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6598](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6598)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERL6598](http://oom.lt/SZKREGULATORCONTROLLERL6598)

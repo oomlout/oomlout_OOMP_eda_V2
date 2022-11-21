@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-SK104
 - Hex ID: FZEHSK14
 - Name: heatsink : SK104
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/SK104/
 - Description: heatsink : SK104
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK104](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK104)
 - Short Link: [http://oom.lt/FZEHSK14](http://oom.lt/FZEHSK14)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO16W
 - Hex ID: FZASO16W
 - Name: adafruit : SO16W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SO16W/
 - Description: adafruit : SO16W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO16W](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO16W)
 - Short Link: [http://oom.lt/FZASO16W](http://oom.lt/FZASO16W)

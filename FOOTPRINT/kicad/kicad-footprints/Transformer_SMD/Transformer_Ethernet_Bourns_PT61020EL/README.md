@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKTRSMTRETHERNETBOURNSPT612EL > Transformer_SMD : Transformer_Ethernet_Bourns_PT61020EL](#fzktrsmtrethernetbournspt612el--transformer_smd--transformer_ethernet_bourns_pt61020el)
+* [FZKTRTRETHERNETBOURNSPT612EL > Transformer_SMD : Transformer_Ethernet_Bourns_PT61020EL](#fzktrtrethernetbournspt612el--transformer_smd--transformer_ethernet_bourns_pt61020el)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTRSMTRETHERNETBOURNSPT612EL > Transformer_SMD : Transformer_Ethernet_Bourns_PT61020EL
+# FZKTRTRETHERNETBOURNSPT612EL > Transformer_SMD : Transformer_Ethernet_Bourns_PT61020EL
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Bourns_PT61020EL
-- Hex ID: FZKTRSMTRETHERNETBOURNSPT612EL
+- Hex ID: FZKTRTRETHERNETBOURNSPT612EL
 - Name: Transformer_SMD : Transformer_Ethernet_Bourns_PT61020EL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Bourns_PT61020EL/
 - Description: Transformer_SMD : Transformer_Ethernet_Bourns_PT61020EL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Bourns_PT61020EL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Bourns_PT61020EL)
-- Short Link: [http://oom.lt/FZKTRSMTRETHERNETBOURNSPT612EL](http://oom.lt/FZKTRSMTRETHERNETBOURNSPT612EL)
+- Short Link: [http://oom.lt/FZKTRTRETHERNETBOURNSPT612EL](http://oom.lt/FZKTRTRETHERNETBOURNSPT612EL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Transformer_SMD|
 |OOMP Index|oompIndex|Transformer_Ethernet_Bourns_PT61020EL|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Bourns_PT61020EL|
-|Hex ID (short code)|hexID|FZKTRSMTRETHERNETBOURNSPT612EL|
+|Hex ID (short code)|hexID|FZKTRTRETHERNETBOURNSPT612EL|
 |name|name|Transformer_SMD : Transformer_Ethernet_Bourns_PT61020EL|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Transformer_Ethernet_Bourns_PT61020EL'</td><td> 'description'</td></tr><tr><td> '10/100/1000 Base-T Transformer Module</td><td> PT61020EL (https</td></tr><tr><td>//www.bourns.com/pdfs/PT61020.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Gigabit PoE Ethernet Transformer Single'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_SMD.3dshapes/Transformer_Ethernet_Bourns_PT61020EL.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

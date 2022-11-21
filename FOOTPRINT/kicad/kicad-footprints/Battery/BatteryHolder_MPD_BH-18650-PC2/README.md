@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBATBATHOLDERMPDBH1865PC2 > Battery : BatteryHolder_MPD_BH-18650-PC2](#fzkbatbatholdermpdbh1865pc2--battery--batteryholder_mpd_bh-18650-pc2)
+* [FZKBATBATHMPDBH1865PC2 > Battery : BatteryHolder_MPD_BH-18650-PC2](#fzkbatbathmpdbh1865pc2--battery--batteryholder_mpd_bh-18650-pc2)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBATBATHOLDERMPDBH1865PC2 > Battery : BatteryHolder_MPD_BH-18650-PC2
+# FZKBATBATHMPDBH1865PC2 > Battery : BatteryHolder_MPD_BH-18650-PC2
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BH-18650-PC2
-- Hex ID: FZKBATBATHOLDERMPDBH1865PC2
+- Hex ID: FZKBATBATHMPDBH1865PC2
 - Name: Battery : BatteryHolder_MPD_BH-18650-PC2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BH-18650-PC2/
 - Description: Battery : BatteryHolder_MPD_BH-18650-PC2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BH-18650-PC2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BH-18650-PC2)
-- Short Link: [http://oom.lt/FZKBATBATHOLDERMPDBH1865PC2](http://oom.lt/FZKBATBATHOLDERMPDBH1865PC2)
+- Short Link: [http://oom.lt/FZKBATBATHMPDBH1865PC2](http://oom.lt/FZKBATBATHMPDBH1865PC2)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Battery|
 |OOMP Index|oompIndex|BatteryHolder_MPD_BH-18650-PC2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BH-18650-PC2|
-|Hex ID (short code)|hexID|FZKBATBATHOLDERMPDBH1865PC2|
+|Hex ID (short code)|hexID|FZKBATBATHMPDBH1865PC2|
 |name|name|Battery : BatteryHolder_MPD_BH-18650-PC2|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_MPD_BH-18650-PC2'</td><td> 'description'</td></tr><tr><td> '18650 Battery Holder (http</td></tr><tr><td>//www.memoryprotectiondevices.com/datasheets/BK-18650-PC2-datasheet.pdf)'</td><td> 'tags'</td></tr><tr><td> '18650 Battery Holder'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_MPD_BH-18650-PC2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

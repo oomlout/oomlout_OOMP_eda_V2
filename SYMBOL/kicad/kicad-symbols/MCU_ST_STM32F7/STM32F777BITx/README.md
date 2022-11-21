@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F777BITx
 - Hex ID: SZKMCUSTSTM32F7STM32F777BITX
 - Name: MCU_ST_STM32F7 : STM32F777BITx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F777BITx/
 - Description: MCU_ST_STM32F7 : STM32F777BITx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F777BITx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F777BITx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F777BITX](http://oom.lt/SZKMCUSTSTM32F7STM32F777BITX)

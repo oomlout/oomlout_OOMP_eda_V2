@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCH5512L > switch : 5501-2LED](#fzeswitch5512l--switch--5501-2led)
+* [FZESW5512L > switch : 5501-2LED](#fzesw5512l--switch--5501-2led)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCH5512L > switch : 5501-2LED
+# FZESW5512L > switch : 5501-2LED
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-5501-2LED
-- Hex ID: FZESWITCH5512L
+- Hex ID: FZESW5512L
 - Name: switch : 5501-2LED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/5501-2LED/
 - Description: switch : 5501-2LED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-5501-2LED](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-5501-2LED)
-- Short Link: [http://oom.lt/FZESWITCH5512L](http://oom.lt/FZESWITCH5512L)
+- Short Link: [http://oom.lt/FZESW5512L](http://oom.lt/FZESW5512L)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|5501-2LED|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-5501-2LED|
-|Hex ID (short code)|hexID|FZESWITCH5512L|
+|Hex ID (short code)|hexID|FZESW5512L|
 |name|name|switch : 5501-2LED|
 ||||

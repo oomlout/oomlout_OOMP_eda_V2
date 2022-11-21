@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2409SA-H
 - Hex ID: SZKCONITQ249SAH
 - Name: Converter_DCDC : ITQ2409SA-H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITQ2409SA-H/
 - Description: Converter_DCDC : ITQ2409SA-H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2409SA-H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2409SA-H)
 - Short Link: [http://oom.lt/SZKCONITQ249SAH](http://oom.lt/SZKCONITQ249SAH)

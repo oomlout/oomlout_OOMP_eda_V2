@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOTTO3PB3HORIZONTALTABUP > Package_TO_SOT_THT : TO-3PB-3_Horizontal_TabUp](#fzksotto3pb3horizontaltabup--package_to_sot_tht--to-3pb-3_horizontal_tabup)
+* [FZKSOTTO3PB3HTABUP > Package_TO_SOT_THT : TO-3PB-3_Horizontal_TabUp](#fzksotto3pb3htabup--package_to_sot_tht--to-3pb-3_horizontal_tabup)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTTO3PB3HORIZONTALTABUP > Package_TO_SOT_THT : TO-3PB-3_Horizontal_TabUp
+# FZKSOTTO3PB3HTABUP > Package_TO_SOT_THT : TO-3PB-3_Horizontal_TabUp
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-3PB-3_Horizontal_TabUp
-- Hex ID: FZKSOTTO3PB3HORIZONTALTABUP
+- Hex ID: FZKSOTTO3PB3HTABUP
 - Name: Package_TO_SOT_THT : TO-3PB-3_Horizontal_TabUp
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-3PB-3_Horizontal_TabUp/
 - Description: Package_TO_SOT_THT : TO-3PB-3_Horizontal_TabUp
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-3PB-3_Horizontal_TabUp](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-3PB-3_Horizontal_TabUp)
-- Short Link: [http://oom.lt/FZKSOTTO3PB3HORIZONTALTABUP](http://oom.lt/FZKSOTTO3PB3HORIZONTALTABUP)
+- Short Link: [http://oom.lt/FZKSOTTO3PB3HTABUP](http://oom.lt/FZKSOTTO3PB3HTABUP)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_THT|
 |OOMP Index|oompIndex|TO-3PB-3_Horizontal_TabUp|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-3PB-3_Horizontal_TabUp|
-|Hex ID (short code)|hexID|FZKSOTTO3PB3HORIZONTALTABUP|
+|Hex ID (short code)|hexID|FZKSOTTO3PB3HTABUP|
 |name|name|Package_TO_SOT_THT : TO-3PB-3_Horizontal_TabUp|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-3PB-3_Horizontal_TabUp'</td><td> 'description'</td></tr><tr><td> 'TO-3PB-3</td><td> Horizontal</td><td> RM 5.45mm</td><td> </td><td> see http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/340AC.PDF'</td><td> 'tags'</td></tr><tr><td> 'TO-3PB-3 Horizontal RM 5.45mm '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-3PB-3_Horizontal_TabUp.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

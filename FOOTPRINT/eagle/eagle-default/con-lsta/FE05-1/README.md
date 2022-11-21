@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lsta-FE05-1
 - Hex ID: FZECONLSTAFE51
 - Name: con-lsta : FE05-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lsta/FE05-1/
 - Description: con-lsta : FE05-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-FE05-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-FE05-1)
 - Short Link: [http://oom.lt/FZECONLSTAFE51](http://oom.lt/FZECONLSTAFE51)

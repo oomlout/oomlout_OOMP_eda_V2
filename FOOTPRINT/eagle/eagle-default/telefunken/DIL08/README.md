@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-telefunken-DIL08
 - Hex ID: FZETELEFUNKENDIL8
 - Name: telefunken : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/telefunken/DIL08/
 - Description: telefunken : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-telefunken-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-telefunken-DIL08)
 - Short Link: [http://oom.lt/FZETELEFUNKENDIL8](http://oom.lt/FZETELEFUNKENDIL8)

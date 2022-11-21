@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02BU
 - Hex ID: SZKREFERENCEVOLTAGEREF2BU
 - Name: Reference_Voltage : REF02BU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF02BU/
 - Description: Reference_Voltage : REF02BU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02BU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02BU)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF2BU](http://oom.lt/SZKREFERENCEVOLTAGEREF2BU)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-LGA-14
 - Hex ID: FZESTMELECTRONICSLGA14
 - Name: st-microelectronics : LGA-14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/LGA-14/
 - Description: st-microelectronics : LGA-14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-LGA-14](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-LGA-14)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSLGA14](http://oom.lt/FZESTMELECTRONICSLGA14)

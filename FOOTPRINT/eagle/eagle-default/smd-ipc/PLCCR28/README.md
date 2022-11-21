@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-PLCCR28
 - Hex ID: FZESMIPCPLCCR28
 - Name: smd-ipc : PLCCR28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/PLCCR28/
 - Description: smd-ipc : PLCCR28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-PLCCR28](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-PLCCR28)
 - Short Link: [http://oom.lt/FZESMIPCPLCCR28](http://oom.lt/FZESMIPCPLCCR28)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1107
 - Hex ID: SZKAMPLIFIERCURRENTZXCT117
 - Name: Amplifier_Current : ZXCT1107
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/ZXCT1107/
 - Description: Amplifier_Current : ZXCT1107
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1107](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1107)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTZXCT117](http://oom.lt/SZKAMPLIFIERCURRENTZXCT117)

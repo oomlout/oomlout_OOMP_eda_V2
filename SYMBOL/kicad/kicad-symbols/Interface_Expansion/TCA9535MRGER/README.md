@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9535MRGER
 - Hex ID: SZKINTERFACEEXPANSIONTCA9535MRGER
 - Name: Interface_Expansion : TCA9535MRGER
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9535MRGER/
 - Description: Interface_Expansion : TCA9535MRGER
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9535MRGER](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9535MRGER)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9535MRGER](http://oom.lt/SZKINTERFACEEXPANSIONTCA9535MRGER)

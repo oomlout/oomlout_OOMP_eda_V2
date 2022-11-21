@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C870
 - Hex ID: SZKISOLATORANALOGACPLC87
 - Name: Isolator_Analog : ACPL-C870
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C870/
 - Description: Isolator_Analog : ACPL-C870
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C870](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C870)
 - Short Link: [http://oom.lt/SZKISOLATORANALOGACPLC87](http://oom.lt/SZKISOLATORANALOGACPLC87)

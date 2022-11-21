@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Network12_Split
 - Hex ID: SZKDEVICERNETWORK12SPLIT
 - Name: Device : R_Network12_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Network12_Split/
 - Description: Device : R_Network12_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network12_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network12_Split)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORK12SPLIT](http://oom.lt/SZKDEVICERNETWORK12SPLIT)

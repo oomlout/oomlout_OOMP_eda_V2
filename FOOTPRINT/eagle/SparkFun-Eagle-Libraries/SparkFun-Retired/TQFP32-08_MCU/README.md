@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TQFP32-08_MCU
 - Hex ID: FZSRTTQFP328MCU
 - Name: SparkFun-Retired : TQFP32-08_MCU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TQFP32-08_MCU/
 - Description: SparkFun-Retired : TQFP32-08_MCU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TQFP32-08_MCU](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TQFP32-08_MCU)
 - Short Link: [http://oom.lt/FZSRTTQFP328MCU](http://oom.lt/FZSRTTQFP328MCU)

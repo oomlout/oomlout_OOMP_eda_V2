@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS81EPW3 > digikey-footprints : MSOP-8-1EP_W3mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsms81epw3--digikey-footprints--msop-8-1ep_w3mm)
+* [FZDIGIDIGIKEYFOOTPRINTSMS81EPW3 > digikey-footprints : MSOP-8-1EP_W3mm](#fzdigidigikeyfootprintsms81epw3--digikey-footprints--msop-8-1ep_w3mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS81EPW3 > digikey-footprints : MSOP-8-1EP_W3mm
+# FZDIGIDIGIKEYFOOTPRINTSMS81EPW3 > digikey-footprints : MSOP-8-1EP_W3mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-8-1EP_W3mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS81EPW3
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSMS81EPW3
 - Name: digikey-footprints : MSOP-8-1EP_W3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/MSOP-8-1EP_W3mm/
 - Description: digikey-footprints : MSOP-8-1EP_W3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-8-1EP_W3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-8-1EP_W3mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS81EPW3](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS81EPW3)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMS81EPW3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMS81EPW3)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|MSOP-8-1EP_W3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-8-1EP_W3mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS81EPW3|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSMS81EPW3|
 |name|name|digikey-footprints : MSOP-8-1EP_W3mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MSOP-8-1EP_W3mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tpa2005d1-q1.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

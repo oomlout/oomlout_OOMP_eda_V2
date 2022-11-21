@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-NC7SZ125M5X
 - Hex ID: SZK74XGXXNC7SZ125M5X
 - Name: 74xGxx : NC7SZ125M5X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/NC7SZ125M5X/
 - Description: 74xGxx : NC7SZ125M5X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-NC7SZ125M5X](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-NC7SZ125M5X)
 - Short Link: [http://oom.lt/SZK74XGXXNC7SZ125M5X](http://oom.lt/SZK74XGXXNC7SZ125M5X)

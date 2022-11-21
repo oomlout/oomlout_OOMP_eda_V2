@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-CDBU40-HF
 - Hex ID: SZKDIODECDBU4HF
 - Name: Diode : CDBU40-HF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/CDBU40-HF/
 - Description: Diode : CDBU40-HF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CDBU40-HF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CDBU40-HF)
 - Short Link: [http://oom.lt/SZKDIODECDBU4HF](http://oom.lt/SZKDIODECDBU4HF)

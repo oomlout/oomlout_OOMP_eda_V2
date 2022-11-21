@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-pspice-OPAMP
 - Hex ID: SZKPSPICEOPAMP
 - Name: pspice : OPAMP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/pspice/OPAMP/
 - Description: pspice : OPAMP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-OPAMP](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-OPAMP)
 - Short Link: [http://oom.lt/SZKPSPICEOPAMP](http://oom.lt/SZKPSPICEOPAMP)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNAUDIOJXLRNEUTRIKNC5FBVBVERTICAL > Connector_Audio : Jack_XLR_Neutrik_NC5FBV-B_Vertical](#fzkcnaudiojxlrneutriknc5fbvbvertical--connector_audio--jack_xlr_neutrik_nc5fbv-b_vertical)
+* [FZKCNAUDIOJXLRNEUTRIKNC5FBVBF > Connector_Audio : Jack_XLR_Neutrik_NC5FBV-B_Vertical](#fzkcnaudiojxlrneutriknc5fbvbf--connector_audio--jack_xlr_neutrik_nc5fbv-b_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJXLRNEUTRIKNC5FBVBVERTICAL > Connector_Audio : Jack_XLR_Neutrik_NC5FBV-B_Vertical
+# FZKCNAUDIOJXLRNEUTRIKNC5FBVBF > Connector_Audio : Jack_XLR_Neutrik_NC5FBV-B_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC5FBV-B_Vertical
-- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC5FBVBVERTICAL
+- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC5FBVBF
 - Name: Connector_Audio : Jack_XLR_Neutrik_NC5FBV-B_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC5FBV-B_Vertical/
 - Description: Connector_Audio : Jack_XLR_Neutrik_NC5FBV-B_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC5FBV-B_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC5FBV-B_Vertical)
-- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC5FBVBVERTICAL](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC5FBVBVERTICAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC5FBVBF](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC5FBVBF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_XLR_Neutrik_NC5FBV-B_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC5FBV-B_Vertical|
-|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC5FBVBVERTICAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC5FBVBF|
 |name|name|Connector_Audio : Jack_XLR_Neutrik_NC5FBV-B_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_XLR_Neutrik_NC5FBV-B_Vertical'</td><td> 'description'</td></tr><tr><td> 'B Series</td><td> 5 pole female XLR receptacle</td><td> grounding</td></tr><tr><td> separate ground contact to mating connector shell and front panel</td><td> vertical PCB mount</td><td> black chrome shell</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nc5fbv-b'</td><td> 'tags'</td></tr><tr><td> 'neutrik xlr b'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC5FBV-B_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

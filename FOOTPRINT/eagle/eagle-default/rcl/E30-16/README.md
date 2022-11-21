@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-E30-16
 - Hex ID: FZERCLE316
 - Name: rcl : E30-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/E30-16/
 - Description: rcl : E30-16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E30-16](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E30-16)
 - Short Link: [http://oom.lt/FZERCLE316](http://oom.lt/FZERCLE316)

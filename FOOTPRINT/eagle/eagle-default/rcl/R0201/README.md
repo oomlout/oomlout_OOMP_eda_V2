@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-R0201
 - Hex ID: FZERCLR21
 - Name: rcl : R0201
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/R0201/
 - Description: rcl : R0201
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R0201](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R0201)
 - Short Link: [http://oom.lt/FZERCLR21](http://oom.lt/FZERCLR21)

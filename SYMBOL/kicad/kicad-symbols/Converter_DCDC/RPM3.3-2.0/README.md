@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPM3.3-2.0
 - Hex ID: SZKCONRPM332
 - Name: Converter_DCDC : RPM3.3-2.0
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/RPM3.3-2.0/
 - Description: Converter_DCDC : RPM3.3-2.0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPM3.3-2.0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPM3.3-2.0)
 - Short Link: [http://oom.lt/SZKCONRPM332](http://oom.lt/SZKCONRPM332)

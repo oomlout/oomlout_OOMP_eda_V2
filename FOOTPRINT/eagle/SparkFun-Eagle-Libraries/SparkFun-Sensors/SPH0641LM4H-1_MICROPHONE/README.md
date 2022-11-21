@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SPH0641LM4H-1_MICROPHONE
 - Hex ID: FZSSPARKFUNSENSSPH641LM4H1MPHONE
 - Name: SparkFun-Sensors : SPH0641LM4H-1_MICROPHONE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/SPH0641LM4H-1_MICROPHONE/
 - Description: SparkFun-Sensors : SPH0641LM4H-1_MICROPHONE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SPH0641LM4H-1_MICROPHONE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SPH0641LM4H-1_MICROPHONE)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSSPH641LM4H1MPHONE](http://oom.lt/FZSSPARKFUNSENSSPH641LM4H1MPHONE)

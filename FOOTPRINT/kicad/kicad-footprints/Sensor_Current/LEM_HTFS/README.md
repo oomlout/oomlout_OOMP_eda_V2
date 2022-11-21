@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HTFS
 - Hex ID: FZKSENCURRENTLEMHTFS
 - Name: Sensor_Current : LEM_HTFS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/LEM_HTFS/
 - Description: Sensor_Current : LEM_HTFS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HTFS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HTFS)
 - Short Link: [http://oom.lt/FZKSENCURRENTLEMHTFS](http://oom.lt/FZKSENCURRENTLEMHTFS)

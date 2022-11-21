@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-ELD_426XXXX
 - Hex ID: FZKDI7SELD426XXXX
 - Name: Display_7Segment : ELD_426XXXX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/ELD_426XXXX/
 - Description: Display_7Segment : ELD_426XXXX
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-ELD_426XXXX](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-ELD_426XXXX)
 - Short Link: [http://oom.lt/FZKDI7SELD426XXXX](http://oom.lt/FZKDI7SELD426XXXX)

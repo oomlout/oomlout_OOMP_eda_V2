@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-EI54-18,8_16VA
 - Hex ID: FZETRAFOEI5418816VA
 - Name: trafo : EI54-18,8_16VA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/EI54-18,8_16VA/
 - Description: trafo : EI54-18,8_16VA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EI54-18,8_16VA](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EI54-18,8_16VA)
 - Short Link: [http://oom.lt/FZETRAFOEI5418816VA](http://oom.lt/FZETRAFOEI5418816VA)

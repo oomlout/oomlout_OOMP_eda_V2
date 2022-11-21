@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3966-2.5
 - Hex ID: SZKREGULATORLINEARLP396625
 - Name: Regulator_Linear : LP3966-2.5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP3966-2.5/
 - Description: Regulator_Linear : LP3966-2.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3966-2.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3966-2.5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP396625](http://oom.lt/SZKREGULATORLINEARLP396625)

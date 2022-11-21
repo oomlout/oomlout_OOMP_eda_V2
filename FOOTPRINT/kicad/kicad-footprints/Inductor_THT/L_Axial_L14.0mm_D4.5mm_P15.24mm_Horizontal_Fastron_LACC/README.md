@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINLAXIALL14D45P1524HORIZONTALFASTRONLACC > Inductor_THT : L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC](#fzkinlaxiall14d45p1524horizontalfastronlacc--inductor_tht--l_axial_l140mm_d45mm_p1524mm_horizontal_fastron_lacc)
+* [FZKINLAXIALL14D45P1524HFASTRONLACC > Inductor_THT : L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC](#fzkinlaxiall14d45p1524hfastronlacc--inductor_tht--l_axial_l140mm_d45mm_p1524mm_horizontal_fastron_lacc)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINLAXIALL14D45P1524HORIZONTALFASTRONLACC > Inductor_THT : L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC
+# FZKINLAXIALL14D45P1524HFASTRONLACC > Inductor_THT : L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC
-- Hex ID: FZKINLAXIALL14D45P1524HORIZONTALFASTRONLACC
+- Hex ID: FZKINLAXIALL14D45P1524HFASTRONLACC
 - Name: Inductor_THT : L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC/
 - Description: Inductor_THT : L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC)
-- Short Link: [http://oom.lt/FZKINLAXIALL14D45P1524HORIZONTALFASTRONLACC](http://oom.lt/FZKINLAXIALL14D45P1524HORIZONTALFASTRONLACC)
+- Short Link: [http://oom.lt/FZKINLAXIALL14D45P1524HFASTRONLACC](http://oom.lt/FZKINLAXIALL14D45P1524HFASTRONLACC)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_THT|
 |OOMP Index|oompIndex|L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC|
-|Hex ID (short code)|hexID|FZKINLAXIALL14D45P1524HORIZONTALFASTRONLACC|
+|Hex ID (short code)|hexID|FZKINLAXIALL14D45P1524HFASTRONLACC|
 |name|name|Inductor_THT : L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Axial series</td><td> Axial</td><td> Horizontal</td><td> pin pitch=15.24mm</td><td> </td><td> length*diameter=14*4.5mm^2</td><td> Fastron</td><td> LACC</td><td> http</td></tr><tr><td>//www.fastrongroup.com/image-show/20/LACC.pdf?type=Complete-DataSheet&productType=series'</td><td> 'tags'</td></tr><tr><td> 'Inductor Axial series Axial Horizontal pin pitch 15.24mm  length 14mm diameter 4.5mm Fastron LACC'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

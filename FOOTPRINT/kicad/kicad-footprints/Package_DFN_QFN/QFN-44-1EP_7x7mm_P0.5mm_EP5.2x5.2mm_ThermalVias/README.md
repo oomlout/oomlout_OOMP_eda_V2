@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNQFN441EP7X7P5EP52X52THERMALVIAS > Package_DFN_QFN : QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias](#fzkdfnqfn441ep7x7p5ep52x52thermalvias--package_dfn_qfn--qfn-44-1ep_7x7mm_p05mm_ep52x52mm_thermalvias)
+* [FZKDFNQFN441EP7X7P5EP52X52THV > Package_DFN_QFN : QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias](#fzkdfnqfn441ep7x7p5ep52x52thv--package_dfn_qfn--qfn-44-1ep_7x7mm_p05mm_ep52x52mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNQFN441EP7X7P5EP52X52THERMALVIAS > Package_DFN_QFN : QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias
+# FZKDFNQFN441EP7X7P5EP52X52THV > Package_DFN_QFN : QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias
-- Hex ID: FZKDFNQFN441EP7X7P5EP52X52THERMALVIAS
+- Hex ID: FZKDFNQFN441EP7X7P5EP52X52THV
 - Name: Package_DFN_QFN : QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias/
 - Description: Package_DFN_QFN : QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNQFN441EP7X7P5EP52X52THERMALVIAS](http://oom.lt/FZKDFNQFN441EP7X7P5EP52X52THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNQFN441EP7X7P5EP52X52THV](http://oom.lt/FZKDFNQFN441EP7X7P5EP52X52THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNQFN441EP7X7P5EP52X52THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNQFN441EP7X7P5EP52X52THV|
 |name|name|Package_DFN_QFN : QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 44 Pin (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

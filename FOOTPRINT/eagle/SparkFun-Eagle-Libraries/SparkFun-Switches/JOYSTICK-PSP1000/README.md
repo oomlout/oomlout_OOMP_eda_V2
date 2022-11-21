@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-JOYSTICK-PSP1000
 - Hex ID: FZSWJOYSTICKPSP1
 - Name: SparkFun-Switches : JOYSTICK-PSP1000
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/JOYSTICK-PSP1000/
 - Description: SparkFun-Switches : JOYSTICK-PSP1000
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-JOYSTICK-PSP1000](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-JOYSTICK-PSP1000)
 - Short Link: [http://oom.lt/FZSWJOYSTICKPSP1](http://oom.lt/FZSWJOYSTICKPSP1)

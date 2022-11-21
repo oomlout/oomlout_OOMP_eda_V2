@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKLSMLLITEONLTSTS326 > LED_SMD : LED_LiteOn_LTST-S326](#fzklsmlliteonltsts326--led_smd--led_liteon_ltst-s326)
+* [FZKLLLITEONLTSTS326 > LED_SMD : LED_LiteOn_LTST-S326](#fzkllliteonltsts326--led_smd--led_liteon_ltst-s326)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLLITEONLTSTS326 > LED_SMD : LED_LiteOn_LTST-S326
+# FZKLLLITEONLTSTS326 > LED_SMD : LED_LiteOn_LTST-S326
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-S326
-- Hex ID: FZKLSMLLITEONLTSTS326
+- Hex ID: FZKLLLITEONLTSTS326
 - Name: LED_SMD : LED_LiteOn_LTST-S326
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_LiteOn_LTST-S326/
 - Description: LED_SMD : LED_LiteOn_LTST-S326
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-S326](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-S326)
-- Short Link: [http://oom.lt/FZKLSMLLITEONLTSTS326](http://oom.lt/FZKLSMLLITEONLTSTS326)
+- Short Link: [http://oom.lt/FZKLLLITEONLTSTS326](http://oom.lt/FZKLLLITEONLTSTS326)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_LiteOn_LTST-S326|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-S326|
-|Hex ID (short code)|hexID|FZKLSMLLITEONLTSTS326|
+|Hex ID (short code)|hexID|FZKLLLITEONLTSTS326|
 |name|name|LED_SMD : LED_LiteOn_LTST-S326|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_LiteOn_LTST-S326'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//optoelectronics.liteon.com/upload/download/DS22-2000-287/LTST-S326KGJRKT.PDF'</td><td> 'tags'</td></tr><tr><td> 'LED SMD right angle  CCA'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_LiteOn_LTST-S326.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

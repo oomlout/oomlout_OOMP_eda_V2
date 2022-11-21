@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2405S-H
 - Hex ID: SZKCONITQ245SH
 - Name: Converter_DCDC : ITQ2405S-H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITQ2405S-H/
 - Description: Converter_DCDC : ITQ2405S-H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2405S-H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2405S-H)
 - Short Link: [http://oom.lt/SZKCONITQ245SH](http://oom.lt/SZKCONITQ245SH)

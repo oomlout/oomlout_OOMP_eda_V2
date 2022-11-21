@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-6_6.8x4.6mm_P1.27mm_Clearance7mm
 - Hex ID: FZKSOSSO668X46P127CLEARANCE7
 - Name: Package_SO : SSO-6_6.8x4.6mm_P1.27mm_Clearance7mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-6_6.8x4.6mm_P1.27mm_Clearance7mm/
 - Description: Package_SO : SSO-6_6.8x4.6mm_P1.27mm_Clearance7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-6_6.8x4.6mm_P1.27mm_Clearance7mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-6_6.8x4.6mm_P1.27mm_Clearance7mm)
 - Short Link: [http://oom.lt/FZKSOSSO668X46P127CLEARANCE7](http://oom.lt/FZKSOSSO668X46P127CLEARANCE7)

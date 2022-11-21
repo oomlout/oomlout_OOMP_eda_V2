@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-CLS6B-FKW
 - Hex ID: SZKLCLS6BFKW
 - Name: LED : CLS6B-FKW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/CLS6B-FKW/
 - Description: LED : CLS6B-FKW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-CLS6B-FKW](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-CLS6B-FKW)
 - Short Link: [http://oom.lt/SZKLCLS6BFKW](http://oom.lt/SZKLCLS6BFKW)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_BK377_LandPatternPL-005
 - Hex ID: FZKRFMCIRCUITSBK377LANDPATTERNPL5
 - Name: RF_Mini-Circuits : Mini-Circuits_BK377_LandPatternPL-005
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_BK377_LandPatternPL-005/
 - Description: RF_Mini-Circuits : Mini-Circuits_BK377_LandPatternPL-005
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_BK377_LandPatternPL-005](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_BK377_LandPatternPL-005)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSBK377LANDPATTERNPL5](http://oom.lt/FZKRFMCIRCUITSBK377LANDPATTERNPL5)

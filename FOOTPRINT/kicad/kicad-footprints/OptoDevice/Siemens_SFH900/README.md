@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Siemens_SFH900
 - Hex ID: FZKOPSIEMENSSFH9
 - Name: OptoDevice : Siemens_SFH900
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Siemens_SFH900/
 - Description: OptoDevice : Siemens_SFH900
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Siemens_SFH900](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Siemens_SFH900)
 - Short Link: [http://oom.lt/FZKOPSIEMENSSFH9](http://oom.lt/FZKOPSIEMENSSFH9)

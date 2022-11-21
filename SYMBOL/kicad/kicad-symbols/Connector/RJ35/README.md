@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ35
 - Hex ID: SZKCNRJ35
 - Name: Connector : RJ35
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ35/
 - Description: Connector : RJ35
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ35](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ35)
 - Short Link: [http://oom.lt/SZKCNRJ35](http://oom.lt/SZKCNRJ35)

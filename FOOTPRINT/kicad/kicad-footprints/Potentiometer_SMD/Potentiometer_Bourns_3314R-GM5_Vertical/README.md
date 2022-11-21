@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3314RGM5VERTICAL > Potentiometer_SMD : Potentiometer_Bourns_3314R-GM5_Vertical](#fzkpotentiometersmpotentiometerbourns3314rgm5vertical--potentiometer_smd--potentiometer_bourns_3314r-gm5_vertical)
+* [FZKPPOTBOURNS3314RGM5F > Potentiometer_SMD : Potentiometer_Bourns_3314R-GM5_Vertical](#fzkppotbourns3314rgm5f--potentiometer_smd--potentiometer_bourns_3314r-gm5_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3314RGM5VERTICAL > Potentiometer_SMD : Potentiometer_Bourns_3314R-GM5_Vertical
+# FZKPPOTBOURNS3314RGM5F > Potentiometer_SMD : Potentiometer_Bourns_3314R-GM5_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3314R-GM5_Vertical
-- Hex ID: FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3314RGM5VERTICAL
+- Hex ID: FZKPPOTBOURNS3314RGM5F
 - Name: Potentiometer_SMD : Potentiometer_Bourns_3314R-GM5_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_3314R-GM5_Vertical/
 - Description: Potentiometer_SMD : Potentiometer_Bourns_3314R-GM5_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3314R-GM5_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3314R-GM5_Vertical)
-- Short Link: [http://oom.lt/FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3314RGM5VERTICAL](http://oom.lt/FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3314RGM5VERTICAL)
+- Short Link: [http://oom.lt/FZKPPOTBOURNS3314RGM5F](http://oom.lt/FZKPPOTBOURNS3314RGM5F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_SMD|
 |OOMP Index|oompIndex|Potentiometer_Bourns_3314R-GM5_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3314R-GM5_Vertical|
-|Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3314RGM5VERTICAL|
+|Hex ID (short code)|hexID|FZKPPOTBOURNS3314RGM5F|
 |name|name|Potentiometer_SMD : Potentiometer_Bourns_3314R-GM5_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_3314R-GM5_Vertical'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> Bourns 3314R-GM5</td><td> http</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/3314.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical Bourns 3314R-GM5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3314R-GM5_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

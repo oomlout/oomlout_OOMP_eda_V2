@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-GRIDEYE-AMG88
 - Hex ID: FZSSPARKFUNSENSGRIDEYEAMG88
 - Name: SparkFun-Sensors : GRIDEYE-AMG88
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/GRIDEYE-AMG88/
 - Description: SparkFun-Sensors : GRIDEYE-AMG88
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-GRIDEYE-AMG88](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-GRIDEYE-AMG88)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSGRIDEYEAMG88](http://oom.lt/FZSSPARKFUNSENSGRIDEYEAMG88)

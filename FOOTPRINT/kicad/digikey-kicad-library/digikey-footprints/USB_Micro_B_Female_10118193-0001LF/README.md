@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE11181931LF > digikey-footprints : USB_Micro_B_Female_10118193-0001LF](#fzkicaddigikeykicadlibrarydigikeyfootprintsumbfemale11181931lf--digikey-footprints--usb_micro_b_female_10118193-0001lf)
+* [FZDIGIDIGIKEYFOOTPRINTSUMBF11181931LF > digikey-footprints : USB_Micro_B_Female_10118193-0001LF](#fzdigidigikeyfootprintsumbf11181931lf--digikey-footprints--usb_micro_b_female_10118193-0001lf)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE11181931LF > digikey-footprints : USB_Micro_B_Female_10118193-0001LF
+# FZDIGIDIGIKEYFOOTPRINTSUMBF11181931LF > digikey-footprints : USB_Micro_B_Female_10118193-0001LF
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_10118193-0001LF
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE11181931LF
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMBF11181931LF
 - Name: digikey-footprints : USB_Micro_B_Female_10118193-0001LF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Female_10118193-0001LF/
 - Description: digikey-footprints : USB_Micro_B_Female_10118193-0001LF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_10118193-0001LF](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_10118193-0001LF)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE11181931LF](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE11181931LF)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBF11181931LF](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBF11181931LF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|USB_Micro_B_Female_10118193-0001LF|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_10118193-0001LF|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE11181931LF|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSUMBF11181931LF|
 |name|name|digikey-footprints : USB_Micro_B_Female_10118193-0001LF|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Micro_B_Female_10118193-0001LF'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//portal.fciconnect.com/Comergent//fci/drawing/10118193.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

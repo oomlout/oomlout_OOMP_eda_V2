@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RR2A
 - Hex ID: FZERELAYRR2A
 - Name: relay : RR2A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RR2A/
 - Description: relay : RR2A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RR2A](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RR2A)
 - Short Link: [http://oom.lt/FZERELAYRR2A](http://oom.lt/FZERELAYRR2A)

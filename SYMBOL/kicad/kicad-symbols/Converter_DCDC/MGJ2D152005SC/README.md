@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ2D152005SC
 - Hex ID: SZKCONMGJ2D1525SC
 - Name: Converter_DCDC : MGJ2D152005SC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MGJ2D152005SC/
 - Description: Converter_DCDC : MGJ2D152005SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ2D152005SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ2D152005SC)
 - Short Link: [http://oom.lt/SZKCONMGJ2D1525SC](http://oom.lt/SZKCONMGJ2D1525SC)

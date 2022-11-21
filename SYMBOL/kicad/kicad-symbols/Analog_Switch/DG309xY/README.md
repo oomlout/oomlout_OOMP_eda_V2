@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKANALOGSWITCHDG39XY > Analog_Switch : DG309xY](#szkanalogswitchdg39xy--analog_switch--dg309xy)
+* [SZKANALOGSWDG39XY > Analog_Switch : DG309xY](#szkanalogswdg39xy--analog_switch--dg309xy)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKANALOGSWITCHDG39XY > Analog_Switch : DG309xY
+# SZKANALOGSWDG39XY > Analog_Switch : DG309xY
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG309xY
-- Hex ID: SZKANALOGSWITCHDG39XY
+- Hex ID: SZKANALOGSWDG39XY
 - Name: Analog_Switch : DG309xY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG309xY/
 - Description: Analog_Switch : DG309xY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG309xY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG309xY)
-- Short Link: [http://oom.lt/SZKANALOGSWITCHDG39XY](http://oom.lt/SZKANALOGSWITCHDG39XY)
+- Short Link: [http://oom.lt/SZKANALOGSWDG39XY](http://oom.lt/SZKANALOGSWDG39XY)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Analog_Switch|
 |OOMP Index|oompIndex|DG309xY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG309xY|
-|Hex ID (short code)|hexID|SZKANALOGSWITCHDG39XY|
+|Hex ID (short code)|hexID|SZKANALOGSWDG39XY|
 |name|name|Analog_Switch : DG309xY|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG309xY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16_3.9x9.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdf.datasheetcatalog.com/datasheets/70/494502_DS.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad SPST Analog Switches</td><td> normally ON</td><td> 60Ohm Ron</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x9.9mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2005M
 - Hex ID: SZKDRIVERFETIRS25M
 - Name: Driver_FET : IRS2005M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS2005M/
 - Description: Driver_FET : IRS2005M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2005M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2005M)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS25M](http://oom.lt/SZKDRIVERFETIRS25M)

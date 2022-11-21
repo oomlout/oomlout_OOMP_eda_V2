@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-FA-128
 - Hex ID: FZEXFA128
 - Name: crystal : FA-128
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/FA-128/
 - Description: crystal : FA-128
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-FA-128](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-FA-128)
 - Short Link: [http://oom.lt/FZEXFA128](http://oom.lt/FZEXFA128)

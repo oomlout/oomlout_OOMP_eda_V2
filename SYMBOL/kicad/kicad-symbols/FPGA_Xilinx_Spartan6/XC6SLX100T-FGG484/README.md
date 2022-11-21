@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX100T-FGG484
 - Hex ID: SZKFPGAXILINXSPARTAN6XC6SLX1TFGG484
 - Name: FPGA_Xilinx_Spartan6 : XC6SLX100T-FGG484
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX100T-FGG484/
 - Description: FPGA_Xilinx_Spartan6 : XC6SLX100T-FGG484
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX100T-FGG484](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX100T-FGG484)
 - Short Link: [http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX1TFGG484](http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX1TFGG484)

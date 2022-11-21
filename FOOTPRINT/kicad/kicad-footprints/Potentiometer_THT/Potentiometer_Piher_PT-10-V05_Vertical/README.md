@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPPOTENTIOMETERPIHERPT1V5VERTICAL > Potentiometer_THT : Potentiometer_Piher_PT-10-V05_Vertical](#fzkppotentiometerpiherpt1v5vertical--potentiometer_tht--potentiometer_piher_pt-10-v05_vertical)
+* [FZKPPOTPIHERPT1V5F > Potentiometer_THT : Potentiometer_Piher_PT-10-V05_Vertical](#fzkppotpiherpt1v5f--potentiometer_tht--potentiometer_piher_pt-10-v05_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPPOTENTIOMETERPIHERPT1V5VERTICAL > Potentiometer_THT : Potentiometer_Piher_PT-10-V05_Vertical
+# FZKPPOTPIHERPT1V5F > Potentiometer_THT : Potentiometer_Piher_PT-10-V05_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-10-V05_Vertical
-- Hex ID: FZKPPOTENTIOMETERPIHERPT1V5VERTICAL
+- Hex ID: FZKPPOTPIHERPT1V5F
 - Name: Potentiometer_THT : Potentiometer_Piher_PT-10-V05_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PT-10-V05_Vertical/
 - Description: Potentiometer_THT : Potentiometer_Piher_PT-10-V05_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-10-V05_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-10-V05_Vertical)
-- Short Link: [http://oom.lt/FZKPPOTENTIOMETERPIHERPT1V5VERTICAL](http://oom.lt/FZKPPOTENTIOMETERPIHERPT1V5VERTICAL)
+- Short Link: [http://oom.lt/FZKPPOTPIHERPT1V5F](http://oom.lt/FZKPPOTPIHERPT1V5F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_THT|
 |OOMP Index|oompIndex|Potentiometer_Piher_PT-10-V05_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-10-V05_Vertical|
-|Hex ID (short code)|hexID|FZKPPOTENTIOMETERPIHERPT1V5VERTICAL|
+|Hex ID (short code)|hexID|FZKPPOTPIHERPT1V5F|
 |name|name|Potentiometer_THT : Potentiometer_Piher_PT-10-V05_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Piher_PT-10-V05_Vertical'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> Piher PT-10-V05</td><td> http</td></tr><tr><td>//www.piher-nacesa.com/pdf/12-PT10v03.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical Piher PT-10-V05'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Piher_PT-10-V05_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

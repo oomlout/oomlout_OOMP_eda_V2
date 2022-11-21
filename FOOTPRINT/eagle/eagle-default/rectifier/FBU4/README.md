@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-FBU4
 - Hex ID: FZERECTIFIERFBU4
 - Name: rectifier : FBU4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/FBU4/
 - Description: rectifier : FBU4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-FBU4](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-FBU4)
 - Short Link: [http://oom.lt/FZERECTIFIERFBU4](http://oom.lt/FZERECTIFIERFBU4)

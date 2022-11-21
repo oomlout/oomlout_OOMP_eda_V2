@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-PG001M
 - Hex ID: SZKDRIVERMOTORPG1M
 - Name: Driver_Motor : PG001M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/PG001M/
 - Description: Driver_Motor : PG001M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-PG001M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-PG001M)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORPG1M](http://oom.lt/SZKDRIVERMOTORPG1M)

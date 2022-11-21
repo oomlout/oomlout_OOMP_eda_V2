@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086DT50TR
 - Hex ID: SZKREGULATORLINEARLD186DT5TR
 - Name: Regulator_Linear : LD1086DT50TR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086DT50TR/
 - Description: Regulator_Linear : LD1086DT50TR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086DT50TR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086DT50TR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLD186DT5TR](http://oom.lt/SZKREGULATORLINEARLD186DT5TR)

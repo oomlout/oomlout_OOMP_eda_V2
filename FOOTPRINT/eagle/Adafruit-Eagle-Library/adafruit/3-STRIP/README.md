@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-3-STRIP
 - Hex ID: FZA3STRIP
 - Name: adafruit : 3-STRIP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/3-STRIP/
 - Description: adafruit : 3-STRIP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-3-STRIP](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-3-STRIP)
 - Short Link: [http://oom.lt/FZA3STRIP](http://oom.lt/FZA3STRIP)

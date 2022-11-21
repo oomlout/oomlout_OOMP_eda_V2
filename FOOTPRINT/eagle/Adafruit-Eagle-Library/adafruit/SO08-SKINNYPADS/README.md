@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO08-SKINNYPADS
 - Hex ID: FZASO8SP
 - Name: adafruit : SO08-SKINNYPADS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SO08-SKINNYPADS/
 - Description: adafruit : SO08-SKINNYPADS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO08-SKINNYPADS](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO08-SKINNYPADS)
 - Short Link: [http://oom.lt/FZASO8SP](http://oom.lt/FZASO8SP)

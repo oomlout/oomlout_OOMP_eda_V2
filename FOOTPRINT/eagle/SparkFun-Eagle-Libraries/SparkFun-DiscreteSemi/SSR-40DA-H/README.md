@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SSR-40DA-H
 - Hex ID: FZSDSSSR4DAH
 - Name: SparkFun-DiscreteSemi : SSR-40DA-H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SSR-40DA-H/
 - Description: SparkFun-DiscreteSemi : SSR-40DA-H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SSR-40DA-H](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SSR-40DA-H)
 - Short Link: [http://oom.lt/FZSDSSSR4DAH](http://oom.lt/FZSDSSSR4DAH)

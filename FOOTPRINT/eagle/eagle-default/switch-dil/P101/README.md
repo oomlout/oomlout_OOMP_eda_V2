@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHDILP11 > switch-dil : P101](#fzeswitchdilp11--switch-dil--p101)
+* [FZESWDILP11 > switch-dil : P101](#fzeswdilp11--switch-dil--p101)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHDILP11 > switch-dil : P101
+# FZESWDILP11 > switch-dil : P101
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-P101
-- Hex ID: FZESWITCHDILP11
+- Hex ID: FZESWDILP11
 - Name: switch-dil : P101
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/P101/
 - Description: switch-dil : P101
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-P101](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-P101)
-- Short Link: [http://oom.lt/FZESWITCHDILP11](http://oom.lt/FZESWITCHDILP11)
+- Short Link: [http://oom.lt/FZESWDILP11](http://oom.lt/FZESWDILP11)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-dil|
 |OOMP Index|oompIndex|P101|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-dil-P101|
-|Hex ID (short code)|hexID|FZESWITCHDILP11|
+|Hex ID (short code)|hexID|FZESWDILP11|
 |name|name|switch-dil : P101|
 ||||

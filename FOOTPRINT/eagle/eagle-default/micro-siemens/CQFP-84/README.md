@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-CQFP-84
 - Hex ID: FZEMSIEMENSCQFP84
 - Name: micro-siemens : CQFP-84
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/CQFP-84/
 - Description: micro-siemens : CQFP-84
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-CQFP-84](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-CQFP-84)
 - Short Link: [http://oom.lt/FZEMSIEMENSCQFP84](http://oom.lt/FZEMSIEMENSCQFP84)

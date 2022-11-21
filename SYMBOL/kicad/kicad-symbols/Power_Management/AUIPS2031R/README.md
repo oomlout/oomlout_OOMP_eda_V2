@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS2031R
 - Hex ID: SZKPOWERMANAGEMENTAUIPS231R
 - Name: Power_Management : AUIPS2031R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS2031R/
 - Description: Power_Management : AUIPS2031R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS2031R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS2031R)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIPS231R](http://oom.lt/SZKPOWERMANAGEMENTAUIPS231R)

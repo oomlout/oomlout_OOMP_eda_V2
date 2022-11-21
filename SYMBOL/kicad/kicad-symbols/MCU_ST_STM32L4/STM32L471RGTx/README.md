@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L471RGTx
 - Hex ID: SZKMCUSTSTM32L4STM32L471RGTX
 - Name: MCU_ST_STM32L4 : STM32L471RGTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L471RGTx/
 - Description: MCU_ST_STM32L4 : STM32L471RGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L471RGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L471RGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L471RGTX](http://oom.lt/SZKMCUSTSTM32L4STM32L471RGTX)

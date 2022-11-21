@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2112IRTV
 - Hex ID: SZKMCUTEXASMSP43MSP43F2112IRTV
 - Name: MCU_Texas_MSP430 : MSP430F2112IRTV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F2112IRTV/
 - Description: MCU_Texas_MSP430 : MSP430F2112IRTV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2112IRTV](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2112IRTV)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F2112IRTV](http://oom.lt/SZKMCUTEXASMSP43MSP43F2112IRTV)

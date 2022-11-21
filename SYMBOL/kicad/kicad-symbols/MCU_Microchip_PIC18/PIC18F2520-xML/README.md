@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F2520-xML
 - Hex ID: SZKMCUMCHIPPIC18PIC18F252XML
 - Name: MCU_Microchip_PIC18 : PIC18F2520-xML
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F2520-xML/
 - Description: MCU_Microchip_PIC18 : PIC18F2520-xML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F2520-xML](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F2520-xML)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F252XML](http://oom.lt/SZKMCUMCHIPPIC18PIC18F252XML)

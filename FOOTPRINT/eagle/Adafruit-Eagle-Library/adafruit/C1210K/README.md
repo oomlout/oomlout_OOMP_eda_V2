@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1210K
 - Hex ID: FZAC121K
 - Name: adafruit : C1210K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C1210K/
 - Description: adafruit : C1210K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1210K](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1210K)
 - Short Link: [http://oom.lt/FZAC121K](http://oom.lt/FZAC121K)

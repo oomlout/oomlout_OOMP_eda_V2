@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EVQ-Q2
 - Hex ID: FZAEVQQ2
 - Name: adafruit : EVQ-Q2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/EVQ-Q2/
 - Description: adafruit : EVQ-Q2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EVQ-Q2](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EVQ-Q2)
 - Short Link: [http://oom.lt/FZAEVQQ2](http://oom.lt/FZAEVQQ2)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_MCore-MMC2114CFCPU
 - Hex ID: SZKMCUNXPMCOREC2114CFCPU
 - Name: MCU_NXP_MCore : MMC2114CFCPU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_MCore/MMC2114CFCPU/
 - Description: MCU_NXP_MCore : MMC2114CFCPU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_MCore-MMC2114CFCPU](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_MCore-MMC2114CFCPU)
 - Short Link: [http://oom.lt/SZKMCUNXPMCOREC2114CFCPU](http://oom.lt/SZKMCUNXPMCOREC2114CFCPU)

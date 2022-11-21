@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B3F-31XX
 - Hex ID: FZAB3F31XX
 - Name: adafruit : B3F-31XX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/B3F-31XX/
 - Description: adafruit : B3F-31XX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B3F-31XX](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B3F-31XX)
 - Short Link: [http://oom.lt/FZAB3F31XX](http://oom.lt/FZAB3F31XX)

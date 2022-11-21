@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSOJ263 > ref-packages : SOJ26-3](#fzerefpackagessoj263--ref-packages--soj26-3)
+* [FZEREFPSSOJ263 > ref-packages : SOJ26-3](#fzerefpssoj263--ref-packages--soj26-3)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSOJ263 > ref-packages : SOJ26-3
+# FZEREFPSSOJ263 > ref-packages : SOJ26-3
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOJ26-3
-- Hex ID: FZEREFPACKAGESSOJ263
+- Hex ID: FZEREFPSSOJ263
 - Name: ref-packages : SOJ26-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SOJ26-3/
 - Description: ref-packages : SOJ26-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOJ26-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOJ26-3)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSOJ263](http://oom.lt/FZEREFPACKAGESSOJ263)
+- Short Link: [http://oom.lt/FZEREFPSSOJ263](http://oom.lt/FZEREFPSSOJ263)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SOJ26-3|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SOJ26-3|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSOJ263|
+|Hex ID (short code)|hexID|FZEREFPSSOJ263|
 |name|name|ref-packages : SOJ26-3|
 ||||

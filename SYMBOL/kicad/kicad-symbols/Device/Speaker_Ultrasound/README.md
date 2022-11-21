@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Speaker_Ultrasound
 - Hex ID: SZKDEVICESPEAKERULTRASOUND
 - Name: Device : Speaker_Ultrasound
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Speaker_Ultrasound/
 - Description: Device : Speaker_Ultrasound
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Speaker_Ultrasound](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Speaker_Ultrasound)
 - Short Link: [http://oom.lt/SZKDEVICESPEAKERULTRASOUND](http://oom.lt/SZKDEVICESPEAKERULTRASOUND)

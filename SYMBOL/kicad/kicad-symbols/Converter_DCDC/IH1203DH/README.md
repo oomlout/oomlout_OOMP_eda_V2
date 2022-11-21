@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH1203DH
 - Hex ID: SZKCONIH123DH
 - Name: Converter_DCDC : IH1203DH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IH1203DH/
 - Description: Converter_DCDC : IH1203DH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH1203DH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH1203DH)
 - Short Link: [http://oom.lt/SZKCONIH123DH](http://oom.lt/SZKCONIH123DH)

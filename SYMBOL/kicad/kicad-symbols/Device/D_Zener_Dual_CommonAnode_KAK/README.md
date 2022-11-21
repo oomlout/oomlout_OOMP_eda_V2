@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KAK
 - Hex ID: SZKDEVICEDZENERDUALCOONANODEKAK
 - Name: Device : D_Zener_Dual_CommonAnode_KAK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonAnode_KAK/
 - Description: Device : D_Zener_Dual_CommonAnode_KAK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KAK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KAK)
 - Short Link: [http://oom.lt/SZKDEVICEDZENERDUALCOONANODEKAK](http://oom.lt/SZKDEVICEDZENERDUALCOONANODEKAK)

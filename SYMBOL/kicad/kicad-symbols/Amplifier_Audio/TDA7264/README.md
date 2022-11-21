@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7264
 - Hex ID: SZKAMPLIFIERAUDIOTDA7264
 - Name: Amplifier_Audio : TDA7264
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TDA7264/
 - Description: Amplifier_Audio : TDA7264
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7264](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7264)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTDA7264](http://oom.lt/SZKAMPLIFIERAUDIOTDA7264)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lstb-MA07-2
 - Hex ID: FZECONLSTBMA72
 - Name: con-lstb : MA07-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lstb/MA07-2/
 - Description: con-lstb : MA07-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lstb-MA07-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lstb-MA07-2)
 - Short Link: [http://oom.lt/FZECONLSTBMA72](http://oom.lt/FZECONLSTBMA72)

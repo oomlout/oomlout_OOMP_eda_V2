@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-06132
 - Hex ID: FZA6132
 - Name: adafruit : 06132
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/06132/
 - Description: adafruit : 06132
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-06132](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-06132)
 - Short Link: [http://oom.lt/FZA6132](http://oom.lt/FZA6132)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1175-ADJ_SOT223
 - Hex ID: SZKREGULATORLINEARLT1175ADJSOT223
 - Name: Regulator_Linear : LT1175-ADJ_SOT223
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1175-ADJ_SOT223/
 - Description: Regulator_Linear : LT1175-ADJ_SOT223
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1175-ADJ_SOT223](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1175-ADJ_SOT223)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1175ADJSOT223](http://oom.lt/SZKREGULATORLINEARLT1175ADJSOT223)

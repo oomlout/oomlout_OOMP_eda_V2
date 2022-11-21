@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF7V5C8N7 > oomlout_OOMP_parts : CAPC-0805-X-NF70-V50-C8N70](#fzkicadoomloutoompkicadoomloutoomppartscapc85xnf7v5c8n7--oomlout_oomp_parts--capc-0805-x-nf70-v50-c8n70)
+* [FZOOMPKOOMPPCAPC85XNF7V5C8N7 > oomlout_OOMP_parts : CAPC-0805-X-NF70-V50-C8N70](#fzoompkoomppcapc85xnf7v5c8n7--oomlout_oomp_parts--capc-0805-x-nf70-v50-c8n70)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF7V5C8N7 > oomlout_OOMP_parts : CAPC-0805-X-NF70-V50-C8N70
+# FZOOMPKOOMPPCAPC85XNF7V5C8N7 > oomlout_OOMP_parts : CAPC-0805-X-NF70-V50-C8N70
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF70-V50-C8N70
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF7V5C8N7
+- Hex ID: FZOOMPKOOMPPCAPC85XNF7V5C8N7
 - Name: oomlout_OOMP_parts : CAPC-0805-X-NF70-V50-C8N70
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-NF70-V50-C8N70/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-NF70-V50-C8N70
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF70-V50-C8N70](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF70-V50-C8N70)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF7V5C8N7](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF7V5C8N7)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC85XNF7V5C8N7](http://oom.lt/FZOOMPKOOMPPCAPC85XNF7V5C8N7)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|CAPC-0805-X-NF70-V50-C8N70|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF70-V50-C8N70|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF7V5C8N7|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPCAPC85XNF7V5C8N7|
 |name|name|oomlout_OOMP_parts : CAPC-0805-X-NF70-V50-C8N70|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CAPC-0805-X-NF70-V50-C8N70'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C8N70;PARTL C-JLCC;C13967;MANUF C-XXXX;CL21B474KBFNNNE; Capacitor SMD 0805 (2012 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf</td><td> https</td></tr><tr><td>//docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

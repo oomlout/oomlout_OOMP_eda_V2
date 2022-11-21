@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-LZC-00CW40
 - Hex ID: FZELLZCCW4
 - Name: led : LZC-00CW40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/LZC-00CW40/
 - Description: led : LZC-00CW40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LZC-00CW40](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LZC-00CW40)
 - Short Link: [http://oom.lt/FZELLZCCW4](http://oom.lt/FZELLZCCW4)

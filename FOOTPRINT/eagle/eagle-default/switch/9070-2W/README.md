@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCH972W > switch : 9070-2W](#fzeswitch972w--switch--9070-2w)
+* [FZESW972W > switch : 9070-2W](#fzesw972w--switch--9070-2w)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCH972W > switch : 9070-2W
+# FZESW972W > switch : 9070-2W
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-9070-2W
-- Hex ID: FZESWITCH972W
+- Hex ID: FZESW972W
 - Name: switch : 9070-2W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/9070-2W/
 - Description: switch : 9070-2W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-9070-2W](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-9070-2W)
-- Short Link: [http://oom.lt/FZESWITCH972W](http://oom.lt/FZESWITCH972W)
+- Short Link: [http://oom.lt/FZESW972W](http://oom.lt/FZESW972W)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|9070-2W|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-9070-2W|
-|Hex ID (short code)|hexID|FZESWITCH972W|
+|Hex ID (short code)|hexID|FZESW972W|
 |name|name|switch : 9070-2W|
 ||||

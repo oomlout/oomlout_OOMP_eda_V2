@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-VV
 - Hex ID: FZELINEARVV
 - Name: linear : VV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/VV/
 - Description: linear : VV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-VV](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-VV)
 - Short Link: [http://oom.lt/FZELINEARVV](http://oom.lt/FZELINEARVV)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSLSUPERBRIGHTSML314 > SparkFun-LED : SUPER_BRIGHT_SMD_LED_3014](#fzslsuperbrightsml314--sparkfun-led--super_bright_smd_led_3014)
+* [FZSLSUPERBRSML314 > SparkFun-LED : SUPER_BRIGHT_SMD_LED_3014](#fzslsuperbrsml314--sparkfun-led--super_bright_smd_led_3014)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSLSUPERBRIGHTSML314 > SparkFun-LED : SUPER_BRIGHT_SMD_LED_3014
+# FZSLSUPERBRSML314 > SparkFun-LED : SUPER_BRIGHT_SMD_LED_3014
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-SUPER_BRIGHT_SMD_LED_3014
-- Hex ID: FZSLSUPERBRIGHTSML314
+- Hex ID: FZSLSUPERBRSML314
 - Name: SparkFun-LED : SUPER_BRIGHT_SMD_LED_3014
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/SUPER_BRIGHT_SMD_LED_3014/
 - Description: SparkFun-LED : SUPER_BRIGHT_SMD_LED_3014
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-SUPER_BRIGHT_SMD_LED_3014](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-SUPER_BRIGHT_SMD_LED_3014)
-- Short Link: [http://oom.lt/FZSLSUPERBRIGHTSML314](http://oom.lt/FZSLSUPERBRIGHTSML314)
+- Short Link: [http://oom.lt/FZSLSUPERBRSML314](http://oom.lt/FZSLSUPERBRSML314)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-LED|
 |OOMP Index|oompIndex|SUPER_BRIGHT_SMD_LED_3014|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-SUPER_BRIGHT_SMD_LED_3014|
-|Hex ID (short code)|hexID|FZSLSUPERBRIGHTSML314|
+|Hex ID (short code)|hexID|FZSLSUPERBRSML314|
 |name|name|SparkFun-LED : SUPER_BRIGHT_SMD_LED_3014|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Difference-THS4551xRGT
 - Hex ID: SZKAMPLIFIERDIFFERENCETHS4551XRGT
 - Name: Amplifier_Difference : THS4551xRGT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/
 - Description: Amplifier_Difference : THS4551xRGT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-THS4551xRGT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-THS4551xRGT)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCETHS4551XRGT](http://oom.lt/SZKAMPLIFIERDIFFERENCETHS4551XRGT)

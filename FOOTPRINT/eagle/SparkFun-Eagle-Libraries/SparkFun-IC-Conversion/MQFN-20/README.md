@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-MQFN-20
 - Hex ID: FZSIVMQFN2
 - Name: SparkFun-IC-Conversion : MQFN-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Conversion/MQFN-20/
 - Description: SparkFun-IC-Conversion : MQFN-20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-MQFN-20](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-MQFN-20)
 - Short Link: [http://oom.lt/FZSIVMQFN2](http://oom.lt/FZSIVMQFN2)

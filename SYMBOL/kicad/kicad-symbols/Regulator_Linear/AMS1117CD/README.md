@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AMS1117CD
 - Hex ID: SZKREGULATORLINEARAMS1117CD
 - Name: Regulator_Linear : AMS1117CD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AMS1117CD/
 - Description: Regulator_Linear : AMS1117CD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AMS1117CD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AMS1117CD)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAMS1117CD](http://oom.lt/SZKREGULATORLINEARAMS1117CD)

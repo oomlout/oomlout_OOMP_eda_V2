@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESD125 > ref-packages : D-12.5](#fzerefpackagesd125--ref-packages--d-125)
+* [FZEREFPSD125 > ref-packages : D-12.5](#fzerefpsd125--ref-packages--d-125)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESD125 > ref-packages : D-12.5
+# FZEREFPSD125 > ref-packages : D-12.5
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-D-12.5
-- Hex ID: FZEREFPACKAGESD125
+- Hex ID: FZEREFPSD125
 - Name: ref-packages : D-12.5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/D-12.5/
 - Description: ref-packages : D-12.5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-D-12.5](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-D-12.5)
-- Short Link: [http://oom.lt/FZEREFPACKAGESD125](http://oom.lt/FZEREFPACKAGESD125)
+- Short Link: [http://oom.lt/FZEREFPSD125](http://oom.lt/FZEREFPSD125)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|D-12.5|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-D-12.5|
-|Hex ID (short code)|hexID|FZEREFPACKAGESD125|
+|Hex ID (short code)|hexID|FZEREFPSD125|
 |name|name|ref-packages : D-12.5|
 ||||

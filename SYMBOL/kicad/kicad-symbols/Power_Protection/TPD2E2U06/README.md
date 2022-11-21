@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TPD2E2U06
 - Hex ID: SZKPOWERPROTECTIONTPD2E2U6
 - Name: Power_Protection : TPD2E2U06
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD2E2U06/
 - Description: Power_Protection : TPD2E2U06
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD2E2U06](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD2E2U06)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTPD2E2U6](http://oom.lt/SZKPOWERPROTECTIONTPD2E2U6)

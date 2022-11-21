@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-TO92
 - Hex ID: FZEVREGTO92
 - Name: v-reg : TO92
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/TO92/
 - Description: v-reg : TO92
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO92](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO92)
 - Short Link: [http://oom.lt/FZEVREGTO92](http://oom.lt/FZEVREGTO92)

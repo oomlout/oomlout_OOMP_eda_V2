@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-pnp-TO92-EBC
 - Hex ID: FZETRANSISTORPNPTO92EBC
 - Name: transistor-pnp : TO92-EBC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-pnp/TO92-EBC/
 - Description: transistor-pnp : TO92-EBC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO92-EBC](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO92-EBC)
 - Short Link: [http://oom.lt/FZETRANSISTORPNPTO92EBC](http://oom.lt/FZETRANSISTORPNPTO92EBC)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SM4007
 - Hex ID: SZKDIODESM47
 - Name: Diode : SM4007
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM4007/
 - Description: Diode : SM4007
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM4007](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM4007)
 - Short Link: [http://oom.lt/SZKDIODESM47](http://oom.lt/SZKDIODESM47)

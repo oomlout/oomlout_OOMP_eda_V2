@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-NEO-M9N_M8T_M8U_D9S
 - Hex ID: FZSGNEOM9NM8TM8UD9S
 - Name: SparkFun-GPS : NEO-M9N_M8T_M8U_D9S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/NEO-M9N_M8T_M8U_D9S/
 - Description: SparkFun-GPS : NEO-M9N_M8T_M8U_D9S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-NEO-M9N_M8T_M8U_D9S](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-NEO-M9N_M8T_M8U_D9S)
 - Short Link: [http://oom.lt/FZSGNEOM9NM8TM8UD9S](http://oom.lt/FZSGNEOM9NM8TM8UD9S)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-TO92
 - Hex ID: FZELINEARTO92
 - Name: linear : TO92
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/TO92/
 - Description: linear : TO92
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO92](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO92)
 - Short Link: [http://oom.lt/FZELINEARTO92](http://oom.lt/FZELINEARTO92)

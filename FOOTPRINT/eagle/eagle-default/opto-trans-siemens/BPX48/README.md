@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BPX48
 - Hex ID: FZEOPTOTRANSSIEMENSBPX48
 - Name: opto-trans-siemens : BPX48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-trans-siemens/BPX48/
 - Description: opto-trans-siemens : BPX48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BPX48](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BPX48)
 - Short Link: [http://oom.lt/FZEOPTOTRANSSIEMENSBPX48](http://oom.lt/FZEOPTOTRANSSIEMENSBPX48)

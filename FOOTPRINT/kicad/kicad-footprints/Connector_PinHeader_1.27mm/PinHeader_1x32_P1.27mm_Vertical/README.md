@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINHEADER127PINHEADER1X32P127VERTICAL > Connector_PinHeader_1.27mm : PinHeader_1x32_P1.27mm_Vertical](#fzkcnpinheader127pinheader1x32p127vertical--connector_pinheader_127mm--pinheader_1x32_p127mm_vertical)
+* [FZKCNPH127PH1X32P127F > Connector_PinHeader_1.27mm : PinHeader_1x32_P1.27mm_Vertical](#fzkcnph127ph1x32p127f--connector_pinheader_127mm--pinheader_1x32_p127mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINHEADER127PINHEADER1X32P127VERTICAL > Connector_PinHeader_1.27mm : PinHeader_1x32_P1.27mm_Vertical
+# FZKCNPH127PH1X32P127F > Connector_PinHeader_1.27mm : PinHeader_1x32_P1.27mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_1x32_P1.27mm_Vertical
-- Hex ID: FZKCNPINHEADER127PINHEADER1X32P127VERTICAL
+- Hex ID: FZKCNPH127PH1X32P127F
 - Name: Connector_PinHeader_1.27mm : PinHeader_1x32_P1.27mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_1x32_P1.27mm_Vertical/
 - Description: Connector_PinHeader_1.27mm : PinHeader_1x32_P1.27mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_1x32_P1.27mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_1x32_P1.27mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNPINHEADER127PINHEADER1X32P127VERTICAL](http://oom.lt/FZKCNPINHEADER127PINHEADER1X32P127VERTICAL)
+- Short Link: [http://oom.lt/FZKCNPH127PH1X32P127F](http://oom.lt/FZKCNPH127PH1X32P127F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinHeader_1.27mm|
 |OOMP Index|oompIndex|PinHeader_1x32_P1.27mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_1x32_P1.27mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNPINHEADER127PINHEADER1X32P127VERTICAL|
+|Hex ID (short code)|hexID|FZKCNPH127PH1X32P127F|
 |name|name|Connector_PinHeader_1.27mm : PinHeader_1x32_P1.27mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_1x32_P1.27mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Through hole straight pin header</td><td> 1x32</td><td> 1.27mm pitch</td><td> single row'</td><td> 'tags'</td></tr><tr><td> 'Through hole pin header THT 1x32 1.27mm single row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinHeader_1.27mm.3dshapes/PinHeader_1x32_P1.27mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

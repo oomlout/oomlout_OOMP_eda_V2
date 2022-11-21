@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLWUERTHMAPI315 > Inductor_SMD : L_Wuerth_MAPI-3015](#fzkinductorsmlwuerthmapi315--inductor_smd--l_wuerth_mapi-3015)
+* [FZKINLWUERTHMAPI315 > Inductor_SMD : L_Wuerth_MAPI-3015](#fzkinlwuerthmapi315--inductor_smd--l_wuerth_mapi-3015)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLWUERTHMAPI315 > Inductor_SMD : L_Wuerth_MAPI-3015
+# FZKINLWUERTHMAPI315 > Inductor_SMD : L_Wuerth_MAPI-3015
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-3015
-- Hex ID: FZKINDUCTORSMLWUERTHMAPI315
+- Hex ID: FZKINLWUERTHMAPI315
 - Name: Inductor_SMD : L_Wuerth_MAPI-3015
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_MAPI-3015/
 - Description: Inductor_SMD : L_Wuerth_MAPI-3015
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-3015](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-3015)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLWUERTHMAPI315](http://oom.lt/FZKINDUCTORSMLWUERTHMAPI315)
+- Short Link: [http://oom.lt/FZKINLWUERTHMAPI315](http://oom.lt/FZKINLWUERTHMAPI315)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Wuerth_MAPI-3015|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-3015|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHMAPI315|
+|Hex ID (short code)|hexID|FZKINLWUERTHMAPI315|
 |name|name|Inductor_SMD : L_Wuerth_MAPI-3015|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_MAPI-3015'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Wuerth Elektronik</td><td> Wuerth_MAPI-3015</td><td> 3.0mmx3.0mm'</td><td> 'tags'</td></tr><tr><td> 'inductor Wuerth smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_MAPI-3015.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SIM900_SMT
 - Hex ID: FZASIM9S
 - Name: adafruit : SIM900_SMT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SIM900_SMT/
 - Description: adafruit : SIM900_SMT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SIM900_SMT](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SIM900_SMT)
 - Short Link: [http://oom.lt/FZASIM9S](http://oom.lt/FZASIM9S)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx-SN74LV4T125
 - Hex ID: SZK74XXSN74LV4T125
 - Name: 74xx : SN74LV4T125
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/SN74LV4T125/
 - Description: 74xx : SN74LV4T125
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-SN74LV4T125](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-SN74LV4T125)
 - Short Link: [http://oom.lt/SZK74XXSN74LV4T125](http://oom.lt/SZK74XXSN74LV4T125)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSOT143R > ref-packages : SOT143-R](#fzerefpackagessot143r--ref-packages--sot143-r)
+* [FZEREFPSSOT143R > ref-packages : SOT143-R](#fzerefpssot143r--ref-packages--sot143-r)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSOT143R > ref-packages : SOT143-R
+# FZEREFPSSOT143R > ref-packages : SOT143-R
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOT143-R
-- Hex ID: FZEREFPACKAGESSOT143R
+- Hex ID: FZEREFPSSOT143R
 - Name: ref-packages : SOT143-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SOT143-R/
 - Description: ref-packages : SOT143-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT143-R](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT143-R)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSOT143R](http://oom.lt/FZEREFPACKAGESSOT143R)
+- Short Link: [http://oom.lt/FZEREFPSSOT143R](http://oom.lt/FZEREFPSSOT143R)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SOT143-R|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SOT143-R|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSOT143R|
+|Hex ID (short code)|hexID|FZEREFPSSOT143R|
 |name|name|ref-packages : SOT143-R|
 ||||

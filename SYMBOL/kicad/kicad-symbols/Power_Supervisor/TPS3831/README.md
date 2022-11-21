@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3831
 - Hex ID: SZKPOWERSUPERVISORTPS3831
 - Name: Power_Supervisor : TPS3831
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TPS3831/
 - Description: Power_Supervisor : TPS3831
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3831](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3831)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTPS3831](http://oom.lt/SZKPOWERSUPERVISORTPS3831)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SZESD9B5.0ST5G
 - Hex ID: SZKDIODESZESD9B5ST5G
 - Name: Diode : SZESD9B5.0ST5G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SZESD9B5.0ST5G/
 - Description: Diode : SZESD9B5.0ST5G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SZESD9B5.0ST5G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SZESD9B5.0ST5G)
 - Short Link: [http://oom.lt/SZKDIODESZESD9B5ST5G](http://oom.lt/SZKDIODESZESD9B5ST5G)

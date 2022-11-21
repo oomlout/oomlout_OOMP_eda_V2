@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IS64C5128AL-12CTLA3
 - Hex ID: SZKMEMORYRAMIS64C5128AL12CTLA3
 - Name: Memory_RAM : IS64C5128AL-12CTLA3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS64C5128AL-12CTLA3/
 - Description: Memory_RAM : IS64C5128AL-12CTLA3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS64C5128AL-12CTLA3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS64C5128AL-12CTLA3)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIS64C5128AL12CTLA3](http://oom.lt/SZKMEMORYRAMIS64C5128AL12CTLA3)

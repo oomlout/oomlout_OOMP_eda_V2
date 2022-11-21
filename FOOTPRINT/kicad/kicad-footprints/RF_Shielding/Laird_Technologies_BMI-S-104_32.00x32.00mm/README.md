@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-104_32.00x32.00mm
 - Hex ID: FZKRFSLAIRDTECHNOLOGIESBMIS1432X32
 - Name: RF_Shielding : Laird_Technologies_BMI-S-104_32.00x32.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-104_32.00x32.00mm/
 - Description: RF_Shielding : Laird_Technologies_BMI-S-104_32.00x32.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-104_32.00x32.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-104_32.00x32.00mm)
 - Short Link: [http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS1432X32](http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS1432X32)

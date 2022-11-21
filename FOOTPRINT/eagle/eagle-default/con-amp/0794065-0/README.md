@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-0794065-0
 - Hex ID: FZECONAMP79465
 - Name: con-amp : 0794065-0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/0794065-0/
 - Description: con-amp : 0794065-0
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-0794065-0](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-0794065-0)
 - Short Link: [http://oom.lt/FZECONAMP79465](http://oom.lt/FZECONAMP79465)

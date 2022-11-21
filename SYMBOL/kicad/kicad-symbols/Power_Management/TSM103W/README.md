@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TSM103W
 - Hex ID: SZKPOWERMANAGEMENTTSM13W
 - Name: Power_Management : TSM103W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/TSM103W/
 - Description: Power_Management : TSM103W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TSM103W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TSM103W)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTSM13W](http://oom.lt/SZKPOWERMANAGEMENTTSM13W)

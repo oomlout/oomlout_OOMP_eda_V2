@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-MPX2050DPV
 - Hex ID: FZEMOTOROLASENDRIVERMPX25DPV
 - Name: motorola-sensor-driver : MPX2050DPV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/motorola-sensor-driver/MPX2050DPV/
 - Description: motorola-sensor-driver : MPX2050DPV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-MPX2050DPV](http://oom.lt/FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-MPX2050DPV)
 - Short Link: [http://oom.lt/FZEMOTOROLASENDRIVERMPX25DPV](http://oom.lt/FZEMOTOROLASENDRIVERMPX25DPV)

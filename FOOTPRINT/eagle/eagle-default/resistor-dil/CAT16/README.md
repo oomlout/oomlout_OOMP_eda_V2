@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-dil-CAT16
 - Hex ID: FZERESISTORDILCAT16
 - Name: resistor-dil : CAT16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-dil/CAT16/
 - Description: resistor-dil : CAT16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-CAT16](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-CAT16)
 - Short Link: [http://oom.lt/FZERESISTORDILCAT16](http://oom.lt/FZERESISTORDILCAT16)

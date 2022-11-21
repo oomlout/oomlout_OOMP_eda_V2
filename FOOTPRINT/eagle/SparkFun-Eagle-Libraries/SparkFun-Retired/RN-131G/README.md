@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-RN-131G
 - Hex ID: FZSRTRN131G
 - Name: SparkFun-Retired : RN-131G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/RN-131G/
 - Description: SparkFun-Retired : RN-131G
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-RN-131G](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-RN-131G)
 - Short Link: [http://oom.lt/FZSRTRN131G](http://oom.lt/FZSRTRN131G)

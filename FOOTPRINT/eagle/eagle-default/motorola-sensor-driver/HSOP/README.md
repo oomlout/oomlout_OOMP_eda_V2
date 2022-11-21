@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-HSOP
 - Hex ID: FZEMOTOROLASENDRIVERHS
 - Name: motorola-sensor-driver : HSOP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/motorola-sensor-driver/HSOP/
 - Description: motorola-sensor-driver : HSOP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-HSOP](http://oom.lt/FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-HSOP)
 - Short Link: [http://oom.lt/FZEMOTOROLASENDRIVERHS](http://oom.lt/FZEMOTOROLASENDRIVERHS)

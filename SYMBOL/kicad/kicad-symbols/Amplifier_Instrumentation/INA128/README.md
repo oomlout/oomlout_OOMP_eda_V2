@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA128
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONINA128
 - Name: Amplifier_Instrumentation : INA128
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/INA128/
 - Description: Amplifier_Instrumentation : INA128
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA128](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA128)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONINA128](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONINA128)

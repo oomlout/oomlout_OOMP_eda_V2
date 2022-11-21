@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP77
 - Hex ID: SZKAMPLIFIEROPERATIONALOP77
 - Name: Amplifier_Operational : OP77
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OP77/
 - Description: Amplifier_Operational : OP77
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP77](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP77)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOP77](http://oom.lt/SZKAMPLIFIEROPERATIONALOP77)

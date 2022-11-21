@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Distance-ST_VL53L1x
 - Hex ID: FZKSENDISTANCESTVL53L1X
 - Name: Sensor_Distance : ST_VL53L1x
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Distance/ST_VL53L1x/
 - Description: Sensor_Distance : ST_VL53L1x
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Distance-ST_VL53L1x](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Distance-ST_VL53L1x)
 - Short Link: [http://oom.lt/FZKSENDISTANCESTVL53L1X](http://oom.lt/FZKSENDISTANCESTVL53L1X)

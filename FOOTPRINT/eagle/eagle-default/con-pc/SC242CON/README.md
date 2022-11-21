@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-SC242CON
 - Hex ID: FZECONPCSC242CON
 - Name: con-pc : SC242CON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc/SC242CON/
 - Description: con-pc : SC242CON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-SC242CON](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-SC242CON)
 - Short Link: [http://oom.lt/FZECONPCSC242CON](http://oom.lt/FZECONPCSC242CON)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-EI66-2
 - Hex ID: FZETRAFOEI662
 - Name: trafo : EI66-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/EI66-2/
 - Description: trafo : EI66-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EI66-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EI66-2)
 - Short Link: [http://oom.lt/FZETRAFOEI662](http://oom.lt/FZETRAFOEI662)

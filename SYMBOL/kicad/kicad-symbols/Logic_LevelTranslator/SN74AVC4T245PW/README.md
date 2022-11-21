@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74AVC4T245PW
 - Hex ID: SZKLOGICLEVELTRANSLATORSN74AVC4T245PW
 - Name: Logic_LevelTranslator : SN74AVC4T245PW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74AVC4T245PW/
 - Description: Logic_LevelTranslator : SN74AVC4T245PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74AVC4T245PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74AVC4T245PW)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORSN74AVC4T245PW](http://oom.lt/SZKLOGICLEVELTRANSLATORSN74AVC4T245PW)

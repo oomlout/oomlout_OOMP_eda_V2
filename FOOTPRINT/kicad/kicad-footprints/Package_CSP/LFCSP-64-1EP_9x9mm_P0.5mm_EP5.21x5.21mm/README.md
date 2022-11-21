@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm
 - Hex ID: FZKCSPLFCSP641EP9X9P5EP521X521
 - Name: Package_CSP : LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm/
 - Description: Package_CSP : LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm)
 - Short Link: [http://oom.lt/FZKCSPLFCSP641EP9X9P5EP521X521](http://oom.lt/FZKCSPLFCSP641EP9X9P5EP521X521)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ARDUINO_PRO_MINI
 - Hex ID: FZSBOARDPROM
 - Name: SparkFun-Boards : ARDUINO_PRO_MINI
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/ARDUINO_PRO_MINI/
 - Description: SparkFun-Boards : ARDUINO_PRO_MINI
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ARDUINO_PRO_MINI](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ARDUINO_PRO_MINI)
 - Short Link: [http://oom.lt/FZSBOARDPROM](http://oom.lt/FZSBOARDPROM)

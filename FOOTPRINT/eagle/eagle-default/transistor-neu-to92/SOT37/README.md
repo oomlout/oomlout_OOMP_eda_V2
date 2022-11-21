@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT37
 - Hex ID: FZETRANSISTORNEUTO92SOT37
 - Name: transistor-neu-to92 : SOT37
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-neu-to92/SOT37/
 - Description: transistor-neu-to92 : SOT37
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT37](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT37)
 - Short Link: [http://oom.lt/FZETRANSISTORNEUTO92SOT37](http://oom.lt/FZETRANSISTORNEUTO92SOT37)

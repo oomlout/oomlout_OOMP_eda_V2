@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-RIBBON_CONNECTOR_03_2MM_R
 - Hex ID: FZSRTFKITRIBBONCN32R
 - Name: SparkFun-Retired : FKIT-RIBBON_CONNECTOR_03_2MM_R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/FKIT-RIBBON_CONNECTOR_03_2MM_R/
 - Description: SparkFun-Retired : FKIT-RIBBON_CONNECTOR_03_2MM_R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-RIBBON_CONNECTOR_03_2MM_R](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-RIBBON_CONNECTOR_03_2MM_R)
 - Short Link: [http://oom.lt/FZSRTFKITRIBBONCN32R](http://oom.lt/FZSRTFKITRIBBONCN32R)

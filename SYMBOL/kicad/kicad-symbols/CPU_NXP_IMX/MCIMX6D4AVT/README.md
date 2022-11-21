@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6D4AVT
 - Hex ID: SZKCPUNXPIMXMCIMX6D4AVT
 - Name: CPU_NXP_IMX : MCIMX6D4AVT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6D4AVT/
 - Description: CPU_NXP_IMX : MCIMX6D4AVT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6D4AVT](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6D4AVT)
 - Short Link: [http://oom.lt/SZKCPUNXPIMXMCIMX6D4AVT](http://oom.lt/SZKCPUNXPIMXMCIMX6D4AVT)

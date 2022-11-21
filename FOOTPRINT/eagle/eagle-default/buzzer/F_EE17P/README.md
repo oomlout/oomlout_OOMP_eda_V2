@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_EE17P
 - Hex ID: FZEBUZZERFEE17P
 - Name: buzzer : F_EE17P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_EE17P/
 - Description: buzzer : F_EE17P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_EE17P](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_EE17P)
 - Short Link: [http://oom.lt/FZEBUZZERFEE17P](http://oom.lt/FZEBUZZERFEE17P)

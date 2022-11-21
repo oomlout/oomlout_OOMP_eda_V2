@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F205RGEx
 - Hex ID: SZKMCUSTSTM32F2STM32F25RGEX
 - Name: MCU_ST_STM32F2 : STM32F205RGEx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F205RGEx/
 - Description: MCU_ST_STM32F2 : STM32F205RGEx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F205RGEx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F205RGEx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F2STM32F25RGEX](http://oom.lt/SZKMCUSTSTM32F2STM32F25RGEX)

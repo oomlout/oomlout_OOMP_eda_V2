@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PUSHBUTTON_SMD_SJ
 - Hex ID: FZAPBSMSJ
 - Name: adafruit : PUSHBUTTON_SMD_SJ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PUSHBUTTON_SMD_SJ/
 - Description: adafruit : PUSHBUTTON_SMD_SJ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PUSHBUTTON_SMD_SJ](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PUSHBUTTON_SMD_SJ)
 - Short Link: [http://oom.lt/FZAPBSMSJ](http://oom.lt/FZAPBSMSJ)

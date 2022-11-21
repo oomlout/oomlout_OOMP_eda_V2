@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-CAT811MTBI-GT3
 - Hex ID: SZKPOWERSUPERVISORCAT811MTBIGT3
 - Name: Power_Supervisor : CAT811MTBI-GT3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/CAT811MTBI-GT3/
 - Description: Power_Supervisor : CAT811MTBI-GT3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-CAT811MTBI-GT3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-CAT811MTBI-GT3)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORCAT811MTBIGT3](http://oom.lt/SZKPOWERSUPERVISORCAT811MTBIGT3)

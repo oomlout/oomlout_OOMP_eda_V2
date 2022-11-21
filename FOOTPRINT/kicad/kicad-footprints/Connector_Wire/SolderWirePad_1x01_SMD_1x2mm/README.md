@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNWIRESOLDERWIREPAD1X1SM1X2 > Connector_Wire : SolderWirePad_1x01_SMD_1x2mm](#fzkcnwiresolderwirepad1x1sm1x2--connector_wire--solderwirepad_1x01_smd_1x2mm)
+* [FZKCNWSOLDERWP1X1SM1X2 > Connector_Wire : SolderWirePad_1x01_SMD_1x2mm](#fzkcnwsolderwp1x1sm1x2--connector_wire--solderwirepad_1x01_smd_1x2mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNWIRESOLDERWIREPAD1X1SM1X2 > Connector_Wire : SolderWirePad_1x01_SMD_1x2mm
+# FZKCNWSOLDERWP1X1SM1X2 > Connector_Wire : SolderWirePad_1x01_SMD_1x2mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWirePad_1x01_SMD_1x2mm
-- Hex ID: FZKCNWIRESOLDERWIREPAD1X1SM1X2
+- Hex ID: FZKCNWSOLDERWP1X1SM1X2
 - Name: Connector_Wire : SolderWirePad_1x01_SMD_1x2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWirePad_1x01_SMD_1x2mm/
 - Description: Connector_Wire : SolderWirePad_1x01_SMD_1x2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWirePad_1x01_SMD_1x2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWirePad_1x01_SMD_1x2mm)
-- Short Link: [http://oom.lt/FZKCNWIRESOLDERWIREPAD1X1SM1X2](http://oom.lt/FZKCNWIRESOLDERWIREPAD1X1SM1X2)
+- Short Link: [http://oom.lt/FZKCNWSOLDERWP1X1SM1X2](http://oom.lt/FZKCNWSOLDERWP1X1SM1X2)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Wire|
 |OOMP Index|oompIndex|SolderWirePad_1x01_SMD_1x2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWirePad_1x01_SMD_1x2mm|
-|Hex ID (short code)|hexID|FZKCNWIRESOLDERWIREPAD1X1SM1X2|
+|Hex ID (short code)|hexID|FZKCNWSOLDERWP1X1SM1X2|
 |name|name|Connector_Wire : SolderWirePad_1x01_SMD_1x2mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SolderWirePad_1x01_SMD_1x2mm'</td><td> 'description'</td></tr><tr><td> 'Wire Pad</td><td> Square</td><td> SMD Pad</td><td>  1mm x 2mm</td><td>'</td><td> 'tags'</td></tr><tr><td> 'MesurementPoint Square SMDPad 1mmx2mm '</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

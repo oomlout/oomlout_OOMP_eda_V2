@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-COMPUTER-PERIPHERAL-POWER-RA-VT
 - Hex ID: FZSSPARKFUNCNSCOMPUTERPERIPHERALPOWERRAVT
 - Name: SparkFun-Connectors : COMPUTER-PERIPHERAL-POWER-RA-VT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/COMPUTER-PERIPHERAL-POWER-RA-VT/
 - Description: SparkFun-Connectors : COMPUTER-PERIPHERAL-POWER-RA-VT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-COMPUTER-PERIPHERAL-POWER-RA-VT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-COMPUTER-PERIPHERAL-POWER-RA-VT)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSCOMPUTERPERIPHERALPOWERRAVT](http://oom.lt/FZSSPARKFUNCNSCOMPUTERPERIPHERALPOWERRAVT)

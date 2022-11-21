@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-DZ2S030X0L
 - Hex ID: SZKDIODEDZ2S3XL
 - Name: Diode : DZ2S030X0L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/DZ2S030X0L/
 - Description: Diode : DZ2S030X0L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DZ2S030X0L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DZ2S030X0L)
 - Short Link: [http://oom.lt/SZKDIODEDZ2S3XL](http://oom.lt/SZKDIODEDZ2S3XL)

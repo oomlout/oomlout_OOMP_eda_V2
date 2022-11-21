@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-VR07,5-2
 - Hex ID: FZETRAFOVR752
 - Name: trafo : VR07,5-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/VR07,5-2/
 - Description: trafo : VR07,5-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-VR07,5-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-VR07,5-2)
 - Short Link: [http://oom.lt/FZETRAFOVR752](http://oom.lt/FZETRAFOVR752)

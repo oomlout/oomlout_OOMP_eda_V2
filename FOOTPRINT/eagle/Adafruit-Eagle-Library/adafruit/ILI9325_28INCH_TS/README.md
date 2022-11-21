@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ILI9325_28INCH_TS
 - Hex ID: FZAILI932528INCHTS
 - Name: adafruit : ILI9325_28INCH_TS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ILI9325_28INCH_TS/
 - Description: adafruit : ILI9325_28INCH_TS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ILI9325_28INCH_TS](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ILI9325_28INCH_TS)
 - Short Link: [http://oom.lt/FZAILI932528INCHTS](http://oom.lt/FZAILI932528INCHTS)

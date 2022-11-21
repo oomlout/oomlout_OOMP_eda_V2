@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6228xS6
 - Hex ID: SZKAMPLIFIEROPERATIONALLTC6228XS6
 - Name: Amplifier_Operational : LTC6228xS6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6228xS6/
 - Description: Amplifier_Operational : LTC6228xS6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6228xS6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6228xS6)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC6228XS6](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC6228XS6)

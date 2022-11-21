@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7801
 - Hex ID: SZKDICHARACTERHDSP781
 - Name: Display_Character : HDSP-7801
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-7801/
 - Description: Display_Character : HDSP-7801
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7801](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7801)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSP781](http://oom.lt/SZKDICHARACTERHDSP781)

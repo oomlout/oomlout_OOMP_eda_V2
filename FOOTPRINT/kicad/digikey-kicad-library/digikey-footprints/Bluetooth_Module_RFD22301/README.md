@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORFD2231 > digikey-footprints : Bluetooth_Module_RFD22301](#fzkicaddigikeykicadlibrarydigikeyfootprintsbluetoothmorfd2231--digikey-footprints--bluetooth_module_rfd22301)
+* [FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD2231 > digikey-footprints : Bluetooth_Module_RFD22301](#fzdigidigikeyfootprintsbluetoothmorfd2231--digikey-footprints--bluetooth_module_rfd22301)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORFD2231 > digikey-footprints : Bluetooth_Module_RFD22301
+# FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD2231 > digikey-footprints : Bluetooth_Module_RFD22301
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RFD22301
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORFD2231
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD2231
 - Name: digikey-footprints : Bluetooth_Module_RFD22301
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_RFD22301/
 - Description: digikey-footprints : Bluetooth_Module_RFD22301
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RFD22301](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RFD22301)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORFD2231](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORFD2231)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD2231](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD2231)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Bluetooth_Module_RFD22301|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RFD22301|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORFD2231|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD2231|
 |name|name|digikey-footprints : Bluetooth_Module_RFD22301|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bluetooth_Module_RFD22301'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-SDA_IO
 - Hex ID: FZSBUSDAIO
 - Name: SparkFun-Buzzard : SDA_IO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/SDA_IO/
 - Description: SparkFun-Buzzard : SDA_IO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-SDA_IO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-SDA_IO)
 - Short Link: [http://oom.lt/FZSBUSDAIO](http://oom.lt/FZSBUSDAIO)

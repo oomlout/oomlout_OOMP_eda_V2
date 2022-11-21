@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-triac-TIC106S
 - Hex ID: FZETRIACTIC16S
 - Name: triac : TIC106S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/triac/TIC106S/
 - Description: triac : TIC106S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TIC106S](http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TIC106S)
 - Short Link: [http://oom.lt/FZETRIACTIC16S](http://oom.lt/FZETRIACTIC16S)

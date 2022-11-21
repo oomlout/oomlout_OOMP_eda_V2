@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_LOGIC_LEVEL_CONVERTER
 - Hex ID: FZSBOSPARKFUNLOGICLEVELCONVERTER
 - Name: SparkFun-Boards : SPARKFUN_LOGIC_LEVEL_CONVERTER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SPARKFUN_LOGIC_LEVEL_CONVERTER/
 - Description: SparkFun-Boards : SPARKFUN_LOGIC_LEVEL_CONVERTER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_LOGIC_LEVEL_CONVERTER](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_LOGIC_LEVEL_CONVERTER)
 - Short Link: [http://oom.lt/FZSBOSPARKFUNLOGICLEVELCONVERTER](http://oom.lt/FZSBOSPARKFUNLOGICLEVELCONVERTER)

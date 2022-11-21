@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68B09E
 - Hex ID: SZKCPUNXP68MC68B9E
 - Name: CPU_NXP_6800 : MC68B09E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68B09E/
 - Description: CPU_NXP_6800 : MC68B09E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68B09E](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68B09E)
 - Short Link: [http://oom.lt/SZKCPUNXP68MC68B9E](http://oom.lt/SZKCPUNXP68MC68B9E)

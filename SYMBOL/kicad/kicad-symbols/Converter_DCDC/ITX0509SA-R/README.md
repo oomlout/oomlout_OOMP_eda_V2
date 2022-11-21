@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0509SA-R
 - Hex ID: SZKCONITX59SAR
 - Name: Converter_DCDC : ITX0509SA-R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0509SA-R/
 - Description: Converter_DCDC : ITX0509SA-R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0509SA-R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0509SA-R)
 - Short Link: [http://oom.lt/SZKCONITX59SAR](http://oom.lt/SZKCONITX59SAR)

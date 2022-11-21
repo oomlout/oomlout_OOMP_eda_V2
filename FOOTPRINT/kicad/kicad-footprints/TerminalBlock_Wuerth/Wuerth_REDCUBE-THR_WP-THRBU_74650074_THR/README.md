@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Wuerth-Wuerth_REDCUBE-THR_WP-THRBU_74650074_THR
 - Hex ID: FZKTBWUERTHWUERTHREDCUBETHRWPTHRBU746574THR
 - Name: TerminalBlock_Wuerth : Wuerth_REDCUBE-THR_WP-THRBU_74650074_THR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74650074_THR/
 - Description: TerminalBlock_Wuerth : Wuerth_REDCUBE-THR_WP-THRBU_74650074_THR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Wuerth-Wuerth_REDCUBE-THR_WP-THRBU_74650074_THR](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Wuerth-Wuerth_REDCUBE-THR_WP-THRBU_74650074_THR)
 - Short Link: [http://oom.lt/FZKTBWUERTHWUERTHREDCUBETHRWPTHRBU746574THR](http://oom.lt/FZKTBWUERTHWUERTHREDCUBETHRWPTHRBU746574THR)

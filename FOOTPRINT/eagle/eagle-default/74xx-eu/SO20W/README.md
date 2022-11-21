@@ -15,6 +15,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-74xx-eu-SO20W
 - Hex ID: FZE74XXEUSO2W
 - Name: 74xx-eu : SO20W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-eu/SO20W/
 - Description: 74xx-eu : SO20W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-SO20W](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-SO20W)
 - Short Link: [http://oom.lt/FZE74XXEUSO2W](http://oom.lt/FZE74XXEUSO2W)

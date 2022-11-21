@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSOCKED224 > ref-packages : SOCKED-22-4](#fzerefpackagessocked224--ref-packages--socked-22-4)
+* [FZEREFPSSOCKED224 > ref-packages : SOCKED-22-4](#fzerefpssocked224--ref-packages--socked-22-4)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSOCKED224 > ref-packages : SOCKED-22-4
+# FZEREFPSSOCKED224 > ref-packages : SOCKED-22-4
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOCKED-22-4
-- Hex ID: FZEREFPACKAGESSOCKED224
+- Hex ID: FZEREFPSSOCKED224
 - Name: ref-packages : SOCKED-22-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SOCKED-22-4/
 - Description: ref-packages : SOCKED-22-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOCKED-22-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOCKED-22-4)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSOCKED224](http://oom.lt/FZEREFPACKAGESSOCKED224)
+- Short Link: [http://oom.lt/FZEREFPSSOCKED224](http://oom.lt/FZEREFPSSOCKED224)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SOCKED-22-4|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SOCKED-22-4|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSOCKED224|
+|Hex ID (short code)|hexID|FZEREFPSSOCKED224|
 |name|name|ref-packages : SOCKED-22-4|
 ||||

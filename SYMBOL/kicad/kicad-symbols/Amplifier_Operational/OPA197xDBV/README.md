@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA197xDBV
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA197XDBV
 - Name: Amplifier_Operational : OPA197xDBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA197xDBV/
 - Description: Amplifier_Operational : OPA197xDBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA197xDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA197xDBV)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA197XDBV](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA197XDBV)

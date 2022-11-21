@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-CR2032V
 - Hex ID: FZEBATCR232V
 - Name: battery : CR2032V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/CR2032V/
 - Description: battery : CR2032V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-CR2032V](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-CR2032V)
 - Short Link: [http://oom.lt/FZEBATCR232V](http://oom.lt/FZEBATCR232V)

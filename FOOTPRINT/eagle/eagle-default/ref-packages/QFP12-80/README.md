@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESQFP128 > ref-packages : QFP12-80](#fzerefpackagesqfp128--ref-packages--qfp12-80)
+* [FZEREFPSQFP128 > ref-packages : QFP12-80](#fzerefpsqfp128--ref-packages--qfp12-80)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESQFP128 > ref-packages : QFP12-80
+# FZEREFPSQFP128 > ref-packages : QFP12-80
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-QFP12-80
-- Hex ID: FZEREFPACKAGESQFP128
+- Hex ID: FZEREFPSQFP128
 - Name: ref-packages : QFP12-80
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/QFP12-80/
 - Description: ref-packages : QFP12-80
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-QFP12-80](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-QFP12-80)
-- Short Link: [http://oom.lt/FZEREFPACKAGESQFP128](http://oom.lt/FZEREFPACKAGESQFP128)
+- Short Link: [http://oom.lt/FZEREFPSQFP128](http://oom.lt/FZEREFPSQFP128)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|QFP12-80|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-QFP12-80|
-|Hex ID (short code)|hexID|FZEREFPACKAGESQFP128|
+|Hex ID (short code)|hexID|FZEREFPSQFP128|
 |name|name|ref-packages : QFP12-80|
 ||||

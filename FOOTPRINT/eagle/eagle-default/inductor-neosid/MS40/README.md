@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNEOSIDMS4 > inductor-neosid : MS40](#fzeinductorneosidms4--inductor-neosid--ms40)
+* [FZEINNEOSIDMS4 > inductor-neosid : MS40](#fzeinneosidms4--inductor-neosid--ms40)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNEOSIDMS4 > inductor-neosid : MS40
+# FZEINNEOSIDMS4 > inductor-neosid : MS40
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-MS40
-- Hex ID: FZEINDUCTORNEOSIDMS4
+- Hex ID: FZEINNEOSIDMS4
 - Name: inductor-neosid : MS40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-neosid/MS40/
 - Description: inductor-neosid : MS40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-MS40](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-MS40)
-- Short Link: [http://oom.lt/FZEINDUCTORNEOSIDMS4](http://oom.lt/FZEINDUCTORNEOSIDMS4)
+- Short Link: [http://oom.lt/FZEINNEOSIDMS4](http://oom.lt/FZEINNEOSIDMS4)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-neosid|
 |OOMP Index|oompIndex|MS40|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-neosid-MS40|
-|Hex ID (short code)|hexID|FZEINDUCTORNEOSIDMS4|
+|Hex ID (short code)|hexID|FZEINNEOSIDMS4|
 |name|name|inductor-neosid : MS40|
 ||||

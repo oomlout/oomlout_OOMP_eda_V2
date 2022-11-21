@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CERM_OSC
 - Hex ID: FZACERMOSC
 - Name: adafruit : CERM_OSC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CERM_OSC/
 - Description: adafruit : CERM_OSC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CERM_OSC](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CERM_OSC)
 - Short Link: [http://oom.lt/FZACERMOSC](http://oom.lt/FZACERMOSC)

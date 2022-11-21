@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-8748
 - Hex ID: SZKMCUINTEL8748
 - Name: MCU_Intel : 8748
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Intel/8748/
 - Description: MCU_Intel : 8748
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8748](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8748)
 - Short Link: [http://oom.lt/SZKMCUINTEL8748](http://oom.lt/SZKMCUINTEL8748)

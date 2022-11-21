@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-734120110
 - Hex ID: FZECONCOAX7341211
 - Name: con-coax : 734120110
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-coax/734120110/
 - Description: con-coax : 734120110
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-734120110](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-734120110)
 - Short Link: [http://oom.lt/FZECONCOAX7341211](http://oom.lt/FZECONCOAX7341211)

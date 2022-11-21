@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-STC31
 - Hex ID: FZSSPARKFUNSENSSTC31
 - Name: SparkFun-Sensors : STC31
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/STC31/
 - Description: SparkFun-Sensors : STC31
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-STC31](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-STC31)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSSTC31](http://oom.lt/FZSSPARKFUNSENSSTC31)

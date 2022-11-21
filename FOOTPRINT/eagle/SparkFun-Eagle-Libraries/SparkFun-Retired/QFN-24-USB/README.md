@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN-24-USB
 - Hex ID: FZSRTQFN24U
 - Name: SparkFun-Retired : QFN-24-USB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/QFN-24-USB/
 - Description: SparkFun-Retired : QFN-24-USB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN-24-USB](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN-24-USB)
 - Short Link: [http://oom.lt/FZSRTQFN24U](http://oom.lt/FZSRTQFN24U)

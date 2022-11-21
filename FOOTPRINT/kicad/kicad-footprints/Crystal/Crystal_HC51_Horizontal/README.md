@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXXHC51HORIZONTAL > Crystal : Crystal_HC51_Horizontal](#fzkxxhc51horizontal--crystal--crystal_hc51_horizontal)
+* [FZKXXHC51H > Crystal : Crystal_HC51_Horizontal](#fzkxxhc51h--crystal--crystal_hc51_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXHC51HORIZONTAL > Crystal : Crystal_HC51_Horizontal
+# FZKXXHC51H > Crystal : Crystal_HC51_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC51_Horizontal
-- Hex ID: FZKXXHC51HORIZONTAL
+- Hex ID: FZKXXHC51H
 - Name: Crystal : Crystal_HC51_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC51_Horizontal/
 - Description: Crystal : Crystal_HC51_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC51_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC51_Horizontal)
-- Short Link: [http://oom.lt/FZKXXHC51HORIZONTAL](http://oom.lt/FZKXXHC51HORIZONTAL)
+- Short Link: [http://oom.lt/FZKXXHC51H](http://oom.lt/FZKXXHC51H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_HC51_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC51_Horizontal|
-|Hex ID (short code)|hexID|FZKXXHC51HORIZONTAL|
+|Hex ID (short code)|hexID|FZKXXHC51H|
 |name|name|Crystal : Crystal_HC51_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_HC51_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Crystal THT HC-51 http</td></tr><tr><td>//www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf'</td><td> 'tags'</td></tr><tr><td> 'THT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_HC51_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

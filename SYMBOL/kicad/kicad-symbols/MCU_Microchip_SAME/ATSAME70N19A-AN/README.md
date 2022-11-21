@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME70N19A-AN
 - Hex ID: SZKMCUMCHIPSAMEATSAME7N19AAN
 - Name: MCU_Microchip_SAME : ATSAME70N19A-AN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAME/ATSAME70N19A-AN/
 - Description: MCU_Microchip_SAME : ATSAME70N19A-AN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME70N19A-AN](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME70N19A-AN)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMEATSAME7N19AAN](http://oom.lt/SZKMCUMCHIPSAMEATSAME7N19AAN)

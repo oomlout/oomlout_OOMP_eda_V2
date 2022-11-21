@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCAPACITORSMC22255664METRICPAD18X66HANDSOLDER > Capacitor_SMD : C_2225_5664Metric_Pad1.80x6.60mm_HandSolder](#fzkcapacitorsmc22255664metricpad18x66handsolder--capacitor_smd--c_2225_5664metric_pad180x660mm_handsolder)
+* [FZKCC22255664VAP18X66HSOLDER > Capacitor_SMD : C_2225_5664Metric_Pad1.80x6.60mm_HandSolder](#fzkcc22255664vap18x66hsolder--capacitor_smd--c_2225_5664metric_pad180x660mm_handsolder)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORSMC22255664METRICPAD18X66HANDSOLDER > Capacitor_SMD : C_2225_5664Metric_Pad1.80x6.60mm_HandSolder
+# FZKCC22255664VAP18X66HSOLDER > Capacitor_SMD : C_2225_5664Metric_Pad1.80x6.60mm_HandSolder
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_2225_5664Metric_Pad1.80x6.60mm_HandSolder
-- Hex ID: FZKCAPACITORSMC22255664METRICPAD18X66HANDSOLDER
+- Hex ID: FZKCC22255664VAP18X66HSOLDER
 - Name: Capacitor_SMD : C_2225_5664Metric_Pad1.80x6.60mm_HandSolder
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_2225_5664Metric_Pad1.80x6.60mm_HandSolder/
 - Description: Capacitor_SMD : C_2225_5664Metric_Pad1.80x6.60mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_2225_5664Metric_Pad1.80x6.60mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_2225_5664Metric_Pad1.80x6.60mm_HandSolder)
-- Short Link: [http://oom.lt/FZKCAPACITORSMC22255664METRICPAD18X66HANDSOLDER](http://oom.lt/FZKCAPACITORSMC22255664METRICPAD18X66HANDSOLDER)
+- Short Link: [http://oom.lt/FZKCC22255664VAP18X66HSOLDER](http://oom.lt/FZKCC22255664VAP18X66HSOLDER)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_SMD|
 |OOMP Index|oompIndex|C_2225_5664Metric_Pad1.80x6.60mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_2225_5664Metric_Pad1.80x6.60mm_HandSolder|
-|Hex ID (short code)|hexID|FZKCAPACITORSMC22255664METRICPAD18X66HANDSOLDER|
+|Hex ID (short code)|hexID|FZKCC22255664VAP18X66HSOLDER|
 |name|name|Capacitor_SMD : C_2225_5664Metric_Pad1.80x6.60mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_2225_5664Metric_Pad1.80x6.60mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Capacitor SMD 2225 (5664 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal with elongated pad for handsoldering. (Body size from</td></tr><tr><td> http</td></tr><tr><td>//datasheets.avx.com/AVX-HV_MLCC.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_2225_5664Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

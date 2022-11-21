@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV172IDCK
 - Hex ID: SZKAMPLIFIEROPERATIONALTLV172IDCK
 - Name: Amplifier_Operational : TLV172IDCK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TLV172IDCK/
 - Description: Amplifier_Operational : TLV172IDCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV172IDCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV172IDCK)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTLV172IDCK](http://oom.lt/SZKAMPLIFIEROPERATIONALTLV172IDCK)

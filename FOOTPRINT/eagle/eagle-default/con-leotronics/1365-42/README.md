@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-leotronics-1365-42
 - Hex ID: FZECONLEOTRONICS136542
 - Name: con-leotronics : 1365-42
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-leotronics/1365-42/
 - Description: con-leotronics : 1365-42
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-leotronics-1365-42](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-leotronics-1365-42)
 - Short Link: [http://oom.lt/FZECONLEOTRONICS136542](http://oom.lt/FZECONLEOTRONICS136542)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega16U4-M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA16U4M
 - Name: MCU_Microchip_ATmega : ATmega16U4-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega16U4-M/
 - Description: MCU_Microchip_ATmega : ATmega16U4-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega16U4-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega16U4-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA16U4M](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA16U4M)

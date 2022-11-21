@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBURRBROWNZZ326 > burr-brown : ZZ326](#fzeburrbrownzz326--burr-brown--zz326)
+* [FZEBURRBRNZZ326 > burr-brown : ZZ326](#fzeburrbrnzz326--burr-brown--zz326)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBURRBROWNZZ326 > burr-brown : ZZ326
+# FZEBURRBRNZZ326 > burr-brown : ZZ326
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-ZZ326
-- Hex ID: FZEBURRBROWNZZ326
+- Hex ID: FZEBURRBRNZZ326
 - Name: burr-brown : ZZ326
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/burr-brown/ZZ326/
 - Description: burr-brown : ZZ326
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-ZZ326](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-ZZ326)
-- Short Link: [http://oom.lt/FZEBURRBROWNZZ326](http://oom.lt/FZEBURRBROWNZZ326)
+- Short Link: [http://oom.lt/FZEBURRBRNZZ326](http://oom.lt/FZEBURRBRNZZ326)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|burr-brown|
 |OOMP Index|oompIndex|ZZ326|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-burr-brown-ZZ326|
-|Hex ID (short code)|hexID|FZEBURRBROWNZZ326|
+|Hex ID (short code)|hexID|FZEBURRBRNZZ326|
 |name|name|burr-brown : ZZ326|
 ||||
 

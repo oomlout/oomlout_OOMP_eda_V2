@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9535DBR
 - Hex ID: SZKINTERFACEEXPANSIONTCA9535DBR
 - Name: Interface_Expansion : TCA9535DBR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9535DBR/
 - Description: Interface_Expansion : TCA9535DBR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9535DBR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9535DBR)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9535DBR](http://oom.lt/SZKINTERFACEEXPANSIONTCA9535DBR)

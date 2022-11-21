@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-84_SMD-Socket
 - Hex ID: FZKLCCPLCC84SMSO
 - Name: Package_LCC : PLCC-84_SMD-Socket
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-84_SMD-Socket/
 - Description: Package_LCC : PLCC-84_SMD-Socket
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-84_SMD-Socket](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-84_SMD-Socket)
 - Short Link: [http://oom.lt/FZKLCCPLCC84SMSO](http://oom.lt/FZKLCCPLCC84SMSO)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB162-16M
 - Hex ID: SZKMCUMCHIPAVRAT9U16216M
 - Name: MCU_Microchip_AVR : AT90USB162-16M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR/AT90USB162-16M/
 - Description: MCU_Microchip_AVR : AT90USB162-16M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB162-16M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB162-16M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRAT9U16216M](http://oom.lt/SZKMCUMCHIPAVRAT9U16216M)

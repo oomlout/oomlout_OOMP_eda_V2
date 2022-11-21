@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNAUDIOJ635NEUTRIKNJ6FDVVERTICAL > Connector_Audio : Jack_6.35mm_Neutrik_NJ6FD-V_Vertical](#fzkcnaudioj635neutriknj6fdvvertical--connector_audio--jack_635mm_neutrik_nj6fd-v_vertical)
+* [FZKCNAUDIOJ635NEUTRIKNJ6FDVF > Connector_Audio : Jack_6.35mm_Neutrik_NJ6FD-V_Vertical](#fzkcnaudioj635neutriknj6fdvf--connector_audio--jack_635mm_neutrik_nj6fd-v_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJ635NEUTRIKNJ6FDVVERTICAL > Connector_Audio : Jack_6.35mm_Neutrik_NJ6FD-V_Vertical
+# FZKCNAUDIOJ635NEUTRIKNJ6FDVF > Connector_Audio : Jack_6.35mm_Neutrik_NJ6FD-V_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NJ6FD-V_Vertical
-- Hex ID: FZKCNAUDIOJ635NEUTRIKNJ6FDVVERTICAL
+- Hex ID: FZKCNAUDIOJ635NEUTRIKNJ6FDVF
 - Name: Connector_Audio : Jack_6.35mm_Neutrik_NJ6FD-V_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NJ6FD-V_Vertical/
 - Description: Connector_Audio : Jack_6.35mm_Neutrik_NJ6FD-V_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NJ6FD-V_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NJ6FD-V_Vertical)
-- Short Link: [http://oom.lt/FZKCNAUDIOJ635NEUTRIKNJ6FDVVERTICAL](http://oom.lt/FZKCNAUDIOJ635NEUTRIKNJ6FDVVERTICAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJ635NEUTRIKNJ6FDVF](http://oom.lt/FZKCNAUDIOJ635NEUTRIKNJ6FDVF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_6.35mm_Neutrik_NJ6FD-V_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NJ6FD-V_Vertical|
-|Hex ID (short code)|hexID|FZKCNAUDIOJ635NEUTRIKNJ6FDVVERTICAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJ635NEUTRIKNJ6FDVF|
 |name|name|Connector_Audio : Jack_6.35mm_Neutrik_NJ6FD-V_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_6.35mm_Neutrik_NJ6FD-V_Vertical'</td><td> 'description'</td></tr><tr><td> '6.35mm (1/4 in) Vertical Jack</td><td> 3 x switching (normalling) stereo jack (T/TN/R/RN/S/SN)</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nj6fd-v'</td><td> 'tags'</td></tr><tr><td> 'neutrik jack vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NJ6FD-V_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

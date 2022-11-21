@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MC14093B-TSSOP14
 - Hex ID: FZAMC1493BTSS14
 - Name: adafruit : MC14093B-TSSOP14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MC14093B-TSSOP14/
 - Description: adafruit : MC14093B-TSSOP14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MC14093B-TSSOP14](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MC14093B-TSSOP14)
 - Short Link: [http://oom.lt/FZAMC1493BTSS14](http://oom.lt/FZAMC1493BTSS14)

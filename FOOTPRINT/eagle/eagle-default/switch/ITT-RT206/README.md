@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHITTRT26 > switch : ITT-RT206](#fzeswitchittrt26--switch--itt-rt206)
+* [FZESWITTRT26 > switch : ITT-RT206](#fzeswittrt26--switch--itt-rt206)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHITTRT26 > switch : ITT-RT206
+# FZESWITTRT26 > switch : ITT-RT206
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-ITT-RT206
-- Hex ID: FZESWITCHITTRT26
+- Hex ID: FZESWITTRT26
 - Name: switch : ITT-RT206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/ITT-RT206/
 - Description: switch : ITT-RT206
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ITT-RT206](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ITT-RT206)
-- Short Link: [http://oom.lt/FZESWITCHITTRT26](http://oom.lt/FZESWITCHITTRT26)
+- Short Link: [http://oom.lt/FZESWITTRT26](http://oom.lt/FZESWITTRT26)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|ITT-RT206|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-ITT-RT206|
-|Hex ID (short code)|hexID|FZESWITCHITTRT26|
+|Hex ID (short code)|hexID|FZESWITTRT26|
 |name|name|switch : ITT-RT206|
 ||||

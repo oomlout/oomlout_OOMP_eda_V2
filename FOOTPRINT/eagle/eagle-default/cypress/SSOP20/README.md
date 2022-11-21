@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-SSOP20
 - Hex ID: FZECYPRESSSS2
 - Name: cypress : SSOP20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/SSOP20/
 - Description: cypress : SSOP20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SSOP20](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SSOP20)
 - Short Link: [http://oom.lt/FZECYPRESSSS2](http://oom.lt/FZECYPRESSSS2)

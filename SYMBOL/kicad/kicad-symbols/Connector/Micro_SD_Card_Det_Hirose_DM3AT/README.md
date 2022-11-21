@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Micro_SD_Card_Det_Hirose_DM3AT
 - Hex ID: SZKCNMSDCARDDETHIROSEDM3AT
 - Name: Connector : Micro_SD_Card_Det_Hirose_DM3AT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Micro_SD_Card_Det_Hirose_DM3AT/
 - Description: Connector : Micro_SD_Card_Det_Hirose_DM3AT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Micro_SD_Card_Det_Hirose_DM3AT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Micro_SD_Card_Det_Hirose_DM3AT)
 - Short Link: [http://oom.lt/SZKCNMSDCARDDETHIROSEDM3AT](http://oom.lt/SZKCNMSDCARDDETHIROSEDM3AT)

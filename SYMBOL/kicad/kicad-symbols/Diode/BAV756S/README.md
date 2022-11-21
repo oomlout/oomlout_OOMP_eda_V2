@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAV756S
 - Hex ID: SZKDIODEBAV756S
 - Name: Diode : BAV756S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAV756S/
 - Description: Diode : BAV756S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV756S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV756S)
 - Short Link: [http://oom.lt/SZKDIODEBAV756S](http://oom.lt/SZKDIODEBAV756S)

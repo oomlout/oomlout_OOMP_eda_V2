@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TQFP44_MCU
 - Hex ID: FZSRTTQFP44MCU
 - Name: SparkFun-Retired : TQFP44_MCU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TQFP44_MCU/
 - Description: SparkFun-Retired : TQFP44_MCU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TQFP44_MCU](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TQFP44_MCU)
 - Short Link: [http://oom.lt/FZSRTTQFP44MCU](http://oom.lt/FZSRTTQFP44MCU)

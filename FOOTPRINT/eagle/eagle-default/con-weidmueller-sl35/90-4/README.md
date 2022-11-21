@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-90-4
 - Hex ID: FZECONWEIDMUELLERSL3594
 - Name: con-weidmueller-sl35 : 90-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/90-4/
 - Description: con-weidmueller-sl35 : 90-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-90-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-90-4)
 - Short Link: [http://oom.lt/FZECONWEIDMUELLERSL3594](http://oom.lt/FZECONWEIDMUELLERSL3594)

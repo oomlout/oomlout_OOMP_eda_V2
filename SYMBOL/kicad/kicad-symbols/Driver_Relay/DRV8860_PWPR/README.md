@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Relay-DRV8860_PWPR
 - Hex ID: SZKDRIVERRELAYDRV886PWPR
 - Name: Driver_Relay : DRV8860_PWPR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Relay/DRV8860_PWPR/
 - Description: Driver_Relay : DRV8860_PWPR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Relay-DRV8860_PWPR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Relay-DRV8860_PWPR)
 - Short Link: [http://oom.lt/SZKDRIVERRELAYDRV886PWPR](http://oom.lt/SZKDRIVERRELAYDRV886PWPR)

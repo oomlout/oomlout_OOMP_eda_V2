@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9548ARGER
 - Hex ID: SZKINTERFACEEXPANSIONTCA9548ARGER
 - Name: Interface_Expansion : TCA9548ARGER
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9548ARGER/
 - Description: Interface_Expansion : TCA9548ARGER
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9548ARGER](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9548ARGER)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9548ARGER](http://oom.lt/SZKINTERFACEEXPANSIONTCA9548ARGER)

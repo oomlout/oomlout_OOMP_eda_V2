@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOTXM433LR > digikey-footprints : RF_Module_TXM-433-LR](#fzkicaddigikeykicadlibrarydigikeyfootprintsrfmotxm433lr--digikey-footprints--rf_module_txm-433-lr)
+* [FZDIGIDIGIKEYFOOTPRINTSRFMOTXM433LR > digikey-footprints : RF_Module_TXM-433-LR](#fzdigidigikeyfootprintsrfmotxm433lr--digikey-footprints--rf_module_txm-433-lr)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOTXM433LR > digikey-footprints : RF_Module_TXM-433-LR
+# FZDIGIDIGIKEYFOOTPRINTSRFMOTXM433LR > digikey-footprints : RF_Module_TXM-433-LR
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_TXM-433-LR
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOTXM433LR
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFMOTXM433LR
 - Name: digikey-footprints : RF_Module_TXM-433-LR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Module_TXM-433-LR/
 - Description: digikey-footprints : RF_Module_TXM-433-LR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_TXM-433-LR](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_TXM-433-LR)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOTXM433LR](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOTXM433LR)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMOTXM433LR](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMOTXM433LR)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|RF_Module_TXM-433-LR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_TXM-433-LR|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOTXM433LR|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSRFMOTXM433LR|
 |name|name|digikey-footprints : RF_Module_TXM-433-LR|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RF_Module_TXM-433-LR'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

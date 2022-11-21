@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-NUP4202
 - Hex ID: SZKPOWERPROTECTIONNUP422
 - Name: Power_Protection : NUP4202
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/NUP4202/
 - Description: Power_Protection : NUP4202
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-NUP4202](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-NUP4202)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONNUP422](http://oom.lt/SZKPOWERPROTECTIONNUP422)

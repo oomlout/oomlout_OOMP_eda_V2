@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-CTRIM3050.506
 - Hex ID: FZERCLCTRIM3556
 - Name: rcl : CTRIM3050.506
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/CTRIM3050.506/
 - Description: rcl : CTRIM3050.506
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CTRIM3050.506](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CTRIM3050.506)
 - Short Link: [http://oom.lt/FZERCLCTRIM3556](http://oom.lt/FZERCLCTRIM3556)

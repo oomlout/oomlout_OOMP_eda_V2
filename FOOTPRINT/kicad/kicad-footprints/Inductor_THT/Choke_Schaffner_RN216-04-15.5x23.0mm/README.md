@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN216-04-15.5x23.0mm
 - Hex ID: FZKINCHOKESCHAFFNERRN2164155X23
 - Name: Inductor_THT : Choke_Schaffner_RN216-04-15.5x23.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN216-04-15.5x23.0mm/
 - Description: Inductor_THT : Choke_Schaffner_RN216-04-15.5x23.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN216-04-15.5x23.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN216-04-15.5x23.0mm)
 - Short Link: [http://oom.lt/FZKINCHOKESCHAFFNERRN2164155X23](http://oom.lt/FZKINCHOKESCHAFFNERRN2164155X23)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B_3528-21R
 - Hex ID: FZAB352821R
 - Name: adafruit : B_3528-21R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/B_3528-21R/
 - Description: adafruit : B_3528-21R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B_3528-21R](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B_3528-21R)
 - Short Link: [http://oom.lt/FZAB352821R](http://oom.lt/FZAB352821R)

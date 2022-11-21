@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-HLK-PM12
 - Hex ID: SZKCONHLKPM12
 - Name: Converter_ACDC : HLK-PM12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/HLK-PM12/
 - Description: Converter_ACDC : HLK-PM12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HLK-PM12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HLK-PM12)
 - Short Link: [http://oom.lt/SZKCONHLKPM12](http://oom.lt/SZKCONHLKPM12)

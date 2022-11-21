@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-THING_PLUS
 - Hex ID: FZSBOTHINGPLUS
 - Name: SparkFun-Boards : THING_PLUS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/THING_PLUS/
 - Description: SparkFun-Boards : THING_PLUS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-THING_PLUS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-THING_PLUS)
 - Short Link: [http://oom.lt/FZSBOTHINGPLUS](http://oom.lt/FZSBOTHINGPLUS)

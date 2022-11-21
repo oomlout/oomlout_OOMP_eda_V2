@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPLCCSR32 > ref-packages : PLCC-SR32](#fzerefpackagesplccsr32--ref-packages--plcc-sr32)
+* [FZEREFPSPLCCSR32 > ref-packages : PLCC-SR32](#fzerefpsplccsr32--ref-packages--plcc-sr32)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPLCCSR32 > ref-packages : PLCC-SR32
+# FZEREFPSPLCCSR32 > ref-packages : PLCC-SR32
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-PLCC-SR32
-- Hex ID: FZEREFPACKAGESPLCCSR32
+- Hex ID: FZEREFPSPLCCSR32
 - Name: ref-packages : PLCC-SR32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/PLCC-SR32/
 - Description: ref-packages : PLCC-SR32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PLCC-SR32](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PLCC-SR32)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPLCCSR32](http://oom.lt/FZEREFPACKAGESPLCCSR32)
+- Short Link: [http://oom.lt/FZEREFPSPLCCSR32](http://oom.lt/FZEREFPSPLCCSR32)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|PLCC-SR32|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-PLCC-SR32|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPLCCSR32|
+|Hex ID (short code)|hexID|FZEREFPSPLCCSR32|
 |name|name|ref-packages : PLCC-SR32|
 ||||

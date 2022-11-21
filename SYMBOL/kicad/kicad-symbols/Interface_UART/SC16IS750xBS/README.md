@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS750xBS
 - Hex ID: SZKINTERFACEUARTSC16IS75XBS
 - Name: Interface_UART : SC16IS750xBS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/SC16IS750xBS/
 - Description: Interface_UART : SC16IS750xBS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS750xBS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS750xBS)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSC16IS75XBS](http://oom.lt/SZKINTERFACEUARTSC16IS75XBS)

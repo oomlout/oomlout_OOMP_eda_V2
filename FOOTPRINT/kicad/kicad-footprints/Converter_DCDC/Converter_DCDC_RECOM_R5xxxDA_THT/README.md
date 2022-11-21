@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R5xxxDA_THT
 - Hex ID: FZKCONCONRECOMR5XXXDATHT
 - Name: Converter_DCDC : Converter_DCDC_RECOM_R5xxxDA_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_RECOM_R5xxxDA_THT/
 - Description: Converter_DCDC : Converter_DCDC_RECOM_R5xxxDA_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R5xxxDA_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R5xxxDA_THT)
 - Short Link: [http://oom.lt/FZKCONCONRECOMR5XXXDATHT](http://oom.lt/FZKCONCONRECOMR5XXXDATHT)

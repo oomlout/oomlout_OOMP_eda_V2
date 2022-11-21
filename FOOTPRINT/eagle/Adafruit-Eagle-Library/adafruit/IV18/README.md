@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-IV18
 - Hex ID: FZAIV18
 - Name: adafruit : IV18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/IV18/
 - Description: adafruit : IV18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-IV18](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-IV18)
 - Short Link: [http://oom.lt/FZAIV18](http://oom.lt/FZAIV18)

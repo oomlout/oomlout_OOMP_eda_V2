@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF03GP
 - Hex ID: SZKREFERENCEVOLTAGEREF3GP
 - Name: Reference_Voltage : REF03GP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF03GP/
 - Description: Reference_Voltage : REF03GP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF03GP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF03GP)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF3GP](http://oom.lt/SZKREFERENCEVOLTAGEREF3GP)

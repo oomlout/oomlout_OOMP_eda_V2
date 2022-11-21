@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-BP-104BS
 - Hex ID: FZESMSPECIALBP14BS
 - Name: smd-special : BP-104BS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/BP-104BS/
 - Description: smd-special : BP-104BS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-BP-104BS](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-BP-104BS)
 - Short Link: [http://oom.lt/FZESMSPECIALBP14BS](http://oom.lt/FZESMSPECIALBP14BS)

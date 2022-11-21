@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-MICS-XXXX
 - Hex ID: FZSUMICSXXXX
 - Name: User-Submitted : MICS-XXXX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/User-Submitted/MICS-XXXX/
 - Description: User-Submitted : MICS-XXXX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-MICS-XXXX](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-MICS-XXXX)
 - Short Link: [http://oom.lt/FZSUMICSXXXX](http://oom.lt/FZSUMICSXXXX)

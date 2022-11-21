@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ISO1050DUB
 - Hex ID: SZKINTERFACECANLINISO15DUB
 - Name: Interface_CAN_LIN : ISO1050DUB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ISO1050DUB/
 - Description: Interface_CAN_LIN : ISO1050DUB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ISO1050DUB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ISO1050DUB)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINISO15DUB](http://oom.lt/SZKINTERFACECANLINISO15DUB)

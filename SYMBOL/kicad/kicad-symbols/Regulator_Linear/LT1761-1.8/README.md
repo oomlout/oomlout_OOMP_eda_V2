@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1761-1.8
 - Hex ID: SZKREGULATORLINEARLT176118
 - Name: Regulator_Linear : LT1761-1.8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1761-1.8/
 - Description: Regulator_Linear : LT1761-1.8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1761-1.8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1761-1.8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT176118](http://oom.lt/SZKREGULATORLINEARLT176118)

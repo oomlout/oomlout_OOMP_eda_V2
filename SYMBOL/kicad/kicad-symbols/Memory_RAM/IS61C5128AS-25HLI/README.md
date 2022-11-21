@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AS-25HLI
 - Hex ID: SZKMEMORYRAMIS61C5128AS25HLI
 - Name: Memory_RAM : IS61C5128AS-25HLI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS61C5128AS-25HLI/
 - Description: Memory_RAM : IS61C5128AS-25HLI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AS-25HLI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AS-25HLI)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIS61C5128AS25HLI](http://oom.lt/SZKMEMORYRAMIS61C5128AS25HLI)

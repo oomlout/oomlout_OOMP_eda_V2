@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_BC40
 - Hex ID: FZEBUZZERFBC4
 - Name: buzzer : F_BC40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_BC40/
 - Description: buzzer : F_BC40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_BC40](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_BC40)
 - Short Link: [http://oom.lt/FZEBUZZERFBC4](http://oom.lt/FZEBUZZERFBC4)

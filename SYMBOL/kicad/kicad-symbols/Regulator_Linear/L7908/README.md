@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7908
 - Hex ID: SZKREGULATORLINEARL798
 - Name: Regulator_Linear : L7908
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7908/
 - Description: Regulator_Linear : L7908
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7908](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7908)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL798](http://oom.lt/SZKREGULATORLINEARL798)

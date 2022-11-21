@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSSIP32 > ref-packages : SSIP-32](#fzerefpackagesssip32--ref-packages--ssip-32)
+* [FZEREFPSSSIP32 > ref-packages : SSIP-32](#fzerefpsssip32--ref-packages--ssip-32)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSSIP32 > ref-packages : SSIP-32
+# FZEREFPSSSIP32 > ref-packages : SSIP-32
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SSIP-32
-- Hex ID: FZEREFPACKAGESSSIP32
+- Hex ID: FZEREFPSSSIP32
 - Name: ref-packages : SSIP-32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SSIP-32/
 - Description: ref-packages : SSIP-32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SSIP-32](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SSIP-32)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSSIP32](http://oom.lt/FZEREFPACKAGESSSIP32)
+- Short Link: [http://oom.lt/FZEREFPSSSIP32](http://oom.lt/FZEREFPSSSIP32)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SSIP-32|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SSIP-32|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSSIP32|
+|Hex ID (short code)|hexID|FZEREFPSSSIP32|
 |name|name|ref-packages : SSIP-32|
 ||||

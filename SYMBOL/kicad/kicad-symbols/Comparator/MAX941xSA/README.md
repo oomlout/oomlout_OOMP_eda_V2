@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-MAX941xSA
 - Hex ID: SZKCOMPARATORMAX941XSA
 - Name: Comparator : MAX941xSA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/MAX941xSA/
 - Description: Comparator : MAX941xSA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MAX941xSA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MAX941xSA)
 - Short Link: [http://oom.lt/SZKCOMPARATORMAX941XSA](http://oom.lt/SZKCOMPARATORMAX941XSA)

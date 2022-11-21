@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Finder_32.21-x000
 - Hex ID: FZKRELRELAYSPDTFINDER3221X
 - Name: Relay_THT : Relay_SPDT_Finder_32.21-x000
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPDT_Finder_32.21-x000/
 - Description: Relay_THT : Relay_SPDT_Finder_32.21-x000
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Finder_32.21-x000](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Finder_32.21-x000)
 - Short Link: [http://oom.lt/FZKRELRELAYSPDTFINDER3221X](http://oom.lt/FZKRELRELAYSPDTFINDER3221X)

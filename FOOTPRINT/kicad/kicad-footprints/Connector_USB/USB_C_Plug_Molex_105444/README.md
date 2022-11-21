@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Plug_Molex_105444
 - Hex ID: FZKCNUUCPLUGMX15444
 - Name: Connector_USB : USB_C_Plug_Molex_105444
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Plug_Molex_105444/
 - Description: Connector_USB : USB_C_Plug_Molex_105444
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Plug_Molex_105444](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Plug_Molex_105444)
 - Short Link: [http://oom.lt/FZKCNUUCPLUGMX15444](http://oom.lt/FZKCNUUCPLUGMX15444)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirose-FH21-22S-1DSA
 - Hex ID: FZECONHIROSEFH2122S1DSA
 - Name: con-hirose : FH21-22S-1DSA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirose/FH21-22S-1DSA/
 - Description: con-hirose : FH21-22S-1DSA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-FH21-22S-1DSA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-FH21-22S-1DSA)
 - Short Link: [http://oom.lt/FZECONHIROSEFH2122S1DSA](http://oom.lt/FZECONHIROSEFH2122S1DSA)

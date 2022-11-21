@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Toshiba_TORX170_TORX173_TORX193_TORX194
 - Hex ID: FZKOPTOSHIBATORX17TORX173TORX193TORX194
 - Name: OptoDevice : Toshiba_TORX170_TORX173_TORX193_TORX194
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Toshiba_TORX170_TORX173_TORX193_TORX194/
 - Description: OptoDevice : Toshiba_TORX170_TORX173_TORX193_TORX194
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Toshiba_TORX170_TORX173_TORX193_TORX194](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Toshiba_TORX170_TORX173_TORX193_TORX194)
 - Short Link: [http://oom.lt/FZKOPTOSHIBATORX17TORX173TORX193TORX194](http://oom.lt/FZKOPTOSHIBATORX17TORX173TORX193TORX194)

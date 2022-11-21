@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3078E
 - Hex ID: SZKINTERFACEUARTMAX378E
 - Name: Interface_UART : MAX3078E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX3078E/
 - Description: Interface_UART : MAX3078E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3078E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3078E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX378E](http://oom.lt/SZKINTERFACEUARTMAX378E)

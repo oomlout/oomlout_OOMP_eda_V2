@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-G2RA
 - Hex ID: FZERELAYG2RA
 - Name: relay : G2RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/G2RA/
 - Description: relay : G2RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G2RA](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G2RA)
 - Short Link: [http://oom.lt/FZERELAYG2RA](http://oom.lt/FZERELAYG2RA)

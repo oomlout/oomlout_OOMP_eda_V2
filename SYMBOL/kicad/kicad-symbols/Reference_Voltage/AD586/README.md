@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-AD586
 - Hex ID: SZKREFERENCEVOLTAGEAD586
 - Name: Reference_Voltage : AD586
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/AD586/
 - Description: Reference_Voltage : AD586
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-AD586](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-AD586)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEAD586](http://oom.lt/SZKREFERENCEVOLTAGEAD586)

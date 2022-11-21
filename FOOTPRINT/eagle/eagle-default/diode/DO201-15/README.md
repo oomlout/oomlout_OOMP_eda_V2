@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO201-15
 - Hex ID: FZEDIODEDO2115
 - Name: diode : DO201-15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/DO201-15/
 - Description: diode : DO201-15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO201-15](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO201-15)
 - Short Link: [http://oom.lt/FZEDIODEDO2115](http://oom.lt/FZEDIODEDO2115)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-HC18U-H
 - Hex ID: FZEXHC18UH
 - Name: crystal : HC18U-H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/HC18U-H/
 - Description: crystal : HC18U-H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-HC18U-H](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-HC18U-H)
 - Short Link: [http://oom.lt/FZEXHC18UH](http://oom.lt/FZEXHC18UH)

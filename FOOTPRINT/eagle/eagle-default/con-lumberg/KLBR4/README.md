@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-KLBR4
 - Hex ID: FZECONLUMBERGKLBR4
 - Name: con-lumberg : KLBR4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/KLBR4/
 - Description: con-lumberg : KLBR4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-KLBR4](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-KLBR4)
 - Short Link: [http://oom.lt/FZECONLUMBERGKLBR4](http://oom.lt/FZECONLUMBERGKLBR4)

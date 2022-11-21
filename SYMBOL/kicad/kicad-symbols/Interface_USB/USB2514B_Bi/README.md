@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-USB2514B_Bi
 - Hex ID: SZKINTERFACEUU2514BBI
 - Name: Interface_USB : USB2514B_Bi
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/USB2514B_Bi/
 - Description: Interface_USB : USB2514B_Bi
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB2514B_Bi](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB2514B_Bi)
 - Short Link: [http://oom.lt/SZKINTERFACEUU2514BBI](http://oom.lt/SZKINTERFACEUU2514BBI)

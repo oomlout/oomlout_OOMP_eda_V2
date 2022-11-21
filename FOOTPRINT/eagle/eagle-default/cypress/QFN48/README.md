@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-QFN48
 - Hex ID: FZECYPRESSQFN48
 - Name: cypress : QFN48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/QFN48/
 - Description: cypress : QFN48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-QFN48](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-QFN48)
 - Short Link: [http://oom.lt/FZECYPRESSQFN48](http://oom.lt/FZECYPRESSQFN48)

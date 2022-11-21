@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ptc-ntc-P640
 - Hex ID: FZEPTCNTCP64
 - Name: ptc-ntc : P640
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ptc-ntc/P640/
 - Description: ptc-ntc : P640
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ptc-ntc-P640](http://oom.lt/FOOTPRINT-eagle-eagle-default-ptc-ntc-P640)
 - Short Link: [http://oom.lt/FZEPTCNTCP64](http://oom.lt/FZEPTCNTCP64)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-jumper-JP9Q
 - Hex ID: FZEJJP9Q
 - Name: jumper : JP9Q
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/jumper/JP9Q/
 - Description: jumper : JP9Q
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-JP9Q](http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-JP9Q)
 - Short Link: [http://oom.lt/FZEJJP9Q](http://oom.lt/FZEJJP9Q)

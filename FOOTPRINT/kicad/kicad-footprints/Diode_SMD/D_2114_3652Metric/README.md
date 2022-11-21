@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIODESMD21143652METRIC > Diode_SMD : D_2114_3652Metric](#fzkdiodesmd21143652metric--diode_smd--d_2114_3652metric)
+* [FZKDD21143652VA > Diode_SMD : D_2114_3652Metric](#fzkdd21143652va--diode_smd--d_2114_3652metric)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMD21143652METRIC > Diode_SMD : D_2114_3652Metric
+# FZKDD21143652VA > Diode_SMD : D_2114_3652Metric
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_2114_3652Metric
-- Hex ID: FZKDIODESMD21143652METRIC
+- Hex ID: FZKDD21143652VA
 - Name: Diode_SMD : D_2114_3652Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_2114_3652Metric/
 - Description: Diode_SMD : D_2114_3652Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_2114_3652Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_2114_3652Metric)
-- Short Link: [http://oom.lt/FZKDIODESMD21143652METRIC](http://oom.lt/FZKDIODESMD21143652METRIC)
+- Short Link: [http://oom.lt/FZKDD21143652VA](http://oom.lt/FZKDD21143652VA)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_2114_3652Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_2114_3652Metric|
-|Hex ID (short code)|hexID|FZKDIODESMD21143652METRIC|
+|Hex ID (short code)|hexID|FZKDD21143652VA|
 |name|name|Diode_SMD : D_2114_3652Metric|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_2114_3652Metric'</td><td> 'description'</td></tr><tr><td> 'Diode SMD 2114 (3652 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size from</td></tr><tr><td> http</td></tr><tr><td>//datasheets.avx.com/schottky.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'diode'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_2114_3652Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

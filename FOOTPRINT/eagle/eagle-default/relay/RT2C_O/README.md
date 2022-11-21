@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RT2C_O
 - Hex ID: FZERELAYRT2CO
 - Name: relay : RT2C_O
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RT2C_O/
 - Description: relay : RT2C_O
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RT2C_O](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RT2C_O)
 - Short Link: [http://oom.lt/FZERELAYRT2CO](http://oom.lt/FZERELAYRT2CO)

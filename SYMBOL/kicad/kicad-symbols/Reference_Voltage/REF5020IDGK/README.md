@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5020IDGK
 - Hex ID: SZKREFERENCEVOLTAGEREF52IDGK
 - Name: Reference_Voltage : REF5020IDGK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF5020IDGK/
 - Description: Reference_Voltage : REF5020IDGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5020IDGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5020IDGK)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF52IDGK](http://oom.lt/SZKREFERENCEVOLTAGEREF52IDGK)

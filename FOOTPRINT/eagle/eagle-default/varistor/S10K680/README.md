@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-S10K680
 - Hex ID: FZEVS1K68
 - Name: varistor : S10K680
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/S10K680/
 - Description: varistor : S10K680
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S10K680](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S10K680)
 - Short Link: [http://oom.lt/FZEVS1K68](http://oom.lt/FZEVS1K68)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-RMB2S
 - Hex ID: SZKDIODEBRIDGERMB2S
 - Name: Diode_Bridge : RMB2S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/RMB2S/
 - Description: Diode_Bridge : RMB2S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-RMB2S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-RMB2S)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGERMB2S](http://oom.lt/SZKDIODEBRIDGERMB2S)

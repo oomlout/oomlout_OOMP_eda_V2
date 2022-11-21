@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKANALOGSWITCHDG884DN > Analog_Switch : DG884DN](#szkanalogswitchdg884dn--analog_switch--dg884dn)
+* [SZKANALOGSWDG884DN > Analog_Switch : DG884DN](#szkanalogswdg884dn--analog_switch--dg884dn)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKANALOGSWITCHDG884DN > Analog_Switch : DG884DN
+# SZKANALOGSWDG884DN > Analog_Switch : DG884DN
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG884DN
-- Hex ID: SZKANALOGSWITCHDG884DN
+- Hex ID: SZKANALOGSWDG884DN
 - Name: Analog_Switch : DG884DN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG884DN/
 - Description: Analog_Switch : DG884DN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG884DN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG884DN)
-- Short Link: [http://oom.lt/SZKANALOGSWITCHDG884DN](http://oom.lt/SZKANALOGSWITCHDG884DN)
+- Short Link: [http://oom.lt/SZKANALOGSWDG884DN](http://oom.lt/SZKANALOGSWDG884DN)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Analog_Switch|
 |OOMP Index|oompIndex|DG884DN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG884DN|
-|Hex ID (short code)|hexID|SZKANALOGSWITCHDG884DN|
+|Hex ID (short code)|hexID|SZKANALOGSWDG884DN|
 |name|name|Analog_Switch : DG884DN|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG884DN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_LCC</td></tr><tr><td>PLCC-44'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/70071/dg884.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch Video Crosspoint'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8 x 4 Wideband Video Crosspoint Array</td><td> 45Ohm Ron</td><td> PLCC-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PLCC?44*'</td></tr></table>]|
 ||||

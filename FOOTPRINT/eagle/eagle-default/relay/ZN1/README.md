@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-ZN1
 - Hex ID: FZERELAYZN1
 - Name: relay : ZN1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/ZN1/
 - Description: relay : ZN1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-ZN1](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-ZN1)
 - Short Link: [http://oom.lt/FZERELAYZN1](http://oom.lt/FZERELAYZN1)

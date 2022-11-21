@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Polyfuse
 - Hex ID: SZKDEVICEPOLYFU
 - Name: Device : Polyfuse
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Polyfuse/
 - Description: Device : Polyfuse
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Polyfuse](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Polyfuse)
 - Short Link: [http://oom.lt/SZKDEVICEPOLYFU](http://oom.lt/SZKDEVICEPOLYFU)

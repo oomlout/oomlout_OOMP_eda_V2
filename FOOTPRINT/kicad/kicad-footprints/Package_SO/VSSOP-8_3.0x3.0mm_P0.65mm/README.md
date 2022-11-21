@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-VSSOP-8_3.0x3.0mm_P0.65mm
 - Hex ID: FZKSOVSS83X3P65
 - Name: Package_SO : VSSOP-8_3.0x3.0mm_P0.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/VSSOP-8_3.0x3.0mm_P0.65mm/
 - Description: Package_SO : VSSOP-8_3.0x3.0mm_P0.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-VSSOP-8_3.0x3.0mm_P0.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-VSSOP-8_3.0x3.0mm_P0.65mm)
 - Short Link: [http://oom.lt/FZKSOVSS83X3P65](http://oom.lt/FZKSOVSS83X3P65)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GSM-SIMCom_SIM900
 - Hex ID: FZKGSMSIMCOMSIM9
 - Name: RF_GSM : SIMCom_SIM900
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_GSM/SIMCom_SIM900/
 - Description: RF_GSM : SIMCom_SIM900
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GSM-SIMCom_SIM900](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GSM-SIMCom_SIM900)
 - Short Link: [http://oom.lt/FZKGSMSIMCOMSIM9](http://oom.lt/FZKGSMSIMCOMSIM9)

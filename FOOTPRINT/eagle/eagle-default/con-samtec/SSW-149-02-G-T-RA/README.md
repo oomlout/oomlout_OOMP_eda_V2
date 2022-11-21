@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-SSW-149-02-G-T-RA
 - Hex ID: FZECONSAMTECSSW1492GTRA
 - Name: con-samtec : SSW-149-02-G-T-RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/SSW-149-02-G-T-RA/
 - Description: con-samtec : SSW-149-02-G-T-RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-SSW-149-02-G-T-RA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-SSW-149-02-G-T-RA)
 - Short Link: [http://oom.lt/FZECONSAMTECSSW1492GTRA](http://oom.lt/FZECONSAMTECSSW1492GTRA)

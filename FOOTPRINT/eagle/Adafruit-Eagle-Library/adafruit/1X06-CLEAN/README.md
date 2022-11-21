@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEAN
 - Hex ID: FZA1X6C
 - Name: adafruit : 1X06-CLEAN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X06-CLEAN/
 - Description: adafruit : 1X06-CLEAN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEAN](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEAN)
 - Short Link: [http://oom.lt/FZA1X6C](http://oom.lt/FZA1X6C)

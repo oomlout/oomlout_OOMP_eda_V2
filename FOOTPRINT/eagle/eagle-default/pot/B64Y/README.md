@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-B64Y
 - Hex ID: FZEPOTB64Y
 - Name: pot : B64Y
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/B64Y/
 - Description: pot : B64Y
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-B64Y](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-B64Y)
 - Short Link: [http://oom.lt/FZEPOTB64Y](http://oom.lt/FZEPOTB64Y)

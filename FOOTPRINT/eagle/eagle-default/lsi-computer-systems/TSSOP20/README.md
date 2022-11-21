@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP20
 - Hex ID: FZELSICOMPUTERSYSTEMSTSS2
 - Name: lsi-computer-systems : TSSOP20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/TSSOP20/
 - Description: lsi-computer-systems : TSSOP20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP20](http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP20)
 - Short Link: [http://oom.lt/FZELSICOMPUTERSYSTEMSTSS2](http://oom.lt/FZELSICOMPUTERSYSTEMSTSS2)

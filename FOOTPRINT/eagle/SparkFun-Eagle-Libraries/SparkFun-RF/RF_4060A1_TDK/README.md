@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RF_4060A1_TDK
 - Hex ID: FZSRFRF46A1TDK
 - Name: SparkFun-RF : RF_4060A1_TDK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/RF_4060A1_TDK/
 - Description: SparkFun-RF : RF_4060A1_TDK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RF_4060A1_TDK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RF_4060A1_TDK)
 - Short Link: [http://oom.lt/FZSRFRF46A1TDK](http://oom.lt/FZSRFRF46A1TDK)

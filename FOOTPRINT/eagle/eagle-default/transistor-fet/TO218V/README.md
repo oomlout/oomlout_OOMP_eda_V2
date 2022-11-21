@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-TO218V
 - Hex ID: FZETRANSISTORFETTO218V
 - Name: transistor-fet : TO218V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/TO218V/
 - Description: transistor-fet : TO218V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-TO218V](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-TO218V)
 - Short Link: [http://oom.lt/FZETRANSISTORFETTO218V](http://oom.lt/FZETRANSISTORFETTO218V)

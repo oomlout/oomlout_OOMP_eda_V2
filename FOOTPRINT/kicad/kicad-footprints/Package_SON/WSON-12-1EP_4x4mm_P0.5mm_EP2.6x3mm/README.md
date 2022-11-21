@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-12-1EP_4x4mm_P0.5mm_EP2.6x3mm
 - Hex ID: FZKSONWSON121EP4X4P5EP26X3
 - Name: Package_SON : WSON-12-1EP_4x4mm_P0.5mm_EP2.6x3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_4x4mm_P0.5mm_EP2.6x3mm/
 - Description: Package_SON : WSON-12-1EP_4x4mm_P0.5mm_EP2.6x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-12-1EP_4x4mm_P0.5mm_EP2.6x3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-12-1EP_4x4mm_P0.5mm_EP2.6x3mm)
 - Short Link: [http://oom.lt/FZKSONWSON121EP4X4P5EP26X3](http://oom.lt/FZKSONWSON121EP4X4P5EP26X3)

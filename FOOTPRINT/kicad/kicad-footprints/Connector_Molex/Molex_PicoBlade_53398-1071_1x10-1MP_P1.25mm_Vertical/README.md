@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNMXMXPICOBLADE533981711X11MPP125VERTICAL > Connector_Molex : Molex_PicoBlade_53398-1071_1x10-1MP_P1.25mm_Vertical](#fzkcnmxmxpicoblade533981711x11mpp125vertical--connector_molex--molex_picoblade_53398-1071_1x10-1mp_p125mm_vertical)
+* [FZKCNMXMXPICOBLADE533981711X11MPP125F > Connector_Molex : Molex_PicoBlade_53398-1071_1x10-1MP_P1.25mm_Vertical](#fzkcnmxmxpicoblade533981711x11mpp125f--connector_molex--molex_picoblade_53398-1071_1x10-1mp_p125mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXPICOBLADE533981711X11MPP125VERTICAL > Connector_Molex : Molex_PicoBlade_53398-1071_1x10-1MP_P1.25mm_Vertical
+# FZKCNMXMXPICOBLADE533981711X11MPP125F > Connector_Molex : Molex_PicoBlade_53398-1071_1x10-1MP_P1.25mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53398-1071_1x10-1MP_P1.25mm_Vertical
-- Hex ID: FZKCNMXMXPICOBLADE533981711X11MPP125VERTICAL
+- Hex ID: FZKCNMXMXPICOBLADE533981711X11MPP125F
 - Name: Connector_Molex : Molex_PicoBlade_53398-1071_1x10-1MP_P1.25mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_PicoBlade_53398-1071_1x10-1MP_P1.25mm_Vertical/
 - Description: Connector_Molex : Molex_PicoBlade_53398-1071_1x10-1MP_P1.25mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53398-1071_1x10-1MP_P1.25mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53398-1071_1x10-1MP_P1.25mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNMXMXPICOBLADE533981711X11MPP125VERTICAL](http://oom.lt/FZKCNMXMXPICOBLADE533981711X11MPP125VERTICAL)
+- Short Link: [http://oom.lt/FZKCNMXMXPICOBLADE533981711X11MPP125F](http://oom.lt/FZKCNMXMXPICOBLADE533981711X11MPP125F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_PicoBlade_53398-1071_1x10-1MP_P1.25mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53398-1071_1x10-1MP_P1.25mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNMXMXPICOBLADE533981711X11MPP125VERTICAL|
+|Hex ID (short code)|hexID|FZKCNMXMXPICOBLADE533981711X11MPP125F|
 |name|name|Connector_Molex : Molex_PicoBlade_53398-1071_1x10-1MP_P1.25mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_PicoBlade_53398-1071_1x10-1MP_P1.25mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex PicoBlade series connector</td><td> 53398-1071 (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/533980271_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex PicoBlade side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_PicoBlade_53398-1071_1x10-1MP_P1.25mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

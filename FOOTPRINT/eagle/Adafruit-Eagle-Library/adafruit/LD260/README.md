@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LD260
 - Hex ID: FZALD26
 - Name: adafruit : LD260
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/LD260/
 - Description: adafruit : LD260
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LD260](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LD260)
 - Short Link: [http://oom.lt/FZALD26](http://oom.lt/FZALD26)

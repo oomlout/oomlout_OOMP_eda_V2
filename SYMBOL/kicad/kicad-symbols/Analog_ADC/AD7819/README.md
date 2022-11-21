@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7819
 - Hex ID: SZKANALOGADCAD7819
 - Name: Analog_ADC : AD7819
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7819/
 - Description: Analog_ADC : AD7819
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7819](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7819)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7819](http://oom.lt/SZKANALOGADCAD7819)

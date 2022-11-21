@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKSWITCHSWPUSHDUAL > Switch : SW_Push_Dual](#szkswitchswpushdual--switch--sw_push_dual)
+* [SZKSWSWPUSHDUAL > Switch : SW_Push_Dual](#szkswswpushdual--switch--sw_push_dual)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKSWITCHSWPUSHDUAL > Switch : SW_Push_Dual
+# SZKSWSWPUSHDUAL > Switch : SW_Push_Dual
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Dual
-- Hex ID: SZKSWITCHSWPUSHDUAL
+- Hex ID: SZKSWSWPUSHDUAL
 - Name: Switch : SW_Push_Dual
 - Description: Switch : SW_Push_Dual
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Dual](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Dual)
-- Short Link: [http://oom.lt/SZKSWITCHSWPUSHDUAL](http://oom.lt/SZKSWITCHSWPUSHDUAL)
+- Short Link: [http://oom.lt/SZKSWSWPUSHDUAL](http://oom.lt/SZKSWSWPUSHDUAL)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Switch|
 |OOMP Index|oompIndex|SW_Push_Dual|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Dual|
-|Hex ID (short code)|hexID|SZKSWITCHSWPUSHDUAL|
+|Hex ID (short code)|hexID|SZKSWSWPUSHDUAL|
 |name|name|Switch : SW_Push_Dual|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_Push_Dual'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switch normally-open pushbutton push-button'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Push button switch</td><td> generic</td><td> symbol</td><td> four pins'</td></tr></table>]|
 ||||

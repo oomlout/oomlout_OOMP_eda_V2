@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L072CZEx
 - Hex ID: SZKMCUSTSTM32LSTM32L72CZEX
 - Name: MCU_ST_STM32L0 : STM32L072CZEx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L072CZEx/
 - Description: MCU_ST_STM32L0 : STM32L072CZEx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L072CZEx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L072CZEx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32LSTM32L72CZEX](http://oom.lt/SZKMCUSTSTM32LSTM32L72CZEX)

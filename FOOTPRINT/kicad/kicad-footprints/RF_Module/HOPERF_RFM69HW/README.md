@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-HOPERF_RFM69HW
 - Hex ID: FZKRFMOHOPERFRFM69HW
 - Name: RF_Module : HOPERF_RFM69HW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/HOPERF_RFM69HW/
 - Description: RF_Module : HOPERF_RFM69HW
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-HOPERF_RFM69HW](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-HOPERF_RFM69HW)
 - Short Link: [http://oom.lt/FZKRFMOHOPERFRFM69HW](http://oom.lt/FZKRFMOHOPERFRFM69HW)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGM128-6
 - Hex ID: FZKDIEADOGM1286
 - Name: Display : EA_DOGM128-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/EA_DOGM128-6/
 - Description: Display : EA_DOGM128-6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGM128-6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGM128-6)
 - Short Link: [http://oom.lt/FZKDIEADOGM1286](http://oom.lt/FZKDIEADOGM1286)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESEB35D > ref-packages : EB35D](#fzerefpackageseb35d--ref-packages--eb35d)
+* [FZEREFPSEB35D > ref-packages : EB35D](#fzerefpseb35d--ref-packages--eb35d)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESEB35D > ref-packages : EB35D
+# FZEREFPSEB35D > ref-packages : EB35D
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-EB35D
-- Hex ID: FZEREFPACKAGESEB35D
+- Hex ID: FZEREFPSEB35D
 - Name: ref-packages : EB35D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/EB35D/
 - Description: ref-packages : EB35D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-EB35D](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-EB35D)
-- Short Link: [http://oom.lt/FZEREFPACKAGESEB35D](http://oom.lt/FZEREFPACKAGESEB35D)
+- Short Link: [http://oom.lt/FZEREFPSEB35D](http://oom.lt/FZEREFPSEB35D)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|EB35D|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-EB35D|
-|Hex ID (short code)|hexID|FZEREFPACKAGESEB35D|
+|Hex ID (short code)|hexID|FZEREFPSEB35D|
 |name|name|ref-packages : EB35D|
 ||||

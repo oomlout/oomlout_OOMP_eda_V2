@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M0805
 - Hex ID: FZAM85
 - Name: adafruit : M0805
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/M0805/
 - Description: adafruit : M0805
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M0805](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M0805)
 - Short Link: [http://oom.lt/FZAM85](http://oom.lt/FZAM85)

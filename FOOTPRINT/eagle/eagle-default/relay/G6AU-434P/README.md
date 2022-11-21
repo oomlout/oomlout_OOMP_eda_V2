@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-G6AU-434P
 - Hex ID: FZERELAYG6AU434P
 - Name: relay : G6AU-434P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/G6AU-434P/
 - Description: relay : G6AU-434P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G6AU-434P](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G6AU-434P)
 - Short Link: [http://oom.lt/FZERELAYG6AU434P](http://oom.lt/FZERELAYG6AU434P)

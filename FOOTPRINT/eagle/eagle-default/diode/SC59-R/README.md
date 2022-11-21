@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SC59-R
 - Hex ID: FZEDIODESC59R
 - Name: diode : SC59-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SC59-R/
 - Description: diode : SC59-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SC59-R](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SC59-R)
 - Short Link: [http://oom.lt/FZEDIODESC59R](http://oom.lt/FZEDIODESC59R)

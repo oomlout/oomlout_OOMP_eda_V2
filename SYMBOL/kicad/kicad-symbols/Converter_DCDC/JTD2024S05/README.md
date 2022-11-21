@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD2024S05
 - Hex ID: SZKCONJTD224S5
 - Name: Converter_DCDC : JTD2024S05
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/JTD2024S05/
 - Description: Converter_DCDC : JTD2024S05
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD2024S05](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD2024S05)
 - Short Link: [http://oom.lt/SZKCONJTD224S5](http://oom.lt/SZKCONJTD224S5)

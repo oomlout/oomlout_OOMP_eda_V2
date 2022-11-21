@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-INA219AxDCN
 - Hex ID: SZKANALOGADCINA219AXDCN
 - Name: Analog_ADC : INA219AxDCN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/INA219AxDCN/
 - Description: Analog_ADC : INA219AxDCN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-INA219AxDCN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-INA219AxDCN)
 - Short Link: [http://oom.lt/SZKANALOGADCINA219AXDCN](http://oom.lt/SZKANALOGADCINA219AXDCN)

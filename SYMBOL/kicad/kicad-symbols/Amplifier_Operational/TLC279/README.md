@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLC279
 - Hex ID: SZKAMPLIFIEROPERATIONALTLC279
 - Name: Amplifier_Operational : TLC279
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TLC279/
 - Description: Amplifier_Operational : TLC279
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLC279](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLC279)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTLC279](http://oom.lt/SZKAMPLIFIEROPERATIONALTLC279)

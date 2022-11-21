@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNEOSIDBS75 > inductor-neosid : BS75](#fzeinductorneosidbs75--inductor-neosid--bs75)
+* [FZEINNEOSIDBS75 > inductor-neosid : BS75](#fzeinneosidbs75--inductor-neosid--bs75)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNEOSIDBS75 > inductor-neosid : BS75
+# FZEINNEOSIDBS75 > inductor-neosid : BS75
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-BS75
-- Hex ID: FZEINDUCTORNEOSIDBS75
+- Hex ID: FZEINNEOSIDBS75
 - Name: inductor-neosid : BS75
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-neosid/BS75/
 - Description: inductor-neosid : BS75
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-BS75](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-BS75)
-- Short Link: [http://oom.lt/FZEINDUCTORNEOSIDBS75](http://oom.lt/FZEINDUCTORNEOSIDBS75)
+- Short Link: [http://oom.lt/FZEINNEOSIDBS75](http://oom.lt/FZEINNEOSIDBS75)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-neosid|
 |OOMP Index|oompIndex|BS75|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-neosid-BS75|
-|Hex ID (short code)|hexID|FZEINDUCTORNEOSIDBS75|
+|Hex ID (short code)|hexID|FZEINNEOSIDBS75|
 |name|name|inductor-neosid : BS75|
 ||||

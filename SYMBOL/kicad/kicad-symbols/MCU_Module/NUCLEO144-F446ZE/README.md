@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F446ZE
 - Hex ID: SZKMCUMONUCLEO144F446ZE
 - Name: MCU_Module : NUCLEO144-F446ZE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F446ZE/
 - Description: MCU_Module : NUCLEO144-F446ZE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F446ZE](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F446ZE)
 - Short Link: [http://oom.lt/SZKMCUMONUCLEO144F446ZE](http://oom.lt/SZKMCUMONUCLEO144F446ZE)

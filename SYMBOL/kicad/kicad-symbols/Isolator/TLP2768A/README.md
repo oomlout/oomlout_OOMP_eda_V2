@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP2768A
 - Hex ID: SZKISOLATORTLP2768A
 - Name: Isolator : TLP2768A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TLP2768A/
 - Description: Isolator : TLP2768A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2768A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2768A)
 - Short Link: [http://oom.lt/SZKISOLATORTLP2768A](http://oom.lt/SZKISOLATORTLP2768A)

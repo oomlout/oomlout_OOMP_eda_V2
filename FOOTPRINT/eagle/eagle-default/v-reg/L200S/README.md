@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-L200S
 - Hex ID: FZEVREGL2S
 - Name: v-reg : L200S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/L200S/
 - Description: v-reg : L200S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-L200S](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-L200S)
 - Short Link: [http://oom.lt/FZEVREGL2S](http://oom.lt/FZEVREGL2S)

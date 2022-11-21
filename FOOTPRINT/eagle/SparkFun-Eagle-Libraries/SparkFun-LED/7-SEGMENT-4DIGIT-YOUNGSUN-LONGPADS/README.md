@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-7-SEGMENT-4DIGIT-YOUNGSUN-LONGPADS
 - Hex ID: FZSL7S4DIGITYOUNGSUNL
 - Name: SparkFun-LED : 7-SEGMENT-4DIGIT-YOUNGSUN-LONGPADS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/7-SEGMENT-4DIGIT-YOUNGSUN-LONGPADS/
 - Description: SparkFun-LED : 7-SEGMENT-4DIGIT-YOUNGSUN-LONGPADS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-7-SEGMENT-4DIGIT-YOUNGSUN-LONGPADS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-7-SEGMENT-4DIGIT-YOUNGSUN-LONGPADS)
 - Short Link: [http://oom.lt/FZSL7S4DIGITYOUNGSUNL](http://oom.lt/FZSL7S4DIGITYOUNGSUNL)

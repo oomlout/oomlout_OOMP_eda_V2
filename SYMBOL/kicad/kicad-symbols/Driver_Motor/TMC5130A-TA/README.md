@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC5130A-TA
 - Hex ID: SZKDRIVERMOTORTMC513ATA
 - Name: Driver_Motor : TMC5130A-TA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC5130A-TA/
 - Description: Driver_Motor : TMC5130A-TA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC5130A-TA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC5130A-TA)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORTMC513ATA](http://oom.lt/SZKDRIVERMOTORTMC513ATA)

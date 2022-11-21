@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-wafer-scale-psd-CLDCC44
 - Hex ID: FZEWAFERSCALEPSDCLDCC44
 - Name: wafer-scale-psd : CLDCC44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/wafer-scale-psd/CLDCC44/
 - Description: wafer-scale-psd : CLDCC44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-wafer-scale-psd-CLDCC44](http://oom.lt/FOOTPRINT-eagle-eagle-default-wafer-scale-psd-CLDCC44)
 - Short Link: [http://oom.lt/FZEWAFERSCALEPSDCLDCC44](http://oom.lt/FZEWAFERSCALEPSDCLDCC44)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-0603
 - Hex ID: FZSDS63
 - Name: SparkFun-DiscreteSemi : 0603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/0603/
 - Description: SparkFun-DiscreteSemi : 0603
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-0603](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-0603)
 - Short Link: [http://oom.lt/FZSDS63](http://oom.lt/FZSDS63)

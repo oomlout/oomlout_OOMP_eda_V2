@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-PLCC44
 - Hex ID: FZEMINTELPLCC44
 - Name: micro-intel : PLCC44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/PLCC44/
 - Description: micro-intel : PLCC44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PLCC44](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PLCC44)
 - Short Link: [http://oom.lt/FZEMINTELPLCC44](http://oom.lt/FZEMINTELPLCC44)

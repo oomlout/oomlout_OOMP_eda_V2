@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_Socket_DPDT_Finder_96.12
 - Hex ID: FZKRELRELAYSODPDTFINDER9612
 - Name: Relay_THT : Relay_Socket_DPDT_Finder_96.12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_Socket_DPDT_Finder_96.12/
 - Description: Relay_THT : Relay_Socket_DPDT_Finder_96.12
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_Socket_DPDT_Finder_96.12](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_Socket_DPDT_Finder_96.12)
 - Short Link: [http://oom.lt/FZKRELRELAYSODPDTFINDER9612](http://oom.lt/FZKRELRELAYSODPDTFINDER9612)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCAPACITORTANTALUMSMCPEIA713228AVXCPAD272X35HANDSOLDER > Capacitor_Tantalum_SMD : CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder](#fzkcapacitortantalumsmcpeia713228avxcpad272x35handsolder--capacitor_tantalum_smd--cp_eia-7132-28_avx-c_pad272x350mm_handsolder)
+* [FZKCCPEIA713228AVXCP272X35HSOLDER > Capacitor_Tantalum_SMD : CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder](#fzkccpeia713228avxcp272x35hsolder--capacitor_tantalum_smd--cp_eia-7132-28_avx-c_pad272x350mm_handsolder)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORTANTALUMSMCPEIA713228AVXCPAD272X35HANDSOLDER > Capacitor_Tantalum_SMD : CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder
+# FZKCCPEIA713228AVXCP272X35HSOLDER > Capacitor_Tantalum_SMD : CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder
-- Hex ID: FZKCAPACITORTANTALUMSMCPEIA713228AVXCPAD272X35HANDSOLDER
+- Hex ID: FZKCCPEIA713228AVXCP272X35HSOLDER
 - Name: Capacitor_Tantalum_SMD : CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder)
-- Short Link: [http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA713228AVXCPAD272X35HANDSOLDER](http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA713228AVXCPAD272X35HANDSOLDER)
+- Short Link: [http://oom.lt/FZKCCPEIA713228AVXCP272X35HSOLDER](http://oom.lt/FZKCCPEIA713228AVXCP272X35HSOLDER)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_Tantalum_SMD|
 |OOMP Index|oompIndex|CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder|
-|Hex ID (short code)|hexID|FZKCAPACITORTANTALUMSMCPEIA713228AVXCPAD272X35HANDSOLDER|
+|Hex ID (short code)|hexID|FZKCCPEIA713228AVXCP272X35HSOLDER|
 |name|name|Capacitor_Tantalum_SMD : CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Tantalum Capacitor SMD AVX-C (7132-28 Metric)</td><td> IPC_7351 nominal</td><td> (Body size from</td></tr><tr><td> http</td></tr><tr><td>//datasheets.avx.com/F72-F75.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor tantalum'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-7132-28_AVX-C.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

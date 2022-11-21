@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-TFI0305
 - Hex ID: FZERCLTFI35
 - Name: rcl : TFI0305
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/TFI0305/
 - Description: rcl : TFI0305
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TFI0305](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TFI0305)
 - Short Link: [http://oom.lt/FZERCLTFI35](http://oom.lt/FZERCLTFI35)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_XKB_U262-16XN-4BVC11
 - Hex ID: FZKCNUUCRECEPTACLEXKBU26216XN4BVC11
 - Name: Connector_USB : USB_C_Receptacle_XKB_U262-16XN-4BVC11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_XKB_U262-16XN-4BVC11/
 - Description: Connector_USB : USB_C_Receptacle_XKB_U262-16XN-4BVC11
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_XKB_U262-16XN-4BVC11](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_XKB_U262-16XN-4BVC11)
 - Short Link: [http://oom.lt/FZKCNUUCRECEPTACLEXKBU26216XN4BVC11](http://oom.lt/FZKCNUUCRECEPTACLEXKBU26216XN4BVC11)

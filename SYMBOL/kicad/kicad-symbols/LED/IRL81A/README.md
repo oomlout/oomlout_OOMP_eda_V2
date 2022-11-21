@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-IRL81A
 - Hex ID: SZKLIRL81A
 - Name: LED : IRL81A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/IRL81A/
 - Description: LED : IRL81A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-IRL81A](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-IRL81A)
 - Short Link: [http://oom.lt/SZKLIRL81A](http://oom.lt/SZKLIRL81A)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-TLE2426xLP
 - Hex ID: SZKREFERENCEVOLTAGETLE2426XLP
 - Name: Reference_Voltage : TLE2426xLP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/TLE2426xLP/
 - Description: Reference_Voltage : TLE2426xLP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-TLE2426xLP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-TLE2426xLP)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGETLE2426XLP](http://oom.lt/SZKREFERENCEVOLTAGETLE2426XLP)

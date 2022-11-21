@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1634CCZ-4.096
 - Hex ID: SZKREFERENCEVOLTAGELT1634CCZ496
 - Name: Reference_Voltage : LT1634CCZ-4.096
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LT1634CCZ-4.096/
 - Description: Reference_Voltage : LT1634CCZ-4.096
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1634CCZ-4.096](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1634CCZ-4.096)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELT1634CCZ496](http://oom.lt/SZKREFERENCEVOLTAGELT1634CCZ496)

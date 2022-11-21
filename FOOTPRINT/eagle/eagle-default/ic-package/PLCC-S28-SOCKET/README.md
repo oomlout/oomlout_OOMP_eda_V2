@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEICPACKAGEPLCCS28SO > ic-package : PLCC-S28-SOCKET](#fzeicpackageplccs28so--ic-package--plcc-s28-socket)
+* [FZEICPPLCCS28SO > ic-package : PLCC-S28-SOCKET](#fzeicpplccs28so--ic-package--plcc-s28-socket)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEICPACKAGEPLCCS28SO > ic-package : PLCC-S28-SOCKET
+# FZEICPPLCCS28SO > ic-package : PLCC-S28-SOCKET
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-PLCC-S28-SOCKET
-- Hex ID: FZEICPACKAGEPLCCS28SO
+- Hex ID: FZEICPPLCCS28SO
 - Name: ic-package : PLCC-S28-SOCKET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ic-package/PLCC-S28-SOCKET/
 - Description: ic-package : PLCC-S28-SOCKET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-PLCC-S28-SOCKET](http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-PLCC-S28-SOCKET)
-- Short Link: [http://oom.lt/FZEICPACKAGEPLCCS28SO](http://oom.lt/FZEICPACKAGEPLCCS28SO)
+- Short Link: [http://oom.lt/FZEICPPLCCS28SO](http://oom.lt/FZEICPPLCCS28SO)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ic-package|
 |OOMP Index|oompIndex|PLCC-S28-SOCKET|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ic-package-PLCC-S28-SOCKET|
-|Hex ID (short code)|hexID|FZEICPACKAGEPLCCS28SO|
+|Hex ID (short code)|hexID|FZEICPPLCCS28SO|
 |name|name|ic-package : PLCC-S28-SOCKET|
 ||||

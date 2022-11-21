@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MAX4238ASA
 - Hex ID: SZKAMPLIFIEROPERATIONALMAX4238ASA
 - Name: Amplifier_Operational : MAX4238ASA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MAX4238ASA/
 - Description: Amplifier_Operational : MAX4238ASA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MAX4238ASA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MAX4238ASA)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMAX4238ASA](http://oom.lt/SZKAMPLIFIEROPERATIONALMAX4238ASA)

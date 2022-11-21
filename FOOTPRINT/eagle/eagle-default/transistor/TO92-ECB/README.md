@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-TO92-ECB
 - Hex ID: FZETRANSISTORTO92ECB
 - Name: transistor : TO92-ECB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/TO92-ECB/
 - Description: transistor : TO92-ECB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO92-ECB](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO92-ECB)
 - Short Link: [http://oom.lt/FZETRANSISTORTO92ECB](http://oom.lt/FZETRANSISTORTO92ECB)

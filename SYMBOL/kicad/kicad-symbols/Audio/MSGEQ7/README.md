@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-MSGEQ7
 - Hex ID: SZKAUDIOMSGEQ7
 - Name: Audio : MSGEQ7
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/MSGEQ7/
 - Description: Audio : MSGEQ7
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-MSGEQ7](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-MSGEQ7)
 - Short Link: [http://oom.lt/SZKAUDIOMSGEQ7](http://oom.lt/SZKAUDIOMSGEQ7)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-W25X40CLSV
 - Hex ID: SZKMEMORYFLASHW25X4CLSV
 - Name: Memory_Flash : W25X40CLSV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/W25X40CLSV/
 - Description: Memory_Flash : W25X40CLSV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25X40CLSV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25X40CLSV)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHW25X4CLSV](http://oom.lt/SZKMEMORYFLASHW25X4CLSV)

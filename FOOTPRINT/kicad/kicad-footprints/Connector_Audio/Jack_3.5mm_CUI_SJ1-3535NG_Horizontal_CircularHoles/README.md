@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNAUDIOJ35CUISJ13535NGHORIZONTALCIRCULARH > Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles](#fzkcnaudioj35cuisj13535nghorizontalcircularh--connector_audio--jack_35mm_cui_sj1-3535ng_horizontal_circularholes)
+* [FZKCNAUDIOJ35CUISJ13535NGHCIRCULARH > Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles](#fzkcnaudioj35cuisj13535nghcircularh--connector_audio--jack_35mm_cui_sj1-3535ng_horizontal_circularholes)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJ35CUISJ13535NGHORIZONTALCIRCULARH > Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles
+# FZKCNAUDIOJ35CUISJ13535NGHCIRCULARH > Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles
-- Hex ID: FZKCNAUDIOJ35CUISJ13535NGHORIZONTALCIRCULARH
+- Hex ID: FZKCNAUDIOJ35CUISJ13535NGHCIRCULARH
 - Name: Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles/
 - Description: Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles)
-- Short Link: [http://oom.lt/FZKCNAUDIOJ35CUISJ13535NGHORIZONTALCIRCULARH](http://oom.lt/FZKCNAUDIOJ35CUISJ13535NGHORIZONTALCIRCULARH)
+- Short Link: [http://oom.lt/FZKCNAUDIOJ35CUISJ13535NGHCIRCULARH](http://oom.lt/FZKCNAUDIOJ35CUISJ13535NGHCIRCULARH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles|
-|Hex ID (short code)|hexID|FZKCNAUDIOJ35CUISJ13535NGHORIZONTALCIRCULARH|
+|Hex ID (short code)|hexID|FZKCNAUDIOJ35CUISJ13535NGHCIRCULARH|
 |name|name|Connector_Audio : Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles'</td><td> 'description'</td></tr><tr><td> 'TRS 3.5mm</td><td> horizontal</td><td> through-hole</td><td> with switch</td><td> circular holes</td><td> https</td></tr><tr><td>//www.cui.com/product/resource/sj1-353xng.pdf'</td><td> 'tags'</td></tr><tr><td> 'TRS audio jack stereo horizontal circular'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_3.5mm_CUI_SJ1-3535NG_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

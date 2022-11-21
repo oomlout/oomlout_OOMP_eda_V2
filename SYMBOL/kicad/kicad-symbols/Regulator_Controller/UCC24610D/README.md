@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24610D
 - Hex ID: SZKREGULATORCONTROLLERUCC2461D
 - Name: Regulator_Controller : UCC24610D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC24610D/
 - Description: Regulator_Controller : UCC24610D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24610D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24610D)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC2461D](http://oom.lt/SZKREGULATORCONTROLLERUCC2461D)

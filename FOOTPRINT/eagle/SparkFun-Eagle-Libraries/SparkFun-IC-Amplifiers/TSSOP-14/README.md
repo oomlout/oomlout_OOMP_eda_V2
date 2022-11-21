@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-TSSOP-14
 - Hex ID: FZSIATSS14
 - Name: SparkFun-IC-Amplifiers : TSSOP-14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Amplifiers/TSSOP-14/
 - Description: SparkFun-IC-Amplifiers : TSSOP-14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-TSSOP-14](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-TSSOP-14)
 - Short Link: [http://oom.lt/FZSIATSS14](http://oom.lt/FZSIATSS14)

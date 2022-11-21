@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Positive_20mm_SilkScreen
 - Hex ID: FZKSZPOLARITYCENTERPOSITIVE2SILKSCREEN
 - Name: Symbol : Polarity_Center_Positive_20mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Polarity_Center_Positive_20mm_SilkScreen/
 - Description: Symbol : Polarity_Center_Positive_20mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Positive_20mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Positive_20mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZPOLARITYCENTERPOSITIVE2SILKSCREEN](http://oom.lt/FZKSZPOLARITYCENTERPOSITIVE2SILKSCREEN)

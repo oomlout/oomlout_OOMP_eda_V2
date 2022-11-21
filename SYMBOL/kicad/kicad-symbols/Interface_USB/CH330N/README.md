@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-CH330N
 - Hex ID: SZKINTERFACEUCH33N
 - Name: Interface_USB : CH330N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CH330N/
 - Description: Interface_USB : CH330N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CH330N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CH330N)
 - Short Link: [http://oom.lt/SZKINTERFACEUCH33N](http://oom.lt/SZKINTERFACEUCH33N)

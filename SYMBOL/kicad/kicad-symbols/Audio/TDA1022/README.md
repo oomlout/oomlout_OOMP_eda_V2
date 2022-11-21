@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-TDA1022
 - Hex ID: SZKAUDIOTDA122
 - Name: Audio : TDA1022
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/TDA1022/
 - Description: Audio : TDA1022
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TDA1022](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TDA1022)
 - Short Link: [http://oom.lt/SZKAUDIOTDA122](http://oom.lt/SZKAUDIOTDA122)

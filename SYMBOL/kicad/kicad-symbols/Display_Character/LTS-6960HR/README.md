@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6960HR
 - Hex ID: SZKDICHARACTERLTS696HR
 - Name: Display_Character : LTS-6960HR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/LTS-6960HR/
 - Description: Display_Character : LTS-6960HR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6960HR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6960HR)
 - Short Link: [http://oom.lt/SZKDICHARACTERLTS696HR](http://oom.lt/SZKDICHARACTERLTS696HR)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A403
 - Hex ID: SZKDICHARACTERHDSPA43
 - Name: Display_Character : HDSP-A403
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-A403/
 - Description: Display_Character : HDSP-A403
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A403](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A403)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSPA43](http://oom.lt/SZKDICHARACTERHDSPA43)

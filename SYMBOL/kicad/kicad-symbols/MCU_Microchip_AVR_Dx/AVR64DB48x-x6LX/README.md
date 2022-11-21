@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB48x-x6LX
 - Hex ID: SZKMCUMCHIPAVRDXAVR64DB48XX6LX
 - Name: MCU_Microchip_AVR_Dx : AVR64DB48x-x6LX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR64DB48x-x6LX/
 - Description: MCU_Microchip_AVR_Dx : AVR64DB48x-x6LX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB48x-x6LX](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB48x-x6LX)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR64DB48XX6LX](http://oom.lt/SZKMCUMCHIPAVRDXAVR64DB48XX6LX)

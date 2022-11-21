@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-deutsch-CDG-DRC13-70P-B027
 - Hex ID: FZECONDEUTSCHCDGDRC137PB27
 - Name: con-deutsch : CDG-DRC13-70P-B027
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-deutsch/CDG-DRC13-70P-B027/
 - Description: con-deutsch : CDG-DRC13-70P-B027
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-CDG-DRC13-70P-B027](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-CDG-DRC13-70P-B027)
 - Short Link: [http://oom.lt/FZECONDEUTSCHCDGDRC137PB27](http://oom.lt/FZECONDEUTSCHCDGDRC137PB27)

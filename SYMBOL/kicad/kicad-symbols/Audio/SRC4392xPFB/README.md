@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-SRC4392xPFB
 - Hex ID: SZKAUDIOSRC4392XPFB
 - Name: Audio : SRC4392xPFB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/SRC4392xPFB/
 - Description: Audio : SRC4392xPFB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SRC4392xPFB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SRC4392xPFB)
 - Short Link: [http://oom.lt/SZKAUDIOSRC4392XPFB](http://oom.lt/SZKAUDIOSRC4392XPFB)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP48
 - Hex ID: FZELSICOMPUTERSYSTEMSTSS48
 - Name: lsi-computer-systems : TSSOP48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/TSSOP48/
 - Description: lsi-computer-systems : TSSOP48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP48](http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP48)
 - Short Link: [http://oom.lt/FZELSICOMPUTERSYSTEMSTSS48](http://oom.lt/FZELSICOMPUTERSYSTEMSTSS48)

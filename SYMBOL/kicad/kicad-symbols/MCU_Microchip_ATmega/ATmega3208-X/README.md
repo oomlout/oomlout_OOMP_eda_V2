@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega3208-X
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA328X
 - Name: MCU_Microchip_ATmega : ATmega3208-X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega3208-X/
 - Description: MCU_Microchip_ATmega : ATmega3208-X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega3208-X](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega3208-X)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA328X](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA328X)

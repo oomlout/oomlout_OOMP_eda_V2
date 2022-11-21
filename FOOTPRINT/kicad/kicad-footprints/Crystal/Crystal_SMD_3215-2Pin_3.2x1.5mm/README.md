@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXXSM32152PIN32X15 > Crystal : Crystal_SMD_3215-2Pin_3.2x1.5mm](#fzkxxsm32152pin32x15--crystal--crystal_smd_3215-2pin_32x15mm)
+* [FZKXXSM32152P32X15 > Crystal : Crystal_SMD_3215-2Pin_3.2x1.5mm](#fzkxxsm32152p32x15--crystal--crystal_smd_3215-2pin_32x15mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXSM32152PIN32X15 > Crystal : Crystal_SMD_3215-2Pin_3.2x1.5mm
+# FZKXXSM32152P32X15 > Crystal : Crystal_SMD_3215-2Pin_3.2x1.5mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3215-2Pin_3.2x1.5mm
-- Hex ID: FZKXXSM32152PIN32X15
+- Hex ID: FZKXXSM32152P32X15
 - Name: Crystal : Crystal_SMD_3215-2Pin_3.2x1.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_3215-2Pin_3.2x1.5mm/
 - Description: Crystal : Crystal_SMD_3215-2Pin_3.2x1.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3215-2Pin_3.2x1.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3215-2Pin_3.2x1.5mm)
-- Short Link: [http://oom.lt/FZKXXSM32152PIN32X15](http://oom.lt/FZKXXSM32152PIN32X15)
+- Short Link: [http://oom.lt/FZKXXSM32152P32X15](http://oom.lt/FZKXXSM32152P32X15)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_SMD_3215-2Pin_3.2x1.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3215-2Pin_3.2x1.5mm|
-|Hex ID (short code)|hexID|FZKXXSM32152PIN32X15|
+|Hex ID (short code)|hexID|FZKXXSM32152P32X15|
 |name|name|Crystal : Crystal_SMD_3215-2Pin_3.2x1.5mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_3215-2Pin_3.2x1.5mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal FC-135 https</td></tr><tr><td>//support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT Crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_3215-2Pin_3.2x1.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

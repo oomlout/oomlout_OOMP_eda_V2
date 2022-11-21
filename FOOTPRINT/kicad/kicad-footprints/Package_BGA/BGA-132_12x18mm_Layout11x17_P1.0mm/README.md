@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-132_12x18mm_Layout11x17_P1.0mm
 - Hex ID: FZKBGABGA13212X18LAYOUT11X17P1
 - Name: Package_BGA : BGA-132_12x18mm_Layout11x17_P1.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-132_12x18mm_Layout11x17_P1.0mm/
 - Description: Package_BGA : BGA-132_12x18mm_Layout11x17_P1.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-132_12x18mm_Layout11x17_P1.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-132_12x18mm_Layout11x17_P1.0mm)
 - Short Link: [http://oom.lt/FZKBGABGA13212X18LAYOUT11X17P1](http://oom.lt/FZKBGABGA13212X18LAYOUT11X17P1)

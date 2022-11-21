@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-mt-L04P
 - Hex ID: FZECONAMPMTL4P
 - Name: con-amp-mt : L04P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-mt/L04P/
 - Description: con-amp-mt : L04P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-L04P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-L04P)
 - Short Link: [http://oom.lt/FZECONAMPMTL4P](http://oom.lt/FZECONAMPMTL4P)

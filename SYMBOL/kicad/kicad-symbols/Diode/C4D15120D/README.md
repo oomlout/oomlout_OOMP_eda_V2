@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C4D15120D
 - Hex ID: SZKDIODEC4D1512D
 - Name: Diode : C4D15120D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C4D15120D/
 - Description: Diode : C4D15120D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D15120D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D15120D)
 - Short Link: [http://oom.lt/SZKDIODEC4D1512D](http://oom.lt/SZKDIODEC4D1512D)

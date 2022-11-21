@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_TRIAC_GA1A2
 - Hex ID: SZKDEVICEQTRIACGA1A2
 - Name: Device : Q_TRIAC_GA1A2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_TRIAC_GA1A2/
 - Description: Device : Q_TRIAC_GA1A2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_TRIAC_GA1A2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_TRIAC_GA1A2)
 - Short Link: [http://oom.lt/SZKDEVICEQTRIACGA1A2](http://oom.lt/SZKDEVICEQTRIACGA1A2)

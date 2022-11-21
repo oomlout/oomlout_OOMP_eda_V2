@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1114JBD48-323
 - Hex ID: SZKMCUNXPLPCLPC1114JBD48323
 - Name: MCU_NXP_LPC : LPC1114JBD48-323
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1114JBD48-323/
 - Description: MCU_NXP_LPC : LPC1114JBD48-323
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1114JBD48-323](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1114JBD48-323)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC1114JBD48323](http://oom.lt/SZKMCUNXPLPCLPC1114JBD48323)

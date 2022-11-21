@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-plxtech-FBGA64
 - Hex ID: FZEPLXTECHFBGA64
 - Name: plxtech : FBGA64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/plxtech/FBGA64/
 - Description: plxtech : FBGA64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-plxtech-FBGA64](http://oom.lt/FOOTPRINT-eagle-eagle-default-plxtech-FBGA64)
 - Short Link: [http://oom.lt/FZEPLXTECHFBGA64](http://oom.lt/FZEPLXTECHFBGA64)

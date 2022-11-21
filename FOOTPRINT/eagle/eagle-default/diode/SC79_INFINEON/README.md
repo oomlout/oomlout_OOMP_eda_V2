@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SC79_INFINEON
 - Hex ID: FZEDIODESC79INFINEON
 - Name: diode : SC79_INFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SC79_INFINEON/
 - Description: diode : SC79_INFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SC79_INFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SC79_INFINEON)
 - Short Link: [http://oom.lt/FZEDIODESC79INFINEON](http://oom.lt/FZEDIODESC79INFINEON)

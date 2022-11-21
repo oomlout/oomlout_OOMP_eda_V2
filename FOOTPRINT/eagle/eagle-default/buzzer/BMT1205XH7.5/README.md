@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-BMT1205XH7.5
 - Hex ID: FZEBUZZERBMT125XH75
 - Name: buzzer : BMT1205XH7.5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/BMT1205XH7.5/
 - Description: buzzer : BMT1205XH7.5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-BMT1205XH7.5](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-BMT1205XH7.5)
 - Short Link: [http://oom.lt/FZEBUZZERBMT125XH75](http://oom.lt/FZEBUZZERBMT125XH75)

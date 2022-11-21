@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS126 > digikey-footprints : 1206](#fzkicaddigikeykicadlibrarydigikeyfootprints126--digikey-footprints--1206)
+* [FZDIGIDIGIKEYFOOTPRINTS126 > digikey-footprints : 1206](#fzdigidigikeyfootprints126--digikey-footprints--1206)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS126 > digikey-footprints : 1206
+# FZDIGIDIGIKEYFOOTPRINTS126 > digikey-footprints : 1206
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-1206
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS126
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTS126
 - Name: digikey-footprints : 1206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/1206/
 - Description: digikey-footprints : 1206
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-1206](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-1206)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS126](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS126)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS126](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS126)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|1206|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-1206|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS126|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTS126|
 |name|name|digikey-footprints : 1206|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> '1206'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

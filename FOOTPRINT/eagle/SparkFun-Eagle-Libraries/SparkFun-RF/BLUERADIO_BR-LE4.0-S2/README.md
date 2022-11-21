@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-BLUERADIO_BR-LE4.0-S2
 - Hex ID: FZSRFBLUERADIOBRLE4S2
 - Name: SparkFun-RF : BLUERADIO_BR-LE4.0-S2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/BLUERADIO_BR-LE4.0-S2/
 - Description: SparkFun-RF : BLUERADIO_BR-LE4.0-S2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-BLUERADIO_BR-LE4.0-S2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-BLUERADIO_BR-LE4.0-S2)
 - Short Link: [http://oom.lt/FZSRFBLUERADIOBRLE4S2](http://oom.lt/FZSRFBLUERADIOBRLE4S2)

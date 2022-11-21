@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8422ARMZ
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD8422ARMZ
 - Name: Amplifier_Instrumentation : AD8422ARMZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD8422ARMZ/
 - Description: Amplifier_Instrumentation : AD8422ARMZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8422ARMZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8422ARMZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8422ARMZ](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8422ARMZ)

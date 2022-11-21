@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-R-5
 - Hex ID: FZEVR5
 - Name: varistor : R-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/R-5/
 - Description: varistor : R-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-R-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-R-5)
 - Short Link: [http://oom.lt/FZEVR5](http://oom.lt/FZEVR5)

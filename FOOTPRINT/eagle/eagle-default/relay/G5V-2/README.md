@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-G5V-2
 - Hex ID: FZERELAYG5V2
 - Name: relay : G5V-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/G5V-2/
 - Description: relay : G5V-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G5V-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G5V-2)
 - Short Link: [http://oom.lt/FZERELAYG5V2](http://oom.lt/FZERELAYG5V2)

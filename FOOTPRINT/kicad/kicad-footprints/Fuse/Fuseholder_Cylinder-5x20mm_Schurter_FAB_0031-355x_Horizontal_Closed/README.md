@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKFUFUHOLDERCYLINDER5X2SCHURTERFAB31355XHORIZONTALCLOSED > Fuse : Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed](#fzkfufuholdercylinder5x2schurterfab31355xhorizontalclosed--fuse--fuseholder_cylinder-5x20mm_schurter_fab_0031-355x_horizontal_closed)
+* [FZKFUFUHCYLINDER5X2SCHURTERFAB31355XHCLOSED > Fuse : Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed](#fzkfufuhcylinder5x2schurterfab31355xhclosed--fuse--fuseholder_cylinder-5x20mm_schurter_fab_0031-355x_horizontal_closed)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKFUFUHOLDERCYLINDER5X2SCHURTERFAB31355XHORIZONTALCLOSED > Fuse : Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed
+# FZKFUFUHCYLINDER5X2SCHURTERFAB31355XHCLOSED > Fuse : Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed
-- Hex ID: FZKFUFUHOLDERCYLINDER5X2SCHURTERFAB31355XHORIZONTALCLOSED
+- Hex ID: FZKFUFUHCYLINDER5X2SCHURTERFAB31355XHCLOSED
 - Name: Fuse : Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed/
 - Description: Fuse : Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed)
-- Short Link: [http://oom.lt/FZKFUFUHOLDERCYLINDER5X2SCHURTERFAB31355XHORIZONTALCLOSED](http://oom.lt/FZKFUFUHOLDERCYLINDER5X2SCHURTERFAB31355XHORIZONTALCLOSED)
+- Short Link: [http://oom.lt/FZKFUFUHCYLINDER5X2SCHURTERFAB31355XHCLOSED](http://oom.lt/FZKFUFUHCYLINDER5X2SCHURTERFAB31355XHCLOSED)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Fuse|
 |OOMP Index|oompIndex|Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed|
-|Hex ID (short code)|hexID|FZKFUFUHOLDERCYLINDER5X2SCHURTERFAB31355XHORIZONTALCLOSED|
+|Hex ID (short code)|hexID|FZKFUFUHCYLINDER5X2SCHURTERFAB31355XHCLOSED|
 |name|name|Fuse : Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed'</td><td> 'description'</td></tr><tr><td> 'Fuseholder 5x20mm horizontal Shurter model FAB</td><td> Suitable for order numbers 0031.3551 and 0031.3558  (https</td></tr><tr><td>//www.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_FAB.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Fuseholder 5x20mm closed horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

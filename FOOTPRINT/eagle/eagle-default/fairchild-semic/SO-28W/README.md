@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fairchild-semic-SO-28W
 - Hex ID: FZEFAIRCHILDSEMICSO28W
 - Name: fairchild-semic : SO-28W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fairchild-semic/SO-28W/
 - Description: fairchild-semic : SO-28W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fairchild-semic-SO-28W](http://oom.lt/FOOTPRINT-eagle-eagle-default-fairchild-semic-SO-28W)
 - Short Link: [http://oom.lt/FZEFAIRCHILDSEMICSO28W](http://oom.lt/FZEFAIRCHILDSEMICSO28W)

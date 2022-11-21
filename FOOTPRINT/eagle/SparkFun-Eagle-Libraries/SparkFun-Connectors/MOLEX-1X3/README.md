@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MOLEX-1X3
 - Hex ID: FZSSPARKFUNCNSMX1X3
 - Name: SparkFun-Connectors : MOLEX-1X3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/MOLEX-1X3/
 - Description: SparkFun-Connectors : MOLEX-1X3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MOLEX-1X3](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MOLEX-1X3)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSMX1X3](http://oom.lt/FZSSPARKFUNCNSMX1X3)

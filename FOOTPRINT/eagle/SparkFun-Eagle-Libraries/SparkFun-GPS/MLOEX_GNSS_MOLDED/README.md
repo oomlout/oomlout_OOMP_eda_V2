@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-MLOEX_GNSS_MOLDED
 - Hex ID: FZSGMLOEXGNSSMOLDED
 - Name: SparkFun-GPS : MLOEX_GNSS_MOLDED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/MLOEX_GNSS_MOLDED/
 - Description: SparkFun-GPS : MLOEX_GNSS_MOLDED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-MLOEX_GNSS_MOLDED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-MLOEX_GNSS_MOLDED)
 - Short Link: [http://oom.lt/FZSGMLOEXGNSSMOLDED](http://oom.lt/FZSGMLOEXGNSSMOLDED)

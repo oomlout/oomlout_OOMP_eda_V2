@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_4MM
 - Hex ID: FZSAQWIIC4
 - Name: SparkFun-Aesthetics : QWIIC_4MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/QWIIC_4MM/
 - Description: SparkFun-Aesthetics : QWIIC_4MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_4MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_4MM)
 - Short Link: [http://oom.lt/FZSAQWIIC4](http://oom.lt/FZSAQWIIC4)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-pulse-J1
 - Hex ID: FZECONPULSEJ1
 - Name: con-pulse : J1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pulse/J1/
 - Description: con-pulse : J1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pulse-J1](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pulse-J1)
 - Short Link: [http://oom.lt/FZECONPULSEJ1](http://oom.lt/FZECONPULSEJ1)

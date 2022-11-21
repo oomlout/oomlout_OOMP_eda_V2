@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-NUBBIN_LOCKER_PB
 - Hex ID: FZSHNUBBINLERPB
 - Name: SparkFun-Hardware : NUBBIN_LOCKER_PB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/NUBBIN_LOCKER_PB/
 - Description: SparkFun-Hardware : NUBBIN_LOCKER_PB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-NUBBIN_LOCKER_PB](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-NUBBIN_LOCKER_PB)
 - Short Link: [http://oom.lt/FZSHNUBBINLERPB](http://oom.lt/FZSHNUBBINLERPB)

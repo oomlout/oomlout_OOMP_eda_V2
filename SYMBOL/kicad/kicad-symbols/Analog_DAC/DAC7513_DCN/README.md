@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC7513_DCN
 - Hex ID: SZKANALOGDACDAC7513DCN
 - Name: Analog_DAC : DAC7513_DCN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC7513_DCN/
 - Description: Analog_DAC : DAC7513_DCN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC7513_DCN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC7513_DCN)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC7513DCN](http://oom.lt/SZKANALOGDACDAC7513DCN)

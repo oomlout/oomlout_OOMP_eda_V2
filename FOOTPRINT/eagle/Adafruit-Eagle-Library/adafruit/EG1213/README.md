@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EG1213
 - Hex ID: FZAEG1213
 - Name: adafruit : EG1213
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/EG1213/
 - Description: adafruit : EG1213
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EG1213](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EG1213)
 - Short Link: [http://oom.lt/FZAEG1213](http://oom.lt/FZAEG1213)

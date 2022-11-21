@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC102
 - Hex ID: SZKDIODEBRIDGEVSKBPC12
 - Name: Diode_Bridge : VS-KBPC102
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/VS-KBPC102/
 - Description: Diode_Bridge : VS-KBPC102
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC102](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC102)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEVSKBPC12](http://oom.lt/SZKDIODEBRIDGEVSKBPC12)

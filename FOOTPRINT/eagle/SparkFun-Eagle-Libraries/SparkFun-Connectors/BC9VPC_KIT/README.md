@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BC9VPC_KIT
 - Hex ID: FZSSPARKFUNCNSBC9VPCK
 - Name: SparkFun-Connectors : BC9VPC_KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/BC9VPC_KIT/
 - Description: SparkFun-Connectors : BC9VPC_KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BC9VPC_KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BC9VPC_KIT)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSBC9VPCK](http://oom.lt/FZSSPARKFUNCNSBC9VPCK)

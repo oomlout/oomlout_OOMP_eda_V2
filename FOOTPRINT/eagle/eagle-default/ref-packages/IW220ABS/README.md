@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESIW22ABS > ref-packages : IW220ABS](#fzerefpackagesiw22abs--ref-packages--iw220abs)
+* [FZEREFPSIW22ABS > ref-packages : IW220ABS](#fzerefpsiw22abs--ref-packages--iw220abs)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESIW22ABS > ref-packages : IW220ABS
+# FZEREFPSIW22ABS > ref-packages : IW220ABS
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-IW220ABS
-- Hex ID: FZEREFPACKAGESIW22ABS
+- Hex ID: FZEREFPSIW22ABS
 - Name: ref-packages : IW220ABS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/IW220ABS/
 - Description: ref-packages : IW220ABS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-IW220ABS](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-IW220ABS)
-- Short Link: [http://oom.lt/FZEREFPACKAGESIW22ABS](http://oom.lt/FZEREFPACKAGESIW22ABS)
+- Short Link: [http://oom.lt/FZEREFPSIW22ABS](http://oom.lt/FZEREFPSIW22ABS)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|IW220ABS|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-IW220ABS|
-|Hex ID (short code)|hexID|FZEREFPACKAGESIW22ABS|
+|Hex ID (short code)|hexID|FZEREFPSIW22ABS|
 |name|name|ref-packages : IW220ABS|
 ||||

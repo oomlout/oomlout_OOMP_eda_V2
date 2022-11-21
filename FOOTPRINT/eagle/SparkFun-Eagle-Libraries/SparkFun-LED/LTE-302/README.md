@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LTE-302
 - Hex ID: FZSLLTE32
 - Name: SparkFun-LED : LTE-302
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/LTE-302/
 - Description: SparkFun-LED : LTE-302
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LTE-302](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LTE-302)
 - Short Link: [http://oom.lt/FZSLLTE32](http://oom.lt/FZSLLTE32)

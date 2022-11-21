@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-ADUM4160
 - Hex ID: SZKINTERFACEUADUM416
 - Name: Interface_USB : ADUM4160
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/ADUM4160/
 - Description: Interface_USB : ADUM4160
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-ADUM4160](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-ADUM4160)
 - Short Link: [http://oom.lt/SZKINTERFACEUADUM416](http://oom.lt/SZKINTERFACEUADUM416)

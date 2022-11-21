@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4163
 - Hex ID: SZK4XXXIEEE4163
 - Name: 4xxx_IEEE : 4163
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4163/
 - Description: 4xxx_IEEE : 4163
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4163](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4163)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4163](http://oom.lt/SZK4XXXIEEE4163)

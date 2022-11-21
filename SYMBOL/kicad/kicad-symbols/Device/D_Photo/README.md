@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Photo
 - Hex ID: SZKDEVICEDPHOTO
 - Name: Device : D_Photo
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Photo/
 - Description: Device : D_Photo
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Photo](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Photo)
 - Short Link: [http://oom.lt/SZKDEVICEDPHOTO](http://oom.lt/SZKDEVICEDPHOTO)

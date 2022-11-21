@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1585-3.45
 - Hex ID: SZKREGULATORLINEARLT1585345
 - Name: Regulator_Linear : LT1585-3.45
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1585-3.45/
 - Description: Regulator_Linear : LT1585-3.45
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1585-3.45](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1585-3.45)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1585345](http://oom.lt/SZKREGULATORLINEARLT1585345)

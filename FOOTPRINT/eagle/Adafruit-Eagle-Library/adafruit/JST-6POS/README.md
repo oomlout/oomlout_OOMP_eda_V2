@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JST-6POS
 - Hex ID: FZAJST6POS
 - Name: adafruit : JST-6POS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/JST-6POS/
 - Description: adafruit : JST-6POS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JST-6POS](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JST-6POS)
 - Short Link: [http://oom.lt/FZAJST6POS](http://oom.lt/FZAJST6POS)

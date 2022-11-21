@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBATBATHOLDERKEYSTONE381X245 > Battery : BatteryHolder_Keystone_3008_1x2450](#fzkbatbatholderkeystone381x245--battery--batteryholder_keystone_3008_1x2450)
+* [FZKBATBATHKEYSTONE381X245 > Battery : BatteryHolder_Keystone_3008_1x2450](#fzkbatbathkeystone381x245--battery--batteryholder_keystone_3008_1x2450)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBATBATHOLDERKEYSTONE381X245 > Battery : BatteryHolder_Keystone_3008_1x2450
+# FZKBATBATHKEYSTONE381X245 > Battery : BatteryHolder_Keystone_3008_1x2450
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_3008_1x2450
-- Hex ID: FZKBATBATHOLDERKEYSTONE381X245
+- Hex ID: FZKBATBATHKEYSTONE381X245
 - Name: Battery : BatteryHolder_Keystone_3008_1x2450
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_3008_1x2450/
 - Description: Battery : BatteryHolder_Keystone_3008_1x2450
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_3008_1x2450](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_3008_1x2450)
-- Short Link: [http://oom.lt/FZKBATBATHOLDERKEYSTONE381X245](http://oom.lt/FZKBATBATHOLDERKEYSTONE381X245)
+- Short Link: [http://oom.lt/FZKBATBATHKEYSTONE381X245](http://oom.lt/FZKBATBATHKEYSTONE381X245)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Battery|
 |OOMP Index|oompIndex|BatteryHolder_Keystone_3008_1x2450|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_3008_1x2450|
-|Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE381X245|
+|Hex ID (short code)|hexID|FZKBATBATHKEYSTONE381X245|
 |name|name|Battery : BatteryHolder_Keystone_3008_1x2450|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_Keystone_3008_1x2450'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.keyelco.com/product-pdf.cfm?p=786'</td><td> 'tags'</td></tr><tr><td> 'Keystone type 3008 coin cell retainer'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_Keystone_3008_1x2450.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

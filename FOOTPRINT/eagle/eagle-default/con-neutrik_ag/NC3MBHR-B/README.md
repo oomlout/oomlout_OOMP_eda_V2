@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZECONNEUTRIKAGNC3MBHRB > con-neutrik_ag : NC3MBHR-B](#fzeconneutrikagnc3mbhrb--con-neutrik_ag--nc3mbhr-b)
+* [FZECEUTRIKAGNC3MBHRB > con-neutrik_ag : NC3MBHR-B](#fzeceutrikagnc3mbhrb--con-neutrik_ag--nc3mbhr-b)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZECONNEUTRIKAGNC3MBHRB > con-neutrik_ag : NC3MBHR-B
+# FZECEUTRIKAGNC3MBHRB > con-neutrik_ag : NC3MBHR-B
 
 - ID: FOOTPRINT-eagle-eagle-default-con-neutrik_ag-NC3MBHR-B
-- Hex ID: FZECONNEUTRIKAGNC3MBHRB
+- Hex ID: FZECEUTRIKAGNC3MBHRB
 - Name: con-neutrik_ag : NC3MBHR-B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-neutrik_ag/NC3MBHR-B/
 - Description: con-neutrik_ag : NC3MBHR-B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-neutrik_ag-NC3MBHR-B](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-neutrik_ag-NC3MBHR-B)
-- Short Link: [http://oom.lt/FZECONNEUTRIKAGNC3MBHRB](http://oom.lt/FZECONNEUTRIKAGNC3MBHRB)
+- Short Link: [http://oom.lt/FZECEUTRIKAGNC3MBHRB](http://oom.lt/FZECEUTRIKAGNC3MBHRB)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|con-neutrik_ag|
 |OOMP Index|oompIndex|NC3MBHR-B|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-con-neutrik_ag-NC3MBHR-B|
-|Hex ID (short code)|hexID|FZECONNEUTRIKAGNC3MBHRB|
+|Hex ID (short code)|hexID|FZECEUTRIKAGNC3MBHRB|
 |name|name|con-neutrik_ag : NC3MBHR-B|
 ||||
 

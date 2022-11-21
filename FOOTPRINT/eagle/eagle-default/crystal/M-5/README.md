@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-M-5
 - Hex ID: FZEXM5
 - Name: crystal : M-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/M-5/
 - Description: crystal : M-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-M-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-M-5)
 - Short Link: [http://oom.lt/FZEXM5](http://oom.lt/FZEXM5)

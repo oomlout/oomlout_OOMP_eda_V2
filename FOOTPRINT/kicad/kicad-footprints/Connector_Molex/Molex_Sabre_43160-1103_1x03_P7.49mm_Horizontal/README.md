@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNMXMXSABRE43161131X3P749HORIZONTAL > Connector_Molex : Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal](#fzkcnmxmxsabre43161131x3p749horizontal--connector_molex--molex_sabre_43160-1103_1x03_p749mm_horizontal)
+* [FZKCNMXMXSABRE43161131X3P749H > Connector_Molex : Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal](#fzkcnmxmxsabre43161131x3p749h--connector_molex--molex_sabre_43160-1103_1x03_p749mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXSABRE43161131X3P749HORIZONTAL > Connector_Molex : Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal
+# FZKCNMXMXSABRE43161131X3P749H > Connector_Molex : Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal
-- Hex ID: FZKCNMXMXSABRE43161131X3P749HORIZONTAL
+- Hex ID: FZKCNMXMXSABRE43161131X3P749H
 - Name: Connector_Molex : Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal/
 - Description: Connector_Molex : Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNMXMXSABRE43161131X3P749HORIZONTAL](http://oom.lt/FZKCNMXMXSABRE43161131X3P749HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNMXMXSABRE43161131X3P749H](http://oom.lt/FZKCNMXMXSABRE43161131X3P749H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNMXMXSABRE43161131X3P749HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNMXMXSABRE43161131X3P749H|
 |name|name|Connector_Molex : Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex Sabre Power Connector</td><td> 43160-1103</td><td> 3 Pins per row (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/431605304_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex Sabre top entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_Sabre_43160-1103_1x03_P7.49mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

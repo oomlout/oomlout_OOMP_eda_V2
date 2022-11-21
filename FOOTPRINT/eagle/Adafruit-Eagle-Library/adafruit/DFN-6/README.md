@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DFN-6
 - Hex ID: FZADFN6
 - Name: adafruit : DFN-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/DFN-6/
 - Description: adafruit : DFN-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DFN-6](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DFN-6)
 - Short Link: [http://oom.lt/FZADFN6](http://oom.lt/FZADFN6)

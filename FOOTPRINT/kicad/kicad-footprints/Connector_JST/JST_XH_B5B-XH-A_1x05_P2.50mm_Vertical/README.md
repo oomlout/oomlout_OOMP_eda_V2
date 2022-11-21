@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNJSTJSTXHB5BXHA1X5P25VERTICAL > Connector_JST : JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical](#fzkcnjstjstxhb5bxha1x5p25vertical--connector_jst--jst_xh_b5b-xh-a_1x05_p250mm_vertical)
+* [FZKCNJSTJSTXHB5BXHA1X5P25F > Connector_JST : JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical](#fzkcnjstjstxhb5bxha1x5p25f--connector_jst--jst_xh_b5b-xh-a_1x05_p250mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTXHB5BXHA1X5P25VERTICAL > Connector_JST : JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical
+# FZKCNJSTJSTXHB5BXHA1X5P25F > Connector_JST : JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical
-- Hex ID: FZKCNJSTJSTXHB5BXHA1X5P25VERTICAL
+- Hex ID: FZKCNJSTJSTXHB5BXHA1X5P25F
 - Name: Connector_JST : JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical/
 - Description: Connector_JST : JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJSTJSTXHB5BXHA1X5P25VERTICAL](http://oom.lt/FZKCNJSTJSTXHB5BXHA1X5P25VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTXHB5BXHA1X5P25F](http://oom.lt/FZKCNJSTJSTXHB5BXHA1X5P25F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJSTJSTXHB5BXHA1X5P25VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTXHB5BXHA1X5P25F|
 |name|name|Connector_JST : JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST XH series connector</td><td> B5B-XH-A (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eXH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST XH vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

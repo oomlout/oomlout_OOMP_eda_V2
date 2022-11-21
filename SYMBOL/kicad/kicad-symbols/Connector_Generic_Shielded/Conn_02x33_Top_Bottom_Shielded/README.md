@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNGENERICSHEDCONN2X33TOPBOTTOMSHED > Connector_Generic_Shielded : Conn_02x33_Top_Bottom_Shielded](#szkcngenericshedconn2x33topbottomshed--connector_generic_shielded--conn_02x33_top_bottom_shielded)
+* [SZKCNGSHEDC2X33TOPBSHED > Connector_Generic_Shielded : Conn_02x33_Top_Bottom_Shielded](#szkcngshedc2x33topbshed--connector_generic_shielded--conn_02x33_top_bottom_shielded)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNGENERICSHEDCONN2X33TOPBOTTOMSHED > Connector_Generic_Shielded : Conn_02x33_Top_Bottom_Shielded
+# SZKCNGSHEDC2X33TOPBSHED > Connector_Generic_Shielded : Conn_02x33_Top_Bottom_Shielded
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_02x33_Top_Bottom_Shielded
-- Hex ID: SZKCNGENERICSHEDCONN2X33TOPBOTTOMSHED
+- Hex ID: SZKCNGSHEDC2X33TOPBSHED
 - Name: Connector_Generic_Shielded : Conn_02x33_Top_Bottom_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_02x33_Top_Bottom_Shielded/
 - Description: Connector_Generic_Shielded : Conn_02x33_Top_Bottom_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_02x33_Top_Bottom_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_02x33_Top_Bottom_Shielded)
-- Short Link: [http://oom.lt/SZKCNGENERICSHEDCONN2X33TOPBOTTOMSHED](http://oom.lt/SZKCNGENERICSHEDCONN2X33TOPBOTTOMSHED)
+- Short Link: [http://oom.lt/SZKCNGSHEDC2X33TOPBSHED](http://oom.lt/SZKCNGSHEDC2X33TOPBSHED)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Generic_Shielded|
 |OOMP Index|oompIndex|Conn_02x33_Top_Bottom_Shielded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_02x33_Top_Bottom_Shielded|
-|Hex ID (short code)|hexID|SZKCNGENERICSHEDCONN2X33TOPBOTTOMSHED|
+|Hex ID (short code)|hexID|SZKCNGSHEDC2X33TOPBSHED|
 |name|name|Connector_Generic_Shielded : Conn_02x33_Top_Bottom_Shielded|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_02x33_Top_Bottom_Shielded'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic shielded connector</td><td> double row</td><td> 02x33</td><td> top/bottom pin numbering scheme (row 1</td></tr><tr><td> 1...pins_per_row</td><td> row2</td></tr><tr><td> pins_per_row+1 ... num_pins)</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_2x??-1SH*'</td></tr></table>]|
 ||||

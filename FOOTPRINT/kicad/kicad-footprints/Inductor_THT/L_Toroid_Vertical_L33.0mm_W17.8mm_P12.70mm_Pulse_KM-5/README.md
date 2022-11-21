@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINLTOROIDVERTICALL33W178P127PULSEKM5 > Inductor_THT : L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5](#fzkinltoroidverticall33w178p127pulsekm5--inductor_tht--l_toroid_vertical_l330mm_w178mm_p1270mm_pulse_km-5)
+* [FZKINLTFL33W178P127PULSEKM5 > Inductor_THT : L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5](#fzkinltfl33w178p127pulsekm5--inductor_tht--l_toroid_vertical_l330mm_w178mm_p1270mm_pulse_km-5)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINLTOROIDVERTICALL33W178P127PULSEKM5 > Inductor_THT : L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5
+# FZKINLTFL33W178P127PULSEKM5 > Inductor_THT : L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5
-- Hex ID: FZKINLTOROIDVERTICALL33W178P127PULSEKM5
+- Hex ID: FZKINLTFL33W178P127PULSEKM5
 - Name: Inductor_THT : L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5/
 - Description: Inductor_THT : L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5)
-- Short Link: [http://oom.lt/FZKINLTOROIDVERTICALL33W178P127PULSEKM5](http://oom.lt/FZKINLTOROIDVERTICALL33W178P127PULSEKM5)
+- Short Link: [http://oom.lt/FZKINLTFL33W178P127PULSEKM5](http://oom.lt/FZKINLTFL33W178P127PULSEKM5)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_THT|
 |OOMP Index|oompIndex|L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5|
-|Hex ID (short code)|hexID|FZKINLTOROIDVERTICALL33W178P127PULSEKM5|
+|Hex ID (short code)|hexID|FZKINLTFL33W178P127PULSEKM5|
 |name|name|Inductor_THT : L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5'</td><td> 'description'</td></tr><tr><td> 'L_Toroid</td><td> Vertical series</td><td> Radial</td><td> pin pitch=12.70mm</td><td> </td><td> length*width=33.02*17.78mm^2</td><td> Pulse</td><td> KM-5</td><td> http</td></tr><tr><td>//datasheet.octopart.com/PE-92112KNL-Pulse-datasheet-17853305.pdf'</td><td> 'tags'</td></tr><tr><td> 'L_Toroid Vertical series Radial pin pitch 12.70mm  length 33.02mm width 17.78mm Pulse KM-5'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

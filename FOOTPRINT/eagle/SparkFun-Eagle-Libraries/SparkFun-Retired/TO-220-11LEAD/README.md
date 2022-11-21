@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TO-220-11LEAD
 - Hex ID: FZSRTTO2211LEAD
 - Name: SparkFun-Retired : TO-220-11LEAD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TO-220-11LEAD/
 - Description: SparkFun-Retired : TO-220-11LEAD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TO-220-11LEAD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TO-220-11LEAD)
 - Short Link: [http://oom.lt/FZSRTTO2211LEAD](http://oom.lt/FZSRTTO2211LEAD)

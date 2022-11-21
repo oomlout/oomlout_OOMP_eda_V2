@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP718xSN250
 - Hex ID: SZKREGULATORLINEARNCP718XSN25
 - Name: Regulator_Linear : NCP718xSN250
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP718xSN250/
 - Description: Regulator_Linear : NCP718xSN250
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP718xSN250](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP718xSN250)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP718XSN25](http://oom.lt/SZKREGULATORLINEARNCP718XSN25)

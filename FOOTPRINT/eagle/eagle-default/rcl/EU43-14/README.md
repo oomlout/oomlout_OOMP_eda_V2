@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-EU43-14
 - Hex ID: FZERCLEU4314
 - Name: rcl : EU43-14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/EU43-14/
 - Description: rcl : EU43-14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-EU43-14](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-EU43-14)
 - Short Link: [http://oom.lt/FZERCLEU4314](http://oom.lt/FZERCLEU4314)

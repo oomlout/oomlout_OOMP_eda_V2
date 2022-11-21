@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-3V11R
 - Hex ID: FZEBAT3V11R
 - Name: battery : 3V11R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/3V11R/
 - Description: battery : 3V11R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-3V11R](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-3V11R)
 - Short Link: [http://oom.lt/FZEBAT3V11R](http://oom.lt/FZEBAT3V11R)

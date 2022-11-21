@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-pnp-TO66
 - Hex ID: FZETRANSISTORPNPTO66
 - Name: transistor-pnp : TO66
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-pnp/TO66/
 - Description: transistor-pnp : TO66
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO66](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO66)
 - Short Link: [http://oom.lt/FZETRANSISTORPNPTO66](http://oom.lt/FZETRANSISTORPNPTO66)

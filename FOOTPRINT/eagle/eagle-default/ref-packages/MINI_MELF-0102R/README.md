@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGES12R > ref-packages : MINI_MELF-0102R](#fzerefpackages12r--ref-packages--mini_melf-0102r)
+* [FZEREFPS12R > ref-packages : MINI_MELF-0102R](#fzerefps12r--ref-packages--mini_melf-0102r)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGES12R > ref-packages : MINI_MELF-0102R
+# FZEREFPS12R > ref-packages : MINI_MELF-0102R
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-MINI_MELF-0102R
-- Hex ID: FZEREFPACKAGES12R
+- Hex ID: FZEREFPS12R
 - Name: ref-packages : MINI_MELF-0102R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/MINI_MELF-0102R/
 - Description: ref-packages : MINI_MELF-0102R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MINI_MELF-0102R](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MINI_MELF-0102R)
-- Short Link: [http://oom.lt/FZEREFPACKAGES12R](http://oom.lt/FZEREFPACKAGES12R)
+- Short Link: [http://oom.lt/FZEREFPS12R](http://oom.lt/FZEREFPS12R)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|MINI_MELF-0102R|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-MINI_MELF-0102R|
-|Hex ID (short code)|hexID|FZEREFPACKAGES12R|
+|Hex ID (short code)|hexID|FZEREFPS12R|
 |name|name|ref-packages : MINI_MELF-0102R|
 ||||

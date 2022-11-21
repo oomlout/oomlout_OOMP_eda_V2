@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-20X20-152
 - Hex ID: FZESMIPCSQFPS2X2152
 - Name: smd-ipc : SQFP-S-20X20-152
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SQFP-S-20X20-152/
 - Description: smd-ipc : SQFP-S-20X20-152
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-20X20-152](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-20X20-152)
 - Short Link: [http://oom.lt/FZESMIPCSQFPS2X2152](http://oom.lt/FZESMIPCSQFPS2X2152)

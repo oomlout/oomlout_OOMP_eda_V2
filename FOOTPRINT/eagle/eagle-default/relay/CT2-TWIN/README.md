@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-CT2-TWIN
 - Hex ID: FZERELAYCT2TWIN
 - Name: relay : CT2-TWIN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/CT2-TWIN/
 - Description: relay : CT2-TWIN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CT2-TWIN](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CT2-TWIN)
 - Short Link: [http://oom.lt/FZERELAYCT2TWIN](http://oom.lt/FZERELAYCT2TWIN)

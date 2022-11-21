@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIMTSM53YJ
 - Hex ID: FZERCLRTRIMTSM53YJ
 - Name: rcl : RTRIMTSM53YJ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/RTRIMTSM53YJ/
 - Description: rcl : RTRIMTSM53YJ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIMTSM53YJ](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIMTSM53YJ)
 - Short Link: [http://oom.lt/FZERCLRTRIMTSM53YJ](http://oom.lt/FZERCLRTRIMTSM53YJ)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03-1MM-RA
 - Hex ID: FZSSPARKFUNCNS1X31RA
 - Name: SparkFun-Connectors : 1X03-1MM-RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X03-1MM-RA/
 - Description: SparkFun-Connectors : 1X03-1MM-RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03-1MM-RA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03-1MM-RA)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X31RA](http://oom.lt/FZSSPARKFUNCNS1X31RA)

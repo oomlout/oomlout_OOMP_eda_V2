@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OSRAM-SIDELED
 - Hex ID: FZAOSRAMSDL
 - Name: adafruit : OSRAM-SIDELED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/OSRAM-SIDELED/
 - Description: adafruit : OSRAM-SIDELED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OSRAM-SIDELED](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OSRAM-SIDELED)
 - Short Link: [http://oom.lt/FZAOSRAMSDL](http://oom.lt/FZAOSRAMSDL)

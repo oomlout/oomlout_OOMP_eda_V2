@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG10020ELR
 - Hex ID: SZKDIODEPMEG12ELR
 - Name: Diode : PMEG10020ELR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG10020ELR/
 - Description: Diode : PMEG10020ELR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG10020ELR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG10020ELR)
 - Short Link: [http://oom.lt/SZKDIODEPMEG12ELR](http://oom.lt/SZKDIODEPMEG12ELR)

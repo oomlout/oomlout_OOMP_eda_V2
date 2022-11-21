@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG2015EJ
 - Hex ID: SZKDIODEPMEG215EJ
 - Name: Diode : PMEG2015EJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG2015EJ/
 - Description: Diode : PMEG2015EJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG2015EJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG2015EJ)
 - Short Link: [http://oom.lt/SZKDIODEPMEG215EJ](http://oom.lt/SZKDIODEPMEG215EJ)

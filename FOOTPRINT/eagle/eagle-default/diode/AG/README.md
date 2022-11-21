@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-AG
 - Hex ID: FZEDIODEAG
 - Name: diode : AG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/AG/
 - Description: diode : AG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-AG](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-AG)
 - Short Link: [http://oom.lt/FZEDIODEAG](http://oom.lt/FZEDIODEAG)

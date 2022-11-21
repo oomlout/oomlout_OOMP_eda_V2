@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-ATX-20
 - Hex ID: SZKCNATX2
 - Name: Connector : ATX-20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/ATX-20/
 - Description: Connector : ATX-20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-ATX-20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-ATX-20)
 - Short Link: [http://oom.lt/SZKCNATX2](http://oom.lt/SZKCNATX2)

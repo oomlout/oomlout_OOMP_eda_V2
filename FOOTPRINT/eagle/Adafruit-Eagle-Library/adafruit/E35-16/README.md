@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E35-16
 - Hex ID: FZAE3516
 - Name: adafruit : E35-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E35-16/
 - Description: adafruit : E35-16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E35-16](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E35-16)
 - Short Link: [http://oom.lt/FZAE3516](http://oom.lt/FZAE3516)

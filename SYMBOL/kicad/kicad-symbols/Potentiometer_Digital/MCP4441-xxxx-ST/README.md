@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKPOTENTIOMETERDIGITALMCP4441XXXXST > Potentiometer_Digital : MCP4441-xxxx-ST](#szkpotentiometerdigitalmcp4441xxxxst--potentiometer_digital--mcp4441-xxxx-st)
+* [SZKPOTDIGITALMCP4441XXXXST > Potentiometer_Digital : MCP4441-xxxx-ST](#szkpotdigitalmcp4441xxxxst--potentiometer_digital--mcp4441-xxxx-st)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKPOTENTIOMETERDIGITALMCP4441XXXXST > Potentiometer_Digital : MCP4441-xxxx-ST
+# SZKPOTDIGITALMCP4441XXXXST > Potentiometer_Digital : MCP4441-xxxx-ST
 
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4441-xxxx-ST
-- Hex ID: SZKPOTENTIOMETERDIGITALMCP4441XXXXST
+- Hex ID: SZKPOTDIGITALMCP4441XXXXST
 - Name: Potentiometer_Digital : MCP4441-xxxx-ST
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4441-xxxx-ST/
 - Description: Potentiometer_Digital : MCP4441-xxxx-ST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4441-xxxx-ST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4441-xxxx-ST)
-- Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMCP4441XXXXST](http://oom.lt/SZKPOTENTIOMETERDIGITALMCP4441XXXXST)
+- Short Link: [http://oom.lt/SZKPOTDIGITALMCP4441XXXXST](http://oom.lt/SZKPOTDIGITALMCP4441XXXXST)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_Digital|
 |OOMP Index|oompIndex|MCP4441-xxxx-ST|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4441-xxxx-ST|
-|Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALMCP4441XXXXST|
+|Hex ID (short code)|hexID|SZKPOTDIGITALMCP4441XXXXST|
 |name|name|Potentiometer_Digital : MCP4441-xxxx-ST|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP4431-xxxx-ST'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP4441-xxxx-ST'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-20_4.4x6.5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/22267A_MCP4431.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Digital Pot Potentiometer DigiPot'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad 7 Bit Digital Potentiometer</td><td> IÂ²C</td><td> Nonvolatile Memory</td><td> TSSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||

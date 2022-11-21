@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC1151CN8
 - Hex ID: SZKAMPLIFIEROPERATIONALLTC1151CN8
 - Name: Amplifier_Operational : LTC1151CN8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC1151CN8/
 - Description: Amplifier_Operational : LTC1151CN8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC1151CN8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC1151CN8)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC1151CN8](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC1151CN8)

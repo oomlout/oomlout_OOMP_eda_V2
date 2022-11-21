@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-SOIC20S
 - Hex ID: FZEATMELSOIC2S
 - Name: atmel : SOIC20S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/SOIC20S/
 - Description: atmel : SOIC20S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SOIC20S](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SOIC20S)
 - Short Link: [http://oom.lt/FZEATMELSOIC2S](http://oom.lt/FZEATMELSOIC2S)

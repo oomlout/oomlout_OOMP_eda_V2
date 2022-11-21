@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-hammondmfg-C3H
 - Hex ID: FZETRAFOHAONDMFGC3H
 - Name: trafo-hammondmfg : C3H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo-hammondmfg/C3H/
 - Description: trafo-hammondmfg : C3H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-hammondmfg-C3H](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-hammondmfg-C3H)
 - Short Link: [http://oom.lt/FZETRAFOHAONDMFGC3H](http://oom.lt/FZETRAFOHAONDMFGC3H)

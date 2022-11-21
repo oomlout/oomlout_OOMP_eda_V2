@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-W3062A
 - Hex ID: FZSGW362A
 - Name: SparkFun-GPS : W3062A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/W3062A/
 - Description: SparkFun-GPS : W3062A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-W3062A](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-W3062A)
 - Short Link: [http://oom.lt/FZSGW362A](http://oom.lt/FZSGW362A)

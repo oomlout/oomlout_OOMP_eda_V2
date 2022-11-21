@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-ZETA-433-SO_THT
 - Hex ID: FZKRFMOZETA433SOTHT
 - Name: RF_Module : ZETA-433-SO_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/ZETA-433-SO_THT/
 - Description: RF_Module : ZETA-433-SO_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ZETA-433-SO_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ZETA-433-SO_THT)
 - Short Link: [http://oom.lt/FZKRFMOZETA433SOTHT](http://oom.lt/FZKRFMOZETA433SOTHT)

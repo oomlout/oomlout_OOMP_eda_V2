@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-H08C
 - Hex ID: FZENATIONALSEMICONDUCTORH8C
 - Name: national-semiconductor : H08C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/H08C/
 - Description: national-semiconductor : H08C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-H08C](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-H08C)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORH8C](http://oom.lt/FZENATIONALSEMICONDUCTORH8C)

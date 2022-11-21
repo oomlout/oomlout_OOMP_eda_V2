@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-M5
 - Hex ID: FZEMEMORYIDTM5
 - Name: memory-idt : M5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/M5/
 - Description: memory-idt : M5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-M5](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-M5)
 - Short Link: [http://oom.lt/FZEMEMORYIDTM5](http://oom.lt/FZEMEMORYIDTM5)

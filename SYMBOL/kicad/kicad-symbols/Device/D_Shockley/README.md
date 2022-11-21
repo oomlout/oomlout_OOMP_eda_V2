@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Shockley
 - Hex ID: SZKDEVICEDSHOCKLEY
 - Name: Device : D_Shockley
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Shockley/
 - Description: Device : D_Shockley
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Shockley](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Shockley)
 - Short Link: [http://oom.lt/SZKDEVICEDSHOCKLEY](http://oom.lt/SZKDEVICEDSHOCKLEY)

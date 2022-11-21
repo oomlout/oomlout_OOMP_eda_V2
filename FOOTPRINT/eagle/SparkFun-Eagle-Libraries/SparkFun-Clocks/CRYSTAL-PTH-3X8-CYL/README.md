@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-PTH-3X8-CYL
 - Hex ID: FZSCLXP3X8CYL
 - Name: SparkFun-Clocks : CRYSTAL-PTH-3X8-CYL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/CRYSTAL-PTH-3X8-CYL/
 - Description: SparkFun-Clocks : CRYSTAL-PTH-3X8-CYL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-PTH-3X8-CYL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-PTH-3X8-CYL)
 - Short Link: [http://oom.lt/FZSCLXP3X8CYL](http://oom.lt/FZSCLXP3X8CYL)

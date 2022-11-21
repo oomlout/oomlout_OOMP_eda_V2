@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm
 - Hex ID: FZKDFNWQFN421EP35X9P5EP25X755
 - Name: Package_DFN_QFN : WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm/
 - Description: Package_DFN_QFN : WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm)
 - Short Link: [http://oom.lt/FZKDFNWQFN421EP35X9P5EP25X755](http://oom.lt/FZKDFNWQFN421EP35X9P5EP25X755)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny25-20M
 - Hex ID: SZKMCUMCHIPATTINYATTINY252M
 - Name: MCU_Microchip_ATtiny : ATtiny25-20M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny25-20M/
 - Description: MCU_Microchip_ATtiny : ATtiny25-20M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny25-20M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny25-20M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY252M](http://oom.lt/SZKMCUMCHIPATTINYATTINY252M)

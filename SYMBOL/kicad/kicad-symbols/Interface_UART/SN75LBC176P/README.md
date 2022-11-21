@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-SN75LBC176P
 - Hex ID: SZKINTERFACEUARTSN75LBC176P
 - Name: Interface_UART : SN75LBC176P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/SN75LBC176P/
 - Description: Interface_UART : SN75LBC176P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SN75LBC176P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SN75LBC176P)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSN75LBC176P](http://oom.lt/SZKINTERFACEUARTSN75LBC176P)

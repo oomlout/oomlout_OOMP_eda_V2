@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-dil-DIL16
 - Hex ID: FZERESISTORDILDIL16
 - Name: resistor-dil : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-dil/DIL16/
 - Description: resistor-dil : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-DIL16)
 - Short Link: [http://oom.lt/FZERESISTORDILDIL16](http://oom.lt/FZERESISTORDILDIL16)

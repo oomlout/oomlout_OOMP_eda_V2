@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F415OGYx
 - Hex ID: SZKMCUSTSTM32F4STM32F415OGYX
 - Name: MCU_ST_STM32F4 : STM32F415OGYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F415OGYx/
 - Description: MCU_ST_STM32F4 : STM32F415OGYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F415OGYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F415OGYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F415OGYX](http://oom.lt/SZKMCUSTSTM32F4STM32F415OGYX)

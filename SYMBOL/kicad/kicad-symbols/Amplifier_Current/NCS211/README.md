@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-NCS211
 - Hex ID: SZKAMPLIFIERCURRENTNCS211
 - Name: Amplifier_Current : NCS211
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/NCS211/
 - Description: Amplifier_Current : NCS211
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-NCS211](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-NCS211)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTNCS211](http://oom.lt/SZKAMPLIFIERCURRENTNCS211)

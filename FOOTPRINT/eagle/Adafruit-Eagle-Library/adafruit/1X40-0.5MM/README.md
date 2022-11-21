@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X40-0.5MM
 - Hex ID: FZA1X45
 - Name: adafruit : 1X40-0.5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X40-0.5MM/
 - Description: adafruit : 1X40-0.5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X40-0.5MM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X40-0.5MM)
 - Short Link: [http://oom.lt/FZA1X45](http://oom.lt/FZA1X45)

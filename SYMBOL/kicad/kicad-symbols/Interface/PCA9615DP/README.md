@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Interface-PCA9615DP
 - Hex ID: SZKINTERFACEPCA9615DP
 - Name: Interface : PCA9615DP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/PCA9615DP/
 - Description: Interface : PCA9615DP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCA9615DP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCA9615DP)
 - Short Link: [http://oom.lt/SZKINTERFACEPCA9615DP](http://oom.lt/SZKINTERFACEPCA9615DP)

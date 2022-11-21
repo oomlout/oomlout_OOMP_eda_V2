@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Pressure-Freescale_98ARH99089A
 - Hex ID: FZKSENPRESSUREFREESCALE98ARH9989A
 - Name: Sensor_Pressure : Freescale_98ARH99089A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/Freescale_98ARH99089A/
 - Description: Sensor_Pressure : Freescale_98ARH99089A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Pressure-Freescale_98ARH99089A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Pressure-Freescale_98ARH99089A)
 - Short Link: [http://oom.lt/FZKSENPRESSUREFREESCALE98ARH9989A](http://oom.lt/FZKSENPRESSUREFREESCALE98ARH9989A)

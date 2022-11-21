@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas-TM4C1230D5PM
 - Hex ID: SZKMCUTEXASTM4C123D5PM
 - Name: MCU_Texas : TM4C1230D5PM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas/TM4C1230D5PM/
 - Description: MCU_Texas : TM4C1230D5PM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-TM4C1230D5PM](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-TM4C1230D5PM)
 - Short Link: [http://oom.lt/SZKMCUTEXASTM4C123D5PM](http://oom.lt/SZKMCUTEXASTM4C123D5PM)

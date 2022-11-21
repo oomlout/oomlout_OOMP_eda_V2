@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO39
 - Hex ID: FZETRANSISTORSLLSIGNALTO39
 - Name: transistor-small-signal : TO39
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/TO39/
 - Description: transistor-small-signal : TO39
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO39](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO39)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALTO39](http://oom.lt/FZETRANSISTORSLLSIGNALTO39)

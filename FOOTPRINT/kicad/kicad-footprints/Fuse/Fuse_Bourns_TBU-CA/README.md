@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_TBU-CA
 - Hex ID: FZKFUFUBOURNSTBUCA
 - Name: Fuse : Fuse_Bourns_TBU-CA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_TBU-CA/
 - Description: Fuse : Fuse_Bourns_TBU-CA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_TBU-CA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_TBU-CA)
 - Short Link: [http://oom.lt/FZKFUFUBOURNSTBUCA](http://oom.lt/FZKFUFUBOURNSTBUCA)

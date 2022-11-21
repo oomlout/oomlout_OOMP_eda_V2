@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AM256K > digikey-footprints : Bluetooth_Module_BLE113-A-M256K](#fzkicaddigikeykicadlibrarydigikeyfootprintsbluetoothmoble113am256k--digikey-footprints--bluetooth_module_ble113-a-m256k)
+* [FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AM256K > digikey-footprints : Bluetooth_Module_BLE113-A-M256K](#fzdigidigikeyfootprintsbluetoothmoble113am256k--digikey-footprints--bluetooth_module_ble113-a-m256k)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AM256K > digikey-footprints : Bluetooth_Module_BLE113-A-M256K
+# FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AM256K > digikey-footprints : Bluetooth_Module_BLE113-A-M256K
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE113-A-M256K
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AM256K
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AM256K
 - Name: digikey-footprints : Bluetooth_Module_BLE113-A-M256K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BLE113-A-M256K/
 - Description: digikey-footprints : Bluetooth_Module_BLE113-A-M256K
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE113-A-M256K](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE113-A-M256K)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AM256K](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AM256K)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AM256K](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AM256K)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Bluetooth_Module_BLE113-A-M256K|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE113-A-M256K|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AM256K|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AM256K|
 |name|name|digikey-footprints : Bluetooth_Module_BLE113-A-M256K|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bluetooth_Module_BLE113-A-M256K'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

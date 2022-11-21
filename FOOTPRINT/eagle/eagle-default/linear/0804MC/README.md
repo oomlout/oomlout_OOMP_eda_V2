@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-0804MC
 - Hex ID: FZELINEAR84MC
 - Name: linear : 0804MC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/0804MC/
 - Description: linear : 0804MC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-0804MC](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-0804MC)
 - Short Link: [http://oom.lt/FZELINEAR84MC](http://oom.lt/FZELINEAR84MC)

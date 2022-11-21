@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VFX130T-FF1738
 - Hex ID: SZKFPGAXILINXVIRTEX5XC5VFX13TFF1738
 - Name: FPGA_Xilinx_Virtex5 : XC5VFX130T-FF1738
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex5/XC5VFX130T-FF1738/
 - Description: FPGA_Xilinx_Virtex5 : XC5VFX130T-FF1738
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VFX130T-FF1738](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VFX130T-FF1738)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VFX13TFF1738](http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VFX13TFF1738)

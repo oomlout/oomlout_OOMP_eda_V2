@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3015Q
 - Hex ID: SZKREGULATORLINEARLT315Q
 - Name: Regulator_Linear : LT3015Q
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3015Q/
 - Description: Regulator_Linear : LT3015Q
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3015Q](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3015Q)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT315Q](http://oom.lt/SZKREGULATORLINEARLT315Q)

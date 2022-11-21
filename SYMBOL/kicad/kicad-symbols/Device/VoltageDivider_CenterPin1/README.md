@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKDEVICEVOLTAGEDIVIDERCENTERPIN1 > Device : VoltageDivider_CenterPin1](#szkdevicevoltagedividercenterpin1--device--voltagedivider_centerpin1)
+* [SZKDEVICEVOLTAGEDIVIDERCENTERP1 > Device : VoltageDivider_CenterPin1](#szkdevicevoltagedividercenterp1--device--voltagedivider_centerpin1)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKDEVICEVOLTAGEDIVIDERCENTERPIN1 > Device : VoltageDivider_CenterPin1
+# SZKDEVICEVOLTAGEDIVIDERCENTERP1 > Device : VoltageDivider_CenterPin1
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-VoltageDivider_CenterPin1
-- Hex ID: SZKDEVICEVOLTAGEDIVIDERCENTERPIN1
+- Hex ID: SZKDEVICEVOLTAGEDIVIDERCENTERP1
 - Name: Device : VoltageDivider_CenterPin1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/VoltageDivider_CenterPin1/
 - Description: Device : VoltageDivider_CenterPin1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-VoltageDivider_CenterPin1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-VoltageDivider_CenterPin1)
-- Short Link: [http://oom.lt/SZKDEVICEVOLTAGEDIVIDERCENTERPIN1](http://oom.lt/SZKDEVICEVOLTAGEDIVIDERCENTERPIN1)
+- Short Link: [http://oom.lt/SZKDEVICEVOLTAGEDIVIDERCENTERP1](http://oom.lt/SZKDEVICEVOLTAGEDIVIDERCENTERP1)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Device|
 |OOMP Index|oompIndex|VoltageDivider_CenterPin1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-VoltageDivider_CenterPin1|
-|Hex ID (short code)|hexID|SZKDEVICEVOLTAGEDIVIDERCENTERPIN1|
+|Hex ID (short code)|hexID|SZKDEVICEVOLTAGEDIVIDERCENTERP1|
 |name|name|Device : VoltageDivider_CenterPin1|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'RN'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VoltageDivider_CenterPin1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R network voltage divider'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage divider</td><td> center on pin 1'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R?Array?SIP* SOT?23'</td></tr></table>]|
 ||||

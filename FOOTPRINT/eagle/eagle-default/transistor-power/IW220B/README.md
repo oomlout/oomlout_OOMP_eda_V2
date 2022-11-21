@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-IW220B
 - Hex ID: FZETRANSISTORPOWERIW22B
 - Name: transistor-power : IW220B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/IW220B/
 - Description: transistor-power : IW220B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-IW220B](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-IW220B)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERIW22B](http://oom.lt/FZETRANSISTORPOWERIW22B)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-L298N
 - Hex ID: SZKDRIVERMOTORL298N
 - Name: Driver_Motor : L298N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/L298N/
 - Description: Driver_Motor : L298N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-L298N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-L298N)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORL298N](http://oom.lt/SZKDRIVERMOTORL298N)

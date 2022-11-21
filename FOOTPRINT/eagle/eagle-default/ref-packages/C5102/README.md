@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESC512 > ref-packages : C5102](#fzerefpackagesc512--ref-packages--c5102)
+* [FZEREFPSC512 > ref-packages : C5102](#fzerefpsc512--ref-packages--c5102)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESC512 > ref-packages : C5102
+# FZEREFPSC512 > ref-packages : C5102
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-C5102
-- Hex ID: FZEREFPACKAGESC512
+- Hex ID: FZEREFPSC512
 - Name: ref-packages : C5102
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/C5102/
 - Description: ref-packages : C5102
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-C5102](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-C5102)
-- Short Link: [http://oom.lt/FZEREFPACKAGESC512](http://oom.lt/FZEREFPACKAGESC512)
+- Short Link: [http://oom.lt/FZEREFPSC512](http://oom.lt/FZEREFPSC512)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|C5102|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-C5102|
-|Hex ID (short code)|hexID|FZEREFPACKAGESC512|
+|Hex ID (short code)|hexID|FZEREFPSC512|
 |name|name|ref-packages : C5102|
 ||||

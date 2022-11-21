@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-allegro-QFN28ET
 - Hex ID: FZEALLEGROQFN28ET
 - Name: allegro : QFN28ET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/QFN28ET/
 - Description: allegro : QFN28ET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-QFN28ET](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-QFN28ET)
 - Short Link: [http://oom.lt/FZEALLEGROQFN28ET](http://oom.lt/FZEALLEGROQFN28ET)

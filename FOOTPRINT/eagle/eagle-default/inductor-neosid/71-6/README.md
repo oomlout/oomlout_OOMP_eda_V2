@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNEOSID716 > inductor-neosid : 71-6](#fzeinductorneosid716--inductor-neosid--71-6)
+* [FZEINNEOSID716 > inductor-neosid : 71-6](#fzeinneosid716--inductor-neosid--71-6)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNEOSID716 > inductor-neosid : 71-6
+# FZEINNEOSID716 > inductor-neosid : 71-6
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-71-6
-- Hex ID: FZEINDUCTORNEOSID716
+- Hex ID: FZEINNEOSID716
 - Name: inductor-neosid : 71-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-neosid/71-6/
 - Description: inductor-neosid : 71-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-71-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-71-6)
-- Short Link: [http://oom.lt/FZEINDUCTORNEOSID716](http://oom.lt/FZEINDUCTORNEOSID716)
+- Short Link: [http://oom.lt/FZEINNEOSID716](http://oom.lt/FZEINNEOSID716)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-neosid|
 |OOMP Index|oompIndex|71-6|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-neosid-71-6|
-|Hex ID (short code)|hexID|FZEINDUCTORNEOSID716|
+|Hex ID (short code)|hexID|FZEINNEOSID716|
 |name|name|inductor-neosid : 71-6|
 ||||

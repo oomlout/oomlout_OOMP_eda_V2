@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E3,5-8
 - Hex ID: FZAE358
 - Name: adafruit : E3,5-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E3,5-8/
 - Description: adafruit : E3,5-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E3,5-8](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E3,5-8)
 - Short Link: [http://oom.lt/FZAE358](http://oom.lt/FZAE358)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_Micro-D_Molex_46765-2x0x
 - Hex ID: FZKCNHDMIHDMIMDMX467652XX
 - Name: Connector_HDMI : HDMI_Micro-D_Molex_46765-2x0x
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_Micro-D_Molex_46765-2x0x/
 - Description: Connector_HDMI : HDMI_Micro-D_Molex_46765-2x0x
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_Micro-D_Molex_46765-2x0x](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_Micro-D_Molex_46765-2x0x)
 - Short Link: [http://oom.lt/FZKCNHDMIHDMIMDMX467652XX](http://oom.lt/FZKCNHDMIHDMIMDMX467652XX)

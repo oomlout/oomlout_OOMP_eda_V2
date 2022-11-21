@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-PD70224
 - Hex ID: SZKPOWERMANAGEMENTPD7224
 - Name: Power_Management : PD70224
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/PD70224/
 - Description: Power_Management : PD70224
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-PD70224](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-PD70224)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTPD7224](http://oom.lt/SZKPOWERMANAGEMENTPD7224)

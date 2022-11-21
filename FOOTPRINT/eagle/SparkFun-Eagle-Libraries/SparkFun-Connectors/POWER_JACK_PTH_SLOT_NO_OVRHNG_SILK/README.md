@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_SLOT_NO_OVRHNG_SILK
 - Hex ID: FZSSPARKFUNCNSPOWERJPSLOTNOOVRHNGSILK
 - Name: SparkFun-Connectors : POWER_JACK_PTH_SLOT_NO_OVRHNG_SILK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/POWER_JACK_PTH_SLOT_NO_OVRHNG_SILK/
 - Description: SparkFun-Connectors : POWER_JACK_PTH_SLOT_NO_OVRHNG_SILK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_SLOT_NO_OVRHNG_SILK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_SLOT_NO_OVRHNG_SILK)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSPOWERJPSLOTNOOVRHNGSILK](http://oom.lt/FZSSPARKFUNCNSPOWERJPSLOTNOOVRHNGSILK)

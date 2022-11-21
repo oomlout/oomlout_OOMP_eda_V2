@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C3D10065E
 - Hex ID: SZKDIODEC3D165E
 - Name: Diode : C3D10065E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C3D10065E/
 - Description: Diode : C3D10065E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D10065E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D10065E)
 - Short Link: [http://oom.lt/SZKDIODEC3D165E](http://oom.lt/SZKDIODEC3D165E)

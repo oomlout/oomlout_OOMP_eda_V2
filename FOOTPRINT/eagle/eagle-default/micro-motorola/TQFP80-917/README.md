@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-TQFP80-917
 - Hex ID: FZEMMOTOROLATQFP8917
 - Name: micro-motorola : TQFP80-917
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/TQFP80-917/
 - Description: micro-motorola : TQFP80-917
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-TQFP80-917](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-TQFP80-917)
 - Short Link: [http://oom.lt/FZEMMOTOROLATQFP8917](http://oom.lt/FZEMMOTOROLATQFP8917)

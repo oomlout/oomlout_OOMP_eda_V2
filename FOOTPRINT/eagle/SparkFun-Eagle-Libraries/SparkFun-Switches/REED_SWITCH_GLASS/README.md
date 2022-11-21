@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSWREEDSWITCHGLASS > SparkFun-Switches : REED_SWITCH_GLASS](#fzswreedswitchglass--sparkfun-switches--reed_switch_glass)
+* [FZSWREEDSWGLASS > SparkFun-Switches : REED_SWITCH_GLASS](#fzswreedswglass--sparkfun-switches--reed_switch_glass)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSWREEDSWITCHGLASS > SparkFun-Switches : REED_SWITCH_GLASS
+# FZSWREEDSWGLASS > SparkFun-Switches : REED_SWITCH_GLASS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_GLASS
-- Hex ID: FZSWREEDSWITCHGLASS
+- Hex ID: FZSWREEDSWGLASS
 - Name: SparkFun-Switches : REED_SWITCH_GLASS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/REED_SWITCH_GLASS/
 - Description: SparkFun-Switches : REED_SWITCH_GLASS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_GLASS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_GLASS)
-- Short Link: [http://oom.lt/FZSWREEDSWITCHGLASS](http://oom.lt/FZSWREEDSWITCHGLASS)
+- Short Link: [http://oom.lt/FZSWREEDSWGLASS](http://oom.lt/FZSWREEDSWGLASS)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Switches|
 |OOMP Index|oompIndex|REED_SWITCH_GLASS|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_GLASS|
-|Hex ID (short code)|hexID|FZSWREEDSWITCHGLASS|
+|Hex ID (short code)|hexID|FZSWREEDSWGLASS|
 |name|name|SparkFun-Switches : REED_SWITCH_GLASS|
 ||||

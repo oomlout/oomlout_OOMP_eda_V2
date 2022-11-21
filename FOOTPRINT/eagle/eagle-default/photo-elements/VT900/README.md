@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-photo-elements-VT900
 - Hex ID: FZEPHOTOELEMENTSVT9
 - Name: photo-elements : VT900
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/photo-elements/VT900/
 - Description: photo-elements : VT900
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-VT900](http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-VT900)
 - Short Link: [http://oom.lt/FZEPHOTOELEMENTSVT9](http://oom.lt/FZEPHOTOELEMENTSVT9)

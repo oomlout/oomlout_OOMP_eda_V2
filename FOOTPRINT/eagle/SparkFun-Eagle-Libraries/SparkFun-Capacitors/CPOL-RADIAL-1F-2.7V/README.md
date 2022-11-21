@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CPOL-RADIAL-1F-2.7V
 - Hex ID: FZSCCPOLR1F27V
 - Name: SparkFun-Capacitors : CPOL-RADIAL-1F-2.7V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/CPOL-RADIAL-1F-2.7V/
 - Description: SparkFun-Capacitors : CPOL-RADIAL-1F-2.7V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CPOL-RADIAL-1F-2.7V](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CPOL-RADIAL-1F-2.7V)
 - Short Link: [http://oom.lt/FZSCCPOLR1F27V](http://oom.lt/FZSCCPOLR1F27V)

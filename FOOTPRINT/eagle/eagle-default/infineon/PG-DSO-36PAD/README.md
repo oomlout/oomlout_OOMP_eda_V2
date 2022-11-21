@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINFINEONPGDSO36PAD > infineon : PG-DSO-36PAD](#fzeinfineonpgdso36pad--infineon--pg-dso-36pad)
+* [FZEINFINEONPGDSO36P > infineon : PG-DSO-36PAD](#fzeinfineonpgdso36p--infineon--pg-dso-36pad)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINFINEONPGDSO36PAD > infineon : PG-DSO-36PAD
+# FZEINFINEONPGDSO36P > infineon : PG-DSO-36PAD
 
 - ID: FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-36PAD
-- Hex ID: FZEINFINEONPGDSO36PAD
+- Hex ID: FZEINFINEONPGDSO36P
 - Name: infineon : PG-DSO-36PAD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon/PG-DSO-36PAD/
 - Description: infineon : PG-DSO-36PAD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-36PAD](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-36PAD)
-- Short Link: [http://oom.lt/FZEINFINEONPGDSO36PAD](http://oom.lt/FZEINFINEONPGDSO36PAD)
+- Short Link: [http://oom.lt/FZEINFINEONPGDSO36P](http://oom.lt/FZEINFINEONPGDSO36P)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|infineon|
 |OOMP Index|oompIndex|PG-DSO-36PAD|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-36PAD|
-|Hex ID (short code)|hexID|FZEINFINEONPGDSO36PAD|
+|Hex ID (short code)|hexID|FZEINFINEONPGDSO36P|
 |name|name|infineon : PG-DSO-36PAD|
 ||||

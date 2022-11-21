@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOT363_PHILIPS
 - Hex ID: FZEDIODESOT363PHILIPS
 - Name: diode : SOT363_PHILIPS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOT363_PHILIPS/
 - Description: diode : SOT363_PHILIPS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT363_PHILIPS](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT363_PHILIPS)
 - Short Link: [http://oom.lt/FZEDIODESOT363PHILIPS](http://oom.lt/FZEDIODESOT363PHILIPS)

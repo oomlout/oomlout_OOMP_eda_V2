@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-CA4055
 - Hex ID: FZERESISTORPOWERCA455
 - Name: resistor-power : CA4055
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/CA4055/
 - Description: resistor-power : CA4055
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA4055](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA4055)
 - Short Link: [http://oom.lt/FZERESISTORPOWERCA455](http://oom.lt/FZERESISTORPOWERCA455)

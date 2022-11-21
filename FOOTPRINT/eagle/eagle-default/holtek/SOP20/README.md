@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-holtek-SOP20
 - Hex ID: FZEHOLTEKS2
 - Name: holtek : SOP20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/holtek/SOP20/
 - Description: holtek : SOP20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-holtek-SOP20](http://oom.lt/FOOTPRINT-eagle-eagle-default-holtek-SOP20)
 - Short Link: [http://oom.lt/FZEHOLTEKS2](http://oom.lt/FZEHOLTEKS2)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNCONN1X17MALE > Connector : Conn_01x17_Male](#szkcnconn1x17male--connector--conn_01x17_male)
+* [SZKCNC1X17MALE > Connector : Conn_01x17_Male](#szkcnc1x17male--connector--conn_01x17_male)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNCONN1X17MALE > Connector : Conn_01x17_Male
+# SZKCNC1X17MALE > Connector : Conn_01x17_Male
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x17_Male
-- Hex ID: SZKCNCONN1X17MALE
+- Hex ID: SZKCNC1X17MALE
 - Name: Connector : Conn_01x17_Male
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x17_Male/
 - Description: Connector : Conn_01x17_Male
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x17_Male](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x17_Male)
-- Short Link: [http://oom.lt/SZKCNCONN1X17MALE](http://oom.lt/SZKCNCONN1X17MALE)
+- Short Link: [http://oom.lt/SZKCNC1X17MALE](http://oom.lt/SZKCNC1X17MALE)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|Conn_01x17_Male|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x17_Male|
-|Hex ID (short code)|hexID|SZKCNCONN1X17MALE|
+|Hex ID (short code)|hexID|SZKCNC1X17MALE|
 |name|name|Connector : Conn_01x17_Male|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_01x17_Male'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connector</td><td> single row</td><td> 01x17</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??_*'</td></tr></table>]|
 ||||

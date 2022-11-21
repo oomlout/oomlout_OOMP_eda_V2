@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_SANYOU_SRD_Series_Form_B
 - Hex ID: FZKRELRELAYSPSTSANYOUSRDSERIESFORMB
 - Name: Relay_THT : Relay_SPST_SANYOU_SRD_Series_Form_B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_SANYOU_SRD_Series_Form_B/
 - Description: Relay_THT : Relay_SPST_SANYOU_SRD_Series_Form_B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_SANYOU_SRD_Series_Form_B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_SANYOU_SRD_Series_Form_B)
 - Short Link: [http://oom.lt/FZKRELRELAYSPSTSANYOUSRDSERIESFORMB](http://oom.lt/FZKRELRELAYSPSTSANYOUSRDSERIESFORMB)

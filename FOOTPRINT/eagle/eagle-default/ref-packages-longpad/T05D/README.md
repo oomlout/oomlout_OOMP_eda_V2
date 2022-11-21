@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADT5D > ref-packages-longpad : T05D](#fzerefpackageslongpadt5d--ref-packages-longpad--t05d)
+* [FZEREFPSLPT5D > ref-packages-longpad : T05D](#fzerefpslpt5d--ref-packages-longpad--t05d)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADT5D > ref-packages-longpad : T05D
+# FZEREFPSLPT5D > ref-packages-longpad : T05D
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-T05D
-- Hex ID: FZEREFPACKAGESLONGPADT5D
+- Hex ID: FZEREFPSLPT5D
 - Name: ref-packages-longpad : T05D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/T05D/
 - Description: ref-packages-longpad : T05D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-T05D](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-T05D)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADT5D](http://oom.lt/FZEREFPACKAGESLONGPADT5D)
+- Short Link: [http://oom.lt/FZEREFPSLPT5D](http://oom.lt/FZEREFPSLPT5D)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|T05D|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-T05D|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADT5D|
+|Hex ID (short code)|hexID|FZEREFPSLPT5D|
 |name|name|ref-packages-longpad : T05D|
 ||||

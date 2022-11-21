@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ACPL-214-500E
 - Hex ID: SZKISOLATORACPL2145E
 - Name: Isolator : ACPL-214-500E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ACPL-214-500E/
 - Description: Isolator : ACPL-214-500E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ACPL-214-500E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ACPL-214-500E)
 - Short Link: [http://oom.lt/SZKISOLATORACPL2145E](http://oom.lt/SZKISOLATORACPL2145E)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ12
 - Hex ID: SZKCNRJ12
 - Name: Connector : RJ12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ12/
 - Description: Connector : RJ12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ12)
 - Short Link: [http://oom.lt/SZKCNRJ12](http://oom.lt/SZKCNRJ12)

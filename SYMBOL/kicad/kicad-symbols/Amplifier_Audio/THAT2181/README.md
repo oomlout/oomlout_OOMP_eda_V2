@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-THAT2181
 - Hex ID: SZKAMPLIFIERAUDIOTHAT2181
 - Name: Amplifier_Audio : THAT2181
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/THAT2181/
 - Description: Amplifier_Audio : THAT2181
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-THAT2181](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-THAT2181)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTHAT2181](http://oom.lt/SZKAMPLIFIERAUDIOTHAT2181)

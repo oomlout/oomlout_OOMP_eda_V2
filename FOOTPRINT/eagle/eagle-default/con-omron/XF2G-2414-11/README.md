@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2G-2414-11
 - Hex ID: FZECONOMRONXF2G241411
 - Name: con-omron : XF2G-2414-11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-omron/XF2G-2414-11/
 - Description: con-omron : XF2G-2414-11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2G-2414-11](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2G-2414-11)
 - Short Link: [http://oom.lt/FZECONOMRONXF2G241411](http://oom.lt/FZECONOMRONXF2G241411)

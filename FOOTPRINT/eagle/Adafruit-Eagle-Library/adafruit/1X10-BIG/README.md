@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X10-BIG
 - Hex ID: FZA1X1B
 - Name: adafruit : 1X10-BIG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X10-BIG/
 - Description: adafruit : 1X10-BIG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X10-BIG](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X10-BIG)
 - Short Link: [http://oom.lt/FZA1X1B](http://oom.lt/FZA1X1B)

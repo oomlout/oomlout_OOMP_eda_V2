@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-EI42-2
 - Hex ID: FZETRAFOEI422
 - Name: trafo : EI42-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/EI42-2/
 - Description: trafo : EI42-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EI42-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EI42-2)
 - Short Link: [http://oom.lt/FZETRAFOEI422](http://oom.lt/FZETRAFOEI422)

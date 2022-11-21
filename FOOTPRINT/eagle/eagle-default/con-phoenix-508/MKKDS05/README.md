@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-MKKDS05
 - Hex ID: FZECONPHOENIX58MKKDS5
 - Name: con-phoenix-508 : MKKDS05
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-508/MKKDS05/
 - Description: con-phoenix-508 : MKKDS05
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-MKKDS05](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-MKKDS05)
 - Short Link: [http://oom.lt/FZECONPHOENIX58MKKDS5](http://oom.lt/FZECONPHOENIX58MKKDS5)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-LM5109BMA
 - Hex ID: SZKDRIVERFETLM519BMA
 - Name: Driver_FET : LM5109BMA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/LM5109BMA/
 - Description: Driver_FET : LM5109BMA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-LM5109BMA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-LM5109BMA)
 - Short Link: [http://oom.lt/SZKDRIVERFETLM519BMA](http://oom.lt/SZKDRIVERFETLM519BMA)

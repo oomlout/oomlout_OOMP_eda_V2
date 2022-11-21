@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXXDS26D2L6HORIZONTAL1EPSTYLE1 > Crystal : Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1](#fzkxxds26d2l6horizontal1epstyle1--crystal--crystal_ds26_d20mm_l60mm_horizontal_1ep_style1)
+* [FZKXXDS26D2L6H1EPSTYLE1 > Crystal : Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1](#fzkxxds26d2l6h1epstyle1--crystal--crystal_ds26_d20mm_l60mm_horizontal_1ep_style1)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXDS26D2L6HORIZONTAL1EPSTYLE1 > Crystal : Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1
+# FZKXXDS26D2L6H1EPSTYLE1 > Crystal : Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1
-- Hex ID: FZKXXDS26D2L6HORIZONTAL1EPSTYLE1
+- Hex ID: FZKXXDS26D2L6H1EPSTYLE1
 - Name: Crystal : Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1/
 - Description: Crystal : Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1)
-- Short Link: [http://oom.lt/FZKXXDS26D2L6HORIZONTAL1EPSTYLE1](http://oom.lt/FZKXXDS26D2L6HORIZONTAL1EPSTYLE1)
+- Short Link: [http://oom.lt/FZKXXDS26D2L6H1EPSTYLE1](http://oom.lt/FZKXXDS26D2L6H1EPSTYLE1)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1|
-|Hex ID (short code)|hexID|FZKXXDS26D2L6HORIZONTAL1EPSTYLE1|
+|Hex ID (short code)|hexID|FZKXXDS26D2L6H1EPSTYLE1|
 |name|name|Crystal : Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1'</td><td> 'description'</td></tr><tr><td> 'Crystal THT DS26 6.0mm length 2.0mm diameter http</td></tr><tr><td>//www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf'</td><td> 'tags'</td></tr><tr><td> "['DS26']"</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-ST-SINGL
 - Hex ID: FZEOPTOHONEYWELLSTSINGL
 - Name: opto-honeywell : ST-SINGL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/ST-SINGL/
 - Description: opto-honeywell : ST-SINGL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-ST-SINGL](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-ST-SINGL)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLSTSINGL](http://oom.lt/FZEOPTOHONEYWELLSTSINGL)

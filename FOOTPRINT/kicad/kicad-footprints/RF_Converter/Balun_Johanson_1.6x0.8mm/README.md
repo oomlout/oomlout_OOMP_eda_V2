@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Converter-Balun_Johanson_1.6x0.8mm
 - Hex ID: FZKRFBALUNJOHANSON16X8
 - Name: RF_Converter : Balun_Johanson_1.6x0.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Converter/Balun_Johanson_1.6x0.8mm/
 - Description: RF_Converter : Balun_Johanson_1.6x0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Converter-Balun_Johanson_1.6x0.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Converter-Balun_Johanson_1.6x0.8mm)
 - Short Link: [http://oom.lt/FZKRFBALUNJOHANSON16X8](http://oom.lt/FZKRFBALUNJOHANSON16X8)

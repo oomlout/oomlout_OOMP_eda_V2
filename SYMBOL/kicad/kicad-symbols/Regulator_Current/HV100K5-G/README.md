@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Current-HV100K5-G
 - Hex ID: SZKREGULATORCURRENTHV1K5G
 - Name: Regulator_Current : HV100K5-G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Current/HV100K5-G/
 - Description: Regulator_Current : HV100K5-G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Current-HV100K5-G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Current-HV100K5-G)
 - Short Link: [http://oom.lt/SZKREGULATORCURRENTHV1K5G](http://oom.lt/SZKREGULATORCURRENTHV1K5G)

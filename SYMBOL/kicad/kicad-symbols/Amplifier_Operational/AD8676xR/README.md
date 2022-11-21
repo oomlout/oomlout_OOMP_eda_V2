@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8676xR
 - Hex ID: SZKAMPLIFIEROPERATIONALAD8676XR
 - Name: Amplifier_Operational : AD8676xR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/AD8676xR/
 - Description: Amplifier_Operational : AD8676xR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8676xR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8676xR)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALAD8676XR](http://oom.lt/SZKAMPLIFIEROPERATIONALAD8676XR)

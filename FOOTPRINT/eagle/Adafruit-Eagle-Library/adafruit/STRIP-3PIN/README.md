@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZASTRIP3PIN > adafruit : STRIP-3PIN](#fzastrip3pin--adafruit--strip-3pin)
+* [FZASTRIP3P > adafruit : STRIP-3PIN](#fzastrip3p--adafruit--strip-3pin)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZASTRIP3PIN > adafruit : STRIP-3PIN
+# FZASTRIP3P > adafruit : STRIP-3PIN
 
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STRIP-3PIN
-- Hex ID: FZASTRIP3PIN
+- Hex ID: FZASTRIP3P
 - Name: adafruit : STRIP-3PIN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/STRIP-3PIN/
 - Description: adafruit : STRIP-3PIN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STRIP-3PIN](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STRIP-3PIN)
-- Short Link: [http://oom.lt/FZASTRIP3PIN](http://oom.lt/FZASTRIP3PIN)
+- Short Link: [http://oom.lt/FZASTRIP3P](http://oom.lt/FZASTRIP3P)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|adafruit|
 |OOMP Index|oompIndex|STRIP-3PIN|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STRIP-3PIN|
-|Hex ID (short code)|hexID|FZASTRIP3PIN|
+|Hex ID (short code)|hexID|FZASTRIP3P|
 |name|name|adafruit : STRIP-3PIN|
 ||||
 

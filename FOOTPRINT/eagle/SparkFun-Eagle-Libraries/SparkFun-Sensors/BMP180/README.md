@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BMP180
 - Hex ID: FZSSPARKFUNSENSBMP18
 - Name: SparkFun-Sensors : BMP180
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/BMP180/
 - Description: SparkFun-Sensors : BMP180
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BMP180](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BMP180)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSBMP18](http://oom.lt/FZSSPARKFUNSENSBMP18)

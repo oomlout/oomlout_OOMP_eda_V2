@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lsta-JBK20L
 - Hex ID: FZECONLSTAJBK2L
 - Name: con-lsta : JBK20L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lsta/JBK20L/
 - Description: con-lsta : JBK20L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-JBK20L](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-JBK20L)
 - Short Link: [http://oom.lt/FZECONLSTAJBK2L](http://oom.lt/FZECONLSTAJBK2L)

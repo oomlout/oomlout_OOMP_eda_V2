@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1584-3.6
 - Hex ID: SZKREGULATORLINEARLT158436
 - Name: Regulator_Linear : LT1584-3.6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1584-3.6/
 - Description: Regulator_Linear : LT1584-3.6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1584-3.6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1584-3.6)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT158436](http://oom.lt/SZKREGULATORLINEARLT158436)

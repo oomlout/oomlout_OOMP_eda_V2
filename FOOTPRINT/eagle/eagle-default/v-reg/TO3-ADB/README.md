@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-TO3-ADB
 - Hex ID: FZEVREGTO3ADB
 - Name: v-reg : TO3-ADB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/TO3-ADB/
 - Description: v-reg : TO3-ADB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO3-ADB](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO3-ADB)
 - Short Link: [http://oom.lt/FZEVREGTO3ADB](http://oom.lt/FZEVREGTO3ADB)

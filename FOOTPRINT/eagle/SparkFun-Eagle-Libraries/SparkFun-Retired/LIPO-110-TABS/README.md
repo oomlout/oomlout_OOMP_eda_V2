@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LIPO-110-TABS
 - Hex ID: FZSRTLIPO11TABS
 - Name: SparkFun-Retired : LIPO-110-TABS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LIPO-110-TABS/
 - Description: SparkFun-Retired : LIPO-110-TABS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LIPO-110-TABS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LIPO-110-TABS)
 - Short Link: [http://oom.lt/FZSRTLIPO11TABS](http://oom.lt/FZSRTLIPO11TABS)

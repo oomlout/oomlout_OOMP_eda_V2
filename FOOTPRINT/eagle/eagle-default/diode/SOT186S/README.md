@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOT186S
 - Hex ID: FZEDIODESOT186S
 - Name: diode : SOT186S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOT186S/
 - Description: diode : SOT186S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT186S](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT186S)
 - Short Link: [http://oom.lt/FZEDIODESOT186S](http://oom.lt/FZEDIODESOT186S)

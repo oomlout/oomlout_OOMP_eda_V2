@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM2210F324
 - Hex ID: SZKCPLDALTERAEPM221F324
 - Name: CPLD_Altera : EPM2210F324
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM2210F324/
 - Description: CPLD_Altera : EPM2210F324
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM2210F324](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM2210F324)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEPM221F324](http://oom.lt/SZKCPLDALTERAEPM221F324)

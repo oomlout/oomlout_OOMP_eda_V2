@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-44_16.6x16.6mm_P1.27mm
 - Hex ID: FZKLCCPLCC44166X166P127
 - Name: Package_LCC : PLCC-44_16.6x16.6mm_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-44_16.6x16.6mm_P1.27mm/
 - Description: Package_LCC : PLCC-44_16.6x16.6mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-44_16.6x16.6mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-44_16.6x16.6mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKLCCPLCC44166X166P127](http://oom.lt/FZKLCCPLCC44166X166P127)

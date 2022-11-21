@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y
 - Hex ID: FZKLGASTHLGA125X25P6LAYOUTBORDER3X2Y
 - Name: Package_LGA : ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/
 - Description: Package_LGA : ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y)
 - Short Link: [http://oom.lt/FZKLGASTHLGA125X25P6LAYOUTBORDER3X2Y](http://oom.lt/FZKLGASTHLGA125X25P6LAYOUTBORDER3X2Y)

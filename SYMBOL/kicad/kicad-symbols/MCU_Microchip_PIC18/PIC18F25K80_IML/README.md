@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F25K80_IML
 - Hex ID: SZKMCUMCHIPPIC18PIC18F25K8IML
 - Name: MCU_Microchip_PIC18 : PIC18F25K80_IML
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F25K80_IML/
 - Description: MCU_Microchip_PIC18 : PIC18F25K80_IML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F25K80_IML](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F25K80_IML)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F25K8IML](http://oom.lt/SZKMCUMCHIPPIC18PIC18F25K8IML)

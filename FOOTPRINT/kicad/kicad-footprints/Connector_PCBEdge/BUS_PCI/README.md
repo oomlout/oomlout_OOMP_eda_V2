@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPCBEDGEBUSPCI > Connector_PCBEdge : BUS_PCI](#fzkcnpcbedgebuspci--connector_pcbedge--bus_pci)
+* [FZKCNPEBUSPCI > Connector_PCBEdge : BUS_PCI](#fzkcnpebuspci--connector_pcbedge--bus_pci)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPCBEDGEBUSPCI > Connector_PCBEdge : BUS_PCI
+# FZKCNPEBUSPCI > Connector_PCBEdge : BUS_PCI
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI
-- Hex ID: FZKCNPCBEDGEBUSPCI
+- Hex ID: FZKCNPEBUSPCI
 - Name: Connector_PCBEdge : BUS_PCI
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI/
 - Description: Connector_PCBEdge : BUS_PCI
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI)
-- Short Link: [http://oom.lt/FZKCNPCBEDGEBUSPCI](http://oom.lt/FZKCNPCBEDGEBUSPCI)
+- Short Link: [http://oom.lt/FZKCNPEBUSPCI](http://oom.lt/FZKCNPEBUSPCI)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PCBEdge|
 |OOMP Index|oompIndex|BUS_PCI|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI|
-|Hex ID (short code)|hexID|FZKCNPCBEDGEBUSPCI|
+|Hex ID (short code)|hexID|FZKCNPEBUSPCI|
 |name|name|Connector_PCBEdge : BUS_PCI|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BUS_PCI'</td><td> 'description'</td></tr><tr><td> 'PCI bus Edge Connector'</td><td> 'tags'</td></tr><tr><td> 'PCI bus Edge Connector'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

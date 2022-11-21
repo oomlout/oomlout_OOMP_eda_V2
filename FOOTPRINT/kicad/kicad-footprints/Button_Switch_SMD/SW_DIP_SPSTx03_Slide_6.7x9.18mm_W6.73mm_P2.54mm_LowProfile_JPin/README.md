@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBSWITCHSMSWDIPSPSTX3SLIDE67X918W673P254LOWPROFILEJPIN > Button_Switch_SMD : SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin](#fzkbswitchsmswdipspstx3slide67x918w673p254lowprofilejpin--button_switch_smd--sw_dip_spstx03_slide_67x918mm_w673mm_p254mm_lowprofile_jpin)
+* [FZKBSWDSPSTX3SL67X918W673P254LOWPJP > Button_Switch_SMD : SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin](#fzkbswdspstx3sl67x918w673p254lowpjp--button_switch_smd--sw_dip_spstx03_slide_67x918mm_w673mm_p254mm_lowprofile_jpin)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWITCHSMSWDIPSPSTX3SLIDE67X918W673P254LOWPROFILEJPIN > Button_Switch_SMD : SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin
+# FZKBSWDSPSTX3SL67X918W673P254LOWPJP > Button_Switch_SMD : SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin
-- Hex ID: FZKBSWITCHSMSWDIPSPSTX3SLIDE67X918W673P254LOWPROFILEJPIN
+- Hex ID: FZKBSWDSPSTX3SL67X918W673P254LOWPJP
 - Name: Button_Switch_SMD : SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin/
 - Description: Button_Switch_SMD : SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin)
-- Short Link: [http://oom.lt/FZKBSWITCHSMSWDIPSPSTX3SLIDE67X918W673P254LOWPROFILEJPIN](http://oom.lt/FZKBSWITCHSMSWDIPSPSTX3SLIDE67X918W673P254LOWPROFILEJPIN)
+- Short Link: [http://oom.lt/FZKBSWDSPSTX3SL67X918W673P254LOWPJP](http://oom.lt/FZKBSWDSPSTX3SL67X918W673P254LOWPJP)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_SMD|
 |OOMP Index|oompIndex|SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin|
-|Hex ID (short code)|hexID|FZKBSWITCHSMSWDIPSPSTX3SLIDE67X918W673P254LOWPROFILEJPIN|
+|Hex ID (short code)|hexID|FZKBSWDSPSTX3SL67X918W673P254LOWPJP|
 |name|name|Button_Switch_SMD : SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin'</td><td> 'description'</td></tr><tr><td> 'SMD 3x-dip-switch SPST </td><td> Slide</td><td> row spacing 6.73 mm (264 mils)</td><td> body size 6.7x9.18mm (see e.g. https</td></tr><tr><td>//www.ctscorp.com/wp-content/uploads/219.pdf)</td><td> SMD</td><td> LowProfile</td><td> JPin'</td><td> 'tags'</td></tr><tr><td> 'SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

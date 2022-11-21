@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Wuerth_629105150521_CircularHoles
 - Hex ID: FZKCNUUMBWUERTH6291515521CIRCULARH
 - Name: Connector_USB : USB_Micro-B_Wuerth_629105150521_CircularHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_629105150521_CircularHoles/
 - Description: Connector_USB : USB_Micro-B_Wuerth_629105150521_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Wuerth_629105150521_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Wuerth_629105150521_CircularHoles)
 - Short Link: [http://oom.lt/FZKCNUUMBWUERTH6291515521CIRCULARH](http://oom.lt/FZKCNUUMBWUERTH6291515521CIRCULARH)

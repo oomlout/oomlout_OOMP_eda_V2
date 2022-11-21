@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF47DV25C8U47D > oomlout_OOMP_parts : CAPC-0805-X-UF47D-V25-C8U47D](#fzkicadoomloutoompkicadoomloutoomppartscapc85xuf47dv25c8u47d--oomlout_oomp_parts--capc-0805-x-uf47d-v25-c8u47d)
+* [FZOOMPKOOMPPCAPC85XUF47DV25C8U47D > oomlout_OOMP_parts : CAPC-0805-X-UF47D-V25-C8U47D](#fzoompkoomppcapc85xuf47dv25c8u47d--oomlout_oomp_parts--capc-0805-x-uf47d-v25-c8u47d)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF47DV25C8U47D > oomlout_OOMP_parts : CAPC-0805-X-UF47D-V25-C8U47D
+# FZOOMPKOOMPPCAPC85XUF47DV25C8U47D > oomlout_OOMP_parts : CAPC-0805-X-UF47D-V25-C8U47D
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF47D-V25-C8U47D
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF47DV25C8U47D
+- Hex ID: FZOOMPKOOMPPCAPC85XUF47DV25C8U47D
 - Name: oomlout_OOMP_parts : CAPC-0805-X-UF47D-V25-C8U47D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0805-X-UF47D-V25-C8U47D/
 - Description: oomlout_OOMP_parts : CAPC-0805-X-UF47D-V25-C8U47D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF47D-V25-C8U47D](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF47D-V25-C8U47D)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF47DV25C8U47D](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF47DV25C8U47D)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC85XUF47DV25C8U47D](http://oom.lt/FZOOMPKOOMPPCAPC85XUF47DV25C8U47D)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|CAPC-0805-X-UF47D-V25-C8U47D|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF47D-V25-C8U47D|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF47DV25C8U47D|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPCAPC85XUF47DV25C8U47D|
 |name|name|oomlout_OOMP_parts : CAPC-0805-X-UF47D-V25-C8U47D|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CAPC-0805-X-UF47D-V25-C8U47D'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C8U47D;PARTL C-JLCC;C1779;MANUF C-XXXX;CL21A475KAQNNNE; Capacitor SMD 0805 (2012 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf</td><td> https</td></tr><tr><td>//docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

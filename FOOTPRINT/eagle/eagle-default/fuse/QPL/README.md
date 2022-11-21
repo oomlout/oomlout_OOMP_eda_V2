@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-QPL
 - Hex ID: FZEFUQPL
 - Name: fuse : QPL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/QPL/
 - Description: fuse : QPL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-QPL](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-QPL)
 - Short Link: [http://oom.lt/FZEFUQPL](http://oom.lt/FZEFUQPL)

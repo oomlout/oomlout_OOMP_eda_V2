@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3208
 - Hex ID: SZKANALOGADCMCP328
 - Name: Analog_ADC : MCP3208
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3208/
 - Description: Analog_ADC : MCP3208
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3208](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3208)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP328](http://oom.lt/SZKANALOGADCMCP328)

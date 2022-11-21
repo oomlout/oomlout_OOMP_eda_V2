@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG6010ER
 - Hex ID: SZKDIODEPMEG61ER
 - Name: Diode : PMEG6010ER
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG6010ER/
 - Description: Diode : PMEG6010ER
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6010ER](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6010ER)
 - Short Link: [http://oom.lt/SZKDIODEPMEG61ER](http://oom.lt/SZKDIODEPMEG61ER)

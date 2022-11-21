@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNBARRELJMOUNTINGPIN > Connector : Barrel_Jack_MountingPin](#szkcnbarreljmountingpin--connector--barrel_jack_mountingpin)
+* [SZKCNBARRELJMP > Connector : Barrel_Jack_MountingPin](#szkcnbarreljmp--connector--barrel_jack_mountingpin)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNBARRELJMOUNTINGPIN > Connector : Barrel_Jack_MountingPin
+# SZKCNBARRELJMP > Connector : Barrel_Jack_MountingPin
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack_MountingPin
-- Hex ID: SZKCNBARRELJMOUNTINGPIN
+- Hex ID: SZKCNBARRELJMP
 - Name: Connector : Barrel_Jack_MountingPin
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Barrel_Jack_MountingPin/
 - Description: Connector : Barrel_Jack_MountingPin
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack_MountingPin](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack_MountingPin)
-- Short Link: [http://oom.lt/SZKCNBARRELJMOUNTINGPIN](http://oom.lt/SZKCNBARRELJMOUNTINGPIN)
+- Short Link: [http://oom.lt/SZKCNBARRELJMP](http://oom.lt/SZKCNBARRELJMP)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|Barrel_Jack_MountingPin|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack_MountingPin|
-|Hex ID (short code)|hexID|SZKCNBARRELJMOUNTINGPIN|
+|Hex ID (short code)|hexID|SZKCNBARRELJMP|
 |name|name|Connector : Barrel_Jack_MountingPin|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Barrel_Jack_MountingPin'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC power barrel jack connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Barrel Jack with a mounting pin'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'BarrelJack*'</td></tr></table>]|
 ||||

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPHOTODBPW34 > digikey-footprints : Photodiode_THT_BPW34](#fzkicaddigikeykicadlibrarydigikeyfootprintsphotodbpw34--digikey-footprints--photodiode_tht_bpw34)
+* [FZDIGIDIGIKEYFOOTPRINTSPHOTODBPW34 > digikey-footprints : Photodiode_THT_BPW34](#fzdigidigikeyfootprintsphotodbpw34--digikey-footprints--photodiode_tht_bpw34)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPHOTODBPW34 > digikey-footprints : Photodiode_THT_BPW34
+# FZDIGIDIGIKEYFOOTPRINTSPHOTODBPW34 > digikey-footprints : Photodiode_THT_BPW34
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_THT_BPW34
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPHOTODBPW34
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPHOTODBPW34
 - Name: digikey-footprints : Photodiode_THT_BPW34
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Photodiode_THT_BPW34/
 - Description: digikey-footprints : Photodiode_THT_BPW34
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_THT_BPW34](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_THT_BPW34)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPHOTODBPW34](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPHOTODBPW34)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPHOTODBPW34](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPHOTODBPW34)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Photodiode_THT_BPW34|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_THT_BPW34|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPHOTODBPW34|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPHOTODBPW34|
 |name|name|digikey-footprints : Photodiode_THT_BPW34|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Photodiode_THT_BPW34'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

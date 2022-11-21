@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-LOGO
 - Hex ID: FZECYPRESSL
 - Name: cypress : LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/LOGO/
 - Description: cypress : LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-LOGO](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-LOGO)
 - Short Link: [http://oom.lt/FZECYPRESSL](http://oom.lt/FZECYPRESSL)

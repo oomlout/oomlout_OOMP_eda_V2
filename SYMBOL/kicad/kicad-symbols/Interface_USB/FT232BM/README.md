@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT232BM
 - Hex ID: SZKINTERFACEUFT232BM
 - Name: Interface_USB : FT232BM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FT232BM/
 - Description: Interface_USB : FT232BM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT232BM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT232BM)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT232BM](http://oom.lt/SZKINTERFACEUFT232BM)

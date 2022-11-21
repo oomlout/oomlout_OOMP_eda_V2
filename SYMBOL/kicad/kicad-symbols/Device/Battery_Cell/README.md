@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Battery_Cell
 - Hex ID: SZKDEVICEBATCELL
 - Name: Device : Battery_Cell
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Battery_Cell/
 - Description: Device : Battery_Cell
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Battery_Cell](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Battery_Cell)
 - Short Link: [http://oom.lt/SZKDEVICEBATCELL](http://oom.lt/SZKDEVICEBATCELL)

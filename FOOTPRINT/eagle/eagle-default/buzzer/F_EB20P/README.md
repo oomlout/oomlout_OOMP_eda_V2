@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_EB20P
 - Hex ID: FZEBUZZERFEB2P
 - Name: buzzer : F_EB20P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_EB20P/
 - Description: buzzer : F_EB20P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_EB20P](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_EB20P)
 - Short Link: [http://oom.lt/FZEBUZZERFEB2P](http://oom.lt/FZEBUZZERFEB2P)

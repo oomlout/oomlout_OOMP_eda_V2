@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-SK-68
 - Hex ID: FZESPECIALSK68
 - Name: special : SK-68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/SK-68/
 - Description: special : SK-68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SK-68](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SK-68)
 - Short Link: [http://oom.lt/FZESPECIALSK68](http://oom.lt/FZESPECIALSK68)

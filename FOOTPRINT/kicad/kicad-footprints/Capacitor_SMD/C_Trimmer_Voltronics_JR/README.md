@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCAPACITORSMCTRIERVOLTRONICSJR > Capacitor_SMD : C_Trimmer_Voltronics_JR](#fzkcapacitorsmctriervoltronicsjr--capacitor_smd--c_trimmer_voltronics_jr)
+* [FZKCCTRIERVOLTRONICSJR > Capacitor_SMD : C_Trimmer_Voltronics_JR](#fzkcctriervoltronicsjr--capacitor_smd--c_trimmer_voltronics_jr)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORSMCTRIERVOLTRONICSJR > Capacitor_SMD : C_Trimmer_Voltronics_JR
+# FZKCCTRIERVOLTRONICSJR > Capacitor_SMD : C_Trimmer_Voltronics_JR
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Voltronics_JR
-- Hex ID: FZKCAPACITORSMCTRIERVOLTRONICSJR
+- Hex ID: FZKCCTRIERVOLTRONICSJR
 - Name: Capacitor_SMD : C_Trimmer_Voltronics_JR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Voltronics_JR/
 - Description: Capacitor_SMD : C_Trimmer_Voltronics_JR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Voltronics_JR](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Voltronics_JR)
-- Short Link: [http://oom.lt/FZKCAPACITORSMCTRIERVOLTRONICSJR](http://oom.lt/FZKCAPACITORSMCTRIERVOLTRONICSJR)
+- Short Link: [http://oom.lt/FZKCCTRIERVOLTRONICSJR](http://oom.lt/FZKCCTRIERVOLTRONICSJR)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_SMD|
 |OOMP Index|oompIndex|C_Trimmer_Voltronics_JR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Voltronics_JR|
-|Hex ID (short code)|hexID|FZKCAPACITORSMCTRIERVOLTRONICSJR|
+|Hex ID (short code)|hexID|FZKCCTRIERVOLTRONICSJR|
 |name|name|Capacitor_SMD : C_Trimmer_Voltronics_JR|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_Trimmer_Voltronics_JR'</td><td> 'description'</td></tr><tr><td> 'trimmer capacitor SMD horizontal</td><td> http</td></tr><tr><td>//www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf'</td><td> 'tags'</td></tr><tr><td> ' Voltronics JR'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_Trimmer_Voltronics_JR.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

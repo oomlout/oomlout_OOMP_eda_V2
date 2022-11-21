@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00061_1x07_P5.00mm_45Degree
 - Hex ID: FZKTBRNDTBRND25611X7P545DEGREE
 - Name: TerminalBlock_RND : TerminalBlock_RND_205-00061_1x07_P5.00mm_45Degree
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_RND/TerminalBlock_RND_205-00061_1x07_P5.00mm_45Degree/
 - Description: TerminalBlock_RND : TerminalBlock_RND_205-00061_1x07_P5.00mm_45Degree
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00061_1x07_P5.00mm_45Degree](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00061_1x07_P5.00mm_45Degree)
 - Short Link: [http://oom.lt/FZKTBRNDTBRND25611X7P545DEGREE](http://oom.lt/FZKTBRNDTBRND25611X7P545DEGREE)

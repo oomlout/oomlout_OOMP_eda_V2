@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DO-214BA
 - Hex ID: FZSDSDO214BA
 - Name: SparkFun-DiscreteSemi : DO-214BA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/DO-214BA/
 - Description: SparkFun-DiscreteSemi : DO-214BA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DO-214BA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DO-214BA)
 - Short Link: [http://oom.lt/FZSDSDO214BA](http://oom.lt/FZSDSDO214BA)

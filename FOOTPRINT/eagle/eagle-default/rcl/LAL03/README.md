@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-LAL03
 - Hex ID: FZERCLLAL3
 - Name: rcl : LAL03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/LAL03/
 - Description: rcl : LAL03
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-LAL03](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-LAL03)
 - Short Link: [http://oom.lt/FZERCLLAL3](http://oom.lt/FZERCLLAL3)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-BPT-24X
 - Hex ID: FZEBUZZERBPT24X
 - Name: buzzer : BPT-24X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/BPT-24X/
 - Description: buzzer : BPT-24X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-BPT-24X](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-BPT-24X)
 - Short Link: [http://oom.lt/FZEBUZZERBPT24X](http://oom.lt/FZEBUZZERBPT24X)

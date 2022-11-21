@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225KN
 - Hex ID: SZKANALOGDACAD7225KN
 - Name: Analog_DAC : AD7225KN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7225KN/
 - Description: Analog_DAC : AD7225KN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225KN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225KN)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7225KN](http://oom.lt/SZKANALOGDACAD7225KN)

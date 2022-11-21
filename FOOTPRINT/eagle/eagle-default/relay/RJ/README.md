@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RJ
 - Hex ID: FZERELAYRJ
 - Name: relay : RJ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RJ/
 - Description: relay : RJ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RJ](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RJ)
 - Short Link: [http://oom.lt/FZERELAYRJ](http://oom.lt/FZERELAYRJ)

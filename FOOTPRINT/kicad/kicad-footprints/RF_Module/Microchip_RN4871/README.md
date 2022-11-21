@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Microchip_RN4871
 - Hex ID: FZKRFMOMCHIPRN4871
 - Name: RF_Module : Microchip_RN4871
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/Microchip_RN4871/
 - Description: RF_Module : Microchip_RN4871
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Microchip_RN4871](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Microchip_RN4871)
 - Short Link: [http://oom.lt/FZKRFMOMCHIPRN4871](http://oom.lt/FZKRFMOMCHIPRN4871)

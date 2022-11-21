@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNWIRESOLDERWIRE2SQ1X6P78D2OD39 > Connector_Wire : SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm](#fzkcnwiresolderwire2sq1x6p78d2od39--connector_wire--solderwire-2sqmm_1x06_p78mm_d2mm_od39mm)
+* [FZKCNWSOLDERW2SQ1X6P78D2OD39 > Connector_Wire : SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm](#fzkcnwsolderw2sq1x6p78d2od39--connector_wire--solderwire-2sqmm_1x06_p78mm_d2mm_od39mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNWIRESOLDERWIRE2SQ1X6P78D2OD39 > Connector_Wire : SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm
+# FZKCNWSOLDERW2SQ1X6P78D2OD39 > Connector_Wire : SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm
-- Hex ID: FZKCNWIRESOLDERWIRE2SQ1X6P78D2OD39
+- Hex ID: FZKCNWSOLDERW2SQ1X6P78D2OD39
 - Name: Connector_Wire : SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm/
 - Description: Connector_Wire : SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm)
-- Short Link: [http://oom.lt/FZKCNWIRESOLDERWIRE2SQ1X6P78D2OD39](http://oom.lt/FZKCNWIRESOLDERWIRE2SQ1X6P78D2OD39)
+- Short Link: [http://oom.lt/FZKCNWSOLDERW2SQ1X6P78D2OD39](http://oom.lt/FZKCNWSOLDERW2SQ1X6P78D2OD39)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Wire|
 |OOMP Index|oompIndex|SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm|
-|Hex ID (short code)|hexID|FZKCNWIRESOLDERWIRE2SQ1X6P78D2OD39|
+|Hex ID (short code)|hexID|FZKCNWSOLDERW2SQ1X6P78D2OD39|
 |name|name|Connector_Wire : SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm'</td><td> 'description'</td></tr><tr><td> 'Soldered wire connection</td><td> for 6 times 2 mmÂ² wires</td><td> reinforced insulation</td><td> conductor diameter 2mm</td><td> outer diameter 3.9mm</td><td> size source Multi-Contact FLEXI-xV 2.0 (https</td></tr><tr><td>//ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf)</td><td> bend radius 3 times outer diameter</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector wire 2sqmm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Wire.3dshapes/SolderWire-2sqmm_1x06_P7.8mm_D2mm_OD3.9mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

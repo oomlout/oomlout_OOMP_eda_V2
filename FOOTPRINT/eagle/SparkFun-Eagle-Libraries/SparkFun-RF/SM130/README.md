@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SM130
 - Hex ID: FZSRFSM13
 - Name: SparkFun-RF : SM130
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/SM130/
 - Description: SparkFun-RF : SM130
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SM130](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SM130)
 - Short Link: [http://oom.lt/FZSRFSM13](http://oom.lt/FZSRFSM13)

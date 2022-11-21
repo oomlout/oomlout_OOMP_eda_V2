@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT230XS
 - Hex ID: SZKINTERFACEUFT23XS
 - Name: Interface_USB : FT230XS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FT230XS/
 - Description: Interface_USB : FT230XS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT230XS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT230XS)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT23XS](http://oom.lt/SZKINTERFACEUFT23XS)

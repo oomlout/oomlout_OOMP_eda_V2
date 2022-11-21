@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70302
 - Hex ID: SZKREGULATORLINEARTPS732
 - Name: Regulator_Linear : TPS70302
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS70302/
 - Description: Regulator_Linear : TPS70302
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70302](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70302)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS732](http://oom.lt/SZKREGULATORLINEARTPS732)

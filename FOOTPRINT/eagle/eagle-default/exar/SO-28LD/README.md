@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-SO-28LD
 - Hex ID: FZEEXARSO28LD
 - Name: exar : SO-28LD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/SO-28LD/
 - Description: exar : SO-28LD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SO-28LD](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SO-28LD)
 - Short Link: [http://oom.lt/FZEEXARSO28LD](http://oom.lt/FZEEXARSO28LD)

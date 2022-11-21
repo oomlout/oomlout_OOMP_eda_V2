@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Comchip_SCVB-L
 - Hex ID: FZKDDIODEBRIDGECOMCHIPSCVBL
 - Name: Diode_THT : Diode_Bridge_Comchip_SCVB-L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Comchip_SCVB-L/
 - Description: Diode_THT : Diode_Bridge_Comchip_SCVB-L
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Comchip_SCVB-L](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Comchip_SCVB-L)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGECOMCHIPSCVBL](http://oom.lt/FZKDDIODEBRIDGECOMCHIPSCVBL)

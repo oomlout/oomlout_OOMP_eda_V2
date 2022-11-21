@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7043xDCU
 - Hex ID: SZKANALOGADCADS743XDCU
 - Name: Analog_ADC : ADS7043xDCU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7043xDCU/
 - Description: Analog_ADC : ADS7043xDCU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7043xDCU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7043xDCU)
 - Short Link: [http://oom.lt/SZKANALOGADCADS743XDCU](http://oom.lt/SZKANALOGADCADS743XDCU)

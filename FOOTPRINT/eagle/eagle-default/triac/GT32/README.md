@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-triac-GT32
 - Hex ID: FZETRIACGT32
 - Name: triac : GT32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/triac/GT32/
 - Description: triac : GT32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-GT32](http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-GT32)
 - Short Link: [http://oom.lt/FZETRIACGT32](http://oom.lt/FZETRIACGT32)

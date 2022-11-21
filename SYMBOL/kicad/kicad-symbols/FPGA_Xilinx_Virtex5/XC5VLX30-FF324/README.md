@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX30-FF324
 - Hex ID: SZKFPGAXILINXVIRTEX5XC5VLX3FF324
 - Name: FPGA_Xilinx_Virtex5 : XC5VLX30-FF324
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex5/XC5VLX30-FF324/
 - Description: FPGA_Xilinx_Virtex5 : XC5VLX30-FF324
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX30-FF324](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX30-FF324)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VLX3FF324](http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VLX3FF324)

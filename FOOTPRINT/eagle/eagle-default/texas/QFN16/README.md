@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-QFN16
 - Hex ID: FZETEXASQFN16
 - Name: texas : QFN16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/QFN16/
 - Description: texas : QFN16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-QFN16](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-QFN16)
 - Short Link: [http://oom.lt/FZETEXASQFN16](http://oom.lt/FZETEXASQFN16)

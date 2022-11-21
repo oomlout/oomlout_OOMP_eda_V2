@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XBEE-SILK
 - Hex ID: FZSRFXBEESILK
 - Name: SparkFun-RF : XBEE-SILK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/XBEE-SILK/
 - Description: SparkFun-RF : XBEE-SILK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XBEE-SILK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XBEE-SILK)
 - Short Link: [http://oom.lt/FZSRFXBEESILK](http://oom.lt/FZSRFXBEESILK)

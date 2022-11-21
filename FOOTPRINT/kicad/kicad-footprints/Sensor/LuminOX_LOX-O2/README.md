@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor-LuminOX_LOX-O2
 - Hex ID: FZKSENLUMINOXLOXO2
 - Name: Sensor : LuminOX_LOX-O2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor/LuminOX_LOX-O2/
 - Description: Sensor : LuminOX_LOX-O2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor-LuminOX_LOX-O2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor-LuminOX_LOX-O2)
 - Short Link: [http://oom.lt/FZKSENLUMINOXLOXO2](http://oom.lt/FZKSENLUMINOXLOXO2)

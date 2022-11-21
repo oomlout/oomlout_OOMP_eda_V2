@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-DB_R-PDSO-G28
 - Hex ID: FZETEXASDBRPDSOG28
 - Name: texas : DB_R-PDSO-G28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/DB_R-PDSO-G28/
 - Description: texas : DB_R-PDSO-G28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DB_R-PDSO-G28](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DB_R-PDSO-G28)
 - Short Link: [http://oom.lt/FZETEXASDBRPDSOG28](http://oom.lt/FZETEXASDBRPDSOG28)

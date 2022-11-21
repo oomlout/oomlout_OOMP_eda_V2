@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-DIL24-6
 - Hex ID: FZEMEMORYIDTDIL246
 - Name: memory-idt : DIL24-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/DIL24-6/
 - Description: memory-idt : DIL24-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-DIL24-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-DIL24-6)
 - Short Link: [http://oom.lt/FZEMEMORYIDTDIL246](http://oom.lt/FZEMEMORYIDTDIL246)

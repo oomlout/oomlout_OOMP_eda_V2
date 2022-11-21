@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-MQFP144-RND
 - Hex ID: FZEMSIEMENSMQFP144RND
 - Name: micro-siemens : MQFP144-RND
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/MQFP144-RND/
 - Description: micro-siemens : MQFP144-RND
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-MQFP144-RND](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-MQFP144-RND)
 - Short Link: [http://oom.lt/FZEMSIEMENSMQFP144RND](http://oom.lt/FZEMSIEMENSMQFP144RND)

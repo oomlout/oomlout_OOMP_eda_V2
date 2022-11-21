@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70236_WSON6
 - Hex ID: SZKREGULATORLINEARTLV7236WSON6
 - Name: Regulator_Linear : TLV70236_WSON6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV70236_WSON6/
 - Description: Regulator_Linear : TLV70236_WSON6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70236_WSON6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70236_WSON6)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV7236WSON6](http://oom.lt/SZKREGULATORLINEARTLV7236WSON6)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-L3225P
 - Hex ID: FZESMIPCL3225P
 - Name: smd-ipc : L3225P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/L3225P/
 - Description: smd-ipc : L3225P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L3225P](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L3225P)
 - Short Link: [http://oom.lt/FZESMIPCL3225P](http://oom.lt/FZESMIPCL3225P)

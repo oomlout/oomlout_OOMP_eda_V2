@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-ROHS_LOGO_0.18_IN
 - Hex ID: FZSAROHSL18IN
 - Name: SparkFun-Aesthetics : ROHS_LOGO_0.18_IN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/ROHS_LOGO_0.18_IN/
 - Description: SparkFun-Aesthetics : ROHS_LOGO_0.18_IN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-ROHS_LOGO_0.18_IN](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-ROHS_LOGO_0.18_IN)
 - Short Link: [http://oom.lt/FZSAROHSL18IN](http://oom.lt/FZSAROHSL18IN)

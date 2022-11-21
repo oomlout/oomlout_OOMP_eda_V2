@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGES391 > ref-packages : 0309_10](#fzerefpackages391--ref-packages--0309_10)
+* [FZEREFPS391 > ref-packages : 0309_10](#fzerefps391--ref-packages--0309_10)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGES391 > ref-packages : 0309_10
+# FZEREFPS391 > ref-packages : 0309_10
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-0309_10
-- Hex ID: FZEREFPACKAGES391
+- Hex ID: FZEREFPS391
 - Name: ref-packages : 0309_10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/0309_10/
 - Description: ref-packages : 0309_10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-0309_10](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-0309_10)
-- Short Link: [http://oom.lt/FZEREFPACKAGES391](http://oom.lt/FZEREFPACKAGES391)
+- Short Link: [http://oom.lt/FZEREFPS391](http://oom.lt/FZEREFPS391)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|0309_10|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-0309_10|
-|Hex ID (short code)|hexID|FZEREFPACKAGES391|
+|Hex ID (short code)|hexID|FZEREFPS391|
 |name|name|ref-packages : 0309_10|
 ||||

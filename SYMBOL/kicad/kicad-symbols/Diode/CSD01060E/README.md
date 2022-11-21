@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-CSD01060E
 - Hex ID: SZKDIODECSD16E
 - Name: Diode : CSD01060E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/CSD01060E/
 - Description: Diode : CSD01060E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CSD01060E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CSD01060E)
 - Short Link: [http://oom.lt/SZKDIODECSD16E](http://oom.lt/SZKDIODECSD16E)

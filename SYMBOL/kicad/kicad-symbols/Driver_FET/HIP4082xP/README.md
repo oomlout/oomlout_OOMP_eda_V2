@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-HIP4082xP
 - Hex ID: SZKDRIVERFETHIP482XP
 - Name: Driver_FET : HIP4082xP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP4082xP/
 - Description: Driver_FET : HIP4082xP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP4082xP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP4082xP)
 - Short Link: [http://oom.lt/SZKDRIVERFETHIP482XP](http://oom.lt/SZKDRIVERFETHIP482XP)

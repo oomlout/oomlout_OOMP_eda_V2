@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C_6032-28R
 - Hex ID: FZAC63228R
 - Name: adafruit : C_6032-28R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C_6032-28R/
 - Description: adafruit : C_6032-28R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C_6032-28R](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C_6032-28R)
 - Short Link: [http://oom.lt/FZAC63228R](http://oom.lt/FZAC63228R)

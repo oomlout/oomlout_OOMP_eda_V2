@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-IQXO-70
 - Hex ID: SZKOCSIQXO7
 - Name: Oscillator : IQXO-70
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/IQXO-70/
 - Description: Oscillator : IQXO-70
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-IQXO-70](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-IQXO-70)
 - Short Link: [http://oom.lt/SZKOCSIQXO7](http://oom.lt/SZKOCSIQXO7)

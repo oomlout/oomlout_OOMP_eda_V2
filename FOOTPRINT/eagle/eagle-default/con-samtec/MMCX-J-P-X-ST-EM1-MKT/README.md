@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-MMCX-J-P-X-ST-EM1-MKT
 - Hex ID: FZECONSAMTECCXJPXSTEM1MKT
 - Name: con-samtec : MMCX-J-P-X-ST-EM1-MKT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/MMCX-J-P-X-ST-EM1-MKT/
 - Description: con-samtec : MMCX-J-P-X-ST-EM1-MKT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-MMCX-J-P-X-ST-EM1-MKT](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-MMCX-J-P-X-ST-EM1-MKT)
 - Short Link: [http://oom.lt/FZECONSAMTECCXJPXSTEM1MKT](http://oom.lt/FZECONSAMTECCXJPXSTEM1MKT)

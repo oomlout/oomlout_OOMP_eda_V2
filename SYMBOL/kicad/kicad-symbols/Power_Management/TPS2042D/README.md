@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TPS2042D
 - Hex ID: SZKPOWERMANAGEMENTTPS242D
 - Name: Power_Management : TPS2042D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/TPS2042D/
 - Description: Power_Management : TPS2042D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS2042D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS2042D)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTPS242D](http://oom.lt/SZKPOWERMANAGEMENTTPS242D)

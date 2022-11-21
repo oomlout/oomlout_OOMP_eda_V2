@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCAPACITORTANTALUMSMCPEIA72638AVXR > Capacitor_Tantalum_SMD : CP_EIA-7260-38_AVX-R](#fzkcapacitortantalumsmcpeia72638avxr--capacitor_tantalum_smd--cp_eia-7260-38_avx-r)
+* [FZKCCPEIA72638AVXR > Capacitor_Tantalum_SMD : CP_EIA-7260-38_AVX-R](#fzkccpeia72638avxr--capacitor_tantalum_smd--cp_eia-7260-38_avx-r)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORTANTALUMSMCPEIA72638AVXR > Capacitor_Tantalum_SMD : CP_EIA-7260-38_AVX-R
+# FZKCCPEIA72638AVXR > Capacitor_Tantalum_SMD : CP_EIA-7260-38_AVX-R
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7260-38_AVX-R
-- Hex ID: FZKCAPACITORTANTALUMSMCPEIA72638AVXR
+- Hex ID: FZKCCPEIA72638AVXR
 - Name: Capacitor_Tantalum_SMD : CP_EIA-7260-38_AVX-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7260-38_AVX-R/
 - Description: Capacitor_Tantalum_SMD : CP_EIA-7260-38_AVX-R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7260-38_AVX-R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7260-38_AVX-R)
-- Short Link: [http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA72638AVXR](http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA72638AVXR)
+- Short Link: [http://oom.lt/FZKCCPEIA72638AVXR](http://oom.lt/FZKCCPEIA72638AVXR)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_Tantalum_SMD|
 |OOMP Index|oompIndex|CP_EIA-7260-38_AVX-R|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7260-38_AVX-R|
-|Hex ID (short code)|hexID|FZKCAPACITORTANTALUMSMCPEIA72638AVXR|
+|Hex ID (short code)|hexID|FZKCCPEIA72638AVXR|
 |name|name|Capacitor_Tantalum_SMD : CP_EIA-7260-38_AVX-R|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_EIA-7260-38_AVX-R'</td><td> 'description'</td></tr><tr><td> 'Tantalum Capacitor SMD AVX-R (7260-38 Metric)</td><td> IPC_7351 nominal</td><td> (Body size from</td></tr><tr><td> http</td></tr><tr><td>//datasheets.avx.com/F72-F75.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor tantalum'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-7260-38_AVX-R.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F769BITx
 - Hex ID: SZKMCUSTSTM32F7STM32F769BITX
 - Name: MCU_ST_STM32F7 : STM32F769BITx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F769BITx/
 - Description: MCU_ST_STM32F7 : STM32F769BITx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F769BITx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F769BITx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F769BITX](http://oom.lt/SZKMCUSTSTM32F7STM32F769BITX)

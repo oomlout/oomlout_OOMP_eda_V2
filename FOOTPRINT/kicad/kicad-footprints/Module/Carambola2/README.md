@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Carambola2
 - Hex ID: FZKMOCARAMBOLA2
 - Name: Module : Carambola2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Carambola2/
 - Description: Module : Carambola2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Carambola2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Carambola2)
 - Short Link: [http://oom.lt/FZKMOCARAMBOLA2](http://oom.lt/FZKMOCARAMBOLA2)

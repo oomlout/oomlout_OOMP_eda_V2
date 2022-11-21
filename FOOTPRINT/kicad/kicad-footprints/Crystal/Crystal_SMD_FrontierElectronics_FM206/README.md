@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FrontierElectronics_FM206
 - Hex ID: FZKXXSMFRONTIERELECTRONICSFM26
 - Name: Crystal : Crystal_SMD_FrontierElectronics_FM206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FrontierElectronics_FM206/
 - Description: Crystal : Crystal_SMD_FrontierElectronics_FM206
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FrontierElectronics_FM206](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FrontierElectronics_FM206)
 - Short Link: [http://oom.lt/FZKXXSMFRONTIERELECTRONICSFM26](http://oom.lt/FZKXXSMFRONTIERELECTRONICSFM26)

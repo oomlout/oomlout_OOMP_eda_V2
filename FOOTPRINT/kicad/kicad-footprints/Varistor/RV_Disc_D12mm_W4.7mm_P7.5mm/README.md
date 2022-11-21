@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D12mm_W4.7mm_P7.5mm
 - Hex ID: FZKVRVDISCD12W47P75
 - Name: Varistor : RV_Disc_D12mm_W4.7mm_P7.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.7mm_P7.5mm/
 - Description: Varistor : RV_Disc_D12mm_W4.7mm_P7.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D12mm_W4.7mm_P7.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D12mm_W4.7mm_P7.5mm)
 - Short Link: [http://oom.lt/FZKVRVDISCD12W47P75](http://oom.lt/FZKVRVDISCD12W47P75)

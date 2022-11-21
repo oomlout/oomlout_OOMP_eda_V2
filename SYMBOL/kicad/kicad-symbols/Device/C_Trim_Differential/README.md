@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-C_Trim_Differential
 - Hex ID: SZKDEVICECTRIMDIFFERENTIAL
 - Name: Device : C_Trim_Differential
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/C_Trim_Differential/
 - Description: Device : C_Trim_Differential
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Trim_Differential](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Trim_Differential)
 - Short Link: [http://oom.lt/SZKDEVICECTRIMDIFFERENTIAL](http://oom.lt/SZKDEVICECTRIMDIFFERENTIAL)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X30-0.7MM
 - Hex ID: FZA1X37
 - Name: adafruit : 1X30-0.7MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X30-0.7MM/
 - Description: adafruit : 1X30-0.7MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X30-0.7MM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X30-0.7MM)
 - Short Link: [http://oom.lt/FZA1X37](http://oom.lt/FZA1X37)

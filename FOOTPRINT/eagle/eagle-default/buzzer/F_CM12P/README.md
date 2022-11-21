@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_CM12P
 - Hex ID: FZEBUZZERFCM12P
 - Name: buzzer : F_CM12P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_CM12P/
 - Description: buzzer : F_CM12P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_CM12P](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_CM12P)
 - Short Link: [http://oom.lt/FZEBUZZERFCM12P](http://oom.lt/FZEBUZZERFCM12P)

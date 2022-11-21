@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSMISC15 > inductors : MISC15](#fzeinductorsmisc15--inductors--misc15)
+* [FZEINSMISC15 > inductors : MISC15](#fzeinsmisc15--inductors--misc15)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSMISC15 > inductors : MISC15
+# FZEINSMISC15 > inductors : MISC15
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-MISC15
-- Hex ID: FZEINDUCTORSMISC15
+- Hex ID: FZEINSMISC15
 - Name: inductors : MISC15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/MISC15/
 - Description: inductors : MISC15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-MISC15](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-MISC15)
-- Short Link: [http://oom.lt/FZEINDUCTORSMISC15](http://oom.lt/FZEINDUCTORSMISC15)
+- Short Link: [http://oom.lt/FZEINSMISC15](http://oom.lt/FZEINSMISC15)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|MISC15|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-MISC15|
-|Hex ID (short code)|hexID|FZEINDUCTORSMISC15|
+|Hex ID (short code)|hexID|FZEINSMISC15|
 |name|name|inductors : MISC15|
 ||||

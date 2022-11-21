@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-28T-TSOP-1
 - Hex ID: FZEATMEL28TTS1
 - Name: atmel : 28T-TSOP-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/28T-TSOP-1/
 - Description: atmel : 28T-TSOP-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-28T-TSOP-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-28T-TSOP-1)
 - Short Link: [http://oom.lt/FZEATMEL28TTS1](http://oom.lt/FZEATMEL28TTS1)

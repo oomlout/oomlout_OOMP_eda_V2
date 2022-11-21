@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4841-1YRJ
 - Hex ID: SZKAMPLIFIEROPERATIONALADA48411YRJ
 - Name: Amplifier_Operational : ADA4841-1YRJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4841-1YRJ/
 - Description: Amplifier_Operational : ADA4841-1YRJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4841-1YRJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4841-1YRJ)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA48411YRJ](http://oom.lt/SZKAMPLIFIEROPERATIONALADA48411YRJ)

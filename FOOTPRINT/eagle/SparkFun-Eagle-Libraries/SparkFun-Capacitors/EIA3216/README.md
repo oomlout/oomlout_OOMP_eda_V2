@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA3216
 - Hex ID: FZSCEIA3216
 - Name: SparkFun-Capacitors : EIA3216
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/EIA3216/
 - Description: SparkFun-Capacitors : EIA3216
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA3216](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA3216)
 - Short Link: [http://oom.lt/FZSCEIA3216](http://oom.lt/FZSCEIA3216)

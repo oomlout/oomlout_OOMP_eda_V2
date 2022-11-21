@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-F126Z12
 - Hex ID: FZAF126Z12
 - Name: adafruit : F126Z12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/F126Z12/
 - Description: adafruit : F126Z12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-F126Z12](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-F126Z12)
 - Short Link: [http://oom.lt/FZAF126Z12](http://oom.lt/FZAF126Z12)

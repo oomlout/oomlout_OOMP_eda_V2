@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCFEMALEE8124151 > digikey-footprints : USB-C_Female_E8124-015-01](#fzkicaddigikeykicadlibrarydigikeyfootprintsucfemalee8124151--digikey-footprints--usb-c_female_e8124-015-01)
+* [FZDIGIDIGIKEYFOOTPRINTSUCFE8124151 > digikey-footprints : USB-C_Female_E8124-015-01](#fzdigidigikeyfootprintsucfe8124151--digikey-footprints--usb-c_female_e8124-015-01)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCFEMALEE8124151 > digikey-footprints : USB-C_Female_E8124-015-01
+# FZDIGIDIGIKEYFOOTPRINTSUCFE8124151 > digikey-footprints : USB-C_Female_E8124-015-01
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_E8124-015-01
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCFEMALEE8124151
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSUCFE8124151
 - Name: digikey-footprints : USB-C_Female_E8124-015-01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Female_E8124-015-01/
 - Description: digikey-footprints : USB-C_Female_E8124-015-01
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_E8124-015-01](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_E8124-015-01)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCFEMALEE8124151](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCFEMALEE8124151)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCFE8124151](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCFE8124151)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|USB-C_Female_E8124-015-01|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_E8124-015-01|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCFEMALEE8124151|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSUCFE8124151|
 |name|name|digikey-footprints : USB-C_Female_E8124-015-01|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB-C_Female_E8124-015-01'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.digikey.com/product-detail/en/pulse-electronics-network/E8124-015-01/553-3195-2-ND/5800435'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

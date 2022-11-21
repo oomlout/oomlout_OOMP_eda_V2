@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Difference-INA105KP
 - Hex ID: SZKAMPLIFIERDIFFERENCEINA15KP
 - Name: Amplifier_Difference : INA105KP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/INA105KP/
 - Description: Amplifier_Difference : INA105KP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-INA105KP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-INA105KP)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCEINA15KP](http://oom.lt/SZKAMPLIFIERDIFFERENCEINA15KP)

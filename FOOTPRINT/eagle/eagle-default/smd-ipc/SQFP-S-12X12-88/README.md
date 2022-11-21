@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-12X12-88
 - Hex ID: FZESMIPCSQFPS12X1288
 - Name: smd-ipc : SQFP-S-12X12-88
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SQFP-S-12X12-88/
 - Description: smd-ipc : SQFP-S-12X12-88
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-12X12-88](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-12X12-88)
 - Short Link: [http://oom.lt/FZESMIPCSQFPS12X1288](http://oom.lt/FZESMIPCSQFPS12X1288)

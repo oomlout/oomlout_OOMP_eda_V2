@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-wafer-scale-psd-TQFP80
 - Hex ID: FZEWAFERSCALEPSDTQFP8
 - Name: wafer-scale-psd : TQFP80
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/wafer-scale-psd/TQFP80/
 - Description: wafer-scale-psd : TQFP80
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-wafer-scale-psd-TQFP80](http://oom.lt/FOOTPRINT-eagle-eagle-default-wafer-scale-psd-TQFP80)
 - Short Link: [http://oom.lt/FZEWAFERSCALEPSDTQFP8](http://oom.lt/FZEWAFERSCALEPSDTQFP8)

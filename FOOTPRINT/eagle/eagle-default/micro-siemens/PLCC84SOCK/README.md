@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-PLCC84SOCK
 - Hex ID: FZEMSIEMENSPLCC84SOCK
 - Name: micro-siemens : PLCC84SOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/PLCC84SOCK/
 - Description: micro-siemens : PLCC84SOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PLCC84SOCK](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PLCC84SOCK)
 - Short Link: [http://oom.lt/FZEMSIEMENSPLCC84SOCK](http://oom.lt/FZEMSIEMENSPLCC84SOCK)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Jumper-Jumper_3_Bridged12
 - Hex ID: SZKJJ3BRIDGED12
 - Name: Jumper : Jumper_3_Bridged12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_3_Bridged12/
 - Description: Jumper : Jumper_3_Bridged12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_3_Bridged12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_3_Bridged12)
 - Short Link: [http://oom.lt/SZKJJ3BRIDGED12](http://oom.lt/SZKJJ3BRIDGED12)

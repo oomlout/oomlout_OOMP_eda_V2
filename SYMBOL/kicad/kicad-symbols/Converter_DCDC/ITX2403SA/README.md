@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2403SA
 - Hex ID: SZKCONITX243SA
 - Name: Converter_DCDC : ITX2403SA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2403SA/
 - Description: Converter_DCDC : ITX2403SA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2403SA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2403SA)
 - Short Link: [http://oom.lt/SZKCONITX243SA](http://oom.lt/SZKCONITX243SA)

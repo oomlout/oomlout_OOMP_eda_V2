@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA818xDRG
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA818XDRG
 - Name: Amplifier_Operational : OPA818xDRG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA818xDRG/
 - Description: Amplifier_Operational : OPA818xDRG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA818xDRG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA818xDRG)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA818XDRG](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA818XDRG)

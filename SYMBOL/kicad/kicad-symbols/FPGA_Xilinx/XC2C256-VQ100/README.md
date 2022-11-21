@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2C256-VQ100
 - Hex ID: SZKFPGAXILINXXC2C256VQ1
 - Name: FPGA_Xilinx : XC2C256-VQ100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2C256-VQ100/
 - Description: FPGA_Xilinx : XC2C256-VQ100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2C256-VQ100](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2C256-VQ100)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC2C256VQ1](http://oom.lt/SZKFPGAXILINXXC2C256VQ1)

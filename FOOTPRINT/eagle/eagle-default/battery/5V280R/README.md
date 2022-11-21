@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-5V280R
 - Hex ID: FZEBAT5V28R
 - Name: battery : 5V280R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/5V280R/
 - Description: battery : 5V280R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-5V280R](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-5V280R)
 - Short Link: [http://oom.lt/FZEBAT5V28R](http://oom.lt/FZEBAT5V28R)

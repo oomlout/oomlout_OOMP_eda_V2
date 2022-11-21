@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-traco-electronic-TRACOPOWER2W
 - Hex ID: FZETRACOELECTRONICTRACOPOWER2W
 - Name: traco-electronic : TRACOPOWER2W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/traco-electronic/TRACOPOWER2W/
 - Description: traco-electronic : TRACOPOWER2W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-traco-electronic-TRACOPOWER2W](http://oom.lt/FOOTPRINT-eagle-eagle-default-traco-electronic-TRACOPOWER2W)
 - Short Link: [http://oom.lt/FZETRACOELECTRONICTRACOPOWER2W](http://oom.lt/FZETRACOELECTRONICTRACOPOWER2W)

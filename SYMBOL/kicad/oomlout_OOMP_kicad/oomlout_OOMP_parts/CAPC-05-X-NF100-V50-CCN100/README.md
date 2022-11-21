@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC5XNF1V5CCN1 > oomlout_OOMP_parts : CAPC-05-X-NF100-V50-CCN100](#szkicadoomloutoompkicadoomloutoomppartscapc5xnf1v5ccn1--oomlout_oomp_parts--capc-05-x-nf100-v50-ccn100)
+* [SZOOMPKOOMPPCAPC5XNF1V5CCN1 > oomlout_OOMP_parts : CAPC-05-X-NF100-V50-CCN100](#szoompkoomppcapc5xnf1v5ccn1--oomlout_oomp_parts--capc-05-x-nf100-v50-ccn100)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC5XNF1V5CCN1 > oomlout_OOMP_parts : CAPC-05-X-NF100-V50-CCN100
+# SZOOMPKOOMPPCAPC5XNF1V5CCN1 > oomlout_OOMP_parts : CAPC-05-X-NF100-V50-CCN100
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-05-X-NF100-V50-CCN100
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC5XNF1V5CCN1
+- Hex ID: SZOOMPKOOMPPCAPC5XNF1V5CCN1
 - Name: oomlout_OOMP_parts : CAPC-05-X-NF100-V50-CCN100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-05-X-NF100-V50-CCN100/
 - Description: oomlout_OOMP_parts : CAPC-05-X-NF100-V50-CCN100
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-05-X-NF100-V50-CCN100](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-05-X-NF100-V50-CCN100)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC5XNF1V5CCN1](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC5XNF1V5CCN1)
+- Short Link: [http://oom.lt/SZOOMPKOOMPPCAPC5XNF1V5CCN1](http://oom.lt/SZOOMPKOOMPPCAPC5XNF1V5CCN1)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +31,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|CAPC-05-X-NF100-V50-CCN100|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-05-X-NF100-V50-CCN100|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC5XNF1V5CCN1|
+|Hex ID (short code)|hexID|SZOOMPKOOMPPCAPC5XNF1V5CCN1|
 |name|name|oomlout_OOMP_parts : CAPC-05-X-NF100-V50-CCN100|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-05-X-NF100-V50-CCN100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-05-X-NF100-V50-CCN100'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/CCN100'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> CCN100;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

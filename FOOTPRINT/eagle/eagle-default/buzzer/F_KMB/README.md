@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_KMB
 - Hex ID: FZEBUZZERFKMB
 - Name: buzzer : F_KMB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_KMB/
 - Description: buzzer : F_KMB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_KMB](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_KMB)
 - Short Link: [http://oom.lt/FZEBUZZERFKMB](http://oom.lt/FZEBUZZERFKMB)

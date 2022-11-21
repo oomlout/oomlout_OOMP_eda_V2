@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF6045xDGK
 - Hex ID: SZKREFERENCEVOLTAGEREF645XDGK
 - Name: Reference_Voltage : REF6045xDGK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF6045xDGK/
 - Description: Reference_Voltage : REF6045xDGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF6045xDGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF6045xDGK)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF645XDGK](http://oom.lt/SZKREFERENCEVOLTAGEREF645XDGK)

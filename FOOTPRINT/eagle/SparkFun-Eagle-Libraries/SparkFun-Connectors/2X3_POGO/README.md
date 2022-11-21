@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X3_POGO
 - Hex ID: FZSSPARKFUNCNS2X3POGO
 - Name: SparkFun-Connectors : 2X3_POGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/2X3_POGO/
 - Description: SparkFun-Connectors : 2X3_POGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X3_POGO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X3_POGO)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS2X3POGO](http://oom.lt/FZSSPARKFUNCNS2X3POGO)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-PAC1934x-xJQ
 - Hex ID: SZKANALOGADCPAC1934XXJQ
 - Name: Analog_ADC : PAC1934x-xJQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/PAC1934x-xJQ/
 - Description: Analog_ADC : PAC1934x-xJQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-PAC1934x-xJQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-PAC1934x-xJQ)
 - Short Link: [http://oom.lt/SZKANALOGADCPAC1934XXJQ](http://oom.lt/SZKANALOGADCPAC1934XXJQ)

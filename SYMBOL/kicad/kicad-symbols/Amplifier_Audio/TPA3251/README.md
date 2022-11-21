@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA3251
 - Hex ID: SZKAMPLIFIERAUDIOTPA3251
 - Name: Amplifier_Audio : TPA3251
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TPA3251/
 - Description: Amplifier_Audio : TPA3251
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA3251](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA3251)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTPA3251](http://oom.lt/SZKAMPLIFIERAUDIOTPA3251)

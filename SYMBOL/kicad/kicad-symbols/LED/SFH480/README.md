@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-SFH480
 - Hex ID: SZKLSFH48
 - Name: LED : SFH480
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SFH480/
 - Description: LED : SFH480
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH480](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH480)
 - Short Link: [http://oom.lt/SZKLSFH48](http://oom.lt/SZKLSFH48)

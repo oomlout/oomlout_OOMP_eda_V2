@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FUSB302B11MPX
 - Hex ID: SZKINTERFACEUFU32B11MPX
 - Name: Interface_USB : FUSB302B11MPX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FUSB302B11MPX/
 - Description: Interface_USB : FUSB302B11MPX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FUSB302B11MPX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FUSB302B11MPX)
 - Short Link: [http://oom.lt/SZKINTERFACEUFU32B11MPX](http://oom.lt/SZKINTERFACEUFU32B11MPX)

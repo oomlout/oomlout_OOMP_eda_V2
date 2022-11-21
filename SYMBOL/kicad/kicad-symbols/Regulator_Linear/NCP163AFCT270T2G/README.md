@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163AFCT270T2G
 - Hex ID: SZKREGULATORLINEARNCP163AFCT27T2G
 - Name: Regulator_Linear : NCP163AFCT270T2G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP163AFCT270T2G/
 - Description: Regulator_Linear : NCP163AFCT270T2G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163AFCT270T2G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163AFCT270T2G)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP163AFCT27T2G](http://oom.lt/SZKREGULATORLINEARNCP163AFCT27T2G)

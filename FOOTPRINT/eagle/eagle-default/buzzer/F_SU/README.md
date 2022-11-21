@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_SU
 - Hex ID: FZEBUZZERFSU
 - Name: buzzer : F_SU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_SU/
 - Description: buzzer : F_SU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_SU](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_SU)
 - Short Link: [http://oom.lt/FZEBUZZERFSU](http://oom.lt/FZEBUZZERFSU)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5139
 - Hex ID: SZKANALOGDACMAX5139
 - Name: Analog_DAC : MAX5139
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MAX5139/
 - Description: Analog_DAC : MAX5139
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5139](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5139)
 - Short Link: [http://oom.lt/SZKANALOGDACMAX5139](http://oom.lt/SZKANALOGDACMAX5139)

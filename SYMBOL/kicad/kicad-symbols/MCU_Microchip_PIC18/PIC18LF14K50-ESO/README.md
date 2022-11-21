@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF14K50-ESO
 - Hex ID: SZKMCUMCHIPPIC18PIC18LF14K5ESO
 - Name: MCU_Microchip_PIC18 : PIC18LF14K50-ESO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF14K50-ESO/
 - Description: MCU_Microchip_PIC18 : PIC18LF14K50-ESO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF14K50-ESO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF14K50-ESO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF14K5ESO](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF14K5ESO)

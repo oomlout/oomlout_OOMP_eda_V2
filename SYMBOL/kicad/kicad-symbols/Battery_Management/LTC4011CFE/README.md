@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4011CFE
 - Hex ID: SZKBATMANAGEMENTLTC411CFE
 - Name: Battery_Management : LTC4011CFE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4011CFE/
 - Description: Battery_Management : LTC4011CFE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4011CFE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4011CFE)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC411CFE](http://oom.lt/SZKBATMANAGEMENTLTC411CFE)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CK605_LandPatternPL-012
 - Hex ID: FZKRFMCIRCUITSCK65LANDPATTERNPL12
 - Name: RF_Mini-Circuits : Mini-Circuits_CK605_LandPatternPL-012
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CK605_LandPatternPL-012/
 - Description: RF_Mini-Circuits : Mini-Circuits_CK605_LandPatternPL-012
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CK605_LandPatternPL-012](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CK605_LandPatternPL-012)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSCK65LANDPATTERNPL12](http://oom.lt/FZKRFMCIRCUITSCK65LANDPATTERNPL12)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_OPTOISOLATOR-BOB
 - Hex ID: FZSBOSPARKFUNOPTOISOLATORBOB
 - Name: SparkFun-Boards : SPARKFUN_OPTOISOLATOR-BOB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SPARKFUN_OPTOISOLATOR-BOB/
 - Description: SparkFun-Boards : SPARKFUN_OPTOISOLATOR-BOB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_OPTOISOLATOR-BOB](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_OPTOISOLATOR-BOB)
 - Short Link: [http://oom.lt/FZSBOSPARKFUNOPTOISOLATORBOB](http://oom.lt/FZSBOSPARKFUNOPTOISOLATORBOB)

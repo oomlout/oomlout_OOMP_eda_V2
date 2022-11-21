@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4055
 - Hex ID: SZKBATMANAGEMENTLTC455
 - Name: Battery_Management : LTC4055
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4055/
 - Description: Battery_Management : LTC4055
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4055](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4055)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC455](http://oom.lt/SZKBATMANAGEMENTLTC455)

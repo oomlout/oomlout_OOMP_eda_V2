@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Audio_Module-Reverb_BTDR-1V
 - Hex ID: FZKAREVERBBTDR1V
 - Name: Audio_Module : Reverb_BTDR-1V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Audio_Module/Reverb_BTDR-1V/
 - Description: Audio_Module : Reverb_BTDR-1V
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Audio_Module-Reverb_BTDR-1V](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Audio_Module-Reverb_BTDR-1V)
 - Short Link: [http://oom.lt/FZKAREVERBBTDR1V](http://oom.lt/FZKAREVERBBTDR1V)

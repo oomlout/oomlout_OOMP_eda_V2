@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDFN63X3EP1 > digikey-footprints : DFN-6_3x3mm_EP1](#fzkicaddigikeykicadlibrarydigikeyfootprintsdfn63x3ep1--digikey-footprints--dfn-6_3x3mm_ep1)
+* [FZDIGIDIGIKEYFOOTPRINTSDFN63X3EP1 > digikey-footprints : DFN-6_3x3mm_EP1](#fzdigidigikeyfootprintsdfn63x3ep1--digikey-footprints--dfn-6_3x3mm_ep1)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDFN63X3EP1 > digikey-footprints : DFN-6_3x3mm_EP1
+# FZDIGIDIGIKEYFOOTPRINTSDFN63X3EP1 > digikey-footprints : DFN-6_3x3mm_EP1
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DFN-6_3x3mm_EP1
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDFN63X3EP1
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSDFN63X3EP1
 - Name: digikey-footprints : DFN-6_3x3mm_EP1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DFN-6_3x3mm_EP1/
 - Description: digikey-footprints : DFN-6_3x3mm_EP1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DFN-6_3x3mm_EP1](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DFN-6_3x3mm_EP1)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDFN63X3EP1](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDFN63X3EP1)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDFN63X3EP1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDFN63X3EP1)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|DFN-6_3x3mm_EP1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DFN-6_3x3mm_EP1|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDFN63X3EP1|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSDFN63X3EP1|
 |name|name|digikey-footprints : DFN-6_3x3mm_EP1|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-6_3x3mm_EP1'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

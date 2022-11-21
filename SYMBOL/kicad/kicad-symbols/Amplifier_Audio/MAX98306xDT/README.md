@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX98306xDT
 - Hex ID: SZKAMPLIFIERAUDIOMAX9836XDT
 - Name: Amplifier_Audio : MAX98306xDT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/MAX98306xDT/
 - Description: Amplifier_Audio : MAX98306xDT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX98306xDT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX98306xDT)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOMAX9836XDT](http://oom.lt/SZKAMPLIFIERAUDIOMAX9836XDT)

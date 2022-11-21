@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-GT32
 - Hex ID: FZEDIODEGT32
 - Name: diode : GT32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/GT32/
 - Description: diode : GT32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-GT32](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-GT32)
 - Short Link: [http://oom.lt/FZEDIODEGT32](http://oom.lt/FZEDIODEGT32)

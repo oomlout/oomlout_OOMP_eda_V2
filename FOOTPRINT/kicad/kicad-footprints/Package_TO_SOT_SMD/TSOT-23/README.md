@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMTSOT23 > Package_TO_SOT_SMD : TSOT-23](#fzkpackagetosotsmtsot23--package_to_sot_smd--tsot-23)
+* [FZKSOTTSOT23 > Package_TO_SOT_SMD : TSOT-23](#fzksottsot23--package_to_sot_smd--tsot-23)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMTSOT23 > Package_TO_SOT_SMD : TSOT-23
+# FZKSOTTSOT23 > Package_TO_SOT_SMD : TSOT-23
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TSOT-23
-- Hex ID: FZKPACKAGETOSOTSMTSOT23
+- Hex ID: FZKSOTTSOT23
 - Name: Package_TO_SOT_SMD : TSOT-23
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TSOT-23/
 - Description: Package_TO_SOT_SMD : TSOT-23
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TSOT-23](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TSOT-23)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMTSOT23](http://oom.lt/FZKPACKAGETOSOTSMTSOT23)
+- Short Link: [http://oom.lt/FZKSOTTSOT23](http://oom.lt/FZKSOTTSOT23)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|TSOT-23|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TSOT-23|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTSOT23|
+|Hex ID (short code)|hexID|FZKSOTTSOT23|
 |name|name|Package_TO_SOT_SMD : TSOT-23|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TSOT-23'</td><td> 'description'</td></tr><tr><td> '3-pin TSOT23 package</td><td> http</td></tr><tr><td>//www.analog.com.tw/pdf/All_In_One.pdf'</td><td> 'tags'</td></tr><tr><td> 'TSOT-23'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/TSOT-23.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

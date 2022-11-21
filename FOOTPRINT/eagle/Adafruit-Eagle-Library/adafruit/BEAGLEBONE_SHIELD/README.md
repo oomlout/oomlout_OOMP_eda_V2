@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BEAGLEBONE_SHIELD
 - Hex ID: FZABEBSH
 - Name: adafruit : BEAGLEBONE_SHIELD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/BEAGLEBONE_SHIELD/
 - Description: adafruit : BEAGLEBONE_SHIELD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BEAGLEBONE_SHIELD](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BEAGLEBONE_SHIELD)
 - Short Link: [http://oom.lt/FZABEBSH](http://oom.lt/FZABEBSH)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0102DCU
 - Hex ID: SZKLOGICLEVELTRANSLATORTXS12DCU
 - Name: Logic_LevelTranslator : TXS0102DCU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXS0102DCU/
 - Description: Logic_LevelTranslator : TXS0102DCU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0102DCU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0102DCU)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXS12DCU](http://oom.lt/SZKLOGICLEVELTRANSLATORTXS12DCU)

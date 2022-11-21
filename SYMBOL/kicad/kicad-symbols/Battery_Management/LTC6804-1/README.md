@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LTC6804-1
 - Hex ID: SZKBATMANAGEMENTLTC6841
 - Name: Battery_Management : LTC6804-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC6804-1/
 - Description: Battery_Management : LTC6804-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC6804-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC6804-1)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC6841](http://oom.lt/SZKBATMANAGEMENTLTC6841)

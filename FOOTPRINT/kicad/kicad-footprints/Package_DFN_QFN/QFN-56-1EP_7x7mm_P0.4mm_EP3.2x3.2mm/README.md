@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm
 - Hex ID: FZKDFNQFN561EP7X7P4EP32X32
 - Name: Package_DFN_QFN : QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm/
 - Description: Package_DFN_QFN : QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm)
 - Short Link: [http://oom.lt/FZKDFNQFN561EP7X7P4EP32X32](http://oom.lt/FZKDFNQFN561EP7X7P4EP32X32)

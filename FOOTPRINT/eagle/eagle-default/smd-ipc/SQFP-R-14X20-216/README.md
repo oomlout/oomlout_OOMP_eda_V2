@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-R-14X20-216
 - Hex ID: FZESMIPCSQFPR14X2216
 - Name: smd-ipc : SQFP-R-14X20-216
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SQFP-R-14X20-216/
 - Description: smd-ipc : SQFP-R-14X20-216
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-R-14X20-216](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-R-14X20-216)
 - Short Link: [http://oom.lt/FZESMIPCSQFPR14X2216](http://oom.lt/FZESMIPCSQFPR14X2216)

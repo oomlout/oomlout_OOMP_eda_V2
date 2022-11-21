@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO08-EIAJ_MCU
 - Hex ID: FZSRTSO8EIAJMCU
 - Name: SparkFun-Retired : SO08-EIAJ_MCU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SO08-EIAJ_MCU/
 - Description: SparkFun-Retired : SO08-EIAJ_MCU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO08-EIAJ_MCU](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO08-EIAJ_MCU)
 - Short Link: [http://oom.lt/FZSRTSO8EIAJMCU](http://oom.lt/FZSRTSO8EIAJMCU)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS50080-1TMA
 - Hex ID: SZKPOWERMANAGEMENTBTS581TMA
 - Name: Power_Management : BTS50080-1TMA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50080-1TMA/
 - Description: Power_Management : BTS50080-1TMA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS50080-1TMA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS50080-1TMA)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS581TMA](http://oom.lt/SZKPOWERMANAGEMENTBTS581TMA)

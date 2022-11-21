@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5510IRGZ
 - Hex ID: SZKMCUTEXASMSP43MSP43F551IRGZ
 - Name: MCU_Texas_MSP430 : MSP430F5510IRGZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F5510IRGZ/
 - Description: MCU_Texas_MSP430 : MSP430F5510IRGZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5510IRGZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5510IRGZ)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F551IRGZ](http://oom.lt/SZKMCUTEXASMSP43MSP43F551IRGZ)

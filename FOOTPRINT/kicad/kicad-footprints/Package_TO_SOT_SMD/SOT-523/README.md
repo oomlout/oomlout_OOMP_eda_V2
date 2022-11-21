@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMSOT523 > Package_TO_SOT_SMD : SOT-523](#fzkpackagetosotsmsot523--package_to_sot_smd--sot-523)
+* [FZKSOTSOT523 > Package_TO_SOT_SMD : SOT-523](#fzksotsot523--package_to_sot_smd--sot-523)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMSOT523 > Package_TO_SOT_SMD : SOT-523
+# FZKSOTSOT523 > Package_TO_SOT_SMD : SOT-523
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-523
-- Hex ID: FZKPACKAGETOSOTSMSOT523
+- Hex ID: FZKSOTSOT523
 - Name: Package_TO_SOT_SMD : SOT-523
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-523/
 - Description: Package_TO_SOT_SMD : SOT-523
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-523](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-523)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMSOT523](http://oom.lt/FZKPACKAGETOSOTSMSOT523)
+- Short Link: [http://oom.lt/FZKSOTSOT523](http://oom.lt/FZKSOTSOT523)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SOT-523|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-523|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT523|
+|Hex ID (short code)|hexID|FZKSOTSOT523|
 |name|name|Package_TO_SOT_SMD : SOT-523|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-523'</td><td> 'description'</td></tr><tr><td> 'SOT523</td><td> https</td></tr><tr><td>//www.diodes.com/assets/Package-Files/SOT523.pdf'</td><td> 'tags'</td></tr><tr><td> 'SOT-523'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-523.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

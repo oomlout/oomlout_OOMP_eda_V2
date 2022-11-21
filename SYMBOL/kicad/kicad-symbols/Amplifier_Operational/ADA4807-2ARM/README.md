@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4807-2ARM
 - Hex ID: SZKAMPLIFIEROPERATIONALADA4872ARM
 - Name: Amplifier_Operational : ADA4807-2ARM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4807-2ARM/
 - Description: Amplifier_Operational : ADA4807-2ARM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4807-2ARM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4807-2ARM)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA4872ARM](http://oom.lt/SZKAMPLIFIEROPERATIONALADA4872ARM)

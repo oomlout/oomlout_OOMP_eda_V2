@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-AC04
 - Hex ID: FZERESISTORPOWERAC4
 - Name: resistor-power : AC04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/AC04/
 - Description: resistor-power : AC04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-AC04](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-AC04)
 - Short Link: [http://oom.lt/FZERESISTORPOWERAC4](http://oom.lt/FZERESISTORPOWERAC4)

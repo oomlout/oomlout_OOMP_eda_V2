@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOINFINEONPGDSO23THERMALVIAS > Package_SO : Infineon_PG-DSO-20-30_ThermalVias](#fzksoinfineonpgdso23thermalvias--package_so--infineon_pg-dso-20-30_thermalvias)
+* [FZKSOINFINEONPGDSO23THV > Package_SO : Infineon_PG-DSO-20-30_ThermalVias](#fzksoinfineonpgdso23thv--package_so--infineon_pg-dso-20-30_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOINFINEONPGDSO23THERMALVIAS > Package_SO : Infineon_PG-DSO-20-30_ThermalVias
+# FZKSOINFINEONPGDSO23THV > Package_SO : Infineon_PG-DSO-20-30_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-20-30_ThermalVias
-- Hex ID: FZKSOINFINEONPGDSO23THERMALVIAS
+- Hex ID: FZKSOINFINEONPGDSO23THV
 - Name: Package_SO : Infineon_PG-DSO-20-30_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-20-30_ThermalVias/
 - Description: Package_SO : Infineon_PG-DSO-20-30_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-20-30_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-20-30_ThermalVias)
-- Short Link: [http://oom.lt/FZKSOINFINEONPGDSO23THERMALVIAS](http://oom.lt/FZKSOINFINEONPGDSO23THERMALVIAS)
+- Short Link: [http://oom.lt/FZKSOINFINEONPGDSO23THV](http://oom.lt/FZKSOINFINEONPGDSO23THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_SO|
 |OOMP Index|oompIndex|Infineon_PG-DSO-20-30_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-20-30_ThermalVias|
-|Hex ID (short code)|hexID|FZKSOINFINEONPGDSO23THERMALVIAS|
+|Hex ID (short code)|hexID|FZKSOINFINEONPGDSO23THV|
 |name|name|Package_SO : Infineon_PG-DSO-20-30_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Infineon_PG-DSO-20-30_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'Infineon SO package 20pin</td><td> exposed pad 4.5x7mm (https</td></tr><tr><td>//www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-20-71/)'</td><td> 'tags'</td></tr><tr><td> 'DSO-20'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/Infineon_PG-DSO-20-30.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

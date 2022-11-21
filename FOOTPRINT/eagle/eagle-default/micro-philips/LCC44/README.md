@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-LCC44
 - Hex ID: FZEMPHILIPSLCC44
 - Name: micro-philips : LCC44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/LCC44/
 - Description: micro-philips : LCC44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-LCC44](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-LCC44)
 - Short Link: [http://oom.lt/FZEMPHILIPSLCC44](http://oom.lt/FZEMPHILIPSLCC44)

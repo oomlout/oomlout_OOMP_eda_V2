@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Matias_ISOEnter
 - Hex ID: FZKBSWMATIASISOENTER
 - Name: Button_Switch_Keyboard : SW_Matias_ISOEnter
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Matias_ISOEnter/
 - Description: Button_Switch_Keyboard : SW_Matias_ISOEnter
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Matias_ISOEnter](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Matias_ISOEnter)
 - Short Link: [http://oom.lt/FZKBSWMATIASISOENTER](http://oom.lt/FZKBSWMATIASISOENTER)

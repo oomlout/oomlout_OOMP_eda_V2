@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51051BRHL
 - Hex ID: SZKBATMANAGEMENTBQ5151BRHL
 - Name: Battery_Management : BQ51051BRHL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51051BRHL/
 - Description: Battery_Management : BQ51051BRHL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51051BRHL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51051BRHL)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ5151BRHL](http://oom.lt/SZKBATMANAGEMENTBQ5151BRHL)

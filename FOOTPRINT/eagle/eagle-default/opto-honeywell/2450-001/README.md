@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-2450-001
 - Hex ID: FZEOPTOHONEYWELL2451
 - Name: opto-honeywell : 2450-001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/2450-001/
 - Description: opto-honeywell : 2450-001
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-2450-001](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-2450-001)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELL2451](http://oom.lt/FZEOPTOHONEYWELL2451)

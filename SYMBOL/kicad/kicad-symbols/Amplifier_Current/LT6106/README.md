@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-LT6106
 - Hex ID: SZKAMPLIFIERCURRENTLT616
 - Name: Amplifier_Current : LT6106
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/LT6106/
 - Description: Amplifier_Current : LT6106
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-LT6106](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-LT6106)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTLT616](http://oom.lt/SZKAMPLIFIERCURRENTLT616)

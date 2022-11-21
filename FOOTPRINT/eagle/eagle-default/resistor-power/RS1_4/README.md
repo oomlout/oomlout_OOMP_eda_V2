@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-RS1_4
 - Hex ID: FZERESISTORPOWERRS14
 - Name: resistor-power : RS1_4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/RS1_4/
 - Description: resistor-power : RS1_4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RS1_4](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RS1_4)
 - Short Link: [http://oom.lt/FZERESISTORPOWERRS14](http://oom.lt/FZERESISTORPOWERRS14)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SIL05C
 - Hex ID: FZEDIODESIL5C
 - Name: diode : SIL05C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SIL05C/
 - Description: diode : SIL05C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SIL05C](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SIL05C)
 - Short Link: [http://oom.lt/FZEDIODESIL5C](http://oom.lt/FZEDIODESIL5C)

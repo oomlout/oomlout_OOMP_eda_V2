@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHMISC9452 > switch-misc : 9450-2](#fzeswitchmisc9452--switch-misc--9450-2)
+* [FZESWMISC9452 > switch-misc : 9450-2](#fzeswmisc9452--switch-misc--9450-2)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHMISC9452 > switch-misc : 9450-2
+# FZESWMISC9452 > switch-misc : 9450-2
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-9450-2
-- Hex ID: FZESWITCHMISC9452
+- Hex ID: FZESWMISC9452
 - Name: switch-misc : 9450-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/9450-2/
 - Description: switch-misc : 9450-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-9450-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-9450-2)
-- Short Link: [http://oom.lt/FZESWITCHMISC9452](http://oom.lt/FZESWITCHMISC9452)
+- Short Link: [http://oom.lt/FZESWMISC9452](http://oom.lt/FZESWMISC9452)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-misc|
 |OOMP Index|oompIndex|9450-2|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-misc-9450-2|
-|Hex ID (short code)|hexID|FZESWITCHMISC9452|
+|Hex ID (short code)|hexID|FZESWMISC9452|
 |name|name|switch-misc : 9450-2|
 ||||

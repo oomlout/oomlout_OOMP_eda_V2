@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-45xx-DIL14
 - Hex ID: FZE45XXDIL14
 - Name: 45xx : DIL14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/45xx/DIL14/
 - Description: 45xx : DIL14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-45xx-DIL14](http://oom.lt/FOOTPRINT-eagle-eagle-default-45xx-DIL14)
 - Short Link: [http://oom.lt/FZE45XXDIL14](http://oom.lt/FZE45XXDIL14)

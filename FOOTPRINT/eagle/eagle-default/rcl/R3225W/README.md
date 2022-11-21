@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-R3225W
 - Hex ID: FZERCLR3225W
 - Name: rcl : R3225W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/R3225W/
 - Description: rcl : R3225W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R3225W](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R3225W)
 - Short Link: [http://oom.lt/FZERCLR3225W](http://oom.lt/FZERCLR3225W)

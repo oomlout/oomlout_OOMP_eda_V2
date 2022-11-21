@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADQS2 > ref-packages-longpad : QSOP20](#fzerefpackageslongpadqs2--ref-packages-longpad--qsop20)
+* [FZEREFPSLPQS2 > ref-packages-longpad : QSOP20](#fzerefpslpqs2--ref-packages-longpad--qsop20)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADQS2 > ref-packages-longpad : QSOP20
+# FZEREFPSLPQS2 > ref-packages-longpad : QSOP20
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QSOP20
-- Hex ID: FZEREFPACKAGESLONGPADQS2
+- Hex ID: FZEREFPSLPQS2
 - Name: ref-packages-longpad : QSOP20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/QSOP20/
 - Description: ref-packages-longpad : QSOP20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QSOP20](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QSOP20)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADQS2](http://oom.lt/FZEREFPACKAGESLONGPADQS2)
+- Short Link: [http://oom.lt/FZEREFPSLPQS2](http://oom.lt/FZEREFPSLPQS2)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|QSOP20|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QSOP20|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADQS2|
+|Hex ID (short code)|hexID|FZEREFPSLPQS2|
 |name|name|ref-packages-longpad : QSOP20|
 ||||

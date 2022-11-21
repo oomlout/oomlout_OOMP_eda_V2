@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-L28-2
 - Hex ID: FZEMEMORYIDTL282
 - Name: memory-idt : L28-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/L28-2/
 - Description: memory-idt : L28-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-L28-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-L28-2)
 - Short Link: [http://oom.lt/FZEMEMORYIDTL282](http://oom.lt/FZEMEMORYIDTL282)

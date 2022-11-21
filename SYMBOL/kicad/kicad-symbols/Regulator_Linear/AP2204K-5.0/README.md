@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2204K-5.0
 - Hex ID: SZKREGULATORLINEARAP224K5
 - Name: Regulator_Linear : AP2204K-5.0
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP2204K-5.0/
 - Description: Regulator_Linear : AP2204K-5.0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2204K-5.0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2204K-5.0)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP224K5](http://oom.lt/SZKREGULATORLINEARAP224K5)

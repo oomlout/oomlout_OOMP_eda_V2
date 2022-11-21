@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_AAK
 - Hex ID: SZKDEVICEDAAK
 - Name: Device : D_AAK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_AAK/
 - Description: Device : D_AAK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_AAK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_AAK)
 - Short Link: [http://oom.lt/SZKDEVICEDAAK](http://oom.lt/SZKDEVICEDAAK)

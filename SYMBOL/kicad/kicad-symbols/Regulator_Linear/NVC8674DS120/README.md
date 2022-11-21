@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NVC8674DS120
 - Hex ID: SZKREGULATORLINEARNVC8674DS12
 - Name: Regulator_Linear : NVC8674DS120
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NVC8674DS120/
 - Description: Regulator_Linear : NVC8674DS120
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NVC8674DS120](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NVC8674DS120)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNVC8674DS12](http://oom.lt/SZKREGULATORLINEARNVC8674DS12)

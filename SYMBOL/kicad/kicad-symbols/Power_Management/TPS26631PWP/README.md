@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TPS26631PWP
 - Hex ID: SZKPOWERMANAGEMENTTPS26631PWP
 - Name: Power_Management : TPS26631PWP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/TPS26631PWP/
 - Description: Power_Management : TPS26631PWP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS26631PWP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS26631PWP)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTPS26631PWP](http://oom.lt/SZKPOWERMANAGEMENTTPS26631PWP)

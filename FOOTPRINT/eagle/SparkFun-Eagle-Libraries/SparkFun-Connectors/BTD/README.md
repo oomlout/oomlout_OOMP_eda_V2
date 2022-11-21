@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BTD
 - Hex ID: FZSSPARKFUNCNSBTD
 - Name: SparkFun-Connectors : BTD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/BTD/
 - Description: SparkFun-Connectors : BTD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BTD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BTD)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSBTD](http://oom.lt/FZSSPARKFUNCNSBTD)

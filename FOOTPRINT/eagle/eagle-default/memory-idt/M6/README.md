@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-M6
 - Hex ID: FZEMEMORYIDTM6
 - Name: memory-idt : M6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/M6/
 - Description: memory-idt : M6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-M6](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-M6)
 - Short Link: [http://oom.lt/FZEMEMORYIDTM6](http://oom.lt/FZEMEMORYIDTM6)

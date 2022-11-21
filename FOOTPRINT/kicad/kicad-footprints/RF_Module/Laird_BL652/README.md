@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Laird_BL652
 - Hex ID: FZKRFMOLAIRDBL652
 - Name: RF_Module : Laird_BL652
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/Laird_BL652/
 - Description: RF_Module : Laird_BL652
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Laird_BL652](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Laird_BL652)
 - Short Link: [http://oom.lt/FZKRFMOLAIRDBL652](http://oom.lt/FZKRFMOLAIRDBL652)

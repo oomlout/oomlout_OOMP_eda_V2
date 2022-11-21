@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-TSSOP8
 - Hex ID: FZEATMELTSS8
 - Name: atmel : TSSOP8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/TSSOP8/
 - Description: atmel : TSSOP8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-TSSOP8](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-TSSOP8)
 - Short Link: [http://oom.lt/FZEATMELTSS8](http://oom.lt/FZEATMELTSS8)

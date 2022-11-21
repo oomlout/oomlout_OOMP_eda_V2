@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-STEREOJACK2.5MM_SPECIAL_POGOPINS
 - Hex ID: FZSSPARKFUNCNSSTEREOJ25SPECIALPPS
 - Name: SparkFun-Connectors : STEREOJACK2.5MM_SPECIAL_POGOPINS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/STEREOJACK2.5MM_SPECIAL_POGOPINS/
 - Description: SparkFun-Connectors : STEREOJACK2.5MM_SPECIAL_POGOPINS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-STEREOJACK2.5MM_SPECIAL_POGOPINS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-STEREOJACK2.5MM_SPECIAL_POGOPINS)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSSTEREOJ25SPECIALPPS](http://oom.lt/FZSSPARKFUNCNSSTEREOJ25SPECIALPPS)

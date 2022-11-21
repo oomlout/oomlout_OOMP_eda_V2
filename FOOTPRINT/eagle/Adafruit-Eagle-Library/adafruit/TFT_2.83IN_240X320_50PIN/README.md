@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZATFT283IN24X325PIN > adafruit : TFT_2.83IN_240X320_50PIN](#fzatft283in24x325pin--adafruit--tft_283in_240x320_50pin)
+* [FZATFT283IN24X325P > adafruit : TFT_2.83IN_240X320_50PIN](#fzatft283in24x325p--adafruit--tft_283in_240x320_50pin)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZATFT283IN24X325PIN > adafruit : TFT_2.83IN_240X320_50PIN
+# FZATFT283IN24X325P > adafruit : TFT_2.83IN_240X320_50PIN
 
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TFT_2.83IN_240X320_50PIN
-- Hex ID: FZATFT283IN24X325PIN
+- Hex ID: FZATFT283IN24X325P
 - Name: adafruit : TFT_2.83IN_240X320_50PIN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TFT_2.83IN_240X320_50PIN/
 - Description: adafruit : TFT_2.83IN_240X320_50PIN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TFT_2.83IN_240X320_50PIN](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TFT_2.83IN_240X320_50PIN)
-- Short Link: [http://oom.lt/FZATFT283IN24X325PIN](http://oom.lt/FZATFT283IN24X325PIN)
+- Short Link: [http://oom.lt/FZATFT283IN24X325P](http://oom.lt/FZATFT283IN24X325P)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|adafruit|
 |OOMP Index|oompIndex|TFT_2.83IN_240X320_50PIN|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TFT_2.83IN_240X320_50PIN|
-|Hex ID (short code)|hexID|FZATFT283IN24X325PIN|
+|Hex ID (short code)|hexID|FZATFT283IN24X325P|
 |name|name|adafruit : TFT_2.83IN_240X320_50PIN|
 ||||
 

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C225-108X268
 - Hex ID: FZAC22518X268
 - Name: adafruit : C225-108X268
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C225-108X268/
 - Description: adafruit : C225-108X268
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C225-108X268](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C225-108X268)
 - Short Link: [http://oom.lt/FZAC22518X268](http://oom.lt/FZAC22518X268)

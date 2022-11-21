@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-A4954
 - Hex ID: SZKDRIVERMOTORA4954
 - Name: Driver_Motor : A4954
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/A4954/
 - Description: Driver_Motor : A4954
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-A4954](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-A4954)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORA4954](http://oom.lt/SZKDRIVERMOTORA4954)

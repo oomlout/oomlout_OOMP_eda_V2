@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-OB15_12M
 - Hex ID: FZETRAFOOB1512M
 - Name: trafo : OB15_12M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/OB15_12M/
 - Description: trafo : OB15_12M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-OB15_12M](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-OB15_12M)
 - Short Link: [http://oom.lt/FZETRAFOOB1512M](http://oom.lt/FZETRAFOOB1512M)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-LD266
 - Hex ID: FZELLD266
 - Name: led : LD266
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/LD266/
 - Description: led : LD266
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LD266](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LD266)
 - Short Link: [http://oom.lt/FZELLD266](http://oom.lt/FZELLD266)

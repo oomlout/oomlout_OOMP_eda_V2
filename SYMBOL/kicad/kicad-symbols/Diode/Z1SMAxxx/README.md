@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-Z1SMAxxx
 - Hex ID: SZKDIODEZ1SXXX
 - Name: Diode : Z1SMAxxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/Z1SMAxxx/
 - Description: Diode : Z1SMAxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Z1SMAxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Z1SMAxxx)
 - Short Link: [http://oom.lt/SZKDIODEZ1SXXX](http://oom.lt/SZKDIODEZ1SXXX)

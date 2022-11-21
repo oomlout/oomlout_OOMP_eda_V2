@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIODE-1N4001
 - Hex ID: FZSDSDIODE1N41
 - Name: SparkFun-DiscreteSemi : DIODE-1N4001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/DIODE-1N4001/
 - Description: SparkFun-DiscreteSemi : DIODE-1N4001
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIODE-1N4001](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIODE-1N4001)
 - Short Link: [http://oom.lt/FZSDSDIODE1N41](http://oom.lt/FZSDSDIODE1N41)

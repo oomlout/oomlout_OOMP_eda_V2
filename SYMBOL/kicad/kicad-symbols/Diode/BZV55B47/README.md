@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZV55B47
 - Hex ID: SZKDIODEBZV55B47
 - Name: Diode : BZV55B47
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BZV55B47/
 - Description: Diode : BZV55B47
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B47](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B47)
 - Short Link: [http://oom.lt/SZKDIODEBZV55B47](http://oom.lt/SZKDIODEBZV55B47)

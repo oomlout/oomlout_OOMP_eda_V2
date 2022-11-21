@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-28
 - Hex ID: FZESMIPCLCC28
 - Name: smd-ipc : LCC-28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/LCC-28/
 - Description: smd-ipc : LCC-28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-28](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-28)
 - Short Link: [http://oom.lt/FZESMIPCLCC28](http://oom.lt/FZESMIPCLCC28)

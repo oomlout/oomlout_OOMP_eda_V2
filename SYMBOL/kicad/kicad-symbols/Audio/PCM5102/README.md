@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-PCM5102
 - Hex ID: SZKAUDIOPCM512
 - Name: Audio : PCM5102
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/PCM5102/
 - Description: Audio : PCM5102
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PCM5102](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PCM5102)
 - Short Link: [http://oom.lt/SZKAUDIOPCM512](http://oom.lt/SZKAUDIOPCM512)

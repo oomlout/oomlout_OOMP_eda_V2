@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC7810
 - Hex ID: SZKREGULATORCONTROLLERLTC781
 - Name: Regulator_Controller : LTC7810
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LTC7810/
 - Description: Regulator_Controller : LTC7810
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC7810](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC7810)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERLTC781](http://oom.lt/SZKREGULATORCONTROLLERLTC781)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-TO3-4
 - Hex ID: FZEVREGTO34
 - Name: v-reg : TO3-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/TO3-4/
 - Description: v-reg : TO3-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO3-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO3-4)
 - Short Link: [http://oom.lt/FZEVREGTO34](http://oom.lt/FZEVREGTO34)

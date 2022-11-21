@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM5404
 - Hex ID: SZKISOLATORADUM544
 - Name: Isolator : ADuM5404
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ADuM5404/
 - Description: Isolator : ADuM5404
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM5404](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM5404)
 - Short Link: [http://oom.lt/SZKISOLATORADUM544](http://oom.lt/SZKISOLATORADUM544)

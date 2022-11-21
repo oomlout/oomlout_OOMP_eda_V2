@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSEPCBMOUNTSPEAKER > SparkFun-Electromechanical : PCB_MOUNT_SPEAKER](#fzsepcbmountspeaker--sparkfun-electromechanical--pcb_mount_speaker)
+* [FZSEPCBMSPEAKER > SparkFun-Electromechanical : PCB_MOUNT_SPEAKER](#fzsepcbmspeaker--sparkfun-electromechanical--pcb_mount_speaker)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSEPCBMOUNTSPEAKER > SparkFun-Electromechanical : PCB_MOUNT_SPEAKER
+# FZSEPCBMSPEAKER > SparkFun-Electromechanical : PCB_MOUNT_SPEAKER
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-PCB_MOUNT_SPEAKER
-- Hex ID: FZSEPCBMOUNTSPEAKER
+- Hex ID: FZSEPCBMSPEAKER
 - Name: SparkFun-Electromechanical : PCB_MOUNT_SPEAKER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Electromechanical/PCB_MOUNT_SPEAKER/
 - Description: SparkFun-Electromechanical : PCB_MOUNT_SPEAKER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-PCB_MOUNT_SPEAKER](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-PCB_MOUNT_SPEAKER)
-- Short Link: [http://oom.lt/FZSEPCBMOUNTSPEAKER](http://oom.lt/FZSEPCBMOUNTSPEAKER)
+- Short Link: [http://oom.lt/FZSEPCBMSPEAKER](http://oom.lt/FZSEPCBMSPEAKER)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Electromechanical|
 |OOMP Index|oompIndex|PCB_MOUNT_SPEAKER|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-PCB_MOUNT_SPEAKER|
-|Hex ID (short code)|hexID|FZSEPCBMOUNTSPEAKER|
+|Hex ID (short code)|hexID|FZSEPCBMSPEAKER|
 |name|name|SparkFun-Electromechanical : PCB_MOUNT_SPEAKER|
 ||||

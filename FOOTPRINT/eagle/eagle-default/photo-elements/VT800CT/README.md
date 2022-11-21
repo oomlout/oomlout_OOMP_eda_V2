@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-photo-elements-VT800CT
 - Hex ID: FZEPHOTOELEMENTSVT8CT
 - Name: photo-elements : VT800CT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/photo-elements/VT800CT/
 - Description: photo-elements : VT800CT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-VT800CT](http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-VT800CT)
 - Short Link: [http://oom.lt/FZEPHOTOELEMENTSVT8CT](http://oom.lt/FZEPHOTOELEMENTSVT8CT)

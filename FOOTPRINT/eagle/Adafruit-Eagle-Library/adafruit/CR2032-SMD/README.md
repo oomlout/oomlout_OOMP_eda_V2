@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CR2032-SMD
 - Hex ID: FZACR232SM
 - Name: adafruit : CR2032-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CR2032-SMD/
 - Description: adafruit : CR2032-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CR2032-SMD](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CR2032-SMD)
 - Short Link: [http://oom.lt/FZACR232SM](http://oom.lt/FZACR232SM)

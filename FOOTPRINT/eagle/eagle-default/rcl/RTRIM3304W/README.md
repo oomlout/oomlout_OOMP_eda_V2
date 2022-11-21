@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIM3304W
 - Hex ID: FZERCLRTRIM334W
 - Name: rcl : RTRIM3304W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/RTRIM3304W/
 - Description: rcl : RTRIM3304W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM3304W](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM3304W)
 - Short Link: [http://oom.lt/FZERCLRTRIM334W](http://oom.lt/FZERCLRTRIM334W)

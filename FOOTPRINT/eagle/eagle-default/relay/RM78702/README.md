@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RM78702
 - Hex ID: FZERELAYRM7872
 - Name: relay : RM78702
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RM78702/
 - Description: relay : RM78702
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RM78702](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RM78702)
 - Short Link: [http://oom.lt/FZERELAYRM7872](http://oom.lt/FZERELAYRM7872)

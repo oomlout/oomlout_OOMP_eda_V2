@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-OSTAR_4_
 - Hex ID: FZELOSTAR4
 - Name: led : OSTAR_4_
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/OSTAR_4_/
 - Description: led : OSTAR_4_
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-OSTAR_4_](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-OSTAR_4_)
 - Short Link: [http://oom.lt/FZELOSTAR4](http://oom.lt/FZELOSTAR4)

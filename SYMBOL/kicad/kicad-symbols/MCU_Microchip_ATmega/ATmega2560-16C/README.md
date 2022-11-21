@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega2560-16C
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA25616C
 - Name: MCU_Microchip_ATmega : ATmega2560-16C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega2560-16C/
 - Description: MCU_Microchip_ATmega : ATmega2560-16C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega2560-16C](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega2560-16C)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA25616C](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA25616C)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Mini-Circuits_DL805
 - Hex ID: FZKDFNMCIRCUITSDL85
 - Name: Package_DFN_QFN : Mini-Circuits_DL805
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Mini-Circuits_DL805/
 - Description: Package_DFN_QFN : Mini-Circuits_DL805
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Mini-Circuits_DL805](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Mini-Circuits_DL805)
 - Short Link: [http://oom.lt/FZKDFNMCIRCUITSDL85](http://oom.lt/FZKDFNMCIRCUITSDL85)

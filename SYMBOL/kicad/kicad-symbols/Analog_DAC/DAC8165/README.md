@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC8165
 - Hex ID: SZKANALOGDACDAC8165
 - Name: Analog_DAC : DAC8165
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC8165/
 - Description: Analog_DAC : DAC8165
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC8165](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC8165)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC8165](http://oom.lt/SZKANALOGDACDAC8165)

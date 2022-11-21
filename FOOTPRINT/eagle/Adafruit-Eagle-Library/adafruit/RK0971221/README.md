@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-RK0971221
 - Hex ID: FZARK971221
 - Name: adafruit : RK0971221
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/RK0971221/
 - Description: adafruit : RK0971221
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-RK0971221](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-RK0971221)
 - Short Link: [http://oom.lt/FZARK971221](http://oom.lt/FZARK971221)

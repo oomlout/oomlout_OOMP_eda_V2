@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV2371D
 - Hex ID: SZKAMPLIFIEROPERATIONALTLV2371D
 - Name: Amplifier_Operational : TLV2371D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TLV2371D/
 - Description: Amplifier_Operational : TLV2371D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV2371D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV2371D)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTLV2371D](http://oom.lt/SZKAMPLIFIEROPERATIONALTLV2371D)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT4232H
 - Hex ID: SZKINTERFACEUFT4232H
 - Name: Interface_USB : FT4232H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FT4232H/
 - Description: Interface_USB : FT4232H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT4232H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT4232H)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT4232H](http://oom.lt/SZKINTERFACEUFT4232H)

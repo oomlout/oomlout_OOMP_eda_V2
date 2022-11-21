@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-SOT23-6
 - Hex ID: FZEMCHIPSOT236
 - Name: microchip : SOT23-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/SOT23-6/
 - Description: microchip : SOT23-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SOT23-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SOT23-6)
 - Short Link: [http://oom.lt/FZEMCHIPSOT236](http://oom.lt/FZEMCHIPSOT236)

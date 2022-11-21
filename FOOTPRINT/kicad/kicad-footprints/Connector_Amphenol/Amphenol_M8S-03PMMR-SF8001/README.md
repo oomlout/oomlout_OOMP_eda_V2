@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Amphenol-Amphenol_M8S-03PMMR-SF8001
 - Hex ID: FZKCNAMPHENOLAMPHENOLM8S3PRSF81
 - Name: Connector_Amphenol : Amphenol_M8S-03PMMR-SF8001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/
 - Description: Connector_Amphenol : Amphenol_M8S-03PMMR-SF8001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Amphenol-Amphenol_M8S-03PMMR-SF8001](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Amphenol-Amphenol_M8S-03PMMR-SF8001)
 - Short Link: [http://oom.lt/FZKCNAMPHENOLAMPHENOLM8S3PRSF81](http://oom.lt/FZKCNAMPHENOLAMPHENOLM8S3PRSF81)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74AHCT2G00
 - Hex ID: SZK74XGXX74AHCT2G
 - Name: 74xGxx : 74AHCT2G00
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74AHCT2G00/
 - Description: 74xGxx : 74AHCT2G00
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AHCT2G00](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AHCT2G00)
 - Short Link: [http://oom.lt/SZK74XGXX74AHCT2G](http://oom.lt/SZK74XGXX74AHCT2G)

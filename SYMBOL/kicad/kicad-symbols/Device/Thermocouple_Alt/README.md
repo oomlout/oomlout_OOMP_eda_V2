@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Thermocouple_Alt
 - Hex ID: SZKDEVICETHERMOCOUPLEALT
 - Name: Device : Thermocouple_Alt
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Thermocouple_Alt/
 - Description: Device : Thermocouple_Alt
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermocouple_Alt](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermocouple_Alt)
 - Short Link: [http://oom.lt/SZKDEVICETHERMOCOUPLEALT](http://oom.lt/SZKDEVICETHERMOCOUPLEALT)

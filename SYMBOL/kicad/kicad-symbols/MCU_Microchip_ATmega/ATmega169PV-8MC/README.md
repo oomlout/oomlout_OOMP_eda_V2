@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega169PV-8MC
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA169PV8MC
 - Name: MCU_Microchip_ATmega : ATmega169PV-8MC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega169PV-8MC/
 - Description: MCU_Microchip_ATmega : ATmega169PV-8MC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega169PV-8MC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega169PV-8MC)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA169PV8MC](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA169PV8MC)

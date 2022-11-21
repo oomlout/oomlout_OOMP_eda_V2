@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSOT54D > ref-packages : SOT54D](#fzerefpackagessot54d--ref-packages--sot54d)
+* [FZEREFPSSOT54D > ref-packages : SOT54D](#fzerefpssot54d--ref-packages--sot54d)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSOT54D > ref-packages : SOT54D
+# FZEREFPSSOT54D > ref-packages : SOT54D
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOT54D
-- Hex ID: FZEREFPACKAGESSOT54D
+- Hex ID: FZEREFPSSOT54D
 - Name: ref-packages : SOT54D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SOT54D/
 - Description: ref-packages : SOT54D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT54D](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT54D)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSOT54D](http://oom.lt/FZEREFPACKAGESSOT54D)
+- Short Link: [http://oom.lt/FZEREFPSSOT54D](http://oom.lt/FZEREFPSSOT54D)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SOT54D|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SOT54D|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSOT54D|
+|Hex ID (short code)|hexID|FZEREFPSSOT54D|
 |name|name|ref-packages : SOT54D|
 ||||

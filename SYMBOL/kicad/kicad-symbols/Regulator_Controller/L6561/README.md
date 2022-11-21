@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6561
 - Hex ID: SZKREGULATORCONTROLLERL6561
 - Name: Regulator_Controller : L6561
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/L6561/
 - Description: Regulator_Controller : L6561
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6561](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6561)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERL6561](http://oom.lt/SZKREGULATORCONTROLLERL6561)

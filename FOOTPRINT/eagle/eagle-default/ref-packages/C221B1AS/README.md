@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESC221B1AS > ref-packages : C221B1AS](#fzerefpackagesc221b1as--ref-packages--c221b1as)
+* [FZEREFPSC221B1AS > ref-packages : C221B1AS](#fzerefpsc221b1as--ref-packages--c221b1as)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESC221B1AS > ref-packages : C221B1AS
+# FZEREFPSC221B1AS > ref-packages : C221B1AS
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-C221B1AS
-- Hex ID: FZEREFPACKAGESC221B1AS
+- Hex ID: FZEREFPSC221B1AS
 - Name: ref-packages : C221B1AS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/C221B1AS/
 - Description: ref-packages : C221B1AS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-C221B1AS](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-C221B1AS)
-- Short Link: [http://oom.lt/FZEREFPACKAGESC221B1AS](http://oom.lt/FZEREFPACKAGESC221B1AS)
+- Short Link: [http://oom.lt/FZEREFPSC221B1AS](http://oom.lt/FZEREFPSC221B1AS)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|C221B1AS|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-C221B1AS|
-|Hex ID (short code)|hexID|FZEREFPACKAGESC221B1AS|
+|Hex ID (short code)|hexID|FZEREFPSC221B1AS|
 |name|name|ref-packages : C221B1AS|
 ||||

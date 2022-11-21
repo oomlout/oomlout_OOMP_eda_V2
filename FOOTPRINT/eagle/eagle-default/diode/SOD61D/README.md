@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD61D
 - Hex ID: FZEDIODESOD61D
 - Name: diode : SOD61D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOD61D/
 - Description: diode : SOD61D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD61D](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD61D)
 - Short Link: [http://oom.lt/FZEDIODESOD61D](http://oom.lt/FZEDIODESOD61D)

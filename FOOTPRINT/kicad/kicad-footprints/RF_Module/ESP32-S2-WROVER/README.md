@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP32-S2-WROVER
 - Hex ID: FZKRFMOESP32S2WROVER
 - Name: RF_Module : ESP32-S2-WROVER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/ESP32-S2-WROVER/
 - Description: RF_Module : ESP32-S2-WROVER
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP32-S2-WROVER](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP32-S2-WROVER)
 - Short Link: [http://oom.lt/FZKRFMOESP32S2WROVER](http://oom.lt/FZKRFMOESP32S2WROVER)

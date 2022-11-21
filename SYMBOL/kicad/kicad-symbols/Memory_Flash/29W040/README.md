@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-29W040
 - Hex ID: SZKMEMORYFLASH29W4
 - Name: Memory_Flash : 29W040
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/29W040/
 - Description: Memory_Flash : 29W040
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-29W040](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-29W040)
 - Short Link: [http://oom.lt/SZKMEMORYFLASH29W4](http://oom.lt/SZKMEMORYFLASH29W4)

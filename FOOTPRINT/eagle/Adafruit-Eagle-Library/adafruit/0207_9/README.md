@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0207_9
 - Hex ID: FZA279
 - Name: adafruit : 0207_9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0207_9/
 - Description: adafruit : 0207_9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0207_9](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0207_9)
 - Short Link: [http://oom.lt/FZA279](http://oom.lt/FZA279)

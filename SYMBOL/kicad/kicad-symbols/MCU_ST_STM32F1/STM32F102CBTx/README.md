@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F102CBTx
 - Hex ID: SZKMCUSTSTM32F1STM32F12CBTX
 - Name: MCU_ST_STM32F1 : STM32F102CBTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F102CBTx/
 - Description: MCU_ST_STM32F1 : STM32F102CBTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F102CBTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F102CBTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F12CBTX](http://oom.lt/SZKMCUSTSTM32F1STM32F12CBTX)

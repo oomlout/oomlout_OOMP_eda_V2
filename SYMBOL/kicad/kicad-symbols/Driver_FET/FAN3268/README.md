@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-FAN3268
 - Hex ID: SZKDRIVERFETFAN3268
 - Name: Driver_FET : FAN3268
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/FAN3268/
 - Description: Driver_FET : FAN3268
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-FAN3268](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-FAN3268)
 - Short Link: [http://oom.lt/SZKDRIVERFETFAN3268](http://oom.lt/SZKDRIVERFETFAN3268)

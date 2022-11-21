@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAV70W
 - Hex ID: SZKDIODEBAV7W
 - Name: Diode : BAV70W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAV70W/
 - Description: Diode : BAV70W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV70W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV70W)
 - Short Link: [http://oom.lt/SZKDIODEBAV7W](http://oom.lt/SZKDIODEBAV7W)

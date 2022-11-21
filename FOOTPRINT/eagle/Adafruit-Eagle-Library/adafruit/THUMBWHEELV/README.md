@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-THUMBWHEELV
 - Hex ID: FZATHUMBWV
 - Name: adafruit : THUMBWHEELV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/THUMBWHEELV/
 - Description: adafruit : THUMBWHEELV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-THUMBWHEELV](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-THUMBWHEELV)
 - Short Link: [http://oom.lt/FZATHUMBWV](http://oom.lt/FZATHUMBWV)

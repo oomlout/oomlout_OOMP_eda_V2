@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-eu-SO16
 - Hex ID: FZE74XXEUSO16
 - Name: 74xx-eu : SO16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-eu/SO16/
 - Description: 74xx-eu : SO16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-SO16](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-SO16)
 - Short Link: [http://oom.lt/FZE74XXEUSO16](http://oom.lt/FZE74XXEUSO16)

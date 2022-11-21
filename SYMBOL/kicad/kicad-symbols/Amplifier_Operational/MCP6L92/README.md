@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L92
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP6L92
 - Name: Amplifier_Operational : MCP6L92
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L92/
 - Description: Amplifier_Operational : MCP6L92
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L92](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L92)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L92](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L92)

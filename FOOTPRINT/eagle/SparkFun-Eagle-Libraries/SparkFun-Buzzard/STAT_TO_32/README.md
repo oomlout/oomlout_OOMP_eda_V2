@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-STAT_TO_32
 - Hex ID: FZSBUSTATTO32
 - Name: SparkFun-Buzzard : STAT_TO_32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/STAT_TO_32/
 - Description: SparkFun-Buzzard : STAT_TO_32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-STAT_TO_32](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-STAT_TO_32)
 - Short Link: [http://oom.lt/FZSBUSTATTO32](http://oom.lt/FZSBUSTATTO32)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-LTV-352T
 - Hex ID: SZKISOLATORLTV352T
 - Name: Isolator : LTV-352T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/LTV-352T/
 - Description: Isolator : LTV-352T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-352T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-352T)
 - Short Link: [http://oom.lt/SZKISOLATORLTV352T](http://oom.lt/SZKISOLATORLTV352T)

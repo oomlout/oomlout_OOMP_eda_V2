@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME70J21A-AN
 - Hex ID: SZKMCUMCHIPSAMEATSAME7J21AAN
 - Name: MCU_Microchip_SAME : ATSAME70J21A-AN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAME/ATSAME70J21A-AN/
 - Description: MCU_Microchip_SAME : ATSAME70J21A-AN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME70J21A-AN](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME70J21A-AN)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMEATSAME7J21AAN](http://oom.lt/SZKMCUMCHIPSAMEATSAME7J21AAN)

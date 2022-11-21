@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-TO220V
 - Hex ID: FZSUTO22V
 - Name: User-Submitted : TO220V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/User-Submitted/TO220V/
 - Description: User-Submitted : TO220V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-TO220V](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-TO220V)
 - Short Link: [http://oom.lt/FZSUTO22V](http://oom.lt/FZSUTO22V)

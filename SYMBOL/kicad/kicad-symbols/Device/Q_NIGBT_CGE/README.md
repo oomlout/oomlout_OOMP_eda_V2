@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_NIGBT_CGE
 - Hex ID: SZKDEVICEQNIGBTCGE
 - Name: Device : Q_NIGBT_CGE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_NIGBT_CGE/
 - Description: Device : Q_NIGBT_CGE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NIGBT_CGE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NIGBT_CGE)
 - Short Link: [http://oom.lt/SZKDEVICEQNIGBTCGE](http://oom.lt/SZKDEVICEQNIGBTCGE)

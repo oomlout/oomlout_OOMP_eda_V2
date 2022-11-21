@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2951-3.3_SOIC
 - Hex ID: SZKREGULATORLINEARLP295133SOIC
 - Name: Regulator_Linear : LP2951-3.3_SOIC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2951-3.3_SOIC/
 - Description: Regulator_Linear : LP2951-3.3_SOIC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2951-3.3_SOIC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2951-3.3_SOIC)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP295133SOIC](http://oom.lt/SZKREGULATORLINEARLP295133SOIC)

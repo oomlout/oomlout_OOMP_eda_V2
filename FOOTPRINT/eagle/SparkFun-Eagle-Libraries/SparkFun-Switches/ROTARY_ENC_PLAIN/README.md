@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ROTARY_ENC_PLAIN
 - Hex ID: FZSWROTARYENCPLAIN
 - Name: SparkFun-Switches : ROTARY_ENC_PLAIN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/ROTARY_ENC_PLAIN/
 - Description: SparkFun-Switches : ROTARY_ENC_PLAIN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ROTARY_ENC_PLAIN](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ROTARY_ENC_PLAIN)
 - Short Link: [http://oom.lt/FZSWROTARYENCPLAIN](http://oom.lt/FZSWROTARYENCPLAIN)

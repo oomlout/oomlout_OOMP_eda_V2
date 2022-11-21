@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-SN65240
 - Hex ID: SZKPOWERPROTECTIONSN6524
 - Name: Power_Protection : SN65240
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/SN65240/
 - Description: Power_Protection : SN65240
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SN65240](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SN65240)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONSN6524](http://oom.lt/SZKPOWERPROTECTIONSN6524)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-TQFN32
 - Hex ID: FZEMAXIMTQFN32
 - Name: maxim : TQFN32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/TQFN32/
 - Description: maxim : TQFN32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TQFN32](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TQFN32)
 - Short Link: [http://oom.lt/FZEMAXIMTQFN32](http://oom.lt/FZEMAXIMTQFN32)

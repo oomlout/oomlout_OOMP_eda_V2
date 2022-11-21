@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-CO-15-1
 - Hex ID: FZEIQDFREQUENCYPRODUCTSCO151
 - Name: IQD-Frequency-Products : CO-15-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/CO-15-1/
 - Description: IQD-Frequency-Products : CO-15-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-CO-15-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-CO-15-1)
 - Short Link: [http://oom.lt/FZEIQDFREQUENCYPRODUCTSCO151](http://oom.lt/FZEIQDFREQUENCYPRODUCTSCO151)

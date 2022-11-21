@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-LOGO
 - Hex ID: FZEMMOTOROLAL
 - Name: micro-motorola : LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/LOGO/
 - Description: micro-motorola : LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-LOGO](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-LOGO)
 - Short Link: [http://oom.lt/FZEMMOTOROLAL](http://oom.lt/FZEMMOTOROLAL)

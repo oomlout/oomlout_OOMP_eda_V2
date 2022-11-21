@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX575F512H
 - Hex ID: SZKMCUMCHIPPIC32PIC32MX575F512H
 - Name: MCU_Microchip_PIC32 : PIC32MX575F512H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX575F512H/
 - Description: MCU_Microchip_PIC32 : PIC32MX575F512H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX575F512H](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX575F512H)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC32MX575F512H](http://oom.lt/SZKMCUMCHIPPIC32PIC32MX575F512H)

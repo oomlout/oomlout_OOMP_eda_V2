@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7809
 - Hex ID: SZKREGULATORLINEARL789
 - Name: Regulator_Linear : L7809
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7809/
 - Description: Regulator_Linear : L7809
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7809](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7809)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL789](http://oom.lt/SZKREGULATORLINEARL789)

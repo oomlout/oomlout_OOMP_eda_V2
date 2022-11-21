@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-P-TO263-7-1
 - Hex ID: FZELPTO26371
 - Name: led : P-TO263-7-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/P-TO263-7-1/
 - Description: led : P-TO263-7-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-P-TO263-7-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-P-TO263-7-1)
 - Short Link: [http://oom.lt/FZELPTO26371](http://oom.lt/FZELPTO26371)

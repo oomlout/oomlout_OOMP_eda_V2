@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0402-TIGHT
 - Hex ID: FZSCO42T
 - Name: SparkFun-Coils : 0402-TIGHT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/0402-TIGHT/
 - Description: SparkFun-Coils : 0402-TIGHT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0402-TIGHT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0402-TIGHT)
 - Short Link: [http://oom.lt/FZSCO42T](http://oom.lt/FZSCO42T)

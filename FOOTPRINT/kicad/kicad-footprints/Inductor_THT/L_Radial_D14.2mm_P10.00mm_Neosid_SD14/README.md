@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D14.2mm_P10.00mm_Neosid_SD14
 - Hex ID: FZKINLRD142P1NEOSIDSD14
 - Name: Inductor_THT : L_Radial_D14.2mm_P10.00mm_Neosid_SD14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D14.2mm_P10.00mm_Neosid_SD14/
 - Description: Inductor_THT : L_Radial_D14.2mm_P10.00mm_Neosid_SD14
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D14.2mm_P10.00mm_Neosid_SD14](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D14.2mm_P10.00mm_Neosid_SD14)
 - Short Link: [http://oom.lt/FZKINLRD142P1NEOSIDSD14](http://oom.lt/FZKINLRD142P1NEOSIDSD14)

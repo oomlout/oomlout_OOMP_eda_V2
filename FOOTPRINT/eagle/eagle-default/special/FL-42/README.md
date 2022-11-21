@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-FL-42
 - Hex ID: FZESPECIALFL42
 - Name: special : FL-42
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/FL-42/
 - Description: special : FL-42
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-FL-42](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-FL-42)
 - Short Link: [http://oom.lt/FZESPECIALFL42](http://oom.lt/FZESPECIALFL42)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CCN
 - Hex ID: SZKOCSSG532CCN
 - Name: Oscillator : SG-5032CCN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/SG-5032CCN/
 - Description: Oscillator : SG-5032CCN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CCN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CCN)
 - Short Link: [http://oom.lt/SZKOCSSG532CCN](http://oom.lt/SZKOCSSG532CCN)

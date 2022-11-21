@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XBEE3-SMD
 - Hex ID: FZSRFXBEE3SM
 - Name: SparkFun-RF : XBEE3-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/XBEE3-SMD/
 - Description: SparkFun-RF : XBEE3-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XBEE3-SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XBEE3-SMD)
 - Short Link: [http://oom.lt/FZSRFXBEE3SM](http://oom.lt/FZSRFXBEE3SM)

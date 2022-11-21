@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN41EP6X6 > digikey-footprints : VFQFN-40-1EP_6x6mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsvfqfn41ep6x6--digikey-footprints--vfqfn-40-1ep_6x6mm)
+* [FZDIGIDIGIKEYFOOTPRINTSVFQFN41EP6X6 > digikey-footprints : VFQFN-40-1EP_6x6mm](#fzdigidigikeyfootprintsvfqfn41ep6x6--digikey-footprints--vfqfn-40-1ep_6x6mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN41EP6X6 > digikey-footprints : VFQFN-40-1EP_6x6mm
+# FZDIGIDIGIKEYFOOTPRINTSVFQFN41EP6X6 > digikey-footprints : VFQFN-40-1EP_6x6mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-40-1EP_6x6mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN41EP6X6
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSVFQFN41EP6X6
 - Name: digikey-footprints : VFQFN-40-1EP_6x6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VFQFN-40-1EP_6x6mm/
 - Description: digikey-footprints : VFQFN-40-1EP_6x6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-40-1EP_6x6mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-40-1EP_6x6mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN41EP6X6](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN41EP6X6)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVFQFN41EP6X6](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVFQFN41EP6X6)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|VFQFN-40-1EP_6x6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-40-1EP_6x6mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN41EP6X6|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSVFQFN41EP6X6|
 |name|name|digikey-footprints : VFQFN-40-1EP_6x6mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VFQFN-40-1EP_6x6mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/cc2650.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO204
 - Hex ID: FZETRANSISTORPOWERTO24
 - Name: transistor-power : TO204
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO204/
 - Description: transistor-power : TO204
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO204](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO204)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO24](http://oom.lt/FZETRANSISTORPOWERTO24)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-D1X8K-14BL
 - Hex ID: SZKDICHARACTERD1X8K14BL
 - Name: Display_Character : D1X8K-14BL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/D1X8K-14BL/
 - Description: Display_Character : D1X8K-14BL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-D1X8K-14BL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-D1X8K-14BL)
 - Short Link: [http://oom.lt/SZKDICHARACTERD1X8K14BL](http://oom.lt/SZKDICHARACTERD1X8K14BL)

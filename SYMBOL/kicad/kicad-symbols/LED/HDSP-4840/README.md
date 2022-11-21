@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-HDSP-4840
 - Hex ID: SZKLHDSP484
 - Name: LED : HDSP-4840
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/HDSP-4840/
 - Description: LED : HDSP-4840
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-HDSP-4840](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-HDSP-4840)
 - Short Link: [http://oom.lt/SZKLHDSP484](http://oom.lt/SZKLHDSP484)

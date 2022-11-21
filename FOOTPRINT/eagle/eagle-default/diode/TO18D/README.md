@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-TO18D
 - Hex ID: FZEDIODETO18D
 - Name: diode : TO18D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/TO18D/
 - Description: diode : TO18D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO18D](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO18D)
 - Short Link: [http://oom.lt/FZEDIODETO18D](http://oom.lt/FZEDIODETO18D)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-DUAL-PTH-PANASONIC-VERT-KIT
 - Hex ID: FZSRPOTDUALPPVERTK
 - Name: SparkFun-Resistors : POT-DUAL-PTH-PANASONIC-VERT-KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/POT-DUAL-PTH-PANASONIC-VERT-KIT/
 - Description: SparkFun-Resistors : POT-DUAL-PTH-PANASONIC-VERT-KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-DUAL-PTH-PANASONIC-VERT-KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-DUAL-PTH-PANASONIC-VERT-KIT)
 - Short Link: [http://oom.lt/FZSRPOTDUALPPVERTK](http://oom.lt/FZSRPOTDUALPPVERTK)

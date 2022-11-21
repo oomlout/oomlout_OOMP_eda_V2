@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOESP82662491 > digikey-footprints : WIFI_Module_ESP8266_2491](#fzkicaddigikeykicadlibrarydigikeyfootprintswifimoesp82662491--digikey-footprints--wifi_module_esp8266_2491)
+* [FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP82662491 > digikey-footprints : WIFI_Module_ESP8266_2491](#fzdigidigikeyfootprintswifimoesp82662491--digikey-footprints--wifi_module_esp8266_2491)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOESP82662491 > digikey-footprints : WIFI_Module_ESP8266_2491
+# FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP82662491 > digikey-footprints : WIFI_Module_ESP8266_2491
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_ESP8266_2491
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOESP82662491
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP82662491
 - Name: digikey-footprints : WIFI_Module_ESP8266_2491
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WIFI_Module_ESP8266_2491/
 - Description: digikey-footprints : WIFI_Module_ESP8266_2491
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_ESP8266_2491](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_ESP8266_2491)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOESP82662491](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOESP82662491)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP82662491](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP82662491)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|WIFI_Module_ESP8266_2491|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_ESP8266_2491|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOESP82662491|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSWIFIMOESP82662491|
 |name|name|digikey-footprints : WIFI_Module_ESP8266_2491|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WIFI_Module_ESP8266_2491'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/ESP-12S_UM%20_Rev1.0_8-1-16.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

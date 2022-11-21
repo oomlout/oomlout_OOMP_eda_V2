@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-CA56-12SRWA
 - Hex ID: FZKDI7SCA5612SRWA
 - Name: Display_7Segment : CA56-12SRWA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/CA56-12SRWA/
 - Description: Display_7Segment : CA56-12SRWA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-CA56-12SRWA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-CA56-12SRWA)
 - Short Link: [http://oom.lt/FZKDI7SCA5612SRWA](http://oom.lt/FZKDI7SCA5612SRWA)

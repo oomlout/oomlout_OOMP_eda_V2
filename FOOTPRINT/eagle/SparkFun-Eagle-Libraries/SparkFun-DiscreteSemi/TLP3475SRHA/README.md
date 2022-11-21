@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TLP3475SRHA
 - Hex ID: FZSDSTLP3475SRHA
 - Name: SparkFun-DiscreteSemi : TLP3475SRHA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/TLP3475SRHA/
 - Description: SparkFun-DiscreteSemi : TLP3475SRHA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TLP3475SRHA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TLP3475SRHA)
 - Short Link: [http://oom.lt/FZSDSTLP3475SRHA](http://oom.lt/FZSDSTLP3475SRHA)

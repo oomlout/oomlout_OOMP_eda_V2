@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X20
 - Hex ID: FZA1X2
 - Name: adafruit : 1X20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X20/
 - Description: adafruit : 1X20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X20](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X20)
 - Short Link: [http://oom.lt/FZA1X2](http://oom.lt/FZA1X2)

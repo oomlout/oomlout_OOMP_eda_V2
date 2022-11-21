@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_LOCK
 - Hex ID: FZSSPARKFUNCNSPOWERJPL
 - Name: SparkFun-Connectors : POWER_JACK_PTH_LOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/POWER_JACK_PTH_LOCK/
 - Description: SparkFun-Connectors : POWER_JACK_PTH_LOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_LOCK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_LOCK)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSPOWERJPL](http://oom.lt/FZSSPARKFUNCNSPOWERJPL)

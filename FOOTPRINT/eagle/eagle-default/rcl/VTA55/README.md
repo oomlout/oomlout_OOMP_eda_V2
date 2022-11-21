@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-VTA55
 - Hex ID: FZERCLVTA55
 - Name: rcl : VTA55
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/VTA55/
 - Description: rcl : VTA55
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-VTA55](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-VTA55)
 - Short Link: [http://oom.lt/FZERCLVTA55](http://oom.lt/FZERCLVTA55)

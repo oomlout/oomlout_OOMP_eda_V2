@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-PLCC28
 - Hex ID: FZEATMELPLCC28
 - Name: atmel : PLCC28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/PLCC28/
 - Description: atmel : PLCC28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-PLCC28](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-PLCC28)
 - Short Link: [http://oom.lt/FZEATMELPLCC28](http://oom.lt/FZEATMELPLCC28)

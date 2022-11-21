@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-28_4x4mm_P0.5mm
 - Hex ID: FZKDFNQFN284X4P5
 - Name: Package_DFN_QFN : QFN-28_4x4mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-28_4x4mm_P0.5mm/
 - Description: Package_DFN_QFN : QFN-28_4x4mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-28_4x4mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-28_4x4mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKDFNQFN284X4P5](http://oom.lt/FZKDFNQFN284X4P5)

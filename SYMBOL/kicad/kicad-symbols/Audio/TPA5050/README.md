@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-TPA5050
 - Hex ID: SZKAUDIOTPA55
 - Name: Audio : TPA5050
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/TPA5050/
 - Description: Audio : TPA5050
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TPA5050](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TPA5050)
 - Short Link: [http://oom.lt/SZKAUDIOTPA55](http://oom.lt/SZKAUDIOTPA55)

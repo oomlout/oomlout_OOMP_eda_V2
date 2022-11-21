@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-DIL18
 - Hex ID: FZENATIONALSEMICONDUCTORDIL18
 - Name: national-semiconductor : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/DIL18/
 - Description: national-semiconductor : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-DIL18](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-DIL18)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORDIL18](http://oom.lt/FZENATIONALSEMICONDUCTORDIL18)

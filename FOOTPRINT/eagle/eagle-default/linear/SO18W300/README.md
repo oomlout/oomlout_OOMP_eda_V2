@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-SO18W300
 - Hex ID: FZELINEARSO18W3
 - Name: linear : SO18W300
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/SO18W300/
 - Description: linear : SO18W300
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SO18W300](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SO18W300)
 - Short Link: [http://oom.lt/FZELINEARSO18W3](http://oom.lt/FZELINEARSO18W3)

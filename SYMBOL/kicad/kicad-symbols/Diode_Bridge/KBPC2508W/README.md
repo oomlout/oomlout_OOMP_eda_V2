@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC2508W
 - Hex ID: SZKDIODEBRIDGEKBPC258W
 - Name: Diode_Bridge : KBPC2508W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBPC2508W/
 - Description: Diode_Bridge : KBPC2508W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC2508W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC2508W)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBPC258W](http://oom.lt/SZKDIODEBRIDGEKBPC258W)

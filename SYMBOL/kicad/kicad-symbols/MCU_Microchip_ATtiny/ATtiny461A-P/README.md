@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny461A-P
 - Hex ID: SZKMCUMCHIPATTINYATTINY461AP
 - Name: MCU_Microchip_ATtiny : ATtiny461A-P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny461A-P/
 - Description: MCU_Microchip_ATtiny : ATtiny461A-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny461A-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny461A-P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY461AP](http://oom.lt/SZKMCUMCHIPATTINYATTINY461AP)

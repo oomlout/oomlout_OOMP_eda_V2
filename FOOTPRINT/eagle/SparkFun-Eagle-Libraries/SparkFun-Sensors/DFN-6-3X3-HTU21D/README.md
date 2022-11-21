@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-DFN-6-3X3-HTU21D
 - Hex ID: FZSSPARKFUNSENSDFN63X3HTU21D
 - Name: SparkFun-Sensors : DFN-6-3X3-HTU21D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/DFN-6-3X3-HTU21D/
 - Description: SparkFun-Sensors : DFN-6-3X3-HTU21D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-DFN-6-3X3-HTU21D](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-DFN-6-3X3-HTU21D)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSDFN63X3HTU21D](http://oom.lt/FZSSPARKFUNSENSDFN63X3HTU21D)

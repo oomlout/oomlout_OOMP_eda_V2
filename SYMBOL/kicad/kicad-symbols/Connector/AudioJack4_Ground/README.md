@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AudioJack4_Ground
 - Hex ID: SZKCNAUDIOJ4GROUND
 - Name: Connector : AudioJack4_Ground
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/AudioJack4_Ground/
 - Description: Connector : AudioJack4_Ground
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack4_Ground](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack4_Ground)
 - Short Link: [http://oom.lt/SZKCNAUDIOJ4GROUND](http://oom.lt/SZKCNAUDIOJ4GROUND)

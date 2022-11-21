@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-MO021-16
 - Hex ID: FZESMIPCMO2116
 - Name: smd-ipc : MO021-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/MO021-16/
 - Description: smd-ipc : MO021-16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-MO021-16](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-MO021-16)
 - Short Link: [http://oom.lt/FZESMIPCMO2116](http://oom.lt/FZESMIPCMO2116)

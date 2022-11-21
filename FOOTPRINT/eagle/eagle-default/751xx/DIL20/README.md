@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-751xx-DIL20
 - Hex ID: FZE751XXDIL2
 - Name: 751xx : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/751xx/DIL20/
 - Description: 751xx : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-751xx-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-751xx-DIL20)
 - Short Link: [http://oom.lt/FZE751XXDIL2](http://oom.lt/FZE751XXDIL2)

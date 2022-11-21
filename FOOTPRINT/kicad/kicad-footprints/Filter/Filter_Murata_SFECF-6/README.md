@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_SFECF-6
 - Hex ID: FZKFILFILMSFECF6
 - Name: Filter : Filter_Murata_SFECF-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_Murata_SFECF-6/
 - Description: Filter : Filter_Murata_SFECF-6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_SFECF-6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_SFECF-6)
 - Short Link: [http://oom.lt/FZKFILFILMSFECF6](http://oom.lt/FZKFILFILMSFECF6)

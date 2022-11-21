@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65211A-24LTXI
 - Hex ID: SZKINTERFACEUCY7C65211A24LTXI
 - Name: Interface_USB : CY7C65211A-24LTXI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CY7C65211A-24LTXI/
 - Description: Interface_USB : CY7C65211A-24LTXI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65211A-24LTXI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65211A-24LTXI)
 - Short Link: [http://oom.lt/SZKINTERFACEUCY7C65211A24LTXI](http://oom.lt/SZKINTERFACEUCY7C65211A24LTXI)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny167-S
 - Hex ID: SZKMCUMCHIPATTINYATTINY167S
 - Name: MCU_Microchip_ATtiny : ATtiny167-S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny167-S/
 - Description: MCU_Microchip_ATtiny : ATtiny167-S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny167-S](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny167-S)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY167S](http://oom.lt/SZKMCUMCHIPATTINYATTINY167S)

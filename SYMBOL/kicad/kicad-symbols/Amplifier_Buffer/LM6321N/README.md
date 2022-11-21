@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LM6321N
 - Hex ID: SZKAMPLIFIERBUFFERLM6321N
 - Name: Amplifier_Buffer : LM6321N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/LM6321N/
 - Description: Amplifier_Buffer : LM6321N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LM6321N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LM6321N)
 - Short Link: [http://oom.lt/SZKAMPLIFIERBUFFERLM6321N](http://oom.lt/SZKAMPLIFIERBUFFERLM6321N)

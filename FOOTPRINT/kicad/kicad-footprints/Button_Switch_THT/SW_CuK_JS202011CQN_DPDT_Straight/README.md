@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CuK_JS202011CQN_DPDT_Straight
 - Hex ID: FZKBSWCUKJS2211CQNDPDTS
 - Name: Button_Switch_THT : SW_CuK_JS202011CQN_DPDT_Straight
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CuK_JS202011CQN_DPDT_Straight/
 - Description: Button_Switch_THT : SW_CuK_JS202011CQN_DPDT_Straight
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CuK_JS202011CQN_DPDT_Straight](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CuK_JS202011CQN_DPDT_Straight)
 - Short Link: [http://oom.lt/FZKBSWCUKJS2211CQNDPDTS](http://oom.lt/FZKBSWCUKJS2211CQNDPDTS)

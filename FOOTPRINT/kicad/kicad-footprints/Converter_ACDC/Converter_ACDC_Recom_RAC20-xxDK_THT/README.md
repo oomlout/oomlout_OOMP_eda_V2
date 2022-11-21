@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Recom_RAC20-xxDK_THT
 - Hex ID: FZKCONCONRECOMRAC2XXDKTHT
 - Name: Converter_ACDC : Converter_ACDC_Recom_RAC20-xxDK_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxDK_THT/
 - Description: Converter_ACDC : Converter_ACDC_Recom_RAC20-xxDK_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Recom_RAC20-xxDK_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Recom_RAC20-xxDK_THT)
 - Short Link: [http://oom.lt/FZKCONCONRECOMRAC2XXDKTHT](http://oom.lt/FZKCONCONRECOMRAC2XXDKTHT)

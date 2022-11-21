@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV912IST
 - Hex ID: SZKAMPLIFIEROPERATIONALTSV912IST
 - Name: Amplifier_Operational : TSV912IST
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV912IST/
 - Description: Amplifier_Operational : TSV912IST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV912IST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV912IST)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTSV912IST](http://oom.lt/SZKAMPLIFIEROPERATIONALTSV912IST)

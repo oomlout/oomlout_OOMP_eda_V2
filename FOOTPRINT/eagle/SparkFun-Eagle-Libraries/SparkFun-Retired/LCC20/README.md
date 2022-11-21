@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LCC20
 - Hex ID: FZSRTLCC2
 - Name: SparkFun-Retired : LCC20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LCC20/
 - Description: SparkFun-Retired : LCC20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LCC20](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LCC20)
 - Short Link: [http://oom.lt/FZSRTLCC2](http://oom.lt/FZSRTLCC2)

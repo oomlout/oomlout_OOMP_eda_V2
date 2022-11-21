@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-NFSG036BT
 - Hex ID: FZELNFSG36BT
 - Name: led : NFSG036BT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/NFSG036BT/
 - Description: led : NFSG036BT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-NFSG036BT](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-NFSG036BT)
 - Short Link: [http://oom.lt/FZELNFSG36BT](http://oom.lt/FZELNFSG36BT)

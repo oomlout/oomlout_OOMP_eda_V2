@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-AEDR-8300
 - Hex ID: FZEOPTOCOUPLERAEDR83
 - Name: optocoupler : AEDR-8300
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/AEDR-8300/
 - Description: optocoupler : AEDR-8300
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-AEDR-8300](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-AEDR-8300)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERAEDR83](http://oom.lt/FZEOPTOCOUPLERAEDR83)

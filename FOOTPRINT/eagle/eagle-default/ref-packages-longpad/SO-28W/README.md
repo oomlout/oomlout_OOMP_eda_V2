@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSO28W > ref-packages-longpad : SO-28W](#fzerefpackageslongpadso28w--ref-packages-longpad--so-28w)
+* [FZEREFPSLPSO28W > ref-packages-longpad : SO-28W](#fzerefpslpso28w--ref-packages-longpad--so-28w)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSO28W > ref-packages-longpad : SO-28W
+# FZEREFPSLPSO28W > ref-packages-longpad : SO-28W
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SO-28W
-- Hex ID: FZEREFPACKAGESLONGPADSO28W
+- Hex ID: FZEREFPSLPSO28W
 - Name: ref-packages-longpad : SO-28W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SO-28W/
 - Description: ref-packages-longpad : SO-28W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SO-28W](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SO-28W)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSO28W](http://oom.lt/FZEREFPACKAGESLONGPADSO28W)
+- Short Link: [http://oom.lt/FZEREFPSLPSO28W](http://oom.lt/FZEREFPSLPSO28W)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SO-28W|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SO-28W|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSO28W|
+|Hex ID (short code)|hexID|FZEREFPSLPSO28W|
 |name|name|ref-packages-longpad : SO-28W|
 ||||

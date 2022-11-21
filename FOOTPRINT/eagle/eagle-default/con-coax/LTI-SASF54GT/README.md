@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-LTI-SASF54GT
 - Hex ID: FZECONCOAXLTISASF54GT
 - Name: con-coax : LTI-SASF54GT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-coax/LTI-SASF54GT/
 - Description: con-coax : LTI-SASF54GT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-LTI-SASF54GT](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-LTI-SASF54GT)
 - Short Link: [http://oom.lt/FZECONCOAXLTISASF54GT](http://oom.lt/FZECONCOAXLTISASF54GT)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1033C
 - Hex ID: SZKREGULATORLINEARLT133C
 - Name: Regulator_Linear : LT1033C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1033C/
 - Description: Regulator_Linear : LT1033C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1033C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1033C)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT133C](http://oom.lt/SZKREGULATORLINEARLT133C)

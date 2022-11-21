@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-FL5150MX
 - Hex ID: SZKDRIVERFETFL515MX
 - Name: Driver_FET : FL5150MX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/FL5150MX/
 - Description: Driver_FET : FL5150MX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-FL5150MX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-FL5150MX)
 - Short Link: [http://oom.lt/SZKDRIVERFETFL515MX](http://oom.lt/SZKDRIVERFETFL515MX)

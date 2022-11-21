@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0603_MURATA
 - Hex ID: FZSCO63M
 - Name: SparkFun-Coils : 0603_MURATA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/0603_MURATA/
 - Description: SparkFun-Coils : 0603_MURATA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0603_MURATA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0603_MURATA)
 - Short Link: [http://oom.lt/FZSCO63M](http://oom.lt/FZSCO63M)

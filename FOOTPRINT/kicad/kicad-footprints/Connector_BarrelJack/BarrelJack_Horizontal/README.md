@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNBARRELJBARRELJHORIZONTAL > Connector_BarrelJack : BarrelJack_Horizontal](#fzkcnbarreljbarreljhorizontal--connector_barreljack--barreljack_horizontal)
+* [FZKCNBARRELJBARRELJH > Connector_BarrelJack : BarrelJack_Horizontal](#fzkcnbarreljbarreljh--connector_barreljack--barreljack_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNBARRELJBARRELJHORIZONTAL > Connector_BarrelJack : BarrelJack_Horizontal
+# FZKCNBARRELJBARRELJH > Connector_BarrelJack : BarrelJack_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Horizontal
-- Hex ID: FZKCNBARRELJBARRELJHORIZONTAL
+- Hex ID: FZKCNBARRELJBARRELJH
 - Name: Connector_BarrelJack : BarrelJack_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_Horizontal/
 - Description: Connector_BarrelJack : BarrelJack_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Horizontal)
-- Short Link: [http://oom.lt/FZKCNBARRELJBARRELJHORIZONTAL](http://oom.lt/FZKCNBARRELJBARRELJHORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNBARRELJBARRELJH](http://oom.lt/FZKCNBARRELJBARRELJH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_BarrelJack|
 |OOMP Index|oompIndex|BarrelJack_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Horizontal|
-|Hex ID (short code)|hexID|FZKCNBARRELJBARRELJHORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNBARRELJBARRELJH|
 |name|name|Connector_BarrelJack : BarrelJack_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BarrelJack_Horizontal'</td><td> 'description'</td></tr><tr><td> 'DC Barrel Jack'</td><td> 'tags'</td></tr><tr><td> 'Power Jack'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_BarrelJack.3dshapes/BarrelJack_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

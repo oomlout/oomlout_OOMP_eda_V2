@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT85
 - Hex ID: SZKDIODEBAT85
 - Name: Diode : BAT85
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAT85/
 - Description: Diode : BAT85
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT85](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT85)
 - Short Link: [http://oom.lt/SZKDIODEBAT85](http://oom.lt/SZKDIODEBAT85)

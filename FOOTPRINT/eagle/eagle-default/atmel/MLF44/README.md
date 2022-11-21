@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-MLF44
 - Hex ID: FZEATMELMLF44
 - Name: atmel : MLF44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/MLF44/
 - Description: atmel : MLF44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-MLF44](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-MLF44)
 - Short Link: [http://oom.lt/FZEATMELMLF44](http://oom.lt/FZEATMELMLF44)

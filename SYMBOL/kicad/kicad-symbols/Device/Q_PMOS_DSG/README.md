@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_DSG
 - Hex ID: SZKDEVICEQPMOSDSG
 - Name: Device : Q_PMOS_DSG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_PMOS_DSG/
 - Description: Device : Q_PMOS_DSG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_DSG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_DSG)
 - Short Link: [http://oom.lt/SZKDEVICEQPMOSDSG](http://oom.lt/SZKDEVICEQPMOSDSG)

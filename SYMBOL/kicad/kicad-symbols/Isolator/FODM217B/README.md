@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-FODM217B
 - Hex ID: SZKISOLATORFODM217B
 - Name: Isolator : FODM217B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/FODM217B/
 - Description: Isolator : FODM217B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-FODM217B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-FODM217B)
 - Short Link: [http://oom.lt/SZKISOLATORFODM217B](http://oom.lt/SZKISOLATORFODM217B)

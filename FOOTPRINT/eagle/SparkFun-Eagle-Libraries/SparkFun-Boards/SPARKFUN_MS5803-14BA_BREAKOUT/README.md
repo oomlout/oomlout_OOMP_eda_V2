@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_MS5803-14BA_BREAKOUT
 - Hex ID: FZSBOSPARKFUNMS58314BABREAKOUT
 - Name: SparkFun-Boards : SPARKFUN_MS5803-14BA_BREAKOUT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SPARKFUN_MS5803-14BA_BREAKOUT/
 - Description: SparkFun-Boards : SPARKFUN_MS5803-14BA_BREAKOUT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_MS5803-14BA_BREAKOUT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_MS5803-14BA_BREAKOUT)
 - Short Link: [http://oom.lt/FZSBOSPARKFUNMS58314BABREAKOUT](http://oom.lt/FZSBOSPARKFUNMS58314BABREAKOUT)

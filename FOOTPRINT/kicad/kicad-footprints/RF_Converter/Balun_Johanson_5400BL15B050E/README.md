@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Converter-Balun_Johanson_5400BL15B050E
 - Hex ID: FZKRFBALUNJOHANSON54BL15B5E
 - Name: RF_Converter : Balun_Johanson_5400BL15B050E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Converter/Balun_Johanson_5400BL15B050E/
 - Description: RF_Converter : Balun_Johanson_5400BL15B050E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Converter-Balun_Johanson_5400BL15B050E](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Converter-Balun_Johanson_5400BL15B050E)
 - Short Link: [http://oom.lt/FZKRFBALUNJOHANSON54BL15B5E](http://oom.lt/FZKRFBALUNJOHANSON54BL15B5E)

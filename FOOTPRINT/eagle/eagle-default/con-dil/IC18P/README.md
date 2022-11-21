@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-dil-IC18P
 - Hex ID: FZECONDILIC18P
 - Name: con-dil : IC18P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-dil/IC18P/
 - Description: con-dil : IC18P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-IC18P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-IC18P)
 - Short Link: [http://oom.lt/FZECONDILIC18P](http://oom.lt/FZECONDILIC18P)

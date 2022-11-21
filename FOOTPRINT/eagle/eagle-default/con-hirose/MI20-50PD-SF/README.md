@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirose-MI20-50PD-SF
 - Hex ID: FZECONHIROSEMI25PDSF
 - Name: con-hirose : MI20-50PD-SF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirose/MI20-50PD-SF/
 - Description: con-hirose : MI20-50PD-SF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-MI20-50PD-SF](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-MI20-50PD-SF)
 - Short Link: [http://oom.lt/FZECONHIROSEMI25PDSF](http://oom.lt/FZECONHIROSEMI25PDSF)

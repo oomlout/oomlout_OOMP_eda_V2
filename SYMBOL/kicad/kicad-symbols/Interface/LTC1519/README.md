@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-LTC1519
 - Hex ID: SZKINTERFACELTC1519
 - Name: Interface : LTC1519
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/LTC1519/
 - Description: Interface : LTC1519
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC1519](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC1519)
 - Short Link: [http://oom.lt/SZKINTERFACELTC1519](http://oom.lt/SZKINTERFACELTC1519)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIP9P254 > digikey-footprints : SIP-9_P2.54mm](#fzkicaddigikeykicadlibrarydigikeyfootprintssip9p254--digikey-footprints--sip-9_p254mm)
+* [FZDIGIDIGIKEYFOOTPRINTSSIP9P254 > digikey-footprints : SIP-9_P2.54mm](#fzdigidigikeyfootprintssip9p254--digikey-footprints--sip-9_p254mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIP9P254 > digikey-footprints : SIP-9_P2.54mm
+# FZDIGIDIGIKEYFOOTPRINTSSIP9P254 > digikey-footprints : SIP-9_P2.54mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIP-9_P2.54mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIP9P254
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSIP9P254
 - Name: digikey-footprints : SIP-9_P2.54mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-9_P2.54mm/
 - Description: digikey-footprints : SIP-9_P2.54mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIP-9_P2.54mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIP-9_P2.54mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIP9P254](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIP9P254)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSIP9P254](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSIP9P254)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SIP-9_P2.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIP-9_P2.54mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIP9P254|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSIP9P254|
 |name|name|digikey-footprints : SIP-9_P2.54mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SIP-9_P2.54mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/4600x.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

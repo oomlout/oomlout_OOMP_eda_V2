@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-SPAK
 - Hex ID: FZETRANSISTORFETSPAK
 - Name: transistor-fet : SPAK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/SPAK/
 - Description: transistor-fet : SPAK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-SPAK](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-SPAK)
 - Short Link: [http://oom.lt/FZETRANSISTORFETSPAK](http://oom.lt/FZETRANSISTORFETSPAK)

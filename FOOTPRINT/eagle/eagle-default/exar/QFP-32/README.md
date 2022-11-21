@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-QFP-32
 - Hex ID: FZEEXARQFP32
 - Name: exar : QFP-32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/QFP-32/
 - Description: exar : QFP-32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-QFP-32](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-QFP-32)
 - Short Link: [http://oom.lt/FZEEXARQFP32](http://oom.lt/FZEEXARQFP32)

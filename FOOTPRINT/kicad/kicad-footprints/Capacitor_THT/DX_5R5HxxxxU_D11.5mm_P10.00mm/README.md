@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-DX_5R5HxxxxU_D11.5mm_P10.00mm
 - Hex ID: FZKCDX5R5HXXXXUD115P1
 - Name: Capacitor_THT : DX_5R5HxxxxU_D11.5mm_P10.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/DX_5R5HxxxxU_D11.5mm_P10.00mm/
 - Description: Capacitor_THT : DX_5R5HxxxxU_D11.5mm_P10.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-DX_5R5HxxxxU_D11.5mm_P10.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-DX_5R5HxxxxU_D11.5mm_P10.00mm)
 - Short Link: [http://oom.lt/FZKCDX5R5HXXXXUD115P1](http://oom.lt/FZKCDX5R5HXXXXUD115P1)

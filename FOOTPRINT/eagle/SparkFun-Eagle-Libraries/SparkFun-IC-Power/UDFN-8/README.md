@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-UDFN-8
 - Hex ID: FZSIPUDFN8
 - Name: SparkFun-IC-Power : UDFN-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/UDFN-8/
 - Description: SparkFun-IC-Power : UDFN-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-UDFN-8](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-UDFN-8)
 - Short Link: [http://oom.lt/FZSIPUDFN8](http://oom.lt/FZSIPUDFN8)

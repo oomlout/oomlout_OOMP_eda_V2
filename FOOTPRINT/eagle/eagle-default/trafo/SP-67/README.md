@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-SP-67
 - Hex ID: FZETRAFOSP67
 - Name: trafo : SP-67
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/SP-67/
 - Description: trafo : SP-67
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-SP-67](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-SP-67)
 - Short Link: [http://oom.lt/FZETRAFOSP67](http://oom.lt/FZETRAFOSP67)

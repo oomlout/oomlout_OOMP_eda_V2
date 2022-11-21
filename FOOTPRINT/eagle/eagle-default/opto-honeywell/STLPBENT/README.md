@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-STLPBENT
 - Hex ID: FZEOPTOHONEYWELLSTLPBENT
 - Name: opto-honeywell : STLPBENT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/STLPBENT/
 - Description: opto-honeywell : STLPBENT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-STLPBENT](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-STLPBENT)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLSTLPBENT](http://oom.lt/FZEOPTOHONEYWELLSTLPBENT)

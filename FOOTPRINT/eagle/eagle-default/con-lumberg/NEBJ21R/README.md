@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-NEBJ21R
 - Hex ID: FZECONLUMBERGNEBJ21R
 - Name: con-lumberg : NEBJ21R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/NEBJ21R/
 - Description: con-lumberg : NEBJ21R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-NEBJ21R](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-NEBJ21R)
 - Short Link: [http://oom.lt/FZECONLUMBERGNEBJ21R](http://oom.lt/FZECONLUMBERGNEBJ21R)

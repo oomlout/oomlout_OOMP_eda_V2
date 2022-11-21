@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNAUDIOJXLRNEUTRIKNC5MAVSWVERTICAL > Connector_Audio : Jack_XLR_Neutrik_NC5MAV-SW_Vertical](#fzkcnaudiojxlrneutriknc5mavswvertical--connector_audio--jack_xlr_neutrik_nc5mav-sw_vertical)
+* [FZKCNAUDIOJXLRNEUTRIKNC5MAVSWF > Connector_Audio : Jack_XLR_Neutrik_NC5MAV-SW_Vertical](#fzkcnaudiojxlrneutriknc5mavswf--connector_audio--jack_xlr_neutrik_nc5mav-sw_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJXLRNEUTRIKNC5MAVSWVERTICAL > Connector_Audio : Jack_XLR_Neutrik_NC5MAV-SW_Vertical
+# FZKCNAUDIOJXLRNEUTRIKNC5MAVSWF > Connector_Audio : Jack_XLR_Neutrik_NC5MAV-SW_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC5MAV-SW_Vertical
-- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC5MAVSWVERTICAL
+- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC5MAVSWF
 - Name: Connector_Audio : Jack_XLR_Neutrik_NC5MAV-SW_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC5MAV-SW_Vertical/
 - Description: Connector_Audio : Jack_XLR_Neutrik_NC5MAV-SW_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC5MAV-SW_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC5MAV-SW_Vertical)
-- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC5MAVSWVERTICAL](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC5MAVSWVERTICAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC5MAVSWF](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC5MAVSWF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_XLR_Neutrik_NC5MAV-SW_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC5MAV-SW_Vertical|
-|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC5MAVSWVERTICAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC5MAVSWF|
 |name|name|Connector_Audio : Jack_XLR_Neutrik_NC5MAV-SW_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_XLR_Neutrik_NC5MAV-SW_Vertical'</td><td> 'description'</td></tr><tr><td> 'A Series</td><td> 5 pole male XLR receptacle</td><td> switching contacts</td><td> grounding</td></tr><tr><td> separate ground contact to mating connector shell and front panel</td><td> vertical PCB mount</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nc5mav-sw'</td><td> 'tags'</td></tr><tr><td> 'neutrik xlr a'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC5MAV-SW_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

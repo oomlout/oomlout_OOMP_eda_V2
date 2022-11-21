@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm
 - Hex ID: FZKDFNTEXASRGVSPVQFNN16EP21X21
 - Name: Package_DFN_QFN : Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm/
 - Description: Package_DFN_QFN : Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm)
 - Short Link: [http://oom.lt/FZKDFNTEXASRGVSPVQFNN16EP21X21](http://oom.lt/FZKDFNTEXASRGVSPVQFNN16EP21X21)

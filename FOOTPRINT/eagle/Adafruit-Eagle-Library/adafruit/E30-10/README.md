@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E30-10
 - Hex ID: FZAE31
 - Name: adafruit : E30-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E30-10/
 - Description: adafruit : E30-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E30-10](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E30-10)
 - Short Link: [http://oom.lt/FZAE31](http://oom.lt/FZAE31)

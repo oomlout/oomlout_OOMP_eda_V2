@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-TO263
 - Hex ID: FZESMIPCTO263
 - Name: smd-ipc : TO263
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/TO263/
 - Description: smd-ipc : TO263
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TO263](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TO263)
 - Short Link: [http://oom.lt/FZESMIPCTO263](http://oom.lt/FZESMIPCTO263)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-149-100P
 - Hex ID: FZECONYAMAICHI1491P
 - Name: con-yamaichi : 149-100P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-yamaichi/149-100P/
 - Description: con-yamaichi : 149-100P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-149-100P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-149-100P)
 - Short Link: [http://oom.lt/FZECONYAMAICHI1491P](http://oom.lt/FZECONYAMAICHI1491P)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-SMA-142-0701-871
 - Hex ID: FZECONCOAXS14271871
 - Name: con-coax : SMA-142-0701-871
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-coax/SMA-142-0701-871/
 - Description: con-coax : SMA-142-0701-871
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-SMA-142-0701-871](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-SMA-142-0701-871)
 - Short Link: [http://oom.lt/FZECONCOAXS14271871](http://oom.lt/FZECONCOAXS14271871)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-H08C
 - Hex ID: FZELINEARH8C
 - Name: linear : H08C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/H08C/
 - Description: linear : H08C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-H08C](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-H08C)
 - Short Link: [http://oom.lt/FZELINEARH8C](http://oom.lt/FZELINEARH8C)

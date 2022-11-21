@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-UQ-10_1.3x1.6mm_P0.4mm
 - Hex ID: FZKCSPLFCSPUQ113X16P4
 - Name: Package_CSP : LFCSP-UQ-10_1.3x1.6mm_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-UQ-10_1.3x1.6mm_P0.4mm/
 - Description: Package_CSP : LFCSP-UQ-10_1.3x1.6mm_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-UQ-10_1.3x1.6mm_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-UQ-10_1.3x1.6mm_P0.4mm)
 - Short Link: [http://oom.lt/FZKCSPLFCSPUQ113X16P4](http://oom.lt/FZKCSPLFCSPUQ113X16P4)

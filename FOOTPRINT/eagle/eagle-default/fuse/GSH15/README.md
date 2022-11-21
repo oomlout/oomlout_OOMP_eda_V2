@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-GSH15
 - Hex ID: FZEFUGSH15
 - Name: fuse : GSH15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/GSH15/
 - Description: fuse : GSH15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-GSH15](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-GSH15)
 - Short Link: [http://oom.lt/FZEFUGSH15](http://oom.lt/FZEFUGSH15)

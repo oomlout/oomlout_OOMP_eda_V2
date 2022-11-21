@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKANALOGSWITCHCD451B > Analog_Switch : CD4051B](#szkanalogswitchcd451b--analog_switch--cd4051b)
+* [SZKANALOGSWCD451B > Analog_Switch : CD4051B](#szkanalogswcd451b--analog_switch--cd4051b)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKANALOGSWITCHCD451B > Analog_Switch : CD4051B
+# SZKANALOGSWCD451B > Analog_Switch : CD4051B
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-CD4051B
-- Hex ID: SZKANALOGSWITCHCD451B
+- Hex ID: SZKANALOGSWCD451B
 - Name: Analog_Switch : CD4051B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/CD4051B/
 - Description: Analog_Switch : CD4051B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-CD4051B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-CD4051B)
-- Short Link: [http://oom.lt/SZKANALOGSWITCHCD451B](http://oom.lt/SZKANALOGSWITCHCD451B)
+- Short Link: [http://oom.lt/SZKANALOGSWCD451B](http://oom.lt/SZKANALOGSWCD451B)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Analog_Switch|
 |OOMP Index|oompIndex|CD4051B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-CD4051B|
-|Hex ID (short code)|hexID|SZKANALOGSWITCHCD451B|
+|Hex ID (short code)|hexID|SZKANALOGSWCD451B|
 |name|name|Analog_Switch : CD4051B|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CD4051B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/cd4052b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'analog switch selector multiplexer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CMOS single 8-channel analog multiplexer demultiplexer</td><td> TSSOP-16/DIP-16/SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm* DIP*W7.62* SOIC*3.9x9.9mm*P1.27mm* SO*5.3x10.2mm*P1.27mm*'</td></tr></table>]|
 ||||

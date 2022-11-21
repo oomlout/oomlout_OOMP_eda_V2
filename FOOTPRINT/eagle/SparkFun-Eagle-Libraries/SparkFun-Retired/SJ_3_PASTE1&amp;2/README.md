@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SJ_3_PASTE1&amp;2
 - Hex ID: FZSRTSJ3PASTE1&AMP;2
 - Name: SparkFun-Retired : SJ_3_PASTE1&amp;2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SJ_3_PASTE1&amp;2/
 - Description: SparkFun-Retired : SJ_3_PASTE1&amp;2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SJ_3_PASTE1&amp;2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SJ_3_PASTE1&amp;2)
 - Short Link: [http://oom.lt/FZSRTSJ3PASTE1&AMP;2](http://oom.lt/FZSRTSJ3PASTE1&AMP;2)

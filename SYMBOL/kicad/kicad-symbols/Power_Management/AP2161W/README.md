@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AP2161W
 - Hex ID: SZKPOWERMANAGEMENTAP2161W
 - Name: Power_Management : AP2161W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AP2161W/
 - Description: Power_Management : AP2161W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AP2161W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AP2161W)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAP2161W](http://oom.lt/SZKPOWERMANAGEMENTAP2161W)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_CopperTop_Big
 - Hex ID: FZKSZSYCCPUBLICDOMAINCTOPBIG
 - Name: Symbol : Symbol_CC-PublicDomain_CopperTop_Big
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-PublicDomain_CopperTop_Big/
 - Description: Symbol : Symbol_CC-PublicDomain_CopperTop_Big
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_CopperTop_Big](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_CopperTop_Big)
 - Short Link: [http://oom.lt/FZKSZSYCCPUBLICDOMAINCTOPBIG](http://oom.lt/FZKSZSYCCPUBLICDOMAINCTOPBIG)

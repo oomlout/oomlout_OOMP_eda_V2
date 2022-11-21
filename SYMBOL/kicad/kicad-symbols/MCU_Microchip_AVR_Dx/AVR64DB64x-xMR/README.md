@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB64x-xMR
 - Hex ID: SZKMCUMCHIPAVRDXAVR64DB64XXMR
 - Name: MCU_Microchip_AVR_Dx : AVR64DB64x-xMR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR64DB64x-xMR/
 - Description: MCU_Microchip_AVR_Dx : AVR64DB64x-xMR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB64x-xMR](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB64x-xMR)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR64DB64XXMR](http://oom.lt/SZKMCUMCHIPAVRDXAVR64DB64XXMR)

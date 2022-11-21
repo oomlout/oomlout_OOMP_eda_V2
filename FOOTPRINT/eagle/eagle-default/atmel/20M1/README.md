@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-20M1
 - Hex ID: FZEATMEL2M1
 - Name: atmel : 20M1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/20M1/
 - Description: atmel : 20M1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-20M1](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-20M1)
 - Short Link: [http://oom.lt/FZEATMEL2M1](http://oom.lt/FZEATMEL2M1)

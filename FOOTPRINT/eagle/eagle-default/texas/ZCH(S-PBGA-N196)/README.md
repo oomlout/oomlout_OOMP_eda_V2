@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-ZCH(S-PBGA-N196)
 - Hex ID: FZETEXASZCH(SPBGAN196)
 - Name: texas : ZCH(S-PBGA-N196)
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/ZCH(S-PBGA-N196)/
 - Description: texas : ZCH(S-PBGA-N196)
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-ZCH(S-PBGA-N196)](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-ZCH(S-PBGA-N196))
 - Short Link: [http://oom.lt/FZETEXASZCH(SPBGAN196)](http://oom.lt/FZETEXASZCH(SPBGAN196))

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNMXMXCLIKMATE52443471X41MPP2VERTICAL > Connector_Molex : Molex_CLIK-Mate_502443-0470_1x04-1MP_P2.00mm_Vertical](#fzkcnmxmxclikmate52443471x41mpp2vertical--connector_molex--molex_clik-mate_502443-0470_1x04-1mp_p200mm_vertical)
+* [FZKCNMXMXCLIKMATE52443471X41MPP2F > Connector_Molex : Molex_CLIK-Mate_502443-0470_1x04-1MP_P2.00mm_Vertical](#fzkcnmxmxclikmate52443471x41mpp2f--connector_molex--molex_clik-mate_502443-0470_1x04-1mp_p200mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXCLIKMATE52443471X41MPP2VERTICAL > Connector_Molex : Molex_CLIK-Mate_502443-0470_1x04-1MP_P2.00mm_Vertical
+# FZKCNMXMXCLIKMATE52443471X41MPP2F > Connector_Molex : Molex_CLIK-Mate_502443-0470_1x04-1MP_P2.00mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502443-0470_1x04-1MP_P2.00mm_Vertical
-- Hex ID: FZKCNMXMXCLIKMATE52443471X41MPP2VERTICAL
+- Hex ID: FZKCNMXMXCLIKMATE52443471X41MPP2F
 - Name: Connector_Molex : Molex_CLIK-Mate_502443-0470_1x04-1MP_P2.00mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502443-0470_1x04-1MP_P2.00mm_Vertical/
 - Description: Connector_Molex : Molex_CLIK-Mate_502443-0470_1x04-1MP_P2.00mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502443-0470_1x04-1MP_P2.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502443-0470_1x04-1MP_P2.00mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNMXMXCLIKMATE52443471X41MPP2VERTICAL](http://oom.lt/FZKCNMXMXCLIKMATE52443471X41MPP2VERTICAL)
+- Short Link: [http://oom.lt/FZKCNMXMXCLIKMATE52443471X41MPP2F](http://oom.lt/FZKCNMXMXCLIKMATE52443471X41MPP2F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_CLIK-Mate_502443-0470_1x04-1MP_P2.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502443-0470_1x04-1MP_P2.00mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNMXMXCLIKMATE52443471X41MPP2VERTICAL|
+|Hex ID (short code)|hexID|FZKCNMXMXCLIKMATE52443471X41MPP2F|
 |name|name|Connector_Molex : Molex_CLIK-Mate_502443-0470_1x04-1MP_P2.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_CLIK-Mate_502443-0470_1x04-1MP_P2.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex CLIK-Mate series connector</td><td> 502443-0470 (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/5024430270_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex CLIK-Mate side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_CLIK-Mate_502443-0470_1x04-1MP_P2.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

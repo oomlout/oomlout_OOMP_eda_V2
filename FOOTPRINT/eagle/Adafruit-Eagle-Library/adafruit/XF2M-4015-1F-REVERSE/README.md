@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2M-4015-1F-REVERSE
 - Hex ID: FZAXF2M4151FR
 - Name: adafruit : XF2M-4015-1F-REVERSE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/XF2M-4015-1F-REVERSE/
 - Description: adafruit : XF2M-4015-1F-REVERSE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2M-4015-1F-REVERSE](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2M-4015-1F-REVERSE)
 - Short Link: [http://oom.lt/FZAXF2M4151FR](http://oom.lt/FZAXF2M4151FR)

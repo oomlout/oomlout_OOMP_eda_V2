@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-FFKV8
 - Hex ID: FZECONPHOENIX58FFKV8
 - Name: con-phoenix-508 : FFKV8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-508/FFKV8/
 - Description: con-phoenix-508 : FFKV8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-FFKV8](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-FFKV8)
 - Short Link: [http://oom.lt/FZECONPHOENIX58FFKV8](http://oom.lt/FZECONPHOENIX58FFKV8)

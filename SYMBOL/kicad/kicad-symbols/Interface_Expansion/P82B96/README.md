@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-P82B96
 - Hex ID: SZKINTERFACEEXPANSIONP82B96
 - Name: Interface_Expansion : P82B96
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/P82B96/
 - Description: Interface_Expansion : P82B96
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-P82B96](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-P82B96)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONP82B96](http://oom.lt/SZKINTERFACEEXPANSIONP82B96)

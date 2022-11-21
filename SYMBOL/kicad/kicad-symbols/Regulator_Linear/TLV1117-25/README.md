@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV1117-25
 - Hex ID: SZKREGULATORLINEARTLV111725
 - Name: Regulator_Linear : TLV1117-25
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV1117-25/
 - Description: Regulator_Linear : TLV1117-25
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV1117-25](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV1117-25)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV111725](http://oom.lt/SZKREGULATORLINEARTLV111725)

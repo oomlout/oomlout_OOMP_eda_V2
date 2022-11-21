@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_CUI_CMT-8504-100-SMT
 - Hex ID: FZKBZMAGNETICBUZZERCUICMT8541S
 - Name: Buzzer_Beeper : MagneticBuzzer_CUI_CMT-8504-100-SMT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_CUI_CMT-8504-100-SMT/
 - Description: Buzzer_Beeper : MagneticBuzzer_CUI_CMT-8504-100-SMT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_CUI_CMT-8504-100-SMT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_CUI_CMT-8504-100-SMT)
 - Short Link: [http://oom.lt/FZKBZMAGNETICBUZZERCUICMT8541S](http://oom.lt/FZKBZMAGNETICBUZZERCUICMT8541S)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEETXBOARDETXBOARDHOLEPOS > etx-board : ETX-BOARD-HOLE-POS](#fzeetxboardetxboardholepos--etx-board--etx-board-hole-pos)
+* [FZEETXBOARDETXBOARDHPOS > etx-board : ETX-BOARD-HOLE-POS](#fzeetxboardetxboardhpos--etx-board--etx-board-hole-pos)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEETXBOARDETXBOARDHOLEPOS > etx-board : ETX-BOARD-HOLE-POS
+# FZEETXBOARDETXBOARDHPOS > etx-board : ETX-BOARD-HOLE-POS
 
 - ID: FOOTPRINT-eagle-eagle-default-etx-board-ETX-BOARD-HOLE-POS
-- Hex ID: FZEETXBOARDETXBOARDHOLEPOS
+- Hex ID: FZEETXBOARDETXBOARDHPOS
 - Name: etx-board : ETX-BOARD-HOLE-POS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/etx-board/ETX-BOARD-HOLE-POS/
 - Description: etx-board : ETX-BOARD-HOLE-POS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-etx-board-ETX-BOARD-HOLE-POS](http://oom.lt/FOOTPRINT-eagle-eagle-default-etx-board-ETX-BOARD-HOLE-POS)
-- Short Link: [http://oom.lt/FZEETXBOARDETXBOARDHOLEPOS](http://oom.lt/FZEETXBOARDETXBOARDHOLEPOS)
+- Short Link: [http://oom.lt/FZEETXBOARDETXBOARDHPOS](http://oom.lt/FZEETXBOARDETXBOARDHPOS)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|etx-board|
 |OOMP Index|oompIndex|ETX-BOARD-HOLE-POS|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-etx-board-ETX-BOARD-HOLE-POS|
-|Hex ID (short code)|hexID|FZEETXBOARDETXBOARDHOLEPOS|
+|Hex ID (short code)|hexID|FZEETXBOARDETXBOARDHPOS|
 |name|name|etx-board : ETX-BOARD-HOLE-POS|
 ||||

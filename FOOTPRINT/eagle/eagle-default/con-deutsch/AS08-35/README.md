@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-deutsch-AS08-35
 - Hex ID: FZECONDEUTSCHAS835
 - Name: con-deutsch : AS08-35
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-deutsch/AS08-35/
 - Description: con-deutsch : AS08-35
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS08-35](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS08-35)
 - Short Link: [http://oom.lt/FZECONDEUTSCHAS835](http://oom.lt/FZECONDEUTSCHAS835)

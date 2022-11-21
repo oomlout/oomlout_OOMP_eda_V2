@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-144_Die470
 - Hex ID: FZKCSPSTWLCSP144DIE47
 - Name: Package_CSP : ST_WLCSP-144_Die470
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-144_Die470/
 - Description: Package_CSP : ST_WLCSP-144_Die470
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-144_Die470](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-144_Die470)
 - Short Link: [http://oom.lt/FZKCSPSTWLCSP144DIE47](http://oom.lt/FZKCSPSTWLCSP144DIE47)

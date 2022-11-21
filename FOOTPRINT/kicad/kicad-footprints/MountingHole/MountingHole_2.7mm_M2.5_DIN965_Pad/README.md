@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL27M25DIN965PAD > MountingHole : MountingHole_2.7mm_M2.5_DIN965_Pad](#fzkholhol27m25din965pad--mountinghole--mountinghole_27mm_m25_din965_pad)
+* [FZKHOLHOL27M25DIN965P > MountingHole : MountingHole_2.7mm_M2.5_DIN965_Pad](#fzkholhol27m25din965p--mountinghole--mountinghole_27mm_m25_din965_pad)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL27M25DIN965PAD > MountingHole : MountingHole_2.7mm_M2.5_DIN965_Pad
+# FZKHOLHOL27M25DIN965P > MountingHole : MountingHole_2.7mm_M2.5_DIN965_Pad
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_DIN965_Pad
-- Hex ID: FZKHOLHOL27M25DIN965PAD
+- Hex ID: FZKHOLHOL27M25DIN965P
 - Name: MountingHole : MountingHole_2.7mm_M2.5_DIN965_Pad
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.7mm_M2.5_DIN965_Pad/
 - Description: MountingHole : MountingHole_2.7mm_M2.5_DIN965_Pad
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_DIN965_Pad](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_DIN965_Pad)
-- Short Link: [http://oom.lt/FZKHOLHOL27M25DIN965PAD](http://oom.lt/FZKHOLHOL27M25DIN965PAD)
+- Short Link: [http://oom.lt/FZKHOLHOL27M25DIN965P](http://oom.lt/FZKHOLHOL27M25DIN965P)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_2.7mm_M2.5_DIN965_Pad|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_DIN965_Pad|
-|Hex ID (short code)|hexID|FZKHOLHOL27M25DIN965PAD|
+|Hex ID (short code)|hexID|FZKHOLHOL27M25DIN965P|
 |name|name|MountingHole : MountingHole_2.7mm_M2.5_DIN965_Pad|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_2.7mm_M2.5_DIN965_Pad'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 2.7mm</td><td> M2.5</td><td> DIN965'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 2.7mm m2.5 din965'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

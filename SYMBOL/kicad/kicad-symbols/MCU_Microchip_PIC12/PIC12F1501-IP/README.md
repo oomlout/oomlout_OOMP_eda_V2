@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F1501-IP
 - Hex ID: SZKMCUMCHIPPIC12PIC12F151IP
 - Name: MCU_Microchip_PIC12 : PIC12F1501-IP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12F1501-IP/
 - Description: MCU_Microchip_PIC12 : PIC12F1501-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F1501-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F1501-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12F151IP](http://oom.lt/SZKMCUMCHIPPIC12PIC12F151IP)

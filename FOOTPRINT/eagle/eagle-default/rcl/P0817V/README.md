@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-P0817V
 - Hex ID: FZERCLP817V
 - Name: rcl : P0817V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/P0817V/
 - Description: rcl : P0817V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-P0817V](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-P0817V)
 - Short Link: [http://oom.lt/FZERCLP817V](http://oom.lt/FZERCLP817V)

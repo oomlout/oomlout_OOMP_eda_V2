@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-CHERRY-MX-LED-1X2U
 - Hex ID: FZSWCHERRYMXL1X2U
 - Name: SparkFun-Switches : CHERRY-MX-LED-1X2U
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/CHERRY-MX-LED-1X2U/
 - Description: SparkFun-Switches : CHERRY-MX-LED-1X2U
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-CHERRY-MX-LED-1X2U](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-CHERRY-MX-LED-1X2U)
 - Short Link: [http://oom.lt/FZSWCHERRYMXL1X2U](http://oom.lt/FZSWCHERRYMXL1X2U)

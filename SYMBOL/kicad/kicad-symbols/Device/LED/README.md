@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED
 - Hex ID: SZKDEVICEL
 - Name: Device : LED
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED/
 - Description: Device : LED
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED)
 - Short Link: [http://oom.lt/SZKDEVICEL](http://oom.lt/SZKDEVICEL)

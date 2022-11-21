@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-TSOP56
 - Hex ID: FZEMINTELTS56
 - Name: micro-intel : TSOP56
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/TSOP56/
 - Description: micro-intel : TSOP56
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-TSOP56](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-TSOP56)
 - Short Link: [http://oom.lt/FZEMINTELTS56](http://oom.lt/FZEMINTELTS56)

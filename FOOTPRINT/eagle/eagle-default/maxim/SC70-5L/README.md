@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-SC70-5L
 - Hex ID: FZEMAXIMSC75L
 - Name: maxim : SC70-5L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/SC70-5L/
 - Description: maxim : SC70-5L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SC70-5L](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SC70-5L)
 - Short Link: [http://oom.lt/FZEMAXIMSC75L](http://oom.lt/FZEMAXIMSC75L)

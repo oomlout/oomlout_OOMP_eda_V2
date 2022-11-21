@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-MAN71A
 - Hex ID: SZKDICHARACTERMAN71A
 - Name: Display_Character : MAN71A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/MAN71A/
 - Description: Display_Character : MAN71A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN71A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN71A)
 - Short Link: [http://oom.lt/SZKDICHARACTERMAN71A](http://oom.lt/SZKDICHARACTERMAN71A)

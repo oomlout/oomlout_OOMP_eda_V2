@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2221AxP
 - Hex ID: SZKINTERFACEUMCP2221AXP
 - Name: Interface_USB : MCP2221AxP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/MCP2221AxP/
 - Description: Interface_USB : MCP2221AxP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2221AxP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2221AxP)
 - Short Link: [http://oom.lt/SZKINTERFACEUMCP2221AXP](http://oom.lt/SZKINTERFACEUMCP2221AXP)

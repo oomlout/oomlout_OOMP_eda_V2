@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2325
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA2325
 - Name: Amplifier_Operational : OPA2325
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2325/
 - Description: Amplifier_Operational : OPA2325
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2325](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2325)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2325](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2325)

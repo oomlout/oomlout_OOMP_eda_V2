@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH0515D
 - Hex ID: SZKCONIH515D
 - Name: Converter_DCDC : IH0515D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IH0515D/
 - Description: Converter_DCDC : IH0515D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH0515D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH0515D)
 - Short Link: [http://oom.lt/SZKCONIH515D](http://oom.lt/SZKCONIH515D)

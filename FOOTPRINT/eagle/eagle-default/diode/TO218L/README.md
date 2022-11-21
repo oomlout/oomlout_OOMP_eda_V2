@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-TO218L
 - Hex ID: FZEDIODETO218L
 - Name: diode : TO218L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/TO218L/
 - Description: diode : TO218L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO218L](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO218L)
 - Short Link: [http://oom.lt/FZEDIODETO218L](http://oom.lt/FZEDIODETO218L)

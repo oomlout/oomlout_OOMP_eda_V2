@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-PLCC28
 - Hex ID: FZEMAXIMPLCC28
 - Name: maxim : PLCC28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/PLCC28/
 - Description: maxim : PLCC28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-PLCC28](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-PLCC28)
 - Short Link: [http://oom.lt/FZEMAXIMPLCC28](http://oom.lt/FZEMAXIMPLCC28)

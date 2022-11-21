@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-UM5
 - Hex ID: FZEXUM5
 - Name: crystal : UM5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/UM5/
 - Description: crystal : UM5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-UM5](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-UM5)
 - Short Link: [http://oom.lt/FZEXUM5](http://oom.lt/FZEXUM5)

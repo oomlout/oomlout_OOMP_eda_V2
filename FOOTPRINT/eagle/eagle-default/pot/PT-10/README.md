@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-PT-10
 - Hex ID: FZEPOTPT1
 - Name: pot : PT-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/PT-10/
 - Description: pot : PT-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-PT-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-PT-10)
 - Short Link: [http://oom.lt/FZEPOTPT1](http://oom.lt/FZEPOTPT1)

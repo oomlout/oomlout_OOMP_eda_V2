@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNSUASSILKFEMALE > SparkFun-Connectors : USB-A-S-SILK-FEMALE](#fzssparkfuncnsuassilkfemale--sparkfun-connectors--usb-a-s-silk-female)
+* [FZSSPARKFUNCNSUASSILKF > SparkFun-Connectors : USB-A-S-SILK-FEMALE](#fzssparkfuncnsuassilkf--sparkfun-connectors--usb-a-s-silk-female)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNSUASSILKFEMALE > SparkFun-Connectors : USB-A-S-SILK-FEMALE
+# FZSSPARKFUNCNSUASSILKF > SparkFun-Connectors : USB-A-S-SILK-FEMALE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-S-SILK-FEMALE
-- Hex ID: FZSSPARKFUNCNSUASSILKFEMALE
+- Hex ID: FZSSPARKFUNCNSUASSILKF
 - Name: SparkFun-Connectors : USB-A-S-SILK-FEMALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-A-S-SILK-FEMALE/
 - Description: SparkFun-Connectors : USB-A-S-SILK-FEMALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-S-SILK-FEMALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-S-SILK-FEMALE)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNSUASSILKFEMALE](http://oom.lt/FZSSPARKFUNCNSUASSILKFEMALE)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNSUASSILKF](http://oom.lt/FZSSPARKFUNCNSUASSILKF)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|USB-A-S-SILK-FEMALE|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-S-SILK-FEMALE|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNSUASSILKFEMALE|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNSUASSILKF|
 |name|name|SparkFun-Connectors : USB-A-S-SILK-FEMALE|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0515S
 - Hex ID: SZKCONITX515S
 - Name: Converter_DCDC : ITX0515S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX0515S/
 - Description: Converter_DCDC : ITX0515S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0515S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0515S)
 - Short Link: [http://oom.lt/SZKCONITX515S](http://oom.lt/SZKCONITX515S)

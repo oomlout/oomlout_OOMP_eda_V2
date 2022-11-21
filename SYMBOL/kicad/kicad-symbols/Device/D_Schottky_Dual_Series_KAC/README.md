@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_KAC
 - Hex ID: SZKDEVICEDSCHOTTKYDUALSERIESKAC
 - Name: Device : D_Schottky_Dual_Series_KAC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_Series_KAC/
 - Description: Device : D_Schottky_Dual_Series_KAC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_KAC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_KAC)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYDUALSERIESKAC](http://oom.lt/SZKDEVICEDSCHOTTKYDUALSERIESKAC)

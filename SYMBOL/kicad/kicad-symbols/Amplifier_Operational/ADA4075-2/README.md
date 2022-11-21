@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4075-2
 - Hex ID: SZKAMPLIFIEROPERATIONALADA4752
 - Name: Amplifier_Operational : ADA4075-2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4075-2/
 - Description: Amplifier_Operational : ADA4075-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4075-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4075-2)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA4752](http://oom.lt/SZKAMPLIFIEROPERATIONALADA4752)

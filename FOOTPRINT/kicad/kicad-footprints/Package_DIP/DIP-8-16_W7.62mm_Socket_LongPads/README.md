@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIPDIP816W762SOL > Package_DIP : DIP-8-16_W7.62mm_Socket_LongPads](#fzkdipdip816w762sol--package_dip--dip-8-16_w762mm_socket_longpads)
+* [FZKDD816W762SOL > Package_DIP : DIP-8-16_W7.62mm_Socket_LongPads](#fzkdd816w762sol--package_dip--dip-8-16_w762mm_socket_longpads)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIPDIP816W762SOL > Package_DIP : DIP-8-16_W7.62mm_Socket_LongPads
+# FZKDD816W762SOL > Package_DIP : DIP-8-16_W7.62mm_Socket_LongPads
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-8-16_W7.62mm_Socket_LongPads
-- Hex ID: FZKDIPDIP816W762SOL
+- Hex ID: FZKDD816W762SOL
 - Name: Package_DIP : DIP-8-16_W7.62mm_Socket_LongPads
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-8-16_W7.62mm_Socket_LongPads/
 - Description: Package_DIP : DIP-8-16_W7.62mm_Socket_LongPads
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-8-16_W7.62mm_Socket_LongPads](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-8-16_W7.62mm_Socket_LongPads)
-- Short Link: [http://oom.lt/FZKDIPDIP816W762SOL](http://oom.lt/FZKDIPDIP816W762SOL)
+- Short Link: [http://oom.lt/FZKDD816W762SOL](http://oom.lt/FZKDD816W762SOL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DIP|
 |OOMP Index|oompIndex|DIP-8-16_W7.62mm_Socket_LongPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-8-16_W7.62mm_Socket_LongPads|
-|Hex ID (short code)|hexID|FZKDIPDIP816W762SOL|
+|Hex ID (short code)|hexID|FZKDD816W762SOL|
 |name|name|Package_DIP : DIP-8-16_W7.62mm_Socket_LongPads|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-8-16_W7.62mm_Socket_LongPads'</td><td> 'description'</td></tr><tr><td> '16-lead though-hole mounted DIP package</td><td> row spacing 7.62 mm (300 mils)</td><td> Socket</td><td> LongPads'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-8-16_W7.62mm_Socket_LongPads.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

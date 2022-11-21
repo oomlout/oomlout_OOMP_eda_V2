@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP1177AR
 - Hex ID: SZKAMPLIFIEROPERATIONALOP1177AR
 - Name: Amplifier_Operational : OP1177AR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OP1177AR/
 - Description: Amplifier_Operational : OP1177AR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP1177AR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP1177AR)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOP1177AR](http://oom.lt/SZKAMPLIFIEROPERATIONALOP1177AR)

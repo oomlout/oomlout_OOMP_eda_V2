@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-SCART-F
 - Hex ID: FZECONHIRSCHMANNSCARTF
 - Name: con-hirschmann : SCART-F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirschmann/SCART-F/
 - Description: con-hirschmann : SCART-F
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-SCART-F](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-SCART-F)
 - Short Link: [http://oom.lt/FZECONHIRSCHMANNSCARTF](http://oom.lt/FZECONHIRSCHMANNSCARTF)

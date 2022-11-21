@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSZPOLARITYCENTERNEGATIVE8SILKSCREEN > Symbol : Polarity_Center_Negative_8mm_SilkScreen](#fzkszpolaritycenternegative8silkscreen--symbol--polarity_center_negative_8mm_silkscreen)
+* [FZKSZPOLARITYCENTERN8SILKSCREEN > Symbol : Polarity_Center_Negative_8mm_SilkScreen](#fzkszpolaritycentern8silkscreen--symbol--polarity_center_negative_8mm_silkscreen)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSZPOLARITYCENTERNEGATIVE8SILKSCREEN > Symbol : Polarity_Center_Negative_8mm_SilkScreen
+# FZKSZPOLARITYCENTERN8SILKSCREEN > Symbol : Polarity_Center_Negative_8mm_SilkScreen
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Negative_8mm_SilkScreen
-- Hex ID: FZKSZPOLARITYCENTERNEGATIVE8SILKSCREEN
+- Hex ID: FZKSZPOLARITYCENTERN8SILKSCREEN
 - Name: Symbol : Polarity_Center_Negative_8mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Polarity_Center_Negative_8mm_SilkScreen/
 - Description: Symbol : Polarity_Center_Negative_8mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Negative_8mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Negative_8mm_SilkScreen)
-- Short Link: [http://oom.lt/FZKSZPOLARITYCENTERNEGATIVE8SILKSCREEN](http://oom.lt/FZKSZPOLARITYCENTERNEGATIVE8SILKSCREEN)
+- Short Link: [http://oom.lt/FZKSZPOLARITYCENTERN8SILKSCREEN](http://oom.lt/FZKSZPOLARITYCENTERN8SILKSCREEN)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Symbol|
 |OOMP Index|oompIndex|Polarity_Center_Negative_8mm_SilkScreen|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Negative_8mm_SilkScreen|
-|Hex ID (short code)|hexID|FZKSZPOLARITYCENTERNEGATIVE8SILKSCREEN|
+|Hex ID (short code)|hexID|FZKSZPOLARITYCENTERN8SILKSCREEN|
 |name|name|Symbol : Polarity_Center_Negative_8mm_SilkScreen|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Polarity_Center_Negative_8mm_SilkScreen'</td><td> 'description'</td></tr><tr><td> 'Polarity Logo</td><td> Center Negative'</td><td> 'tags'</td></tr><tr><td> 'Logo Polarity Center Negative'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

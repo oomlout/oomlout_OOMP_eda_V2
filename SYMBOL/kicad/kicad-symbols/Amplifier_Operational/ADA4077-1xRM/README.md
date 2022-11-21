@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4077-1xRM
 - Hex ID: SZKAMPLIFIEROPERATIONALADA4771XRM
 - Name: Amplifier_Operational : ADA4077-1xRM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4077-1xRM/
 - Description: Amplifier_Operational : ADA4077-1xRM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4077-1xRM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4077-1xRM)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA4771XRM](http://oom.lt/SZKAMPLIFIEROPERATIONALADA4771XRM)

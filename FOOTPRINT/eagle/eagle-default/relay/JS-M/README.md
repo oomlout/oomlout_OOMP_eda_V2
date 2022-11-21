@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-JS-M
 - Hex ID: FZERELAYJSM
 - Name: relay : JS-M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/JS-M/
 - Description: relay : JS-M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-JS-M](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-JS-M)
 - Short Link: [http://oom.lt/FZERELAYJSM](http://oom.lt/FZERELAYJSM)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F381-GM
 - Hex ID: SZKMCUSILICONLABSC851F381GM
 - Name: MCU_SiliconLabs : C8051F381-GM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F381-GM/
 - Description: MCU_SiliconLabs : C8051F381-GM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F381-GM](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F381-GM)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSC851F381GM](http://oom.lt/SZKMCUSILICONLABSC851F381GM)

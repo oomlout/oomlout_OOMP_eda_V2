@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-TO220-52
 - Hex ID: FZEMSIEMENSTO2252
 - Name: micro-siemens : TO220-52
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/TO220-52/
 - Description: micro-siemens : TO220-52
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-TO220-52](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-TO220-52)
 - Short Link: [http://oom.lt/FZEMSIEMENSTO2252](http://oom.lt/FZEMSIEMENSTO2252)

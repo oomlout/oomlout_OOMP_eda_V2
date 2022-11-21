@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-POT_PTH
 - Hex ID: FZSRTPOTP
 - Name: SparkFun-Retired : POT_PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/POT_PTH/
 - Description: SparkFun-Retired : POT_PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-POT_PTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-POT_PTH)
 - Short Link: [http://oom.lt/FZSRTPOTP](http://oom.lt/FZSRTPOTP)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_Photo_NPN
 - Hex ID: SZKDEVICEQPHOTONPN
 - Name: Device : Q_Photo_NPN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_Photo_NPN/
 - Description: Device : Q_Photo_NPN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Photo_NPN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Photo_NPN)
 - Short Link: [http://oom.lt/SZKDEVICEQPHOTONPN](http://oom.lt/SZKDEVICEQPHOTONPN)

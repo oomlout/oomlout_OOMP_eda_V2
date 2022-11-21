@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-nec-DIL40
 - Hex ID: FZEMEMORYNECDIL4
 - Name: memory-nec : DIL40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-nec/DIL40/
 - Description: memory-nec : DIL40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-nec-DIL40](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-nec-DIL40)
 - Short Link: [http://oom.lt/FZEMEMORYNECDIL4](http://oom.lt/FZEMEMORYNECDIL4)

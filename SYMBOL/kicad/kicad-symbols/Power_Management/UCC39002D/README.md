@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-UCC39002D
 - Hex ID: SZKPOWERMANAGEMENTUCC392D
 - Name: Power_Management : UCC39002D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/UCC39002D/
 - Description: Power_Management : UCC39002D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-UCC39002D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-UCC39002D)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTUCC392D](http://oom.lt/SZKPOWERMANAGEMENTUCC392D)

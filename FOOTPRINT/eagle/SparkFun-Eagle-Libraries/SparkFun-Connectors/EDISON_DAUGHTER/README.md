@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-EDISON_DAUGHTER
 - Hex ID: FZSSPARKFUNCNSEDISONDAUGHTER
 - Name: SparkFun-Connectors : EDISON_DAUGHTER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/EDISON_DAUGHTER/
 - Description: SparkFun-Connectors : EDISON_DAUGHTER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-EDISON_DAUGHTER](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-EDISON_DAUGHTER)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSEDISONDAUGHTER](http://oom.lt/FZSSPARKFUNCNSEDISONDAUGHTER)

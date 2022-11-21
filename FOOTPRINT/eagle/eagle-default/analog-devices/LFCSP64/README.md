@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-LFCSP64
 - Hex ID: FZEANALOGDEVICESLFCSP64
 - Name: analog-devices : LFCSP64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/LFCSP64/
 - Description: analog-devices : LFCSP64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LFCSP64](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LFCSP64)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESLFCSP64](http://oom.lt/FZEANALOGDEVICESLFCSP64)

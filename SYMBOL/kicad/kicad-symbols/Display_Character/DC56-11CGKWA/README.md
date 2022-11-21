@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11CGKWA
 - Hex ID: SZKDICHARACTERDC5611CGKWA
 - Name: Display_Character : DC56-11CGKWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/DC56-11CGKWA/
 - Description: Display_Character : DC56-11CGKWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11CGKWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11CGKWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDC5611CGKWA](http://oom.lt/SZKDICHARACTERDC5611CGKWA)

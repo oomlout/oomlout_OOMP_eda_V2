@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP785F
 - Hex ID: SZKISOLATORTLP785F
 - Name: Isolator : TLP785F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TLP785F/
 - Description: Isolator : TLP785F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP785F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP785F)
 - Short Link: [http://oom.lt/SZKISOLATORTLP785F](http://oom.lt/SZKISOLATORTLP785F)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HD7730
 - Hex ID: FZEDIHPHD773
 - Name: display-hp : HD7730
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-hp/HD7730/
 - Description: display-hp : HD7730
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HD7730](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HD7730)
 - Short Link: [http://oom.lt/FZEDIHPHD773](http://oom.lt/FZEDIHPHD773)

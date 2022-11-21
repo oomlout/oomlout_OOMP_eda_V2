@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-PBGA492
 - Hex ID: FZEMINTELPBGA492
 - Name: micro-intel : PBGA492
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/PBGA492/
 - Description: micro-intel : PBGA492
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PBGA492](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PBGA492)
 - Short Link: [http://oom.lt/FZEMINTELPBGA492](http://oom.lt/FZEMINTELPBGA492)

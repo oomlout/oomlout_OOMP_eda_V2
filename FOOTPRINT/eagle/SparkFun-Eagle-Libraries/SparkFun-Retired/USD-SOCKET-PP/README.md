@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USD-SOCKET-PP
 - Hex ID: FZSRTUSDSOPP
 - Name: SparkFun-Retired : USD-SOCKET-PP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/USD-SOCKET-PP/
 - Description: SparkFun-Retired : USD-SOCKET-PP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USD-SOCKET-PP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USD-SOCKET-PP)
 - Short Link: [http://oom.lt/FZSRTUSDSOPP](http://oom.lt/FZSRTUSDSOPP)

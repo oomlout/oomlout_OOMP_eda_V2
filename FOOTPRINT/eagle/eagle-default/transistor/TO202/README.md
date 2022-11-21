@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-TO202
 - Hex ID: FZETRANSISTORTO22
 - Name: transistor : TO202
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/TO202/
 - Description: transistor : TO202
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO202](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO202)
 - Short Link: [http://oom.lt/FZETRANSISTORTO22](http://oom.lt/FZETRANSISTORTO22)

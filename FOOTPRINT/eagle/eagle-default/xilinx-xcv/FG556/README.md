@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG556
 - Hex ID: FZEXILINXXCVFG556
 - Name: xilinx-xcv : FG556
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/FG556/
 - Description: xilinx-xcv : FG556
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG556](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG556)
 - Short Link: [http://oom.lt/FZEXILINXXCVFG556](http://oom.lt/FZEXILINXXCVFG556)

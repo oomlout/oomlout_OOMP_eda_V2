@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CurrentLoop-XTR111AxDGQ
 - Hex ID: SZKINTERFACECURRENTLOOPXTR111AXDGQ
 - Name: Interface_CurrentLoop : XTR111AxDGQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CurrentLoop/XTR111AxDGQ/
 - Description: Interface_CurrentLoop : XTR111AxDGQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CurrentLoop-XTR111AxDGQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CurrentLoop-XTR111AxDGQ)
 - Short Link: [http://oom.lt/SZKINTERFACECURRENTLOOPXTR111AXDGQ](http://oom.lt/SZKINTERFACECURRENTLOOPXTR111AXDGQ)

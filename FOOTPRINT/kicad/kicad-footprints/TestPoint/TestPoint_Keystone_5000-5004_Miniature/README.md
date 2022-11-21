@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5000-5004_Miniature
 - Hex ID: FZKTPTPKEYSTONE554MATURE
 - Name: TestPoint : TestPoint_Keystone_5000-5004_Miniature
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5000-5004_Miniature/
 - Description: TestPoint : TestPoint_Keystone_5000-5004_Miniature
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5000-5004_Miniature](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5000-5004_Miniature)
 - Short Link: [http://oom.lt/FZKTPTPKEYSTONE554MATURE](http://oom.lt/FZKTPTPKEYSTONE554MATURE)

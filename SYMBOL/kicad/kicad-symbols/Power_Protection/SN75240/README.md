@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-SN75240
 - Hex ID: SZKPOWERPROTECTIONSN7524
 - Name: Power_Protection : SN75240
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/SN75240/
 - Description: Power_Protection : SN75240
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SN75240](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SN75240)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONSN7524](http://oom.lt/SZKPOWERPROTECTIONSN7524)

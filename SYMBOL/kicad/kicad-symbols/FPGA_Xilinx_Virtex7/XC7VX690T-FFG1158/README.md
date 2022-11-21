@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX690T-FFG1158
 - Hex ID: SZKFPGAXILINXVIRTEX7XC7VX69TFFG1158
 - Name: FPGA_Xilinx_Virtex7 : XC7VX690T-FFG1158
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX690T-FFG1158/
 - Description: FPGA_Xilinx_Virtex7 : XC7VX690T-FFG1158
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX690T-FFG1158](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX690T-FFG1158)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VX69TFFG1158](http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VX69TFFG1158)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F683-IP
 - Hex ID: SZKMCUMCHIPPIC12PIC12F683IP
 - Name: MCU_Microchip_PIC12 : PIC12F683-IP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12F683-IP/
 - Description: MCU_Microchip_PIC12 : PIC12F683-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F683-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F683-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12F683IP](http://oom.lt/SZKMCUMCHIPPIC12PIC12F683IP)

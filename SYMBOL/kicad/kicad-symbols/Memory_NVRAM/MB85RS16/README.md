@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS16
 - Hex ID: SZKMEMORYNVRAMMB85RS16
 - Name: Memory_NVRAM : MB85RS16
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS16/
 - Description: Memory_NVRAM : MB85RS16
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS16](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS16)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMMB85RS16](http://oom.lt/SZKMEMORYNVRAMMB85RS16)

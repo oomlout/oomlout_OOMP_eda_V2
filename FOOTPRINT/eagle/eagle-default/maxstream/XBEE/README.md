@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxstream-XBEE
 - Hex ID: FZEMAXSTREAMXBEE
 - Name: maxstream : XBEE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxstream/XBEE/
 - Description: maxstream : XBEE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxstream-XBEE](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxstream-XBEE)
 - Short Link: [http://oom.lt/FZEMAXSTREAMXBEE](http://oom.lt/FZEMAXSTREAMXBEE)

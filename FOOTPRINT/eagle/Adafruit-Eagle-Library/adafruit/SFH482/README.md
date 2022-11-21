@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SFH482
 - Hex ID: FZASFH482
 - Name: adafruit : SFH482
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SFH482/
 - Description: adafruit : SFH482
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SFH482](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SFH482)
 - Short Link: [http://oom.lt/FZASFH482](http://oom.lt/FZASFH482)

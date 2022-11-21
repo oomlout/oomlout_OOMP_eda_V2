@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMBL1X2P58 > digikey-footprints : TERM_BLOCK_1x2_P5.08MM](#fzkicaddigikeykicadlibrarydigikeyfootprintstermbl1x2p58--digikey-footprints--term_block_1x2_p508mm)
+* [FZDIGIDIGIKEYFOOTPRINTSTERMBL1X2P58 > digikey-footprints : TERM_BLOCK_1x2_P5.08MM](#fzdigidigikeyfootprintstermbl1x2p58--digikey-footprints--term_block_1x2_p508mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMBL1X2P58 > digikey-footprints : TERM_BLOCK_1x2_P5.08MM
+# FZDIGIDIGIKEYFOOTPRINTSTERMBL1X2P58 > digikey-footprints : TERM_BLOCK_1x2_P5.08MM
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TERM_BLOCK_1x2_P5.08MM
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMBL1X2P58
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTERMBL1X2P58
 - Name: digikey-footprints : TERM_BLOCK_1x2_P5.08MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TERM_BLOCK_1x2_P5.08MM/
 - Description: digikey-footprints : TERM_BLOCK_1x2_P5.08MM
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TERM_BLOCK_1x2_P5.08MM](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TERM_BLOCK_1x2_P5.08MM)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMBL1X2P58](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMBL1X2P58)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTERMBL1X2P58](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTERMBL1X2P58)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|TERM_BLOCK_1x2_P5.08MM|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TERM_BLOCK_1x2_P5.08MM|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMBL1X2P58|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTERMBL1X2P58|
 |name|name|digikey-footprints : TERM_BLOCK_1x2_P5.08MM|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TERM_BLOCK_1x2_P5.08MM'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.on-shore.com/wp-content/uploads/2015/09/osttcxx2162.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Infineon_PG-TISON-8-2
 - Hex ID: FZKSONINFINEONPGTISON82
 - Name: Package_SON : Infineon_PG-TISON-8-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Infineon_PG-TISON-8-2/
 - Description: Package_SON : Infineon_PG-TISON-8-2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Infineon_PG-TISON-8-2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Infineon_PG-TISON-8-2)
 - Short Link: [http://oom.lt/FZKSONINFINEONPGTISON82](http://oom.lt/FZKSONINFINEONPGTISON82)

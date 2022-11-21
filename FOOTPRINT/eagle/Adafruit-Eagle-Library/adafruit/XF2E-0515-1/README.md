@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2E-0515-1
 - Hex ID: FZAXF2E5151
 - Name: adafruit : XF2E-0515-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/XF2E-0515-1/
 - Description: adafruit : XF2E-0515-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2E-0515-1](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2E-0515-1)
 - Short Link: [http://oom.lt/FZAXF2E5151](http://oom.lt/FZAXF2E5151)

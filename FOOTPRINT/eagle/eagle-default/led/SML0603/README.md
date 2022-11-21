@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-SML0603
 - Hex ID: FZELSML63
 - Name: led : SML0603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/SML0603/
 - Description: led : SML0603
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SML0603](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SML0603)
 - Short Link: [http://oom.lt/FZELSML63](http://oom.lt/FZELSML63)

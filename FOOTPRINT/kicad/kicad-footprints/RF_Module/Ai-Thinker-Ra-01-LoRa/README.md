@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Ai-Thinker-Ra-01-LoRa
 - Hex ID: FZKRFMOAITHINKERRA1LORA
 - Name: RF_Module : Ai-Thinker-Ra-01-LoRa
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/Ai-Thinker-Ra-01-LoRa/
 - Description: RF_Module : Ai-Thinker-Ra-01-LoRa
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Ai-Thinker-Ra-01-LoRa](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Ai-Thinker-Ra-01-LoRa)
 - Short Link: [http://oom.lt/FZKRFMOAITHINKERRA1LORA](http://oom.lt/FZKRFMOAITHINKERRA1LORA)

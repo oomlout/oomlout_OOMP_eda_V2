@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pld-intel-S68
 - Hex ID: FZEPLDINTELS68
 - Name: pld-intel : S68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pld-intel/S68/
 - Description: pld-intel : S68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pld-intel-S68](http://oom.lt/FOOTPRINT-eagle-eagle-default-pld-intel-S68)
 - Short Link: [http://oom.lt/FZEPLDINTELS68](http://oom.lt/FZEPLDINTELS68)

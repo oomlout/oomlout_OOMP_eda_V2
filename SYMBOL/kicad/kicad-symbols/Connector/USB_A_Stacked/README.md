@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-USB_A_Stacked
 - Hex ID: SZKCNUASTACKED
 - Name: Connector : USB_A_Stacked
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/USB_A_Stacked/
 - Description: Connector : USB_A_Stacked
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_A_Stacked](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_A_Stacked)
 - Short Link: [http://oom.lt/SZKCNUASTACKED](http://oom.lt/SZKCNUASTACKED)

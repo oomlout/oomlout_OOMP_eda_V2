@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MM39SL
 - Hex ID: FZA39SL
 - Name: adafruit : MM39SL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MM39SL/
 - Description: adafruit : MM39SL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MM39SL](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MM39SL)
 - Short Link: [http://oom.lt/FZA39SL](http://oom.lt/FZA39SL)

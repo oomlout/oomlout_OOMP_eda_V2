@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_5MM-KIT
 - Hex ID: FZSLL5K
 - Name: SparkFun-LED : LED_5MM-KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/LED_5MM-KIT/
 - Description: SparkFun-LED : LED_5MM-KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_5MM-KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_5MM-KIT)
 - Short Link: [http://oom.lt/FZSLL5K](http://oom.lt/FZSLL5K)

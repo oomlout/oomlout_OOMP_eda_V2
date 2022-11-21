@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEMAXIMUMAX8THERMAL > maxim : UMAX8-THERMAL](#fzemaximumax8thermal--maxim--umax8-thermal)
+* [FZEMAXIMUMAX8TH > maxim : UMAX8-THERMAL](#fzemaximumax8th--maxim--umax8-thermal)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEMAXIMUMAX8THERMAL > maxim : UMAX8-THERMAL
+# FZEMAXIMUMAX8TH > maxim : UMAX8-THERMAL
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-UMAX8-THERMAL
-- Hex ID: FZEMAXIMUMAX8THERMAL
+- Hex ID: FZEMAXIMUMAX8TH
 - Name: maxim : UMAX8-THERMAL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/UMAX8-THERMAL/
 - Description: maxim : UMAX8-THERMAL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-UMAX8-THERMAL](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-UMAX8-THERMAL)
-- Short Link: [http://oom.lt/FZEMAXIMUMAX8THERMAL](http://oom.lt/FZEMAXIMUMAX8THERMAL)
+- Short Link: [http://oom.lt/FZEMAXIMUMAX8TH](http://oom.lt/FZEMAXIMUMAX8TH)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|maxim|
 |OOMP Index|oompIndex|UMAX8-THERMAL|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-maxim-UMAX8-THERMAL|
-|Hex ID (short code)|hexID|FZEMAXIMUMAX8THERMAL|
+|Hex ID (short code)|hexID|FZEMAXIMUMAX8TH|
 |name|name|maxim : UMAX8-THERMAL|
 ||||

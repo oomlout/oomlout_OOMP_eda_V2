@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7182AUJZ-5.0
 - Hex ID: SZKREGULATORLINEARADP7182AUJZ5
 - Name: Regulator_Linear : ADP7182AUJZ-5.0
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7182AUJZ-5.0/
 - Description: Regulator_Linear : ADP7182AUJZ-5.0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7182AUJZ-5.0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7182AUJZ-5.0)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARADP7182AUJZ5](http://oom.lt/SZKREGULATORLINEARADP7182AUJZ5)

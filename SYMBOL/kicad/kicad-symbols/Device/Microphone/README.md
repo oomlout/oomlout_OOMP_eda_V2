@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Microphone
 - Hex ID: SZKDEVICEMPHONE
 - Name: Device : Microphone
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Microphone/
 - Description: Device : Microphone
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone)
 - Short Link: [http://oom.lt/SZKDEVICEMPHONE](http://oom.lt/SZKDEVICEMPHONE)

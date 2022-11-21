@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4529
 - Hex ID: SZK4XXXIEEE4529
 - Name: 4xxx_IEEE : 4529
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4529/
 - Description: 4xxx_IEEE : 4529
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4529](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4529)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4529](http://oom.lt/SZK4XXXIEEE4529)

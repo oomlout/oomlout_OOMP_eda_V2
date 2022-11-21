@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR-2410
 - Hex ID: SZKCONTMR241
 - Name: Converter_DCDC : TMR-2410
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TMR-2410/
 - Description: Converter_DCDC : TMR-2410
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR-2410](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR-2410)
 - Short Link: [http://oom.lt/SZKCONTMR241](http://oom.lt/SZKCONTMR241)

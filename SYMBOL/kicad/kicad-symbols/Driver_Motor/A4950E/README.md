@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-A4950E
 - Hex ID: SZKDRIVERMOTORA495E
 - Name: Driver_Motor : A4950E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/A4950E/
 - Description: Driver_Motor : A4950E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-A4950E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-A4950E)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORA495E](http://oom.lt/SZKDRIVERMOTORA495E)

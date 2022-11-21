@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TOP3BHS
 - Hex ID: FZETRANSISTORPOWERTOP3BHS
 - Name: transistor-power : TOP3BHS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TOP3BHS/
 - Description: transistor-power : TOP3BHS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TOP3BHS](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TOP3BHS)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTOP3BHS](http://oom.lt/FZETRANSISTORPOWERTOP3BHS)

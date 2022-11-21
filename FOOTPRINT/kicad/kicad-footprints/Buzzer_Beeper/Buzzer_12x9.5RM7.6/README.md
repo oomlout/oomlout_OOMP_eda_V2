@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_12x9.5RM7.6
 - Hex ID: FZKBZBUZZER12X95RM76
 - Name: Buzzer_Beeper : Buzzer_12x9.5RM7.6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_12x9.5RM7.6/
 - Description: Buzzer_Beeper : Buzzer_12x9.5RM7.6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_12x9.5RM7.6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_12x9.5RM7.6)
 - Short Link: [http://oom.lt/FZKBZBUZZER12X95RM76](http://oom.lt/FZKBZBUZZER12X95RM76)

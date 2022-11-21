@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-T70-E
 - Hex ID: FZESPECIALT7E
 - Name: special : T70-E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/T70-E/
 - Description: special : T70-E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-T70-E](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-T70-E)
 - Short Link: [http://oom.lt/FZESPECIALT7E](http://oom.lt/FZESPECIALT7E)

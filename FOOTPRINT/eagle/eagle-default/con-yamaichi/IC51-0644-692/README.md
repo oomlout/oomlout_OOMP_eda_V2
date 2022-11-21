@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-IC51-0644-692
 - Hex ID: FZECONYAMAICHIIC51644692
 - Name: con-yamaichi : IC51-0644-692
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-yamaichi/IC51-0644-692/
 - Description: con-yamaichi : IC51-0644-692
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-IC51-0644-692](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-IC51-0644-692)
 - Short Link: [http://oom.lt/FZECONYAMAICHIIC51644692](http://oom.lt/FZECONYAMAICHIIC51644692)

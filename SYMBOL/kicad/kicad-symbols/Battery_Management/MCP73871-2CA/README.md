@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73871-2CA
 - Hex ID: SZKBATMANAGEMENTMCP738712CA
 - Name: Battery_Management : MCP73871-2CA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73871-2CA/
 - Description: Battery_Management : MCP73871-2CA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73871-2CA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73871-2CA)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMCP738712CA](http://oom.lt/SZKBATMANAGEMENTMCP738712CA)

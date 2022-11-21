@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC424J600-ML
 - Hex ID: SZKINTERFACEETHERNETENC424J6ML
 - Name: Interface_Ethernet : ENC424J600-ML
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/ENC424J600-ML/
 - Description: Interface_Ethernet : ENC424J600-ML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC424J600-ML](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC424J600-ML)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETENC424J6ML](http://oom.lt/SZKINTERFACEETHERNETENC424J6ML)

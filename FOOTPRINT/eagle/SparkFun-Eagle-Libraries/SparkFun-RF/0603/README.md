@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-0603
 - Hex ID: FZSRF63
 - Name: SparkFun-RF : 0603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/0603/
 - Description: SparkFun-RF : 0603
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-0603](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-0603)
 - Short Link: [http://oom.lt/FZSRF63](http://oom.lt/FZSRF63)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_RPMx.x-x.0
 - Hex ID: FZKCONCONRECOMRPMXXX
 - Name: Converter_DCDC : Converter_DCDC_RECOM_RPMx.x-x.0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_RECOM_RPMx.x-x.0/
 - Description: Converter_DCDC : Converter_DCDC_RECOM_RPMx.x-x.0
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_RPMx.x-x.0](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_RPMx.x-x.0)
 - Short Link: [http://oom.lt/FZKCONCONRECOMRPMXXX](http://oom.lt/FZKCONCONRECOMRPMXXX)

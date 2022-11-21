@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2204R-2.8
 - Hex ID: SZKREGULATORLINEARAP224R28
 - Name: Regulator_Linear : AP2204R-2.8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP2204R-2.8/
 - Description: Regulator_Linear : AP2204R-2.8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2204R-2.8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2204R-2.8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP224R28](http://oom.lt/SZKREGULATORLINEARAP224R28)

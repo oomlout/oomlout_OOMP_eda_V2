@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BUTTON-10MM
 - Hex ID: FZSRTB1
 - Name: SparkFun-Retired : BUTTON-10MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/BUTTON-10MM/
 - Description: SparkFun-Retired : BUTTON-10MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BUTTON-10MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BUTTON-10MM)
 - Short Link: [http://oom.lt/FZSRTB1](http://oom.lt/FZSRTB1)

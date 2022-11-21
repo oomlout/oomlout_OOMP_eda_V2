@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-5P49V6965
 - Hex ID: SZKOCS5P49V6965
 - Name: Oscillator : 5P49V6965
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/5P49V6965/
 - Description: Oscillator : 5P49V6965
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-5P49V6965](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-5P49V6965)
 - Short Link: [http://oom.lt/SZKOCS5P49V6965](http://oom.lt/SZKOCS5P49V6965)

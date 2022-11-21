@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-6-SMD-1.25MM-LOCKING
 - Hex ID: FZSSPARKFUNCNSJST6SM125LING
 - Name: SparkFun-Connectors : JST-6-SMD-1.25MM-LOCKING
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/JST-6-SMD-1.25MM-LOCKING/
 - Description: SparkFun-Connectors : JST-6-SMD-1.25MM-LOCKING
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-6-SMD-1.25MM-LOCKING](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-6-SMD-1.25MM-LOCKING)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSJST6SM125LING](http://oom.lt/FZSSPARKFUNCNSJST6SM125LING)

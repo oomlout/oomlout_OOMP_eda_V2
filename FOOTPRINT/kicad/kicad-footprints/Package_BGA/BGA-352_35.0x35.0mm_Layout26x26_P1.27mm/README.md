@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-352_35.0x35.0mm_Layout26x26_P1.27mm
 - Hex ID: FZKBGABGA35235X35LAYOUT26X26P127
 - Name: Package_BGA : BGA-352_35.0x35.0mm_Layout26x26_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-352_35.0x35.0mm_Layout26x26_P1.27mm/
 - Description: Package_BGA : BGA-352_35.0x35.0mm_Layout26x26_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-352_35.0x35.0mm_Layout26x26_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-352_35.0x35.0mm_Layout26x26_P1.27mm)
 - Short Link: [http://oom.lt/FZKBGABGA35235X35LAYOUT26X26P127](http://oom.lt/FZKBGABGA35235X35LAYOUT26X26P127)

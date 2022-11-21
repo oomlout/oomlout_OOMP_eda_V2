@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_NF_ETAL_P1165
 - Hex ID: FZKTRTRNFETALP1165
 - Name: Transformer_THT : Transformer_NF_ETAL_P1165
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_NF_ETAL_P1165/
 - Description: Transformer_THT : Transformer_NF_ETAL_P1165
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_NF_ETAL_P1165](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_NF_ETAL_P1165)
 - Short Link: [http://oom.lt/FZKTRTRNFETALP1165](http://oom.lt/FZKTRTRNFETALP1165)

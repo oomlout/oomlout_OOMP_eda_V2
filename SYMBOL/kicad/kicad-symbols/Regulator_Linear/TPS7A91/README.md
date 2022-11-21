@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A91
 - Hex ID: SZKREGULATORLINEARTPS7A91
 - Name: Regulator_Linear : TPS7A91
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS7A91/
 - Description: Regulator_Linear : TPS7A91
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A91](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A91)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7A91](http://oom.lt/SZKREGULATORLINEARTPS7A91)

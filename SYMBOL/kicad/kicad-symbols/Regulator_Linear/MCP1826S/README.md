@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1826S
 - Hex ID: SZKREGULATORLINEARMCP1826S
 - Name: Regulator_Linear : MCP1826S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1826S/
 - Description: Regulator_Linear : MCP1826S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1826S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1826S)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP1826S](http://oom.lt/SZKREGULATORLINEARMCP1826S)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R2
 - Hex ID: FZKMOARDUNOR2
 - Name: Module : Arduino_UNO_R2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Arduino_UNO_R2/
 - Description: Module : Arduino_UNO_R2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R2)
 - Short Link: [http://oom.lt/FZKMOARDUNOR2](http://oom.lt/FZKMOARDUNOR2)

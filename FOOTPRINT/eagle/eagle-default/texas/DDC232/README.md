@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-DDC232
 - Hex ID: FZETEXASDDC232
 - Name: texas : DDC232
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/DDC232/
 - Description: texas : DDC232
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DDC232](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DDC232)
 - Short Link: [http://oom.lt/FZETEXASDDC232](http://oom.lt/FZETEXASDDC232)

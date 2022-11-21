@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L152R6T
 - Hex ID: SZKMCUSTSTM8STM8L152R6T
 - Name: MCU_ST_STM8 : STM8L152R6T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8L152R6T/
 - Description: MCU_ST_STM8 : STM8L152R6T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L152R6T](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L152R6T)
 - Short Link: [http://oom.lt/SZKMCUSTSTM8STM8L152R6T](http://oom.lt/SZKMCUSTSTM8STM8L152R6T)

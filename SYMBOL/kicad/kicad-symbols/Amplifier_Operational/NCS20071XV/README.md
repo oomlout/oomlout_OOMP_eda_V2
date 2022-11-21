@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20071XV
 - Hex ID: SZKAMPLIFIEROPERATIONALNCS271XV
 - Name: Amplifier_Operational : NCS20071XV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NCS20071XV/
 - Description: Amplifier_Operational : NCS20071XV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20071XV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20071XV)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNCS271XV](http://oom.lt/SZKAMPLIFIEROPERATIONALNCS271XV)

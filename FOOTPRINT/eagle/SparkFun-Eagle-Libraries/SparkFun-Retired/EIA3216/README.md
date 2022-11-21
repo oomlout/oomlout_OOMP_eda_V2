@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-EIA3216
 - Hex ID: FZSRTEIA3216
 - Name: SparkFun-Retired : EIA3216
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/EIA3216/
 - Description: SparkFun-Retired : EIA3216
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-EIA3216](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-EIA3216)
 - Short Link: [http://oom.lt/FZSRTEIA3216](http://oom.lt/FZSRTEIA3216)

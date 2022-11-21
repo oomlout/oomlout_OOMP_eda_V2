@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_CB_PSF
 - Hex ID: FZKSENCURRENTALLEGROCBPSF
 - Name: Sensor_Current : Allegro_CB_PSF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_CB_PSF/
 - Description: Sensor_Current : Allegro_CB_PSF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_CB_PSF](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_CB_PSF)
 - Short Link: [http://oom.lt/FZKSENCURRENTALLEGROCBPSF](http://oom.lt/FZKSENCURRENTALLEGROCBPSF)

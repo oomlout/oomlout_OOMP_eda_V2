@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2484E
 - Hex ID: SZKINTERFACEUARTADM2484E
 - Name: Interface_UART : ADM2484E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM2484E/
 - Description: Interface_UART : ADM2484E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2484E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2484E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM2484E](http://oom.lt/SZKINTERFACEUARTADM2484E)

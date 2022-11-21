@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-211
 - Hex ID: SZKOCSSG211
 - Name: Oscillator : SG-211
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/SG-211/
 - Description: Oscillator : SG-211
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-211](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-211)
 - Short Link: [http://oom.lt/SZKOCSSG211](http://oom.lt/SZKOCSSG211)

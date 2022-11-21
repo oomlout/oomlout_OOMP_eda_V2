@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SO08
 - Hex ID: FZSISSO8
 - Name: SparkFun-IC-Special-Function : SO08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/SO08/
 - Description: SparkFun-IC-Special-Function : SO08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SO08](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SO08)
 - Short Link: [http://oom.lt/FZSISSO8](http://oom.lt/FZSISSO8)

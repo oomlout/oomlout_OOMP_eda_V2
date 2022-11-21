@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKLLD18W18H24HORIZONTALO381Z82 > LED_THT : LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm](#fzklld18w18h24horizontalo381z82--led_tht--led_d18mm_w18mm_h24mm_horizontal_o381mm_z82mm)
+* [FZKLLD18W18H24HO381Z82 > LED_THT : LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm](#fzklld18w18h24ho381z82--led_tht--led_d18mm_w18mm_h24mm_horizontal_o381mm_z82mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLLD18W18H24HORIZONTALO381Z82 > LED_THT : LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm
+# FZKLLD18W18H24HO381Z82 > LED_THT : LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm
-- Hex ID: FZKLLD18W18H24HORIZONTALO381Z82
+- Hex ID: FZKLLD18W18H24HO381Z82
 - Name: LED_THT : LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm/
 - Description: LED_THT : LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm)
-- Short Link: [http://oom.lt/FZKLLD18W18H24HORIZONTALO381Z82](http://oom.lt/FZKLLD18W18H24HORIZONTALO381Z82)
+- Short Link: [http://oom.lt/FZKLLD18W18H24HO381Z82](http://oom.lt/FZKLLD18W18H24HO381Z82)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|LED_THT|
 |OOMP Index|oompIndex|LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm|
-|Hex ID (short code)|hexID|FZKLLD18W18H24HORIZONTALO381Z82|
+|Hex ID (short code)|hexID|FZKLLD18W18H24HO381Z82|
 |name|name|LED_THT : LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm'</td><td> 'description'</td></tr><tr><td> 'LED</td><td> </td><td>  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm</td><td> 2 pins</td><td>  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm</td><td> 2 pins</td><td>  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm</td><td> 2 pins</td><td>  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm</td><td> 2 pins</td><td>  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm</td><td> 2 pins</td><td>  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm</td><td> 2 pins</td><td>  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm</td><td> 2 pins</td><td>  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm</td><td> 2 pins'</td><td> 'tags'</td></tr><tr><td> 'LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm 2 pins'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_THT.3dshapes/LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

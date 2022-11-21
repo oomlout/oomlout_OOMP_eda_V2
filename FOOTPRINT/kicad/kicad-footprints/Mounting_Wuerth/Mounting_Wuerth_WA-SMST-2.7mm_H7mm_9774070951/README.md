@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMST-2.7mm_H7mm_9774070951
 - Hex ID: FZKMONMONWASMST27H797747951
 - Name: Mounting_Wuerth : Mounting_Wuerth_WA-SMST-2.7mm_H7mm_9774070951
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-2.7mm_H7mm_9774070951/
 - Description: Mounting_Wuerth : Mounting_Wuerth_WA-SMST-2.7mm_H7mm_9774070951
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMST-2.7mm_H7mm_9774070951](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMST-2.7mm_H7mm_9774070951)
 - Short Link: [http://oom.lt/FZKMONMONWASMST27H797747951](http://oom.lt/FZKMONMONWASMST27H797747951)

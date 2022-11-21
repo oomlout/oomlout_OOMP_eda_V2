@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5813
 - Hex ID: SZKANALOGDACMAX5813
 - Name: Analog_DAC : MAX5813
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MAX5813/
 - Description: Analog_DAC : MAX5813
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5813](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5813)
 - Short Link: [http://oom.lt/SZKANALOGDACMAX5813](http://oom.lt/SZKANALOGDACMAX5813)

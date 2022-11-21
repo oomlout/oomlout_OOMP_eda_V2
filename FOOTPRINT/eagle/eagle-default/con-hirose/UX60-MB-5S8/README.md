@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirose-UX60-MB-5S8
 - Hex ID: FZECONHIROSEUX6MB5S8
 - Name: con-hirose : UX60-MB-5S8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirose/UX60-MB-5S8/
 - Description: con-hirose : UX60-MB-5S8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-UX60-MB-5S8](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-UX60-MB-5S8)
 - Short Link: [http://oom.lt/FZECONHIROSEUX6MB5S8](http://oom.lt/FZECONHIROSEUX6MB5S8)

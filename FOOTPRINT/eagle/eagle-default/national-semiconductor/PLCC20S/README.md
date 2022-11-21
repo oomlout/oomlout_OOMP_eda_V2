@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-PLCC20S
 - Hex ID: FZENATIONALSEMICONDUCTORPLCC2S
 - Name: national-semiconductor : PLCC20S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/PLCC20S/
 - Description: national-semiconductor : PLCC20S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-PLCC20S](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-PLCC20S)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORPLCC2S](http://oom.lt/FZENATIONALSEMICONDUCTORPLCC2S)

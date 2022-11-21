@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-ITS711L1
 - Hex ID: SZKDRIVERFETITS711L1
 - Name: Driver_FET : ITS711L1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/ITS711L1/
 - Description: Driver_FET : ITS711L1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ITS711L1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ITS711L1)
 - Short Link: [http://oom.lt/SZKDRIVERFETITS711L1](http://oom.lt/SZKDRIVERFETITS711L1)

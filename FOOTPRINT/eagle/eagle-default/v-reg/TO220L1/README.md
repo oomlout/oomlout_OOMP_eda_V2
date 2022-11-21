@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-TO220L1
 - Hex ID: FZEVREGTO22L1
 - Name: v-reg : TO220L1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/TO220L1/
 - Description: v-reg : TO220L1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO220L1](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO220L1)
 - Short Link: [http://oom.lt/FZEVREGTO22L1](http://oom.lt/FZEVREGTO22L1)

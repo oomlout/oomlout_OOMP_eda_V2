@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-LTC6102HVxDD
 - Hex ID: SZKAMPLIFIERCURRENTLTC612HVXDD
 - Name: Amplifier_Current : LTC6102HVxDD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/LTC6102HVxDD/
 - Description: Amplifier_Current : LTC6102HVxDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-LTC6102HVxDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-LTC6102HVxDD)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTLTC612HVXDD](http://oom.lt/SZKAMPLIFIERCURRENTLTC612HVXDD)

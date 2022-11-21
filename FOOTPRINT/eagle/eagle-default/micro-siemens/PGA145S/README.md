@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-PGA145S
 - Hex ID: FZEMSIEMENSPGA145S
 - Name: micro-siemens : PGA145S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/PGA145S/
 - Description: micro-siemens : PGA145S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PGA145S](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PGA145S)
 - Short Link: [http://oom.lt/FZEMSIEMENSPGA145S](http://oom.lt/FZEMSIEMENSPGA145S)

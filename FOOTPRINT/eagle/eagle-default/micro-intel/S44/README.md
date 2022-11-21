@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-S44
 - Hex ID: FZEMINTELS44
 - Name: micro-intel : S44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/S44/
 - Description: micro-intel : S44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-S44](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-S44)
 - Short Link: [http://oom.lt/FZEMINTELS44](http://oom.lt/FZEMINTELS44)

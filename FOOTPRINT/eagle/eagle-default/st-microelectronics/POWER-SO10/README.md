@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-POWER-SO10
 - Hex ID: FZESTMELECTRONICSPOWERSO1
 - Name: st-microelectronics : POWER-SO10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/POWER-SO10/
 - Description: st-microelectronics : POWER-SO10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-POWER-SO10](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-POWER-SO10)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSPOWERSO1](http://oom.lt/FZESTMELECTRONICSPOWERSO1)

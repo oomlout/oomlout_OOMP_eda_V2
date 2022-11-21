@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT363_PHILIPS
 - Hex ID: FZETRANSISTORSLLSIGNALSOT363PHILIPS
 - Name: transistor-small-signal : SOT363_PHILIPS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/SOT363_PHILIPS/
 - Description: transistor-small-signal : SOT363_PHILIPS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT363_PHILIPS](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT363_PHILIPS)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALSOT363PHILIPS](http://oom.lt/FZETRANSISTORSLLSIGNALSOT363PHILIPS)

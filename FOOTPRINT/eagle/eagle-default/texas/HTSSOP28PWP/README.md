@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-HTSSOP28PWP
 - Hex ID: FZETEXASHTSS28PWP
 - Name: texas : HTSSOP28PWP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/HTSSOP28PWP/
 - Description: texas : HTSSOP28PWP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTSSOP28PWP](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTSSOP28PWP)
 - Short Link: [http://oom.lt/FZETEXASHTSS28PWP](http://oom.lt/FZETEXASHTSS28PWP)

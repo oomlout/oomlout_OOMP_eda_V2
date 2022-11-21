@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711 > digikey-footprints : Bluetooth_Module_RFD77101](#fzkicaddigikeykicadlibrarydigikeyfootprintsbluetoothmorfd7711--digikey-footprints--bluetooth_module_rfd77101)
+* [FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711 > digikey-footprints : Bluetooth_Module_RFD77101](#fzdigidigikeyfootprintsbluetoothmorfd7711--digikey-footprints--bluetooth_module_rfd77101)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711 > digikey-footprints : Bluetooth_Module_RFD77101
+# FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711 > digikey-footprints : Bluetooth_Module_RFD77101
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RFD77101
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711
 - Name: digikey-footprints : Bluetooth_Module_RFD77101
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_RFD77101/
 - Description: digikey-footprints : Bluetooth_Module_RFD77101
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RFD77101](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RFD77101)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Bluetooth_Module_RFD77101|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RFD77101|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711|
 |name|name|digikey-footprints : Bluetooth_Module_RFD77101|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bluetooth_Module_RFD77101'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

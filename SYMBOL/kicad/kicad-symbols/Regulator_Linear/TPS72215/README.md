@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS72215
 - Hex ID: SZKREGULATORLINEARTPS72215
 - Name: Regulator_Linear : TPS72215
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS72215/
 - Description: Regulator_Linear : TPS72215
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS72215](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS72215)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS72215](http://oom.lt/SZKREGULATORLINEARTPS72215)

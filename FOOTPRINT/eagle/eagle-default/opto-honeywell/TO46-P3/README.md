@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-TO46-P3
 - Hex ID: FZEOPTOHONEYWELLTO46P3
 - Name: opto-honeywell : TO46-P3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/TO46-P3/
 - Description: opto-honeywell : TO46-P3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-TO46-P3](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-TO46-P3)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLTO46P3](http://oom.lt/FZEOPTOHONEYWELLTO46P3)

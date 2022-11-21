@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-frames-DOCSMAL
 - Hex ID: FZEFRAMESDOCSL
 - Name: frames : DOCSMAL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/frames/DOCSMAL/
 - Description: frames : DOCSMAL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-DOCSMAL](http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-DOCSMAL)
 - Short Link: [http://oom.lt/FZEFRAMESDOCSL](http://oom.lt/FZEFRAMESDOCSL)

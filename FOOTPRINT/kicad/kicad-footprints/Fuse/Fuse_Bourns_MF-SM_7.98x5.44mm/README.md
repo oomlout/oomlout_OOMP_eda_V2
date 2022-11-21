@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_7.98x5.44mm
 - Hex ID: FZKFUFUBOURNSMFSM798X544
 - Name: Fuse : Fuse_Bourns_MF-SM_7.98x5.44mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-SM_7.98x5.44mm/
 - Description: Fuse : Fuse_Bourns_MF-SM_7.98x5.44mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_7.98x5.44mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_7.98x5.44mm)
 - Short Link: [http://oom.lt/FZKFUFUBOURNSMFSM798X544](http://oom.lt/FZKFUFUBOURNSMFSM798X544)

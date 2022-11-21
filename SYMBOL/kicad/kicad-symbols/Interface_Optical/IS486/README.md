@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-IS486
 - Hex ID: SZKINTERFACEOPTICALIS486
 - Name: Interface_Optical : IS486
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Optical/IS486/
 - Description: Interface_Optical : IS486
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-IS486](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-IS486)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALIS486](http://oom.lt/SZKINTERFACEOPTICALIS486)

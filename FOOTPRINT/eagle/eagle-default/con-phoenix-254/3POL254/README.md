@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-254-3POL254
 - Hex ID: FZECONPHOENIX2543POL254
 - Name: con-phoenix-254 : 3POL254
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-254/3POL254/
 - Description: con-phoenix-254 : 3POL254
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-254-3POL254](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-254-3POL254)
 - Short Link: [http://oom.lt/FZECONPHOENIX2543POL254](http://oom.lt/FZECONPHOENIX2543POL254)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL16
 - Hex ID: FZESTMELECTRONICSDIL16
 - Name: st-microelectronics : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/DIL16/
 - Description: st-microelectronics : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL16)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSDIL16](http://oom.lt/FZESTMELECTRONICSDIL16)

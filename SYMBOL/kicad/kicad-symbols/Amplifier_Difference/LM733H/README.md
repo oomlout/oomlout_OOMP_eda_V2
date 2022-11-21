@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Difference-LM733H
 - Hex ID: SZKAMPLIFIERDIFFERENCELM733H
 - Name: Amplifier_Difference : LM733H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/LM733H/
 - Description: Amplifier_Difference : LM733H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-LM733H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-LM733H)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCELM733H](http://oom.lt/SZKAMPLIFIERDIFFERENCELM733H)

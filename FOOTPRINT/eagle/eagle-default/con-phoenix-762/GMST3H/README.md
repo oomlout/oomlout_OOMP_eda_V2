@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMST3H
 - Hex ID: FZECONPHOENIX762GMST3H
 - Name: con-phoenix-762 : GMST3H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-762/GMST3H/
 - Description: con-phoenix-762 : GMST3H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMST3H](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMST3H)
 - Short Link: [http://oom.lt/FZECONPHOENIX762GMST3H](http://oom.lt/FZECONPHOENIX762GMST3H)

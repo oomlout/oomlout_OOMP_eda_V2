@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TEN20-xxxx-N4_THT
 - Hex ID: FZKCONCONTRACOTEN2XXXXN4THT
 - Name: Converter_DCDC : Converter_DCDC_TRACO_TEN20-xxxx-N4_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TEN20-xxxx-N4_THT/
 - Description: Converter_DCDC : Converter_DCDC_TRACO_TEN20-xxxx-N4_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TEN20-xxxx-N4_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TEN20-xxxx-N4_THT)
 - Short Link: [http://oom.lt/FZKCONCONTRACOTEN2XXXXN4THT](http://oom.lt/FZKCONCONTRACOTEN2XXXXN4THT)

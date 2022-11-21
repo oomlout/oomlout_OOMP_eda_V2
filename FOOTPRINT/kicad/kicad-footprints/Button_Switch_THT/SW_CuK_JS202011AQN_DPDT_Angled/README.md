@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CuK_JS202011AQN_DPDT_Angled
 - Hex ID: FZKBSWCUKJS2211AQNDPDTANGL
 - Name: Button_Switch_THT : SW_CuK_JS202011AQN_DPDT_Angled
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CuK_JS202011AQN_DPDT_Angled/
 - Description: Button_Switch_THT : SW_CuK_JS202011AQN_DPDT_Angled
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CuK_JS202011AQN_DPDT_Angled](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CuK_JS202011AQN_DPDT_Angled)
 - Short Link: [http://oom.lt/FZKBSWCUKJS2211AQNDPDTANGL](http://oom.lt/FZKBSWCUKJS2211AQNDPDTANGL)

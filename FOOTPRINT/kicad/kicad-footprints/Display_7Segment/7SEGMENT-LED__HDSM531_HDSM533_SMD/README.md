@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SEGMENT-LED__HDSM531_HDSM533_SMD
 - Hex ID: FZKDI7S7SLHDSM531HDSM533SM
 - Name: Display_7Segment : 7SEGMENT-LED__HDSM531_HDSM533_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SEGMENT-LED__HDSM531_HDSM533_SMD/
 - Description: Display_7Segment : 7SEGMENT-LED__HDSM531_HDSM533_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SEGMENT-LED__HDSM531_HDSM533_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SEGMENT-LED__HDSM531_HDSM533_SMD)
 - Short Link: [http://oom.lt/FZKDI7S7SLHDSM531HDSM533SM](http://oom.lt/FZKDI7S7SLHDSM531HDSM533SM)

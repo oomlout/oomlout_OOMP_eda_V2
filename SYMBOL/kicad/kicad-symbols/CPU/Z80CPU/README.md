@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPU-Z80CPU
 - Hex ID: SZKCPUZ8CPU
 - Name: CPU : Z80CPU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU/Z80CPU/
 - Description: CPU : Z80CPU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU-Z80CPU](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU-Z80CPU)
 - Short Link: [http://oom.lt/SZKCPUZ8CPU](http://oom.lt/SZKCPUZ8CPU)

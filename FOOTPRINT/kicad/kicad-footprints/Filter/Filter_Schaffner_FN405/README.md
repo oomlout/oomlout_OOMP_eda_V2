@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Schaffner_FN405
 - Hex ID: FZKFILFILSCHAFFNERFN45
 - Name: Filter : Filter_Schaffner_FN405
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_Schaffner_FN405/
 - Description: Filter : Filter_Schaffner_FN405
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Schaffner_FN405](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Schaffner_FN405)
 - Short Link: [http://oom.lt/FZKFILFILSCHAFFNERFN45](http://oom.lt/FZKFILFILSCHAFFNERFN45)

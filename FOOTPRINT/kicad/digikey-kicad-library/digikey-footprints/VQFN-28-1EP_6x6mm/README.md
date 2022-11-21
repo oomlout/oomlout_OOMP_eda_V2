@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVQFN281EP6X6 > digikey-footprints : VQFN-28-1EP_6x6mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsvqfn281ep6x6--digikey-footprints--vqfn-28-1ep_6x6mm)
+* [FZDIGIDIGIKEYFOOTPRINTSVQFN281EP6X6 > digikey-footprints : VQFN-28-1EP_6x6mm](#fzdigidigikeyfootprintsvqfn281ep6x6--digikey-footprints--vqfn-28-1ep_6x6mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVQFN281EP6X6 > digikey-footprints : VQFN-28-1EP_6x6mm
+# FZDIGIDIGIKEYFOOTPRINTSVQFN281EP6X6 > digikey-footprints : VQFN-28-1EP_6x6mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VQFN-28-1EP_6x6mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVQFN281EP6X6
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSVQFN281EP6X6
 - Name: digikey-footprints : VQFN-28-1EP_6x6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VQFN-28-1EP_6x6mm/
 - Description: digikey-footprints : VQFN-28-1EP_6x6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VQFN-28-1EP_6x6mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VQFN-28-1EP_6x6mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVQFN281EP6X6](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVQFN281EP6X6)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVQFN281EP6X6](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVQFN281EP6X6)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|VQFN-28-1EP_6x6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VQFN-28-1EP_6x6mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVQFN281EP6X6|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSVQFN281EP6X6|
 |name|name|digikey-footprints : VQFN-28-1EP_6x6mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VQFN-28-1EP_6x6mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.semtech.com/images/datasheet/sx1272.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

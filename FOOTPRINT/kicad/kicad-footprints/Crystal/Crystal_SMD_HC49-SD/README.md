@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD
 - Hex ID: FZKXXSMHC49SD
 - Name: Crystal : Crystal_SMD_HC49-SD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_HC49-SD/
 - Description: Crystal : Crystal_SMD_HC49-SD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD)
 - Short Link: [http://oom.lt/FZKXXSMHC49SD](http://oom.lt/FZKXXSMHC49SD)

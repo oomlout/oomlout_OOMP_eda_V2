@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-MSTB3
 - Hex ID: FZECONPHOENIX58MSTB3
 - Name: con-phoenix-508 : MSTB3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-508/MSTB3/
 - Description: con-phoenix-508 : MSTB3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-MSTB3](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-MSTB3)
 - Short Link: [http://oom.lt/FZECONPHOENIX58MSTB3](http://oom.lt/FZECONPHOENIX58MSTB3)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7296
 - Hex ID: SZKAMPLIFIERAUDIOTDA7296
 - Name: Amplifier_Audio : TDA7296
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TDA7296/
 - Description: Amplifier_Audio : TDA7296
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7296](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7296)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTDA7296](http://oom.lt/SZKAMPLIFIERAUDIOTDA7296)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_M0_Wifi
 - Hex ID: FZKMOADAFEATHERMWIFI
 - Name: Module : Adafruit_Feather_M0_Wifi
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_M0_Wifi/
 - Description: Module : Adafruit_Feather_M0_Wifi
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_M0_Wifi](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_M0_Wifi)
 - Short Link: [http://oom.lt/FZKMOADAFEATHERMWIFI](http://oom.lt/FZKMOADAFEATHERMWIFI)

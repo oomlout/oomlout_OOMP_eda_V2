@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8801PWP
 - Hex ID: SZKDRIVERMOTORDRV881PWP
 - Name: Driver_Motor : DRV8801PWP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8801PWP/
 - Description: Driver_Motor : DRV8801PWP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8801PWP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8801PWP)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV881PWP](http://oom.lt/SZKDRIVERMOTORDRV881PWP)

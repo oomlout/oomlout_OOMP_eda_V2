@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELG5V2 > digikey-footprints : Relay_THT_G5V-2](#fzkicaddigikeykicadlibrarydigikeyfootprintsrelg5v2--digikey-footprints--relay_tht_g5v-2)
+* [FZDIGIDIGIKEYFOOTPRINTSRELG5V2 > digikey-footprints : Relay_THT_G5V-2](#fzdigidigikeyfootprintsrelg5v2--digikey-footprints--relay_tht_g5v-2)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELG5V2 > digikey-footprints : Relay_THT_G5V-2
+# FZDIGIDIGIKEYFOOTPRINTSRELG5V2 > digikey-footprints : Relay_THT_G5V-2
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_THT_G5V-2
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELG5V2
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSRELG5V2
 - Name: digikey-footprints : Relay_THT_G5V-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Relay_THT_G5V-2/
 - Description: digikey-footprints : Relay_THT_G5V-2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_THT_G5V-2](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_THT_G5V-2)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELG5V2](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELG5V2)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRELG5V2](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRELG5V2)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Relay_THT_G5V-2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_THT_G5V-2|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELG5V2|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSRELG5V2|
 |name|name|digikey-footprints : Relay_THT_G5V-2|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_THT_G5V-2'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

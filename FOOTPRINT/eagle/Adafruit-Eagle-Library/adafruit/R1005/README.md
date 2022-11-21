@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R1005
 - Hex ID: FZAR15
 - Name: adafruit : R1005
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/R1005/
 - Description: adafruit : R1005
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R1005](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R1005)
 - Short Link: [http://oom.lt/FZAR15](http://oom.lt/FZAR15)

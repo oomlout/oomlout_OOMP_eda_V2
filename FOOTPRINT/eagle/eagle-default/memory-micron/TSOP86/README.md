@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-micron-TSOP86
 - Hex ID: FZEMEMORYMNTS86
 - Name: memory-micron : TSOP86
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-micron/TSOP86/
 - Description: memory-micron : TSOP86
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-micron-TSOP86](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-micron-TSOP86)
 - Short Link: [http://oom.lt/FZEMEMORYMNTS86](http://oom.lt/FZEMEMORYMNTS86)

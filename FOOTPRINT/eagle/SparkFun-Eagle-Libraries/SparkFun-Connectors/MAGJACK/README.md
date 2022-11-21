@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MAGJACK
 - Hex ID: FZSSPARKFUNCNSMAGJ
 - Name: SparkFun-Connectors : MAGJACK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/MAGJACK/
 - Description: SparkFun-Connectors : MAGJACK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MAGJACK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MAGJACK)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSMAGJ](http://oom.lt/FZSSPARKFUNCNSMAGJ)

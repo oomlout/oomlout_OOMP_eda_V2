@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNDB37FEMALEHOLS > Connector : DB37_Female_MountingHoles](#szkcndb37femalehols--connector--db37_female_mountingholes)
+* [SZKCNDB37FHOLS > Connector : DB37_Female_MountingHoles](#szkcndb37fhols--connector--db37_female_mountingholes)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNDB37FEMALEHOLS > Connector : DB37_Female_MountingHoles
+# SZKCNDB37FHOLS > Connector : DB37_Female_MountingHoles
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB37_Female_MountingHoles
-- Hex ID: SZKCNDB37FEMALEHOLS
+- Hex ID: SZKCNDB37FHOLS
 - Name: Connector : DB37_Female_MountingHoles
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DB37_Female_MountingHoles/
 - Description: Connector : DB37_Female_MountingHoles
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB37_Female_MountingHoles](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB37_Female_MountingHoles)
-- Short Link: [http://oom.lt/SZKCNDB37FEMALEHOLS](http://oom.lt/SZKCNDB37FEMALEHOLS)
+- Short Link: [http://oom.lt/SZKCNDB37FHOLS](http://oom.lt/SZKCNDB37FHOLS)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|DB37_Female_MountingHoles|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB37_Female_MountingHoles|
-|Hex ID (short code)|hexID|SZKCNDB37FEMALEHOLS|
+|Hex ID (short code)|hexID|SZKCNDB37FHOLS|
 |name|name|Connector : DB37_Female_MountingHoles|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DB37_Female_MountingHoles'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'female D-SUB connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '37-pin female D-SUB connector</td><td> Mounting Hole'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DSUB*Female*'</td></tr></table>]|
 ||||

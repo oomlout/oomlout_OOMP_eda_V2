@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LF25_TO220
 - Hex ID: SZKREGULATORLINEARLF25TO22
 - Name: Regulator_Linear : LF25_TO220
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LF25_TO220/
 - Description: Regulator_Linear : LF25_TO220
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LF25_TO220](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LF25_TO220)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLF25TO22](http://oom.lt/SZKREGULATORLINEARLF25TO22)

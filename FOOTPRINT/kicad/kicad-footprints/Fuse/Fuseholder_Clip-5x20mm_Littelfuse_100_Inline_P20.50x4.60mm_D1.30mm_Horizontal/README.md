@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKFUFUHOLDERCLIP5X2LITTELFU1IP25X46D13HORIZONTAL > Fuse : Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal](#fzkfufuholderclip5x2littelfu1ip25x46d13horizontal--fuse--fuseholder_clip-5x20mm_littelfuse_100_inline_p2050x460mm_d130mm_horizontal)
+* [FZKFUFUHCL5X2LITTELFU1IP25X46D13H > Fuse : Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal](#fzkfufuhcl5x2littelfu1ip25x46d13h--fuse--fuseholder_clip-5x20mm_littelfuse_100_inline_p2050x460mm_d130mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKFUFUHOLDERCLIP5X2LITTELFU1IP25X46D13HORIZONTAL > Fuse : Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal
+# FZKFUFUHCL5X2LITTELFU1IP25X46D13H > Fuse : Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal
-- Hex ID: FZKFUFUHOLDERCLIP5X2LITTELFU1IP25X46D13HORIZONTAL
+- Hex ID: FZKFUFUHCL5X2LITTELFU1IP25X46D13H
 - Name: Fuse : Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal/
 - Description: Fuse : Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal)
-- Short Link: [http://oom.lt/FZKFUFUHOLDERCLIP5X2LITTELFU1IP25X46D13HORIZONTAL](http://oom.lt/FZKFUFUHOLDERCLIP5X2LITTELFU1IP25X46D13HORIZONTAL)
+- Short Link: [http://oom.lt/FZKFUFUHCL5X2LITTELFU1IP25X46D13H](http://oom.lt/FZKFUFUHCL5X2LITTELFU1IP25X46D13H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Fuse|
 |OOMP Index|oompIndex|Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal|
-|Hex ID (short code)|hexID|FZKFUFUHOLDERCLIP5X2LITTELFU1IP25X46D13HORIZONTAL|
+|Hex ID (short code)|hexID|FZKFUFUHCL5X2LITTELFU1IP25X46D13H|
 |name|name|Fuse : Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Fuseholder Clips</td><td> 5x20mm Cylinder Fuse</td><td> Pins Inline</td><td> Horizontal</td><td> Littelfuse 100</td><td> https</td></tr><tr><td>//m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf'</td><td> 'tags'</td></tr><tr><td> 'fuse clip open'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

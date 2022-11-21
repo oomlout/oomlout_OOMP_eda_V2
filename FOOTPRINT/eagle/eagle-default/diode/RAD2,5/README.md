@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-RAD2,5
 - Hex ID: FZEDIODERAD25
 - Name: diode : RAD2,5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/RAD2,5/
 - Description: diode : RAD2,5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-RAD2,5](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-RAD2,5)
 - Short Link: [http://oom.lt/FZEDIODERAD25](http://oom.lt/FZEDIODERAD25)

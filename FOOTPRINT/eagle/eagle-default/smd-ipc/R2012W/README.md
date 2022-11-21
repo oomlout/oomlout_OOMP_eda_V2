@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-R2012W
 - Hex ID: FZESMIPCR212W
 - Name: smd-ipc : R2012W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/R2012W/
 - Description: smd-ipc : R2012W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R2012W](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R2012W)
 - Short Link: [http://oom.lt/FZESMIPCR212W](http://oom.lt/FZESMIPCR212W)

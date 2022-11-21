@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-amd-mach-PLCC68
 - Hex ID: FZEAMDMACHPLCC68
 - Name: amd-mach : PLCC68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/amd-mach/PLCC68/
 - Description: amd-mach : PLCC68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-PLCC68](http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-PLCC68)
 - Short Link: [http://oom.lt/FZEAMDMACHPLCC68](http://oom.lt/FZEAMDMACHPLCC68)

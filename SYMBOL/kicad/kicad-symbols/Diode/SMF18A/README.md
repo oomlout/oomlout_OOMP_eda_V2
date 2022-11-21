@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF18A
 - Hex ID: SZKDIODESMF18A
 - Name: Diode : SMF18A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF18A/
 - Description: Diode : SMF18A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF18A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF18A)
 - Short Link: [http://oom.lt/SZKDIODESMF18A](http://oom.lt/SZKDIODESMF18A)

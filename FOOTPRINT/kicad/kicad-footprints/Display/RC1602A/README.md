@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-RC1602A
 - Hex ID: FZKDIRC162A
 - Name: Display : RC1602A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/RC1602A/
 - Description: Display : RC1602A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-RC1602A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-RC1602A)
 - Short Link: [http://oom.lt/FZKDIRC162A](http://oom.lt/FZKDIRC162A)

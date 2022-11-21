@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-SOT363-INFINION
 - Hex ID: FZETRANSISTORSOT363INFINION
 - Name: transistor : SOT363-INFINION
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/SOT363-INFINION/
 - Description: transistor : SOT363-INFINION
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-SOT363-INFINION](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-SOT363-INFINION)
 - Short Link: [http://oom.lt/FZETRANSISTORSOT363INFINION](http://oom.lt/FZETRANSISTORSOT363INFINION)

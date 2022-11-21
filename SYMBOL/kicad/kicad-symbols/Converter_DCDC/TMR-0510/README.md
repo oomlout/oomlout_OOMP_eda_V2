@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR-0510
 - Hex ID: SZKCONTMR51
 - Name: Converter_DCDC : TMR-0510
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TMR-0510/
 - Description: Converter_DCDC : TMR-0510
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR-0510](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR-0510)
 - Short Link: [http://oom.lt/SZKCONTMR51](http://oom.lt/SZKCONTMR51)

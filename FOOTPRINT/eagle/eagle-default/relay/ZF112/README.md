@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-ZF112
 - Hex ID: FZERELAYZF112
 - Name: relay : ZF112
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/ZF112/
 - Description: relay : ZF112
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-ZF112](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-ZF112)
 - Short Link: [http://oom.lt/FZERELAYZF112](http://oom.lt/FZERELAYZF112)

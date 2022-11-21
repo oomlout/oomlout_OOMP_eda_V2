@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-xmultiple-XRJK-S-01-6-4-0-9M2
 - Hex ID: FZECONXMULTIPLEXRJKS1649M2
 - Name: con-xmultiple : XRJK-S-01-6-4-0-9M2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-xmultiple/XRJK-S-01-6-4-0-9M2/
 - Description: con-xmultiple : XRJK-S-01-6-4-0-9M2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-xmultiple-XRJK-S-01-6-4-0-9M2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-xmultiple-XRJK-S-01-6-4-0-9M2)
 - Short Link: [http://oom.lt/FZECONXMULTIPLEXRJKS1649M2](http://oom.lt/FZECONXMULTIPLEXRJKS1649M2)

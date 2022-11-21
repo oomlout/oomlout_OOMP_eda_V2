@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNMXMXSPOX52687A1X7P25HORIZONTAL > Connector_Molex : Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal](#fzkcnmxmxspox52687a1x7p25horizontal--connector_molex--molex_spox_5268-07a_1x07_p250mm_horizontal)
+* [FZKCNMXMXSPOX52687A1X7P25H > Connector_Molex : Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal](#fzkcnmxmxspox52687a1x7p25h--connector_molex--molex_spox_5268-07a_1x07_p250mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXSPOX52687A1X7P25HORIZONTAL > Connector_Molex : Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal
+# FZKCNMXMXSPOX52687A1X7P25H > Connector_Molex : Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal
-- Hex ID: FZKCNMXMXSPOX52687A1X7P25HORIZONTAL
+- Hex ID: FZKCNMXMXSPOX52687A1X7P25H
 - Name: Connector_Molex : Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal/
 - Description: Connector_Molex : Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNMXMXSPOX52687A1X7P25HORIZONTAL](http://oom.lt/FZKCNMXMXSPOX52687A1X7P25HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNMXMXSPOX52687A1X7P25H](http://oom.lt/FZKCNMXMXSPOX52687A1X7P25H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNMXMXSPOX52687A1X7P25HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNMXMXSPOX52687A1X7P25H|
 |name|name|Connector_Molex : Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex SPOX Connector System</td><td> 5268-07A</td><td> 7 Pins per row (https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/022057045_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex SPOX horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

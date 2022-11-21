@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0603_NO_CREAM
 - Hex ID: FZSR63NC
 - Name: SparkFun-Resistors : 0603_NO_CREAM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0603_NO_CREAM/
 - Description: SparkFun-Resistors : 0603_NO_CREAM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0603_NO_CREAM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0603_NO_CREAM)
 - Short Link: [http://oom.lt/FZSR63NC](http://oom.lt/FZSR63NC)

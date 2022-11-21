@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-LCCC28
 - Hex ID: FZELINEARLCCC28
 - Name: linear : LCCC28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/LCCC28/
 - Description: linear : LCCC28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-LCCC28](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-LCCC28)
 - Short Link: [http://oom.lt/FZELINEARLCCC28](http://oom.lt/FZELINEARLCCC28)

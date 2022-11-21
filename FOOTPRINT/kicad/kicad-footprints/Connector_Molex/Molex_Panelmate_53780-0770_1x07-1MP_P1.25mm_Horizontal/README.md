@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNMXMXPANELMATE5378771X71MPP125HORIZONTAL > Connector_Molex : Molex_Panelmate_53780-0770_1x07-1MP_P1.25mm_Horizontal](#fzkcnmxmxpanelmate5378771x71mpp125horizontal--connector_molex--molex_panelmate_53780-0770_1x07-1mp_p125mm_horizontal)
+* [FZKCNMXMXPANELMATE5378771X71MPP125H > Connector_Molex : Molex_Panelmate_53780-0770_1x07-1MP_P1.25mm_Horizontal](#fzkcnmxmxpanelmate5378771x71mpp125h--connector_molex--molex_panelmate_53780-0770_1x07-1mp_p125mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXPANELMATE5378771X71MPP125HORIZONTAL > Connector_Molex : Molex_Panelmate_53780-0770_1x07-1MP_P1.25mm_Horizontal
+# FZKCNMXMXPANELMATE5378771X71MPP125H > Connector_Molex : Molex_Panelmate_53780-0770_1x07-1MP_P1.25mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Panelmate_53780-0770_1x07-1MP_P1.25mm_Horizontal
-- Hex ID: FZKCNMXMXPANELMATE5378771X71MPP125HORIZONTAL
+- Hex ID: FZKCNMXMXPANELMATE5378771X71MPP125H
 - Name: Connector_Molex : Molex_Panelmate_53780-0770_1x07-1MP_P1.25mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Panelmate_53780-0770_1x07-1MP_P1.25mm_Horizontal/
 - Description: Connector_Molex : Molex_Panelmate_53780-0770_1x07-1MP_P1.25mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Panelmate_53780-0770_1x07-1MP_P1.25mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Panelmate_53780-0770_1x07-1MP_P1.25mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNMXMXPANELMATE5378771X71MPP125HORIZONTAL](http://oom.lt/FZKCNMXMXPANELMATE5378771X71MPP125HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNMXMXPANELMATE5378771X71MPP125H](http://oom.lt/FZKCNMXMXPANELMATE5378771X71MPP125H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_Panelmate_53780-0770_1x07-1MP_P1.25mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Panelmate_53780-0770_1x07-1MP_P1.25mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNMXMXPANELMATE5378771X71MPP125HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNMXMXPANELMATE5378771X71MPP125H|
 |name|name|Connector_Molex : Molex_Panelmate_53780-0770_1x07-1MP_P1.25mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_Panelmate_53780-0770_1x07-1MP_P1.25mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex Panelmate series connector</td><td> 53780-0770 ()</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex Panelmate top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_Panelmate_53780-0770_1x07-1MP_P1.25mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

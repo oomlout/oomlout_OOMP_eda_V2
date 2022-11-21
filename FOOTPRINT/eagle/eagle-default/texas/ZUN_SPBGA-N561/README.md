@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-ZUN_SPBGA-N561
 - Hex ID: FZETEXASZUNSPBGAN561
 - Name: texas : ZUN_SPBGA-N561
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/ZUN_SPBGA-N561/
 - Description: texas : ZUN_SPBGA-N561
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-ZUN_SPBGA-N561](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-ZUN_SPBGA-N561)
 - Short Link: [http://oom.lt/FZETEXASZUNSPBGAN561](http://oom.lt/FZETEXASZUNSPBGAN561)

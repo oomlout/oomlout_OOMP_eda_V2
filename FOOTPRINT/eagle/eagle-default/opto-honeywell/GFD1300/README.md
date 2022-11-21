@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-GFD1300
 - Hex ID: FZEOPTOHONEYWELLGFD13
 - Name: opto-honeywell : GFD1300
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/GFD1300/
 - Description: opto-honeywell : GFD1300
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-GFD1300](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-GFD1300)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLGFD13](http://oom.lt/FZEOPTOHONEYWELLGFD13)

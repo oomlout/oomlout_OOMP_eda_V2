@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92S
 - Hex ID: FZKSOTTO92S
 - Name: Package_TO_SOT_THT : TO-92S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92S/
 - Description: Package_TO_SOT_THT : TO-92S
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92S](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92S)
 - Short Link: [http://oom.lt/FZKSOTTO92S](http://oom.lt/FZKSOTTO92S)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11GWA
 - Hex ID: SZKDICHARACTERDA411GWA
 - Name: Display_Character : DA04-11GWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/DA04-11GWA/
 - Description: Display_Character : DA04-11GWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11GWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11GWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDA411GWA](http://oom.lt/SZKDICHARACTERDA411GWA)

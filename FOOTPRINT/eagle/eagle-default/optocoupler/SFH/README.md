@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-SFH
 - Hex ID: FZEOPTOCOUPLERSFH
 - Name: optocoupler : SFH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/SFH/
 - Description: optocoupler : SFH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SFH](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SFH)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERSFH](http://oom.lt/FZEOPTOCOUPLERSFH)

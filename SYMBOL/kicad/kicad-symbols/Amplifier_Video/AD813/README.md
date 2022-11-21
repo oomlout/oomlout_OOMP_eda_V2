@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Video-AD813
 - Hex ID: SZKAMPLIFIERVIDEOAD813
 - Name: Amplifier_Video : AD813
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Video/AD813/
 - Description: Amplifier_Video : AD813
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Video-AD813](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Video-AD813)
 - Short Link: [http://oom.lt/SZKAMPLIFIERVIDEOAD813](http://oom.lt/SZKAMPLIFIERVIDEOAD813)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM318J
 - Hex ID: SZKAMPLIFIEROPERATIONALLM318J
 - Name: Amplifier_Operational : LM318J
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM318J/
 - Description: Amplifier_Operational : LM318J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM318J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM318J)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM318J](http://oom.lt/SZKAMPLIFIEROPERATIONALLM318J)

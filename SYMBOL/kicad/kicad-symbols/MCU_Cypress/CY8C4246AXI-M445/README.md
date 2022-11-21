@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4246AXI-M445
 - Hex ID: SZKMCUCYPRESSCY8C4246AXIM445
 - Name: MCU_Cypress : CY8C4246AXI-M445
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4246AXI-M445/
 - Description: MCU_Cypress : CY8C4246AXI-M445
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4246AXI-M445](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4246AXI-M445)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY8C4246AXIM445](http://oom.lt/SZKMCUCYPRESSCY8C4246AXIM445)

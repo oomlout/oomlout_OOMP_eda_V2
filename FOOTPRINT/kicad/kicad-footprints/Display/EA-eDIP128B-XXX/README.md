@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIEAEDIP128BXXX > Display : EA-eDIP128B-XXX](#fzkdieaedip128bxxx--display--ea-edip128b-xxx)
+* [FZKDIEAED128BXXX > Display : EA-eDIP128B-XXX](#fzkdieaed128bxxx--display--ea-edip128b-xxx)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIEAEDIP128BXXX > Display : EA-eDIP128B-XXX
+# FZKDIEAED128BXXX > Display : EA-eDIP128B-XXX
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-EA-eDIP128B-XXX
-- Hex ID: FZKDIEAEDIP128BXXX
+- Hex ID: FZKDIEAED128BXXX
 - Name: Display : EA-eDIP128B-XXX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/EA-eDIP128B-XXX/
 - Description: Display : EA-eDIP128B-XXX
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-EA-eDIP128B-XXX](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-EA-eDIP128B-XXX)
-- Short Link: [http://oom.lt/FZKDIEAEDIP128BXXX](http://oom.lt/FZKDIEAEDIP128BXXX)
+- Short Link: [http://oom.lt/FZKDIEAED128BXXX](http://oom.lt/FZKDIEAED128BXXX)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Display|
 |OOMP Index|oompIndex|EA-eDIP128B-XXX|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-EA-eDIP128B-XXX|
-|Hex ID (short code)|hexID|FZKDIEAEDIP128BXXX|
+|Hex ID (short code)|hexID|FZKDIEAED128BXXX|
 |name|name|Display : EA-eDIP128B-XXX|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'EA-eDIP128B-XXX'</td><td> 'description'</td></tr><tr><td> 'LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI http</td></tr><tr><td>//www.lcd-module.com/fileadmin/eng/pdf/grafik/edip128-6e.pdf'</td><td> 'tags'</td></tr><tr><td> 'LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/EA-eDIP128B-XXX.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

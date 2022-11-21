@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4071
 - Hex ID: SZK4XXXIEEE471
 - Name: 4xxx_IEEE : 4071
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4071/
 - Description: 4xxx_IEEE : 4071
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4071](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4071)
 - Short Link: [http://oom.lt/SZK4XXXIEEE471](http://oom.lt/SZK4XXXIEEE471)

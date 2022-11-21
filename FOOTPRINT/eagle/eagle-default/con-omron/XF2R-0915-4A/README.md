@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2R-0915-4A
 - Hex ID: FZECONOMRONXF2R9154A
 - Name: con-omron : XF2R-0915-4A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-omron/XF2R-0915-4A/
 - Description: con-omron : XF2R-0915-4A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2R-0915-4A](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2R-0915-4A)
 - Short Link: [http://oom.lt/FZECONOMRONXF2R9154A](http://oom.lt/FZECONOMRONXF2R9154A)

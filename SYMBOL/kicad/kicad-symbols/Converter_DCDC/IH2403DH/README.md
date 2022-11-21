@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH2403DH
 - Hex ID: SZKCONIH243DH
 - Name: Converter_DCDC : IH2403DH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IH2403DH/
 - Description: Converter_DCDC : IH2403DH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH2403DH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH2403DH)
 - Short Link: [http://oom.lt/SZKCONIH243DH](http://oom.lt/SZKCONIH243DH)

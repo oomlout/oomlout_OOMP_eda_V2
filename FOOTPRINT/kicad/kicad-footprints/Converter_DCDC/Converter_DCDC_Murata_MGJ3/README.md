@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_MGJ3
 - Hex ID: FZKCONCONMMGJ3
 - Name: Converter_DCDC : Converter_DCDC_Murata_MGJ3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_MGJ3/
 - Description: Converter_DCDC : Converter_DCDC_Murata_MGJ3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_MGJ3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_MGJ3)
 - Short Link: [http://oom.lt/FZKCONCONMMGJ3](http://oom.lt/FZKCONCONMMGJ3)

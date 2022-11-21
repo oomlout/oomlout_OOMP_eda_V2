@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-ADCMP350
 - Hex ID: SZKCOMPARATORADCMP35
 - Name: Comparator : ADCMP350
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/ADCMP350/
 - Description: Comparator : ADCMP350
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-ADCMP350](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-ADCMP350)
 - Short Link: [http://oom.lt/SZKCOMPARATORADCMP35](http://oom.lt/SZKCOMPARATORADCMP35)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-FAN7388
 - Hex ID: SZKDRIVERFETFAN7388
 - Name: Driver_FET : FAN7388
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/FAN7388/
 - Description: Driver_FET : FAN7388
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-FAN7388](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-FAN7388)
 - Short Link: [http://oom.lt/SZKDRIVERFETFAN7388](http://oom.lt/SZKDRIVERFETFAN7388)

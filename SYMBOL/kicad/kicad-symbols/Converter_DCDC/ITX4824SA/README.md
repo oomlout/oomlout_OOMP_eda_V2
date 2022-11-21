@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX4824SA
 - Hex ID: SZKCONITX4824SA
 - Name: Converter_DCDC : ITX4824SA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX4824SA/
 - Description: Converter_DCDC : ITX4824SA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX4824SA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX4824SA)
 - Short Link: [http://oom.lt/SZKCONITX4824SA](http://oom.lt/SZKCONITX4824SA)

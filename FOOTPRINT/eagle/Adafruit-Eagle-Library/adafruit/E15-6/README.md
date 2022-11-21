@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E15-6
 - Hex ID: FZAE156
 - Name: adafruit : E15-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E15-6/
 - Description: adafruit : E15-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E15-6](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E15-6)
 - Short Link: [http://oom.lt/FZAE156](http://oom.lt/FZAE156)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982ILD-ADJ
 - Hex ID: SZKREGULATORLINEARLP3982ILDADJ
 - Name: Regulator_Linear : LP3982ILD-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP3982ILD-ADJ/
 - Description: Regulator_Linear : LP3982ILD-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982ILD-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982ILD-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP3982ILDADJ](http://oom.lt/SZKREGULATORLINEARLP3982ILDADJ)

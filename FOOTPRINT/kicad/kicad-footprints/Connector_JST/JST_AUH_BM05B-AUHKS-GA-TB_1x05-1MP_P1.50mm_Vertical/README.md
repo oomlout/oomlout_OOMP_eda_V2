@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNJSTJSTAUHBM5BAUHKSGATB1X51MPP15VERTICAL > Connector_JST : JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical](#fzkcnjstjstauhbm5bauhksgatb1x51mpp15vertical--connector_jst--jst_auh_bm05b-auhks-ga-tb_1x05-1mp_p150mm_vertical)
+* [FZKCNJSTJSTAUHBM5BAUHKSGATB1X51MPP15F > Connector_JST : JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical](#fzkcnjstjstauhbm5bauhksgatb1x51mpp15f--connector_jst--jst_auh_bm05b-auhks-ga-tb_1x05-1mp_p150mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTAUHBM5BAUHKSGATB1X51MPP15VERTICAL > Connector_JST : JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical
+# FZKCNJSTJSTAUHBM5BAUHKSGATB1X51MPP15F > Connector_JST : JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical
-- Hex ID: FZKCNJSTJSTAUHBM5BAUHKSGATB1X51MPP15VERTICAL
+- Hex ID: FZKCNJSTJSTAUHBM5BAUHKSGATB1X51MPP15F
 - Name: Connector_JST : JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical/
 - Description: Connector_JST : JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJSTJSTAUHBM5BAUHKSGATB1X51MPP15VERTICAL](http://oom.lt/FZKCNJSTJSTAUHBM5BAUHKSGATB1X51MPP15VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTAUHBM5BAUHKSGATB1X51MPP15F](http://oom.lt/FZKCNJSTJSTAUHBM5BAUHKSGATB1X51MPP15F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJSTJSTAUHBM5BAUHKSGATB1X51MPP15VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTAUHBM5BAUHKSGATB1X51MPP15F|
 |name|name|Connector_JST : JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST AUH series connector</td><td> BM05B-AUHKS-GA-TB (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eAUH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST AUH side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

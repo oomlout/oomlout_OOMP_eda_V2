@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-SHK20L
 - Hex ID: FZEFUSHK2L
 - Name: fuse : SHK20L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/SHK20L/
 - Description: fuse : SHK20L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-SHK20L](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-SHK20L)
 - Short Link: [http://oom.lt/FZEFUSHK2L](http://oom.lt/FZEFUSHK2L)

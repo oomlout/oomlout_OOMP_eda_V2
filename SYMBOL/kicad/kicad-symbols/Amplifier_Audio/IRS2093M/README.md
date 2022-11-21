@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2093M
 - Hex ID: SZKAMPLIFIERAUDIOIRS293M
 - Name: Amplifier_Audio : IRS2093M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2093M/
 - Description: Amplifier_Audio : IRS2093M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2093M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2093M)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIRS293M](http://oom.lt/SZKAMPLIFIERAUDIOIRS293M)

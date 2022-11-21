@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOATWINC15MR21PB > digikey-footprints : WIFI_Module_ATWINC1500-MR210PB](#fzkicaddigikeykicadlibrarydigikeyfootprintswifimoatwinc15mr21pb--digikey-footprints--wifi_module_atwinc1500-mr210pb)
+* [FZDIGIDIGIKEYFOOTPRINTSWIFIMOATWINC15MR21PB > digikey-footprints : WIFI_Module_ATWINC1500-MR210PB](#fzdigidigikeyfootprintswifimoatwinc15mr21pb--digikey-footprints--wifi_module_atwinc1500-mr210pb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOATWINC15MR21PB > digikey-footprints : WIFI_Module_ATWINC1500-MR210PB
+# FZDIGIDIGIKEYFOOTPRINTSWIFIMOATWINC15MR21PB > digikey-footprints : WIFI_Module_ATWINC1500-MR210PB
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_ATWINC1500-MR210PB
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOATWINC15MR21PB
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSWIFIMOATWINC15MR21PB
 - Name: digikey-footprints : WIFI_Module_ATWINC1500-MR210PB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WIFI_Module_ATWINC1500-MR210PB/
 - Description: digikey-footprints : WIFI_Module_ATWINC1500-MR210PB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_ATWINC1500-MR210PB](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_ATWINC1500-MR210PB)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOATWINC15MR21PB](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOATWINC15MR21PB)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOATWINC15MR21PB](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWIFIMOATWINC15MR21PB)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|WIFI_Module_ATWINC1500-MR210PB|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_ATWINC1500-MR210PB|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOATWINC15MR21PB|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSWIFIMOATWINC15MR21PB|
 |name|name|digikey-footprints : WIFI_Module_ATWINC1500-MR210PB|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WIFI_Module_ATWINC1500-MR210PB'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/70005304A.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCAPACITORSMCPELEC63X49 > Capacitor_SMD : CP_Elec_6.3x4.9](#fzkcapacitorsmcpelec63x49--capacitor_smd--cp_elec_63x49)
+* [FZKCCPELEC63X49 > Capacitor_SMD : CP_Elec_6.3x4.9](#fzkccpelec63x49--capacitor_smd--cp_elec_63x49)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORSMCPELEC63X49 > Capacitor_SMD : CP_Elec_6.3x4.9
+# FZKCCPELEC63X49 > Capacitor_SMD : CP_Elec_6.3x4.9
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_6.3x4.9
-- Hex ID: FZKCAPACITORSMCPELEC63X49
+- Hex ID: FZKCCPELEC63X49
 - Name: Capacitor_SMD : CP_Elec_6.3x4.9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_6.3x4.9/
 - Description: Capacitor_SMD : CP_Elec_6.3x4.9
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_6.3x4.9](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_6.3x4.9)
-- Short Link: [http://oom.lt/FZKCAPACITORSMCPELEC63X49](http://oom.lt/FZKCAPACITORSMCPELEC63X49)
+- Short Link: [http://oom.lt/FZKCCPELEC63X49](http://oom.lt/FZKCCPELEC63X49)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_SMD|
 |OOMP Index|oompIndex|CP_Elec_6.3x4.9|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_6.3x4.9|
-|Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC63X49|
+|Hex ID (short code)|hexID|FZKCCPELEC63X49|
 |name|name|Capacitor_SMD : CP_Elec_6.3x4.9|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Elec_6.3x4.9'</td><td> 'description'</td></tr><tr><td> 'SMD capacitor</td><td> aluminum electrolytic</td><td> Panasonic C5</td><td> 6.3x4.9mm'</td><td> 'tags'</td></tr><tr><td> 'capacitor electrolytic'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/CP_Elec_6.3x4.9.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

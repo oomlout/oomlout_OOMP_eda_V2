@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT236 > digikey-footprints : SOT-23-6](#fzkicaddigikeykicadlibrarydigikeyfootprintssot236--digikey-footprints--sot-23-6)
+* [FZDIGIDIGIKEYFOOTPRINTSSOT236 > digikey-footprints : SOT-23-6](#fzdigidigikeyfootprintssot236--digikey-footprints--sot-23-6)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT236 > digikey-footprints : SOT-23-6
+# FZDIGIDIGIKEYFOOTPRINTSSOT236 > digikey-footprints : SOT-23-6
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-23-6
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT236
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOT236
 - Name: digikey-footprints : SOT-23-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOT-23-6/
 - Description: digikey-footprints : SOT-23-6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-23-6](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-23-6)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT236](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT236)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT236](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT236)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SOT-23-6|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-23-6|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT236|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSOT236|
 |name|name|digikey-footprints : SOT-23-6|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-23-6'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-FPF2004
 - Hex ID: SZKPOWERMANAGEMENTFPF24
 - Name: Power_Management : FPF2004
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/FPF2004/
 - Description: Power_Management : FPF2004
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2004](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2004)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTFPF24](http://oom.lt/SZKPOWERMANAGEMENTFPF24)

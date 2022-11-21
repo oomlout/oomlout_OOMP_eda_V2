@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-BATTERY
 - Hex ID: FZESPECIALBAT
 - Name: special : BATTERY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/BATTERY/
 - Description: special : BATTERY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-BATTERY](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-BATTERY)
 - Short Link: [http://oom.lt/FZESPECIALBAT](http://oom.lt/FZESPECIALBAT)

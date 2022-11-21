@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-VO4661
 - Hex ID: SZKISOLATORVO4661
 - Name: Isolator : VO4661
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/VO4661/
 - Description: Isolator : VO4661
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO4661](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO4661)
 - Short Link: [http://oom.lt/SZKISOLATORVO4661](http://oom.lt/SZKISOLATORVO4661)

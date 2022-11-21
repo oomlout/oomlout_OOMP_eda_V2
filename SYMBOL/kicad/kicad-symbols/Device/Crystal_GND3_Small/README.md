@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Crystal_GND3_Small
 - Hex ID: SZKDEVICEXGND3SLL
 - Name: Device : Crystal_GND3_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Crystal_GND3_Small/
 - Description: Device : Crystal_GND3_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Crystal_GND3_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Crystal_GND3_Small)
 - Short Link: [http://oom.lt/SZKDEVICEXGND3SLL](http://oom.lt/SZKDEVICEXGND3SLL)

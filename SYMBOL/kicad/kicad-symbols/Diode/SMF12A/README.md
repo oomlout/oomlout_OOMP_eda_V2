@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF12A
 - Hex ID: SZKDIODESMF12A
 - Name: Diode : SMF12A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF12A/
 - Description: Diode : SMF12A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF12A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF12A)
 - Short Link: [http://oom.lt/SZKDIODESMF12A](http://oom.lt/SZKDIODESMF12A)

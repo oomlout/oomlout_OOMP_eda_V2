@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPLCC44S > ref-packages : PLCC44S](#fzerefpackagesplcc44s--ref-packages--plcc44s)
+* [FZEREFPSPLCC44S > ref-packages : PLCC44S](#fzerefpsplcc44s--ref-packages--plcc44s)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPLCC44S > ref-packages : PLCC44S
+# FZEREFPSPLCC44S > ref-packages : PLCC44S
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-PLCC44S
-- Hex ID: FZEREFPACKAGESPLCC44S
+- Hex ID: FZEREFPSPLCC44S
 - Name: ref-packages : PLCC44S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/PLCC44S/
 - Description: ref-packages : PLCC44S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PLCC44S](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PLCC44S)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPLCC44S](http://oom.lt/FZEREFPACKAGESPLCC44S)
+- Short Link: [http://oom.lt/FZEREFPSPLCC44S](http://oom.lt/FZEREFPSPLCC44S)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|PLCC44S|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-PLCC44S|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPLCC44S|
+|Hex ID (short code)|hexID|FZEREFPSPLCC44S|
 |name|name|ref-packages : PLCC44S|
 ||||

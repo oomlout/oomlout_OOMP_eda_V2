@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA20
 - Hex ID: FZSSPARKFUNSENSLGA2
 - Name: SparkFun-Sensors : LGA20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/LGA20/
 - Description: SparkFun-Sensors : LGA20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA20](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA20)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSLGA2](http://oom.lt/FZSSPARKFUNSENSLGA2)

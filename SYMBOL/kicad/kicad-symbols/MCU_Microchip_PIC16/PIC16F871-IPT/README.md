@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F871-IPT
 - Hex ID: SZKMCUMCHIPPIC16PIC16F871IPT
 - Name: MCU_Microchip_PIC16 : PIC16F871-IPT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F871-IPT/
 - Description: MCU_Microchip_PIC16 : PIC16F871-IPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F871-IPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F871-IPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F871IPT](http://oom.lt/SZKMCUMCHIPPIC16PIC16F871IPT)

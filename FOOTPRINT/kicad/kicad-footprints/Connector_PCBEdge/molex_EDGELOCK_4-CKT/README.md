@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPCBEDGEMXEDGEL4CKT > Connector_PCBEdge : molex_EDGELOCK_4-CKT](#fzkcnpcbedgemxedgel4ckt--connector_pcbedge--molex_edgelock_4-ckt)
+* [FZKCNPEMXEDGEL4CKT > Connector_PCBEdge : molex_EDGELOCK_4-CKT](#fzkcnpemxedgel4ckt--connector_pcbedge--molex_edgelock_4-ckt)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPCBEDGEMXEDGEL4CKT > Connector_PCBEdge : molex_EDGELOCK_4-CKT
+# FZKCNPEMXEDGEL4CKT > Connector_PCBEdge : molex_EDGELOCK_4-CKT
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-molex_EDGELOCK_4-CKT
-- Hex ID: FZKCNPCBEDGEMXEDGEL4CKT
+- Hex ID: FZKCNPEMXEDGEL4CKT
 - Name: Connector_PCBEdge : molex_EDGELOCK_4-CKT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/molex_EDGELOCK_4-CKT/
 - Description: Connector_PCBEdge : molex_EDGELOCK_4-CKT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-molex_EDGELOCK_4-CKT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-molex_EDGELOCK_4-CKT)
-- Short Link: [http://oom.lt/FZKCNPCBEDGEMXEDGEL4CKT](http://oom.lt/FZKCNPCBEDGEMXEDGEL4CKT)
+- Short Link: [http://oom.lt/FZKCNPEMXEDGEL4CKT](http://oom.lt/FZKCNPEMXEDGEL4CKT)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PCBEdge|
 |OOMP Index|oompIndex|molex_EDGELOCK_4-CKT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-molex_EDGELOCK_4-CKT|
-|Hex ID (short code)|hexID|FZKCNPCBEDGEMXEDGEL4CKT|
+|Hex ID (short code)|hexID|FZKCNPEMXEDGEL4CKT|
 |name|name|Connector_PCBEdge : molex_EDGELOCK_4-CKT|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'molex_EDGELOCK_4-CKT'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/2008900106_sd.pdf'</td><td> 'tags'</td></tr><tr><td> 'Connector PCBEdge molex EDGELOCK'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PCBEdge.3dshapes/molex_EDGELOCK_4-CKT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

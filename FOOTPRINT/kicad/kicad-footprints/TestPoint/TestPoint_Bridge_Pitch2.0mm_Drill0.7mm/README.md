@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Bridge_Pitch2.0mm_Drill0.7mm
 - Hex ID: FZKTPTPBRIDGEPITCH2DRILL7
 - Name: TestPoint : TestPoint_Bridge_Pitch2.0mm_Drill0.7mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Bridge_Pitch2.0mm_Drill0.7mm/
 - Description: TestPoint : TestPoint_Bridge_Pitch2.0mm_Drill0.7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Bridge_Pitch2.0mm_Drill0.7mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Bridge_Pitch2.0mm_Drill0.7mm)
 - Short Link: [http://oom.lt/FZKTPTPBRIDGEPITCH2DRILL7](http://oom.lt/FZKTPTPBRIDGEPITCH2DRILL7)

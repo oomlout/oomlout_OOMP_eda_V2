@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-MCP1416R
 - Hex ID: SZKDRIVERFETMCP1416R
 - Name: Driver_FET : MCP1416R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/MCP1416R/
 - Description: Driver_FET : MCP1416R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP1416R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP1416R)
 - Short Link: [http://oom.lt/SZKDRIVERFETMCP1416R](http://oom.lt/SZKDRIVERFETMCP1416R)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNCOASAMPHENOL13229112VERTICAL > Connector_Coaxial : SMA_Amphenol_132291-12_Vertical](#fzkcncoasamphenol13229112vertical--connector_coaxial--sma_amphenol_132291-12_vertical)
+* [FZKCNCOASAMPHENOL13229112F > Connector_Coaxial : SMA_Amphenol_132291-12_Vertical](#fzkcncoasamphenol13229112f--connector_coaxial--sma_amphenol_132291-12_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNCOASAMPHENOL13229112VERTICAL > Connector_Coaxial : SMA_Amphenol_132291-12_Vertical
+# FZKCNCOASAMPHENOL13229112F > Connector_Coaxial : SMA_Amphenol_132291-12_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132291-12_Vertical
-- Hex ID: FZKCNCOASAMPHENOL13229112VERTICAL
+- Hex ID: FZKCNCOASAMPHENOL13229112F
 - Name: Connector_Coaxial : SMA_Amphenol_132291-12_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Amphenol_132291-12_Vertical/
 - Description: Connector_Coaxial : SMA_Amphenol_132291-12_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132291-12_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132291-12_Vertical)
-- Short Link: [http://oom.lt/FZKCNCOASAMPHENOL13229112VERTICAL](http://oom.lt/FZKCNCOASAMPHENOL13229112VERTICAL)
+- Short Link: [http://oom.lt/FZKCNCOASAMPHENOL13229112F](http://oom.lt/FZKCNCOASAMPHENOL13229112F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Coaxial|
 |OOMP Index|oompIndex|SMA_Amphenol_132291-12_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132291-12_Vertical|
-|Hex ID (short code)|hexID|FZKCNCOASAMPHENOL13229112VERTICAL|
+|Hex ID (short code)|hexID|FZKCNCOASAMPHENOL13229112F|
 |name|name|Connector_Coaxial : SMA_Amphenol_132291-12_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMA_Amphenol_132291-12_Vertical'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.amphenolrf.com/downloads/dl/file/id/1688/product/3020/132291_12_customer_drawing.pdf'</td><td> 'tags'</td></tr><tr><td> 'SMA THT Female Jack Vertical Bulkhead'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/SMA_Amphenol_132291-12_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

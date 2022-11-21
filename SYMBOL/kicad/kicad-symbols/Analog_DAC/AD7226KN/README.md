@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7226KN
 - Hex ID: SZKANALOGDACAD7226KN
 - Name: Analog_DAC : AD7226KN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7226KN/
 - Description: Analog_DAC : AD7226KN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7226KN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7226KN)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7226KN](http://oom.lt/SZKANALOGDACAD7226KN)

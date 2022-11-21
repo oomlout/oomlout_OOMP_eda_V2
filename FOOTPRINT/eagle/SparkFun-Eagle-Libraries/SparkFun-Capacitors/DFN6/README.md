@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-DFN6
 - Hex ID: FZSCDFN6
 - Name: SparkFun-Capacitors : DFN6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/DFN6/
 - Description: SparkFun-Capacitors : DFN6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-DFN6](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-DFN6)
 - Short Link: [http://oom.lt/FZSCDFN6](http://oom.lt/FZSCDFN6)

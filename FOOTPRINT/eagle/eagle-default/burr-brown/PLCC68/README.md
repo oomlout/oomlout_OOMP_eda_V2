@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBURRBROWNPLCC68 > burr-brown : PLCC68](#fzeburrbrownplcc68--burr-brown--plcc68)
+* [FZEBURRBRNPLCC68 > burr-brown : PLCC68](#fzeburrbrnplcc68--burr-brown--plcc68)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBURRBROWNPLCC68 > burr-brown : PLCC68
+# FZEBURRBRNPLCC68 > burr-brown : PLCC68
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-PLCC68
-- Hex ID: FZEBURRBROWNPLCC68
+- Hex ID: FZEBURRBRNPLCC68
 - Name: burr-brown : PLCC68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/burr-brown/PLCC68/
 - Description: burr-brown : PLCC68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-PLCC68](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-PLCC68)
-- Short Link: [http://oom.lt/FZEBURRBROWNPLCC68](http://oom.lt/FZEBURRBROWNPLCC68)
+- Short Link: [http://oom.lt/FZEBURRBRNPLCC68](http://oom.lt/FZEBURRBRNPLCC68)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|burr-brown|
 |OOMP Index|oompIndex|PLCC68|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-burr-brown-PLCC68|
-|Hex ID (short code)|hexID|FZEBURRBROWNPLCC68|
+|Hex ID (short code)|hexID|FZEBURRBRNPLCC68|
 |name|name|burr-brown : PLCC68|
 ||||
 

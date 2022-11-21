@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOIC8_208MIL
 - Hex ID: FZASOIC828M
 - Name: adafruit : SOIC8_208MIL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SOIC8_208MIL/
 - Description: adafruit : SOIC8_208MIL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOIC8_208MIL](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOIC8_208MIL)
 - Short Link: [http://oom.lt/FZASOIC828M](http://oom.lt/FZASOIC828M)

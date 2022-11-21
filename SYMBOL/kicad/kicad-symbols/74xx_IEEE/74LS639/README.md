@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS639
 - Hex ID: SZK74XXIEEE74LS639
 - Name: 74xx_IEEE : 74LS639
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74LS639/
 - Description: 74xx_IEEE : 74LS639
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS639](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS639)
 - Short Link: [http://oom.lt/SZK74XXIEEE74LS639](http://oom.lt/SZK74XXIEEE74LS639)

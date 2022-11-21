@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-DIL08
 - Hex ID: FZEMAXIMDIL8
 - Name: maxim : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/DIL08/
 - Description: maxim : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-DIL08)
 - Short Link: [http://oom.lt/FZEMAXIMDIL8](http://oom.lt/FZEMAXIMDIL8)

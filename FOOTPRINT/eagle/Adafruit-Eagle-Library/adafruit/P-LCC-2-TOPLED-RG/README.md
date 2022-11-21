@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P-LCC-2-TOPLED-RG
 - Hex ID: FZAPLCC2TOPLRG
 - Name: adafruit : P-LCC-2-TOPLED-RG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/P-LCC-2-TOPLED-RG/
 - Description: adafruit : P-LCC-2-TOPLED-RG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P-LCC-2-TOPLED-RG](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P-LCC-2-TOPLED-RG)
 - Short Link: [http://oom.lt/FZAPLCC2TOPLRG](http://oom.lt/FZAPLCC2TOPLRG)

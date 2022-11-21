@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC18L
 - Hex ID: FZELSICOMPUTERSYSTEMSSOIC18L
 - Name: lsi-computer-systems : SOIC18L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/SOIC18L/
 - Description: lsi-computer-systems : SOIC18L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC18L](http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC18L)
 - Short Link: [http://oom.lt/FZELSICOMPUTERSYSTEMSSOIC18L](http://oom.lt/FZELSICOMPUTERSYSTEMSSOIC18L)

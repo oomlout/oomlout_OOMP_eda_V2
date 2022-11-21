@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F479NIHx
 - Hex ID: SZKMCUSTSTM32F4STM32F479NIHX
 - Name: MCU_ST_STM32F4 : STM32F479NIHx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F479NIHx/
 - Description: MCU_ST_STM32F4 : STM32F479NIHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F479NIHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F479NIHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F479NIHX](http://oom.lt/SZKMCUSTSTM32F4STM32F479NIHX)

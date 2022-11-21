@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-350760-4
 - Hex ID: FZECONAMP35764
 - Name: con-amp : 350760-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/350760-4/
 - Description: con-amp : 350760-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-350760-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-350760-4)
 - Short Link: [http://oom.lt/FZECONAMP35764](http://oom.lt/FZECONAMP35764)

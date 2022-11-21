@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C325-182X374
 - Hex ID: FZAC325182X374
 - Name: adafruit : C325-182X374
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C325-182X374/
 - Description: adafruit : C325-182X374
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C325-182X374](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C325-182X374)
 - Short Link: [http://oom.lt/FZAC325182X374](http://oom.lt/FZAC325182X374)

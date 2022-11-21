@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNMXMXPICOBLADE53471511X15P125VERTICAL > Connector_Molex : Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical](#fzkcnmxmxpicoblade53471511x15p125vertical--connector_molex--molex_picoblade_53047-1510_1x15_p125mm_vertical)
+* [FZKCNMXMXPICOBLADE53471511X15P125F > Connector_Molex : Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical](#fzkcnmxmxpicoblade53471511x15p125f--connector_molex--molex_picoblade_53047-1510_1x15_p125mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXPICOBLADE53471511X15P125VERTICAL > Connector_Molex : Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical
+# FZKCNMXMXPICOBLADE53471511X15P125F > Connector_Molex : Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical
-- Hex ID: FZKCNMXMXPICOBLADE53471511X15P125VERTICAL
+- Hex ID: FZKCNMXMXPICOBLADE53471511X15P125F
 - Name: Connector_Molex : Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical/
 - Description: Connector_Molex : Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNMXMXPICOBLADE53471511X15P125VERTICAL](http://oom.lt/FZKCNMXMXPICOBLADE53471511X15P125VERTICAL)
+- Short Link: [http://oom.lt/FZKCNMXMXPICOBLADE53471511X15P125F](http://oom.lt/FZKCNMXMXPICOBLADE53471511X15P125F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNMXMXPICOBLADE53471511X15P125VERTICAL|
+|Hex ID (short code)|hexID|FZKCNMXMXPICOBLADE53471511X15P125F|
 |name|name|Connector_Molex : Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex PicoBlade Connector System</td><td> 53047-1510</td><td> 15 Pins per row (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/530470610_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex PicoBlade side entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

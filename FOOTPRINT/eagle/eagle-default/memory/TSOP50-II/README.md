@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-TSOP50-II
 - Hex ID: FZEMEMORYTS5II
 - Name: memory : TSOP50-II
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory/TSOP50-II/
 - Description: memory : TSOP50-II
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-TSOP50-II](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-TSOP50-II)
 - Short Link: [http://oom.lt/FZEMEMORYTS5II](http://oom.lt/FZEMEMORYTS5II)

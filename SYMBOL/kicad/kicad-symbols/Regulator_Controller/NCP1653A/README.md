@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1653A
 - Hex ID: SZKREGULATORCONTROLLERNCP1653A
 - Name: Regulator_Controller : NCP1653A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1653A/
 - Description: Regulator_Controller : NCP1653A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1653A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1653A)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP1653A](http://oom.lt/SZKREGULATORCONTROLLERNCP1653A)

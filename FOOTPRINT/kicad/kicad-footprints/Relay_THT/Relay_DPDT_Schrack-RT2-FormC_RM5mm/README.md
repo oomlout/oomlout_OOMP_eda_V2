@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Schrack-RT2-FormC_RM5mm
 - Hex ID: FZKRELRELAYDPDTSCHRACKRT2FORMCRM5
 - Name: Relay_THT : Relay_DPDT_Schrack-RT2-FormC_RM5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Schrack-RT2-FormC_RM5mm/
 - Description: Relay_THT : Relay_DPDT_Schrack-RT2-FormC_RM5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Schrack-RT2-FormC_RM5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Schrack-RT2-FormC_RM5mm)
 - Short Link: [http://oom.lt/FZKRELRELAYDPDTSCHRACKRT2FORMCRM5](http://oom.lt/FZKRELRELAYDPDTSCHRACKRT2FORMCRM5)

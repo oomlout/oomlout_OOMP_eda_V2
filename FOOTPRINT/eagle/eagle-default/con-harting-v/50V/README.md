@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-harting-v-50V
 - Hex ID: FZECONHARTINGV5V
 - Name: con-harting-v : 50V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-harting-v/50V/
 - Description: con-harting-v : 50V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-v-50V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-v-50V)
 - Short Link: [http://oom.lt/FZECONHARTINGV5V](http://oom.lt/FZECONHARTINGV5V)

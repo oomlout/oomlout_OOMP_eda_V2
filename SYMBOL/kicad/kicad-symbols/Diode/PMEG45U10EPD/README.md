@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG45U10EPD
 - Hex ID: SZKDIODEPMEG45U1EPD
 - Name: Diode : PMEG45U10EPD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG45U10EPD/
 - Description: Diode : PMEG45U10EPD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG45U10EPD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG45U10EPD)
 - Short Link: [http://oom.lt/SZKDIODEPMEG45U1EPD](http://oom.lt/SZKDIODEPMEG45U1EPD)

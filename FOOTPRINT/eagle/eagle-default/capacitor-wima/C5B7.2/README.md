@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-capacitor-wima-C5B7.2
 - Hex ID: FZECAPACITORWIMAC5B72
 - Name: capacitor-wima : C5B7.2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/capacitor-wima/C5B7.2/
 - Description: capacitor-wima : C5B7.2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-capacitor-wima-C5B7.2](http://oom.lt/FOOTPRINT-eagle-eagle-default-capacitor-wima-C5B7.2)
 - Short Link: [http://oom.lt/FZECAPACITORWIMAC5B72](http://oom.lt/FZECAPACITORWIMAC5B72)

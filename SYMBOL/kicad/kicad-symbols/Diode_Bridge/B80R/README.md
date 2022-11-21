@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-B80R
 - Hex ID: SZKDIODEBRIDGEB8R
 - Name: Diode_Bridge : B80R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B80R/
 - Description: Diode_Bridge : B80R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B80R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B80R)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEB8R](http://oom.lt/SZKDIODEBRIDGEB8R)

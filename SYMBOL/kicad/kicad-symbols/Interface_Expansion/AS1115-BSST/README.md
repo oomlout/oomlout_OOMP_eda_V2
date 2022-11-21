@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-AS1115-BSST
 - Hex ID: SZKINTERFACEEXPANSIONAS1115BSST
 - Name: Interface_Expansion : AS1115-BSST
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/AS1115-BSST/
 - Description: Interface_Expansion : AS1115-BSST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-AS1115-BSST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-AS1115-BSST)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONAS1115BSST](http://oom.lt/SZKINTERFACEEXPANSIONAS1115BSST)

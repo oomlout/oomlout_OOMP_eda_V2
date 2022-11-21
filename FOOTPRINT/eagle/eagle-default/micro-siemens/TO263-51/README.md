@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-TO263-51
 - Hex ID: FZEMSIEMENSTO26351
 - Name: micro-siemens : TO263-51
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/TO263-51/
 - Description: micro-siemens : TO263-51
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-TO263-51](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-TO263-51)
 - Short Link: [http://oom.lt/FZEMSIEMENSTO26351](http://oom.lt/FZEMSIEMENSTO26351)

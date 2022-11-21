@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-HT16K33
 - Hex ID: FZSSPARKFUNDISHT16K33
 - Name: SparkFun-Displays : HT16K33
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/HT16K33/
 - Description: SparkFun-Displays : HT16K33
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-HT16K33](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-HT16K33)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISHT16K33](http://oom.lt/FZSSPARKFUNDISHT16K33)

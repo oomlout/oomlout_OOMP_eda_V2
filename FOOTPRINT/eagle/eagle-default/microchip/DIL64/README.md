@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-DIL64
 - Hex ID: FZEMCHIPDIL64
 - Name: microchip : DIL64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/DIL64/
 - Description: microchip : DIL64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-DIL64](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-DIL64)
 - Short Link: [http://oom.lt/FZEMCHIPDIL64](http://oom.lt/FZEMCHIPDIL64)

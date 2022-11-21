@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-8-STRIP
 - Hex ID: FZA8STRIP
 - Name: adafruit : 8-STRIP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/8-STRIP/
 - Description: adafruit : 8-STRIP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-8-STRIP](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-8-STRIP)
 - Short Link: [http://oom.lt/FZA8STRIP](http://oom.lt/FZA8STRIP)

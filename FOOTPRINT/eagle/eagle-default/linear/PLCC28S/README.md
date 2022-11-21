@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-PLCC28S
 - Hex ID: FZELINEARPLCC28S
 - Name: linear : PLCC28S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/PLCC28S/
 - Description: linear : PLCC28S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-PLCC28S](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-PLCC28S)
 - Short Link: [http://oom.lt/FZELINEARPLCC28S](http://oom.lt/FZELINEARPLCC28S)

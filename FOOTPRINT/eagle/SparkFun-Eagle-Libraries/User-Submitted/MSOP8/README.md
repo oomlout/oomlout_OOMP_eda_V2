@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-MSOP8
 - Hex ID: FZSUMS8
 - Name: User-Submitted : MSOP8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/User-Submitted/MSOP8/
 - Description: User-Submitted : MSOP8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-MSOP8](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-MSOP8)
 - Short Link: [http://oom.lt/FZSUMS8](http://oom.lt/FZSUMS8)

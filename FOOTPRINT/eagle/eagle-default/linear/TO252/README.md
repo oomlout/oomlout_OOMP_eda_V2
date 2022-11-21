@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-TO252
 - Hex ID: FZELINEARTO252
 - Name: linear : TO252
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/TO252/
 - Description: linear : TO252
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO252](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO252)
 - Short Link: [http://oom.lt/FZELINEARTO252](http://oom.lt/FZELINEARTO252)

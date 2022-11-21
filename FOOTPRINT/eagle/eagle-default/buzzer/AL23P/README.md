@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-AL23P
 - Hex ID: FZEBUZZERAL23P
 - Name: buzzer : AL23P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/AL23P/
 - Description: buzzer : AL23P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-AL23P](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-AL23P)
 - Short Link: [http://oom.lt/FZEBUZZERAL23P](http://oom.lt/FZEBUZZERAL23P)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM1117-2.5
 - Hex ID: SZKREGULATORLINEARLM111725
 - Name: Regulator_Linear : LM1117-2.5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM1117-2.5/
 - Description: Regulator_Linear : LM1117-2.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM1117-2.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM1117-2.5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM111725](http://oom.lt/SZKREGULATORLINEARLM111725)

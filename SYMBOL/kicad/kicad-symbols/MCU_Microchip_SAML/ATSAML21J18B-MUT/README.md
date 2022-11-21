@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAML-ATSAML21J18B-MUT
 - Hex ID: SZKMCUMCHIPSAMLATSAML21J18BMUT
 - Name: MCU_Microchip_SAML : ATSAML21J18B-MUT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAML/ATSAML21J18B-MUT/
 - Description: MCU_Microchip_SAML : ATSAML21J18B-MUT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAML-ATSAML21J18B-MUT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAML-ATSAML21J18B-MUT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMLATSAML21J18BMUT](http://oom.lt/SZKMCUMCHIPSAMLATSAML21J18BMUT)

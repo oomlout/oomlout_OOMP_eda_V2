@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-KA-3528ASYC
 - Hex ID: FZELKA3528ASYC
 - Name: led : KA-3528ASYC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/KA-3528ASYC/
 - Description: led : KA-3528ASYC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-KA-3528ASYC](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-KA-3528ASYC)
 - Short Link: [http://oom.lt/FZELKA3528ASYC](http://oom.lt/FZELKA3528ASYC)

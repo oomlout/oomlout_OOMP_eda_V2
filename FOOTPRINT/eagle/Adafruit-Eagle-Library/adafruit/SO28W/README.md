@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO28W
 - Hex ID: FZASO28W
 - Name: adafruit : SO28W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SO28W/
 - Description: adafruit : SO28W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO28W](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO28W)
 - Short Link: [http://oom.lt/FZASO28W](http://oom.lt/FZASO28W)

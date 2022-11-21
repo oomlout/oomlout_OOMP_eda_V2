@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-SOT353
 - Hex ID: FZSILSOT353
 - Name: SparkFun-IC-Logic : SOT353
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/SOT353/
 - Description: SparkFun-IC-Logic : SOT353
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-SOT353](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-SOT353)
 - Short Link: [http://oom.lt/FZSILSOT353](http://oom.lt/FZSILSOT353)

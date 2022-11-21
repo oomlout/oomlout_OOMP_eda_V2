@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Radial_Power_L16.1mm_W9.0mm_P7.37mm
 - Hex ID: FZKRRRPOWERL161W9P737
 - Name: Resistor_THT : R_Radial_Power_L16.1mm_W9.0mm_P7.37mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/
 - Description: Resistor_THT : R_Radial_Power_L16.1mm_W9.0mm_P7.37mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Radial_Power_L16.1mm_W9.0mm_P7.37mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Radial_Power_L16.1mm_W9.0mm_P7.37mm)
 - Short Link: [http://oom.lt/FZKRRRPOWERL161W9P737](http://oom.lt/FZKRRRPOWERL161W9P737)

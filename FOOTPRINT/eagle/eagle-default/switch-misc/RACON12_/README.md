@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHMISCRACON12 > switch-misc : RACON12_](#fzeswitchmiscracon12--switch-misc--racon12_)
+* [FZESWMISCRACON12 > switch-misc : RACON12_](#fzeswmiscracon12--switch-misc--racon12_)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHMISCRACON12 > switch-misc : RACON12_
+# FZESWMISCRACON12 > switch-misc : RACON12_
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-misc-RACON12_
-- Hex ID: FZESWITCHMISCRACON12
+- Hex ID: FZESWMISCRACON12
 - Name: switch-misc : RACON12_
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-misc/RACON12_/
 - Description: switch-misc : RACON12_
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-RACON12_](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-misc-RACON12_)
-- Short Link: [http://oom.lt/FZESWITCHMISCRACON12](http://oom.lt/FZESWITCHMISCRACON12)
+- Short Link: [http://oom.lt/FZESWMISCRACON12](http://oom.lt/FZESWMISCRACON12)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-misc|
 |OOMP Index|oompIndex|RACON12_|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-misc-RACON12_|
-|Hex ID (short code)|hexID|FZESWITCHMISCRACON12|
+|Hex ID (short code)|hexID|FZESWMISCRACON12|
 |name|name|switch-misc : RACON12_|
 ||||

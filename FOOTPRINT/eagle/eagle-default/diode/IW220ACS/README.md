@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-IW220ACS
 - Hex ID: FZEDIODEIW22ACS
 - Name: diode : IW220ACS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/IW220ACS/
 - Description: diode : IW220ACS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-IW220ACS](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-IW220ACS)
 - Short Link: [http://oom.lt/FZEDIODEIW22ACS](http://oom.lt/FZEDIODEIW22ACS)

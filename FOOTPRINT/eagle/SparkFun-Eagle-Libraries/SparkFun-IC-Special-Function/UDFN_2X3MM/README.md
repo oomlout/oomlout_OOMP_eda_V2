@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-UDFN_2X3MM
 - Hex ID: FZSISUDFN2X3
 - Name: SparkFun-IC-Special-Function : UDFN_2X3MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/UDFN_2X3MM/
 - Description: SparkFun-IC-Special-Function : UDFN_2X3MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-UDFN_2X3MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-UDFN_2X3MM)
 - Short Link: [http://oom.lt/FZSISUDFN2X3](http://oom.lt/FZSISUDFN2X3)

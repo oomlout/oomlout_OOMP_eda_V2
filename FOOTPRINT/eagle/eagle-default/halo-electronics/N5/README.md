@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-halo-electronics-N5
 - Hex ID: FZEHALOELECTRONICSN5
 - Name: halo-electronics : N5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/halo-electronics/N5/
 - Description: halo-electronics : N5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-halo-electronics-N5](http://oom.lt/FOOTPRINT-eagle-eagle-default-halo-electronics-N5)
 - Short Link: [http://oom.lt/FZEHALOELECTRONICSN5](http://oom.lt/FZEHALOELECTRONICSN5)

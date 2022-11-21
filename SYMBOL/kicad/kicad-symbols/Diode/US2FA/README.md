@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-US2FA
 - Hex ID: SZKDIODEUS2FA
 - Name: Diode : US2FA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/US2FA/
 - Description: Diode : US2FA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2FA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2FA)
 - Short Link: [http://oom.lt/SZKDIODEUS2FA](http://oom.lt/SZKDIODEUS2FA)

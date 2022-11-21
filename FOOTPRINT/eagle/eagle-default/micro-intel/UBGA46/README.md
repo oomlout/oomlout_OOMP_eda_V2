@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-UBGA46
 - Hex ID: FZEMINTELUBGA46
 - Name: micro-intel : UBGA46
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/UBGA46/
 - Description: micro-intel : UBGA46
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-UBGA46](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-UBGA46)
 - Short Link: [http://oom.lt/FZEMINTELUBGA46](http://oom.lt/FZEMINTELUBGA46)

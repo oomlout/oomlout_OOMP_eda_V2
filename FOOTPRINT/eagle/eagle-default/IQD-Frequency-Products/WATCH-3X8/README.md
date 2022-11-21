@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-WATCH-3X8
 - Hex ID: FZEIQDFREQUENCYPRODUCTSWATCH3X8
 - Name: IQD-Frequency-Products : WATCH-3X8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/WATCH-3X8/
 - Description: IQD-Frequency-Products : WATCH-3X8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-WATCH-3X8](http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-WATCH-3X8)
 - Short Link: [http://oom.lt/FZEIQDFREQUENCYPRODUCTSWATCH3X8](http://oom.lt/FZEIQDFREQUENCYPRODUCTSWATCH3X8)

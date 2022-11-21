@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-silabs-DIL20
 - Hex ID: FZESILABSDIL2
 - Name: silabs : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/silabs/DIL20/
 - Description: silabs : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-silabs-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-silabs-DIL20)
 - Short Link: [http://oom.lt/FZESILABSDIL2](http://oom.lt/FZESILABSDIL2)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-net-RN-11
 - Hex ID: FZERESISTORNETRN11
 - Name: resistor-net : RN-11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-net/RN-11/
 - Description: resistor-net : RN-11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-net-RN-11](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-net-RN-11)
 - Short Link: [http://oom.lt/FZERESISTORNETRN11](http://oom.lt/FZERESISTORNETRN11)

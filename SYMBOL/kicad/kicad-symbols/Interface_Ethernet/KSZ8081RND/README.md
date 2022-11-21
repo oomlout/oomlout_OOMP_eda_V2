@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ8081RND
 - Hex ID: SZKINTERFACEETHERNETKSZ881RND
 - Name: Interface_Ethernet : KSZ8081RND
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ8081RND/
 - Description: Interface_Ethernet : KSZ8081RND
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ8081RND](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ8081RND)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETKSZ881RND](http://oom.lt/SZKINTERFACEETHERNETKSZ881RND)

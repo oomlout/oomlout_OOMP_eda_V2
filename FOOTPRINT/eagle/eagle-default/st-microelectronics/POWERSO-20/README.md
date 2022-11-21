@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-POWERSO-20
 - Hex ID: FZESTMELECTRONICSPOWERSO2
 - Name: st-microelectronics : POWERSO-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/POWERSO-20/
 - Description: st-microelectronics : POWERSO-20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-POWERSO-20](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-POWERSO-20)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSPOWERSO2](http://oom.lt/FZESTMELECTRONICSPOWERSO2)

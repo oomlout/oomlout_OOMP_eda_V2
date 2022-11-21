@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEICPACKAGEPLCCS44SO > ic-package : PLCC-S44-SOCKET](#fzeicpackageplccs44so--ic-package--plcc-s44-socket)
+* [FZEICPPLCCS44SO > ic-package : PLCC-S44-SOCKET](#fzeicpplccs44so--ic-package--plcc-s44-socket)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEICPACKAGEPLCCS44SO > ic-package : PLCC-S44-SOCKET
+# FZEICPPLCCS44SO > ic-package : PLCC-S44-SOCKET
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-PLCC-S44-SOCKET
-- Hex ID: FZEICPACKAGEPLCCS44SO
+- Hex ID: FZEICPPLCCS44SO
 - Name: ic-package : PLCC-S44-SOCKET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ic-package/PLCC-S44-SOCKET/
 - Description: ic-package : PLCC-S44-SOCKET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-PLCC-S44-SOCKET](http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-PLCC-S44-SOCKET)
-- Short Link: [http://oom.lt/FZEICPACKAGEPLCCS44SO](http://oom.lt/FZEICPACKAGEPLCCS44SO)
+- Short Link: [http://oom.lt/FZEICPPLCCS44SO](http://oom.lt/FZEICPPLCCS44SO)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ic-package|
 |OOMP Index|oompIndex|PLCC-S44-SOCKET|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ic-package-PLCC-S44-SOCKET|
-|Hex ID (short code)|hexID|FZEICPACKAGEPLCCS44SO|
+|Hex ID (short code)|hexID|FZEICPPLCCS44SO|
 |name|name|ic-package : PLCC-S44-SOCKET|
 ||||

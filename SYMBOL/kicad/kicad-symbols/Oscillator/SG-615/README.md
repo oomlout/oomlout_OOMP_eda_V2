@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-615
 - Hex ID: SZKOCSSG615
 - Name: Oscillator : SG-615
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/SG-615/
 - Description: Oscillator : SG-615
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-615](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-615)
 - Short Link: [http://oom.lt/SZKOCSSG615](http://oom.lt/SZKOCSSG615)

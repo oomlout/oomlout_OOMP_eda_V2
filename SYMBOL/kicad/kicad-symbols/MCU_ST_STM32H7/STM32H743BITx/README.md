@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32H7-STM32H743BITx
 - Hex ID: SZKMCUSTSTM32H7STM32H743BITX
 - Name: MCU_ST_STM32H7 : STM32H743BITx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32H7/STM32H743BITx/
 - Description: MCU_ST_STM32H7 : STM32H743BITx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32H7-STM32H743BITx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32H7-STM32H743BITx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32H7STM32H743BITX](http://oom.lt/SZKMCUSTSTM32H7STM32H743BITX)

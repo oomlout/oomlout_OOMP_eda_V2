@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BQ24230RGT
 - Hex ID: SZKPOWERMANAGEMENTBQ2423RGT
 - Name: Power_Management : BQ24230RGT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BQ24230RGT/
 - Description: Power_Management : BQ24230RGT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BQ24230RGT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BQ24230RGT)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBQ2423RGT](http://oom.lt/SZKPOWERMANAGEMENTBQ2423RGT)

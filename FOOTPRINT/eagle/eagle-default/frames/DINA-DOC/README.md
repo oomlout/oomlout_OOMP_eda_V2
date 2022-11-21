@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-frames-DINA-DOC
 - Hex ID: FZEFRAMESDINADOC
 - Name: frames : DINA-DOC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/frames/DINA-DOC/
 - Description: frames : DINA-DOC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-DINA-DOC](http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-DINA-DOC)
 - Short Link: [http://oom.lt/FZEFRAMESDINADOC](http://oom.lt/FZEFRAMESDINADOC)

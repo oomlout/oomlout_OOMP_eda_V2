@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-C2031N-1A2-B10K-GP
 - Hex ID: FZSRC231N1A2B1KGP
 - Name: SparkFun-Resistors : C2031N-1A2-B10K-GP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/C2031N-1A2-B10K-GP/
 - Description: SparkFun-Resistors : C2031N-1A2-B10K-GP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-C2031N-1A2-B10K-GP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-C2031N-1A2-B10K-GP)
 - Short Link: [http://oom.lt/FZSRC231N1A2B1KGP](http://oom.lt/FZSRC231N1A2B1KGP)

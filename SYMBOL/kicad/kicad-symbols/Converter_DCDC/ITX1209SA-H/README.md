@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1209SA-H
 - Hex ID: SZKCONITX129SAH
 - Name: Converter_DCDC : ITX1209SA-H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1209SA-H/
 - Description: Converter_DCDC : ITX1209SA-H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1209SA-H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1209SA-H)
 - Short Link: [http://oom.lt/SZKCONITX129SAH](http://oom.lt/SZKCONITX129SAH)

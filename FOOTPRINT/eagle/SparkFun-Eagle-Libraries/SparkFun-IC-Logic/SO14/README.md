@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-SO14
 - Hex ID: FZSILSO14
 - Name: SparkFun-IC-Logic : SO14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/SO14/
 - Description: SparkFun-IC-Logic : SO14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-SO14](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-SO14)
 - Short Link: [http://oom.lt/FZSILSO14](http://oom.lt/FZSILSO14)

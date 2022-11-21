@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-W04G
 - Hex ID: SZKDIODEBRIDGEW4G
 - Name: Diode_Bridge : W04G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/W04G/
 - Description: Diode_Bridge : W04G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W04G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W04G)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEW4G](http://oom.lt/SZKDIODEBRIDGEW4G)

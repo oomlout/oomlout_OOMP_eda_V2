@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-TSSOP16
 - Hex ID: FZEANALOGDEVICESTSS16
 - Name: analog-devices : TSSOP16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/TSSOP16/
 - Description: analog-devices : TSSOP16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-TSSOP16](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-TSSOP16)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESTSS16](http://oom.lt/FZEANALOGDEVICESTSS16)

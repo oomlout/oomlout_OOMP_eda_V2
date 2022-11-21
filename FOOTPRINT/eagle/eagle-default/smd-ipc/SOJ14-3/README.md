@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ14-3
 - Hex ID: FZESMIPCSOJ143
 - Name: smd-ipc : SOJ14-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOJ14-3/
 - Description: smd-ipc : SOJ14-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ14-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ14-3)
 - Short Link: [http://oom.lt/FZESMIPCSOJ143](http://oom.lt/FZESMIPCSOJ143)

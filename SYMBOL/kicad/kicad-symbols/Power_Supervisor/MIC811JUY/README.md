@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MIC811JUY
 - Hex ID: SZKPOWERSUPERVISORMIC811JUY
 - Name: Power_Supervisor : MIC811JUY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MIC811JUY/
 - Description: Power_Supervisor : MIC811JUY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MIC811JUY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MIC811JUY)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMIC811JUY](http://oom.lt/SZKPOWERSUPERVISORMIC811JUY)

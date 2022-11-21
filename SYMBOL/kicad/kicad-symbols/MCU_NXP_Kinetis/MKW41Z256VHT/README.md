@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKW41Z256VHT
 - Hex ID: SZKMCUNXPKINETISMKW41Z256VHT
 - Name: MCU_NXP_Kinetis : MKW41Z256VHT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKW41Z256VHT/
 - Description: MCU_NXP_Kinetis : MKW41Z256VHT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKW41Z256VHT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKW41Z256VHT)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKW41Z256VHT](http://oom.lt/SZKMCUNXPKINETISMKW41Z256VHT)

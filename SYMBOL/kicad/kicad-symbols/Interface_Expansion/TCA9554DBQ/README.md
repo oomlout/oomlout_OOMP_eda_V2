@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9554DBQ
 - Hex ID: SZKINTERFACEEXPANSIONTCA9554DBQ
 - Name: Interface_Expansion : TCA9554DBQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9554DBQ/
 - Description: Interface_Expansion : TCA9554DBQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9554DBQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9554DBQ)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9554DBQ](http://oom.lt/SZKINTERFACEEXPANSIONTCA9554DBQ)

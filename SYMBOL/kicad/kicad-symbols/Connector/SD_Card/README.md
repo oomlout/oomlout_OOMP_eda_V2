@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-SD_Card
 - Hex ID: SZKCNSDCARD
 - Name: Connector : SD_Card
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/SD_Card/
 - Description: Connector : SD_Card
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SD_Card](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SD_Card)
 - Short Link: [http://oom.lt/SZKCNSDCARD](http://oom.lt/SZKCNSDCARD)

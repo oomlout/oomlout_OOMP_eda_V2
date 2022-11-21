@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCAPACITORSMCPELEC18X175 > Capacitor_SMD : CP_Elec_18x17.5](#fzkcapacitorsmcpelec18x175--capacitor_smd--cp_elec_18x175)
+* [FZKCCPELEC18X175 > Capacitor_SMD : CP_Elec_18x17.5](#fzkccpelec18x175--capacitor_smd--cp_elec_18x175)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORSMCPELEC18X175 > Capacitor_SMD : CP_Elec_18x17.5
+# FZKCCPELEC18X175 > Capacitor_SMD : CP_Elec_18x17.5
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_18x17.5
-- Hex ID: FZKCAPACITORSMCPELEC18X175
+- Hex ID: FZKCCPELEC18X175
 - Name: Capacitor_SMD : CP_Elec_18x17.5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_18x17.5/
 - Description: Capacitor_SMD : CP_Elec_18x17.5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_18x17.5](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_18x17.5)
-- Short Link: [http://oom.lt/FZKCAPACITORSMCPELEC18X175](http://oom.lt/FZKCAPACITORSMCPELEC18X175)
+- Short Link: [http://oom.lt/FZKCCPELEC18X175](http://oom.lt/FZKCCPELEC18X175)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_SMD|
 |OOMP Index|oompIndex|CP_Elec_18x17.5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_18x17.5|
-|Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC18X175|
+|Hex ID (short code)|hexID|FZKCCPELEC18X175|
 |name|name|Capacitor_SMD : CP_Elec_18x17.5|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Elec_18x17.5'</td><td> 'description'</td></tr><tr><td> 'SMD capacitor</td><td> aluminum electrolytic</td><td> Vishay 1816</td><td> 18.0x17.5mm</td><td> http</td></tr><tr><td>//www.vishay.com/docs/28395/150crz.pdf'</td><td> 'tags'</td></tr><tr><td> 'capacitor electrolytic'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/CP_Elec_18x17.5.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

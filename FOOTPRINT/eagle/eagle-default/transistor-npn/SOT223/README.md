@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-npn-SOT223
 - Hex ID: FZETRANSISTORNPNSOT223
 - Name: transistor-npn : SOT223
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-npn/SOT223/
 - Description: transistor-npn : SOT223
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-SOT223](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-SOT223)
 - Short Link: [http://oom.lt/FZETRANSISTORNPNSOT223](http://oom.lt/FZETRANSISTORNPNSOT223)

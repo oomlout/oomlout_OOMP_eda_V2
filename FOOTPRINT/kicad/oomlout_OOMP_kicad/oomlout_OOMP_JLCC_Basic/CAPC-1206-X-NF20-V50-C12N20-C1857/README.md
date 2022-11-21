@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XNF2V5C12N2C1857 > oomlout_OOMP_JLCC_Basic : CAPC-1206-X-NF20-V50-C12N20-C1857](#fzkicadoomloutoompkicadoomloutoompjlccbasiccapc126xnf2v5c12n2c1857--oomlout_oomp_jlcc_basic--capc-1206-x-nf20-v50-c12n20-c1857)
+* [FZOOMPKJLCCAPC126XNF2V5C12N2C1857 > oomlout_OOMP_JLCC_Basic : CAPC-1206-X-NF20-V50-C12N20-C1857](#fzoompkjlccapc126xnf2v5c12n2c1857--oomlout_oomp_jlcc_basic--capc-1206-x-nf20-v50-c12n20-c1857)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XNF2V5C12N2C1857 > oomlout_OOMP_JLCC_Basic : CAPC-1206-X-NF20-V50-C12N20-C1857
+# FZOOMPKJLCCAPC126XNF2V5C12N2C1857 > oomlout_OOMP_JLCC_Basic : CAPC-1206-X-NF20-V50-C12N20-C1857
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-NF20-V50-C12N20-C1857
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XNF2V5C12N2C1857
+- Hex ID: FZOOMPKJLCCAPC126XNF2V5C12N2C1857
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-1206-X-NF20-V50-C12N20-C1857
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-1206-X-NF20-V50-C12N20-C1857/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-1206-X-NF20-V50-C12N20-C1857
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-NF20-V50-C12N20-C1857](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-NF20-V50-C12N20-C1857)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XNF2V5C12N2C1857](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XNF2V5C12N2C1857)
+- Short Link: [http://oom.lt/FZOOMPKJLCCAPC126XNF2V5C12N2C1857](http://oom.lt/FZOOMPKJLCCAPC126XNF2V5C12N2C1857)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_JLCC_Basic|
 |OOMP Index|oompIndex|CAPC-1206-X-NF20-V50-C12N20-C1857|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-NF20-V50-C12N20-C1857|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XNF2V5C12N2C1857|
+|Hex ID (short code)|hexID|FZOOMPKJLCCAPC126XNF2V5C12N2C1857|
 |name|name|oomlout_OOMP_JLCC_Basic : CAPC-1206-X-NF20-V50-C12N20-C1857|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CAPC-1206-X-NF20-V50-C12N20-C1857'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C12N20;PARTL C-JLCC;C1857;MANUF C-XXXX;1206B224K500NT; Capacitor SMD 1206 (3216 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

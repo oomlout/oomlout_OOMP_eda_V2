@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amphenol-C707_10M006_512_2
 - Hex ID: FZECONAMPHENOLC771M65122
 - Name: con-amphenol : C707_10M006_512_2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amphenol/C707_10M006_512_2/
 - Description: con-amphenol : C707_10M006_512_2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amphenol-C707_10M006_512_2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amphenol-C707_10M006_512_2)
 - Short Link: [http://oom.lt/FZECONAMPHENOLC771M65122](http://oom.lt/FZECONAMPHENOLC771M65122)

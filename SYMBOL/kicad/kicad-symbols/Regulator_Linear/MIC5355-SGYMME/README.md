@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5355-SGYMME
 - Hex ID: SZKREGULATORLINEARMIC5355SGYE
 - Name: Regulator_Linear : MIC5355-SGYMME
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5355-SGYMME/
 - Description: Regulator_Linear : MIC5355-SGYMME
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5355-SGYMME](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5355-SGYMME)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC5355SGYE](http://oom.lt/SZKREGULATORLINEARMIC5355SGYE)

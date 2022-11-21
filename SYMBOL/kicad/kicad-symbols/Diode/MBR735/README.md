@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MBR735
 - Hex ID: SZKDIODEMBR735
 - Name: Diode : MBR735
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MBR735/
 - Description: Diode : MBR735
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR735](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR735)
 - Short Link: [http://oom.lt/SZKDIODEMBR735](http://oom.lt/SZKDIODEMBR735)

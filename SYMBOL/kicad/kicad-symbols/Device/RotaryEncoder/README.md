@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-RotaryEncoder
 - Hex ID: SZKDEVICEROTARYENCODER
 - Name: Device : RotaryEncoder
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/RotaryEncoder/
 - Description: Device : RotaryEncoder
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-RotaryEncoder](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-RotaryEncoder)
 - Short Link: [http://oom.lt/SZKDEVICEROTARYENCODER](http://oom.lt/SZKDEVICEROTARYENCODER)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SSOP28DB_MCU
 - Hex ID: FZSRTSS28DBMCU
 - Name: SparkFun-Retired : SSOP28DB_MCU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SSOP28DB_MCU/
 - Description: SparkFun-Retired : SSOP28DB_MCU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SSOP28DB_MCU](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SSOP28DB_MCU)
 - Short Link: [http://oom.lt/FZSRTSS28DBMCU](http://oom.lt/FZSRTSS28DBMCU)

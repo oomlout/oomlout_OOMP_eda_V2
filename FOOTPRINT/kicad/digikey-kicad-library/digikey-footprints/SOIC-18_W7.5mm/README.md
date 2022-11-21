@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC18W75 > digikey-footprints : SOIC-18_W7.5mm](#fzkicaddigikeykicadlibrarydigikeyfootprintssoic18w75--digikey-footprints--soic-18_w75mm)
+* [FZDIGIDIGIKEYFOOTPRINTSSOIC18W75 > digikey-footprints : SOIC-18_W7.5mm](#fzdigidigikeyfootprintssoic18w75--digikey-footprints--soic-18_w75mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC18W75 > digikey-footprints : SOIC-18_W7.5mm
+# FZDIGIDIGIKEYFOOTPRINTSSOIC18W75 > digikey-footprints : SOIC-18_W7.5mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-18_W7.5mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC18W75
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOIC18W75
 - Name: digikey-footprints : SOIC-18_W7.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-18_W7.5mm/
 - Description: digikey-footprints : SOIC-18_W7.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-18_W7.5mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-18_W7.5mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC18W75](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC18W75)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC18W75](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC18W75)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SOIC-18_W7.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-18_W7.5mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC18W75|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSOIC18W75|
 |name|name|digikey-footprints : SOIC-18_W7.5mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOIC-18_W7.5mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/uln2803a.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

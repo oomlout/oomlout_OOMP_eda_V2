@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2481xRW
 - Hex ID: SZKINTERFACEUARTADM2481XRW
 - Name: Interface_UART : ADM2481xRW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM2481xRW/
 - Description: Interface_UART : ADM2481xRW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2481xRW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2481xRW)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM2481XRW](http://oom.lt/SZKINTERFACEUARTADM2481XRW)

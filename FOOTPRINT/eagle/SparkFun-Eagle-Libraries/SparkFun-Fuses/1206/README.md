@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Fuses-1206
 - Hex ID: FZSSPARKFUNFUS126
 - Name: SparkFun-Fuses : 1206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Fuses/1206/
 - Description: SparkFun-Fuses : 1206
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Fuses-1206](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Fuses-1206)
 - Short Link: [http://oom.lt/FZSSPARKFUNFUS126](http://oom.lt/FZSSPARKFUNFUS126)

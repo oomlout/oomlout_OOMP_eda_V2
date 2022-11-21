@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F752-IMC
 - Hex ID: SZKMCUMCHIPPIC12PIC12F752IMC
 - Name: MCU_Microchip_PIC12 : PIC12F752-IMC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12F752-IMC/
 - Description: MCU_Microchip_PIC12 : PIC12F752-IMC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F752-IMC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F752-IMC)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12F752IMC](http://oom.lt/SZKMCUMCHIPPIC12PIC12F752IMC)

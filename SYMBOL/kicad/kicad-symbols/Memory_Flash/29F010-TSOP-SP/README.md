@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-29F010-TSOP-SP
 - Hex ID: SZKMEMORYFLASH29F1TSSP
 - Name: Memory_Flash : 29F010-TSOP-SP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/29F010-TSOP-SP/
 - Description: Memory_Flash : 29F010-TSOP-SP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-29F010-TSOP-SP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-29F010-TSOP-SP)
 - Short Link: [http://oom.lt/SZKMEMORYFLASH29F1TSSP](http://oom.lt/SZKMEMORYFLASH29F1TSSP)

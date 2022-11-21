@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-dil-0603-ARC
 - Hex ID: FZERESISTORDIL63ARC
 - Name: resistor-dil : 0603-ARC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-dil/0603-ARC/
 - Description: resistor-dil : 0603-ARC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-0603-ARC](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-0603-ARC)
 - Short Link: [http://oom.lt/FZERESISTORDIL63ARC](http://oom.lt/FZERESISTORDIL63ARC)

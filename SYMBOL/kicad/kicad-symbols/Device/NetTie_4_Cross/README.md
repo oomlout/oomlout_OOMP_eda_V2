@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-NetTie_4_Cross
 - Hex ID: SZKDEVICENT4CROSS
 - Name: Device : NetTie_4_Cross
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/NetTie_4_Cross/
 - Description: Device : NetTie_4_Cross
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_4_Cross](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_4_Cross)
 - Short Link: [http://oom.lt/SZKDEVICENT4CROSS](http://oom.lt/SZKDEVICENT4CROSS)

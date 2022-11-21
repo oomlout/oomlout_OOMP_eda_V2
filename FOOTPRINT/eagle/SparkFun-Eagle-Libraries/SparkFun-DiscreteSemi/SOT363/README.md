@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOT363
 - Hex ID: FZSDSSOT363
 - Name: SparkFun-DiscreteSemi : SOT363
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SOT363/
 - Description: SparkFun-DiscreteSemi : SOT363
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOT363](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOT363)
 - Short Link: [http://oom.lt/FZSDSSOT363](http://oom.lt/FZSDSSOT363)

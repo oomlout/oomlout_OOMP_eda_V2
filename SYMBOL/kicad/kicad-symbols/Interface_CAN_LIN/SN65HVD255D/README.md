@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-SN65HVD255D
 - Hex ID: SZKINTERFACECANLINSN65HVD255D
 - Name: Interface_CAN_LIN : SN65HVD255D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/SN65HVD255D/
 - Description: Interface_CAN_LIN : SN65HVD255D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-SN65HVD255D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-SN65HVD255D)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINSN65HVD255D](http://oom.lt/SZKINTERFACECANLINSN65HVD255D)

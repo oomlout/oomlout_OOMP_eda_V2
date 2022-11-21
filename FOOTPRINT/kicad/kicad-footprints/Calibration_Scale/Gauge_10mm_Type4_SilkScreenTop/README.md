@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCSGAUGE1TYPE4SILKSCREENTOP > Calibration_Scale : Gauge_10mm_Type4_SilkScreenTop](#fzkcsgauge1type4silkscreentop--calibration_scale--gauge_10mm_type4_silkscreentop)
+* [FZKCSGAUGE1T4SILKSCREENTOP > Calibration_Scale : Gauge_10mm_Type4_SilkScreenTop](#fzkcsgauge1t4silkscreentop--calibration_scale--gauge_10mm_type4_silkscreentop)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCSGAUGE1TYPE4SILKSCREENTOP > Calibration_Scale : Gauge_10mm_Type4_SilkScreenTop
+# FZKCSGAUGE1T4SILKSCREENTOP > Calibration_Scale : Gauge_10mm_Type4_SilkScreenTop
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_10mm_Type4_SilkScreenTop
-- Hex ID: FZKCSGAUGE1TYPE4SILKSCREENTOP
+- Hex ID: FZKCSGAUGE1T4SILKSCREENTOP
 - Name: Calibration_Scale : Gauge_10mm_Type4_SilkScreenTop
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_10mm_Type4_SilkScreenTop/
 - Description: Calibration_Scale : Gauge_10mm_Type4_SilkScreenTop
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_10mm_Type4_SilkScreenTop](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_10mm_Type4_SilkScreenTop)
-- Short Link: [http://oom.lt/FZKCSGAUGE1TYPE4SILKSCREENTOP](http://oom.lt/FZKCSGAUGE1TYPE4SILKSCREENTOP)
+- Short Link: [http://oom.lt/FZKCSGAUGE1T4SILKSCREENTOP](http://oom.lt/FZKCSGAUGE1T4SILKSCREENTOP)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Calibration_Scale|
 |OOMP Index|oompIndex|Gauge_10mm_Type4_SilkScreenTop|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_10mm_Type4_SilkScreenTop|
-|Hex ID (short code)|hexID|FZKCSGAUGE1TYPE4SILKSCREENTOP|
+|Hex ID (short code)|hexID|FZKCSGAUGE1T4SILKSCREENTOP|
 |name|name|Calibration_Scale : Gauge_10mm_Type4_SilkScreenTop|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Gauge_10mm_Type4_SilkScreenTop'</td><td> 'description'</td></tr><tr><td> 'Gauge</td><td> Massstab</td><td> 10mm</td><td> SilkScreenTop</td><td> Type 4</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Gauge Massstab 10mm SilkScreenTop Type 4'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

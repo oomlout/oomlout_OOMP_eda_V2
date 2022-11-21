@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFXP2-5E-5TN144
 - Hex ID: SZKFPGALATTICELFXP25E5TN144
 - Name: FPGA_Lattice : LFXP2-5E-5TN144
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFXP2-5E-5TN144/
 - Description: FPGA_Lattice : LFXP2-5E-5TN144
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFXP2-5E-5TN144](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFXP2-5E-5TN144)
 - Short Link: [http://oom.lt/SZKFPGALATTICELFXP25E5TN144](http://oom.lt/SZKFPGALATTICELFXP25E5TN144)

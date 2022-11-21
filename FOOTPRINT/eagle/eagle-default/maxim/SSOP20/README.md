@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-SSOP20
 - Hex ID: FZEMAXIMSS2
 - Name: maxim : SSOP20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/SSOP20/
 - Description: maxim : SSOP20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SSOP20](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SSOP20)
 - Short Link: [http://oom.lt/FZEMAXIMSS2](http://oom.lt/FZEMAXIMSS2)

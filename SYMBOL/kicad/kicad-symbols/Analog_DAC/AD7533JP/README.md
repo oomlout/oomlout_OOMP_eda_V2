@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7533JP
 - Hex ID: SZKANALOGDACAD7533JP
 - Name: Analog_DAC : AD7533JP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7533JP/
 - Description: Analog_DAC : AD7533JP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7533JP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7533JP)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7533JP](http://oom.lt/SZKANALOGDACAD7533JP)

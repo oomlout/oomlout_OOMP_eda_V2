@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P6T15
 - Hex ID: FZAP6T15
 - Name: adafruit : P6T15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/P6T15/
 - Description: adafruit : P6T15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P6T15](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P6T15)
 - Short Link: [http://oom.lt/FZAP6T15](http://oom.lt/FZAP6T15)

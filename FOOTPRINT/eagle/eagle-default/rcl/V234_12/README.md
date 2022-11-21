@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-V234_12
 - Hex ID: FZERCLV23412
 - Name: rcl : V234_12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/V234_12/
 - Description: rcl : V234_12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-V234_12](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-V234_12)
 - Short Link: [http://oom.lt/FZERCLV23412](http://oom.lt/FZERCLV23412)

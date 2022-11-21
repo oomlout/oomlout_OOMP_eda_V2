@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO39167R6391A > oomlout_OOMP_parts : RESE-0603-X-O391-67-R6391A](#fzkicadoomloutoompkicadoomloutoomppartsrese63xo39167r6391a--oomlout_oomp_parts--rese-0603-x-o391-67-r6391a)
+* [FZOOMPKOOMPPRESE63XO39167R6391A > oomlout_OOMP_parts : RESE-0603-X-O391-67-R6391A](#fzoompkoompprese63xo39167r6391a--oomlout_oomp_parts--rese-0603-x-o391-67-r6391a)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO39167R6391A > oomlout_OOMP_parts : RESE-0603-X-O391-67-R6391A
+# FZOOMPKOOMPPRESE63XO39167R6391A > oomlout_OOMP_parts : RESE-0603-X-O391-67-R6391A
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O391-67-R6391A
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO39167R6391A
+- Hex ID: FZOOMPKOOMPPRESE63XO39167R6391A
 - Name: oomlout_OOMP_parts : RESE-0603-X-O391-67-R6391A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O391-67-R6391A/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O391-67-R6391A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O391-67-R6391A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O391-67-R6391A)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO39167R6391A](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO39167R6391A)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO39167R6391A](http://oom.lt/FZOOMPKOOMPPRESE63XO39167R6391A)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0603-X-O391-67-R6391A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O391-67-R6391A|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO39167R6391A|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPRESE63XO39167R6391A|
 |name|name|oomlout_OOMP_parts : RESE-0603-X-O391-67-R6391A|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RESE-0603-X-O391-67-R6391A'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R6391A; Resistor SMD 0603 (1608 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

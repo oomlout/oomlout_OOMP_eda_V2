@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-PDSO-N12
 - Hex ID: FZSIPPDSON12
 - Name: SparkFun-IC-Power : PDSO-N12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/PDSO-N12/
 - Description: SparkFun-IC-Power : PDSO-N12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-PDSO-N12](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-PDSO-N12)
 - Short Link: [http://oom.lt/FZSIPPDSON12](http://oom.lt/FZSIPPDSON12)

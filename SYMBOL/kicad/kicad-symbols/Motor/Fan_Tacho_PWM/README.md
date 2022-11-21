@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Fan_Tacho_PWM
 - Hex ID: SZKMOTORFANTACHOPWM
 - Name: Motor : Fan_Tacho_PWM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Fan_Tacho_PWM/
 - Description: Motor : Fan_Tacho_PWM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Fan_Tacho_PWM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Fan_Tacho_PWM)
 - Short Link: [http://oom.lt/SZKMOTORFANTACHOPWM](http://oom.lt/SZKMOTORFANTACHOPWM)

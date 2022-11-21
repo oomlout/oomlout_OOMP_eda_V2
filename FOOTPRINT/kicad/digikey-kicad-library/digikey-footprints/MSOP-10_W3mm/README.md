@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS1W3 > digikey-footprints : MSOP-10_W3mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsms1w3--digikey-footprints--msop-10_w3mm)
+* [FZDIGIDIGIKEYFOOTPRINTSMS1W3 > digikey-footprints : MSOP-10_W3mm](#fzdigidigikeyfootprintsms1w3--digikey-footprints--msop-10_w3mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS1W3 > digikey-footprints : MSOP-10_W3mm
+# FZDIGIDIGIKEYFOOTPRINTSMS1W3 > digikey-footprints : MSOP-10_W3mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-10_W3mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS1W3
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSMS1W3
 - Name: digikey-footprints : MSOP-10_W3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/MSOP-10_W3mm/
 - Description: digikey-footprints : MSOP-10_W3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-10_W3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-10_W3mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS1W3](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS1W3)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMS1W3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSMS1W3)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|MSOP-10_W3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-10_W3mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS1W3|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSMS1W3|
 |name|name|digikey-footprints : MSOP-10_W3mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MSOP-10_W3mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

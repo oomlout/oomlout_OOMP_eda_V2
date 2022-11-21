@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-MLF64-TH
 - Hex ID: FZEATMELMLF64TH
 - Name: atmel : MLF64-TH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/MLF64-TH/
 - Description: atmel : MLF64-TH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-MLF64-TH](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-MLF64-TH)
 - Short Link: [http://oom.lt/FZEATMELMLF64TH](http://oom.lt/FZEATMELMLF64TH)

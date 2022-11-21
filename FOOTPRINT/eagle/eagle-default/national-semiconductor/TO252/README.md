@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-TO252
 - Hex ID: FZENATIONALSEMICONDUCTORTO252
 - Name: national-semiconductor : TO252
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/TO252/
 - Description: national-semiconductor : TO252
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-TO252](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-TO252)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORTO252](http://oom.lt/FZENATIONALSEMICONDUCTORTO252)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TMF882X
 - Hex ID: FZSSPARKFUNSENSTMF882X
 - Name: SparkFun-Sensors : TMF882X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/TMF882X/
 - Description: SparkFun-Sensors : TMF882X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TMF882X](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TMF882X)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSTMF882X](http://oom.lt/FZSSPARKFUNSENSTMF882X)

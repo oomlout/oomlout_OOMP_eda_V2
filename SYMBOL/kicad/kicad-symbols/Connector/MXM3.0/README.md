@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-MXM3.0
 - Hex ID: SZKCNMXM3
 - Name: Connector : MXM3.0
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/MXM3.0/
 - Description: Connector : MXM3.0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-MXM3.0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-MXM3.0)
 - Short Link: [http://oom.lt/SZKCNMXM3](http://oom.lt/SZKCNMXM3)

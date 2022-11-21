@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-SFP+
 - Hex ID: SZKINTERFACEOPTICALSFP+
 - Name: Interface_Optical : SFP+
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Optical/SFP+/
 - Description: Interface_Optical : SFP+
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-SFP+](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-SFP+)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALSFP+](http://oom.lt/SZKINTERFACEOPTICALSFP+)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-AG980X
 - Hex ID: FZSIPAG98X
 - Name: SparkFun-IC-Power : AG980X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/AG980X/
 - Description: SparkFun-IC-Power : AG980X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-AG980X](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-AG980X)
 - Short Link: [http://oom.lt/FZSIPAG98X](http://oom.lt/FZSIPAG98X)

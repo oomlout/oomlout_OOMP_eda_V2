@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555RTWR
 - Hex ID: SZKINTERFACEEXPANSIONTCA9555RTWR
 - Name: Interface_Expansion : TCA9555RTWR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9555RTWR/
 - Description: Interface_Expansion : TCA9555RTWR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555RTWR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555RTWR)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9555RTWR](http://oom.lt/SZKINTERFACEEXPANSIONTCA9555RTWR)

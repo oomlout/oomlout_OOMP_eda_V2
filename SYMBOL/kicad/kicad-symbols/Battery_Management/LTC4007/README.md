@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4007
 - Hex ID: SZKBATMANAGEMENTLTC47
 - Name: Battery_Management : LTC4007
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4007/
 - Description: Battery_Management : LTC4007
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4007](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4007)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC47](http://oom.lt/SZKBATMANAGEMENTLTC47)

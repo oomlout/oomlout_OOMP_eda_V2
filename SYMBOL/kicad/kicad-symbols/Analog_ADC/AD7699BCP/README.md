@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7699BCP
 - Hex ID: SZKANALOGADCAD7699BCP
 - Name: Analog_ADC : AD7699BCP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7699BCP/
 - Description: Analog_ADC : AD7699BCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7699BCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7699BCP)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7699BCP](http://oom.lt/SZKANALOGADCAD7699BCP)

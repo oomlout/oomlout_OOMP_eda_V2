@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SJ_2S-TRACE-PTH
 - Hex ID: FZSRTSJ2STRACEP
 - Name: SparkFun-Retired : SJ_2S-TRACE-PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SJ_2S-TRACE-PTH/
 - Description: SparkFun-Retired : SJ_2S-TRACE-PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SJ_2S-TRACE-PTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SJ_2S-TRACE-PTH)
 - Short Link: [http://oom.lt/FZSRTSJ2STRACEP](http://oom.lt/FZSRTSJ2STRACEP)

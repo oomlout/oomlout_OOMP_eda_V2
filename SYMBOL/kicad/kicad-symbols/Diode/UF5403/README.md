@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-UF5403
 - Hex ID: SZKDIODEUF543
 - Name: Diode : UF5403
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/UF5403/
 - Description: Diode : UF5403
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-UF5403](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-UF5403)
 - Short Link: [http://oom.lt/SZKDIODEUF543](http://oom.lt/SZKDIODEUF543)

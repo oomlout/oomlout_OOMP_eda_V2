@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4082
 - Hex ID: SZK4XXXIEEE482
 - Name: 4xxx_IEEE : 4082
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4082/
 - Description: 4xxx_IEEE : 4082
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4082](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4082)
 - Short Link: [http://oom.lt/SZK4XXXIEEE482](http://oom.lt/SZK4XXXIEEE482)

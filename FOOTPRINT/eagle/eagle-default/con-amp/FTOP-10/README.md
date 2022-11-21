@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-FTOP-10
 - Hex ID: FZECONAMPFTOP1
 - Name: con-amp : FTOP-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/FTOP-10/
 - Description: con-amp : FTOP-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-FTOP-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-FTOP-10)
 - Short Link: [http://oom.lt/FZECONAMPFTOP1](http://oom.lt/FZECONAMPFTOP1)

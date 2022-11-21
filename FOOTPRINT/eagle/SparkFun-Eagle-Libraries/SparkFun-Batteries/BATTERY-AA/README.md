@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTERY-AA
 - Hex ID: FZSBBATAA
 - Name: SparkFun-Batteries : BATTERY-AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTERY-AA/
 - Description: SparkFun-Batteries : BATTERY-AA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTERY-AA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTERY-AA)
 - Short Link: [http://oom.lt/FZSBBATAA](http://oom.lt/FZSBBATAA)

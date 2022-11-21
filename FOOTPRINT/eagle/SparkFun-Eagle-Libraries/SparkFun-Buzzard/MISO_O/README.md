@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MISO_O
 - Hex ID: FZSBUMISOO
 - Name: SparkFun-Buzzard : MISO_O
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/MISO_O/
 - Description: SparkFun-Buzzard : MISO_O
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MISO_O](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MISO_O)
 - Short Link: [http://oom.lt/FZSBUMISOO](http://oom.lt/FZSBUMISOO)

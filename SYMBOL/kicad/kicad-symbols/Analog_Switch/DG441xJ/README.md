@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKANALOGSWITCHDG441XJ > Analog_Switch : DG441xJ](#szkanalogswitchdg441xj--analog_switch--dg441xj)
+* [SZKANALOGSWDG441XJ > Analog_Switch : DG441xJ](#szkanalogswdg441xj--analog_switch--dg441xj)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKANALOGSWITCHDG441XJ > Analog_Switch : DG441xJ
+# SZKANALOGSWDG441XJ > Analog_Switch : DG441xJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG441xJ
-- Hex ID: SZKANALOGSWITCHDG441XJ
+- Hex ID: SZKANALOGSWDG441XJ
 - Name: Analog_Switch : DG441xJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG441xJ/
 - Description: Analog_Switch : DG441xJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG441xJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG441xJ)
-- Short Link: [http://oom.lt/SZKANALOGSWITCHDG441XJ](http://oom.lt/SZKANALOGSWITCHDG441XJ)
+- Short Link: [http://oom.lt/SZKANALOGSWDG441XJ](http://oom.lt/SZKANALOGSWDG441XJ)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Analog_Switch|
 |OOMP Index|oompIndex|DG441xJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG441xJ|
-|Hex ID (short code)|hexID|SZKANALOGSWITCHDG441XJ|
+|Hex ID (short code)|hexID|SZKANALOGSWDG441XJ|
 |name|name|Analog_Switch : DG441xJ|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DG309xJ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG441xJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DG441-DG442.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad SPST Analog Switches</td><td> normally ON</td><td> 60Ohm Ron</td><td> DIP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

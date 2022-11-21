@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-DIL32
 - Hex ID: FZEEXARDIL32
 - Name: exar : DIL32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/DIL32/
 - Description: exar : DIL32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-DIL32](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-DIL32)
 - Short Link: [http://oom.lt/FZEEXARDIL32](http://oom.lt/FZEEXARDIL32)

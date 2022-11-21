@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HX03-P-SP2
 - Hex ID: FZKSENCURRENTLEMHX3PSP2
 - Name: Sensor_Current : LEM_HX03-P-SP2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/LEM_HX03-P-SP2/
 - Description: Sensor_Current : LEM_HX03-P-SP2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HX03-P-SP2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HX03-P-SP2)
 - Short Link: [http://oom.lt/FZKSENCURRENTLEMHX3PSP2](http://oom.lt/FZKSENCURRENTLEMHX3PSP2)

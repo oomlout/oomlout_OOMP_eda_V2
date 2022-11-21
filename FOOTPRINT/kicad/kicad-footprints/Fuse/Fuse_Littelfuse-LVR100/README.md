@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse-LVR100
 - Hex ID: FZKFUFULITTELFULVR1
 - Name: Fuse : Fuse_Littelfuse-LVR100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Littelfuse-LVR100/
 - Description: Fuse : Fuse_Littelfuse-LVR100
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse-LVR100](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse-LVR100)
 - Short Link: [http://oom.lt/FZKFUFULITTELFULVR1](http://oom.lt/FZKFUFULITTELFULVR1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-W9812G6KH-6
 - Hex ID: SZKMEMORYRAMW9812G6KH6
 - Name: Memory_RAM : W9812G6KH-6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/W9812G6KH-6/
 - Description: Memory_RAM : W9812G6KH-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-W9812G6KH-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-W9812G6KH-6)
 - Short Link: [http://oom.lt/SZKMEMORYRAMW9812G6KH6](http://oom.lt/SZKMEMORYRAMW9812G6KH6)

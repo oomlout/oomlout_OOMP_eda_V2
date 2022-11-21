@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZV55B36
 - Hex ID: SZKDIODEBZV55B36
 - Name: Diode : BZV55B36
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BZV55B36/
 - Description: Diode : BZV55B36
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B36](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B36)
 - Short Link: [http://oom.lt/SZKDIODEBZV55B36](http://oom.lt/SZKDIODEBZV55B36)

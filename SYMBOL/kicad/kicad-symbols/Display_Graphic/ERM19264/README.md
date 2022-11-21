@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Graphic-ERM19264
 - Hex ID: SZKDIGRAPHICERM19264
 - Name: Display_Graphic : ERM19264
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/ERM19264/
 - Description: Display_Graphic : ERM19264
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-ERM19264](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-ERM19264)
 - Short Link: [http://oom.lt/SZKDIGRAPHICERM19264](http://oom.lt/SZKDIGRAPHICERM19264)

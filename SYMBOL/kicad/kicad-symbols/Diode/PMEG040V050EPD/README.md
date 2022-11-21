@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG040V050EPD
 - Hex ID: SZKDIODEPMEG4V5EPD
 - Name: Diode : PMEG040V050EPD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG040V050EPD/
 - Description: Diode : PMEG040V050EPD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG040V050EPD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG040V050EPD)
 - Short Link: [http://oom.lt/SZKDIODEPMEG4V5EPD](http://oom.lt/SZKDIODEPMEG4V5EPD)

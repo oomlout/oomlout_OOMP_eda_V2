@@ -15,6 +15,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-74xx-little-de-MAC06A
 - Hex ID: FZE74XXLITTLEDEMAC6A
 - Name: 74xx-little-de : MAC06A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-little-de/MAC06A/
 - Description: 74xx-little-de : MAC06A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-de-MAC06A](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-de-MAC06A)
 - Short Link: [http://oom.lt/FZE74XXLITTLEDEMAC6A](http://oom.lt/FZE74XXLITTLEDEMAC6A)

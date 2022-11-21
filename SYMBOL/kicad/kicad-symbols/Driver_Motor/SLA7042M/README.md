@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7042M
 - Hex ID: SZKDRIVERMOTORSLA742M
 - Name: Driver_Motor : SLA7042M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/SLA7042M/
 - Description: Driver_Motor : SLA7042M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7042M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7042M)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORSLA742M](http://oom.lt/SZKDRIVERMOTORSLA742M)

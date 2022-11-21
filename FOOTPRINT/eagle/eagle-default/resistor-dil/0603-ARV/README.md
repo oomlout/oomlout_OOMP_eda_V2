@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-dil-0603-ARV
 - Hex ID: FZERESISTORDIL63ARV
 - Name: resistor-dil : 0603-ARV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-dil/0603-ARV/
 - Description: resistor-dil : 0603-ARV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-0603-ARV](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-0603-ARV)
 - Short Link: [http://oom.lt/FZERESISTORDIL63ARV](http://oom.lt/FZERESISTORDIL63ARV)

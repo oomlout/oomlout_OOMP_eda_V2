@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPCBEDGEBUSPCIEXPRESSX1 > Connector_PCBEdge : BUS_PCIexpress_x1](#fzkcnpcbedgebuspciexpressx1--connector_pcbedge--bus_pciexpress_x1)
+* [FZKCNPEBUSPCIEXPRESSX1 > Connector_PCBEdge : BUS_PCIexpress_x1](#fzkcnpebuspciexpressx1--connector_pcbedge--bus_pciexpress_x1)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPCBEDGEBUSPCIEXPRESSX1 > Connector_PCBEdge : BUS_PCIexpress_x1
+# FZKCNPEBUSPCIEXPRESSX1 > Connector_PCBEdge : BUS_PCIexpress_x1
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCIexpress_x1
-- Hex ID: FZKCNPCBEDGEBUSPCIEXPRESSX1
+- Hex ID: FZKCNPEBUSPCIEXPRESSX1
 - Name: Connector_PCBEdge : BUS_PCIexpress_x1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCIexpress_x1/
 - Description: Connector_PCBEdge : BUS_PCIexpress_x1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCIexpress_x1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCIexpress_x1)
-- Short Link: [http://oom.lt/FZKCNPCBEDGEBUSPCIEXPRESSX1](http://oom.lt/FZKCNPCBEDGEBUSPCIEXPRESSX1)
+- Short Link: [http://oom.lt/FZKCNPEBUSPCIEXPRESSX1](http://oom.lt/FZKCNPEBUSPCIEXPRESSX1)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PCBEdge|
 |OOMP Index|oompIndex|BUS_PCIexpress_x1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCIexpress_x1|
-|Hex ID (short code)|hexID|FZKCNPCBEDGEBUSPCIEXPRESSX1|
+|Hex ID (short code)|hexID|FZKCNPEBUSPCIEXPRESSX1|
 |name|name|Connector_PCBEdge : BUS_PCIexpress_x1|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BUS_PCIexpress_x1'</td><td> 'description'</td></tr><tr><td> 'PCIexpress Bus Edge Connector x1 http</td></tr><tr><td>//www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70'</td><td> 'tags'</td></tr><tr><td> 'PCIe'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

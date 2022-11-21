@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-ST-PCB
 - Hex ID: FZEOPTOHONEYWELLSTPCB
 - Name: opto-honeywell : ST-PCB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/ST-PCB/
 - Description: opto-honeywell : ST-PCB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-ST-PCB](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-ST-PCB)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLSTPCB](http://oom.lt/FZEOPTOHONEYWELLSTPCB)

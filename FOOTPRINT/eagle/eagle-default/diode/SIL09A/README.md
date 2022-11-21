@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SIL09A
 - Hex ID: FZEDIODESIL9A
 - Name: diode : SIL09A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SIL09A/
 - Description: diode : SIL09A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SIL09A](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SIL09A)
 - Short Link: [http://oom.lt/FZEDIODESIL9A](http://oom.lt/FZEDIODESIL9A)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LTC6752xS5
 - Hex ID: SZKCOMPARATORLTC6752XS5
 - Name: Comparator : LTC6752xS5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LTC6752xS5/
 - Description: Comparator : LTC6752xS5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LTC6752xS5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LTC6752xS5)
 - Short Link: [http://oom.lt/SZKCOMPARATORLTC6752XS5](http://oom.lt/SZKCOMPARATORLTC6752XS5)

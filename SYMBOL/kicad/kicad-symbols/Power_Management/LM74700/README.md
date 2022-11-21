@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LM74700
 - Hex ID: SZKPOWERMANAGEMENTLM747
 - Name: Power_Management : LM74700
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LM74700/
 - Description: Power_Management : LM74700
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LM74700](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LM74700)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLM747](http://oom.lt/SZKPOWERMANAGEMENTLM747)

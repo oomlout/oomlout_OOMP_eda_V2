@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-WS2812B-NARROW
 - Hex ID: FZAWS2812BN
 - Name: adafruit : WS2812B-NARROW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/WS2812B-NARROW/
 - Description: adafruit : WS2812B-NARROW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-WS2812B-NARROW](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-WS2812B-NARROW)
 - Short Link: [http://oom.lt/FZAWS2812BN](http://oom.lt/FZAWS2812BN)

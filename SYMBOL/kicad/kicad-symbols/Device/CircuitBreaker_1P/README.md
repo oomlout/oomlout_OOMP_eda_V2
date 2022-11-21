@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_1P
 - Hex ID: SZKDEVICECIRCUITBREAKER1P
 - Name: Device : CircuitBreaker_1P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/CircuitBreaker_1P/
 - Description: Device : CircuitBreaker_1P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_1P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_1P)
 - Short Link: [http://oom.lt/SZKDEVICECIRCUITBREAKER1P](http://oom.lt/SZKDEVICECIRCUITBREAKER1P)

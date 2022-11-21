@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm
 - Hex ID: FZKSOSSO896X63P127CLEARANCE15
 - Name: Package_SO : SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm/
 - Description: Package_SO : SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm)
 - Short Link: [http://oom.lt/FZKSOSSO896X63P127CLEARANCE15](http://oom.lt/FZKSOSSO896X63P127CLEARANCE15)

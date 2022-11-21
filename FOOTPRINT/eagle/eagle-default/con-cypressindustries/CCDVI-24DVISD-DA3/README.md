@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cypressindustries-CCDVI-24DVISD-DA3
 - Hex ID: FZECONCYPRESSINDUSTRIESCCDVI24DVISDDA3
 - Name: con-cypressindustries : CCDVI-24DVISD-DA3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cypressindustries/CCDVI-24DVISD-DA3/
 - Description: con-cypressindustries : CCDVI-24DVISD-DA3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cypressindustries-CCDVI-24DVISD-DA3](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cypressindustries-CCDVI-24DVISD-DA3)
 - Short Link: [http://oom.lt/FZECONCYPRESSINDUSTRIESCCDVI24DVISDDA3](http://oom.lt/FZECONCYPRESSINDUSTRIESCCDVI24DVISDDA3)

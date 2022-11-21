@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGTPS613221ADBZ > Regulator_Switching : TPS613221ADBZ](#szkregulatorswitchingtps613221adbz--regulator_switching--tps613221adbz)
+* [SZKREGULATORSWINGTPS613221ADBZ > Regulator_Switching : TPS613221ADBZ](#szkregulatorswingtps613221adbz--regulator_switching--tps613221adbz)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGTPS613221ADBZ > Regulator_Switching : TPS613221ADBZ
+# SZKREGULATORSWINGTPS613221ADBZ > Regulator_Switching : TPS613221ADBZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS613221ADBZ
-- Hex ID: SZKREGULATORSWITCHINGTPS613221ADBZ
+- Hex ID: SZKREGULATORSWINGTPS613221ADBZ
 - Name: Regulator_Switching : TPS613221ADBZ
 - Description: Regulator_Switching : TPS613221ADBZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS613221ADBZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS613221ADBZ)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS613221ADBZ](http://oom.lt/SZKREGULATORSWITCHINGTPS613221ADBZ)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGTPS613221ADBZ](http://oom.lt/SZKREGULATORSWINGTPS613221ADBZ)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|TPS613221ADBZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS613221ADBZ|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS613221ADBZ|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGTPS613221ADBZ|
 |name|name|Regulator_Switching : TPS613221ADBZ|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS613221ADBZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps61322.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Boost converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.2A Step-Up Converter</td><td> 3.3V Output Voltage</td><td> 0.9-5.5V Input Voltage</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

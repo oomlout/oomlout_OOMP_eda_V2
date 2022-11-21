@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAS16TW
 - Hex ID: SZKDIODEBAS16TW
 - Name: Diode : BAS16TW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAS16TW/
 - Description: Diode : BAS16TW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS16TW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS16TW)
 - Short Link: [http://oom.lt/SZKDIODEBAS16TW](http://oom.lt/SZKDIODEBAS16TW)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-LIPO-1000
 - Hex ID: FZSBLIPO1
 - Name: SparkFun-Batteries : LIPO-1000
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/LIPO-1000/
 - Description: SparkFun-Batteries : LIPO-1000
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-LIPO-1000](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-LIPO-1000)
 - Short Link: [http://oom.lt/FZSBLIPO1](http://oom.lt/FZSBLIPO1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIR3320S
 - Hex ID: SZKPOWERMANAGEMENTAUIR332S
 - Name: Power_Management : AUIR3320S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AUIR3320S/
 - Description: Power_Management : AUIR3320S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIR3320S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIR3320S)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIR332S](http://oom.lt/SZKPOWERMANAGEMENTAUIR332S)

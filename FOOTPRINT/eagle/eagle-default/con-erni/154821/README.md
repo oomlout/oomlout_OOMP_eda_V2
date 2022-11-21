@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-erni-154821
 - Hex ID: FZECONERNI154821
 - Name: con-erni : 154821
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-erni/154821/
 - Description: con-erni : 154821
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-erni-154821](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-erni-154821)
 - Short Link: [http://oom.lt/FZECONERNI154821](http://oom.lt/FZECONERNI154821)

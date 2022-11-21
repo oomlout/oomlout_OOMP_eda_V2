@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-TSSOP16
 - Hex ID: FZEMPHILIPSTSS16
 - Name: micro-philips : TSSOP16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/TSSOP16/
 - Description: micro-philips : TSSOP16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-TSSOP16](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-TSSOP16)
 - Short Link: [http://oom.lt/FZEMPHILIPSTSS16](http://oom.lt/FZEMPHILIPSTSS16)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-TX2SL
 - Hex ID: FZERELAYTX2SL
 - Name: relay : TX2SL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/TX2SL/
 - Description: relay : TX2SL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TX2SL](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TX2SL)
 - Short Link: [http://oom.lt/FZERELAYTX2SL](http://oom.lt/FZERELAYTX2SL)

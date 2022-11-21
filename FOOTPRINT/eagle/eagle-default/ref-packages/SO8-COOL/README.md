@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSO8COOL > ref-packages : SO8-COOL](#fzerefpackagesso8cool--ref-packages--so8-cool)
+* [FZEREFPSSO8COOL > ref-packages : SO8-COOL](#fzerefpsso8cool--ref-packages--so8-cool)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSO8COOL > ref-packages : SO8-COOL
+# FZEREFPSSO8COOL > ref-packages : SO8-COOL
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SO8-COOL
-- Hex ID: FZEREFPACKAGESSO8COOL
+- Hex ID: FZEREFPSSO8COOL
 - Name: ref-packages : SO8-COOL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SO8-COOL/
 - Description: ref-packages : SO8-COOL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SO8-COOL](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SO8-COOL)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSO8COOL](http://oom.lt/FZEREFPACKAGESSO8COOL)
+- Short Link: [http://oom.lt/FZEREFPSSO8COOL](http://oom.lt/FZEREFPSSO8COOL)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SO8-COOL|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SO8-COOL|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSO8COOL|
+|Hex ID (short code)|hexID|FZEREFPSSO8COOL|
 |name|name|ref-packages : SO8-COOL|
 ||||

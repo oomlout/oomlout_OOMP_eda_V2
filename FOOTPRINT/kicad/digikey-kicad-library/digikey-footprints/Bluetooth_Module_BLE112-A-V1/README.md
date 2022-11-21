@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE112AV1 > digikey-footprints : Bluetooth_Module_BLE112-A-V1](#fzkicaddigikeykicadlibrarydigikeyfootprintsbluetoothmoble112av1--digikey-footprints--bluetooth_module_ble112-a-v1)
+* [FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE112AV1 > digikey-footprints : Bluetooth_Module_BLE112-A-V1](#fzdigidigikeyfootprintsbluetoothmoble112av1--digikey-footprints--bluetooth_module_ble112-a-v1)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE112AV1 > digikey-footprints : Bluetooth_Module_BLE112-A-V1
+# FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE112AV1 > digikey-footprints : Bluetooth_Module_BLE112-A-V1
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE112-A-V1
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE112AV1
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE112AV1
 - Name: digikey-footprints : Bluetooth_Module_BLE112-A-V1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BLE112-A-V1/
 - Description: digikey-footprints : Bluetooth_Module_BLE112-A-V1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE112-A-V1](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE112-A-V1)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE112AV1](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE112AV1)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE112AV1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE112AV1)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Bluetooth_Module_BLE112-A-V1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE112-A-V1|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE112AV1|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE112AV1|
 |name|name|digikey-footprints : Bluetooth_Module_BLE112-A-V1|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bluetooth_Module_BLE112-A-V1'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/BLE112.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

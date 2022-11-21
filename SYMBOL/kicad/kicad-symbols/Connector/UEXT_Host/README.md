@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-UEXT_Host
 - Hex ID: SZKCNUEXTHOST
 - Name: Connector : UEXT_Host
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/UEXT_Host/
 - Description: Connector : UEXT_Host
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-UEXT_Host](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-UEXT_Host)
 - Short Link: [http://oom.lt/SZKCNUEXTHOST](http://oom.lt/SZKCNUEXTHOST)

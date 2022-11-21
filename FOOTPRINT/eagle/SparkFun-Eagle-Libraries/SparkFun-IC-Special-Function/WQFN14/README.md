@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-WQFN14
 - Hex ID: FZSISWQFN14
 - Name: SparkFun-IC-Special-Function : WQFN14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/WQFN14/
 - Description: SparkFun-IC-Special-Function : WQFN14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-WQFN14](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-WQFN14)
 - Short Link: [http://oom.lt/FZSISWQFN14](http://oom.lt/FZSISWQFN14)

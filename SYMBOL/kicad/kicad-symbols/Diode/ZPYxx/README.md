@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-ZPYxx
 - Hex ID: SZKDIODEZPYXX
 - Name: Diode : ZPYxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/ZPYxx/
 - Description: Diode : ZPYxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-ZPYxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-ZPYxx)
 - Short Link: [http://oom.lt/SZKDIODEZPYXX](http://oom.lt/SZKDIODEZPYXX)

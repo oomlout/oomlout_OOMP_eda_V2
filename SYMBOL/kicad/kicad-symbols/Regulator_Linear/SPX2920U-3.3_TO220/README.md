@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920U-3.3_TO220
 - Hex ID: SZKREGULATORLINEARSPX292U33TO22
 - Name: Regulator_Linear : SPX2920U-3.3_TO220
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/SPX2920U-3.3_TO220/
 - Description: Regulator_Linear : SPX2920U-3.3_TO220
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920U-3.3_TO220](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920U-3.3_TO220)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARSPX292U33TO22](http://oom.lt/SZKREGULATORLINEARSPX292U33TO22)

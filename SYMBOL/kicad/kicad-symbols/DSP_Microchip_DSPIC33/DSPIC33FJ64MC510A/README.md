@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC510A
 - Hex ID: SZKDSPMCHIPDSPIC33DSPIC33FJ64MC51A
 - Name: DSP_Microchip_DSPIC33 : DSPIC33FJ64MC510A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64MC510A/
 - Description: DSP_Microchip_DSPIC33 : DSPIC33FJ64MC510A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC510A](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC510A)
 - Short Link: [http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64MC51A](http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64MC51A)

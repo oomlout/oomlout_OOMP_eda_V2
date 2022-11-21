@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2153
 - Hex ID: SZKDRIVERFETIR2153
 - Name: Driver_FET : IR2153
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2153/
 - Description: Driver_FET : IR2153
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2153](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2153)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2153](http://oom.lt/SZKDRIVERFETIR2153)

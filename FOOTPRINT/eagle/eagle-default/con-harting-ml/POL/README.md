@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-harting-ml-POL
 - Hex ID: FZECONHARTINGMLPOL
 - Name: con-harting-ml : POL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-harting-ml/POL/
 - Description: con-harting-ml : POL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-ml-POL](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-ml-POL)
 - Short Link: [http://oom.lt/FZECONHARTINGMLPOL](http://oom.lt/FZECONHARTINGMLPOL)

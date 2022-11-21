@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8015
 - Hex ID: SZKAMPLIFIEROPERATIONALAD815
 - Name: Amplifier_Operational : AD8015
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/AD8015/
 - Description: Amplifier_Operational : AD8015
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8015](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8015)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALAD815](http://oom.lt/SZKAMPLIFIEROPERATIONALAD815)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-32_4.4x6.5mm_P0.4mm
 - Hex ID: FZKSOTSS3244X65P4
 - Name: Package_SO : TSSOP-32_4.4x6.5mm_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-32_4.4x6.5mm_P0.4mm/
 - Description: Package_SO : TSSOP-32_4.4x6.5mm_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-32_4.4x6.5mm_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-32_4.4x6.5mm_P0.4mm)
 - Short Link: [http://oom.lt/FZKSOTSS3244X65P4](http://oom.lt/FZKSOTSS3244X65P4)

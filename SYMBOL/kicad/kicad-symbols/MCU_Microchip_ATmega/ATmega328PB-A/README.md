@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega328PB-A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA328PBA
 - Name: MCU_Microchip_ATmega : ATmega328PB-A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega328PB-A/
 - Description: MCU_Microchip_ATmega : ATmega328PB-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega328PB-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega328PB-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA328PBA](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA328PBA)

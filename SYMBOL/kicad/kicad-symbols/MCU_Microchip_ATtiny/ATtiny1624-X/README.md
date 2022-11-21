@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny1624-X
 - Hex ID: SZKMCUMCHIPATTINYATTINY1624X
 - Name: MCU_Microchip_ATtiny : ATtiny1624-X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny1624-X/
 - Description: MCU_Microchip_ATtiny : ATtiny1624-X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny1624-X](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny1624-X)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY1624X](http://oom.lt/SZKMCUMCHIPATTINYATTINY1624X)

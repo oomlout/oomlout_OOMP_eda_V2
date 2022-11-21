@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSWTACTILESWITCHP6 > SparkFun-Switches : TACTILE_SWITCH_PTH_6.0MM](#fzswtactileswitchp6--sparkfun-switches--tactile_switch_pth_60mm)
+* [FZSWTSWP6 > SparkFun-Switches : TACTILE_SWITCH_PTH_6.0MM](#fzswtswp6--sparkfun-switches--tactile_switch_pth_60mm)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSWTACTILESWITCHP6 > SparkFun-Switches : TACTILE_SWITCH_PTH_6.0MM
+# FZSWTSWP6 > SparkFun-Switches : TACTILE_SWITCH_PTH_6.0MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_PTH_6.0MM
-- Hex ID: FZSWTACTILESWITCHP6
+- Hex ID: FZSWTSWP6
 - Name: SparkFun-Switches : TACTILE_SWITCH_PTH_6.0MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/TACTILE_SWITCH_PTH_6.0MM/
 - Description: SparkFun-Switches : TACTILE_SWITCH_PTH_6.0MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_PTH_6.0MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_PTH_6.0MM)
-- Short Link: [http://oom.lt/FZSWTACTILESWITCHP6](http://oom.lt/FZSWTACTILESWITCHP6)
+- Short Link: [http://oom.lt/FZSWTSWP6](http://oom.lt/FZSWTSWP6)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Switches|
 |OOMP Index|oompIndex|TACTILE_SWITCH_PTH_6.0MM|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_PTH_6.0MM|
-|Hex ID (short code)|hexID|FZSWTACTILESWITCHP6|
+|Hex ID (short code)|hexID|FZSWTSWP6|
 |name|name|SparkFun-Switches : TACTILE_SWITCH_PTH_6.0MM|
 ||||

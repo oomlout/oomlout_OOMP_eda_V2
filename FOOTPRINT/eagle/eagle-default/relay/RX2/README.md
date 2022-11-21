@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RX2
 - Hex ID: FZERELAYRX2
 - Name: relay : RX2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RX2/
 - Description: relay : RX2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RX2](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RX2)
 - Short Link: [http://oom.lt/FZERELAYRX2](http://oom.lt/FZERELAYRX2)

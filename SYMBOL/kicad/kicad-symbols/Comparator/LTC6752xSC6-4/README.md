@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LTC6752xSC6-4
 - Hex ID: SZKCOMPARATORLTC6752XSC64
 - Name: Comparator : LTC6752xSC6-4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LTC6752xSC6-4/
 - Description: Comparator : LTC6752xSC6-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LTC6752xSC6-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LTC6752xSC6-4)
 - Short Link: [http://oom.lt/SZKCOMPARATORLTC6752XSC64](http://oom.lt/SZKCOMPARATORLTC6752XSC64)

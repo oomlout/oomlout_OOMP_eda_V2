@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F469VETx
 - Hex ID: SZKMCUSTSTM32F4STM32F469VETX
 - Name: MCU_ST_STM32F4 : STM32F469VETx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F469VETx/
 - Description: MCU_ST_STM32F4 : STM32F469VETx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F469VETx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F469VETx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F469VETX](http://oom.lt/SZKMCUSTSTM32F4STM32F469VETX)

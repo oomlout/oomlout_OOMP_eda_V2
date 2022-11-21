@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-QFP44_SOT205-1
 - Hex ID: FZEMPHILIPSQFP44SOT251
 - Name: micro-philips : QFP44_SOT205-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/QFP44_SOT205-1/
 - Description: micro-philips : QFP44_SOT205-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-QFP44_SOT205-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-QFP44_SOT205-1)
 - Short Link: [http://oom.lt/FZEMPHILIPSQFP44SOT251](http://oom.lt/FZEMPHILIPSQFP44SOT251)

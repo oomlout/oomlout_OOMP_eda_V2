@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SDCARD
 - Hex ID: FZASDCARD
 - Name: adafruit : SDCARD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SDCARD/
 - Description: adafruit : SDCARD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SDCARD](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SDCARD)
 - Short Link: [http://oom.lt/FZASDCARD](http://oom.lt/FZASDCARD)

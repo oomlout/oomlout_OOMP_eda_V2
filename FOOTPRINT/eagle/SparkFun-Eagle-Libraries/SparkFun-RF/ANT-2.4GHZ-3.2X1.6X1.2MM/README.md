@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ANT-2.4GHZ-3.2X1.6X1.2MM
 - Hex ID: FZSRFANT24GHZ32X16X12
 - Name: SparkFun-RF : ANT-2.4GHZ-3.2X1.6X1.2MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/ANT-2.4GHZ-3.2X1.6X1.2MM/
 - Description: SparkFun-RF : ANT-2.4GHZ-3.2X1.6X1.2MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ANT-2.4GHZ-3.2X1.6X1.2MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ANT-2.4GHZ-3.2X1.6X1.2MM)
 - Short Link: [http://oom.lt/FZSRFANT24GHZ32X16X12](http://oom.lt/FZSRFANT24GHZ32X16X12)

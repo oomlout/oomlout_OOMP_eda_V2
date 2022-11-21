@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM232A
 - Hex ID: SZKINTERFACEUARTADM232A
 - Name: Interface_UART : ADM232A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM232A/
 - Description: Interface_UART : ADM232A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM232A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM232A)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM232A](http://oom.lt/SZKINTERFACEUARTADM232A)

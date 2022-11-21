@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM7332
 - Hex ID: SZKAMPLIFIEROPERATIONALLM7332
 - Name: Amplifier_Operational : LM7332
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM7332/
 - Description: Amplifier_Operational : LM7332
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM7332](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM7332)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM7332](http://oom.lt/SZKAMPLIFIEROPERATIONALLM7332)

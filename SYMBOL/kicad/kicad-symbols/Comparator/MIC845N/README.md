@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-MIC845N
 - Hex ID: SZKCOMPARATORMIC845N
 - Name: Comparator : MIC845N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/MIC845N/
 - Description: Comparator : MIC845N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MIC845N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MIC845N)
 - Short Link: [http://oom.lt/SZKCOMPARATORMIC845N](http://oom.lt/SZKCOMPARATORMIC845N)

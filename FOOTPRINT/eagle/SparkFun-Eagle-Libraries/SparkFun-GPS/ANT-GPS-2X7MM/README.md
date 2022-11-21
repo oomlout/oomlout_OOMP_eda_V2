@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-ANT-GPS-2X7MM
 - Hex ID: FZSGANTGPS2X7
 - Name: SparkFun-GPS : ANT-GPS-2X7MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/ANT-GPS-2X7MM/
 - Description: SparkFun-GPS : ANT-GPS-2X7MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-ANT-GPS-2X7MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-ANT-GPS-2X7MM)
 - Short Link: [http://oom.lt/FZSGANTGPS2X7](http://oom.lt/FZSGANTGPS2X7)

@@ -5,27 +5,21 @@
 Contents
 ========
 
-* [FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBV252GF581X2P58VERTICALTHREADEDFLANGE > Connector_Phoenix_MSTB : PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange](#fzkcnphoenixmstbphoenixcontactmstbv252gf581x2p58verticalthreadedflange--connector_phoenix_mstb--phoenixcontact_mstbv_25_2-gf-508_1x02_p508mm_vertical_threadedflange)
-	* [Images](#images)
+* [FZKCNPHOENIXMSTBPHOENIXCTMSTBV252GF581X2P58FTHF > Connector_Phoenix_MSTB : PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange](#fzkcnphoenixmstbphoenixctmstbv252gf581x2p58fthf--connector_phoenix_mstb--phoenixcontact_mstbv_25_2-gf-508_1x02_p508mm_vertical_threadedflange)
 	* [Tags](#tags)
   
-![][im]
-# FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBV252GF581X2P58VERTICALTHREADEDFLANGE > Connector_Phoenix_MSTB : PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange
+NO IMAGE  
+# FZKCNPHOENIXMSTBPHOENIXCTMSTBV252GF581X2P58FTHF > Connector_Phoenix_MSTB : PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange
-- Hex ID: FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBV252GF581X2P58VERTICALTHREADEDFLANGE
+- Hex ID: FZKCNPHOENIXMSTBPHOENIXCTMSTBV252GF581X2P58FTHF
 - Name: Connector_Phoenix_MSTB : PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange/
 - Description: Connector_Phoenix_MSTB : PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange)
-- Short Link: [http://oom.lt/FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBV252GF581X2P58VERTICALTHREADEDFLANGE](http://oom.lt/FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBV252GF581X2P58VERTICALTHREADEDFLANGE)
-
-## Images
+- Short Link: [http://oom.lt/FZKCNPHOENIXMSTBPHOENIXCTMSTBV252GF581X2P58FTHF](http://oom.lt/FZKCNPHOENIXMSTBPHOENIXCTMSTBV252GF581X2P58FTHF)
   
-
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange/kicadPcb3dBack.png)|
-| :---: | :---: | :---: | :---: |
-|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange/kicadPcb3d.png)||||
-
+NO IMAGES  
 ## Tags
   
 
@@ -37,11 +31,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Phoenix_MSTB|
 |OOMP Index|oompIndex|PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange|
-|Hex ID (short code)|hexID|FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBV252GF581X2P58VERTICALTHREADEDFLANGE|
+|Hex ID (short code)|hexID|FZKCNPHOENIXMSTBPHOENIXCTMSTBV252GF581X2P58FTHF|
 |name|name|Connector_Phoenix_MSTB : PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PhoenixContact_MSTBV_2</td><td>5_2-GF-5</td><td>08_1x02_P5.08mm_Vertical_ThreadedFlange'</td><td> 'description'</td></tr><tr><td> 'Generic Phoenix Contact connector footprint for</td></tr><tr><td> MSTBV_2</td><td>5/2-GF-5</td><td>08; number of pins</td></tr><tr><td> 02; pin pitch</td></tr><tr><td> 5.08mm; Vertical; threaded flange \|\| order number</td></tr><tr><td> 1777073 12A \|\| order number</td></tr><tr><td> 1924525 16A (HC)'</td><td> 'tags'</td></tr><tr><td> 'phoenix_contact connector MSTBV_01x02_GF_5.08mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBV_2</td><td>5_2-GF-5</td><td>08_1x02_P5.08mm_Vertical_ThreadedFlange.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
-
-
-
-[im]: kicadPcb3d_450.png

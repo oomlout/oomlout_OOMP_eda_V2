@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2444IRHA40
 - Hex ID: SZKMCUTEXASMSP43MSP43G2444IRHA4
 - Name: MCU_Texas_MSP430 : MSP430G2444IRHA40
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430G2444IRHA40/
 - Description: MCU_Texas_MSP430 : MSP430G2444IRHA40
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2444IRHA40](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2444IRHA40)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43G2444IRHA4](http://oom.lt/SZKMCUTEXASMSP43MSP43G2444IRHA4)

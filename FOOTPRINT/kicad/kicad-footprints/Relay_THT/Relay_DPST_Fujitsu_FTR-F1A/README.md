@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPST_Fujitsu_FTR-F1A
 - Hex ID: FZKRELRELAYDPSTFUJITSUFTRF1A
 - Name: Relay_THT : Relay_DPST_Fujitsu_FTR-F1A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPST_Fujitsu_FTR-F1A/
 - Description: Relay_THT : Relay_DPST_Fujitsu_FTR-F1A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPST_Fujitsu_FTR-F1A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPST_Fujitsu_FTR-F1A)
 - Short Link: [http://oom.lt/FZKRELRELAYDPSTFUJITSUFTRF1A](http://oom.lt/FZKRELRELAYDPSTFUJITSUFTRF1A)

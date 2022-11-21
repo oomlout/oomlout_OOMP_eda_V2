@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-HDMI_B
 - Hex ID: SZKCNHDMIB
 - Name: Connector : HDMI_B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/HDMI_B/
 - Description: Connector : HDMI_B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_B)
 - Short Link: [http://oom.lt/SZKCNHDMIB](http://oom.lt/SZKCNHDMIB)

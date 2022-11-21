@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-F18_12P
 - Hex ID: FZEXF1812P
 - Name: crystal : F18_12P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/F18_12P/
 - Description: crystal : F18_12P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-F18_12P](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-F18_12P)
 - Short Link: [http://oom.lt/FZEXF1812P](http://oom.lt/FZEXF1812P)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-J502-ND-142-0701-881_886
 - Hex ID: FZECONCOAXJ52ND14271881886
 - Name: con-coax : J502-ND-142-0701-881_886
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-coax/J502-ND-142-0701-881_886/
 - Description: con-coax : J502-ND-142-0701-881_886
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-J502-ND-142-0701-881_886](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-J502-ND-142-0701-881_886)
 - Short Link: [http://oom.lt/FZECONCOAXJ52ND14271881886](http://oom.lt/FZECONCOAXJ52ND14271881886)

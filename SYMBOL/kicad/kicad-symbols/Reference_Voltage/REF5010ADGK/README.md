@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5010ADGK
 - Hex ID: SZKREFERENCEVOLTAGEREF51ADGK
 - Name: Reference_Voltage : REF5010ADGK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF5010ADGK/
 - Description: Reference_Voltage : REF5010ADGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5010ADGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5010ADGK)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF51ADGK](http://oom.lt/SZKREFERENCEVOLTAGEREF51ADGK)

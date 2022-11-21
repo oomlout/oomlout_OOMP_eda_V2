@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-DCK
 - Hex ID: FZETEXASDCK
 - Name: texas : DCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/DCK/
 - Description: texas : DCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DCK](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DCK)
 - Short Link: [http://oom.lt/FZETEXASDCK](http://oom.lt/FZETEXASDCK)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-L32-1
 - Hex ID: FZEMEMORYIDTL321
 - Name: memory-idt : L32-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/L32-1/
 - Description: memory-idt : L32-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-L32-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-L32-1)
 - Short Link: [http://oom.lt/FZEMEMORYIDTL321](http://oom.lt/FZEMEMORYIDTL321)

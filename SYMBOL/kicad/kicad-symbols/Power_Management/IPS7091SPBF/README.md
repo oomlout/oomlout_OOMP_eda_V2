@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-IPS7091SPBF
 - Hex ID: SZKPOWERMANAGEMENTIPS791SPBF
 - Name: Power_Management : IPS7091SPBF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/IPS7091SPBF/
 - Description: Power_Management : IPS7091SPBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS7091SPBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS7091SPBF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTIPS791SPBF](http://oom.lt/SZKPOWERMANAGEMENTIPS791SPBF)

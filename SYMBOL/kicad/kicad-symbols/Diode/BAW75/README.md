@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAW75
 - Hex ID: SZKDIODEBAW75
 - Name: Diode : BAW75
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAW75/
 - Description: Diode : BAW75
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAW75](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAW75)
 - Short Link: [http://oom.lt/SZKDIODEBAW75](http://oom.lt/SZKDIODEBAW75)

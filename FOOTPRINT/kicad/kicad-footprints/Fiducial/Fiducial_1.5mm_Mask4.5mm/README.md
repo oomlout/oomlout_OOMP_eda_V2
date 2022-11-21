@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_1.5mm_Mask4.5mm
 - Hex ID: FZKFIDFID15MASK45
 - Name: Fiducial : Fiducial_1.5mm_Mask4.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_1.5mm_Mask4.5mm/
 - Description: Fiducial : Fiducial_1.5mm_Mask4.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_1.5mm_Mask4.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_1.5mm_Mask4.5mm)
 - Short Link: [http://oom.lt/FZKFIDFID15MASK45](http://oom.lt/FZKFIDFID15MASK45)

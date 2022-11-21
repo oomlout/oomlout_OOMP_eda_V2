@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3094xMSE
 - Hex ID: SZKREGULATORLINEARLT394XMSE
 - Name: Regulator_Linear : LT3094xMSE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3094xMSE/
 - Description: Regulator_Linear : LT3094xMSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3094xMSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3094xMSE)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT394XMSE](http://oom.lt/SZKREGULATORLINEARLT394XMSE)

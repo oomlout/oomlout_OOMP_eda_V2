@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirose-FH28-50S-0.5SH(51)
 - Hex ID: FZECONHIROSEFH285S5SH(51)
 - Name: con-hirose : FH28-50S-0.5SH(51)
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirose/FH28-50S-0.5SH(51)/
 - Description: con-hirose : FH28-50S-0.5SH(51)
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-FH28-50S-0.5SH(51)](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-FH28-50S-0.5SH(51))
 - Short Link: [http://oom.lt/FZECONHIROSEFH285S5SH(51)](http://oom.lt/FZECONHIROSEFH285S5SH(51))

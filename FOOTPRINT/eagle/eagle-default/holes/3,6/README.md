@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-holes-3,6
 - Hex ID: FZEH36
 - Name: holes : 3,6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/holes/3,6/
 - Description: holes : 3,6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-holes-3,6](http://oom.lt/FOOTPRINT-eagle-eagle-default-holes-3,6)
 - Short Link: [http://oom.lt/FZEH36](http://oom.lt/FZEH36)

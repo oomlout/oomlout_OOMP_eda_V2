@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-IRF-1
 - Hex ID: FZERCLIRF1
 - Name: rcl : IRF-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/IRF-1/
 - Description: rcl : IRF-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-IRF-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-IRF-1)
 - Short Link: [http://oom.lt/FZERCLIRF1](http://oom.lt/FZERCLIRF1)

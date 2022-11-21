@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC24W75 > digikey-footprints : SOIC-24_W7.50mm](#fzkicaddigikeykicadlibrarydigikeyfootprintssoic24w75--digikey-footprints--soic-24_w750mm)
+* [FZDIGIDIGIKEYFOOTPRINTSSOIC24W75 > digikey-footprints : SOIC-24_W7.50mm](#fzdigidigikeyfootprintssoic24w75--digikey-footprints--soic-24_w750mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC24W75 > digikey-footprints : SOIC-24_W7.50mm
+# FZDIGIDIGIKEYFOOTPRINTSSOIC24W75 > digikey-footprints : SOIC-24_W7.50mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-24_W7.50mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC24W75
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOIC24W75
 - Name: digikey-footprints : SOIC-24_W7.50mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-24_W7.50mm/
 - Description: digikey-footprints : SOIC-24_W7.50mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-24_W7.50mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-24_W7.50mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC24W75](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC24W75)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC24W75](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC24W75)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SOIC-24_W7.50mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-24_W7.50mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC24W75|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSOIC24W75|
 |name|name|digikey-footprints : SOIC-24_W7.50mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOIC-24_W7.50mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

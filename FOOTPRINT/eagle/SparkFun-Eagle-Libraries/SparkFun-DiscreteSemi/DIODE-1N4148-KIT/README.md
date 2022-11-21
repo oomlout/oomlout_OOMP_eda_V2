@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIODE-1N4148-KIT
 - Hex ID: FZSDSDIODE1N4148K
 - Name: SparkFun-DiscreteSemi : DIODE-1N4148-KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/DIODE-1N4148-KIT/
 - Description: SparkFun-DiscreteSemi : DIODE-1N4148-KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIODE-1N4148-KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIODE-1N4148-KIT)
 - Short Link: [http://oom.lt/FZSDSDIODE1N4148K](http://oom.lt/FZSDSDIODE1N4148K)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-RTC_SMD_MicroCrystal_C3_2.5x3.7mm
 - Hex ID: FZKSONRTCSMMXC325X37
 - Name: Package_SON : RTC_SMD_MicroCrystal_C3_2.5x3.7mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/RTC_SMD_MicroCrystal_C3_2.5x3.7mm/
 - Description: Package_SON : RTC_SMD_MicroCrystal_C3_2.5x3.7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-RTC_SMD_MicroCrystal_C3_2.5x3.7mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-RTC_SMD_MicroCrystal_C3_2.5x3.7mm)
 - Short Link: [http://oom.lt/FZKSONRTCSMMXC325X37](http://oom.lt/FZKSONRTCSMMXC325X37)

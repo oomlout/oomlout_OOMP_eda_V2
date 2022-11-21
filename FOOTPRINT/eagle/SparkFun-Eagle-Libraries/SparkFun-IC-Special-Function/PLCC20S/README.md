@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-PLCC20S
 - Hex ID: FZSISPLCC2S
 - Name: SparkFun-IC-Special-Function : PLCC20S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/PLCC20S/
 - Description: SparkFun-IC-Special-Function : PLCC20S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-PLCC20S](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-PLCC20S)
 - Short Link: [http://oom.lt/FZSISPLCC2S](http://oom.lt/FZSISPLCC2S)

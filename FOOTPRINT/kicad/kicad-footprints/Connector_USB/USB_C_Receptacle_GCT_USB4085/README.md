@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_GCT_USB4085
 - Hex ID: FZKCNUUCRECEPTACLEGCTU485
 - Name: Connector_USB : USB_C_Receptacle_GCT_USB4085
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_GCT_USB4085/
 - Description: Connector_USB : USB_C_Receptacle_GCT_USB4085
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_GCT_USB4085](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_GCT_USB4085)
 - Short Link: [http://oom.lt/FZKCNUUCRECEPTACLEGCTU485](http://oom.lt/FZKCNUUCRECEPTACLEGCTU485)

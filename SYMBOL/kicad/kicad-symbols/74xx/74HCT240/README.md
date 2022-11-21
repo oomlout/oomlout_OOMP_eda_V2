@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74HCT240
 - Hex ID: SZK74XX74HCT24
 - Name: 74xx : 74HCT240
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/74HCT240/
 - Description: 74xx : 74HCT240
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HCT240](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HCT240)
 - Short Link: [http://oom.lt/SZK74XX74HCT24](http://oom.lt/SZK74XX74HCT24)

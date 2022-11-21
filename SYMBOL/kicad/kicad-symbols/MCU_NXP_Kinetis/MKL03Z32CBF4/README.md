@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL03Z32CBF4
 - Hex ID: SZKMCUNXPKINETISMKL3Z32CBF4
 - Name: MCU_NXP_Kinetis : MKL03Z32CBF4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL03Z32CBF4/
 - Description: MCU_NXP_Kinetis : MKL03Z32CBF4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL03Z32CBF4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL03Z32CBF4)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL3Z32CBF4](http://oom.lt/SZKMCUNXPKINETISMKL3Z32CBF4)

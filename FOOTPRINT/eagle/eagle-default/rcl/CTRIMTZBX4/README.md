@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-CTRIMTZBX4
 - Hex ID: FZERCLCTRIMTZBX4
 - Name: rcl : CTRIMTZBX4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/CTRIMTZBX4/
 - Description: rcl : CTRIMTZBX4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CTRIMTZBX4](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CTRIMTZBX4)
 - Short Link: [http://oom.lt/FZERCLCTRIMTZBX4](http://oom.lt/FZERCLCTRIMTZBX4)

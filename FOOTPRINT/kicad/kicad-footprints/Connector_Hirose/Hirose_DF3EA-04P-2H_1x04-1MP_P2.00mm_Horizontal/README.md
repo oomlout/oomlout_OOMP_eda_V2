@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNHIROSEHIROSEDF3EA4P2H1X41MPP2HORIZONTAL > Connector_Hirose : Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal](#fzkcnhirosehirosedf3ea4p2h1x41mpp2horizontal--connector_hirose--hirose_df3ea-04p-2h_1x04-1mp_p200mm_horizontal)
+* [FZKCNHIROSEHIROSEDF3EA4P2H1X41MPP2H > Connector_Hirose : Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal](#fzkcnhirosehirosedf3ea4p2h1x41mpp2h--connector_hirose--hirose_df3ea-04p-2h_1x04-1mp_p200mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNHIROSEHIROSEDF3EA4P2H1X41MPP2HORIZONTAL > Connector_Hirose : Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal
+# FZKCNHIROSEHIROSEDF3EA4P2H1X41MPP2H > Connector_Hirose : Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal
-- Hex ID: FZKCNHIROSEHIROSEDF3EA4P2H1X41MPP2HORIZONTAL
+- Hex ID: FZKCNHIROSEHIROSEDF3EA4P2H1X41MPP2H
 - Name: Connector_Hirose : Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal/
 - Description: Connector_Hirose : Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF3EA4P2H1X41MPP2HORIZONTAL](http://oom.lt/FZKCNHIROSEHIROSEDF3EA4P2H1X41MPP2HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF3EA4P2H1X41MPP2H](http://oom.lt/FZKCNHIROSEHIROSEDF3EA4P2H1X41MPP2H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Hirose|
 |OOMP Index|oompIndex|Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF3EA4P2H1X41MPP2HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF3EA4P2H1X41MPP2H|
 |name|name|Connector_Hirose : Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Hirose  series connector</td><td> DF3EA-04P-2H (https</td></tr><tr><td>//www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Hirose  top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Hirose.3dshapes/Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

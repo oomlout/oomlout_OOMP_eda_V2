@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX4081S
 - Hex ID: SZKAMPLIFIERCURRENTMAX481S
 - Name: Amplifier_Current : MAX4081S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/MAX4081S/
 - Description: Amplifier_Current : MAX4081S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX4081S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX4081S)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTMAX481S](http://oom.lt/SZKAMPLIFIERCURRENTMAX481S)

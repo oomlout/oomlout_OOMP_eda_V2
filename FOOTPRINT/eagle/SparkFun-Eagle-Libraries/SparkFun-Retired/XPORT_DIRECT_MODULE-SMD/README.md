@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-XPORT_DIRECT_MODULE-SMD
 - Hex ID: FZSRTXPORTDIRECTMOSM
 - Name: SparkFun-Retired : XPORT_DIRECT_MODULE-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/XPORT_DIRECT_MODULE-SMD/
 - Description: SparkFun-Retired : XPORT_DIRECT_MODULE-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-XPORT_DIRECT_MODULE-SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-XPORT_DIRECT_MODULE-SMD)
 - Short Link: [http://oom.lt/FZSRTXPORTDIRECTMOSM](http://oom.lt/FZSRTXPORTDIRECTMOSM)

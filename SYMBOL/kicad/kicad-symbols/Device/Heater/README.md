@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Heater
 - Hex ID: SZKDEVICEHEATER
 - Name: Device : Heater
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Heater/
 - Description: Device : Heater
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Heater](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Heater)
 - Short Link: [http://oom.lt/SZKDEVICEHEATER](http://oom.lt/SZKDEVICEHEATER)

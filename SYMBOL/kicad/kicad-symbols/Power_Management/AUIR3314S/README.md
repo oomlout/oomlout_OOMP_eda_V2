@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIR3314S
 - Hex ID: SZKPOWERMANAGEMENTAUIR3314S
 - Name: Power_Management : AUIR3314S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AUIR3314S/
 - Description: Power_Management : AUIR3314S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIR3314S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIR3314S)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIR3314S](http://oom.lt/SZKPOWERMANAGEMENTAUIR3314S)

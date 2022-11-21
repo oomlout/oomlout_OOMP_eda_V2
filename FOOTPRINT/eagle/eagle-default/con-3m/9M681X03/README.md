@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-3m-9M681X03
 - Hex ID: FZECON3M9M681X3
 - Name: con-3m : 9M681X03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-3m/9M681X03/
 - Description: con-3m : 9M681X03
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-9M681X03](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-9M681X03)
 - Short Link: [http://oom.lt/FZECON3M9M681X3](http://oom.lt/FZECON3M9M681X3)

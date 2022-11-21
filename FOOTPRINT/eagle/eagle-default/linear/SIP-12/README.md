@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-SIP-12
 - Hex ID: FZELINEARSIP12
 - Name: linear : SIP-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/SIP-12/
 - Description: linear : SIP-12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SIP-12](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SIP-12)
 - Short Link: [http://oom.lt/FZELINEARSIP12](http://oom.lt/FZELINEARSIP12)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM222
 - Hex ID: SZKINTERFACEUARTADM222
 - Name: Interface_UART : ADM222
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM222/
 - Description: Interface_UART : ADM222
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM222](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM222)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM222](http://oom.lt/SZKINTERFACEUARTADM222)

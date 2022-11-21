@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-DIL16
 - Hex ID: FZETEXASDIL16
 - Name: texas : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/DIL16/
 - Description: texas : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DIL16)
 - Short Link: [http://oom.lt/FZETEXASDIL16](http://oom.lt/FZETEXASDIL16)

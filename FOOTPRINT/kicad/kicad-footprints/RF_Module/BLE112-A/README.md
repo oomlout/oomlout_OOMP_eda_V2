@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-BLE112-A
 - Hex ID: FZKRFMOBLE112A
 - Name: RF_Module : BLE112-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/BLE112-A/
 - Description: RF_Module : BLE112-A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-BLE112-A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-BLE112-A)
 - Short Link: [http://oom.lt/FZKRFMOBLE112A](http://oom.lt/FZKRFMOBLE112A)

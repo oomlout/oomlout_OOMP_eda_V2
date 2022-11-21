@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-SOT89
 - Hex ID: FZELINEARSOT89
 - Name: linear : SOT89
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/SOT89/
 - Description: linear : SOT89
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SOT89](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SOT89)
 - Short Link: [http://oom.lt/FZELINEARSOT89](http://oom.lt/FZELINEARSOT89)

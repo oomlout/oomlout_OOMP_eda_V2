@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SJ_ROUND
 - Hex ID: FZSRTSJROUND
 - Name: SparkFun-Retired : SJ_ROUND
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SJ_ROUND/
 - Description: SparkFun-Retired : SJ_ROUND
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SJ_ROUND](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SJ_ROUND)
 - Short Link: [http://oom.lt/FZSRTSJROUND](http://oom.lt/FZSRTSJROUND)

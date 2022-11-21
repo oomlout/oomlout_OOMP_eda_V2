@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F767BGTx
 - Hex ID: SZKMCUSTSTM32F7STM32F767BGTX
 - Name: MCU_ST_STM32F7 : STM32F767BGTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F767BGTx/
 - Description: MCU_ST_STM32F7 : STM32F767BGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F767BGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F767BGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F767BGTX](http://oom.lt/SZKMCUSTSTM32F7STM32F767BGTX)

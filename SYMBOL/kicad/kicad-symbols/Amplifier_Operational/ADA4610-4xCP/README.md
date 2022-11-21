@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-4xCP
 - Hex ID: SZKAMPLIFIEROPERATIONALADA4614XCP
 - Name: Amplifier_Operational : ADA4610-4xCP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4610-4xCP/
 - Description: Amplifier_Operational : ADA4610-4xCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-4xCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-4xCP)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA4614XCP](http://oom.lt/SZKAMPLIFIEROPERATIONALADA4614XCP)

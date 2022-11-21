@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1WPI81H8W > oomlout_OOMP_parts : HEAD-I01-W-PI08-01-H08W](#szkicadoomloutoompkicadoomloutoomppartsheadi1wpi81h8w--oomlout_oomp_parts--head-i01-w-pi08-01-h08w)
+* [SZOOMPKOOMPPHEADI1WPI81H8W > oomlout_OOMP_parts : HEAD-I01-W-PI08-01-H08W](#szoompkoomppheadi1wpi81h8w--oomlout_oomp_parts--head-i01-w-pi08-01-h08w)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1WPI81H8W > oomlout_OOMP_parts : HEAD-I01-W-PI08-01-H08W
+# SZOOMPKOOMPPHEADI1WPI81H8W > oomlout_OOMP_parts : HEAD-I01-W-PI08-01-H08W
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-W-PI08-01-H08W
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1WPI81H8W
+- Hex ID: SZOOMPKOOMPPHEADI1WPI81H8W
 - Name: oomlout_OOMP_parts : HEAD-I01-W-PI08-01-H08W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-W-PI08-01-H08W/
 - Description: oomlout_OOMP_parts : HEAD-I01-W-PI08-01-H08W
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-W-PI08-01-H08W](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-W-PI08-01-H08W)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1WPI81H8W](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1WPI81H8W)
+- Short Link: [http://oom.lt/SZOOMPKOOMPPHEADI1WPI81H8W](http://oom.lt/SZOOMPKOOMPPHEADI1WPI81H8W)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +31,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|HEAD-I01-W-PI08-01-H08W|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-W-PI08-01-H08W|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1WPI81H8W|
+|Hex ID (short code)|hexID|SZOOMPKOOMPPHEADI1WPI81H8W|
 |name|name|oomlout_OOMP_parts : HEAD-I01-W-PI08-01-H08W|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HEAD-I01-W-PI08-01-H08W'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>HEAD-I01-W-PI08-01-H08W'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/H08W'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> H08W;Generic connector</td><td> single row</td><td> 01x08</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??_*'</td></tr></table>]|
 ||||

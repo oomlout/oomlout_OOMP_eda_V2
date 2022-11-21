@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1963AEQ
 - Hex ID: SZKREGULATORLINEARLT1963AEQ
 - Name: Regulator_Linear : LT1963AEQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1963AEQ/
 - Description: Regulator_Linear : LT1963AEQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1963AEQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1963AEQ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1963AEQ](http://oom.lt/SZKREGULATORLINEARLT1963AEQ)

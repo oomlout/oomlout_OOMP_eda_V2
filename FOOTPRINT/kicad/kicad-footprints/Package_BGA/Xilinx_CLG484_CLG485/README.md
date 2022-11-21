@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CLG484_CLG485
 - Hex ID: FZKBGAXILINXCLG484CLG485
 - Name: Package_BGA : Xilinx_CLG484_CLG485
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_CLG484_CLG485/
 - Description: Package_BGA : Xilinx_CLG484_CLG485
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CLG484_CLG485](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CLG484_CLG485)
 - Short Link: [http://oom.lt/FZKBGAXILINXCLG484CLG485](http://oom.lt/FZKBGAXILINXCLG484CLG485)

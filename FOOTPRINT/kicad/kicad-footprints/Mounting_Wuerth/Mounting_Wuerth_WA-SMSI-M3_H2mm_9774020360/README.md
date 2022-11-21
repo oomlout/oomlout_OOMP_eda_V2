@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M3_H2mm_9774020360
 - Hex ID: FZKMONMONWASMSIM3H29774236
 - Name: Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-M3_H2mm_9774020360
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M3_H2mm_9774020360/
 - Description: Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-M3_H2mm_9774020360
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M3_H2mm_9774020360](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M3_H2mm_9774020360)
 - Short Link: [http://oom.lt/FZKMONMONWASMSIM3H29774236](http://oom.lt/FZKMONMONWASMSIM3H29774236)

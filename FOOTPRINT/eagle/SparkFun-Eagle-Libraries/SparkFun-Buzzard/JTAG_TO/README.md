@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-JTAG_TO
 - Hex ID: FZSBUJTAGTO
 - Name: SparkFun-Buzzard : JTAG_TO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/JTAG_TO/
 - Description: SparkFun-Buzzard : JTAG_TO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-JTAG_TO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-JTAG_TO)
 - Short Link: [http://oom.lt/FZSBUJTAGTO](http://oom.lt/FZSBUJTAGTO)

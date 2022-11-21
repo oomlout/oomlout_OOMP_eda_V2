@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C0603K
 - Hex ID: FZERCLC63K
 - Name: rcl : C0603K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C0603K/
 - Description: rcl : C0603K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C0603K](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C0603K)
 - Short Link: [http://oom.lt/FZERCLC63K](http://oom.lt/FZERCLC63K)

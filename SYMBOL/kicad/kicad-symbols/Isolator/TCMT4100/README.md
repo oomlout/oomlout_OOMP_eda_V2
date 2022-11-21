@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TCMT4100
 - Hex ID: SZKISOLATORTCMT41
 - Name: Isolator : TCMT4100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TCMT4100/
 - Description: Isolator : TCMT4100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TCMT4100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TCMT4100)
 - Short Link: [http://oom.lt/SZKISOLATORTCMT41](http://oom.lt/SZKISOLATORTCMT41)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-MSOP-12_GND
 - Hex ID: FZSIPMS12GND
 - Name: SparkFun-IC-Power : MSOP-12_GND
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/MSOP-12_GND/
 - Description: SparkFun-IC-Power : MSOP-12_GND
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-MSOP-12_GND](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-MSOP-12_GND)
 - Short Link: [http://oom.lt/FZSIPMS12GND](http://oom.lt/FZSIPMS12GND)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIODESMD1213225METRIC > Diode_SMD : D_1210_3225Metric](#fzkdiodesmd1213225metric--diode_smd--d_1210_3225metric)
+* [FZKDD1213225VA > Diode_SMD : D_1210_3225Metric](#fzkdd1213225va--diode_smd--d_1210_3225metric)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMD1213225METRIC > Diode_SMD : D_1210_3225Metric
+# FZKDD1213225VA > Diode_SMD : D_1210_3225Metric
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1210_3225Metric
-- Hex ID: FZKDIODESMD1213225METRIC
+- Hex ID: FZKDD1213225VA
 - Name: Diode_SMD : D_1210_3225Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_1210_3225Metric/
 - Description: Diode_SMD : D_1210_3225Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1210_3225Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1210_3225Metric)
-- Short Link: [http://oom.lt/FZKDIODESMD1213225METRIC](http://oom.lt/FZKDIODESMD1213225METRIC)
+- Short Link: [http://oom.lt/FZKDD1213225VA](http://oom.lt/FZKDD1213225VA)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_1210_3225Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1210_3225Metric|
-|Hex ID (short code)|hexID|FZKDIODESMD1213225METRIC|
+|Hex ID (short code)|hexID|FZKDD1213225VA|
 |name|name|Diode_SMD : D_1210_3225Metric|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_1210_3225Metric'</td><td> 'description'</td></tr><tr><td> 'Diode SMD 1210 (3225 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> http</td></tr><tr><td>//www.tortai-tech.com/upload/download/2011102023233369053.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'diode'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_1210_3225Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

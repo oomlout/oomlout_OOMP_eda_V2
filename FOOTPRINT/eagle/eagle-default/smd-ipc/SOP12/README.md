@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOP12
 - Hex ID: FZESMIPCS12
 - Name: smd-ipc : SOP12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOP12/
 - Description: smd-ipc : SOP12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP12](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP12)
 - Short Link: [http://oom.lt/FZESMIPCS12](http://oom.lt/FZESMIPCS12)

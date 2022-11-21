@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-MSOP10
 - Hex ID: FZEANALOGDEVICESMS1
 - Name: analog-devices : MSOP10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/MSOP10/
 - Description: analog-devices : MSOP10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-MSOP10](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-MSOP10)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESMS1](http://oom.lt/FZEANALOGDEVICESMS1)

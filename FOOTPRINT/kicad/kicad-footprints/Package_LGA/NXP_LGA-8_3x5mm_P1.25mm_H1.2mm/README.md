@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-NXP_LGA-8_3x5mm_P1.25mm_H1.2mm
 - Hex ID: FZKLGANXPLGA83X5P125H12
 - Name: Package_LGA : NXP_LGA-8_3x5mm_P1.25mm_H1.2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.2mm/
 - Description: Package_LGA : NXP_LGA-8_3x5mm_P1.25mm_H1.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-NXP_LGA-8_3x5mm_P1.25mm_H1.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-NXP_LGA-8_3x5mm_P1.25mm_H1.2mm)
 - Short Link: [http://oom.lt/FZKLGANXPLGA83X5P125H12](http://oom.lt/FZKLGANXPLGA83X5P125H12)

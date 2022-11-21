@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-R1210
 - Hex ID: FZESMIPCR121
 - Name: smd-ipc : R1210
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/R1210/
 - Description: smd-ipc : R1210
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R1210](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R1210)
 - Short Link: [http://oom.lt/FZESMIPCR121](http://oom.lt/FZESMIPCR121)

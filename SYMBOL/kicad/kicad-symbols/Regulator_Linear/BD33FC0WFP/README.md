@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD33FC0WFP
 - Hex ID: SZKREGULATORLINEARBD33FCWFP
 - Name: Regulator_Linear : BD33FC0WFP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/BD33FC0WFP/
 - Description: Regulator_Linear : BD33FC0WFP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD33FC0WFP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BD33FC0WFP)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARBD33FCWFP](http://oom.lt/SZKREGULATORLINEARBD33FCWFP)

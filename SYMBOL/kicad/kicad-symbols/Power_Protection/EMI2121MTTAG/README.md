@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-EMI2121MTTAG
 - Hex ID: SZKPOWERPROTECTIONEMI2121MTTAG
 - Name: Power_Protection : EMI2121MTTAG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/EMI2121MTTAG/
 - Description: Power_Protection : EMI2121MTTAG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-EMI2121MTTAG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-EMI2121MTTAG)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONEMI2121MTTAG](http://oom.lt/SZKPOWERPROTECTIONEMI2121MTTAG)

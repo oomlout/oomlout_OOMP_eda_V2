@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C3D04060A
 - Hex ID: SZKDIODEC3D46A
 - Name: Diode : C3D04060A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C3D04060A/
 - Description: Diode : C3D04060A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D04060A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D04060A)
 - Short Link: [http://oom.lt/SZKDIODEC3D46A](http://oom.lt/SZKDIODEC3D46A)

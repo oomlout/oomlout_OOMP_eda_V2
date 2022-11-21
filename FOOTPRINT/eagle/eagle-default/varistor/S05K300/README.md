@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-S05K300
 - Hex ID: FZEVS5K3
 - Name: varistor : S05K300
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/S05K300/
 - Description: varistor : S05K300
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S05K300](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S05K300)
 - Short Link: [http://oom.lt/FZEVS5K3](http://oom.lt/FZEVS5K3)

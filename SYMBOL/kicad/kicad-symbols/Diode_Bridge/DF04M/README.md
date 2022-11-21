@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF04M
 - Hex ID: SZKDIODEBRIDGEDF4M
 - Name: Diode_Bridge : DF04M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DF04M/
 - Description: Diode_Bridge : DF04M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF04M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF04M)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEDF4M](http://oom.lt/SZKDIODEBRIDGEDF4M)

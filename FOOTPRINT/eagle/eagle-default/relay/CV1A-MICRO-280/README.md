@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-CV1A-MICRO-280
 - Hex ID: FZERELAYCV1AM28
 - Name: relay : CV1A-MICRO-280
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/CV1A-MICRO-280/
 - Description: relay : CV1A-MICRO-280
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CV1A-MICRO-280](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CV1A-MICRO-280)
 - Short Link: [http://oom.lt/FZERELAYCV1AM28](http://oom.lt/FZERELAYCV1AM28)

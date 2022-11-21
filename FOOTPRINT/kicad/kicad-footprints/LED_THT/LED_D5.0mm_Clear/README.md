@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Clear
 - Hex ID: FZKLLD5CLEAR
 - Name: LED_THT : LED_D5.0mm_Clear
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm_Clear/
 - Description: LED_THT : LED_D5.0mm_Clear
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Clear](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Clear)
 - Short Link: [http://oom.lt/FZKLLD5CLEAR](http://oom.lt/FZKLLD5CLEAR)

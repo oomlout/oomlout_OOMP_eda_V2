@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-7-SEGMENT-DISPLAY
 - Hex ID: FZSRT7SDI
 - Name: SparkFun-Retired : 7-SEGMENT-DISPLAY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/7-SEGMENT-DISPLAY/
 - Description: SparkFun-Retired : 7-SEGMENT-DISPLAY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-7-SEGMENT-DISPLAY](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-7-SEGMENT-DISPLAY)
 - Short Link: [http://oom.lt/FZSRT7SDI](http://oom.lt/FZSRT7SDI)

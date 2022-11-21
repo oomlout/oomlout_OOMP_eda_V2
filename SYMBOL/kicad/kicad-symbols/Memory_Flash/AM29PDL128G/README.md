@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-AM29PDL128G
 - Hex ID: SZKMEMORYFLASHAM29PDL128G
 - Name: Memory_Flash : AM29PDL128G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/AM29PDL128G/
 - Description: Memory_Flash : AM29PDL128G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AM29PDL128G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AM29PDL128G)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAM29PDL128G](http://oom.lt/SZKMEMORYFLASHAM29PDL128G)

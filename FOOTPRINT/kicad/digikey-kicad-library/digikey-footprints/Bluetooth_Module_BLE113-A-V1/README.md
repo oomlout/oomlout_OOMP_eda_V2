@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1 > digikey-footprints : Bluetooth_Module_BLE113-A-V1](#fzkicaddigikeykicadlibrarydigikeyfootprintsbluetoothmoble113av1--digikey-footprints--bluetooth_module_ble113-a-v1)
+* [FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1 > digikey-footprints : Bluetooth_Module_BLE113-A-V1](#fzdigidigikeyfootprintsbluetoothmoble113av1--digikey-footprints--bluetooth_module_ble113-a-v1)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1 > digikey-footprints : Bluetooth_Module_BLE113-A-V1
+# FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1 > digikey-footprints : Bluetooth_Module_BLE113-A-V1
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE113-A-V1
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1
 - Name: digikey-footprints : Bluetooth_Module_BLE113-A-V1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BLE113-A-V1/
 - Description: digikey-footprints : Bluetooth_Module_BLE113-A-V1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE113-A-V1](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE113-A-V1)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Bluetooth_Module_BLE113-A-V1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE113-A-V1|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1|
 |name|name|digikey-footprints : Bluetooth_Module_BLE113-A-V1|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bluetooth_Module_BLE113-A-V1'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

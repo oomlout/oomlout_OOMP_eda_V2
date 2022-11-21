@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMSC59 > Package_TO_SOT_SMD : SC-59](#fzkpackagetosotsmsc59--package_to_sot_smd--sc-59)
+* [FZKSOTSC59 > Package_TO_SOT_SMD : SC-59](#fzksotsc59--package_to_sot_smd--sc-59)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMSC59 > Package_TO_SOT_SMD : SC-59
+# FZKSOTSC59 > Package_TO_SOT_SMD : SC-59
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-59
-- Hex ID: FZKPACKAGETOSOTSMSC59
+- Hex ID: FZKSOTSC59
 - Name: Package_TO_SOT_SMD : SC-59
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SC-59/
 - Description: Package_TO_SOT_SMD : SC-59
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-59](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-59)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMSC59](http://oom.lt/FZKPACKAGETOSOTSMSC59)
+- Short Link: [http://oom.lt/FZKSOTSC59](http://oom.lt/FZKSOTSC59)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SC-59|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-59|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSC59|
+|Hex ID (short code)|hexID|FZKSOTSC59|
 |name|name|Package_TO_SOT_SMD : SC-59|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SC-59'</td><td> 'description'</td></tr><tr><td> 'SC-59</td><td> https</td></tr><tr><td>//lib.chipdip.ru/images/import_diod/original/SOT-23_SC-59.jpg'</td><td> 'tags'</td></tr><tr><td> 'SC-59'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SC-59.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

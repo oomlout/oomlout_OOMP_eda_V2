@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-P-LCC-6_TOPLED
 - Hex ID: FZELPLCC6TOPL
 - Name: led : P-LCC-6_TOPLED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/P-LCC-6_TOPLED/
 - Description: led : P-LCC-6_TOPLED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-P-LCC-6_TOPLED](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-P-LCC-6_TOPLED)
 - Short Link: [http://oom.lt/FZELPLCC6TOPL](http://oom.lt/FZELPLCC6TOPL)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF156
 - Hex ID: SZKAMPLIFIEROPERATIONALLF156
 - Name: Amplifier_Operational : LF156
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LF156/
 - Description: Amplifier_Operational : LF156
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF156](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF156)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLF156](http://oom.lt/SZKAMPLIFIEROPERATIONALLF156)

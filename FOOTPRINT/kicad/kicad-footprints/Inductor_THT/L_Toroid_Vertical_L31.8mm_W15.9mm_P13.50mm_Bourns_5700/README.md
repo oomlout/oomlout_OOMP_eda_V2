@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINLTOROIDVERTICALL318W159P135BOURNS57 > Inductor_THT : L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700](#fzkinltoroidverticall318w159p135bourns57--inductor_tht--l_toroid_vertical_l318mm_w159mm_p1350mm_bourns_5700)
+* [FZKINLTFL318W159P135BOURNS57 > Inductor_THT : L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700](#fzkinltfl318w159p135bourns57--inductor_tht--l_toroid_vertical_l318mm_w159mm_p1350mm_bourns_5700)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINLTOROIDVERTICALL318W159P135BOURNS57 > Inductor_THT : L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700
+# FZKINLTFL318W159P135BOURNS57 > Inductor_THT : L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700
-- Hex ID: FZKINLTOROIDVERTICALL318W159P135BOURNS57
+- Hex ID: FZKINLTFL318W159P135BOURNS57
 - Name: Inductor_THT : L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700/
 - Description: Inductor_THT : L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700)
-- Short Link: [http://oom.lt/FZKINLTOROIDVERTICALL318W159P135BOURNS57](http://oom.lt/FZKINLTOROIDVERTICALL318W159P135BOURNS57)
+- Short Link: [http://oom.lt/FZKINLTFL318W159P135BOURNS57](http://oom.lt/FZKINLTFL318W159P135BOURNS57)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_THT|
 |OOMP Index|oompIndex|L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700|
-|Hex ID (short code)|hexID|FZKINLTOROIDVERTICALL318W159P135BOURNS57|
+|Hex ID (short code)|hexID|FZKINLTFL318W159P135BOURNS57|
 |name|name|Inductor_THT : L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700'</td><td> 'description'</td></tr><tr><td> 'L_Toroid</td><td> Vertical series</td><td> Radial</td><td> pin pitch=13.50mm</td><td> </td><td> length*width=31.8*15.9mm^2</td><td> Bourns</td><td> 5700</td><td> http</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/5700_series.pdf'</td><td> 'tags'</td></tr><tr><td> 'L_Toroid Vertical series Radial pin pitch 13.50mm  length 31.8mm width 15.9mm Bourns 5700'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

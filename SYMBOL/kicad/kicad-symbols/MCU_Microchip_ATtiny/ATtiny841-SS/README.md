@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny841-SS
 - Hex ID: SZKMCUMCHIPATTINYATTINY841SS
 - Name: MCU_Microchip_ATtiny : ATtiny841-SS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny841-SS/
 - Description: MCU_Microchip_ATtiny : ATtiny841-SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny841-SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny841-SS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY841SS](http://oom.lt/SZKMCUMCHIPATTINYATTINY841SS)

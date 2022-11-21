@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-on-semiconductor-DIL16
 - Hex ID: FZEONSEMICONDUCTORDIL16
 - Name: on-semiconductor : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/on-semiconductor/DIL16/
 - Description: on-semiconductor : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-DIL16)
 - Short Link: [http://oom.lt/FZEONSEMICONDUCTORDIL16](http://oom.lt/FZEONSEMICONDUCTORDIL16)

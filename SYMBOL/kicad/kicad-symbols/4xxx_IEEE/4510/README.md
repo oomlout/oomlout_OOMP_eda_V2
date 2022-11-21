@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4510
 - Hex ID: SZK4XXXIEEE451
 - Name: 4xxx_IEEE : 4510
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4510/
 - Description: 4xxx_IEEE : 4510
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4510](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4510)
 - Short Link: [http://oom.lt/SZK4XXXIEEE451](http://oom.lt/SZK4XXXIEEE451)

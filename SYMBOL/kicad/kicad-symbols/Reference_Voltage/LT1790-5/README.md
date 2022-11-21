@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1790-5
 - Hex ID: SZKREFERENCEVOLTAGELT1795
 - Name: Reference_Voltage : LT1790-5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LT1790-5/
 - Description: Reference_Voltage : LT1790-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1790-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1790-5)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELT1795](http://oom.lt/SZKREFERENCEVOLTAGELT1795)

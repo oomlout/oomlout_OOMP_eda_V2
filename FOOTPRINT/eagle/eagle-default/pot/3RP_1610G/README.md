@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-3RP_1610G
 - Hex ID: FZEPOT3RP161G
 - Name: pot : 3RP_1610G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/3RP_1610G/
 - Description: pot : 3RP_1610G
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-3RP_1610G](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-3RP_1610G)
 - Short Link: [http://oom.lt/FZEPOT3RP161G](http://oom.lt/FZEPOT3RP161G)

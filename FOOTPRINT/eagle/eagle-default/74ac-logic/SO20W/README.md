@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74ac-logic-SO20W
 - Hex ID: FZE74ACLOGICSO2W
 - Name: 74ac-logic : SO20W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74ac-logic/SO20W/
 - Description: 74ac-logic : SO20W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SO20W](http://oom.lt/FOOTPRINT-eagle-eagle-default-74ac-logic-SO20W)
 - Short Link: [http://oom.lt/FZE74ACLOGICSO2W](http://oom.lt/FZE74ACLOGICSO2W)

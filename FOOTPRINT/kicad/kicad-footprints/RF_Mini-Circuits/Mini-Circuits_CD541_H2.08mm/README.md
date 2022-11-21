@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD541_H2.08mm
 - Hex ID: FZKRFMCIRCUITSCD541H28
 - Name: RF_Mini-Circuits : Mini-Circuits_CD541_H2.08mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD541_H2.08mm/
 - Description: RF_Mini-Circuits : Mini-Circuits_CD541_H2.08mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD541_H2.08mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD541_H2.08mm)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSCD541H28](http://oom.lt/FZKRFMCIRCUITSCD541H28)

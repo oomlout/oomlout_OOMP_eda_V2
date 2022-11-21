@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-G6C-2117P
 - Hex ID: FZERELAYG6C2117P
 - Name: relay : G6C-2117P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/G6C-2117P/
 - Description: relay : G6C-2117P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G6C-2117P](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G6C-2117P)
 - Short Link: [http://oom.lt/FZERELAYG6C2117P](http://oom.lt/FZERELAYG6C2117P)

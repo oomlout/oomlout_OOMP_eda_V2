@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-DRIL-6
 - Hex ID: FZESPECIALDRIL6
 - Name: special : DRIL-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/DRIL-6/
 - Description: special : DRIL-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DRIL-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DRIL-6)
 - Short Link: [http://oom.lt/FZESPECIALDRIL6](http://oom.lt/FZESPECIALDRIL6)

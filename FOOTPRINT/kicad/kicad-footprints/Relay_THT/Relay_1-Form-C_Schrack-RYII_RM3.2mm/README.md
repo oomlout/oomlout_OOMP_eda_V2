@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1-Form-C_Schrack-RYII_RM3.2mm
 - Hex ID: FZKRELRELAY1FORMCSCHRACKRYIIRM32
 - Name: Relay_THT : Relay_1-Form-C_Schrack-RYII_RM3.2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_1-Form-C_Schrack-RYII_RM3.2mm/
 - Description: Relay_THT : Relay_1-Form-C_Schrack-RYII_RM3.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1-Form-C_Schrack-RYII_RM3.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1-Form-C_Schrack-RYII_RM3.2mm)
 - Short Link: [http://oom.lt/FZKRELRELAY1FORMCSCHRACKRYIIRM32](http://oom.lt/FZKRELRELAY1FORMCSCHRACKRYIIRM32)

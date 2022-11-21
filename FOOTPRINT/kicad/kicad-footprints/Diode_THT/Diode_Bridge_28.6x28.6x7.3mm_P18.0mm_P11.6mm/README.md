@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm
 - Hex ID: FZKDDIODEBRIDGE286X286X73P18P116
 - Name: Diode_THT : Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/
 - Description: Diode_THT : Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGE286X286X73P18P116](http://oom.lt/FZKDDIODEBRIDGE286X286X73P18P116)

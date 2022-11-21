@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-GD25D05CT
 - Hex ID: SZKMEMORYFLASHGD25D5CT
 - Name: Memory_Flash : GD25D05CT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/GD25D05CT/
 - Description: Memory_Flash : GD25D05CT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-GD25D05CT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-GD25D05CT)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHGD25D5CT](http://oom.lt/SZKMEMORYFLASHGD25D5CT)

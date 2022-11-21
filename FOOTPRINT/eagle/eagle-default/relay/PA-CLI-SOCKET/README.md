@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-PA-CLI-SOCKET
 - Hex ID: FZERELAYPACLISO
 - Name: relay : PA-CLI-SOCKET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/PA-CLI-SOCKET/
 - Description: relay : PA-CLI-SOCKET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PA-CLI-SOCKET](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PA-CLI-SOCKET)
 - Short Link: [http://oom.lt/FZERELAYPACLISO](http://oom.lt/FZERELAYPACLISO)

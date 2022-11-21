@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO264
 - Hex ID: FZETRANSISTORNEUTO92TO264
 - Name: transistor-neu-to92 : TO264
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-neu-to92/TO264/
 - Description: transistor-neu-to92 : TO264
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO264](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO264)
 - Short Link: [http://oom.lt/FZETRANSISTORNEUTO92TO264](http://oom.lt/FZETRANSISTORNEUTO92TO264)

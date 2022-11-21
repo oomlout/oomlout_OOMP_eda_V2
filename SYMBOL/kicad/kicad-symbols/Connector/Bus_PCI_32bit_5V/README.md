@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_5V
 - Hex ID: SZKCNBUSPCI32BIT5V
 - Name: Connector : Bus_PCI_32bit_5V
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_32bit_5V/
 - Description: Connector : Bus_PCI_32bit_5V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_5V](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_5V)
 - Short Link: [http://oom.lt/SZKCNBUSPCI32BIT5V](http://oom.lt/SZKCNBUSPCI32BIT5V)

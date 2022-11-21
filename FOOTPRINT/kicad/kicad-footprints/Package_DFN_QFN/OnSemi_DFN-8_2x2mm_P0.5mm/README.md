@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_DFN-8_2x2mm_P0.5mm
 - Hex ID: FZKDFNONSEMIDFN82X2P5
 - Name: Package_DFN_QFN : OnSemi_DFN-8_2x2mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_DFN-8_2x2mm_P0.5mm/
 - Description: Package_DFN_QFN : OnSemi_DFN-8_2x2mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_DFN-8_2x2mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_DFN-8_2x2mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKDFNONSEMIDFN82X2P5](http://oom.lt/FZKDFNONSEMIDFN82X2P5)

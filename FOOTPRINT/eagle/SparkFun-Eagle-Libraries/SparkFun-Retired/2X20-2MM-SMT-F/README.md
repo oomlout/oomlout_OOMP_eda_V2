@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X20-2MM-SMT-F
 - Hex ID: FZSRT2X22SF
 - Name: SparkFun-Retired : 2X20-2MM-SMT-F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/2X20-2MM-SMT-F/
 - Description: SparkFun-Retired : 2X20-2MM-SMT-F
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X20-2MM-SMT-F](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X20-2MM-SMT-F)
 - Short Link: [http://oom.lt/FZSRT2X22SF](http://oom.lt/FZSRT2X22SF)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_KKA
 - Hex ID: SZKDEVICEDDUALCOONANODEKKA
 - Name: Device : D_Dual_CommonAnode_KKA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonAnode_KKA/
 - Description: Device : D_Dual_CommonAnode_KKA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_KKA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_KKA)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALCOONANODEKKA](http://oom.lt/SZKDEVICEDDUALCOONANODEKKA)

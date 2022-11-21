@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-SOP-08
 - Hex ID: FZETEXASS8
 - Name: texas : SOP-08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/SOP-08/
 - Description: texas : SOP-08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-SOP-08](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-SOP-08)
 - Short Link: [http://oom.lt/FZETEXASS8](http://oom.lt/FZETEXASS8)

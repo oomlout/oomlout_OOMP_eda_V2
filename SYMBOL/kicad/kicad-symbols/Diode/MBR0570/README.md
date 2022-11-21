@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MBR0570
 - Hex ID: SZKDIODEMBR57
 - Name: Diode : MBR0570
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MBR0570/
 - Description: Diode : MBR0570
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR0570](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR0570)
 - Short Link: [http://oom.lt/SZKDIODEMBR57](http://oom.lt/SZKDIODEMBR57)

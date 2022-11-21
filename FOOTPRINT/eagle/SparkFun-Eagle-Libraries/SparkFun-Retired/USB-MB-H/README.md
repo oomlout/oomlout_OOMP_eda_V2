@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USB-MB-H
 - Hex ID: FZSRTUMBH
 - Name: SparkFun-Retired : USB-MB-H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/USB-MB-H/
 - Description: SparkFun-Retired : USB-MB-H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USB-MB-H](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USB-MB-H)
 - Short Link: [http://oom.lt/FZSRTUMBH](http://oom.lt/FZSRTUMBH)

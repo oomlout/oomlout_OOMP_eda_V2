@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-ACTOBOTICS_CHANNEL_SINGLE_DRILL_REF
 - Hex ID: FZSHACTOBOTICSCHANNELSINGLEDRILLREF
 - Name: SparkFun-Hardware : ACTOBOTICS_CHANNEL_SINGLE_DRILL_REF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/ACTOBOTICS_CHANNEL_SINGLE_DRILL_REF/
 - Description: SparkFun-Hardware : ACTOBOTICS_CHANNEL_SINGLE_DRILL_REF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-ACTOBOTICS_CHANNEL_SINGLE_DRILL_REF](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-ACTOBOTICS_CHANNEL_SINGLE_DRILL_REF)
 - Short Link: [http://oom.lt/FZSHACTOBOTICSCHANNELSINGLEDRILLREF](http://oom.lt/FZSHACTOBOTICSCHANNELSINGLEDRILLREF)

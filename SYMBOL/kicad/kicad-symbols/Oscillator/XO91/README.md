@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-XO91
 - Hex ID: SZKOCSXO91
 - Name: Oscillator : XO91
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/XO91/
 - Description: Oscillator : XO91
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-XO91](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-XO91)
 - Short Link: [http://oom.lt/SZKOCSXO91](http://oom.lt/SZKOCSXO91)

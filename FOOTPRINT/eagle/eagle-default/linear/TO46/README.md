@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-TO46
 - Hex ID: FZELINEARTO46
 - Name: linear : TO46
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/TO46/
 - Description: linear : TO46
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO46](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO46)
 - Short Link: [http://oom.lt/FZELINEARTO46](http://oom.lt/FZELINEARTO46)

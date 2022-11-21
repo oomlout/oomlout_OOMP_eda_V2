@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-DIGI-CL
 - Hex ID: FZESPECIALDIGICL
 - Name: special : DIGI-CL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/DIGI-CL/
 - Description: special : DIGI-CL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DIGI-CL](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DIGI-CL)
 - Short Link: [http://oom.lt/FZESPECIALDIGICL](http://oom.lt/FZESPECIALDIGICL)

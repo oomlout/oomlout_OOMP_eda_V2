@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-TSSOP14
 - Hex ID: FZSIUTSS14
 - Name: SparkFun-IC-Microcontroller : TSSOP14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/TSSOP14/
 - Description: SparkFun-IC-Microcontroller : TSSOP14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-TSSOP14](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-TSSOP14)
 - Short Link: [http://oom.lt/FZSIUTSS14](http://oom.lt/FZSIUTSS14)

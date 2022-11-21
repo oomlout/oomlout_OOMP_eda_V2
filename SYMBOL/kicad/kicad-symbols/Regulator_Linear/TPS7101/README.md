@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7101
 - Hex ID: SZKREGULATORLINEARTPS711
 - Name: Regulator_Linear : TPS7101
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS7101/
 - Description: Regulator_Linear : TPS7101
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7101](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7101)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS711](http://oom.lt/SZKREGULATORLINEARTPS711)

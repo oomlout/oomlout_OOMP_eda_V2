@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-ZDH_S-PBGA-N256
 - Hex ID: FZETEXASZDHSPBGAN256
 - Name: texas : ZDH_S-PBGA-N256
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/ZDH_S-PBGA-N256/
 - Description: texas : ZDH_S-PBGA-N256
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-ZDH_S-PBGA-N256](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-ZDH_S-PBGA-N256)
 - Short Link: [http://oom.lt/FZETEXASZDHSPBGAN256](http://oom.lt/FZETEXASZDHSPBGAN256)

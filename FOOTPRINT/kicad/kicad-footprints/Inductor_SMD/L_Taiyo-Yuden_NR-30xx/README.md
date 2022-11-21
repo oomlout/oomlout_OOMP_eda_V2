@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLTAIYOYUDENNR3XX > Inductor_SMD : L_Taiyo-Yuden_NR-30xx](#fzkinductorsmltaiyoyudennr3xx--inductor_smd--l_taiyo-yuden_nr-30xx)
+* [FZKINLTAIYOYUDENNR3XX > Inductor_SMD : L_Taiyo-Yuden_NR-30xx](#fzkinltaiyoyudennr3xx--inductor_smd--l_taiyo-yuden_nr-30xx)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLTAIYOYUDENNR3XX > Inductor_SMD : L_Taiyo-Yuden_NR-30xx
+# FZKINLTAIYOYUDENNR3XX > Inductor_SMD : L_Taiyo-Yuden_NR-30xx
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_NR-30xx
-- Hex ID: FZKINDUCTORSMLTAIYOYUDENNR3XX
+- Hex ID: FZKINLTAIYOYUDENNR3XX
 - Name: Inductor_SMD : L_Taiyo-Yuden_NR-30xx
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-30xx/
 - Description: Inductor_SMD : L_Taiyo-Yuden_NR-30xx
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_NR-30xx](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_NR-30xx)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLTAIYOYUDENNR3XX](http://oom.lt/FZKINDUCTORSMLTAIYOYUDENNR3XX)
+- Short Link: [http://oom.lt/FZKINLTAIYOYUDENNR3XX](http://oom.lt/FZKINLTAIYOYUDENNR3XX)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Taiyo-Yuden_NR-30xx|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_NR-30xx|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLTAIYOYUDENNR3XX|
+|Hex ID (short code)|hexID|FZKINLTAIYOYUDENNR3XX|
 |name|name|Inductor_SMD : L_Taiyo-Yuden_NR-30xx|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Taiyo-Yuden_NR-30xx'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Taiyo Yuden</td><td> NR series</td><td> Taiyo-Yuden_NR-30xx</td><td> 3.0mmx3.0mm'</td><td> 'tags'</td></tr><tr><td> 'inductor taiyo-yuden nr smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Taiyo-Yuden_NR-30xx.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-ZXBM5210-SP
 - Hex ID: SZKDRIVERMOTORZXBM521SP
 - Name: Driver_Motor : ZXBM5210-SP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/ZXBM5210-SP/
 - Description: Driver_Motor : ZXBM5210-SP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-ZXBM5210-SP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-ZXBM5210-SP)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORZXBM521SP](http://oom.lt/SZKDRIVERMOTORZXBM521SP)

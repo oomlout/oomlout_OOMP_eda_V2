@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-TC7662Bx0A
 - Hex ID: SZKCONTC7662BXA
 - Name: Converter_DCDC : TC7662Bx0A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TC7662Bx0A/
 - Description: Converter_DCDC : TC7662Bx0A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TC7662Bx0A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TC7662Bx0A)
 - Short Link: [http://oom.lt/SZKCONTC7662BXA](http://oom.lt/SZKCONTC7662BXA)

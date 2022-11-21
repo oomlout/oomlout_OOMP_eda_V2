@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-holtek-DIL20
 - Hex ID: FZEHOLTEKDIL2
 - Name: holtek : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/holtek/DIL20/
 - Description: holtek : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-holtek-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-holtek-DIL20)
 - Short Link: [http://oom.lt/FZEHOLTEKDIL2](http://oom.lt/FZEHOLTEKDIL2)

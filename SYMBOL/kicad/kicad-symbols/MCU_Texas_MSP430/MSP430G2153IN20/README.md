@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2153IN20
 - Hex ID: SZKMCUTEXASMSP43MSP43G2153IN2
 - Name: MCU_Texas_MSP430 : MSP430G2153IN20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430G2153IN20/
 - Description: MCU_Texas_MSP430 : MSP430G2153IN20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2153IN20](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2153IN20)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43G2153IN2](http://oom.lt/SZKMCUTEXASMSP43MSP43G2153IN2)

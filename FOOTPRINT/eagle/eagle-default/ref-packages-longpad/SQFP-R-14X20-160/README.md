@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSQFPR14X216 > ref-packages-longpad : SQFP-R-14X20-160](#fzerefpackageslongpadsqfpr14x216--ref-packages-longpad--sqfp-r-14x20-160)
+* [FZEREFPSLPSQFPR14X216 > ref-packages-longpad : SQFP-R-14X20-160](#fzerefpslpsqfpr14x216--ref-packages-longpad--sqfp-r-14x20-160)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSQFPR14X216 > ref-packages-longpad : SQFP-R-14X20-160
+# FZEREFPSLPSQFPR14X216 > ref-packages-longpad : SQFP-R-14X20-160
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SQFP-R-14X20-160
-- Hex ID: FZEREFPACKAGESLONGPADSQFPR14X216
+- Hex ID: FZEREFPSLPSQFPR14X216
 - Name: ref-packages-longpad : SQFP-R-14X20-160
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SQFP-R-14X20-160/
 - Description: ref-packages-longpad : SQFP-R-14X20-160
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SQFP-R-14X20-160](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SQFP-R-14X20-160)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSQFPR14X216](http://oom.lt/FZEREFPACKAGESLONGPADSQFPR14X216)
+- Short Link: [http://oom.lt/FZEREFPSLPSQFPR14X216](http://oom.lt/FZEREFPSLPSQFPR14X216)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SQFP-R-14X20-160|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SQFP-R-14X20-160|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSQFPR14X216|
+|Hex ID (short code)|hexID|FZEREFPSLPSQFPR14X216|
 |name|name|ref-packages-longpad : SQFP-R-14X20-160|
 ||||

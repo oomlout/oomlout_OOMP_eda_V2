@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-TFSOP-10
 - Hex ID: FZSIATFS1
 - Name: SparkFun-IC-Amplifiers : TFSOP-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Amplifiers/TFSOP-10/
 - Description: SparkFun-IC-Amplifiers : TFSOP-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-TFSOP-10](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-TFSOP-10)
 - Short Link: [http://oom.lt/FZSIATFS1](http://oom.lt/FZSIATFS1)

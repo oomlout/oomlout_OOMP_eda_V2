@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LED5MMRGB
 - Hex ID: FZAL5RGB
 - Name: adafruit : LED5MMRGB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/LED5MMRGB/
 - Description: adafruit : LED5MMRGB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LED5MMRGB](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LED5MMRGB)
 - Short Link: [http://oom.lt/FZAL5RGB](http://oom.lt/FZAL5RGB)

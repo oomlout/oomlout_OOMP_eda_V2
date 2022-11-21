@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-BEEPER
 - Hex ID: FZESPECIALBEEPER
 - Name: special : BEEPER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/BEEPER/
 - Description: special : BEEPER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-BEEPER](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-BEEPER)
 - Short Link: [http://oom.lt/FZESPECIALBEEPER](http://oom.lt/FZESPECIALBEEPER)

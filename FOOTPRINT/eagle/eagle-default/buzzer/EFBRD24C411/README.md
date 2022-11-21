@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-EFBRD24C411
 - Hex ID: FZEBUZZEREFBRD24C411
 - Name: buzzer : EFBRD24C411
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/EFBRD24C411/
 - Description: buzzer : EFBRD24C411
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-EFBRD24C411](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-EFBRD24C411)
 - Short Link: [http://oom.lt/FZEBUZZEREFBRD24C411](http://oom.lt/FZEBUZZEREFBRD24C411)

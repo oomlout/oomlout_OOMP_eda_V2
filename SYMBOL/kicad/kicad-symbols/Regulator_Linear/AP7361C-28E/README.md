@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP7361C-28E
 - Hex ID: SZKREGULATORLINEARAP7361C28E
 - Name: Regulator_Linear : AP7361C-28E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP7361C-28E/
 - Description: Regulator_Linear : AP7361C-28E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP7361C-28E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP7361C-28E)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP7361C28E](http://oom.lt/SZKREGULATORLINEARAP7361C28E)

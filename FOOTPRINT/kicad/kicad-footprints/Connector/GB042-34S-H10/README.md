@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector-GB042-34S-H10
 - Hex ID: FZKCNGB4234SH1
 - Name: Connector : GB042-34S-H10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/GB042-34S-H10/
 - Description: Connector : GB042-34S-H10
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-GB042-34S-H10](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-GB042-34S-H10)
 - Short Link: [http://oom.lt/FZKCNGB4234SH1](http://oom.lt/FZKCNGB4234SH1)

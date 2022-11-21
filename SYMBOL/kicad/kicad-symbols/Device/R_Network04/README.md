@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Network04
 - Hex ID: SZKDEVICERNETWORK4
 - Name: Device : R_Network04
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Network04/
 - Description: Device : R_Network04
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network04](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network04)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORK4](http://oom.lt/SZKDEVICERNETWORK4)

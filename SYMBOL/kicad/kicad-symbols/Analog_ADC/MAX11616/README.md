@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11616
 - Hex ID: SZKANALOGADCMAX11616
 - Name: Analog_ADC : MAX11616
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11616/
 - Description: Analog_ADC : MAX11616
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11616](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11616)
 - Short Link: [http://oom.lt/SZKANALOGADCMAX11616](http://oom.lt/SZKANALOGADCMAX11616)

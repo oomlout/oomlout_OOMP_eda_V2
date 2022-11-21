@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-ADP5063
 - Hex ID: SZKBATMANAGEMENTADP563
 - Name: Battery_Management : ADP5063
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/ADP5063/
 - Description: Battery_Management : ADP5063
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-ADP5063](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-ADP5063)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTADP563](http://oom.lt/SZKBATMANAGEMENTADP563)

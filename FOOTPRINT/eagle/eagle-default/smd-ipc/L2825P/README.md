@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-L2825P
 - Hex ID: FZESMIPCL2825P
 - Name: smd-ipc : L2825P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/L2825P/
 - Description: smd-ipc : L2825P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L2825P](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L2825P)
 - Short Link: [http://oom.lt/FZESMIPCL2825P](http://oom.lt/FZESMIPCL2825P)

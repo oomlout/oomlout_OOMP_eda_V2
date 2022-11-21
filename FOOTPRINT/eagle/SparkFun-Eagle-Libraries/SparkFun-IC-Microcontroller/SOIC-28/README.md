@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-SOIC-28
 - Hex ID: FZSIUSOIC28
 - Name: SparkFun-IC-Microcontroller : SOIC-28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/SOIC-28/
 - Description: SparkFun-IC-Microcontroller : SOIC-28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-SOIC-28](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-SOIC-28)
 - Short Link: [http://oom.lt/FZSIUSOIC28](http://oom.lt/FZSIUSOIC28)

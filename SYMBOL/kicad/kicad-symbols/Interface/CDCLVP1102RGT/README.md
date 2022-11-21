@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-CDCLVP1102RGT
 - Hex ID: SZKINTERFACECDCLVP112RGT
 - Name: Interface : CDCLVP1102RGT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/CDCLVP1102RGT/
 - Description: Interface : CDCLVP1102RGT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-CDCLVP1102RGT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-CDCLVP1102RGT)
 - Short Link: [http://oom.lt/SZKINTERFACECDCLVP112RGT](http://oom.lt/SZKINTERFACECDCLVP112RGT)

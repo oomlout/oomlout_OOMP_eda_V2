@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-SOJ28-4
 - Hex ID: FZEMMOTOROLASOJ284
 - Name: micro-motorola : SOJ28-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/SOJ28-4/
 - Description: micro-motorola : SOJ28-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-SOJ28-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-SOJ28-4)
 - Short Link: [http://oom.lt/FZEMMOTOROLASOJ284](http://oom.lt/FZEMMOTOROLASOJ284)

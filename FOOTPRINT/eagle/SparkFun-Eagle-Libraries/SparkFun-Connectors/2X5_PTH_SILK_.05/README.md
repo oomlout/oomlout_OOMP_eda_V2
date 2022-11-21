@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X5_PTH_SILK_.05
 - Hex ID: FZSSPARKFUNCNS2X5PSILK5
 - Name: SparkFun-Connectors : 2X5_PTH_SILK_.05
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/2X5_PTH_SILK_.05/
 - Description: SparkFun-Connectors : 2X5_PTH_SILK_.05
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X5_PTH_SILK_.05](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X5_PTH_SILK_.05)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS2X5PSILK5](http://oom.lt/FZSSPARKFUNCNS2X5PSILK5)

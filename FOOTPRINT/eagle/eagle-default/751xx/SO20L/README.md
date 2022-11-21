@@ -15,6 +15,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-751xx-SO20L
 - Hex ID: FZE751XXSO2L
 - Name: 751xx : SO20L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/751xx/SO20L/
 - Description: 751xx : SO20L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-751xx-SO20L](http://oom.lt/FOOTPRINT-eagle-eagle-default-751xx-SO20L)
 - Short Link: [http://oom.lt/FZE751XXSO2L](http://oom.lt/FZE751XXSO2L)

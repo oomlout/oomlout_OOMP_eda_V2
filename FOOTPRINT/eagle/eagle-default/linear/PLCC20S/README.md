@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-PLCC20S
 - Hex ID: FZELINEARPLCC2S
 - Name: linear : PLCC20S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/PLCC20S/
 - Description: linear : PLCC20S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-PLCC20S](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-PLCC20S)
 - Short Link: [http://oom.lt/FZELINEARPLCC2S](http://oom.lt/FZELINEARPLCC2S)

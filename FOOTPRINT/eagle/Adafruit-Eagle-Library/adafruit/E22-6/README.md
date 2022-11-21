@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E22-6
 - Hex ID: FZAE226
 - Name: adafruit : E22-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E22-6/
 - Description: adafruit : E22-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E22-6](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E22-6)
 - Short Link: [http://oom.lt/FZAE226](http://oom.lt/FZAE226)

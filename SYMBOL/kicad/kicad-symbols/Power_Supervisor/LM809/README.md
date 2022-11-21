@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-LM809
 - Hex ID: SZKPOWERSUPERVISORLM89
 - Name: Power_Supervisor : LM809
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/LM809/
 - Description: Power_Supervisor : LM809
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-LM809](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-LM809)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORLM89](http://oom.lt/SZKPOWERSUPERVISORLM89)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT343N
 - Hex ID: FZETRANSISTORSLLSIGNALSOT343N
 - Name: transistor-small-signal : SOT343N
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/SOT343N/
 - Description: transistor-small-signal : SOT343N
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT343N](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT343N)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALSOT343N](http://oom.lt/FZETRANSISTORSLLSIGNALSOT343N)

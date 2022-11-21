@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-ST_VL53L1X
 - Hex ID: FZKOPSTVL53L1X
 - Name: OptoDevice : ST_VL53L1X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/ST_VL53L1X/
 - Description: OptoDevice : ST_VL53L1X
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-ST_VL53L1X](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-ST_VL53L1X)
 - Short Link: [http://oom.lt/FZKOPSTVL53L1X](http://oom.lt/FZKOPSTVL53L1X)

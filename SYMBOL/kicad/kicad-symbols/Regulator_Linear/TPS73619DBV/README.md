@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73619DBV
 - Hex ID: SZKREGULATORLINEARTPS73619DBV
 - Name: Regulator_Linear : TPS73619DBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS73619DBV/
 - Description: Regulator_Linear : TPS73619DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73619DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73619DBV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS73619DBV](http://oom.lt/SZKREGULATORLINEARTPS73619DBV)

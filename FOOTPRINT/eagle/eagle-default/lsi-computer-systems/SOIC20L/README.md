@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC20L
 - Hex ID: FZELSICOMPUTERSYSTEMSSOIC2L
 - Name: lsi-computer-systems : SOIC20L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/SOIC20L/
 - Description: lsi-computer-systems : SOIC20L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC20L](http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC20L)
 - Short Link: [http://oom.lt/FZELSICOMPUTERSYSTEMSSOIC2L](http://oom.lt/FZELSICOMPUTERSYSTEMSSOIC2L)

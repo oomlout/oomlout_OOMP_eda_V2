@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_AKA_Parallel
 - Hex ID: SZKDEVICEDZENERDUALCOONCATHODEAKAPARALLEL
 - Name: Device : D_Zener_Dual_CommonCathode_AKA_Parallel
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonCathode_AKA_Parallel/
 - Description: Device : D_Zener_Dual_CommonCathode_AKA_Parallel
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_AKA_Parallel](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_AKA_Parallel)
 - Short Link: [http://oom.lt/SZKDEVICEDZENERDUALCOONCATHODEAKAPARALLEL](http://oom.lt/SZKDEVICEDZENERDUALCOONCATHODEAKAPARALLEL)

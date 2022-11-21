@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-MICS-12
 - Hex ID: FZECONLUMBERGMICS12
 - Name: con-lumberg : MICS-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/MICS-12/
 - Description: con-lumberg : MICS-12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MICS-12](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MICS-12)
 - Short Link: [http://oom.lt/FZECONLUMBERGMICS12](http://oom.lt/FZECONLUMBERGMICS12)

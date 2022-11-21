@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-!RST_O
 - Hex ID: FZSBU!RSTO
 - Name: SparkFun-Buzzard : !RST_O
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/!RST_O/
 - Description: SparkFun-Buzzard : !RST_O
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-!RST_O](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-!RST_O)
 - Short Link: [http://oom.lt/FZSBU!RSTO](http://oom.lt/FZSBU!RSTO)

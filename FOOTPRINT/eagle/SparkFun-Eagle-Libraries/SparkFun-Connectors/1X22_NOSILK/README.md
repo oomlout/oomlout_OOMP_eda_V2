@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X22_NOSILK
 - Hex ID: FZSSPARKFUNCNS1X22NOSILK
 - Name: SparkFun-Connectors : 1X22_NOSILK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X22_NOSILK/
 - Description: SparkFun-Connectors : 1X22_NOSILK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X22_NOSILK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X22_NOSILK)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X22NOSILK](http://oom.lt/FZSSPARKFUNCNS1X22NOSILK)

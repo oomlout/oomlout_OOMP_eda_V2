@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-MICROMOD_LOGO_.35
 - Hex ID: FZSMODL35
 - Name: SparkFun-MicroMod : MICROMOD_LOGO_.35
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-MicroMod/MICROMOD_LOGO_.35/
 - Description: SparkFun-MicroMod : MICROMOD_LOGO_.35
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-MICROMOD_LOGO_.35](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-MICROMOD_LOGO_.35)
 - Short Link: [http://oom.lt/FZSMODL35](http://oom.lt/FZSMODL35)

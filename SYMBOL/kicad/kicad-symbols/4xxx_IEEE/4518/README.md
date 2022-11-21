@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4518
 - Hex ID: SZK4XXXIEEE4518
 - Name: 4xxx_IEEE : 4518
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4518/
 - Description: 4xxx_IEEE : 4518
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4518](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4518)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4518](http://oom.lt/SZK4XXXIEEE4518)

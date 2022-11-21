@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOTTO2472HORIZONTALTABDOWN > Package_TO_SOT_THT : TO-247-2_Horizontal_TabDown](#fzksotto2472horizontaltabdown--package_to_sot_tht--to-247-2_horizontal_tabdown)
+* [FZKSOTTO2472HTABDOWN > Package_TO_SOT_THT : TO-247-2_Horizontal_TabDown](#fzksotto2472htabdown--package_to_sot_tht--to-247-2_horizontal_tabdown)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTTO2472HORIZONTALTABDOWN > Package_TO_SOT_THT : TO-247-2_Horizontal_TabDown
+# FZKSOTTO2472HTABDOWN > Package_TO_SOT_THT : TO-247-2_Horizontal_TabDown
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-2_Horizontal_TabDown
-- Hex ID: FZKSOTTO2472HORIZONTALTABDOWN
+- Hex ID: FZKSOTTO2472HTABDOWN
 - Name: Package_TO_SOT_THT : TO-247-2_Horizontal_TabDown
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-247-2_Horizontal_TabDown/
 - Description: Package_TO_SOT_THT : TO-247-2_Horizontal_TabDown
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-2_Horizontal_TabDown](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-2_Horizontal_TabDown)
-- Short Link: [http://oom.lt/FZKSOTTO2472HORIZONTALTABDOWN](http://oom.lt/FZKSOTTO2472HORIZONTALTABDOWN)
+- Short Link: [http://oom.lt/FZKSOTTO2472HTABDOWN](http://oom.lt/FZKSOTTO2472HTABDOWN)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_THT|
 |OOMP Index|oompIndex|TO-247-2_Horizontal_TabDown|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-2_Horizontal_TabDown|
-|Hex ID (short code)|hexID|FZKSOTTO2472HORIZONTALTABDOWN|
+|Hex ID (short code)|hexID|FZKSOTTO2472HTABDOWN|
 |name|name|Package_TO_SOT_THT : TO-247-2_Horizontal_TabDown|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-247-2_Horizontal_TabDown'</td><td> 'description'</td></tr><tr><td> 'TO-247-2</td><td> Horizontal</td><td> RM 10.9mm</td><td> see https</td></tr><tr><td>//toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html'</td><td> 'tags'</td></tr><tr><td> 'TO-247-2 Horizontal RM 10.9mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-247-2_Horizontal_TabDown.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

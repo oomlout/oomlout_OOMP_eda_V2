@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-9814-20
 - Hex ID: FZERELAY98142
 - Name: relay : 9814-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/9814-20/
 - Description: relay : 9814-20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-9814-20](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-9814-20)
 - Short Link: [http://oom.lt/FZERELAY98142](http://oom.lt/FZERELAY98142)

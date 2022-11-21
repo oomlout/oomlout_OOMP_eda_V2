@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-2.5X2.0_KXO-86
 - Hex ID: FZEXGEYERV125X2KXO86
 - Name: crystal-geyer_V1_0 : 2.5X2.0_KXO-86
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal-geyer_V1_0/2.5X2.0_KXO-86/
 - Description: crystal-geyer_V1_0 : 2.5X2.0_KXO-86
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-2.5X2.0_KXO-86](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-2.5X2.0_KXO-86)
 - Short Link: [http://oom.lt/FZEXGEYERV125X2KXO86](http://oom.lt/FZEXGEYERV125X2KXO86)

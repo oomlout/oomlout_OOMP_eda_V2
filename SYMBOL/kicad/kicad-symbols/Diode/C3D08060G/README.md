@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C3D08060G
 - Hex ID: SZKDIODEC3D86G
 - Name: Diode : C3D08060G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C3D08060G/
 - Description: Diode : C3D08060G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D08060G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D08060G)
 - Short Link: [http://oom.lt/SZKDIODEC3D86G](http://oom.lt/SZKDIODEC3D86G)

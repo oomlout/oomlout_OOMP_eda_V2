@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-HT75xx-1-SOT89
 - Hex ID: SZKREGULATORLINEARHT75XX1SOT89
 - Name: Regulator_Linear : HT75xx-1-SOT89
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/HT75xx-1-SOT89/
 - Description: Regulator_Linear : HT75xx-1-SOT89
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-HT75xx-1-SOT89](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-HT75xx-1-SOT89)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARHT75XX1SOT89](http://oom.lt/SZKREGULATORLINEARHT75XX1SOT89)

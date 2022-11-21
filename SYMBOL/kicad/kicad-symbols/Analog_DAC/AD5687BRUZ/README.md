@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5687BRUZ
 - Hex ID: SZKANALOGDACAD5687BRUZ
 - Name: Analog_DAC : AD5687BRUZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD5687BRUZ/
 - Description: Analog_DAC : AD5687BRUZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5687BRUZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5687BRUZ)
 - Short Link: [http://oom.lt/SZKANALOGDACAD5687BRUZ](http://oom.lt/SZKANALOGDACAD5687BRUZ)

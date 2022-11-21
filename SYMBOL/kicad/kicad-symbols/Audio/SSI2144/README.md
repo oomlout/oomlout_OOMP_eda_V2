@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-SSI2144
 - Hex ID: SZKAUDIOSSI2144
 - Name: Audio : SSI2144
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/SSI2144/
 - Description: Audio : SSI2144
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SSI2144](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SSI2144)
 - Short Link: [http://oom.lt/SZKAUDIOSSI2144](http://oom.lt/SZKAUDIOSSI2144)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-USB_C_Receptacle
 - Hex ID: SZKCNUCRECEPTACLE
 - Name: Connector : USB_C_Receptacle
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/USB_C_Receptacle/
 - Description: Connector : USB_C_Receptacle
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_C_Receptacle](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_C_Receptacle)
 - Short Link: [http://oom.lt/SZKCNUCRECEPTACLE](http://oom.lt/SZKCNUCRECEPTACLE)

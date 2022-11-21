@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F051R4Tx
 - Hex ID: SZKMCUSTSTM32FSTM32F51R4TX
 - Name: MCU_ST_STM32F0 : STM32F051R4Tx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F051R4Tx/
 - Description: MCU_ST_STM32F0 : STM32F051R4Tx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F051R4Tx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F051R4Tx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F51R4TX](http://oom.lt/SZKMCUSTSTM32FSTM32F51R4TX)

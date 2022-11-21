@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNTQFN281EP5X5P5EP27X27THERMALVIAS > Package_DFN_QFN : TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm_ThermalVias](#fzkdfntqfn281ep5x5p5ep27x27thermalvias--package_dfn_qfn--tqfn-28-1ep_5x5mm_p05mm_ep27x27mm_thermalvias)
+* [FZKDFNTQFN281EP5X5P5EP27X27THV > Package_DFN_QFN : TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm_ThermalVias](#fzkdfntqfn281ep5x5p5ep27x27thv--package_dfn_qfn--tqfn-28-1ep_5x5mm_p05mm_ep27x27mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNTQFN281EP5X5P5EP27X27THERMALVIAS > Package_DFN_QFN : TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm_ThermalVias
+# FZKDFNTQFN281EP5X5P5EP27X27THV > Package_DFN_QFN : TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm_ThermalVias
-- Hex ID: FZKDFNTQFN281EP5X5P5EP27X27THERMALVIAS
+- Hex ID: FZKDFNTQFN281EP5X5P5EP27X27THV
 - Name: Package_DFN_QFN : TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm_ThermalVias/
 - Description: Package_DFN_QFN : TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNTQFN281EP5X5P5EP27X27THERMALVIAS](http://oom.lt/FZKDFNTQFN281EP5X5P5EP27X27THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNTQFN281EP5X5P5EP27X27THV](http://oom.lt/FZKDFNTQFN281EP5X5P5EP27X27THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNTQFN281EP5X5P5EP27X27THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNTQFN281EP5X5P5EP27X27THV|
 |name|name|Package_DFN_QFN : TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'TQFN</td><td> 28 Pin (https</td></tr><tr><td>//pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF (T2855-4))</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'TQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN-46-13.5X16.3MM
 - Hex ID: FZSRFQFN46135X163
 - Name: SparkFun-RF : QFN-46-13.5X16.3MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/QFN-46-13.5X16.3MM/
 - Description: SparkFun-RF : QFN-46-13.5X16.3MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN-46-13.5X16.3MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN-46-13.5X16.3MM)
 - Short Link: [http://oom.lt/FZSRFQFN46135X163](http://oom.lt/FZSRFQFN46135X163)

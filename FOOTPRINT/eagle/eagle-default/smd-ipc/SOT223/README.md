@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOT223
 - Hex ID: FZESMIPCSOT223
 - Name: smd-ipc : SOT223
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOT223/
 - Description: smd-ipc : SOT223
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOT223](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOT223)
 - Short Link: [http://oom.lt/FZESMIPCSOT223](http://oom.lt/FZESMIPCSOT223)

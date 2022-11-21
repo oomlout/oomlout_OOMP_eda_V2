@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-TEENSY-3.1_NOSILK
 - Hex ID: FZSBOTEENSY31NOSILK
 - Name: SparkFun-Boards : TEENSY-3.1_NOSILK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/TEENSY-3.1_NOSILK/
 - Description: SparkFun-Boards : TEENSY-3.1_NOSILK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-TEENSY-3.1_NOSILK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-TEENSY-3.1_NOSILK)
 - Short Link: [http://oom.lt/FZSBOTEENSY31NOSILK](http://oom.lt/FZSBOTEENSY31NOSILK)

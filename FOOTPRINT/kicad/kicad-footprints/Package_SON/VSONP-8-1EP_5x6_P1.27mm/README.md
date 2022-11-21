@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-VSONP-8-1EP_5x6_P1.27mm
 - Hex ID: FZKSONVSONP81EP5X6P127
 - Name: Package_SON : VSONP-8-1EP_5x6_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSONP-8-1EP_5x6_P1.27mm/
 - Description: Package_SON : VSONP-8-1EP_5x6_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-VSONP-8-1EP_5x6_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-VSONP-8-1EP_5x6_P1.27mm)
 - Short Link: [http://oom.lt/FZKSONVSONP81EP5X6P127](http://oom.lt/FZKSONVSONP81EP5X6P127)

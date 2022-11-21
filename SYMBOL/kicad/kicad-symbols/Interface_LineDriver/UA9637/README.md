@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_LineDriver-UA9637
 - Hex ID: SZKINTERFACELINEDRIVERUA9637
 - Name: Interface_LineDriver : UA9637
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/UA9637/
 - Description: Interface_LineDriver : UA9637
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-UA9637](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-UA9637)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVERUA9637](http://oom.lt/SZKINTERFACELINEDRIVERUA9637)

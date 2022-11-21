@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-CVS-1508_PCBSPKR
 - Hex ID: FZSECVS158PCBSPKR
 - Name: SparkFun-Electromechanical : CVS-1508_PCBSPKR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Electromechanical/CVS-1508_PCBSPKR/
 - Description: SparkFun-Electromechanical : CVS-1508_PCBSPKR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-CVS-1508_PCBSPKR](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-CVS-1508_PCBSPKR)
 - Short Link: [http://oom.lt/FZSECVS158PCBSPKR](http://oom.lt/FZSECVS158PCBSPKR)

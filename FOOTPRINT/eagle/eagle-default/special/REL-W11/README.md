@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-REL-W11
 - Hex ID: FZESPECIALRELW11
 - Name: special : REL-W11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/REL-W11/
 - Description: special : REL-W11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-REL-W11](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-REL-W11)
 - Short Link: [http://oom.lt/FZESPECIALRELW11](http://oom.lt/FZESPECIALRELW11)

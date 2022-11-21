@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDDDO41SOD81P381VERTICALANODEUP > Diode_THT : D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp](#fzkdddo41sod81p381verticalanodeup--diode_tht--d_do-41_sod81_p381mm_vertical_anodeup)
+* [FZKDDDO41SOD81P381FANODEUP > Diode_THT : D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp](#fzkdddo41sod81p381fanodeup--diode_tht--d_do-41_sod81_p381mm_vertical_anodeup)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDDDO41SOD81P381VERTICALANODEUP > Diode_THT : D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp
+# FZKDDDO41SOD81P381FANODEUP > Diode_THT : D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp
-- Hex ID: FZKDDDO41SOD81P381VERTICALANODEUP
+- Hex ID: FZKDDDO41SOD81P381FANODEUP
 - Name: Diode_THT : D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp/
 - Description: Diode_THT : D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp)
-- Short Link: [http://oom.lt/FZKDDDO41SOD81P381VERTICALANODEUP](http://oom.lt/FZKDDDO41SOD81P381VERTICALANODEUP)
+- Short Link: [http://oom.lt/FZKDDDO41SOD81P381FANODEUP](http://oom.lt/FZKDDDO41SOD81P381FANODEUP)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Diode_THT|
 |OOMP Index|oompIndex|D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp|
-|Hex ID (short code)|hexID|FZKDDDO41SOD81P381VERTICALANODEUP|
+|Hex ID (short code)|hexID|FZKDDDO41SOD81P381FANODEUP|
 |name|name|Diode_THT : D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp'</td><td> 'description'</td></tr><tr><td> 'Diode</td><td> DO-41_SOD81 series</td><td> Axial</td><td> Vertical</td><td> pin pitch=3.81mm</td><td> </td><td> length*diameter=5.2*2.7mm^2</td><td> </td><td> https</td></tr><tr><td>//www.diodes.com/assets/Package-Files/DO-41-Plastic.pdf'</td><td> 'tags'</td></tr><tr><td> 'Diode DO-41_SOD81 series Axial Vertical pin pitch 3.81mm  length 5.2mm diameter 2.7mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

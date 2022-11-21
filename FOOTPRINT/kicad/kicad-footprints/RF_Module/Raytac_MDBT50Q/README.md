@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Raytac_MDBT50Q
 - Hex ID: FZKRFMORAYTACMDBT5Q
 - Name: RF_Module : Raytac_MDBT50Q
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/Raytac_MDBT50Q/
 - Description: RF_Module : Raytac_MDBT50Q
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Raytac_MDBT50Q](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Raytac_MDBT50Q)
 - Short Link: [http://oom.lt/FZKRFMORAYTACMDBT5Q](http://oom.lt/FZKRFMORAYTACMDBT5Q)

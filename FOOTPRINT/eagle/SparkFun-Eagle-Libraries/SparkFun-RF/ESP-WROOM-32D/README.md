@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP-WROOM-32D
 - Hex ID: FZSRFESPWROOM32D
 - Name: SparkFun-RF : ESP-WROOM-32D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/ESP-WROOM-32D/
 - Description: SparkFun-RF : ESP-WROOM-32D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP-WROOM-32D](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP-WROOM-32D)
 - Short Link: [http://oom.lt/FZSRFESPWROOM32D](http://oom.lt/FZSRFESPWROOM32D)

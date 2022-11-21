@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-OVSTRGBBCR8
 - Hex ID: FZELOVSTRGBBCR8
 - Name: led : OVSTRGBBCR8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/OVSTRGBBCR8/
 - Description: led : OVSTRGBBCR8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-OVSTRGBBCR8](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-OVSTRGBBCR8)
 - Short Link: [http://oom.lt/FZELOVSTRGBBCR8](http://oom.lt/FZELOVSTRGBBCR8)

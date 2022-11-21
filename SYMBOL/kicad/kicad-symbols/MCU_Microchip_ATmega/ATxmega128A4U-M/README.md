@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128A4U-M
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA128A4UM
 - Name: MCU_Microchip_ATmega : ATxmega128A4U-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATxmega128A4U-M/
 - Description: MCU_Microchip_ATmega : ATxmega128A4U-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128A4U-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128A4U-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA128A4UM](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA128A4UM)

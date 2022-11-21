@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-MAX13432EETD
 - Hex ID: SZKINTERFACEUARTMAX13432EETD
 - Name: Interface_UART : MAX13432EETD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX13432EETD/
 - Description: Interface_UART : MAX13432EETD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX13432EETD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX13432EETD)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX13432EETD](http://oom.lt/SZKINTERFACEUARTMAX13432EETD)

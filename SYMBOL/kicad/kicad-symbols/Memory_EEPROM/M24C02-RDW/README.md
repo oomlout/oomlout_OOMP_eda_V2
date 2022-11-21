@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-M24C02-RDW
 - Hex ID: SZKMEMORYEEPROMM24C2RDW
 - Name: Memory_EEPROM : M24C02-RDW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/M24C02-RDW/
 - Description: Memory_EEPROM : M24C02-RDW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-M24C02-RDW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-M24C02-RDW)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMM24C2RDW](http://oom.lt/SZKMEMORYEEPROMM24C2RDW)

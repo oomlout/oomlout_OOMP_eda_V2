@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USB-MINIB-NOSTOP
 - Hex ID: FZSRTUMBNOSTOP
 - Name: SparkFun-Retired : USB-MINIB-NOSTOP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/USB-MINIB-NOSTOP/
 - Description: SparkFun-Retired : USB-MINIB-NOSTOP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USB-MINIB-NOSTOP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USB-MINIB-NOSTOP)
 - Short Link: [http://oom.lt/FZSRTUMBNOSTOP](http://oom.lt/FZSRTUMBNOSTOP)

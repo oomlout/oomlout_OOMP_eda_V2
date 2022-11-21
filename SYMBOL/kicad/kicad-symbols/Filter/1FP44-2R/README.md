@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-1FP44-2R
 - Hex ID: SZKFIL1FP442R
 - Name: Filter : 1FP44-2R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/1FP44-2R/
 - Description: Filter : 1FP44-2R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-1FP44-2R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-1FP44-2R)
 - Short Link: [http://oom.lt/SZKFIL1FP442R](http://oom.lt/SZKFIL1FP442R)

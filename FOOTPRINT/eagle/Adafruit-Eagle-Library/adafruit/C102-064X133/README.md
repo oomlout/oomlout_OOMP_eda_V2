@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C102-064X133
 - Hex ID: FZAC1264X133
 - Name: adafruit : C102-064X133
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C102-064X133/
 - Description: adafruit : C102-064X133
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C102-064X133](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C102-064X133)
 - Short Link: [http://oom.lt/FZAC1264X133](http://oom.lt/FZAC1264X133)

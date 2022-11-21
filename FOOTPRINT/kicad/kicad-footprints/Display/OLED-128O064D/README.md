@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-OLED-128O064D
 - Hex ID: FZKDIOL128O64D
 - Name: Display : OLED-128O064D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/OLED-128O064D/
 - Description: Display : OLED-128O064D
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-OLED-128O064D](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-OLED-128O064D)
 - Short Link: [http://oom.lt/FZKDIOL128O64D](http://oom.lt/FZKDIOL128O64D)

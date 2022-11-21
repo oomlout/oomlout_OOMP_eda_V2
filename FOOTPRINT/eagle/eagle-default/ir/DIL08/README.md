@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ir-DIL08
 - Hex ID: FZEIRDIL8
 - Name: ir : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ir/DIL08/
 - Description: ir : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ir-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-ir-DIL08)
 - Short Link: [http://oom.lt/FZEIRDIL8](http://oom.lt/FZEIRDIL8)

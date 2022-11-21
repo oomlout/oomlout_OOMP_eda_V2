@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-S6058
 - Hex ID: FZEDIODES658
 - Name: diode : S6058
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/S6058/
 - Description: diode : S6058
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-S6058](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-S6058)
 - Short Link: [http://oom.lt/FZEDIODES658](http://oom.lt/FZEDIODES658)

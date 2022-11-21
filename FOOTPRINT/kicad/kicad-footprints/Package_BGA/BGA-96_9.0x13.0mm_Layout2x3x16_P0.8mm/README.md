@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm
 - Hex ID: FZKBGABGA969X13LAYOUT2X3X16P8
 - Name: Package_BGA : BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm/
 - Description: Package_BGA : BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm)
 - Short Link: [http://oom.lt/FZKBGABGA969X13LAYOUT2X3X16P8](http://oom.lt/FZKBGABGA969X13LAYOUT2X3X16P8)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12EWA
 - Hex ID: SZKDICHARACTERCA5612EWA
 - Name: Display_Character : CA56-12EWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/CA56-12EWA/
 - Description: Display_Character : CA56-12EWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12EWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12EWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERCA5612EWA](http://oom.lt/SZKDICHARACTERCA5612EWA)

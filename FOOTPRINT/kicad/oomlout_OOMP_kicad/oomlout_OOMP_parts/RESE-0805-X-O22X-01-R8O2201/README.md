@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO22X1R8O221 > oomlout_OOMP_parts : RESE-0805-X-O22X-01-R8O2201](#fzkicadoomloutoompkicadoomloutoomppartsrese85xo22x1r8o221--oomlout_oomp_parts--rese-0805-x-o22x-01-r8o2201)
+* [FZOOMPKOOMPPRESE85XO22X1R8O221 > oomlout_OOMP_parts : RESE-0805-X-O22X-01-R8O2201](#fzoompkoompprese85xo22x1r8o221--oomlout_oomp_parts--rese-0805-x-o22x-01-r8o2201)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO22X1R8O221 > oomlout_OOMP_parts : RESE-0805-X-O22X-01-R8O2201
+# FZOOMPKOOMPPRESE85XO22X1R8O221 > oomlout_OOMP_parts : RESE-0805-X-O22X-01-R8O2201
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O22X-01-R8O2201
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO22X1R8O221
+- Hex ID: FZOOMPKOOMPPRESE85XO22X1R8O221
 - Name: oomlout_OOMP_parts : RESE-0805-X-O22X-01-R8O2201
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O22X-01-R8O2201/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O22X-01-R8O2201
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O22X-01-R8O2201](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O22X-01-R8O2201)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO22X1R8O221](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO22X1R8O221)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO22X1R8O221](http://oom.lt/FZOOMPKOOMPPRESE85XO22X1R8O221)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0805-X-O22X-01-R8O2201|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O22X-01-R8O2201|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO22X1R8O221|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPRESE85XO22X1R8O221|
 |name|name|oomlout_OOMP_parts : RESE-0805-X-O22X-01-R8O2201|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RESE-0805-X-O22X-01-R8O2201'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R8O2201;PARTL C-JLCC;C17521;MANUF C-XXXX;0805W8F220KT5E; Resistor SMD 0805 (2012 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

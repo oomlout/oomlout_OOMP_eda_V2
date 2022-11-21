@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128B3-MC
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA128B3MC
 - Name: MCU_Microchip_ATmega : ATxmega128B3-MC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATxmega128B3-MC/
 - Description: MCU_Microchip_ATmega : ATxmega128B3-MC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128B3-MC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128B3-MC)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA128B3MC](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA128B3MC)

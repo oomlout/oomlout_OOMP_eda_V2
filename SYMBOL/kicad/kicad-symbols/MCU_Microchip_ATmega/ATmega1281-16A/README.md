@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega1281-16A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA128116A
 - Name: MCU_Microchip_ATmega : ATmega1281-16A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega1281-16A/
 - Description: MCU_Microchip_ATmega : ATmega1281-16A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega1281-16A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega1281-16A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA128116A](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA128116A)

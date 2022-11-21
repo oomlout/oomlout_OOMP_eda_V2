@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-U57X32
 - Hex ID: FZELU57X32
 - Name: led : U57X32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/U57X32/
 - Description: led : U57X32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-U57X32](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-U57X32)
 - Short Link: [http://oom.lt/FZELU57X32](http://oom.lt/FZELU57X32)

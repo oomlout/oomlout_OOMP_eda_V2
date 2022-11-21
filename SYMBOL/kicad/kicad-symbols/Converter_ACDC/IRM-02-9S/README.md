@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-9S
 - Hex ID: SZKCONIRM29S
 - Name: Converter_ACDC : IRM-02-9S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-02-9S/
 - Description: Converter_ACDC : IRM-02-9S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-9S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-9S)
 - Short Link: [http://oom.lt/SZKCONIRM29S](http://oom.lt/SZKCONIRM29S)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNEOSIDTL85 > inductor-neosid : TL85](#fzeinductorneosidtl85--inductor-neosid--tl85)
+* [FZEINNEOSIDTL85 > inductor-neosid : TL85](#fzeinneosidtl85--inductor-neosid--tl85)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNEOSIDTL85 > inductor-neosid : TL85
+# FZEINNEOSIDTL85 > inductor-neosid : TL85
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-TL85
-- Hex ID: FZEINDUCTORNEOSIDTL85
+- Hex ID: FZEINNEOSIDTL85
 - Name: inductor-neosid : TL85
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-neosid/TL85/
 - Description: inductor-neosid : TL85
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-TL85](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-TL85)
-- Short Link: [http://oom.lt/FZEINDUCTORNEOSIDTL85](http://oom.lt/FZEINDUCTORNEOSIDTL85)
+- Short Link: [http://oom.lt/FZEINNEOSIDTL85](http://oom.lt/FZEINNEOSIDTL85)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-neosid|
 |OOMP Index|oompIndex|TL85|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-neosid-TL85|
-|Hex ID (short code)|hexID|FZEINDUCTORNEOSIDTL85|
+|Hex ID (short code)|hexID|FZEINNEOSIDTL85|
 |name|name|inductor-neosid : TL85|
 ||||

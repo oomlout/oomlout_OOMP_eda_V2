@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADPDSO3612 > ref-packages-longpad : PDSO_36-12](#fzerefpackageslongpadpdso3612--ref-packages-longpad--pdso_36-12)
+* [FZEREFPSLPPDSO3612 > ref-packages-longpad : PDSO_36-12](#fzerefpslppdso3612--ref-packages-longpad--pdso_36-12)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADPDSO3612 > ref-packages-longpad : PDSO_36-12
+# FZEREFPSLPPDSO3612 > ref-packages-longpad : PDSO_36-12
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PDSO_36-12
-- Hex ID: FZEREFPACKAGESLONGPADPDSO3612
+- Hex ID: FZEREFPSLPPDSO3612
 - Name: ref-packages-longpad : PDSO_36-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/PDSO_36-12/
 - Description: ref-packages-longpad : PDSO_36-12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PDSO_36-12](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PDSO_36-12)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADPDSO3612](http://oom.lt/FZEREFPACKAGESLONGPADPDSO3612)
+- Short Link: [http://oom.lt/FZEREFPSLPPDSO3612](http://oom.lt/FZEREFPSLPPDSO3612)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|PDSO_36-12|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PDSO_36-12|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADPDSO3612|
+|Hex ID (short code)|hexID|FZEREFPSLPPDSO3612|
 |name|name|ref-packages-longpad : PDSO_36-12|
 ||||

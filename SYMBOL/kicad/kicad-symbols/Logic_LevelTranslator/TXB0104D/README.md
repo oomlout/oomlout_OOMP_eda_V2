@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0104D
 - Hex ID: SZKLOGICLEVELTRANSLATORTXB14D
 - Name: Logic_LevelTranslator : TXB0104D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXB0104D/
 - Description: Logic_LevelTranslator : TXB0104D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0104D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0104D)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXB14D](http://oom.lt/SZKLOGICLEVELTRANSLATORTXB14D)

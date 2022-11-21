@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-VMS3V6
 - Hex ID: FZEBATVMS3V6
 - Name: battery : VMS3V6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/VMS3V6/
 - Description: battery : VMS3V6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-VMS3V6](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-VMS3V6)
 - Short Link: [http://oom.lt/FZEBATVMS3V6](http://oom.lt/FZEBATVMS3V6)

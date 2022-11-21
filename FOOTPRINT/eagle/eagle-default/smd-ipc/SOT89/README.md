@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOT89
 - Hex ID: FZESMIPCSOT89
 - Name: smd-ipc : SOT89
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOT89/
 - Description: smd-ipc : SOT89
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOT89](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOT89)
 - Short Link: [http://oom.lt/FZESMIPCSOT89](http://oom.lt/FZESMIPCSOT89)

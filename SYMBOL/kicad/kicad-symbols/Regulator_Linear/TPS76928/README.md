@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76928
 - Hex ID: SZKREGULATORLINEARTPS76928
 - Name: Regulator_Linear : TPS76928
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS76928/
 - Description: Regulator_Linear : TPS76928
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76928](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76928)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS76928](http://oom.lt/SZKREGULATORLINEARTPS76928)

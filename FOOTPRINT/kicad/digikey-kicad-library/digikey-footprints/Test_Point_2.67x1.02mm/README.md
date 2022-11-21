@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTESTPOINT267X12 > digikey-footprints : Test_Point_2.67x1.02mm](#fzkicaddigikeykicadlibrarydigikeyfootprintstestpoint267x12--digikey-footprints--test_point_267x102mm)
+* [FZDIGIDIGIKEYFOOTPRINTSTESTPOINT267X12 > digikey-footprints : Test_Point_2.67x1.02mm](#fzdigidigikeyfootprintstestpoint267x12--digikey-footprints--test_point_267x102mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTESTPOINT267X12 > digikey-footprints : Test_Point_2.67x1.02mm
+# FZDIGIDIGIKEYFOOTPRINTSTESTPOINT267X12 > digikey-footprints : Test_Point_2.67x1.02mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Point_2.67x1.02mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTESTPOINT267X12
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTESTPOINT267X12
 - Name: digikey-footprints : Test_Point_2.67x1.02mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Test_Point_2.67x1.02mm/
 - Description: digikey-footprints : Test_Point_2.67x1.02mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Point_2.67x1.02mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Point_2.67x1.02mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTESTPOINT267X12](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTESTPOINT267X12)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTESTPOINT267X12](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTESTPOINT267X12)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Test_Point_2.67x1.02mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Point_2.67x1.02mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTESTPOINT267X12|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTESTPOINT267X12|
 |name|name|digikey-footprints : Test_Point_2.67x1.02mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Test_Point_2.67x1.02mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

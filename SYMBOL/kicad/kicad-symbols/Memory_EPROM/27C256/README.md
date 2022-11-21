@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C256
 - Hex ID: SZKMEMORYEPROM27C256
 - Name: Memory_EPROM : 27C256
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27C256/
 - Description: Memory_EPROM : 27C256
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C256](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C256)
 - Short Link: [http://oom.lt/SZKMEMORYEPROM27C256](http://oom.lt/SZKMEMORYEPROM27C256)

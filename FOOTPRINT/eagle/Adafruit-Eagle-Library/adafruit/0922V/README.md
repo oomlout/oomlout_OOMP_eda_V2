@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0922V
 - Hex ID: FZA922V
 - Name: adafruit : 0922V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0922V/
 - Description: adafruit : 0922V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0922V](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0922V)
 - Short Link: [http://oom.lt/FZA922V](http://oom.lt/FZA922V)

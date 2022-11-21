@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-12-9
 - Hex ID: FZKSOINFINEONPGDSO129
 - Name: Package_SO : Infineon_PG-DSO-12-9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-12-9/
 - Description: Package_SO : Infineon_PG-DSO-12-9
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-12-9](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-12-9)
 - Short Link: [http://oom.lt/FZKSOINFINEONPGDSO129](http://oom.lt/FZKSOINFINEONPGDSO129)

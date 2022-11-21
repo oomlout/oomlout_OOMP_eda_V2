@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_5.5MM_COPPER_NO_MASK
 - Hex ID: FZSAQWIIC55CNOMASK
 - Name: SparkFun-Aesthetics : QWIIC_5.5MM_COPPER_NO_MASK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/QWIIC_5.5MM_COPPER_NO_MASK/
 - Description: SparkFun-Aesthetics : QWIIC_5.5MM_COPPER_NO_MASK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_5.5MM_COPPER_NO_MASK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_5.5MM_COPPER_NO_MASK)
 - Short Link: [http://oom.lt/FZSAQWIIC55CNOMASK](http://oom.lt/FZSAQWIIC55CNOMASK)

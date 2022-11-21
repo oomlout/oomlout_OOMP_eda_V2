@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Laser_1A3C
 - Hex ID: SZKDEVICEDLASER1A3C
 - Name: Device : D_Laser_1A3C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Laser_1A3C/
 - Description: Device : D_Laser_1A3C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Laser_1A3C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Laser_1A3C)
 - Short Link: [http://oom.lt/SZKDEVICEDLASER1A3C](http://oom.lt/SZKDEVICEDLASER1A3C)

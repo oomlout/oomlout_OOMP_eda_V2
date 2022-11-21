@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-PG-DSO-12-9
 - Hex ID: FZETRANSISTORPOWERPGDSO129
 - Name: transistor-power : PG-DSO-12-9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/PG-DSO-12-9/
 - Description: transistor-power : PG-DSO-12-9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-PG-DSO-12-9](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-PG-DSO-12-9)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERPGDSO129](http://oom.lt/FZETRANSISTORPOWERPGDSO129)

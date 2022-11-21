@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKMOARDNANOWITOUNTINGH > Module : Arduino_Nano_WithMountingHoles](#fzkmoardnanowitountingh--module--arduino_nano_withmountingholes)
+* [FZKMOARDNANOWITHHOLS > Module : Arduino_Nano_WithMountingHoles](#fzkmoardnanowithhols--module--arduino_nano_withmountingholes)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKMOARDNANOWITOUNTINGH > Module : Arduino_Nano_WithMountingHoles
+# FZKMOARDNANOWITHHOLS > Module : Arduino_Nano_WithMountingHoles
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Arduino_Nano_WithMountingHoles
-- Hex ID: FZKMOARDNANOWITOUNTINGH
+- Hex ID: FZKMOARDNANOWITHHOLS
 - Name: Module : Arduino_Nano_WithMountingHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Arduino_Nano_WithMountingHoles/
 - Description: Module : Arduino_Nano_WithMountingHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Arduino_Nano_WithMountingHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Arduino_Nano_WithMountingHoles)
-- Short Link: [http://oom.lt/FZKMOARDNANOWITOUNTINGH](http://oom.lt/FZKMOARDNANOWITOUNTINGH)
+- Short Link: [http://oom.lt/FZKMOARDNANOWITHHOLS](http://oom.lt/FZKMOARDNANOWITHHOLS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Module|
 |OOMP Index|oompIndex|Arduino_Nano_WithMountingHoles|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Arduino_Nano_WithMountingHoles|
-|Hex ID (short code)|hexID|FZKMOARDNANOWITOUNTINGH|
+|Hex ID (short code)|hexID|FZKMOARDNANOWITHHOLS|
 |name|name|Module : Arduino_Nano_WithMountingHoles|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Arduino_Nano_WithMountingHoles'</td><td> 'description'</td></tr><tr><td> 'Arduino Nano</td><td> http</td></tr><tr><td>//www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf'</td><td> 'tags'</td></tr><tr><td> 'Arduino Nano'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/Arduino_Nano_WithMountingHoles.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

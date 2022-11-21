@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Hot_Large
 - Hex ID: SZKGRAPHICSYMHOTL
 - Name: Graphic : SYM_Hot_Large
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Hot_Large/
 - Description: Graphic : SYM_Hot_Large
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Hot_Large](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Hot_Large)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMHOTL](http://oom.lt/SZKGRAPHICSYMHOTL)

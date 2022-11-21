@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-MAX15013AxSA
 - Hex ID: SZKDRIVERFETMAX1513AXSA
 - Name: Driver_FET : MAX15013AxSA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/MAX15013AxSA/
 - Description: Driver_FET : MAX15013AxSA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MAX15013AxSA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MAX15013AxSA)
 - Short Link: [http://oom.lt/SZKDRIVERFETMAX1513AXSA](http://oom.lt/SZKDRIVERFETMAX1513AXSA)

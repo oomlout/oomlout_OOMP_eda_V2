@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-M.2-CONNECTOR-E
 - Hex ID: FZS2CNE
 - Name: SparkFun-MicroMod : M.2-CONNECTOR-E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-MicroMod/M.2-CONNECTOR-E/
 - Description: SparkFun-MicroMod : M.2-CONNECTOR-E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-M.2-CONNECTOR-E](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-MicroMod-M.2-CONNECTOR-E)
 - Short Link: [http://oom.lt/FZS2CNE](http://oom.lt/FZS2CNE)

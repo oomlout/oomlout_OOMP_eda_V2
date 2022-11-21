@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SM6T200A
 - Hex ID: SZKDIODESM6T2A
 - Name: Diode : SM6T200A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM6T200A/
 - Description: Diode : SM6T200A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T200A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T200A)
 - Short Link: [http://oom.lt/SZKDIODESM6T2A](http://oom.lt/SZKDIODESM6T2A)

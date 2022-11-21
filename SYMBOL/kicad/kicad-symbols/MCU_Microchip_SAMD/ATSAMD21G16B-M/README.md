@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21G16B-M
 - Hex ID: SZKMCUMCHIPSAMDATSAMD21G16BM
 - Name: MCU_Microchip_SAMD : ATSAMD21G16B-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD21G16B-M/
 - Description: MCU_Microchip_SAMD : ATSAMD21G16B-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21G16B-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21G16B-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMD21G16BM](http://oom.lt/SZKMCUMCHIPSAMDATSAMD21G16BM)

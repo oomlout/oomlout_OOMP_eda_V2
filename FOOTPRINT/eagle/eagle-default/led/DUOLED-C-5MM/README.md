@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-DUOLED-C-5MM
 - Hex ID: FZELDUOLC5
 - Name: led : DUOLED-C-5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/DUOLED-C-5MM/
 - Description: led : DUOLED-C-5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-DUOLED-C-5MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-DUOLED-C-5MM)
 - Short Link: [http://oom.lt/FZELDUOLC5](http://oom.lt/FZELDUOLC5)

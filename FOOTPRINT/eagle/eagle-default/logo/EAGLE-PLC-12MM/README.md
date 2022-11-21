@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-EAGLE-PLC-12MM
 - Hex ID: FZELEAGLEPLC12
 - Name: logo : EAGLE-PLC-12MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/EAGLE-PLC-12MM/
 - Description: logo : EAGLE-PLC-12MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-EAGLE-PLC-12MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-EAGLE-PLC-12MM)
 - Short Link: [http://oom.lt/FZELEAGLEPLC12](http://oom.lt/FZELEAGLEPLC12)

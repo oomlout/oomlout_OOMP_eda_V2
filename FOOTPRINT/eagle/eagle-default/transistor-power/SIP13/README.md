@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-SIP13
 - Hex ID: FZETRANSISTORPOWERSIP13
 - Name: transistor-power : SIP13
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/SIP13/
 - Description: transistor-power : SIP13
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-SIP13](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-SIP13)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERSIP13](http://oom.lt/FZETRANSISTORPOWERSIP13)

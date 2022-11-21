@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LIGHTPIPE-7511
 - Hex ID: FZSRTLIGHTPIPE7511
 - Name: SparkFun-Retired : LIGHTPIPE-7511
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LIGHTPIPE-7511/
 - Description: SparkFun-Retired : LIGHTPIPE-7511
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LIGHTPIPE-7511](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LIGHTPIPE-7511)
 - Short Link: [http://oom.lt/FZSRTLIGHTPIPE7511](http://oom.lt/FZSRTLIGHTPIPE7511)

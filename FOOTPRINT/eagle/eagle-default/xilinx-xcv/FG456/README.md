@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG456
 - Hex ID: FZEXILINXXCVFG456
 - Name: xilinx-xcv : FG456
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/FG456/
 - Description: xilinx-xcv : FG456
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG456](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG456)
 - Short Link: [http://oom.lt/FZEXILINXXCVFG456](http://oom.lt/FZEXILINXXCVFG456)

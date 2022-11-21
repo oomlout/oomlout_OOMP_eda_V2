@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-PLCC28
 - Hex ID: FZEEXARPLCC28
 - Name: exar : PLCC28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/PLCC28/
 - Description: exar : PLCC28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-PLCC28](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-PLCC28)
 - Short Link: [http://oom.lt/FZEEXARPLCC28](http://oom.lt/FZEEXARPLCC28)

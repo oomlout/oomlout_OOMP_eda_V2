@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-TL3116
 - Hex ID: SZKCOMPARATORTL3116
 - Name: Comparator : TL3116
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/TL3116/
 - Description: Comparator : TL3116
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-TL3116](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-TL3116)
 - Short Link: [http://oom.lt/SZKCOMPARATORTL3116](http://oom.lt/SZKCOMPARATORTL3116)

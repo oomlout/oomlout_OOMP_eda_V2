@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNBANANAJ2PIN > Connector : Banana_Jack_2Pin](#fzkcnbananaj2pin--connector--banana_jack_2pin)
+* [FZKCNBANANAJ2P > Connector : Banana_Jack_2Pin](#fzkcnbananaj2p--connector--banana_jack_2pin)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNBANANAJ2PIN > Connector : Banana_Jack_2Pin
+# FZKCNBANANAJ2P > Connector : Banana_Jack_2Pin
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector-Banana_Jack_2Pin
-- Hex ID: FZKCNBANANAJ2PIN
+- Hex ID: FZKCNBANANAJ2P
 - Name: Connector : Banana_Jack_2Pin
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/Banana_Jack_2Pin/
 - Description: Connector : Banana_Jack_2Pin
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-Banana_Jack_2Pin](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-Banana_Jack_2Pin)
-- Short Link: [http://oom.lt/FZKCNBANANAJ2PIN](http://oom.lt/FZKCNBANANAJ2PIN)
+- Short Link: [http://oom.lt/FZKCNBANANAJ2P](http://oom.lt/FZKCNBANANAJ2P)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|Banana_Jack_2Pin|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-Banana_Jack_2Pin|
-|Hex ID (short code)|hexID|FZKCNBANANAJ2PIN|
+|Hex ID (short code)|hexID|FZKCNBANANAJ2P|
 |name|name|Connector : Banana_Jack_2Pin|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Banana_Jack_2Pin'</td><td> 'description'</td></tr><tr><td> 'Dual banana socket</td><td> footprint - 2 x 6mm drills'</td><td> 'tags'</td></tr><tr><td> 'banana socket'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector.3dshapes/Banana_Jack_2Pin.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

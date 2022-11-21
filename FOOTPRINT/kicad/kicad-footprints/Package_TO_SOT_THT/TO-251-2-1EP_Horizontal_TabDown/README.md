@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOTTO25121EPHORIZONTALTABDOWN > Package_TO_SOT_THT : TO-251-2-1EP_Horizontal_TabDown](#fzksotto25121ephorizontaltabdown--package_to_sot_tht--to-251-2-1ep_horizontal_tabdown)
+* [FZKSOTTO25121EPHTABDOWN > Package_TO_SOT_THT : TO-251-2-1EP_Horizontal_TabDown](#fzksotto25121ephtabdown--package_to_sot_tht--to-251-2-1ep_horizontal_tabdown)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTTO25121EPHORIZONTALTABDOWN > Package_TO_SOT_THT : TO-251-2-1EP_Horizontal_TabDown
+# FZKSOTTO25121EPHTABDOWN > Package_TO_SOT_THT : TO-251-2-1EP_Horizontal_TabDown
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-251-2-1EP_Horizontal_TabDown
-- Hex ID: FZKSOTTO25121EPHORIZONTALTABDOWN
+- Hex ID: FZKSOTTO25121EPHTABDOWN
 - Name: Package_TO_SOT_THT : TO-251-2-1EP_Horizontal_TabDown
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-251-2-1EP_Horizontal_TabDown/
 - Description: Package_TO_SOT_THT : TO-251-2-1EP_Horizontal_TabDown
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-251-2-1EP_Horizontal_TabDown](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-251-2-1EP_Horizontal_TabDown)
-- Short Link: [http://oom.lt/FZKSOTTO25121EPHORIZONTALTABDOWN](http://oom.lt/FZKSOTTO25121EPHORIZONTALTABDOWN)
+- Short Link: [http://oom.lt/FZKSOTTO25121EPHTABDOWN](http://oom.lt/FZKSOTTO25121EPHTABDOWN)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_THT|
 |OOMP Index|oompIndex|TO-251-2-1EP_Horizontal_TabDown|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-251-2-1EP_Horizontal_TabDown|
-|Hex ID (short code)|hexID|FZKSOTTO25121EPHORIZONTALTABDOWN|
+|Hex ID (short code)|hexID|FZKSOTTO25121EPHTABDOWN|
 |name|name|Package_TO_SOT_THT : TO-251-2-1EP_Horizontal_TabDown|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-251-2-1EP_Horizontal_TabDown'</td><td> 'description'</td></tr><tr><td> 'TO-251-2</td><td> Horizontal</td><td> RM 4.58mm</td><td> IPAK</td><td> see https</td></tr><tr><td>//www.diodes.com/assets/Package-Files/TO251.pdf'</td><td> 'tags'</td></tr><tr><td> 'TO-251-2 Horizontal RM 4.58mm IPAK'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-251-2-1EP_Horizontal_TabDown.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-JTOS-25
 - Hex ID: SZKOCSJTOS25
 - Name: Oscillator : JTOS-25
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/JTOS-25/
 - Description: Oscillator : JTOS-25
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-JTOS-25](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-JTOS-25)
 - Short Link: [http://oom.lt/SZKOCSJTOS25](http://oom.lt/SZKOCSJTOS25)

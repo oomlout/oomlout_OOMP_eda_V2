@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F427IIHx
 - Hex ID: SZKMCUSTSTM32F4STM32F427IIHX
 - Name: MCU_ST_STM32F4 : STM32F427IIHx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F427IIHx/
 - Description: MCU_ST_STM32F4 : STM32F427IIHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F427IIHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F427IIHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F427IIHX](http://oom.lt/SZKMCUSTSTM32F4STM32F427IIHX)

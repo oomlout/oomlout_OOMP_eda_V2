@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IR4312
 - Hex ID: SZKAMPLIFIERAUDIOIR4312
 - Name: Amplifier_Audio : IR4312
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IR4312/
 - Description: Amplifier_Audio : IR4312
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IR4312](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IR4312)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIR4312](http://oom.lt/SZKAMPLIFIERAUDIOIR4312)

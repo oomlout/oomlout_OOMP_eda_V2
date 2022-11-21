@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-TQFP100
 - Hex ID: FZEMAXIMTQFP1
 - Name: maxim : TQFP100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/TQFP100/
 - Description: maxim : TQFP100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TQFP100](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TQFP100)
 - Short Link: [http://oom.lt/FZEMAXIMTQFP1](http://oom.lt/FZEMAXIMTQFP1)

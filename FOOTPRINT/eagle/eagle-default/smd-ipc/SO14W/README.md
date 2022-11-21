@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SO14W
 - Hex ID: FZESMIPCSO14W
 - Name: smd-ipc : SO14W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SO14W/
 - Description: smd-ipc : SO14W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SO14W](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SO14W)
 - Short Link: [http://oom.lt/FZESMIPCSO14W](http://oom.lt/FZESMIPCSO14W)

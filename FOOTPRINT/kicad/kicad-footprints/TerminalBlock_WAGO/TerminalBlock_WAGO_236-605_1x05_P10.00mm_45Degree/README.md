@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_236-605_1x05_P10.00mm_45Degree
 - Hex ID: FZKTBWAGOTBWAGO236651X5P145DEGREE
 - Name: TerminalBlock_WAGO : TerminalBlock_WAGO_236-605_1x05_P10.00mm_45Degree
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-605_1x05_P10.00mm_45Degree/
 - Description: TerminalBlock_WAGO : TerminalBlock_WAGO_236-605_1x05_P10.00mm_45Degree
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_236-605_1x05_P10.00mm_45Degree](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_236-605_1x05_P10.00mm_45Degree)
 - Short Link: [http://oom.lt/FZKTBWAGOTBWAGO236651X5P145DEGREE](http://oom.lt/FZKTBWAGOTBWAGO236651X5P145DEGREE)

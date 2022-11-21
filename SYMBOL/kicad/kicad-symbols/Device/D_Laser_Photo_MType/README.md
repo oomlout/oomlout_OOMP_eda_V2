@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKDEVICEDLASERPHOTOMTYPE > Device : D_Laser_Photo_MType](#szkdevicedlaserphotomtype--device--d_laser_photo_mtype)
+* [SZKDEVICEDLASERPHOTOMT > Device : D_Laser_Photo_MType](#szkdevicedlaserphotomt--device--d_laser_photo_mtype)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKDEVICEDLASERPHOTOMTYPE > Device : D_Laser_Photo_MType
+# SZKDEVICEDLASERPHOTOMT > Device : D_Laser_Photo_MType
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Laser_Photo_MType
-- Hex ID: SZKDEVICEDLASERPHOTOMTYPE
+- Hex ID: SZKDEVICEDLASERPHOTOMT
 - Name: Device : D_Laser_Photo_MType
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Laser_Photo_MType/
 - Description: Device : D_Laser_Photo_MType
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Laser_Photo_MType](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Laser_Photo_MType)
-- Short Link: [http://oom.lt/SZKDEVICEDLASERPHOTOMTYPE](http://oom.lt/SZKDEVICEDLASERPHOTOMTYPE)
+- Short Link: [http://oom.lt/SZKDEVICEDLASERPHOTOMT](http://oom.lt/SZKDEVICEDLASERPHOTOMT)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Device|
 |OOMP Index|oompIndex|D_Laser_Photo_MType|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Laser_Photo_MType|
-|Hex ID (short code)|hexID|SZKDEVICEDLASERPHOTOMTYPE|
+|Hex ID (short code)|hexID|SZKDEVICEDLASERPHOTOMT|
 |name|name|Device : D_Laser_Photo_MType|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'LD'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Laser_Photo_MType'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.egismos.disonhu.com/laser/diode-package.htm'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto laserdiode photodiode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Laser diode with photodiode</td><td> common cathode on pin 2'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*LaserDiode*'</td></tr></table>]|
 ||||

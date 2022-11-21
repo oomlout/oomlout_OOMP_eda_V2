@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1200D40
 - Hex ID: SZKREGULATORCONTROLLERNCP12D4
 - Name: Regulator_Controller : NCP1200D40
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1200D40/
 - Description: Regulator_Controller : NCP1200D40
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1200D40](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1200D40)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP12D4](http://oom.lt/SZKREGULATORCONTROLLERNCP12D4)

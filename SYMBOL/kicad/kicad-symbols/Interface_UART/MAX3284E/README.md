@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3284E
 - Hex ID: SZKINTERFACEUARTMAX3284E
 - Name: Interface_UART : MAX3284E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX3284E/
 - Description: Interface_UART : MAX3284E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3284E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3284E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX3284E](http://oom.lt/SZKINTERFACEUARTMAX3284E)

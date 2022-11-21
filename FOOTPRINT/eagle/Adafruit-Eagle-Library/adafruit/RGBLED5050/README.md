@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-RGBLED5050
 - Hex ID: FZARGBL55
 - Name: adafruit : RGBLED5050
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/RGBLED5050/
 - Description: adafruit : RGBLED5050
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-RGBLED5050](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-RGBLED5050)
 - Short Link: [http://oom.lt/FZARGBL55](http://oom.lt/FZARGBL55)

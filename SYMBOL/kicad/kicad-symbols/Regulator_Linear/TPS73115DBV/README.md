@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73115DBV
 - Hex ID: SZKREGULATORLINEARTPS73115DBV
 - Name: Regulator_Linear : TPS73115DBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS73115DBV/
 - Description: Regulator_Linear : TPS73115DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73115DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73115DBV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS73115DBV](http://oom.lt/SZKREGULATORLINEARTPS73115DBV)

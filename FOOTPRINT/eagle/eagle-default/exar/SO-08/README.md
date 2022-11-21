@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-SO-08
 - Hex ID: FZEEXARSO8
 - Name: exar : SO-08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/SO-08/
 - Description: exar : SO-08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SO-08](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SO-08)
 - Short Link: [http://oom.lt/FZEEXARSO8](http://oom.lt/FZEEXARSO8)

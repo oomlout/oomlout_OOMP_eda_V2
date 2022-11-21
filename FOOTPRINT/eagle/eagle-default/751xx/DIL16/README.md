@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-751xx-DIL16
 - Hex ID: FZE751XXDIL16
 - Name: 751xx : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/751xx/DIL16/
 - Description: 751xx : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-751xx-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-751xx-DIL16)
 - Short Link: [http://oom.lt/FZE751XXDIL16](http://oom.lt/FZE751XXDIL16)

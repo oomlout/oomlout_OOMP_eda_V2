@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-CREATIVE_COMMONS
 - Hex ID: FZSRTCREATIVECOONS
 - Name: SparkFun-Retired : CREATIVE_COMMONS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/CREATIVE_COMMONS/
 - Description: SparkFun-Retired : CREATIVE_COMMONS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-CREATIVE_COMMONS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-CREATIVE_COMMONS)
 - Short Link: [http://oom.lt/FZSRTCREATIVECOONS](http://oom.lt/FZSRTCREATIVECOONS)

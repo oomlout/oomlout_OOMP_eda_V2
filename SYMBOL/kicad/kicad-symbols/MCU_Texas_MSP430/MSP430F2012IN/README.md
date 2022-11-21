@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2012IN
 - Hex ID: SZKMCUTEXASMSP43MSP43F212IN
 - Name: MCU_Texas_MSP430 : MSP430F2012IN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F2012IN/
 - Description: MCU_Texas_MSP430 : MSP430F2012IN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2012IN](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2012IN)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F212IN](http://oom.lt/SZKMCUTEXASMSP43MSP43F212IN)

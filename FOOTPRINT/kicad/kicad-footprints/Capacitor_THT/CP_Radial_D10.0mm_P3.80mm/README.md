@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D10.0mm_P3.80mm
 - Hex ID: FZKCCPRD1P38
 - Name: Capacitor_THT : CP_Radial_D10.0mm_P3.80mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D10.0mm_P3.80mm/
 - Description: Capacitor_THT : CP_Radial_D10.0mm_P3.80mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D10.0mm_P3.80mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D10.0mm_P3.80mm)
 - Short Link: [http://oom.lt/FZKCCPRD1P38](http://oom.lt/FZKCCPRD1P38)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5015_Micro-Minature
 - Hex ID: FZKTPTPKEYSTONE515INATURE
 - Name: TestPoint : TestPoint_Keystone_5015_Micro-Minature
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5015_Micro-Minature/
 - Description: TestPoint : TestPoint_Keystone_5015_Micro-Minature
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5015_Micro-Minature](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5015_Micro-Minature)
 - Short Link: [http://oom.lt/FZKTPTPKEYSTONE515INATURE](http://oom.lt/FZKTPTPKEYSTONE515INATURE)

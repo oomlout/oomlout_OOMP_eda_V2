@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-HCPL-9000
 - Hex ID: SZKISOLATORHCPL9
 - Name: Isolator : HCPL-9000
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/HCPL-9000/
 - Description: Isolator : HCPL-9000
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-9000](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-9000)
 - Short Link: [http://oom.lt/SZKISOLATORHCPL9](http://oom.lt/SZKISOLATORHCPL9)

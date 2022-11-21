@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-UDA1334ATS
 - Hex ID: SZKAUDIOUDA1334ATS
 - Name: Audio : UDA1334ATS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/UDA1334ATS/
 - Description: Audio : UDA1334ATS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-UDA1334ATS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-UDA1334ATS)
 - Short Link: [http://oom.lt/SZKAUDIOUDA1334ATS](http://oom.lt/SZKAUDIOUDA1334ATS)

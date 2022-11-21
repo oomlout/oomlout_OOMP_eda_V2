@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R0402
 - Hex ID: FZAR42
 - Name: adafruit : R0402
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/R0402/
 - Description: adafruit : R0402
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R0402](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R0402)
 - Short Link: [http://oom.lt/FZAR42](http://oom.lt/FZAR42)

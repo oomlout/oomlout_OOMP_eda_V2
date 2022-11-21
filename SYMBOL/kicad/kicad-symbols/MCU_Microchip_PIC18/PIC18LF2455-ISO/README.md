@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF2455-ISO
 - Hex ID: SZKMCUMCHIPPIC18PIC18LF2455ISO
 - Name: MCU_Microchip_PIC18 : PIC18LF2455-ISO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF2455-ISO/
 - Description: MCU_Microchip_PIC18 : PIC18LF2455-ISO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF2455-ISO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF2455-ISO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF2455ISO](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF2455ISO)

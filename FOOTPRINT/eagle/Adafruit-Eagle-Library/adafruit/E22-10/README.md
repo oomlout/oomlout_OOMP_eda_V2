@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E22-10
 - Hex ID: FZAE221
 - Name: adafruit : E22-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E22-10/
 - Description: adafruit : E22-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E22-10](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E22-10)
 - Short Link: [http://oom.lt/FZAE221](http://oom.lt/FZAE221)

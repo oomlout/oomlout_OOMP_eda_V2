@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-10-12
 - Hex ID: SZKCONIRM112
 - Name: Converter_ACDC : IRM-10-12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-10-12/
 - Description: Converter_ACDC : IRM-10-12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-10-12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-10-12)
 - Short Link: [http://oom.lt/SZKCONIRM112](http://oom.lt/SZKCONIRM112)

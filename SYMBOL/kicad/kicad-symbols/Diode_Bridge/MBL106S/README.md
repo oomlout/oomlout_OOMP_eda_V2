@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-MBL106S
 - Hex ID: SZKDIODEBRIDGEMBL16S
 - Name: Diode_Bridge : MBL106S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/MBL106S/
 - Description: Diode_Bridge : MBL106S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MBL106S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MBL106S)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEMBL16S](http://oom.lt/SZKDIODEBRIDGEMBL16S)

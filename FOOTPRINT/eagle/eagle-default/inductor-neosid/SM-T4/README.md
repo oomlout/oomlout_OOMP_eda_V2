@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNEOSIDSMT4 > inductor-neosid : SM-T4](#fzeinductorneosidsmt4--inductor-neosid--sm-t4)
+* [FZEINNEOSIDSMT4 > inductor-neosid : SM-T4](#fzeinneosidsmt4--inductor-neosid--sm-t4)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNEOSIDSMT4 > inductor-neosid : SM-T4
+# FZEINNEOSIDSMT4 > inductor-neosid : SM-T4
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-T4
-- Hex ID: FZEINDUCTORNEOSIDSMT4
+- Hex ID: FZEINNEOSIDSMT4
 - Name: inductor-neosid : SM-T4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-neosid/SM-T4/
 - Description: inductor-neosid : SM-T4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-T4](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-T4)
-- Short Link: [http://oom.lt/FZEINDUCTORNEOSIDSMT4](http://oom.lt/FZEINDUCTORNEOSIDSMT4)
+- Short Link: [http://oom.lt/FZEINNEOSIDSMT4](http://oom.lt/FZEINNEOSIDSMT4)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-neosid|
 |OOMP Index|oompIndex|SM-T4|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-T4|
-|Hex ID (short code)|hexID|FZEINDUCTORNEOSIDSMT4|
+|Hex ID (short code)|hexID|FZEINNEOSIDSMT4|
 |name|name|inductor-neosid : SM-T4|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS50010-1TAD
 - Hex ID: SZKPOWERMANAGEMENTBTS511TAD
 - Name: Power_Management : BTS50010-1TAD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50010-1TAD/
 - Description: Power_Management : BTS50010-1TAD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS50010-1TAD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS50010-1TAD)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS511TAD](http://oom.lt/SZKPOWERMANAGEMENTBTS511TAD)

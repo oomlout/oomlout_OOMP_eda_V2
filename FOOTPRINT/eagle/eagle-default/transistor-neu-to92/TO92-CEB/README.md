@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO92-CEB
 - Hex ID: FZETRANSISTORNEUTO92TO92CEB
 - Name: transistor-neu-to92 : TO92-CEB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-neu-to92/TO92-CEB/
 - Description: transistor-neu-to92 : TO92-CEB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO92-CEB](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO92-CEB)
 - Short Link: [http://oom.lt/FZETRANSISTORNEUTO92TO92CEB](http://oom.lt/FZETRANSISTORNEUTO92TO92CEB)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC01-24SGB
 - Hex ID: SZKCONRAC124SGB
 - Name: Converter_ACDC : RAC01-24SGB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC01-24SGB/
 - Description: Converter_ACDC : RAC01-24SGB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC01-24SGB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC01-24SGB)
 - Short Link: [http://oom.lt/SZKCONRAC124SGB](http://oom.lt/SZKCONRAC124SGB)

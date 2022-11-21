@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV9062xDSG
 - Hex ID: SZKAMPLIFIEROPERATIONALTLV962XDSG
 - Name: Amplifier_Operational : TLV9062xDSG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TLV9062xDSG/
 - Description: Amplifier_Operational : TLV9062xDSG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV9062xDSG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV9062xDSG)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTLV962XDSG](http://oom.lt/SZKAMPLIFIEROPERATIONALTLV962XDSG)

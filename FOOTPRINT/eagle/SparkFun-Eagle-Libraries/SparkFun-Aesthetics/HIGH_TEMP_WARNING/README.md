@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-HIGH_TEMP_WARNING
 - Hex ID: FZSAHIGHTEMPWARNING
 - Name: SparkFun-Aesthetics : HIGH_TEMP_WARNING
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/HIGH_TEMP_WARNING/
 - Description: SparkFun-Aesthetics : HIGH_TEMP_WARNING
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-HIGH_TEMP_WARNING](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-HIGH_TEMP_WARNING)
 - Short Link: [http://oom.lt/FZSAHIGHTEMPWARNING](http://oom.lt/FZSAHIGHTEMPWARNING)

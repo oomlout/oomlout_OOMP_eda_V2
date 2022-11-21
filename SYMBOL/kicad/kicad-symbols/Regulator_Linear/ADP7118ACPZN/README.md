@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7118ACPZN
 - Hex ID: SZKREGULATORLINEARADP7118ACPZN
 - Name: Regulator_Linear : ADP7118ACPZN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7118ACPZN/
 - Description: Regulator_Linear : ADP7118ACPZN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7118ACPZN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7118ACPZN)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARADP7118ACPZN](http://oom.lt/SZKREGULATORLINEARADP7118ACPZN)

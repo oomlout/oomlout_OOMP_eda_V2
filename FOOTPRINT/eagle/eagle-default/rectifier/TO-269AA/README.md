@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-TO-269AA
 - Hex ID: FZERECTIFIERTO269AA
 - Name: rectifier : TO-269AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/TO-269AA/
 - Description: rectifier : TO-269AA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-TO-269AA](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-TO-269AA)
 - Short Link: [http://oom.lt/FZERECTIFIERTO269AA](http://oom.lt/FZERECTIFIERTO269AA)

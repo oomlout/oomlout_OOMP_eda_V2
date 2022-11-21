@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO3331R8O333C17633 > oomlout_OOMP_JLCC_Basic : RESE-0805-X-O333-01-R8O333-C17633](#fzkicadoomloutoompkicadoomloutoompjlccbasicrese85xo3331r8o333c17633--oomlout_oomp_jlcc_basic--rese-0805-x-o333-01-r8o333-c17633)
+* [FZOOMPKJLCRESE85XO3331R8O333C17633 > oomlout_OOMP_JLCC_Basic : RESE-0805-X-O333-01-R8O333-C17633](#fzoompkjlcrese85xo3331r8o333c17633--oomlout_oomp_jlcc_basic--rese-0805-x-o333-01-r8o333-c17633)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO3331R8O333C17633 > oomlout_OOMP_JLCC_Basic : RESE-0805-X-O333-01-R8O333-C17633
+# FZOOMPKJLCRESE85XO3331R8O333C17633 > oomlout_OOMP_JLCC_Basic : RESE-0805-X-O333-01-R8O333-C17633
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O333-01-R8O333-C17633
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO3331R8O333C17633
+- Hex ID: FZOOMPKJLCRESE85XO3331R8O333C17633
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O333-01-R8O333-C17633
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0805-X-O333-01-R8O333-C17633/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O333-01-R8O333-C17633
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O333-01-R8O333-C17633](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O333-01-R8O333-C17633)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO3331R8O333C17633](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO3331R8O333C17633)
+- Short Link: [http://oom.lt/FZOOMPKJLCRESE85XO3331R8O333C17633](http://oom.lt/FZOOMPKJLCRESE85XO3331R8O333C17633)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_JLCC_Basic|
 |OOMP Index|oompIndex|RESE-0805-X-O333-01-R8O333-C17633|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O333-01-R8O333-C17633|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO3331R8O333C17633|
+|Hex ID (short code)|hexID|FZOOMPKJLCRESE85XO3331R8O333C17633|
 |name|name|oomlout_OOMP_JLCC_Basic : RESE-0805-X-O333-01-R8O333-C17633|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RESE-0805-X-O333-01-R8O333-C17633'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R8O333;PARTL C-JLCC;C17633;MANUF C-XXXX;0805W8F3302T5E; Resistor SMD 0805 (2012 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

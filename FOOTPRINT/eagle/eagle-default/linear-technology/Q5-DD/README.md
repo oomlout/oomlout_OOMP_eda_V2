@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-Q5-DD
 - Hex ID: FZELINEARTECHNOLOGYQ5DD
 - Name: linear-technology : Q5-DD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/Q5-DD/
 - Description: linear-technology : Q5-DD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-Q5-DD](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-Q5-DD)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYQ5DD](http://oom.lt/FZELINEARTECHNOLOGYQ5DD)

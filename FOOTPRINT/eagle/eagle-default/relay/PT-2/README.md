@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-PT-2
 - Hex ID: FZERELAYPT2
 - Name: relay : PT-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/PT-2/
 - Description: relay : PT-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PT-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PT-2)
 - Short Link: [http://oom.lt/FZERELAYPT2](http://oom.lt/FZERELAYPT2)

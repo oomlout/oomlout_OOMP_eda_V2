@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-allegro-DIL16
 - Hex ID: FZEALLEGRODIL16
 - Name: allegro : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/DIL16/
 - Description: allegro : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-DIL16)
 - Short Link: [http://oom.lt/FZEALLEGRODIL16](http://oom.lt/FZEALLEGRODIL16)

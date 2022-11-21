@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S50AN-TQG144
 - Hex ID: SZKFPGAXILINXXC3S5ANTQG144
 - Name: FPGA_Xilinx : XC3S50AN-TQG144
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC3S50AN-TQG144/
 - Description: FPGA_Xilinx : XC3S50AN-TQG144
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S50AN-TQG144](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S50AN-TQG144)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC3S5ANTQG144](http://oom.lt/SZKFPGAXILINXXC3S5ANTQG144)

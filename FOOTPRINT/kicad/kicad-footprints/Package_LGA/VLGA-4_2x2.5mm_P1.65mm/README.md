@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-VLGA-4_2x2.5mm_P1.65mm
 - Hex ID: FZKLGAVLGA42X25P165
 - Name: Package_LGA : VLGA-4_2x2.5mm_P1.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/VLGA-4_2x2.5mm_P1.65mm/
 - Description: Package_LGA : VLGA-4_2x2.5mm_P1.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-VLGA-4_2x2.5mm_P1.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-VLGA-4_2x2.5mm_P1.65mm)
 - Short Link: [http://oom.lt/FZKLGAVLGA42X25P165](http://oom.lt/FZKLGAVLGA42X25P165)

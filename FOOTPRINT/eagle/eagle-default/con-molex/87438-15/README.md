@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-87438-15
 - Hex ID: FZECONMX8743815
 - Name: con-molex : 87438-15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/87438-15/
 - Description: con-molex : 87438-15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-87438-15](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-87438-15)
 - Short Link: [http://oom.lt/FZECONMX8743815](http://oom.lt/FZECONMX8743815)

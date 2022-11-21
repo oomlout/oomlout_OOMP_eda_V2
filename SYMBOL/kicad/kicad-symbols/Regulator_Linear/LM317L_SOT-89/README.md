@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM317L_SOT-89
 - Hex ID: SZKREGULATORLINEARLM317LSOT89
 - Name: Regulator_Linear : LM317L_SOT-89
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM317L_SOT-89/
 - Description: Regulator_Linear : LM317L_SOT-89
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM317L_SOT-89](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM317L_SOT-89)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM317LSOT89](http://oom.lt/SZKREGULATORLINEARLM317LSOT89)

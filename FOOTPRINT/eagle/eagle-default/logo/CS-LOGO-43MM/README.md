@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-CS-LOGO-43MM
 - Hex ID: FZELCSL43
 - Name: logo : CS-LOGO-43MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/CS-LOGO-43MM/
 - Description: logo : CS-LOGO-43MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CS-LOGO-43MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CS-LOGO-43MM)
 - Short Link: [http://oom.lt/FZELCSL43](http://oom.lt/FZELCSL43)

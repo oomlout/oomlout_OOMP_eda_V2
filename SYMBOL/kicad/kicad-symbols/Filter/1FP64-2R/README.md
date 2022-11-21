@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-1FP64-2R
 - Hex ID: SZKFIL1FP642R
 - Name: Filter : 1FP64-2R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/1FP64-2R/
 - Description: Filter : 1FP64-2R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-1FP64-2R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-1FP64-2R)
 - Short Link: [http://oom.lt/SZKFIL1FP642R](http://oom.lt/SZKFIL1FP642R)

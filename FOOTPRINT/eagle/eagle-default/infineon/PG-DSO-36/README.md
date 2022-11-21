@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-36
 - Hex ID: FZEINFINEONPGDSO36
 - Name: infineon : PG-DSO-36
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon/PG-DSO-36/
 - Description: infineon : PG-DSO-36
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-36](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-36)
 - Short Link: [http://oom.lt/FZEINFINEONPGDSO36](http://oom.lt/FZEINFINEONPGDSO36)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT563
 - Hex ID: FZETRANSISTORNEUTO92SOT563
 - Name: transistor-neu-to92 : SOT563
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-neu-to92/SOT563/
 - Description: transistor-neu-to92 : SOT563
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT563](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT563)
 - Short Link: [http://oom.lt/FZETRANSISTORNEUTO92SOT563](http://oom.lt/FZETRANSISTORNEUTO92SOT563)

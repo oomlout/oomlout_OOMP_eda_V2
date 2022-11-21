@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-CJ432
 - Hex ID: SZKREFERENCEVOLTAGECJ432
 - Name: Reference_Voltage : CJ432
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/CJ432/
 - Description: Reference_Voltage : CJ432
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-CJ432](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-CJ432)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGECJ432](http://oom.lt/SZKREFERENCEVOLTAGECJ432)

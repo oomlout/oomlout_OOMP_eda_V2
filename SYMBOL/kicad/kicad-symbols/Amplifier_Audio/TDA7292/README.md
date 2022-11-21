@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7292
 - Hex ID: SZKAMPLIFIERAUDIOTDA7292
 - Name: Amplifier_Audio : TDA7292
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TDA7292/
 - Description: Amplifier_Audio : TDA7292
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7292](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7292)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTDA7292](http://oom.lt/SZKAMPLIFIERAUDIOTDA7292)

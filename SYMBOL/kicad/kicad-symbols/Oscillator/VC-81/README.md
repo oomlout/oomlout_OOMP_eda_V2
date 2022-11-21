@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-VC-81
 - Hex ID: SZKOCSVC81
 - Name: Oscillator : VC-81
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/VC-81/
 - Description: Oscillator : VC-81
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-VC-81](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-VC-81)
 - Short Link: [http://oom.lt/SZKOCSVC81](http://oom.lt/SZKOCSVC81)

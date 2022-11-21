@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIPPOWERINTEGRATIONSSM8B > Package_DIP : PowerIntegrations_SMD-8B](#fzkdippowerintegrationssm8b--package_dip--powerintegrations_smd-8b)
+* [FZKDPOWERINTEGRATIONSSM8B > Package_DIP : PowerIntegrations_SMD-8B](#fzkdpowerintegrationssm8b--package_dip--powerintegrations_smd-8b)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIPPOWERINTEGRATIONSSM8B > Package_DIP : PowerIntegrations_SMD-8B
+# FZKDPOWERINTEGRATIONSSM8B > Package_DIP : PowerIntegrations_SMD-8B
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_SMD-8B
-- Hex ID: FZKDIPPOWERINTEGRATIONSSM8B
+- Hex ID: FZKDPOWERINTEGRATIONSSM8B
 - Name: Package_DIP : PowerIntegrations_SMD-8B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/PowerIntegrations_SMD-8B/
 - Description: Package_DIP : PowerIntegrations_SMD-8B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_SMD-8B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_SMD-8B)
-- Short Link: [http://oom.lt/FZKDIPPOWERINTEGRATIONSSM8B](http://oom.lt/FZKDIPPOWERINTEGRATIONSSM8B)
+- Short Link: [http://oom.lt/FZKDPOWERINTEGRATIONSSM8B](http://oom.lt/FZKDPOWERINTEGRATIONSSM8B)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DIP|
 |OOMP Index|oompIndex|PowerIntegrations_SMD-8B|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_SMD-8B|
-|Hex ID (short code)|hexID|FZKDIPPOWERINTEGRATIONSSM8B|
+|Hex ID (short code)|hexID|FZKDPOWERINTEGRATIONSSM8B|
 |name|name|Package_DIP : PowerIntegrations_SMD-8B|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PowerIntegrations_SMD-8B'</td><td> 'description'</td></tr><tr><td> 'PowerIntegrations variant of 8-lead surface-mounted (SMD) DIP package</td><td> row spacing 7.62 mm (300 mils)</td><td> see https</td></tr><tr><td>//www.power.com/sites/default/files/product-docs/lnk520.pdf'</td><td> 'tags'</td></tr><tr><td> 'SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/PowerIntegrations_SMD-8B.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

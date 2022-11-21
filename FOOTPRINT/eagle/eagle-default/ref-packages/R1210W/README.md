@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESR121W > ref-packages : R1210W](#fzerefpackagesr121w--ref-packages--r1210w)
+* [FZEREFPSR121W > ref-packages : R1210W](#fzerefpsr121w--ref-packages--r1210w)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESR121W > ref-packages : R1210W
+# FZEREFPSR121W > ref-packages : R1210W
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-R1210W
-- Hex ID: FZEREFPACKAGESR121W
+- Hex ID: FZEREFPSR121W
 - Name: ref-packages : R1210W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/R1210W/
 - Description: ref-packages : R1210W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-R1210W](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-R1210W)
-- Short Link: [http://oom.lt/FZEREFPACKAGESR121W](http://oom.lt/FZEREFPACKAGESR121W)
+- Short Link: [http://oom.lt/FZEREFPSR121W](http://oom.lt/FZEREFPSR121W)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|R1210W|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-R1210W|
-|Hex ID (short code)|hexID|FZEREFPACKAGESR121W|
+|Hex ID (short code)|hexID|FZEREFPSR121W|
 |name|name|ref-packages : R1210W|
 ||||

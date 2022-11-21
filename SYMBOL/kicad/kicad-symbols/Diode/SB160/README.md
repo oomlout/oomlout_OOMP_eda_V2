@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SB160
 - Hex ID: SZKDIODESB16
 - Name: Diode : SB160
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SB160/
 - Description: Diode : SB160
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SB160](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SB160)
 - Short Link: [http://oom.lt/SZKDIODESB16](http://oom.lt/SZKDIODESB16)

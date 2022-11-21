@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-triac-TIC225S
 - Hex ID: FZETRIACTIC225S
 - Name: triac : TIC225S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/triac/TIC225S/
 - Description: triac : TIC225S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TIC225S](http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TIC225S)
 - Short Link: [http://oom.lt/FZETRIACTIC225S](http://oom.lt/FZETRIACTIC225S)

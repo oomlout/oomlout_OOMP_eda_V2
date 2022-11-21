@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-POWER-CHOKE_WE-TPC
 - Hex ID: FZERCLPOWERCHOKEWETPC
 - Name: rcl : POWER-CHOKE_WE-TPC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/POWER-CHOKE_WE-TPC/
 - Description: rcl : POWER-CHOKE_WE-TPC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-POWER-CHOKE_WE-TPC](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-POWER-CHOKE_WE-TPC)
 - Short Link: [http://oom.lt/FZERCLPOWERCHOKEWETPC](http://oom.lt/FZERCLPOWERCHOKEWETPC)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-harting-h-40H
 - Hex ID: FZECONHARTINGH4H
 - Name: con-harting-h : 40H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-harting-h/40H/
 - Description: con-harting-h : 40H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-h-40H](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-h-40H)
 - Short Link: [http://oom.lt/FZECONHARTINGH4H](http://oom.lt/FZECONHARTINGH4H)

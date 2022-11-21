@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-CFPS-72
 - Hex ID: SZKOCSCFPS72
 - Name: Oscillator : CFPS-72
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/CFPS-72/
 - Description: Oscillator : CFPS-72
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-CFPS-72](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-CFPS-72)
 - Short Link: [http://oom.lt/SZKOCSCFPS72](http://oom.lt/SZKOCSCFPS72)

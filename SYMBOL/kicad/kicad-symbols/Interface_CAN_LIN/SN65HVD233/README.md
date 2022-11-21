@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-SN65HVD233
 - Hex ID: SZKINTERFACECANLINSN65HVD233
 - Name: Interface_CAN_LIN : SN65HVD233
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/SN65HVD233/
 - Description: Interface_CAN_LIN : SN65HVD233
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-SN65HVD233](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-SN65HVD233)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINSN65HVD233](http://oom.lt/SZKINTERFACECANLINSN65HVD233)

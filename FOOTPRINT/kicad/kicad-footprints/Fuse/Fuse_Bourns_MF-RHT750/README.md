@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RHT750
 - Hex ID: FZKFUFUBOURNSMFRHT75
 - Name: Fuse : Fuse_Bourns_MF-RHT750
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-RHT750/
 - Description: Fuse : Fuse_Bourns_MF-RHT750
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RHT750](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RHT750)
 - Short Link: [http://oom.lt/FZKFUFUBOURNSMFRHT75](http://oom.lt/FZKFUFUBOURNSMFRHT75)

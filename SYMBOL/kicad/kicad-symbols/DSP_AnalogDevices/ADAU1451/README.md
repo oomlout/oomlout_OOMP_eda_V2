@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-DSP_AnalogDevices-ADAU1451
 - Hex ID: SZKDSPANALOGDEVICESADAU1451
 - Name: DSP_AnalogDevices : ADAU1451
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_AnalogDevices/ADAU1451/
 - Description: DSP_AnalogDevices : ADAU1451
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_AnalogDevices-ADAU1451](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_AnalogDevices-ADAU1451)
 - Short Link: [http://oom.lt/SZKDSPANALOGDEVICESADAU1451](http://oom.lt/SZKDSPANALOGDEVICESADAU1451)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-harting-v-64V
 - Hex ID: FZECONHARTINGV64V
 - Name: con-harting-v : 64V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-harting-v/64V/
 - Description: con-harting-v : 64V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-v-64V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-v-64V)
 - Short Link: [http://oom.lt/FZECONHARTINGV64V](http://oom.lt/FZECONHARTINGV64V)

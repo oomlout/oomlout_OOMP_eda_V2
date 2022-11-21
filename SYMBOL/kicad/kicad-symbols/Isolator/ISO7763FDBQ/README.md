@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ISO7763FDBQ
 - Hex ID: SZKISOLATORISO7763FDBQ
 - Name: Isolator : ISO7763FDBQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ISO7763FDBQ/
 - Description: Isolator : ISO7763FDBQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7763FDBQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7763FDBQ)
 - Short Link: [http://oom.lt/SZKISOLATORISO7763FDBQ](http://oom.lt/SZKISOLATORISO7763FDBQ)

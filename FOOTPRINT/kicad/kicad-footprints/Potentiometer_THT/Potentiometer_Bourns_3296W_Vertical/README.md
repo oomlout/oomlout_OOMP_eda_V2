@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPPOTENTIOMETERBOURNS3296WVERTICAL > Potentiometer_THT : Potentiometer_Bourns_3296W_Vertical](#fzkppotentiometerbourns3296wvertical--potentiometer_tht--potentiometer_bourns_3296w_vertical)
+* [FZKPPOTBOURNS3296WF > Potentiometer_THT : Potentiometer_Bourns_3296W_Vertical](#fzkppotbourns3296wf--potentiometer_tht--potentiometer_bourns_3296w_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPPOTENTIOMETERBOURNS3296WVERTICAL > Potentiometer_THT : Potentiometer_Bourns_3296W_Vertical
+# FZKPPOTBOURNS3296WF > Potentiometer_THT : Potentiometer_Bourns_3296W_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3296W_Vertical
-- Hex ID: FZKPPOTENTIOMETERBOURNS3296WVERTICAL
+- Hex ID: FZKPPOTBOURNS3296WF
 - Name: Potentiometer_THT : Potentiometer_Bourns_3296W_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3296W_Vertical/
 - Description: Potentiometer_THT : Potentiometer_Bourns_3296W_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3296W_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3296W_Vertical)
-- Short Link: [http://oom.lt/FZKPPOTENTIOMETERBOURNS3296WVERTICAL](http://oom.lt/FZKPPOTENTIOMETERBOURNS3296WVERTICAL)
+- Short Link: [http://oom.lt/FZKPPOTBOURNS3296WF](http://oom.lt/FZKPPOTBOURNS3296WF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_THT|
 |OOMP Index|oompIndex|Potentiometer_Bourns_3296W_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3296W_Vertical|
-|Hex ID (short code)|hexID|FZKPPOTENTIOMETERBOURNS3296WVERTICAL|
+|Hex ID (short code)|hexID|FZKPPOTBOURNS3296WF|
 |name|name|Potentiometer_THT : Potentiometer_Bourns_3296W_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_3296W_Vertical'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> Bourns 3296W</td><td> https</td></tr><tr><td>//www.bourns.com/pdfs/3296.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical Bourns 3296W'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

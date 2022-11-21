@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLCOILCRAFTLPS418 > Inductor_SMD : L_Coilcraft_LPS4018](#fzkinductorsmlcoilcraftlps418--inductor_smd--l_coilcraft_lps4018)
+* [FZKINLCOILCRAFTLPS418 > Inductor_SMD : L_Coilcraft_LPS4018](#fzkinlcoilcraftlps418--inductor_smd--l_coilcraft_lps4018)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLCOILCRAFTLPS418 > Inductor_SMD : L_Coilcraft_LPS4018
+# FZKINLCOILCRAFTLPS418 > Inductor_SMD : L_Coilcraft_LPS4018
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS4018
-- Hex ID: FZKINDUCTORSMLCOILCRAFTLPS418
+- Hex ID: FZKINLCOILCRAFTLPS418
 - Name: Inductor_SMD : L_Coilcraft_LPS4018
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Coilcraft_LPS4018/
 - Description: Inductor_SMD : L_Coilcraft_LPS4018
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS4018](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS4018)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLCOILCRAFTLPS418](http://oom.lt/FZKINDUCTORSMLCOILCRAFTLPS418)
+- Short Link: [http://oom.lt/FZKINLCOILCRAFTLPS418](http://oom.lt/FZKINLCOILCRAFTLPS418)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Coilcraft_LPS4018|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS4018|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLCOILCRAFTLPS418|
+|Hex ID (short code)|hexID|FZKINLCOILCRAFTLPS418|
 |name|name|Inductor_SMD : L_Coilcraft_LPS4018|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Coilcraft_LPS4018'</td><td> 'description'</td></tr><tr><td> 'SMD Inductor Coilcraft LPS4018 https</td></tr><tr><td>//www.coilcraft.com/pdfs/lps4018.pdf'</td><td> 'tags'</td></tr><tr><td> 'L Coilcraft LPS4018'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Coilcraft_LPS4018.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||

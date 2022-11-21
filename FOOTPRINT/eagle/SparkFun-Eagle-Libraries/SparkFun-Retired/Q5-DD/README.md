@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-Q5-DD
 - Hex ID: FZSRTQ5DD
 - Name: SparkFun-Retired : Q5-DD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/Q5-DD/
 - Description: SparkFun-Retired : Q5-DD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-Q5-DD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-Q5-DD)
 - Short Link: [http://oom.lt/FZSRTQ5DD](http://oom.lt/FZSRTQ5DD)

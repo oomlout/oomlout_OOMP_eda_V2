@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAW56S
 - Hex ID: SZKDIODEBAW56S
 - Name: Diode : BAW56S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAW56S/
 - Description: Diode : BAW56S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAW56S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAW56S)
 - Short Link: [http://oom.lt/SZKDIODEBAW56S](http://oom.lt/SZKDIODEBAW56S)

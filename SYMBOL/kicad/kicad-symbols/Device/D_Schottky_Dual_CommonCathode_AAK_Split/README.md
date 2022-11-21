@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonCathode_AAK_Split
 - Hex ID: SZKDEVICEDSCHOTTKYDUALCOONCATHODEAAKSPLIT
 - Name: Device : D_Schottky_Dual_CommonCathode_AAK_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_CommonCathode_AAK_Split/
 - Description: Device : D_Schottky_Dual_CommonCathode_AAK_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonCathode_AAK_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonCathode_AAK_Split)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYDUALCOONCATHODEAAKSPLIT](http://oom.lt/SZKDEVICEDSCHOTTKYDUALCOONCATHODEAAKSPLIT)

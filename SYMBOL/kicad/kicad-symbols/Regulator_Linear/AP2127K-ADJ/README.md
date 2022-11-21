@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127K-ADJ
 - Hex ID: SZKREGULATORLINEARAP2127KADJ
 - Name: Regulator_Linear : AP2127K-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP2127K-ADJ/
 - Description: Regulator_Linear : AP2127K-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127K-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127K-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP2127KADJ](http://oom.lt/SZKREGULATORLINEARAP2127KADJ)

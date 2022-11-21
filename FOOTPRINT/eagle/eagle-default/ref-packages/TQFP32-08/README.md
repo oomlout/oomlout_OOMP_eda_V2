@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESTQFP328 > ref-packages : TQFP32-08](#fzerefpackagestqfp328--ref-packages--tqfp32-08)
+* [FZEREFPSTQFP328 > ref-packages : TQFP32-08](#fzerefpstqfp328--ref-packages--tqfp32-08)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESTQFP328 > ref-packages : TQFP32-08
+# FZEREFPSTQFP328 > ref-packages : TQFP32-08
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-TQFP32-08
-- Hex ID: FZEREFPACKAGESTQFP328
+- Hex ID: FZEREFPSTQFP328
 - Name: ref-packages : TQFP32-08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/TQFP32-08/
 - Description: ref-packages : TQFP32-08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TQFP32-08](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TQFP32-08)
-- Short Link: [http://oom.lt/FZEREFPACKAGESTQFP328](http://oom.lt/FZEREFPACKAGESTQFP328)
+- Short Link: [http://oom.lt/FZEREFPSTQFP328](http://oom.lt/FZEREFPSTQFP328)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|TQFP32-08|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-TQFP32-08|
-|Hex ID (short code)|hexID|FZEREFPACKAGESTQFP328|
+|Hex ID (short code)|hexID|FZEREFPSTQFP328|
 |name|name|ref-packages : TQFP32-08|
 ||||

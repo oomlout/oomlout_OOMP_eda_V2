@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC6005
 - Hex ID: SZKDIODEBRIDGEVSKBPC65
 - Name: Diode_Bridge : VS-KBPC6005
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/VS-KBPC6005/
 - Description: Diode_Bridge : VS-KBPC6005
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC6005](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC6005)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEVSKBPC65](http://oom.lt/SZKDIODEBRIDGEVSKBPC65)

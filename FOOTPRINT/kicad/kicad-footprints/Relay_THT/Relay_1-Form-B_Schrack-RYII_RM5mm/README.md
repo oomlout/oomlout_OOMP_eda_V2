@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1-Form-B_Schrack-RYII_RM5mm
 - Hex ID: FZKRELRELAY1FORMBSCHRACKRYIIRM5
 - Name: Relay_THT : Relay_1-Form-B_Schrack-RYII_RM5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_1-Form-B_Schrack-RYII_RM5mm/
 - Description: Relay_THT : Relay_1-Form-B_Schrack-RYII_RM5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1-Form-B_Schrack-RYII_RM5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1-Form-B_Schrack-RYII_RM5mm)
 - Short Link: [http://oom.lt/FZKRELRELAY1FORMBSCHRACKRYIIRM5](http://oom.lt/FZKRELRELAY1FORMBSCHRACKRYIIRM5)

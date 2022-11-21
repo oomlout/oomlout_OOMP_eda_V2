@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-NANO_MODULE
 - Hex ID: FZSRFNANOMO
 - Name: SparkFun-RF : NANO_MODULE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/NANO_MODULE/
 - Description: SparkFun-RF : NANO_MODULE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-NANO_MODULE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-NANO_MODULE)
 - Short Link: [http://oom.lt/FZSRFNANOMO](http://oom.lt/FZSRFNANOMO)

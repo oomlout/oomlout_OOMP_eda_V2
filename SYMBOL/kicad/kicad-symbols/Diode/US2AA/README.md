@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-US2AA
 - Hex ID: SZKDIODEUS2AA
 - Name: Diode : US2AA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/US2AA/
 - Description: Diode : US2AA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2AA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2AA)
 - Short Link: [http://oom.lt/SZKDIODEUS2AA](http://oom.lt/SZKDIODEUS2AA)

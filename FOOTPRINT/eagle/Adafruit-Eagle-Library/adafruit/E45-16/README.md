@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E45-16
 - Hex ID: FZAE4516
 - Name: adafruit : E45-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E45-16/
 - Description: adafruit : E45-16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E45-16](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E45-16)
 - Short Link: [http://oom.lt/FZAE4516](http://oom.lt/FZAE4516)

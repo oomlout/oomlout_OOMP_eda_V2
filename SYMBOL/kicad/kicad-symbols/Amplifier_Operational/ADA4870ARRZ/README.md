@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4870ARRZ
 - Hex ID: SZKAMPLIFIEROPERATIONALADA487ARRZ
 - Name: Amplifier_Operational : ADA4870ARRZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4870ARRZ/
 - Description: Amplifier_Operational : ADA4870ARRZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4870ARRZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4870ARRZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA487ARRZ](http://oom.lt/SZKAMPLIFIEROPERATIONALADA487ARRZ)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-LIPO_TO_50
 - Hex ID: FZSBULIPOTO5
 - Name: SparkFun-Buzzard : LIPO_TO_50
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/LIPO_TO_50/
 - Description: SparkFun-Buzzard : LIPO_TO_50
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-LIPO_TO_50](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-LIPO_TO_50)
 - Short Link: [http://oom.lt/FZSBULIPOTO5](http://oom.lt/FZSBULIPOTO5)

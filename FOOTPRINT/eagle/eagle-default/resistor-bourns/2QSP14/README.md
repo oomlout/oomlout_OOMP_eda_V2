@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-bourns-2QSP14
 - Hex ID: FZERESISTORBOURNS2QSP14
 - Name: resistor-bourns : 2QSP14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-bourns/2QSP14/
 - Description: resistor-bourns : 2QSP14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-bourns-2QSP14](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-bourns-2QSP14)
 - Short Link: [http://oom.lt/FZERESISTORBOURNS2QSP14](http://oom.lt/FZERESISTORBOURNS2QSP14)

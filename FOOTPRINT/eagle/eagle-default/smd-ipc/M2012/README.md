@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-M2012
 - Hex ID: FZESMIPCM212
 - Name: smd-ipc : M2012
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/M2012/
 - Description: smd-ipc : M2012
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-M2012](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-M2012)
 - Short Link: [http://oom.lt/FZESMIPCM212](http://oom.lt/FZESMIPCM212)

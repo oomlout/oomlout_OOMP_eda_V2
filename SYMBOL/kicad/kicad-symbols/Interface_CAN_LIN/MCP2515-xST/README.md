@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2515-xST
 - Hex ID: SZKINTERFACECANLINMCP2515XST
 - Name: Interface_CAN_LIN : MCP2515-xST
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2515-xST/
 - Description: Interface_CAN_LIN : MCP2515-xST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2515-xST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2515-xST)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2515XST](http://oom.lt/SZKINTERFACECANLINMCP2515XST)

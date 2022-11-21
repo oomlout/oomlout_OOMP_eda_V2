@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OSRAM-MINI-TOP-LED
 - Hex ID: FZAOSRAMMTOPL
 - Name: adafruit : OSRAM-MINI-TOP-LED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/OSRAM-MINI-TOP-LED/
 - Description: adafruit : OSRAM-MINI-TOP-LED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OSRAM-MINI-TOP-LED](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OSRAM-MINI-TOP-LED)
 - Short Link: [http://oom.lt/FZAOSRAMMTOPL](http://oom.lt/FZAOSRAMMTOPL)

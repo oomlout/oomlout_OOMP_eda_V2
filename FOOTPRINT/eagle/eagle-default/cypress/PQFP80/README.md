@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-PQFP80
 - Hex ID: FZECYPRESSPQFP8
 - Name: cypress : PQFP80
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/PQFP80/
 - Description: cypress : PQFP80
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-PQFP80](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-PQFP80)
 - Short Link: [http://oom.lt/FZECYPRESSPQFP8](http://oom.lt/FZECYPRESSPQFP8)

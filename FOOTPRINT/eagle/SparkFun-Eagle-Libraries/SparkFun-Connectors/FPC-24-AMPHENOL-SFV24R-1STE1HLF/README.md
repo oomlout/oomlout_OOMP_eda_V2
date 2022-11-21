@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC-24-AMPHENOL-SFV24R-1STE1HLF
 - Hex ID: FZSSPARKFUNCNSFPC24AMPHENOLSFV24R1STE1HLF
 - Name: SparkFun-Connectors : FPC-24-AMPHENOL-SFV24R-1STE1HLF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/FPC-24-AMPHENOL-SFV24R-1STE1HLF/
 - Description: SparkFun-Connectors : FPC-24-AMPHENOL-SFV24R-1STE1HLF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC-24-AMPHENOL-SFV24R-1STE1HLF](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC-24-AMPHENOL-SFV24R-1STE1HLF)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSFPC24AMPHENOLSFV24R1STE1HLF](http://oom.lt/FZSSPARKFUNCNSFPC24AMPHENOLSFV24R1STE1HLF)

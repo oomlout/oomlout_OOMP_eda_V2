@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-NSR0340HT1G
 - Hex ID: SZKDIODENSR34HT1G
 - Name: Diode : NSR0340HT1G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/NSR0340HT1G/
 - Description: Diode : NSR0340HT1G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-NSR0340HT1G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-NSR0340HT1G)
 - Short Link: [http://oom.lt/SZKDIODENSR34HT1G](http://oom.lt/SZKDIODENSR34HT1G)

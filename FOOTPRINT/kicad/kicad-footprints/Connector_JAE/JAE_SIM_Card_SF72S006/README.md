@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_SIM_Card_SF72S006
 - Hex ID: FZKCNJAEJAESIMCARDSF72S6
 - Name: Connector_JAE : JAE_SIM_Card_SF72S006
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_SIM_Card_SF72S006/
 - Description: Connector_JAE : JAE_SIM_Card_SF72S006
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_SIM_Card_SF72S006](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_SIM_Card_SF72S006)
 - Short Link: [http://oom.lt/FZKCNJAEJAESIMCARDSF72S6](http://oom.lt/FZKCNJAEJAESIMCARDSF72S6)

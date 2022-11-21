@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-L6491
 - Hex ID: SZKDRIVERFETL6491
 - Name: Driver_FET : L6491
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/L6491/
 - Description: Driver_FET : L6491
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-L6491](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-L6491)
 - Short Link: [http://oom.lt/SZKDRIVERFETL6491](http://oom.lt/SZKDRIVERFETL6491)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1114FHN33-202
 - Hex ID: SZKMCUNXPLPCLPC1114FHN3322
 - Name: MCU_NXP_LPC : LPC1114FHN33-202
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1114FHN33-202/
 - Description: MCU_NXP_LPC : LPC1114FHN33-202
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1114FHN33-202](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1114FHN33-202)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC1114FHN3322](http://oom.lt/SZKMCUNXPLPCLPC1114FHN3322)

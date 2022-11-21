@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LTC3026-1
 - Hex ID: SZKREGULATORLINEARLTC3261
 - Name: Regulator_Linear : LTC3026-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LTC3026-1/
 - Description: Regulator_Linear : LTC3026-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LTC3026-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LTC3026-1)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLTC3261](http://oom.lt/SZKREGULATORLINEARLTC3261)

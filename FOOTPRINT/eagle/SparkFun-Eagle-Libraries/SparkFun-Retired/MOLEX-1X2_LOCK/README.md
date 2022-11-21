@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MOLEX-1X2_LOCK
 - Hex ID: FZSRTMX1X2L
 - Name: SparkFun-Retired : MOLEX-1X2_LOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/MOLEX-1X2_LOCK/
 - Description: SparkFun-Retired : MOLEX-1X2_LOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MOLEX-1X2_LOCK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MOLEX-1X2_LOCK)
 - Short Link: [http://oom.lt/FZSRTMX1X2L](http://oom.lt/FZSRTMX1X2L)

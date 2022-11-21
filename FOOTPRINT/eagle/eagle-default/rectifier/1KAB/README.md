@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-1KAB
 - Hex ID: FZERECTIFIER1KAB
 - Name: rectifier : 1KAB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/1KAB/
 - Description: rectifier : 1KAB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-1KAB](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-1KAB)
 - Short Link: [http://oom.lt/FZERECTIFIER1KAB](http://oom.lt/FZERECTIFIER1KAB)

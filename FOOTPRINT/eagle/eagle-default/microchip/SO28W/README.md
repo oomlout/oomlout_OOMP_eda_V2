@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-SO28W
 - Hex ID: FZEMCHIPSO28W
 - Name: microchip : SO28W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/SO28W/
 - Description: microchip : SO28W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SO28W](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SO28W)
 - Short Link: [http://oom.lt/FZEMCHIPSO28W](http://oom.lt/FZEMCHIPSO28W)

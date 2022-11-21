@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lsta-FE08
 - Hex ID: FZECONLSTAFE8
 - Name: con-lsta : FE08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lsta/FE08/
 - Description: con-lsta : FE08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-FE08](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lsta-FE08)
 - Short Link: [http://oom.lt/FZECONLSTAFE8](http://oom.lt/FZECONLSTAFE8)

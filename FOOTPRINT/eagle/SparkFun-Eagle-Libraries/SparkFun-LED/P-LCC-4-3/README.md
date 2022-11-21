@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-P-LCC-4-3
 - Hex ID: FZSLPLCC43
 - Name: SparkFun-LED : P-LCC-4-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/P-LCC-4-3/
 - Description: SparkFun-LED : P-LCC-4-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-P-LCC-4-3](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-P-LCC-4-3)
 - Short Link: [http://oom.lt/FZSLPLCC43](http://oom.lt/FZSLPLCC43)

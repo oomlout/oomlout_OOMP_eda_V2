@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9555D
 - Hex ID: SZKINTERFACEEXPANSIONPCA9555D
 - Name: Interface_Expansion : PCA9555D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCA9555D/
 - Description: Interface_Expansion : PCA9555D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9555D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9555D)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9555D](http://oom.lt/SZKINTERFACEEXPANSIONPCA9555D)

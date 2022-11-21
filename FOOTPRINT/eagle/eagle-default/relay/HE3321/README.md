@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-HE3321
 - Hex ID: FZERELAYHE3321
 - Name: relay : HE3321
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/HE3321/
 - Description: relay : HE3321
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-HE3321](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-HE3321)
 - Short Link: [http://oom.lt/FZERELAYHE3321](http://oom.lt/FZERELAYHE3321)

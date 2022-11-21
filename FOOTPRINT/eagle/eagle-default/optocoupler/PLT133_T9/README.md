@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-PLT133_T9
 - Hex ID: FZEOPTOCOUPLERPLT133T9
 - Name: optocoupler : PLT133_T9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/PLT133_T9/
 - Description: optocoupler : PLT133_T9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-PLT133_T9](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-PLT133_T9)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERPLT133T9](http://oom.lt/FZEOPTOCOUPLERPLT133T9)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-shunt-LOGO
 - Hex ID: FZERESISTORSHUNTL
 - Name: resistor-shunt : LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-shunt/LOGO/
 - Description: resistor-shunt : LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-LOGO](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-LOGO)
 - Short Link: [http://oom.lt/FZERESISTORSHUNTL](http://oom.lt/FZERESISTORSHUNTL)

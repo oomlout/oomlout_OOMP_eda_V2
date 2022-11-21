@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm
 - Hex ID: FZKSONWSON81EP4X4P8EP198X3
 - Name: Package_SON : WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm/
 - Description: Package_SON : WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm)
 - Short Link: [http://oom.lt/FZKSONWSON81EP4X4P8EP198X3](http://oom.lt/FZKSONWSON81EP4X4P8EP198X3)

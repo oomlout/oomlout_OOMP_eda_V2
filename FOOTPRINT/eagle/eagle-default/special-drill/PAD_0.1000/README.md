@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESPECIALDRILLPAD1 > special-drill : PAD_0.1000](#fzespecialdrillpad1--special-drill--pad_01000)
+* [FZESPECIALDRILLP1 > special-drill : PAD_0.1000](#fzespecialdrillp1--special-drill--pad_01000)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESPECIALDRILLPAD1 > special-drill : PAD_0.1000
+# FZESPECIALDRILLP1 > special-drill : PAD_0.1000
 
 - ID: FOOTPRINT-eagle-eagle-default-special-drill-PAD_0.1000
-- Hex ID: FZESPECIALDRILLPAD1
+- Hex ID: FZESPECIALDRILLP1
 - Name: special-drill : PAD_0.1000
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special-drill/PAD_0.1000/
 - Description: special-drill : PAD_0.1000
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-drill-PAD_0.1000](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-drill-PAD_0.1000)
-- Short Link: [http://oom.lt/FZESPECIALDRILLPAD1](http://oom.lt/FZESPECIALDRILLPAD1)
+- Short Link: [http://oom.lt/FZESPECIALDRILLP1](http://oom.lt/FZESPECIALDRILLP1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|special-drill|
 |OOMP Index|oompIndex|PAD_0.1000|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-special-drill-PAD_0.1000|
-|Hex ID (short code)|hexID|FZESPECIALDRILLPAD1|
+|Hex ID (short code)|hexID|FZESPECIALDRILLP1|
 |name|name|special-drill : PAD_0.1000|
 ||||

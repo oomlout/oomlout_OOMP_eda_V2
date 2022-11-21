@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-TO66
 - Hex ID: FZETRANSISTORTO66
 - Name: transistor : TO66
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/TO66/
 - Description: transistor : TO66
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO66](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO66)
 - Short Link: [http://oom.lt/FZETRANSISTORTO66](http://oom.lt/FZETRANSISTORTO66)

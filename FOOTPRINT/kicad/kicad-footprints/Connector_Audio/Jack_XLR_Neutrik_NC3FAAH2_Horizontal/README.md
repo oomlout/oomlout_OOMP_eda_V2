@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNAUDIOJXLRNEUTRIKNC3FAAH2HORIZONTAL > Connector_Audio : Jack_XLR_Neutrik_NC3FAAH2_Horizontal](#fzkcnaudiojxlrneutriknc3faah2horizontal--connector_audio--jack_xlr_neutrik_nc3faah2_horizontal)
+* [FZKCNAUDIOJXLRNEUTRIKNC3FAAH2H > Connector_Audio : Jack_XLR_Neutrik_NC3FAAH2_Horizontal](#fzkcnaudiojxlrneutriknc3faah2h--connector_audio--jack_xlr_neutrik_nc3faah2_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJXLRNEUTRIKNC3FAAH2HORIZONTAL > Connector_Audio : Jack_XLR_Neutrik_NC3FAAH2_Horizontal
+# FZKCNAUDIOJXLRNEUTRIKNC3FAAH2H > Connector_Audio : Jack_XLR_Neutrik_NC3FAAH2_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAAH2_Horizontal
-- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC3FAAH2HORIZONTAL
+- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC3FAAH2H
 - Name: Connector_Audio : Jack_XLR_Neutrik_NC3FAAH2_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3FAAH2_Horizontal/
 - Description: Connector_Audio : Jack_XLR_Neutrik_NC3FAAH2_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAAH2_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAAH2_Horizontal)
-- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAAH2HORIZONTAL](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAAH2HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAAH2H](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC3FAAH2H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_XLR_Neutrik_NC3FAAH2_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAAH2_Horizontal|
-|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC3FAAH2HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC3FAAH2H|
 |name|name|Connector_Audio : Jack_XLR_Neutrik_NC3FAAH2_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_XLR_Neutrik_NC3FAAH2_Horizontal'</td><td> 'description'</td></tr><tr><td> 'AA Series</td><td> 3 pole female XLR receptacle</td><td> grounding</td></tr><tr><td> separate ground contact to mating connector shell and front panel</td><td> horizontal PCB mount</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nc3faah2'</td><td> 'tags'</td></tr><tr><td> 'neutrik xlr aa'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3FAAH2_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

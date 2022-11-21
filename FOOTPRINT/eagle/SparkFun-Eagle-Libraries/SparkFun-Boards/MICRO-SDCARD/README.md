@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-MICRO-SDCARD
 - Hex ID: FZSBOMSDCARD
 - Name: SparkFun-Boards : MICRO-SDCARD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/MICRO-SDCARD/
 - Description: SparkFun-Boards : MICRO-SDCARD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-MICRO-SDCARD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-MICRO-SDCARD)
 - Short Link: [http://oom.lt/FZSBOMSDCARD](http://oom.lt/FZSBOMSDCARD)

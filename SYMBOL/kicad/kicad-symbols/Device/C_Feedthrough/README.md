@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-C_Feedthrough
 - Hex ID: SZKDEVICECFEEDTHROUGH
 - Name: Device : C_Feedthrough
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/C_Feedthrough/
 - Description: Device : C_Feedthrough
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Feedthrough](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Feedthrough)
 - Short Link: [http://oom.lt/SZKDEVICECFEEDTHROUGH](http://oom.lt/SZKDEVICECFEEDTHROUGH)

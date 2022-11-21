@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-L_Ferrite_Coupled_Small
 - Hex ID: SZKDEVICELFERRITECOUPLSLL
 - Name: Device : L_Ferrite_Coupled_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/L_Ferrite_Coupled_Small/
 - Description: Device : L_Ferrite_Coupled_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Ferrite_Coupled_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Ferrite_Coupled_Small)
 - Short Link: [http://oom.lt/SZKDEVICELFERRITECOUPLSLL](http://oom.lt/SZKDEVICELFERRITECOUPLSLL)

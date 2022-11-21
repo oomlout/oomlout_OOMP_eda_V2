@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4520-xP
 - Hex ID: SZKMCUMCHIPPIC18PIC18F452XP
 - Name: MCU_Microchip_PIC18 : PIC18F4520-xP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F4520-xP/
 - Description: MCU_Microchip_PIC18 : PIC18F4520-xP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4520-xP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4520-xP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F452XP](http://oom.lt/SZKMCUMCHIPPIC18PIC18F452XP)

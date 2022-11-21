@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A7200RGW
 - Hex ID: SZKREGULATORLINEARTPS7A72RGW
 - Name: Regulator_Linear : TPS7A7200RGW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS7A7200RGW/
 - Description: Regulator_Linear : TPS7A7200RGW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A7200RGW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A7200RGW)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7A72RGW](http://oom.lt/SZKREGULATORLINEARTPS7A72RGW)

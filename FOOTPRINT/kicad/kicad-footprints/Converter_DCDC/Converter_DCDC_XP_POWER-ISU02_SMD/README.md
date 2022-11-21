@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER-ISU02_SMD
 - Hex ID: FZKCONCONXPPOWERISU2SM
 - Name: Converter_DCDC : Converter_DCDC_XP_POWER-ISU02_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ISU02_SMD/
 - Description: Converter_DCDC : Converter_DCDC_XP_POWER-ISU02_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER-ISU02_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER-ISU02_SMD)
 - Short Link: [http://oom.lt/FZKCONCONXPPOWERISU2SM](http://oom.lt/FZKCONCONXPPOWERISU2SM)

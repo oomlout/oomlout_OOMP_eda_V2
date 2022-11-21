@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSO16LD > ref-packages-longpad : SO-16LD](#fzerefpackageslongpadso16ld--ref-packages-longpad--so-16ld)
+* [FZEREFPSLPSO16LD > ref-packages-longpad : SO-16LD](#fzerefpslpso16ld--ref-packages-longpad--so-16ld)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSO16LD > ref-packages-longpad : SO-16LD
+# FZEREFPSLPSO16LD > ref-packages-longpad : SO-16LD
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SO-16LD
-- Hex ID: FZEREFPACKAGESLONGPADSO16LD
+- Hex ID: FZEREFPSLPSO16LD
 - Name: ref-packages-longpad : SO-16LD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SO-16LD/
 - Description: ref-packages-longpad : SO-16LD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SO-16LD](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SO-16LD)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSO16LD](http://oom.lt/FZEREFPACKAGESLONGPADSO16LD)
+- Short Link: [http://oom.lt/FZEREFPSLPSO16LD](http://oom.lt/FZEREFPSLPSO16LD)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SO-16LD|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SO-16LD|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSO16LD|
+|Hex ID (short code)|hexID|FZEREFPSLPSO16LD|
 |name|name|ref-packages-longpad : SO-16LD|
 ||||

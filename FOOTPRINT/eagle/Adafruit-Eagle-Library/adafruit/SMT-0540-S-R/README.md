@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMT-0540-S-R
 - Hex ID: FZASMT54SR
 - Name: adafruit : SMT-0540-S-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SMT-0540-S-R/
 - Description: adafruit : SMT-0540-S-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMT-0540-S-R](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMT-0540-S-R)
 - Short Link: [http://oom.lt/FZASMT54SR](http://oom.lt/FZASMT54SR)

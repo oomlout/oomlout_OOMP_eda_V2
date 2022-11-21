@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CT3528
 - Hex ID: FZACT3528
 - Name: adafruit : CT3528
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CT3528/
 - Description: adafruit : CT3528
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CT3528](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CT3528)
 - Short Link: [http://oom.lt/FZACT3528](http://oom.lt/FZACT3528)

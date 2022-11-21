@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-VoltageDivider
 - Hex ID: SZKDEVICEVOLTAGEDIVIDER
 - Name: Device : VoltageDivider
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/VoltageDivider/
 - Description: Device : VoltageDivider
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-VoltageDivider](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-VoltageDivider)
 - Short Link: [http://oom.lt/SZKDEVICEVOLTAGEDIVIDER](http://oom.lt/SZKDEVICEVOLTAGEDIVIDER)

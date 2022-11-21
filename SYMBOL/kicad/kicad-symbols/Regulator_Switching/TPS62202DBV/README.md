@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGTPS6222DBV > Regulator_Switching : TPS62202DBV](#szkregulatorswitchingtps6222dbv--regulator_switching--tps62202dbv)
+* [SZKREGULATORSWINGTPS6222DBV > Regulator_Switching : TPS62202DBV](#szkregulatorswingtps6222dbv--regulator_switching--tps62202dbv)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGTPS6222DBV > Regulator_Switching : TPS62202DBV
+# SZKREGULATORSWINGTPS6222DBV > Regulator_Switching : TPS62202DBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62202DBV
-- Hex ID: SZKREGULATORSWITCHINGTPS6222DBV
+- Hex ID: SZKREGULATORSWINGTPS6222DBV
 - Name: Regulator_Switching : TPS62202DBV
 - Description: Regulator_Switching : TPS62202DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62202DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62202DBV)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS6222DBV](http://oom.lt/SZKREGULATORSWITCHINGTPS6222DBV)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGTPS6222DBV](http://oom.lt/SZKREGULATORSWINGTPS6222DBV)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|TPS62202DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62202DBV|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS6222DBV|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGTPS6222DBV|
 |name|name|Regulator_Switching : TPS62202DBV|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TPS62200DBV'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS62202DBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps62201.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Step-Down DC-DC Converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300mA High-Efficiency Step-Down DC-DC Converter</td><td> fixed 1.8V output voltage</td><td> 2.5-6V input voltage</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

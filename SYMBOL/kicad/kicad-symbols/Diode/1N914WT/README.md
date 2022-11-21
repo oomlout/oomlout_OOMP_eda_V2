@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N914WT
 - Hex ID: SZKDIODE1N914WT
 - Name: Diode : 1N914WT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N914WT/
 - Description: Diode : 1N914WT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N914WT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N914WT)
 - Short Link: [http://oom.lt/SZKDIODE1N914WT](http://oom.lt/SZKDIODE1N914WT)

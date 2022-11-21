@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_LL_1423
 - Hex ID: SZKDEVICEFILEMILL1423
 - Name: Device : Filter_EMI_LL_1423
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Filter_EMI_LL_1423/
 - Description: Device : Filter_EMI_LL_1423
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_LL_1423](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_LL_1423)
 - Short Link: [http://oom.lt/SZKDEVICEFILEMILL1423](http://oom.lt/SZKDEVICEFILEMILL1423)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-EL2001CN
 - Hex ID: SZKAMPLIFIERBUFFEREL21CN
 - Name: Amplifier_Buffer : EL2001CN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/EL2001CN/
 - Description: Amplifier_Buffer : EL2001CN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-EL2001CN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-EL2001CN)
 - Short Link: [http://oom.lt/SZKAMPLIFIERBUFFEREL21CN](http://oom.lt/SZKAMPLIFIERBUFFEREL21CN)

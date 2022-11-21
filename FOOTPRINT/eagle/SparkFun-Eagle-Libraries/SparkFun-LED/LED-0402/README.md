@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-0402
 - Hex ID: FZSLL42
 - Name: SparkFun-LED : LED-0402
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/LED-0402/
 - Description: SparkFun-LED : LED-0402
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-0402](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-0402)
 - Short Link: [http://oom.lt/FZSLL42](http://oom.lt/FZSLL42)

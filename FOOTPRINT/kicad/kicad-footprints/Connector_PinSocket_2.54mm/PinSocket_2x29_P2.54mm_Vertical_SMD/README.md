@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINSO254PINSO2X29P254VERTICALSM > Connector_PinSocket_2.54mm : PinSocket_2x29_P2.54mm_Vertical_SMD](#fzkcnpinso254pinso2x29p254verticalsm--connector_pinsocket_254mm--pinsocket_2x29_p254mm_vertical_smd)
+* [FZKCNPSO254PSO2X29P254FSM > Connector_PinSocket_2.54mm : PinSocket_2x29_P2.54mm_Vertical_SMD](#fzkcnpso254pso2x29p254fsm--connector_pinsocket_254mm--pinsocket_2x29_p254mm_vertical_smd)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINSO254PINSO2X29P254VERTICALSM > Connector_PinSocket_2.54mm : PinSocket_2x29_P2.54mm_Vertical_SMD
+# FZKCNPSO254PSO2X29P254FSM > Connector_PinSocket_2.54mm : PinSocket_2x29_P2.54mm_Vertical_SMD
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_2x29_P2.54mm_Vertical_SMD
-- Hex ID: FZKCNPINSO254PINSO2X29P254VERTICALSM
+- Hex ID: FZKCNPSO254PSO2X29P254FSM
 - Name: Connector_PinSocket_2.54mm : PinSocket_2x29_P2.54mm_Vertical_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_2.54mm/PinSocket_2x29_P2.54mm_Vertical_SMD/
 - Description: Connector_PinSocket_2.54mm : PinSocket_2x29_P2.54mm_Vertical_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_2x29_P2.54mm_Vertical_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_2x29_P2.54mm_Vertical_SMD)
-- Short Link: [http://oom.lt/FZKCNPINSO254PINSO2X29P254VERTICALSM](http://oom.lt/FZKCNPINSO254PINSO2X29P254VERTICALSM)
+- Short Link: [http://oom.lt/FZKCNPSO254PSO2X29P254FSM](http://oom.lt/FZKCNPSO254PSO2X29P254FSM)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinSocket_2.54mm|
 |OOMP Index|oompIndex|PinSocket_2x29_P2.54mm_Vertical_SMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_2x29_P2.54mm_Vertical_SMD|
-|Hex ID (short code)|hexID|FZKCNPINSO254PINSO2X29P254VERTICALSM|
+|Hex ID (short code)|hexID|FZKCNPSO254PSO2X29P254FSM|
 |name|name|Connector_PinSocket_2.54mm : PinSocket_2x29_P2.54mm_Vertical_SMD|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinSocket_2x29_P2.54mm_Vertical_SMD'</td><td> 'description'</td></tr><tr><td> 'surface-mounted straight socket strip</td><td> 2x29</td><td> 2.54mm pitch</td><td> double cols (from Kicad 4.0.7)</td><td> script generated'</td><td> 'tags'</td></tr><tr><td> 'Surface mounted socket strip SMD 2x29 2.54mm double row'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x29_P2.54mm_Vertical_SMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

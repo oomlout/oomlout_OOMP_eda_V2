@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C3640
 - Hex ID: FZERCLC364
 - Name: rcl : C3640
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C3640/
 - Description: rcl : C3640
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C3640](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C3640)
 - Short Link: [http://oom.lt/FZERCLC364](http://oom.lt/FZERCLC364)

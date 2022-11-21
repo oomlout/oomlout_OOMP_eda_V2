@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0207_2V
 - Hex ID: FZA272V
 - Name: adafruit : 0207_2V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0207_2V/
 - Description: adafruit : 0207_2V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0207_2V](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0207_2V)
 - Short Link: [http://oom.lt/FZA272V](http://oom.lt/FZA272V)

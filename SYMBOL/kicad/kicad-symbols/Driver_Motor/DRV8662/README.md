@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8662
 - Hex ID: SZKDRIVERMOTORDRV8662
 - Name: Driver_Motor : DRV8662
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8662/
 - Description: Driver_Motor : DRV8662
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8662](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8662)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV8662](http://oom.lt/SZKDRIVERMOTORDRV8662)

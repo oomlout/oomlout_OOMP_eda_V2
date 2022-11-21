@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON-6.8MM
 - Hex ID: FZSBBC68
 - Name: SparkFun-Batteries : BATTCON-6.8MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON-6.8MM/
 - Description: SparkFun-Batteries : BATTCON-6.8MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON-6.8MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON-6.8MM)
 - Short Link: [http://oom.lt/FZSBBC68](http://oom.lt/FZSBBC68)

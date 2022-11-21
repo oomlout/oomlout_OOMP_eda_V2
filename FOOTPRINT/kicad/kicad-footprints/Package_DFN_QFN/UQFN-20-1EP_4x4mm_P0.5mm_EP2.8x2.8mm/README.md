@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm
 - Hex ID: FZKDFNUQFN21EP4X4P5EP28X28
 - Name: Package_DFN_QFN : UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm/
 - Description: Package_DFN_QFN : UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm)
 - Short Link: [http://oom.lt/FZKDFNUQFN21EP4X4P5EP28X28](http://oom.lt/FZKDFNUQFN21EP4X4P5EP28X28)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-LQFP-48
 - Hex ID: FZSIVLQFP48
 - Name: SparkFun-IC-Conversion : LQFP-48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Conversion/LQFP-48/
 - Description: SparkFun-IC-Conversion : LQFP-48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-LQFP-48](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-LQFP-48)
 - Short Link: [http://oom.lt/FZSIVLQFP48](http://oom.lt/FZSIVLQFP48)

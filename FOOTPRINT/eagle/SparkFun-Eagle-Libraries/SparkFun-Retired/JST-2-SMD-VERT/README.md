@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-JST-2-SMD-VERT
 - Hex ID: FZSRTJST2SMVERT
 - Name: SparkFun-Retired : JST-2-SMD-VERT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/JST-2-SMD-VERT/
 - Description: SparkFun-Retired : JST-2-SMD-VERT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-JST-2-SMD-VERT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-JST-2-SMD-VERT)
 - Short Link: [http://oom.lt/FZSRTJST2SMVERT](http://oom.lt/FZSRTJST2SMVERT)

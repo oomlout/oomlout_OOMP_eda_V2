@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-ECP10P
 - Hex ID: FZEPOTECP1P
 - Name: pot : ECP10P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/ECP10P/
 - Description: pot : ECP10P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-ECP10P](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-ECP10P)
 - Short Link: [http://oom.lt/FZEPOTECP1P](http://oom.lt/FZEPOTECP1P)

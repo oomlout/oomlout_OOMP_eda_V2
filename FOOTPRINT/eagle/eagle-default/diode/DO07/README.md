@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO07
 - Hex ID: FZEDIODEDO7
 - Name: diode : DO07
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/DO07/
 - Description: diode : DO07
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO07](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO07)
 - Short Link: [http://oom.lt/FZEDIODEDO7](http://oom.lt/FZEDIODEDO7)

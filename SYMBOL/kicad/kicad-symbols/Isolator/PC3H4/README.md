@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-PC3H4
 - Hex ID: SZKISOLATORPC3H4
 - Name: Isolator : PC3H4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/PC3H4/
 - Description: Isolator : PC3H4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PC3H4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PC3H4)
 - Short Link: [http://oom.lt/SZKISOLATORPC3H4](http://oom.lt/SZKISOLATORPC3H4)

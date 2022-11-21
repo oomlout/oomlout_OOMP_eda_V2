@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C1210K
 - Hex ID: FZERCLC121K
 - Name: rcl : C1210K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C1210K/
 - Description: rcl : C1210K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C1210K](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C1210K)
 - Short Link: [http://oom.lt/FZERCLC121K](http://oom.lt/FZERCLC121K)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCH51POLE225 > switch : 50-1POLE22,5](#fzeswitch51pole225--switch--50-1pole225)
+* [FZESW51POLE225 > switch : 50-1POLE22,5](#fzesw51pole225--switch--50-1pole225)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCH51POLE225 > switch : 50-1POLE22,5
+# FZESW51POLE225 > switch : 50-1POLE22,5
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-50-1POLE22,5
-- Hex ID: FZESWITCH51POLE225
+- Hex ID: FZESW51POLE225
 - Name: switch : 50-1POLE22,5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/50-1POLE22,5/
 - Description: switch : 50-1POLE22,5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-50-1POLE22,5](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-50-1POLE22,5)
-- Short Link: [http://oom.lt/FZESWITCH51POLE225](http://oom.lt/FZESWITCH51POLE225)
+- Short Link: [http://oom.lt/FZESW51POLE225](http://oom.lt/FZESW51POLE225)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|50-1POLE22,5|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-50-1POLE22,5|
-|Hex ID (short code)|hexID|FZESWITCH51POLE225|
+|Hex ID (short code)|hexID|FZESW51POLE225|
 |name|name|switch : 50-1POLE22,5|
 ||||

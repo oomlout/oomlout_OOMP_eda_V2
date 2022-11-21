@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP3021
 - Hex ID: SZKISOLATORTLP321
 - Name: Isolator : TLP3021
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TLP3021/
 - Description: Isolator : TLP3021
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP3021](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP3021)
 - Short Link: [http://oom.lt/SZKISOLATORTLP321](http://oom.lt/SZKISOLATORTLP321)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-busbar-TE4_10
 - Hex ID: FZEBUARTE41
 - Name: busbar : TE4_10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/busbar/TE4_10/
 - Description: busbar : TE4_10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-busbar-TE4_10](http://oom.lt/FOOTPRINT-eagle-eagle-default-busbar-TE4_10)
 - Short Link: [http://oom.lt/FZEBUARTE41](http://oom.lt/FZEBUARTE41)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPPOTENTIOMETERPIHERPC16SINGLEVERTICAL > Potentiometer_THT : Potentiometer_Piher_PC-16_Single_Vertical](#fzkppotentiometerpiherpc16singlevertical--potentiometer_tht--potentiometer_piher_pc-16_single_vertical)
+* [FZKPPOTPIHERPC16SINGLEF > Potentiometer_THT : Potentiometer_Piher_PC-16_Single_Vertical](#fzkppotpiherpc16singlef--potentiometer_tht--potentiometer_piher_pc-16_single_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPPOTENTIOMETERPIHERPC16SINGLEVERTICAL > Potentiometer_THT : Potentiometer_Piher_PC-16_Single_Vertical
+# FZKPPOTPIHERPC16SINGLEF > Potentiometer_THT : Potentiometer_Piher_PC-16_Single_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PC-16_Single_Vertical
-- Hex ID: FZKPPOTENTIOMETERPIHERPC16SINGLEVERTICAL
+- Hex ID: FZKPPOTPIHERPC16SINGLEF
 - Name: Potentiometer_THT : Potentiometer_Piher_PC-16_Single_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PC-16_Single_Vertical/
 - Description: Potentiometer_THT : Potentiometer_Piher_PC-16_Single_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PC-16_Single_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PC-16_Single_Vertical)
-- Short Link: [http://oom.lt/FZKPPOTENTIOMETERPIHERPC16SINGLEVERTICAL](http://oom.lt/FZKPPOTENTIOMETERPIHERPC16SINGLEVERTICAL)
+- Short Link: [http://oom.lt/FZKPPOTPIHERPC16SINGLEF](http://oom.lt/FZKPPOTPIHERPC16SINGLEF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_THT|
 |OOMP Index|oompIndex|Potentiometer_Piher_PC-16_Single_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PC-16_Single_Vertical|
-|Hex ID (short code)|hexID|FZKPPOTENTIOMETERPIHERPC16SINGLEVERTICAL|
+|Hex ID (short code)|hexID|FZKPPOTPIHERPC16SINGLEF|
 |name|name|Potentiometer_THT : Potentiometer_Piher_PC-16_Single_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Piher_PC-16_Single_Vertical'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> Piher PC-16 Single</td><td> http</td></tr><tr><td>//www.piher-nacesa.com/pdf/20-PC16v03.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical Piher PC-16 Single'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Piher_PC-16_Single_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESK4A > ref-packages : K04A](#fzerefpackagesk4a--ref-packages--k04a)
+* [FZEREFPSK4A > ref-packages : K04A](#fzerefpsk4a--ref-packages--k04a)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESK4A > ref-packages : K04A
+# FZEREFPSK4A > ref-packages : K04A
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-K04A
-- Hex ID: FZEREFPACKAGESK4A
+- Hex ID: FZEREFPSK4A
 - Name: ref-packages : K04A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/K04A/
 - Description: ref-packages : K04A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-K04A](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-K04A)
-- Short Link: [http://oom.lt/FZEREFPACKAGESK4A](http://oom.lt/FZEREFPACKAGESK4A)
+- Short Link: [http://oom.lt/FZEREFPSK4A](http://oom.lt/FZEREFPSK4A)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|K04A|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-K04A|
-|Hex ID (short code)|hexID|FZEREFPACKAGESK4A|
+|Hex ID (short code)|hexID|FZEREFPSK4A|
 |name|name|ref-packages : K04A|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8610
 - Hex ID: SZKAMPLIFIEROPERATIONALAD861
 - Name: Amplifier_Operational : AD8610
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/AD8610/
 - Description: Amplifier_Operational : AD8610
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8610](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8610)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALAD861](http://oom.lt/SZKAMPLIFIEROPERATIONALAD861)

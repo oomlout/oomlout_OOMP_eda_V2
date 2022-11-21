@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-443B
 - Hex ID: SZKDICHARACTERHDSM443B
 - Name: Display_Character : HDSM-443B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/HDSM-443B/
 - Description: Display_Character : HDSM-443B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-443B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-443B)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSM443B](http://oom.lt/SZKDICHARACTERHDSM443B)

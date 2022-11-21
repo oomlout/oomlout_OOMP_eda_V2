@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2050-330-ESL
 - Hex ID: SZKINTERFACECANLINMCP2533ESL
 - Name: Interface_CAN_LIN : MCP2050-330-ESL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2050-330-ESL/
 - Description: Interface_CAN_LIN : MCP2050-330-ESL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2050-330-ESL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2050-330-ESL)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2533ESL](http://oom.lt/SZKINTERFACECANLINMCP2533ESL)

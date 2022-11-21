@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ES
 - Hex ID: FZSRTES
 - Name: SparkFun-Retired : ES
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/ES/
 - Description: SparkFun-Retired : ES
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ES](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ES)
 - Short Link: [http://oom.lt/FZSRTES](http://oom.lt/FZSRTES)

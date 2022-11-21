@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-UCC21520DW
 - Hex ID: SZKDRIVERFETUCC2152DW
 - Name: Driver_FET : UCC21520DW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/UCC21520DW/
 - Description: Driver_FET : UCC21520DW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-UCC21520DW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-UCC21520DW)
 - Short Link: [http://oom.lt/SZKDRIVERFETUCC2152DW](http://oom.lt/SZKDRIVERFETUCC2152DW)

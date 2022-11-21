@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PNA460XM
 - Hex ID: FZAPNA46XM
 - Name: adafruit : PNA460XM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PNA460XM/
 - Description: adafruit : PNA460XM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PNA460XM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PNA460XM)
 - Short Link: [http://oom.lt/FZAPNA46XM](http://oom.lt/FZAPNA46XM)

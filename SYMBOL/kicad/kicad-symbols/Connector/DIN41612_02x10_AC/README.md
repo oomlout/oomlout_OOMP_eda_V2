@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x10_AC
 - Hex ID: SZKCNDIN416122X1AC
 - Name: Connector : DIN41612_02x10_AC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x10_AC/
 - Description: Connector : DIN41612_02x10_AC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x10_AC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x10_AC)
 - Short Link: [http://oom.lt/SZKCNDIN416122X1AC](http://oom.lt/SZKCNDIN416122X1AC)

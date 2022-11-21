@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_BelFuse_0ZRE0100FF_L18.7mm_W5.1mm
 - Hex ID: FZKFUFUBELFUZRE1FFL187W51
 - Name: Fuse : Fuse_BelFuse_0ZRE0100FF_L18.7mm_W5.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0100FF_L18.7mm_W5.1mm/
 - Description: Fuse : Fuse_BelFuse_0ZRE0100FF_L18.7mm_W5.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_BelFuse_0ZRE0100FF_L18.7mm_W5.1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_BelFuse_0ZRE0100FF_L18.7mm_W5.1mm)
 - Short Link: [http://oom.lt/FZKFUFUBELFUZRE1FFL187W51](http://oom.lt/FZKFUFUBELFUZRE1FFL187W51)

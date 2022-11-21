@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPLCC124S > ref-packages : PLCC124S](#fzerefpackagesplcc124s--ref-packages--plcc124s)
+* [FZEREFPSPLCC124S > ref-packages : PLCC124S](#fzerefpsplcc124s--ref-packages--plcc124s)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPLCC124S > ref-packages : PLCC124S
+# FZEREFPSPLCC124S > ref-packages : PLCC124S
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-PLCC124S
-- Hex ID: FZEREFPACKAGESPLCC124S
+- Hex ID: FZEREFPSPLCC124S
 - Name: ref-packages : PLCC124S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/PLCC124S/
 - Description: ref-packages : PLCC124S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PLCC124S](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PLCC124S)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPLCC124S](http://oom.lt/FZEREFPACKAGESPLCC124S)
+- Short Link: [http://oom.lt/FZEREFPSPLCC124S](http://oom.lt/FZEREFPSPLCC124S)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|PLCC124S|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-PLCC124S|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPLCC124S|
+|Hex ID (short code)|hexID|FZEREFPSPLCC124S|
 |name|name|ref-packages : PLCC124S|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-HQ240
 - Hex ID: FZEXILINXXCVHQ24
 - Name: xilinx-xcv : HQ240
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/HQ240/
 - Description: xilinx-xcv : HQ240
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-HQ240](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-HQ240)
 - Short Link: [http://oom.lt/FZEXILINXXCVHQ24](http://oom.lt/FZEXILINXXCVHQ24)

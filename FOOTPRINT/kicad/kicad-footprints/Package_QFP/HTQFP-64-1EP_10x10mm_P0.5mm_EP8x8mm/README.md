@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm
 - Hex ID: FZKQFPHTQFP641EP1X1P5EP8X8
 - Name: Package_QFP : HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm/
 - Description: Package_QFP : HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm)
 - Short Link: [http://oom.lt/FZKQFPHTQFP641EP1X1P5EP8X8](http://oom.lt/FZKQFPHTQFP641EP1X1P5EP8X8)

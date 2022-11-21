@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-PE-FORM-A
 - Hex ID: FZERELAYPEFORMA
 - Name: relay : PE-FORM-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/PE-FORM-A/
 - Description: relay : PE-FORM-A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PE-FORM-A](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PE-FORM-A)
 - Short Link: [http://oom.lt/FZERELAYPEFORMA](http://oom.lt/FZERELAYPEFORMA)

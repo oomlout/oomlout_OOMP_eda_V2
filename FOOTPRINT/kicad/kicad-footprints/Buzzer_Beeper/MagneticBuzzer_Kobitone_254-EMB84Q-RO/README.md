@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_Kobitone_254-EMB84Q-RO
 - Hex ID: FZKBZMAGNETICBUZZERKOBITONE254EMB84QRO
 - Name: Buzzer_Beeper : MagneticBuzzer_Kobitone_254-EMB84Q-RO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_Kobitone_254-EMB84Q-RO/
 - Description: Buzzer_Beeper : MagneticBuzzer_Kobitone_254-EMB84Q-RO
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_Kobitone_254-EMB84Q-RO](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_Kobitone_254-EMB84Q-RO)
 - Short Link: [http://oom.lt/FZKBZMAGNETICBUZZERKOBITONE254EMB84QRO](http://oom.lt/FZKBZMAGNETICBUZZERKOBITONE254EMB84QRO)

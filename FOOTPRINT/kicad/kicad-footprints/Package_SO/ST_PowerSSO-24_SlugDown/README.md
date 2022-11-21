@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_PowerSSO-24_SlugDown
 - Hex ID: FZKSOSTPOWERSSO24SLUGDOWN
 - Name: Package_SO : ST_PowerSSO-24_SlugDown
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-24_SlugDown/
 - Description: Package_SO : ST_PowerSSO-24_SlugDown
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_PowerSSO-24_SlugDown](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_PowerSSO-24_SlugDown)
 - Short Link: [http://oom.lt/FZKSOSTPOWERSSO24SLUGDOWN](http://oom.lt/FZKSOSTPOWERSSO24SLUGDOWN)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonAnode_AKK_Parallel
 - Hex ID: SZKDEVICEDSCHOTTKYDUALCOONANODEAKKPARALLEL
 - Name: Device : D_Schottky_Dual_CommonAnode_AKK_Parallel
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_CommonAnode_AKK_Parallel/
 - Description: Device : D_Schottky_Dual_CommonAnode_AKK_Parallel
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonAnode_AKK_Parallel](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonAnode_AKK_Parallel)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYDUALCOONANODEAKKPARALLEL](http://oom.lt/SZKDEVICEDSCHOTTKYDUALCOONANODEAKKPARALLEL)

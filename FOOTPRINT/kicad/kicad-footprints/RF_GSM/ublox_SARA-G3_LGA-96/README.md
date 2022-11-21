@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GSM-ublox_SARA-G3_LGA-96
 - Hex ID: FZKGSMUBLOXSARAG3LGA96
 - Name: RF_GSM : ublox_SARA-G3_LGA-96
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/
 - Description: RF_GSM : ublox_SARA-G3_LGA-96
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GSM-ublox_SARA-G3_LGA-96](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GSM-ublox_SARA-G3_LGA-96)
 - Short Link: [http://oom.lt/FZKGSMUBLOXSARAG3LGA96](http://oom.lt/FZKGSMUBLOXSARAG3LGA96)

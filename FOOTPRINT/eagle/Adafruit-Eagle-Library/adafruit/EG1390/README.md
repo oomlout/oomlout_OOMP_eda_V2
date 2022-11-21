@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EG1390
 - Hex ID: FZAEG139
 - Name: adafruit : EG1390
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/EG1390/
 - Description: adafruit : EG1390
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EG1390](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EG1390)
 - Short Link: [http://oom.lt/FZAEG139](http://oom.lt/FZAEG139)

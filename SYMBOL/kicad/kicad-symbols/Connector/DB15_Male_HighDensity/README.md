@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB15_Male_HighDensity
 - Hex ID: SZKCNDB15MALEHIGHDENSITY
 - Name: Connector : DB15_Male_HighDensity
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DB15_Male_HighDensity/
 - Description: Connector : DB15_Male_HighDensity
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB15_Male_HighDensity](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB15_Male_HighDensity)
 - Short Link: [http://oom.lt/SZKCNDB15MALEHIGHDENSITY](http://oom.lt/SZKCNDB15MALEHIGHDENSITY)

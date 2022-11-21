@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-CP2104
 - Hex ID: SZKINTERFACEUCP214
 - Name: Interface_USB : CP2104
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CP2104/
 - Description: Interface_USB : CP2104
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CP2104](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CP2104)
 - Short Link: [http://oom.lt/SZKINTERFACEUCP214](http://oom.lt/SZKINTERFACEUCP214)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7202
 - Hex ID: SZKMEMORYRAMIDT722
 - Name: Memory_RAM : IDT7202
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT7202/
 - Description: Memory_RAM : IDT7202
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7202](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7202)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIDT722](http://oom.lt/SZKMEMORYRAMIDT722)

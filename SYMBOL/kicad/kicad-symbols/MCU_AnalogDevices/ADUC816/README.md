@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_AnalogDevices-ADUC816
 - Hex ID: SZKMCUANALOGDEVICESADUC816
 - Name: MCU_AnalogDevices : ADUC816
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_AnalogDevices/ADUC816/
 - Description: MCU_AnalogDevices : ADUC816
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_AnalogDevices-ADUC816](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_AnalogDevices-ADUC816)
 - Short Link: [http://oom.lt/SZKMCUANALOGDEVICESADUC816](http://oom.lt/SZKMCUANALOGDEVICESADUC816)

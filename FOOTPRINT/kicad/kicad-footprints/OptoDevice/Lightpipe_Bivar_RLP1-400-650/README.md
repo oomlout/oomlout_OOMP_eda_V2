@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Bivar_RLP1-400-650
 - Hex ID: FZKOPLIGHTPIPEBIVARRLP1465
 - Name: OptoDevice : Lightpipe_Bivar_RLP1-400-650
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Lightpipe_Bivar_RLP1-400-650/
 - Description: OptoDevice : Lightpipe_Bivar_RLP1-400-650
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Bivar_RLP1-400-650](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Bivar_RLP1-400-650)
 - Short Link: [http://oom.lt/FZKOPLIGHTPIPEBIVARRLP1465](http://oom.lt/FZKOPLIGHTPIPEBIVARRLP1465)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-TO-247-2H
 - Hex ID: FZERESISTORPOWERTO2472H
 - Name: resistor-power : TO-247-2H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/TO-247-2H/
 - Description: resistor-power : TO-247-2H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-TO-247-2H](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-TO-247-2H)
 - Short Link: [http://oom.lt/FZERESISTORPOWERTO2472H](http://oom.lt/FZERESISTORPOWERTO2472H)

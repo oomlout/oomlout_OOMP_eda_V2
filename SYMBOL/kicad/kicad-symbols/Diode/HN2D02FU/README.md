@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-HN2D02FU
 - Hex ID: SZKDIODEHN2D2FU
 - Name: Diode : HN2D02FU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/HN2D02FU/
 - Description: Diode : HN2D02FU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-HN2D02FU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-HN2D02FU)
 - Short Link: [http://oom.lt/SZKDIODEHN2D2FU](http://oom.lt/SZKDIODEHN2D2FU)

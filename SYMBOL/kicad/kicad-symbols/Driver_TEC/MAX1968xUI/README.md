@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_TEC-MAX1968xUI
 - Hex ID: SZKDRIVERTECMAX1968XUI
 - Name: Driver_TEC : MAX1968xUI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_TEC/MAX1968xUI/
 - Description: Driver_TEC : MAX1968xUI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_TEC-MAX1968xUI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_TEC-MAX1968xUI)
 - Short Link: [http://oom.lt/SZKDRIVERTECMAX1968XUI](http://oom.lt/SZKDRIVERTECMAX1968XUI)

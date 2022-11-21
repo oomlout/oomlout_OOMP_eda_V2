@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C512PLCC
 - Hex ID: SZKMEMORYEPROM27C512PLCC
 - Name: Memory_EPROM : 27C512PLCC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27C512PLCC/
 - Description: Memory_EPROM : 27C512PLCC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C512PLCC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C512PLCC)
 - Short Link: [http://oom.lt/SZKMEMORYEPROM27C512PLCC](http://oom.lt/SZKMEMORYEPROM27C512PLCC)

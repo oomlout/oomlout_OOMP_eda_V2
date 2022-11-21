@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHSKHMPXE1 > switch : SKHMPXE010](#fzeswitchskhmpxe1--switch--skhmpxe010)
+* [FZESWSKHMPXE1 > switch : SKHMPXE010](#fzeswskhmpxe1--switch--skhmpxe010)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHSKHMPXE1 > switch : SKHMPXE010
+# FZESWSKHMPXE1 > switch : SKHMPXE010
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-SKHMPXE010
-- Hex ID: FZESWITCHSKHMPXE1
+- Hex ID: FZESWSKHMPXE1
 - Name: switch : SKHMPXE010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/SKHMPXE010/
 - Description: switch : SKHMPXE010
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SKHMPXE010](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SKHMPXE010)
-- Short Link: [http://oom.lt/FZESWITCHSKHMPXE1](http://oom.lt/FZESWITCHSKHMPXE1)
+- Short Link: [http://oom.lt/FZESWSKHMPXE1](http://oom.lt/FZESWSKHMPXE1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|SKHMPXE010|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-SKHMPXE010|
-|Hex ID (short code)|hexID|FZESWITCHSKHMPXE1|
+|Hex ID (short code)|hexID|FZESWSKHMPXE1|
 |name|name|switch : SKHMPXE010|
 ||||

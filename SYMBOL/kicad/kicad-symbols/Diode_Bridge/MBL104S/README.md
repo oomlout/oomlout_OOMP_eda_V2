@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-MBL104S
 - Hex ID: SZKDIODEBRIDGEMBL14S
 - Name: Diode_Bridge : MBL104S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/MBL104S/
 - Description: Diode_Bridge : MBL104S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MBL104S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MBL104S)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEMBL14S](http://oom.lt/SZKDIODEBRIDGEMBL14S)

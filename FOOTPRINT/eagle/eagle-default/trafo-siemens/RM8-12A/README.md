@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-RM8-12A
 - Hex ID: FZETRAFOSIEMENSRM812A
 - Name: trafo-siemens : RM8-12A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo-siemens/RM8-12A/
 - Description: trafo-siemens : RM8-12A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM8-12A](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM8-12A)
 - Short Link: [http://oom.lt/FZETRAFOSIEMENSRM812A](http://oom.lt/FZETRAFOSIEMENSRM812A)

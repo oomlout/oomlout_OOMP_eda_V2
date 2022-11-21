@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-DIL08
 - Hex ID: FZERELAYDIL8
 - Name: relay : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/DIL08/
 - Description: relay : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-DIL08)
 - Short Link: [http://oom.lt/FZERELAYDIL8](http://oom.lt/FZERELAYDIL8)

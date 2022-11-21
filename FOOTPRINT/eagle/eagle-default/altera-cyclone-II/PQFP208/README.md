@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-cyclone-II-PQFP208
 - Hex ID: FZEALTERACYCLONEIIPQFP28
 - Name: altera-cyclone-II : PQFP208
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera-cyclone-II/PQFP208/
 - Description: altera-cyclone-II : PQFP208
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-cyclone-II-PQFP208](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-cyclone-II-PQFP208)
 - Short Link: [http://oom.lt/FZEALTERACYCLONEIIPQFP28](http://oom.lt/FZEALTERACYCLONEIIPQFP28)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSDS1 > inductors : DS10](#fzeinductorsds1--inductors--ds10)
+* [FZEINSDS1 > inductors : DS10](#fzeinsds1--inductors--ds10)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSDS1 > inductors : DS10
+# FZEINSDS1 > inductors : DS10
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-DS10
-- Hex ID: FZEINDUCTORSDS1
+- Hex ID: FZEINSDS1
 - Name: inductors : DS10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/DS10/
 - Description: inductors : DS10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-DS10](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-DS10)
-- Short Link: [http://oom.lt/FZEINDUCTORSDS1](http://oom.lt/FZEINDUCTORSDS1)
+- Short Link: [http://oom.lt/FZEINSDS1](http://oom.lt/FZEINSDS1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|DS10|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-DS10|
-|Hex ID (short code)|hexID|FZEINDUCTORSDS1|
+|Hex ID (short code)|hexID|FZEINSDS1|
 |name|name|inductors : DS10|
 ||||

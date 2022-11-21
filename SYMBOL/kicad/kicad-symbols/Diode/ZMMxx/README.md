@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-ZMMxx
 - Hex ID: SZKDIODEZXX
 - Name: Diode : ZMMxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/ZMMxx/
 - Description: Diode : ZMMxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-ZMMxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-ZMMxx)
 - Short Link: [http://oom.lt/SZKDIODEZXX](http://oom.lt/SZKDIODEZXX)

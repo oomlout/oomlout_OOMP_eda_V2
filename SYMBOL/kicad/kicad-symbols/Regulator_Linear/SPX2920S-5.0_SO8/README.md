@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920S-5.0_SO8
 - Hex ID: SZKREGULATORLINEARSPX292S5SO8
 - Name: Regulator_Linear : SPX2920S-5.0_SO8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/SPX2920S-5.0_SO8/
 - Description: Regulator_Linear : SPX2920S-5.0_SO8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920S-5.0_SO8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920S-5.0_SO8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARSPX292S5SO8](http://oom.lt/SZKREGULATORLINEARSPX292S5SO8)

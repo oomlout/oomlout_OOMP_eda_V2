@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC802
 - Hex ID: SZKDIODEBRIDGEVSKBPC82
 - Name: Diode_Bridge : VS-KBPC802
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/VS-KBPC802/
 - Description: Diode_Bridge : VS-KBPC802
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC802](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC802)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEVSKBPC82](http://oom.lt/SZKDIODEBRIDGEVSKBPC82)

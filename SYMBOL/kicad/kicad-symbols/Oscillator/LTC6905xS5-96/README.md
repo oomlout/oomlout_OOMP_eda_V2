@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-LTC6905xS5-96
 - Hex ID: SZKOCSLTC695XS596
 - Name: Oscillator : LTC6905xS5-96
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/LTC6905xS5-96/
 - Description: Oscillator : LTC6905xS5-96
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-LTC6905xS5-96](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-LTC6905xS5-96)
 - Short Link: [http://oom.lt/SZKOCSLTC695XS596](http://oom.lt/SZKOCSLTC695XS596)

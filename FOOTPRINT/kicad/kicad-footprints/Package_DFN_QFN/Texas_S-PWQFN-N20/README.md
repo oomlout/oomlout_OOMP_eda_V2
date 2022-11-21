@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N20
 - Hex ID: FZKDFNTEXASSPWQFNN2
 - Name: Package_DFN_QFN : Texas_S-PWQFN-N20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PWQFN-N20/
 - Description: Package_DFN_QFN : Texas_S-PWQFN-N20
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N20](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N20)
 - Short Link: [http://oom.lt/FZKDFNTEXASSPWQFNN2](http://oom.lt/FZKDFNTEXASSPWQFNN2)

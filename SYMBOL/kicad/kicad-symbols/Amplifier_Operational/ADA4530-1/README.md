@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4530-1
 - Hex ID: SZKAMPLIFIEROPERATIONALADA4531
 - Name: Amplifier_Operational : ADA4530-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4530-1/
 - Description: Amplifier_Operational : ADA4530-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4530-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4530-1)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA4531](http://oom.lt/SZKAMPLIFIEROPERATIONALADA4531)

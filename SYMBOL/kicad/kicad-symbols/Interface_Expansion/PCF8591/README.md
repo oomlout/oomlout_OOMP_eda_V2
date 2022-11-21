@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8591
 - Hex ID: SZKINTERFACEEXPANSIONPCF8591
 - Name: Interface_Expansion : PCF8591
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCF8591/
 - Description: Interface_Expansion : PCF8591
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8591](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8591)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCF8591](http://oom.lt/SZKINTERFACEEXPANSIONPCF8591)

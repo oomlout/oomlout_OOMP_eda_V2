@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-VO0631T
 - Hex ID: SZKISOLATORVO631T
 - Name: Isolator : VO0631T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/VO0631T/
 - Description: Isolator : VO0631T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO0631T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO0631T)
 - Short Link: [http://oom.lt/SZKISOLATORVO631T](http://oom.lt/SZKISOLATORVO631T)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-ebyelectro-5202-12-N-02
 - Hex ID: FZECONEBYELECTRO52212N2
 - Name: con-ebyelectro : 5202-12-N-02
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-ebyelectro/5202-12-N-02/
 - Description: con-ebyelectro : 5202-12-N-02
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ebyelectro-5202-12-N-02](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ebyelectro-5202-12-N-02)
 - Short Link: [http://oom.lt/FZECONEBYELECTRO52212N2](http://oom.lt/FZECONEBYELECTRO52212N2)

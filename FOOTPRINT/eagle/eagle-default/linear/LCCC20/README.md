@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-LCCC20
 - Hex ID: FZELINEARLCCC2
 - Name: linear : LCCC20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/LCCC20/
 - Description: linear : LCCC20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-LCCC20](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-LCCC20)
 - Short Link: [http://oom.lt/FZELINEARLCCC2](http://oom.lt/FZELINEARLCCC2)

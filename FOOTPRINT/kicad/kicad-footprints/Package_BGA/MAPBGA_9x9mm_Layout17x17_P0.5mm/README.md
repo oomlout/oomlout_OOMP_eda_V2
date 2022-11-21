@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-MAPBGA_9x9mm_Layout17x17_P0.5mm
 - Hex ID: FZKBGAMAPBGA9X9LAYOUT17X17P5
 - Name: Package_BGA : MAPBGA_9x9mm_Layout17x17_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/MAPBGA_9x9mm_Layout17x17_P0.5mm/
 - Description: Package_BGA : MAPBGA_9x9mm_Layout17x17_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-MAPBGA_9x9mm_Layout17x17_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-MAPBGA_9x9mm_Layout17x17_P0.5mm)
 - Short Link: [http://oom.lt/FZKBGAMAPBGA9X9LAYOUT17X17P5](http://oom.lt/FZKBGAMAPBGA9X9LAYOUT17X17P5)

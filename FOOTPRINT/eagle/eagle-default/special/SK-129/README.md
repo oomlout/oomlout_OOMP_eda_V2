@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-SK-129
 - Hex ID: FZESPECIALSK129
 - Name: special : SK-129
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/SK-129/
 - Description: special : SK-129
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SK-129](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SK-129)
 - Short Link: [http://oom.lt/FZESPECIALSK129](http://oom.lt/FZESPECIALSK129)

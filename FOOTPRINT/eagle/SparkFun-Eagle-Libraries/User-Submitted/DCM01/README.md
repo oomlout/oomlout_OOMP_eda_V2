@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-DCM01
 - Hex ID: FZSUDCM1
 - Name: User-Submitted : DCM01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/User-Submitted/DCM01/
 - Description: User-Submitted : DCM01
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-DCM01](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-DCM01)
 - Short Link: [http://oom.lt/FZSUDCM1](http://oom.lt/FZSUDCM1)

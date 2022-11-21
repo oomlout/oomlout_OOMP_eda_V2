@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L02x-xMS
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP6L2XXMS
 - Name: Amplifier_Operational : MCP6L02x-xMS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L02x-xMS/
 - Description: Amplifier_Operational : MCP6L02x-xMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L02x-xMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L02x-xMS)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L2XXMS](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L2XXMS)

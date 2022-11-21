@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_L8
 - Hex ID: FZKDFETDIRECTFETL8
 - Name: Package_DirectFET : DirectFET_L8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_L8/
 - Description: Package_DirectFET : DirectFET_L8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_L8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_L8)
 - Short Link: [http://oom.lt/FZKDFETDIRECTFETL8](http://oom.lt/FZKDFETDIRECTFETL8)

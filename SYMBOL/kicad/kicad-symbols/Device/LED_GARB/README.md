@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_GARB
 - Hex ID: SZKDEVICELGARB
 - Name: Device : LED_GARB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_GARB/
 - Description: Device : LED_GARB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GARB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GARB)
 - Short Link: [http://oom.lt/SZKDEVICELGARB](http://oom.lt/SZKDEVICELGARB)

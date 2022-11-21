@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-am29-memory-LOGO
 - Hex ID: FZEAM29MEMORYL
 - Name: am29-memory : LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/am29-memory/LOGO/
 - Description: am29-memory : LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-LOGO](http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-LOGO)
 - Short Link: [http://oom.lt/FZEAM29MEMORYL](http://oom.lt/FZEAM29MEMORYL)

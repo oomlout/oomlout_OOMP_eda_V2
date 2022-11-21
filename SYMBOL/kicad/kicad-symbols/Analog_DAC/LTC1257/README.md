@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-LTC1257
 - Hex ID: SZKANALOGDACLTC1257
 - Name: Analog_DAC : LTC1257
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/LTC1257/
 - Description: Analog_DAC : LTC1257
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-LTC1257](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-LTC1257)
 - Short Link: [http://oom.lt/SZKANALOGDACLTC1257](http://oom.lt/SZKANALOGDACLTC1257)

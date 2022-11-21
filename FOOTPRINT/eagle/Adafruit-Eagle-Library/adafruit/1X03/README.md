@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X03
 - Hex ID: FZA1X3
 - Name: adafruit : 1X03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X03/
 - Description: adafruit : 1X03
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X03](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X03)
 - Short Link: [http://oom.lt/FZA1X3](http://oom.lt/FZA1X3)

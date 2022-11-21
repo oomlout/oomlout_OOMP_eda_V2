@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lite-On_LTR-303ALS-01
 - Hex ID: FZKOPLITEONLTR33ALS1
 - Name: OptoDevice : Lite-On_LTR-303ALS-01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Lite-On_LTR-303ALS-01/
 - Description: OptoDevice : Lite-On_LTR-303ALS-01
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lite-On_LTR-303ALS-01](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lite-On_LTR-303ALS-01)
 - Short Link: [http://oom.lt/FZKOPLITEONLTR33ALS1](http://oom.lt/FZKOPLITEONLTR33ALS1)

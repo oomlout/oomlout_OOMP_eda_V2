@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-RELAY-G5Q
 - Hex ID: FZSRTRELAYG5Q
 - Name: SparkFun-Retired : RELAY-G5Q
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/RELAY-G5Q/
 - Description: SparkFun-Retired : RELAY-G5Q
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-RELAY-G5Q](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-RELAY-G5Q)
 - Short Link: [http://oom.lt/FZSRTRELAYG5Q](http://oom.lt/FZSRTRELAYG5Q)

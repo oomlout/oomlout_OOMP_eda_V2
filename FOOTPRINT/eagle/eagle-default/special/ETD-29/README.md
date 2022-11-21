@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-ETD-29
 - Hex ID: FZESPECIALETD29
 - Name: special : ETD-29
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/ETD-29/
 - Description: special : ETD-29
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-ETD-29](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-ETD-29)
 - Short Link: [http://oom.lt/FZESPECIALETD29](http://oom.lt/FZESPECIALETD29)

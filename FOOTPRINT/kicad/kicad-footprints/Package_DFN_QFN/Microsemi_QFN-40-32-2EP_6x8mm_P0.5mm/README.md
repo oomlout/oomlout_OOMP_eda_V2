@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm
 - Hex ID: FZKDFNMSEMIQFN4322EP6X8P5
 - Name: Package_DFN_QFN : Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm/
 - Description: Package_DFN_QFN : Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKDFNMSEMIQFN4322EP6X8P5](http://oom.lt/FZKDFNMSEMIQFN4322EP6X8P5)

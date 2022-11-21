@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SBC18-11SURKCGKWA
 - Hex ID: SZKDICHARACTERSBC1811SURKCGKWA
 - Name: Display_Character : SBC18-11SURKCGKWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/SBC18-11SURKCGKWA/
 - Description: Display_Character : SBC18-11SURKCGKWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SBC18-11SURKCGKWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SBC18-11SURKCGKWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSBC1811SURKCGKWA](http://oom.lt/SZKDICHARACTERSBC1811SURKCGKWA)

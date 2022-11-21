@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micronas-PLCC44
 - Hex ID: FZEMNASPLCC44
 - Name: micronas : PLCC44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micronas/PLCC44/
 - Description: micronas : PLCC44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micronas-PLCC44](http://oom.lt/FOOTPRINT-eagle-eagle-default-micronas-PLCC44)
 - Short Link: [http://oom.lt/FZEMNASPLCC44](http://oom.lt/FZEMNASPLCC44)

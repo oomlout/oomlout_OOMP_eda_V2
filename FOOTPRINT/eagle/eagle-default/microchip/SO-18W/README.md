@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-SO-18W
 - Hex ID: FZEMCHIPSO18W
 - Name: microchip : SO-18W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/SO-18W/
 - Description: microchip : SO-18W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SO-18W](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SO-18W)
 - Short Link: [http://oom.lt/FZEMCHIPSO18W](http://oom.lt/FZEMCHIPSO18W)

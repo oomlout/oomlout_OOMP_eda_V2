@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-PCM5121PW
 - Hex ID: SZKAUDIOPCM5121PW
 - Name: Audio : PCM5121PW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/PCM5121PW/
 - Description: Audio : PCM5121PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PCM5121PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PCM5121PW)
 - Short Link: [http://oom.lt/SZKAUDIOPCM5121PW](http://oom.lt/SZKAUDIOPCM5121PW)

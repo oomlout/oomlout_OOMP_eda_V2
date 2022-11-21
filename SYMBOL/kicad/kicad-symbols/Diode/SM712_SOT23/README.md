@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SM712_SOT23
 - Hex ID: SZKDIODESM712SOT23
 - Name: Diode : SM712_SOT23
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM712_SOT23/
 - Description: Diode : SM712_SOT23
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM712_SOT23](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM712_SOT23)
 - Short Link: [http://oom.lt/SZKDIODESM712SOT23](http://oom.lt/SZKDIODESM712SOT23)

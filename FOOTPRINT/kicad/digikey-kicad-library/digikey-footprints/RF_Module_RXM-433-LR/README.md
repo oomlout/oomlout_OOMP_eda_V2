@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMORXM433LR > digikey-footprints : RF_Module_RXM-433-LR](#fzkicaddigikeykicadlibrarydigikeyfootprintsrfmorxm433lr--digikey-footprints--rf_module_rxm-433-lr)
+* [FZDIGIDIGIKEYFOOTPRINTSRFMORXM433LR > digikey-footprints : RF_Module_RXM-433-LR](#fzdigidigikeyfootprintsrfmorxm433lr--digikey-footprints--rf_module_rxm-433-lr)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMORXM433LR > digikey-footprints : RF_Module_RXM-433-LR
+# FZDIGIDIGIKEYFOOTPRINTSRFMORXM433LR > digikey-footprints : RF_Module_RXM-433-LR
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_RXM-433-LR
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMORXM433LR
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFMORXM433LR
 - Name: digikey-footprints : RF_Module_RXM-433-LR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Module_RXM-433-LR/
 - Description: digikey-footprints : RF_Module_RXM-433-LR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_RXM-433-LR](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_RXM-433-LR)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMORXM433LR](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMORXM433LR)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMORXM433LR](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMORXM433LR)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|RF_Module_RXM-433-LR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_RXM-433-LR|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMORXM433LR|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSRFMORXM433LR|
 |name|name|digikey-footprints : RF_Module_RXM-433-LR|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RF_Module_RXM-433-LR'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.linxtechnologies.com/wp/wp-content/uploads/rxm-fff-lr.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

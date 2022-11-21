@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-HDSP-4850_2
 - Hex ID: SZKLHDSP4852
 - Name: LED : HDSP-4850_2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/HDSP-4850_2/
 - Description: LED : HDSP-4850_2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-HDSP-4850_2](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-HDSP-4850_2)
 - Short Link: [http://oom.lt/SZKLHDSP4852](http://oom.lt/SZKLHDSP4852)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPLCC1S > ref-packages : PLCC100S](#fzerefpackagesplcc1s--ref-packages--plcc100s)
+* [FZEREFPSPLCC1S > ref-packages : PLCC100S](#fzerefpsplcc1s--ref-packages--plcc100s)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPLCC1S > ref-packages : PLCC100S
+# FZEREFPSPLCC1S > ref-packages : PLCC100S
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-PLCC100S
-- Hex ID: FZEREFPACKAGESPLCC1S
+- Hex ID: FZEREFPSPLCC1S
 - Name: ref-packages : PLCC100S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/PLCC100S/
 - Description: ref-packages : PLCC100S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PLCC100S](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PLCC100S)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPLCC1S](http://oom.lt/FZEREFPACKAGESPLCC1S)
+- Short Link: [http://oom.lt/FZEREFPSPLCC1S](http://oom.lt/FZEREFPSPLCC1S)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|PLCC100S|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-PLCC100S|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPLCC1S|
+|Hex ID (short code)|hexID|FZEREFPSPLCC1S|
 |name|name|ref-packages : PLCC100S|
 ||||

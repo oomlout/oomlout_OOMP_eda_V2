@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO13M
 - Hex ID: FZADO13M
 - Name: adafruit : DO13M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/DO13M/
 - Description: adafruit : DO13M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO13M](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO13M)
 - Short Link: [http://oom.lt/FZADO13M](http://oom.lt/FZADO13M)

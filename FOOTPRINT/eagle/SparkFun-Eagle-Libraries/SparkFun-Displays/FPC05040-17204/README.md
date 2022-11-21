@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-FPC05040-17204
 - Hex ID: FZSSPARKFUNDISFPC541724
 - Name: SparkFun-Displays : FPC05040-17204
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/FPC05040-17204/
 - Description: SparkFun-Displays : FPC05040-17204
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-FPC05040-17204](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-FPC05040-17204)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISFPC541724](http://oom.lt/FZSSPARKFUNDISFPC541724)

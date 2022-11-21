@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-avago-PLCC44
 - Hex ID: FZEAVAGOPLCC44
 - Name: avago : PLCC44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/avago/PLCC44/
 - Description: avago : PLCC44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-avago-PLCC44](http://oom.lt/FOOTPRINT-eagle-eagle-default-avago-PLCC44)
 - Short Link: [http://oom.lt/FZEAVAGOPLCC44](http://oom.lt/FZEAVAGOPLCC44)

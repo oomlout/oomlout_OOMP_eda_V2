@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Dialog-DA14691
 - Hex ID: SZKMCUDIALOGDA14691
 - Name: MCU_Dialog : DA14691
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Dialog/DA14691/
 - Description: MCU_Dialog : DA14691
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Dialog-DA14691](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Dialog-DA14691)
 - Short Link: [http://oom.lt/SZKMCUDIALOGDA14691](http://oom.lt/SZKMCUDIALOGDA14691)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DIN-5
 - Hex ID: SZKCNDIN5
 - Name: Connector : DIN-5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DIN-5/
 - Description: Connector : DIN-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN-5)
 - Short Link: [http://oom.lt/SZKCNDIN5](http://oom.lt/SZKCNDIN5)

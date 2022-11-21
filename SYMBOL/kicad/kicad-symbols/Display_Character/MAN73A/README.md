@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-MAN73A
 - Hex ID: SZKDICHARACTERMAN73A
 - Name: Display_Character : MAN73A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/MAN73A/
 - Description: Display_Character : MAN73A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN73A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN73A)
 - Short Link: [http://oom.lt/SZKDICHARACTERMAN73A](http://oom.lt/SZKDICHARACTERMAN73A)

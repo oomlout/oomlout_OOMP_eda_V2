@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEC2-1219WI
 - Hex ID: SZKCONTEC21219WI
 - Name: Converter_DCDC : TEC2-1219WI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEC2-1219WI/
 - Description: Converter_DCDC : TEC2-1219WI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEC2-1219WI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEC2-1219WI)
 - Short Link: [http://oom.lt/SZKCONTEC21219WI](http://oom.lt/SZKCONTEC21219WI)

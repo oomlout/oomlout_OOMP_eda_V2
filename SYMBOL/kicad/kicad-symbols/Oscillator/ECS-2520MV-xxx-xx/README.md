@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-ECS-2520MV-xxx-xx
 - Hex ID: SZKOCSECS252MVXXXXX
 - Name: Oscillator : ECS-2520MV-xxx-xx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/ECS-2520MV-xxx-xx/
 - Description: Oscillator : ECS-2520MV-xxx-xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ECS-2520MV-xxx-xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ECS-2520MV-xxx-xx)
 - Short Link: [http://oom.lt/SZKOCSECS252MVXXXXX](http://oom.lt/SZKOCSECS252MVXXXXX)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV524xIQ4T
 - Hex ID: SZKAMPLIFIEROPERATIONALTSV524XIQ4T
 - Name: Amplifier_Operational : TSV524xIQ4T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV524xIQ4T/
 - Description: Amplifier_Operational : TSV524xIQ4T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV524xIQ4T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV524xIQ4T)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTSV524XIQ4T](http://oom.lt/SZKAMPLIFIEROPERATIONALTSV524XIQ4T)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-DKD_R-PDSO-G36
 - Hex ID: FZETEXASDKDRPDSOG36
 - Name: texas : DKD_R-PDSO-G36
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/DKD_R-PDSO-G36/
 - Description: texas : DKD_R-PDSO-G36
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DKD_R-PDSO-G36](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DKD_R-PDSO-G36)
 - Short Link: [http://oom.lt/FZETEXASDKDRPDSOG36](http://oom.lt/FZETEXASDKDRPDSOG36)

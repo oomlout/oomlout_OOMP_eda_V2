@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TRIMPOT-5MM-V2
 - Hex ID: FZSRTTRIMPOT5V2
 - Name: SparkFun-Retired : TRIMPOT-5MM-V2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TRIMPOT-5MM-V2/
 - Description: SparkFun-Retired : TRIMPOT-5MM-V2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TRIMPOT-5MM-V2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TRIMPOT-5MM-V2)
 - Short Link: [http://oom.lt/FZSRTTRIMPOT5V2](http://oom.lt/FZSRTTRIMPOT5V2)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNWUERTHWUERTHWRWTB6486116221X6P15VERTICAL > Connector_Wuerth : Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical](#fzkcnwuerthwuerthwrwtb6486116221x6p15vertical--connector_wuerth--wuerth_wr-wtb_64800611622_1x06_p150mm_vertical)
+* [FZKCNWUERTHWUERTHWRWTB6486116221X6P15F > Connector_Wuerth : Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical](#fzkcnwuerthwuerthwrwtb6486116221x6p15f--connector_wuerth--wuerth_wr-wtb_64800611622_1x06_p150mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNWUERTHWUERTHWRWTB6486116221X6P15VERTICAL > Connector_Wuerth : Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical
+# FZKCNWUERTHWUERTHWRWTB6486116221X6P15F > Connector_Wuerth : Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wuerth-Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical
-- Hex ID: FZKCNWUERTHWUERTHWRWTB6486116221X6P15VERTICAL
+- Hex ID: FZKCNWUERTHWUERTHWRWTB6486116221X6P15F
 - Name: Connector_Wuerth : Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wuerth/Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical/
 - Description: Connector_Wuerth : Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wuerth-Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wuerth-Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNWUERTHWUERTHWRWTB6486116221X6P15VERTICAL](http://oom.lt/FZKCNWUERTHWUERTHWRWTB6486116221X6P15VERTICAL)
+- Short Link: [http://oom.lt/FZKCNWUERTHWUERTHWRWTB6486116221X6P15F](http://oom.lt/FZKCNWUERTHWUERTHWRWTB6486116221X6P15F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Wuerth|
 |OOMP Index|oompIndex|Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Wuerth-Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNWUERTHWUERTHWRWTB6486116221X6P15VERTICAL|
+|Hex ID (short code)|hexID|FZKCNWUERTHWUERTHWRWTB6486116221X6P15F|
 |name|name|Connector_Wuerth : Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Wuerth WR-WTB series connector</td><td> 64800611622 (https</td></tr><tr><td>//katalog.we-online.com/em/datasheet/6480xx11622.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Wuerth WR-WTB vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Wuerth.3dshapes/Wuerth_WR-WTB_64800611622_1x06_P1.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

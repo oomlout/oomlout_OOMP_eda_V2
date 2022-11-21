@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM285Z-ADJ
 - Hex ID: SZKREFERENCEVOLTAGELM285ZADJ
 - Name: Reference_Voltage : LM285Z-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LM285Z-ADJ/
 - Description: Reference_Voltage : LM285Z-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM285Z-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM285Z-ADJ)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM285ZADJ](http://oom.lt/SZKREFERENCEVOLTAGELM285ZADJ)

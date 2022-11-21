@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-VFQFPN32
 - Hex ID: FZESTMELECTRONICSVFQFPN32
 - Name: st-microelectronics : VFQFPN32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/VFQFPN32/
 - Description: st-microelectronics : VFQFPN32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-VFQFPN32](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-VFQFPN32)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSVFQFPN32](http://oom.lt/FZESTMELECTRONICSVFQFPN32)

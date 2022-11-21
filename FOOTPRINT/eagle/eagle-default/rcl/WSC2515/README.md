@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-WSC2515
 - Hex ID: FZERCLWSC2515
 - Name: rcl : WSC2515
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/WSC2515/
 - Description: rcl : WSC2515
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-WSC2515](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-WSC2515)
 - Short Link: [http://oom.lt/FZERCLWSC2515](http://oom.lt/FZERCLWSC2515)

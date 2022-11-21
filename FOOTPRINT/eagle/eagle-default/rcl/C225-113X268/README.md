@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C225-113X268
 - Hex ID: FZERCLC225113X268
 - Name: rcl : C225-113X268
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C225-113X268/
 - Description: rcl : C225-113X268
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C225-113X268](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C225-113X268)
 - Short Link: [http://oom.lt/FZERCLC225113X268](http://oom.lt/FZERCLC225113X268)

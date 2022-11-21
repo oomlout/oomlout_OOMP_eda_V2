@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-V-REG_DPACK
 - Hex ID: FZSIPVREGDPACK
 - Name: SparkFun-IC-Power : V-REG_DPACK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/V-REG_DPACK/
 - Description: SparkFun-IC-Power : V-REG_DPACK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-V-REG_DPACK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-V-REG_DPACK)
 - Short Link: [http://oom.lt/FZSIPVREGDPACK](http://oom.lt/FZSIPVREGDPACK)

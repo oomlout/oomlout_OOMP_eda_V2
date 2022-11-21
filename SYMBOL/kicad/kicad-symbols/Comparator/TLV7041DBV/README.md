@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-TLV7041DBV
 - Hex ID: SZKCOMPARATORTLV741DBV
 - Name: Comparator : TLV7041DBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/TLV7041DBV/
 - Description: Comparator : TLV7041DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-TLV7041DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-TLV7041DBV)
 - Short Link: [http://oom.lt/SZKCOMPARATORTLV741DBV](http://oom.lt/SZKCOMPARATORTLV741DBV)

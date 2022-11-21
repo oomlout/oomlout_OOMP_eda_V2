@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-ESD-Logo_6.6x6mm_SilkScreen
 - Hex ID: FZKSZESDL66X6SILKSCREEN
 - Name: Symbol : ESD-Logo_6.6x6mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/ESD-Logo_6.6x6mm_SilkScreen/
 - Description: Symbol : ESD-Logo_6.6x6mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-ESD-Logo_6.6x6mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-ESD-Logo_6.6x6mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZESDL66X6SILKSCREEN](http://oom.lt/FZKSZESDL66X6SILKSCREEN)

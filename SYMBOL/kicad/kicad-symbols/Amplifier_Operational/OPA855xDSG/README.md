@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA855xDSG
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA855XDSG
 - Name: Amplifier_Operational : OPA855xDSG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA855xDSG/
 - Description: Amplifier_Operational : OPA855xDSG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA855xDSG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA855xDSG)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA855XDSG](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA855XDSG)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Jack-DC
 - Hex ID: SZKCNJDC
 - Name: Connector : Jack-DC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Jack-DC/
 - Description: Connector : Jack-DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Jack-DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Jack-DC)
 - Short Link: [http://oom.lt/SZKCNJDC](http://oom.lt/SZKCNJDC)

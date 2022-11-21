@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-R-28X40-324
 - Hex ID: FZESMIPCSQFPR28X4324
 - Name: smd-ipc : SQFP-R-28X40-324
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SQFP-R-28X40-324/
 - Description: smd-ipc : SQFP-R-28X40-324
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-R-28X40-324](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-R-28X40-324)
 - Short Link: [http://oom.lt/FZESMIPCSQFPR28X4324](http://oom.lt/FZESMIPCSQFPR28X4324)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO243AA > digikey-footprints : TO-243AA](#fzkicaddigikeykicadlibrarydigikeyfootprintsto243aa--digikey-footprints--to-243aa)
+* [FZDIGIDIGIKEYFOOTPRINTSTO243AA > digikey-footprints : TO-243AA](#fzdigidigikeyfootprintsto243aa--digikey-footprints--to-243aa)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO243AA > digikey-footprints : TO-243AA
+# FZDIGIDIGIKEYFOOTPRINTSTO243AA > digikey-footprints : TO-243AA
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-243AA
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO243AA
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSTO243AA
 - Name: digikey-footprints : TO-243AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-243AA/
 - Description: digikey-footprints : TO-243AA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-243AA](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-243AA)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO243AA](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO243AA)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO243AA](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSTO243AA)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|TO-243AA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-243AA|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO243AA|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSTO243AA|
 |name|name|digikey-footprints : TO-243AA|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-243AA'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.digikey.com/products/en?keywords=863-1063-1-ND'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-IOIO-OTG-COPPER-EXPOSED
 - Hex ID: FZSAIOIOOTGCEXPOSED
 - Name: SparkFun-Aesthetics : IOIO-OTG-COPPER-EXPOSED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/IOIO-OTG-COPPER-EXPOSED/
 - Description: SparkFun-Aesthetics : IOIO-OTG-COPPER-EXPOSED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-IOIO-OTG-COPPER-EXPOSED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-IOIO-OTG-COPPER-EXPOSED)
 - Short Link: [http://oom.lt/FZSAIOIOOTGCEXPOSED](http://oom.lt/FZSAIOIOOTGCEXPOSED)

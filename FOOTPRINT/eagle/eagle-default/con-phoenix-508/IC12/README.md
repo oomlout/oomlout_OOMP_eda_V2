@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-IC12
 - Hex ID: FZECONPHOENIX58IC12
 - Name: con-phoenix-508 : IC12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-508/IC12/
 - Description: con-phoenix-508 : IC12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-IC12](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-IC12)
 - Short Link: [http://oom.lt/FZECONPHOENIX58IC12](http://oom.lt/FZECONPHOENIX58IC12)

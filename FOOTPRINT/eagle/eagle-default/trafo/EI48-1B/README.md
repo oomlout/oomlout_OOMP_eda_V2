@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-EI48-1B
 - Hex ID: FZETRAFOEI481B
 - Name: trafo : EI48-1B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/EI48-1B/
 - Description: trafo : EI48-1B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EI48-1B](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EI48-1B)
 - Short Link: [http://oom.lt/FZETRAFOEI481B](http://oom.lt/FZETRAFOEI481B)

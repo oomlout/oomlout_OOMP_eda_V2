@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKGRAPHICSYMARROW45NORMAL > Graphic : SYM_Arrow45_Normal](#szkgraphicsymarrow45normal--graphic--sym_arrow45_normal)
+* [SZKGRAPHICSYMARR45NORMAL > Graphic : SYM_Arrow45_Normal](#szkgraphicsymarr45normal--graphic--sym_arrow45_normal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKGRAPHICSYMARROW45NORMAL > Graphic : SYM_Arrow45_Normal
+# SZKGRAPHICSYMARR45NORMAL > Graphic : SYM_Arrow45_Normal
 
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow45_Normal
-- Hex ID: SZKGRAPHICSYMARROW45NORMAL
+- Hex ID: SZKGRAPHICSYMARR45NORMAL
 - Name: Graphic : SYM_Arrow45_Normal
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow45_Normal/
 - Description: Graphic : SYM_Arrow45_Normal
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow45_Normal](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow45_Normal)
-- Short Link: [http://oom.lt/SZKGRAPHICSYMARROW45NORMAL](http://oom.lt/SZKGRAPHICSYMARROW45NORMAL)
+- Short Link: [http://oom.lt/SZKGRAPHICSYMARR45NORMAL](http://oom.lt/SZKGRAPHICSYMARR45NORMAL)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Graphic|
 |OOMP Index|oompIndex|SYM_Arrow45_Normal|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow45_Normal|
-|Hex ID (short code)|hexID|SZKGRAPHICSYMARROW45NORMAL|
+|Hex ID (short code)|hexID|SZKGRAPHICSYMARR45NORMAL|
 |name|name|Graphic : SYM_Arrow45_Normal|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#SYM'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SYM_Arrow45_Normal'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'symbol arrow angled 45Â°'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Filled 45Â° arrow</td><td> 200mil'</td></tr></table>]|
 ||||

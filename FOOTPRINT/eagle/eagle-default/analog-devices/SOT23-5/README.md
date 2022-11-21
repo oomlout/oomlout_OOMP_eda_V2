@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-SOT23-5
 - Hex ID: FZEANALOGDEVICESSOT235
 - Name: analog-devices : SOT23-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/SOT23-5/
 - Description: analog-devices : SOT23-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SOT23-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SOT23-5)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESSOT235](http://oom.lt/FZEANALOGDEVICESSOT235)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-sipex-SSOP20
 - Hex ID: FZESIPEXSS2
 - Name: sipex : SSOP20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/sipex/SSOP20/
 - Description: sipex : SSOP20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-sipex-SSOP20](http://oom.lt/FOOTPRINT-eagle-eagle-default-sipex-SSOP20)
 - Short Link: [http://oom.lt/FZESIPEXSS2](http://oom.lt/FZESIPEXSS2)

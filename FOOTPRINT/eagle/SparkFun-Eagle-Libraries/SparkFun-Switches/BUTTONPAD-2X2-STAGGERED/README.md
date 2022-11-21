@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSWBPAD2X2STAGGERED > SparkFun-Switches : BUTTONPAD-2X2-STAGGERED](#fzswbpad2x2staggered--sparkfun-switches--buttonpad-2x2-staggered)
+* [FZSWBP2X2STAGGERED > SparkFun-Switches : BUTTONPAD-2X2-STAGGERED](#fzswbp2x2staggered--sparkfun-switches--buttonpad-2x2-staggered)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSWBPAD2X2STAGGERED > SparkFun-Switches : BUTTONPAD-2X2-STAGGERED
+# FZSWBP2X2STAGGERED > SparkFun-Switches : BUTTONPAD-2X2-STAGGERED
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTONPAD-2X2-STAGGERED
-- Hex ID: FZSWBPAD2X2STAGGERED
+- Hex ID: FZSWBP2X2STAGGERED
 - Name: SparkFun-Switches : BUTTONPAD-2X2-STAGGERED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/BUTTONPAD-2X2-STAGGERED/
 - Description: SparkFun-Switches : BUTTONPAD-2X2-STAGGERED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTONPAD-2X2-STAGGERED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTONPAD-2X2-STAGGERED)
-- Short Link: [http://oom.lt/FZSWBPAD2X2STAGGERED](http://oom.lt/FZSWBPAD2X2STAGGERED)
+- Short Link: [http://oom.lt/FZSWBP2X2STAGGERED](http://oom.lt/FZSWBP2X2STAGGERED)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Switches|
 |OOMP Index|oompIndex|BUTTONPAD-2X2-STAGGERED|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTONPAD-2X2-STAGGERED|
-|Hex ID (short code)|hexID|FZSWBPAD2X2STAGGERED|
+|Hex ID (short code)|hexID|FZSWBP2X2STAGGERED|
 |name|name|SparkFun-Switches : BUTTONPAD-2X2-STAGGERED|
 ||||

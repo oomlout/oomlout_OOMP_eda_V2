@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO1367R4213A > oomlout_OOMP_parts : RESE-0402-X-O103-67-R42103A](#fzkicadoomloutoompkicadoomloutoomppartsrese42xo1367r4213a--oomlout_oomp_parts--rese-0402-x-o103-67-r42103a)
+* [FZOOMPKOOMPPRESE42XO1367R4213A > oomlout_OOMP_parts : RESE-0402-X-O103-67-R42103A](#fzoompkoompprese42xo1367r4213a--oomlout_oomp_parts--rese-0402-x-o103-67-r42103a)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO1367R4213A > oomlout_OOMP_parts : RESE-0402-X-O103-67-R42103A
+# FZOOMPKOOMPPRESE42XO1367R4213A > oomlout_OOMP_parts : RESE-0402-X-O103-67-R42103A
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O103-67-R42103A
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO1367R4213A
+- Hex ID: FZOOMPKOOMPPRESE42XO1367R4213A
 - Name: oomlout_OOMP_parts : RESE-0402-X-O103-67-R42103A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O103-67-R42103A/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O103-67-R42103A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O103-67-R42103A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O103-67-R42103A)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO1367R4213A](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO1367R4213A)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPRESE42XO1367R4213A](http://oom.lt/FZOOMPKOOMPPRESE42XO1367R4213A)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0402-X-O103-67-R42103A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O103-67-R42103A|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO1367R4213A|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPRESE42XO1367R4213A|
 |name|name|oomlout_OOMP_parts : RESE-0402-X-O103-67-R42103A|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RESE-0402-X-O103-67-R42103A'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R42103A; Resistor SMD 0402 (1005 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

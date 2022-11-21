@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TEL12-xxxx_THT
 - Hex ID: FZKCONCONTRACOTEL12XXXXTHT
 - Name: Converter_DCDC : Converter_DCDC_TRACO_TEL12-xxxx_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TEL12-xxxx_THT/
 - Description: Converter_DCDC : Converter_DCDC_TRACO_TEL12-xxxx_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TEL12-xxxx_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TEL12-xxxx_THT)
 - Short Link: [http://oom.lt/FZKCONCONTRACOTEL12XXXXTHT](http://oom.lt/FZKCONCONTRACOTEL12XXXXTHT)

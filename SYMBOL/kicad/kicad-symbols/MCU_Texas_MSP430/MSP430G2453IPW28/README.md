@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2453IPW28
 - Hex ID: SZKMCUTEXASMSP43MSP43G2453IPW28
 - Name: MCU_Texas_MSP430 : MSP430G2453IPW28
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430G2453IPW28/
 - Description: MCU_Texas_MSP430 : MSP430G2453IPW28
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2453IPW28](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2453IPW28)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43G2453IPW28](http://oom.lt/SZKMCUTEXASMSP43MSP43G2453IPW28)

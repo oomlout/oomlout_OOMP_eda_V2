@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VH580T-FLG1155
 - Hex ID: SZKFPGAXILINXVIRTEX7XC7VH58TFLG1155
 - Name: FPGA_Xilinx_Virtex7 : XC7VH580T-FLG1155
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VH580T-FLG1155/
 - Description: FPGA_Xilinx_Virtex7 : XC7VH580T-FLG1155
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VH580T-FLG1155](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VH580T-FLG1155)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VH58TFLG1155](http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VH58TFLG1155)

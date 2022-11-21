@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ESP32_THING_NO_ANT
 - Hex ID: FZSBOESP32THINGNOANT
 - Name: SparkFun-Boards : ESP32_THING_NO_ANT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/ESP32_THING_NO_ANT/
 - Description: SparkFun-Boards : ESP32_THING_NO_ANT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ESP32_THING_NO_ANT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ESP32_THING_NO_ANT)
 - Short Link: [http://oom.lt/FZSBOESP32THINGNOANT](http://oom.lt/FZSBOESP32THINGNOANT)

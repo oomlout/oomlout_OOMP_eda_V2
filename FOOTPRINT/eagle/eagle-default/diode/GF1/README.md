@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-GF1
 - Hex ID: FZEDIODEGF1
 - Name: diode : GF1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/GF1/
 - Description: diode : GF1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-GF1](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-GF1)
 - Short Link: [http://oom.lt/FZEDIODEGF1](http://oom.lt/FZEDIODEGF1)

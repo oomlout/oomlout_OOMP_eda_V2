@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R1210W
 - Hex ID: FZAR121W
 - Name: adafruit : R1210W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/R1210W/
 - Description: adafruit : R1210W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R1210W](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R1210W)
 - Short Link: [http://oom.lt/FZAR121W](http://oom.lt/FZAR121W)

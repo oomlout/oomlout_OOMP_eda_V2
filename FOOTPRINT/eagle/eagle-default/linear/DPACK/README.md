@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-DPACK
 - Hex ID: FZELINEARDPACK
 - Name: linear : DPACK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/DPACK/
 - Description: linear : DPACK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-DPACK](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-DPACK)
 - Short Link: [http://oom.lt/FZELINEARDPACK](http://oom.lt/FZELINEARDPACK)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11122xTI
 - Hex ID: SZKANALOGADCMAX11122XTI
 - Name: Analog_ADC : MAX11122xTI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11122xTI/
 - Description: Analog_ADC : MAX11122xTI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11122xTI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11122xTI)
 - Short Link: [http://oom.lt/SZKANALOGADCMAX11122XTI](http://oom.lt/SZKANALOGADCMAX11122XTI)

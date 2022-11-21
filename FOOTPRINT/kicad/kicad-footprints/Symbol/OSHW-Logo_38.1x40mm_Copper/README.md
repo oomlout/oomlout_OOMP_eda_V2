@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_38.1x40mm_Copper
 - Hex ID: FZKSZOSHWL381X4C
 - Name: Symbol : OSHW-Logo_38.1x40mm_Copper
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_38.1x40mm_Copper/
 - Description: Symbol : OSHW-Logo_38.1x40mm_Copper
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_38.1x40mm_Copper](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_38.1x40mm_Copper)
 - Short Link: [http://oom.lt/FZKSZOSHWL381X4C](http://oom.lt/FZKSZOSHWL381X4C)

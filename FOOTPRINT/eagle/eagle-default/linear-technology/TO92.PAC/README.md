@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-TO92.PAC
 - Hex ID: FZELINEARTECHNOLOGYTO92PAC
 - Name: linear-technology : TO92.PAC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/TO92.PAC/
 - Description: linear-technology : TO92.PAC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-TO92.PAC](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-TO92.PAC)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYTO92PAC](http://oom.lt/FZELINEARTECHNOLOGYTO92PAC)

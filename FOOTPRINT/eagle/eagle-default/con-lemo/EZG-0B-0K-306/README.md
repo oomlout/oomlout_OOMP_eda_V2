@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lemo-EZG-0B-0K-306
 - Hex ID: FZECONLEMOEZGBK36
 - Name: con-lemo : EZG-0B-0K-306
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lemo/EZG-0B-0K-306/
 - Description: con-lemo : EZG-0B-0K-306
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lemo-EZG-0B-0K-306](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lemo-EZG-0B-0K-306)
 - Short Link: [http://oom.lt/FZECONLEMOEZGBK36](http://oom.lt/FZECONLEMOEZGBK36)

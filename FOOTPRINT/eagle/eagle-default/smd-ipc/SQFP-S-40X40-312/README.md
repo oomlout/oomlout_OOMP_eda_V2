@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-40X40-312
 - Hex ID: FZESMIPCSQFPS4X4312
 - Name: smd-ipc : SQFP-S-40X40-312
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SQFP-S-40X40-312/
 - Description: smd-ipc : SQFP-S-40X40-312
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-40X40-312](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-40X40-312)
 - Short Link: [http://oom.lt/FZESMIPCSQFPS4X4312](http://oom.lt/FZESMIPCSQFPS4X4312)

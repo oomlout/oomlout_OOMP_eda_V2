@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNBARRELJBARRELJSWITCHCRAFTCONXALLRAPC1UHORIZONTAL > Connector_BarrelJack : BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal](#fzkcnbarreljbarreljswitchcraftconxallrapc1uhorizontal--connector_barreljack--barreljack_switchcraftconxall_rapc10u_horizontal)
+* [FZKCNBARRELJBARRELJSWCRAFTCONXALLRAPC1UH > Connector_BarrelJack : BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal](#fzkcnbarreljbarreljswcraftconxallrapc1uh--connector_barreljack--barreljack_switchcraftconxall_rapc10u_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNBARRELJBARRELJSWITCHCRAFTCONXALLRAPC1UHORIZONTAL > Connector_BarrelJack : BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal
+# FZKCNBARRELJBARRELJSWCRAFTCONXALLRAPC1UH > Connector_BarrelJack : BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal
-- Hex ID: FZKCNBARRELJBARRELJSWITCHCRAFTCONXALLRAPC1UHORIZONTAL
+- Hex ID: FZKCNBARRELJBARRELJSWCRAFTCONXALLRAPC1UH
 - Name: Connector_BarrelJack : BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal/
 - Description: Connector_BarrelJack : BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal)
-- Short Link: [http://oom.lt/FZKCNBARRELJBARRELJSWITCHCRAFTCONXALLRAPC1UHORIZONTAL](http://oom.lt/FZKCNBARRELJBARRELJSWITCHCRAFTCONXALLRAPC1UHORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNBARRELJBARRELJSWCRAFTCONXALLRAPC1UH](http://oom.lt/FZKCNBARRELJBARRELJSWCRAFTCONXALLRAPC1UH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_BarrelJack|
 |OOMP Index|oompIndex|BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal|
-|Hex ID (short code)|hexID|FZKCNBARRELJBARRELJSWITCHCRAFTCONXALLRAPC1UHORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNBARRELJBARRELJSWCRAFTCONXALLRAPC1UH|
 |name|name|Connector_BarrelJack : BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal'</td><td> 'description'</td></tr><tr><td> 'DC Power Jack</td><td> 13A</td><td> 24V</td><td> Panel Mount</td><td>Through-hole</td><td> https</td></tr><tr><td>//www.switchcraft.com/Drawings/RAPC10U_CD.pdf'</td><td> 'tags'</td></tr><tr><td> 'barreljack switchcraftconxall dc power'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_BarrelJack.3dshapes/BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

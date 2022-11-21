@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM321
 - Hex ID: SZKAMPLIFIEROPERATIONALLM321
 - Name: Amplifier_Operational : LM321
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM321/
 - Description: Amplifier_Operational : LM321
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM321](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM321)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM321](http://oom.lt/SZKAMPLIFIEROPERATIONALLM321)

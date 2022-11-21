@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-QFP44
 - Hex ID: FZEMINTELQFP44
 - Name: micro-intel : QFP44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/QFP44/
 - Description: micro-intel : QFP44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-QFP44](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-QFP44)
 - Short Link: [http://oom.lt/FZEMINTELQFP44](http://oom.lt/FZEMINTELQFP44)

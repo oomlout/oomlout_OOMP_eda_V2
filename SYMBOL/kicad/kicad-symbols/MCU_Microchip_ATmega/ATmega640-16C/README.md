@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega640-16C
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA6416C
 - Name: MCU_Microchip_ATmega : ATmega640-16C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega640-16C/
 - Description: MCU_Microchip_ATmega : ATmega640-16C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega640-16C](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega640-16C)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA6416C](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA6416C)

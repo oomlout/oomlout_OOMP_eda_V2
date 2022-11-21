@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG1020EH
 - Hex ID: SZKDIODEPMEG12EH
 - Name: Diode : PMEG1020EH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG1020EH/
 - Description: Diode : PMEG1020EH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG1020EH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG1020EH)
 - Short Link: [http://oom.lt/SZKDIODEPMEG12EH](http://oom.lt/SZKDIODEPMEG12EH)

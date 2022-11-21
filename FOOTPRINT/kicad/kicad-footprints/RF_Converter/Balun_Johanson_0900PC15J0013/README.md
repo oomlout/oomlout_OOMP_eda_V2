@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Converter-Balun_Johanson_0900PC15J0013
 - Hex ID: FZKRFBALUNJOHANSON9PC15J13
 - Name: RF_Converter : Balun_Johanson_0900PC15J0013
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Converter/Balun_Johanson_0900PC15J0013/
 - Description: RF_Converter : Balun_Johanson_0900PC15J0013
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Converter-Balun_Johanson_0900PC15J0013](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Converter-Balun_Johanson_0900PC15J0013)
 - Short Link: [http://oom.lt/FZKRFBALUNJOHANSON9PC15J13](http://oom.lt/FZKRFBALUNJOHANSON9PC15J13)

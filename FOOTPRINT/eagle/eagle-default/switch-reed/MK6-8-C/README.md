@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHREEDMK68C > switch-reed : MK6-8-C](#fzeswitchreedmk68c--switch-reed--mk6-8-c)
+* [FZESWREEDMK68C > switch-reed : MK6-8-C](#fzeswreedmk68c--switch-reed--mk6-8-c)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHREEDMK68C > switch-reed : MK6-8-C
+# FZESWREEDMK68C > switch-reed : MK6-8-C
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-reed-MK6-8-C
-- Hex ID: FZESWITCHREEDMK68C
+- Hex ID: FZESWREEDMK68C
 - Name: switch-reed : MK6-8-C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-reed/MK6-8-C/
 - Description: switch-reed : MK6-8-C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-reed-MK6-8-C](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-reed-MK6-8-C)
-- Short Link: [http://oom.lt/FZESWITCHREEDMK68C](http://oom.lt/FZESWITCHREEDMK68C)
+- Short Link: [http://oom.lt/FZESWREEDMK68C](http://oom.lt/FZESWREEDMK68C)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-reed|
 |OOMP Index|oompIndex|MK6-8-C|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-reed-MK6-8-C|
-|Hex ID (short code)|hexID|FZESWITCHREEDMK68C|
+|Hex ID (short code)|hexID|FZESWREEDMK68C|
 |name|name|switch-reed : MK6-8-C|
 ||||

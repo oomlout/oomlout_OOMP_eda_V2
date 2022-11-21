@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-SO08-IRF
 - Hex ID: FZETRANSISTORFETSO8IRF
 - Name: transistor-fet : SO08-IRF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/SO08-IRF/
 - Description: transistor-fet : SO08-IRF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-SO08-IRF](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-SO08-IRF)
 - Short Link: [http://oom.lt/FZETRANSISTORFETSO8IRF](http://oom.lt/FZETRANSISTORFETSO8IRF)

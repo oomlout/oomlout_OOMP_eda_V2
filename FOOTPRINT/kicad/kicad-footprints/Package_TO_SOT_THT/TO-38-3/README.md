@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-38-3
 - Hex ID: FZKSOTTO383
 - Name: Package_TO_SOT_THT : TO-38-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-38-3/
 - Description: Package_TO_SOT_THT : TO-38-3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-38-3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-38-3)
 - Short Link: [http://oom.lt/FZKSOTTO383](http://oom.lt/FZKSOTTO383)

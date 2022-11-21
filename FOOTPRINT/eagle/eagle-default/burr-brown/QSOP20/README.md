@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBURRBROWNQS2 > burr-brown : QSOP20](#fzeburrbrownqs2--burr-brown--qsop20)
+* [FZEBURRBRNQS2 > burr-brown : QSOP20](#fzeburrbrnqs2--burr-brown--qsop20)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBURRBROWNQS2 > burr-brown : QSOP20
+# FZEBURRBRNQS2 > burr-brown : QSOP20
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-QSOP20
-- Hex ID: FZEBURRBROWNQS2
+- Hex ID: FZEBURRBRNQS2
 - Name: burr-brown : QSOP20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/burr-brown/QSOP20/
 - Description: burr-brown : QSOP20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-QSOP20](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-QSOP20)
-- Short Link: [http://oom.lt/FZEBURRBROWNQS2](http://oom.lt/FZEBURRBROWNQS2)
+- Short Link: [http://oom.lt/FZEBURRBRNQS2](http://oom.lt/FZEBURRBRNQS2)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|burr-brown|
 |OOMP Index|oompIndex|QSOP20|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-burr-brown-QSOP20|
-|Hex ID (short code)|hexID|FZEBURRBROWNQS2|
+|Hex ID (short code)|hexID|FZEBURRBRNQS2|
 |name|name|burr-brown : QSOP20|
 ||||
 

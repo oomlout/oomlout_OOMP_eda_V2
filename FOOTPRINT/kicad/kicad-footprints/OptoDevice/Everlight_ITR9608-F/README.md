@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR9608-F
 - Hex ID: FZKOPEVERLIGHTITR968F
 - Name: OptoDevice : Everlight_ITR9608-F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR9608-F/
 - Description: OptoDevice : Everlight_ITR9608-F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR9608-F](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR9608-F)
 - Short Link: [http://oom.lt/FZKOPEVERLIGHTITR968F](http://oom.lt/FZKOPEVERLIGHTITR968F)

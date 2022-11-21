@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LTC3553
 - Hex ID: SZKBATMANAGEMENTLTC3553
 - Name: Battery_Management : LTC3553
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC3553/
 - Description: Battery_Management : LTC3553
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC3553](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC3553)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC3553](http://oom.lt/SZKBATMANAGEMENTLTC3553)

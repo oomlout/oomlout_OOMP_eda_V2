@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSFLIRLEPTONSO152811 > digikey-footprints : FLIR_Lepton_Socket_1050281001](#fzkicaddigikeykicadlibrarydigikeyfootprintsflirleptonso152811--digikey-footprints--flir_lepton_socket_1050281001)
+* [FZDIGIDIGIKEYFOOTPRINTSFLIRLEPTONSO152811 > digikey-footprints : FLIR_Lepton_Socket_1050281001](#fzdigidigikeyfootprintsflirleptonso152811--digikey-footprints--flir_lepton_socket_1050281001)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSFLIRLEPTONSO152811 > digikey-footprints : FLIR_Lepton_Socket_1050281001
+# FZDIGIDIGIKEYFOOTPRINTSFLIRLEPTONSO152811 > digikey-footprints : FLIR_Lepton_Socket_1050281001
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-FLIR_Lepton_Socket_1050281001
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSFLIRLEPTONSO152811
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSFLIRLEPTONSO152811
 - Name: digikey-footprints : FLIR_Lepton_Socket_1050281001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/FLIR_Lepton_Socket_1050281001/
 - Description: digikey-footprints : FLIR_Lepton_Socket_1050281001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-FLIR_Lepton_Socket_1050281001](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-FLIR_Lepton_Socket_1050281001)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSFLIRLEPTONSO152811](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSFLIRLEPTONSO152811)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSFLIRLEPTONSO152811](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSFLIRLEPTONSO152811)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|FLIR_Lepton_Socket_1050281001|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-FLIR_Lepton_Socket_1050281001|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSFLIRLEPTONSO152811|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSFLIRLEPTONSO152811|
 |name|name|digikey-footprints : FLIR_Lepton_Socket_1050281001|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'FLIR_Lepton_Socket_1050281001'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

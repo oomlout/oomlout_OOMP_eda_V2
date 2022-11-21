@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KKA_Split
 - Hex ID: SZKDEVICEDZENERDUALCOONANODEKKASPLIT
 - Name: Device : D_Zener_Dual_CommonAnode_KKA_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonAnode_KKA_Split/
 - Description: Device : D_Zener_Dual_CommonAnode_KKA_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KKA_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KKA_Split)
 - Short Link: [http://oom.lt/SZKDEVICEDZENERDUALCOONANODEKKASPLIT](http://oom.lt/SZKDEVICEDZENERDUALCOONANODEKKASPLIT)

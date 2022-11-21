@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3012
 - Hex ID: SZKREFERENCEVOLTAGEREF312
 - Name: Reference_Voltage : REF3012
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF3012/
 - Description: Reference_Voltage : REF3012
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3012](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3012)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF312](http://oom.lt/SZKREFERENCEVOLTAGEREF312)

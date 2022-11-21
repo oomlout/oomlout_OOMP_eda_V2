@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-IR1168S
 - Hex ID: SZKREGULATORCONTROLLERIR1168S
 - Name: Regulator_Controller : IR1168S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/IR1168S/
 - Description: Regulator_Controller : IR1168S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-IR1168S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-IR1168S)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERIR1168S](http://oom.lt/SZKREGULATORCONTROLLERIR1168S)

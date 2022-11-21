@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7705ACPSR
 - Hex ID: SZKPOWERSUPERVISORTL775ACPSR
 - Name: Power_Supervisor : TL7705ACPSR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7705ACPSR/
 - Description: Power_Supervisor : TL7705ACPSR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7705ACPSR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7705ACPSR)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTL775ACPSR](http://oom.lt/SZKPOWERSUPERVISORTL775ACPSR)

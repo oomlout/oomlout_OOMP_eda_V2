@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORS42 > inductors : 0402](#fzeinductors42--inductors--0402)
+* [FZEINS42 > inductors : 0402](#fzeins42--inductors--0402)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORS42 > inductors : 0402
+# FZEINS42 > inductors : 0402
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-0402
-- Hex ID: FZEINDUCTORS42
+- Hex ID: FZEINS42
 - Name: inductors : 0402
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/0402/
 - Description: inductors : 0402
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-0402](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-0402)
-- Short Link: [http://oom.lt/FZEINDUCTORS42](http://oom.lt/FZEINDUCTORS42)
+- Short Link: [http://oom.lt/FZEINS42](http://oom.lt/FZEINS42)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|0402|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-0402|
-|Hex ID (short code)|hexID|FZEINDUCTORS42|
+|Hex ID (short code)|hexID|FZEINS42|
 |name|name|inductors : 0402|
 ||||

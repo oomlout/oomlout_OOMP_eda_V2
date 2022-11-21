@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0805_NO-CREAM
 - Hex ID: FZSCO85NOCREAM
 - Name: SparkFun-Coils : 0805_NO-CREAM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/0805_NO-CREAM/
 - Description: SparkFun-Coils : 0805_NO-CREAM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0805_NO-CREAM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0805_NO-CREAM)
 - Short Link: [http://oom.lt/FZSCO85NOCREAM](http://oom.lt/FZSCO85NOCREAM)

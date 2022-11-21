@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-M-A
 - Hex ID: FZEXMA
 - Name: crystal : M-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/M-A/
 - Description: crystal : M-A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-M-A](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-M-A)
 - Short Link: [http://oom.lt/FZEXMA](http://oom.lt/FZEXMA)

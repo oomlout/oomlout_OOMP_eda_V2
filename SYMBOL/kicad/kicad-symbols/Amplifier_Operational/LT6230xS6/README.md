@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6230xS6
 - Hex ID: SZKAMPLIFIEROPERATIONALLT623XS6
 - Name: Amplifier_Operational : LT6230xS6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LT6230xS6/
 - Description: Amplifier_Operational : LT6230xS6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6230xS6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6230xS6)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLT623XS6](http://oom.lt/SZKAMPLIFIEROPERATIONALLT623XS6)

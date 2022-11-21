@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-VST4
 - Hex ID: FZEBATVST4
 - Name: battery : VST4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/VST4/
 - Description: battery : VST4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-VST4](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-VST4)
 - Short Link: [http://oom.lt/FZEBATVST4](http://oom.lt/FZEBATVST4)

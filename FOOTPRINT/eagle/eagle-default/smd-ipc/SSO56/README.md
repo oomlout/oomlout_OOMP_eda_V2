@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SSO56
 - Hex ID: FZESMIPCSSO56
 - Name: smd-ipc : SSO56
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SSO56/
 - Description: smd-ipc : SSO56
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SSO56](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SSO56)
 - Short Link: [http://oom.lt/FZESMIPCSSO56](http://oom.lt/FZESMIPCSSO56)

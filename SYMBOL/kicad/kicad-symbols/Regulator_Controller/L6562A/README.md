@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6562A
 - Hex ID: SZKREGULATORCONTROLLERL6562A
 - Name: Regulator_Controller : L6562A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/L6562A/
 - Description: Regulator_Controller : L6562A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6562A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6562A)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERL6562A](http://oom.lt/SZKREGULATORCONTROLLERL6562A)

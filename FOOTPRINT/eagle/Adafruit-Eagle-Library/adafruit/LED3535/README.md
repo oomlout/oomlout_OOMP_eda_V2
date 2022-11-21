@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LED3535
 - Hex ID: FZAL3535
 - Name: adafruit : LED3535
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/LED3535/
 - Description: adafruit : LED3535
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LED3535](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LED3535)
 - Short Link: [http://oom.lt/FZAL3535](http://oom.lt/FZAL3535)

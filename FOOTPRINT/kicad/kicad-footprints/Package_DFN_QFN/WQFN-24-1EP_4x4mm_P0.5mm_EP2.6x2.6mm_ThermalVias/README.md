@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNWQFN241EP4X4P5EP26X26THERMALVIAS > Package_DFN_QFN : WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias](#fzkdfnwqfn241ep4x4p5ep26x26thermalvias--package_dfn_qfn--wqfn-24-1ep_4x4mm_p05mm_ep26x26mm_thermalvias)
+* [FZKDFNWQFN241EP4X4P5EP26X26THV > Package_DFN_QFN : WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias](#fzkdfnwqfn241ep4x4p5ep26x26thv--package_dfn_qfn--wqfn-24-1ep_4x4mm_p05mm_ep26x26mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNWQFN241EP4X4P5EP26X26THERMALVIAS > Package_DFN_QFN : WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias
+# FZKDFNWQFN241EP4X4P5EP26X26THV > Package_DFN_QFN : WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias
-- Hex ID: FZKDFNWQFN241EP4X4P5EP26X26THERMALVIAS
+- Hex ID: FZKDFNWQFN241EP4X4P5EP26X26THV
 - Name: Package_DFN_QFN : WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias/
 - Description: Package_DFN_QFN : WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNWQFN241EP4X4P5EP26X26THERMALVIAS](http://oom.lt/FZKDFNWQFN241EP4X4P5EP26X26THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNWQFN241EP4X4P5EP26X26THV](http://oom.lt/FZKDFNWQFN241EP4X4P5EP26X26THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNWQFN241EP4X4P5EP26X26THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNWQFN241EP4X4P5EP26X26THV|
 |name|name|Package_DFN_QFN : WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'WQFN</td><td> 24 Pin (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm26480.pdf#page=39)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'WQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

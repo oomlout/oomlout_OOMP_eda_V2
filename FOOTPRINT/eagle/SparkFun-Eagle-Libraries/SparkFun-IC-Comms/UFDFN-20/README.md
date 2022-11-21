@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-UFDFN-20
 - Hex ID: FZSICUFDFN2
 - Name: SparkFun-IC-Comms : UFDFN-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Comms/UFDFN-20/
 - Description: SparkFun-IC-Comms : UFDFN-20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-UFDFN-20](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-UFDFN-20)
 - Short Link: [http://oom.lt/FZSICUFDFN2](http://oom.lt/FZSICUFDFN2)

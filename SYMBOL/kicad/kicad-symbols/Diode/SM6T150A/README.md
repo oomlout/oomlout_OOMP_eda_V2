@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SM6T150A
 - Hex ID: SZKDIODESM6T15A
 - Name: Diode : SM6T150A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM6T150A/
 - Description: Diode : SM6T150A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T150A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T150A)
 - Short Link: [http://oom.lt/SZKDIODESM6T15A](http://oom.lt/SZKDIODESM6T15A)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-PSOP44L
 - Hex ID: FZEMINTELPS44L
 - Name: micro-intel : PSOP44L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/PSOP44L/
 - Description: micro-intel : PSOP44L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PSOP44L](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-PSOP44L)
 - Short Link: [http://oom.lt/FZEMINTELPS44L](http://oom.lt/FZEMINTELPS44L)

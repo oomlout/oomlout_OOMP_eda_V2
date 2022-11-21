@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L496VETx
 - Hex ID: SZKMCUSTSTM32L4STM32L496VETX
 - Name: MCU_ST_STM32L4 : STM32L496VETx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L496VETx/
 - Description: MCU_ST_STM32L4 : STM32L496VETx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L496VETx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L496VETx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L496VETX](http://oom.lt/SZKMCUSTSTM32L4STM32L496VETX)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-MC68332
 - Hex ID: SZKCPUNXP68MC68332
 - Name: CPU_NXP_68000 : MC68332
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_NXP_68000/MC68332/
 - Description: CPU_NXP_68000 : MC68332
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-MC68332](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-MC68332)
 - Short Link: [http://oom.lt/SZKCPUNXP68MC68332](http://oom.lt/SZKCPUNXP68MC68332)

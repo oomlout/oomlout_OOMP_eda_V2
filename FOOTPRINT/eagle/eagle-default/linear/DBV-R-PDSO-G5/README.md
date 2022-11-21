@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-DBV-R-PDSO-G5
 - Hex ID: FZELINEARDBVRPDSOG5
 - Name: linear : DBV-R-PDSO-G5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/DBV-R-PDSO-G5/
 - Description: linear : DBV-R-PDSO-G5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-DBV-R-PDSO-G5](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-DBV-R-PDSO-G5)
 - Short Link: [http://oom.lt/FZELINEARDBVRPDSOG5](http://oom.lt/FZELINEARDBVRPDSOG5)

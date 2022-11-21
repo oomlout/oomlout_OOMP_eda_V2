@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01
 - Hex ID: FZKINLRD15P5ABACRONAISR1
 - Name: Inductor_THT : L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01/
 - Description: Inductor_THT : L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01)
 - Short Link: [http://oom.lt/FZKINLRD15P5ABACRONAISR1](http://oom.lt/FZKINLRD15P5ABACRONAISR1)

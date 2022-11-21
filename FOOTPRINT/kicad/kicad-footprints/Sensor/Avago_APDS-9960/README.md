@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor-Avago_APDS-9960
 - Hex ID: FZKSENAVAGOAPDS996
 - Name: Sensor : Avago_APDS-9960
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor/Avago_APDS-9960/
 - Description: Sensor : Avago_APDS-9960
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor-Avago_APDS-9960](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor-Avago_APDS-9960)
 - Short Link: [http://oom.lt/FZKSENAVAGOAPDS996](http://oom.lt/FZKSENAVAGOAPDS996)

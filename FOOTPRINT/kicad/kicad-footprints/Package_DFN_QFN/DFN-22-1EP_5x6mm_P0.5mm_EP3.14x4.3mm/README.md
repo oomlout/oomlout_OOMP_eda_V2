@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-22-1EP_5x6mm_P0.5mm_EP3.14x4.3mm
 - Hex ID: FZKDFNDFN221EP5X6P5EP314X43
 - Name: Package_DFN_QFN : DFN-22-1EP_5x6mm_P0.5mm_EP3.14x4.3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-22-1EP_5x6mm_P0.5mm_EP3.14x4.3mm/
 - Description: Package_DFN_QFN : DFN-22-1EP_5x6mm_P0.5mm_EP3.14x4.3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-22-1EP_5x6mm_P0.5mm_EP3.14x4.3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-22-1EP_5x6mm_P0.5mm_EP3.14x4.3mm)
 - Short Link: [http://oom.lt/FZKDFNDFN221EP5X6P5EP314X43](http://oom.lt/FZKDFNDFN221EP5X6P5EP314X43)

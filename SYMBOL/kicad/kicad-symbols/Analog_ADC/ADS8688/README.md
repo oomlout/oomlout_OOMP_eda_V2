@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8688
 - Hex ID: SZKANALOGADCADS8688
 - Name: Analog_ADC : ADS8688
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS8688/
 - Description: Analog_ADC : ADS8688
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8688](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8688)
 - Short Link: [http://oom.lt/SZKANALOGADCADS8688](http://oom.lt/SZKANALOGADCADS8688)

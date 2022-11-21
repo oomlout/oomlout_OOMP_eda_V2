@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VL53L5CX
 - Hex ID: FZSSPARKFUNSENSVL53L5CX
 - Name: SparkFun-Sensors : VL53L5CX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/VL53L5CX/
 - Description: SparkFun-Sensors : VL53L5CX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VL53L5CX](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VL53L5CX)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSVL53L5CX](http://oom.lt/FZSSPARKFUNSENSVL53L5CX)

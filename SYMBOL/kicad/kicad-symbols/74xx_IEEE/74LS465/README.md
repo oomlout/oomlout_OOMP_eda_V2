@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS465
 - Hex ID: SZK74XXIEEE74LS465
 - Name: 74xx_IEEE : 74LS465
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74LS465/
 - Description: 74xx_IEEE : 74LS465
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS465](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS465)
 - Short Link: [http://oom.lt/SZK74XXIEEE74LS465](http://oom.lt/SZK74XXIEEE74LS465)

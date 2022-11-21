@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-LF872
 - Hex ID: FZELINEARLF872
 - Name: linear : LF872
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/LF872/
 - Description: linear : LF872
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-LF872](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-LF872)
 - Short Link: [http://oom.lt/FZELINEARLF872](http://oom.lt/FZELINEARLF872)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC05040-17204
 - Hex ID: FZSSPARKFUNCNSFPC541724
 - Name: SparkFun-Connectors : FPC05040-17204
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/FPC05040-17204/
 - Description: SparkFun-Connectors : FPC05040-17204
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC05040-17204](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC05040-17204)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSFPC541724](http://oom.lt/FZSSPARKFUNCNSFPC541724)

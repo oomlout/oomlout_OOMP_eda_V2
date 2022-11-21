@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-C1103_
 - Hex ID: FZEDIODEC113
 - Name: diode : C1103_
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/C1103_/
 - Description: diode : C1103_
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C1103_](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C1103_)
 - Short Link: [http://oom.lt/FZEDIODEC113](http://oom.lt/FZEDIODEC113)

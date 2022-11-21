@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M3516
 - Hex ID: FZAM3516
 - Name: adafruit : M3516
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/M3516/
 - Description: adafruit : M3516
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M3516](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M3516)
 - Short Link: [http://oom.lt/FZAM3516](http://oom.lt/FZAM3516)

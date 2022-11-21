@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM358
 - Hex ID: SZKAMPLIFIEROPERATIONALLM358
 - Name: Amplifier_Operational : LM358
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM358/
 - Description: Amplifier_Operational : LM358
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM358](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM358)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM358](http://oom.lt/SZKAMPLIFIEROPERATIONALLM358)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-AL201P
 - Hex ID: FZEBUZZERAL21P
 - Name: buzzer : AL201P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/AL201P/
 - Description: buzzer : AL201P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-AL201P](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-AL201P)
 - Short Link: [http://oom.lt/FZEBUZZERAL21P](http://oom.lt/FZEBUZZERAL21P)

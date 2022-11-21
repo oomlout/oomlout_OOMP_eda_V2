@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM384
 - Hex ID: SZKAMPLIFIERAUDIOLM384
 - Name: Amplifier_Audio : LM384
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM384/
 - Description: Amplifier_Audio : LM384
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM384](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM384)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM384](http://oom.lt/SZKAMPLIFIERAUDIOLM384)

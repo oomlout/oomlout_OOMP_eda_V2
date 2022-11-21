@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-VSO-56_11.1x21.5mm_P0.75mm
 - Hex ID: FZKSOVSO56111X215P75
 - Name: Package_SO : VSO-56_11.1x21.5mm_P0.75mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/VSO-56_11.1x21.5mm_P0.75mm/
 - Description: Package_SO : VSO-56_11.1x21.5mm_P0.75mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-VSO-56_11.1x21.5mm_P0.75mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-VSO-56_11.1x21.5mm_P0.75mm)
 - Short Link: [http://oom.lt/FZKSOVSO56111X215P75](http://oom.lt/FZKSOVSO56111X215P75)

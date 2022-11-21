@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-USB-MINIB-THM-PWRONLY
 - Hex ID: FZAUMBT
 - Name: adafruit : USB-MINIB-THM-PWRONLY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/USB-MINIB-THM-PWRONLY/
 - Description: adafruit : USB-MINIB-THM-PWRONLY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-USB-MINIB-THM-PWRONLY](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-USB-MINIB-THM-PWRONLY)
 - Short Link: [http://oom.lt/FZAUMBT](http://oom.lt/FZAUMBT)

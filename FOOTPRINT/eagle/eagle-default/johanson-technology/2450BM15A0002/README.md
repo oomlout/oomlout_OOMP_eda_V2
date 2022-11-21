@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-johanson-technology-2450BM15A0002
 - Hex ID: FZEJOHANSONTECHNOLOGY245BM15A2
 - Name: johanson-technology : 2450BM15A0002
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/johanson-technology/2450BM15A0002/
 - Description: johanson-technology : 2450BM15A0002
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-johanson-technology-2450BM15A0002](http://oom.lt/FOOTPRINT-eagle-eagle-default-johanson-technology-2450BM15A0002)
 - Short Link: [http://oom.lt/FZEJOHANSONTECHNOLOGY245BM15A2](http://oom.lt/FZEJOHANSONTECHNOLOGY245BM15A2)

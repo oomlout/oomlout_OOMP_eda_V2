@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF351D
 - Hex ID: SZKAMPLIFIEROPERATIONALLF351D
 - Name: Amplifier_Operational : LF351D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LF351D/
 - Description: Amplifier_Operational : LF351D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF351D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF351D)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLF351D](http://oom.lt/SZKAMPLIFIEROPERATIONALLF351D)

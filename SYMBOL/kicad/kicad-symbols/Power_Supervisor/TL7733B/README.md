@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7733B
 - Hex ID: SZKPOWERSUPERVISORTL7733B
 - Name: Power_Supervisor : TL7733B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7733B/
 - Description: Power_Supervisor : TL7733B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7733B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7733B)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTL7733B](http://oom.lt/SZKPOWERSUPERVISORTL7733B)

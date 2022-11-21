@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BA159
 - Hex ID: SZKDIODEBA159
 - Name: Diode : BA159
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BA159/
 - Description: Diode : BA159
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA159](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA159)
 - Short Link: [http://oom.lt/SZKDIODEBA159](http://oom.lt/SZKDIODEBA159)

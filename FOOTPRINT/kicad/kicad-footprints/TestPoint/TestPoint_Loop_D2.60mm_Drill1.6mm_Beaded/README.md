@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded
 - Hex ID: FZKTPTPLOOPD26DRILL16BEADED
 - Name: TestPoint : TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/
 - Description: TestPoint : TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded)
 - Short Link: [http://oom.lt/FZKTPTPLOOPD26DRILL16BEADED](http://oom.lt/FZKTPTPLOOPD26DRILL16BEADED)

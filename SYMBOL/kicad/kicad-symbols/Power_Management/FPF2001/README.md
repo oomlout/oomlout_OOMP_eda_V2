@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-FPF2001
 - Hex ID: SZKPOWERMANAGEMENTFPF21
 - Name: Power_Management : FPF2001
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/FPF2001/
 - Description: Power_Management : FPF2001
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2001](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2001)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTFPF21](http://oom.lt/SZKPOWERMANAGEMENTFPF21)

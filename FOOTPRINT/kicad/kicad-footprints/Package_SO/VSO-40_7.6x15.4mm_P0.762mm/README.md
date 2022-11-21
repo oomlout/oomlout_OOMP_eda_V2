@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-VSO-40_7.6x15.4mm_P0.762mm
 - Hex ID: FZKSOVSO476X154P762
 - Name: Package_SO : VSO-40_7.6x15.4mm_P0.762mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/VSO-40_7.6x15.4mm_P0.762mm/
 - Description: Package_SO : VSO-40_7.6x15.4mm_P0.762mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-VSO-40_7.6x15.4mm_P0.762mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-VSO-40_7.6x15.4mm_P0.762mm)
 - Short Link: [http://oom.lt/FZKSOVSO476X154P762](http://oom.lt/FZKSOVSO476X154P762)

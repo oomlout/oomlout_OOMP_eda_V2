@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZV55B3V0
 - Hex ID: SZKDIODEBZV55B3V
 - Name: Diode : BZV55B3V0
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BZV55B3V0/
 - Description: Diode : BZV55B3V0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B3V0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B3V0)
 - Short Link: [http://oom.lt/SZKDIODEBZV55B3V](http://oom.lt/SZKDIODEBZV55B3V)

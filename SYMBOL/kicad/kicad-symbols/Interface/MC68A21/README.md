@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-MC68A21
 - Hex ID: SZKINTERFACEMC68A21
 - Name: Interface : MC68A21
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/MC68A21/
 - Description: Interface : MC68A21
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC68A21](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC68A21)
 - Short Link: [http://oom.lt/SZKINTERFACEMC68A21](http://oom.lt/SZKINTERFACEMC68A21)

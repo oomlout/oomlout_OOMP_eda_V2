@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSCOTRSM > SparkFun-Coils : TRANSFORMER_SMD](#fzscotrsm--sparkfun-coils--transformer_smd)
+* [FZSCOTR > SparkFun-Coils : TRANSFORMER_SMD](#fzscotr--sparkfun-coils--transformer_smd)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSCOTRSM > SparkFun-Coils : TRANSFORMER_SMD
+# FZSCOTR > SparkFun-Coils : TRANSFORMER_SMD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-TRANSFORMER_SMD
-- Hex ID: FZSCOTRSM
+- Hex ID: FZSCOTR
 - Name: SparkFun-Coils : TRANSFORMER_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/TRANSFORMER_SMD/
 - Description: SparkFun-Coils : TRANSFORMER_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-TRANSFORMER_SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-TRANSFORMER_SMD)
-- Short Link: [http://oom.lt/FZSCOTRSM](http://oom.lt/FZSCOTRSM)
+- Short Link: [http://oom.lt/FZSCOTR](http://oom.lt/FZSCOTR)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Coils|
 |OOMP Index|oompIndex|TRANSFORMER_SMD|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-TRANSFORMER_SMD|
-|Hex ID (short code)|hexID|FZSCOTRSM|
+|Hex ID (short code)|hexID|FZSCOTR|
 |name|name|SparkFun-Coils : TRANSFORMER_SMD|
 ||||

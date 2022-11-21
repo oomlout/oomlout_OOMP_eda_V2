@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLCOILCRAFTXAL6XX636X656 > Inductor_SMD : L_Coilcraft_XAL60xx_6.36x6.56mm](#fzkinductorsmlcoilcraftxal6xx636x656--inductor_smd--l_coilcraft_xal60xx_636x656mm)
+* [FZKINLCOILCRAFTXAL6XX636X656 > Inductor_SMD : L_Coilcraft_XAL60xx_6.36x6.56mm](#fzkinlcoilcraftxal6xx636x656--inductor_smd--l_coilcraft_xal60xx_636x656mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLCOILCRAFTXAL6XX636X656 > Inductor_SMD : L_Coilcraft_XAL60xx_6.36x6.56mm
+# FZKINLCOILCRAFTXAL6XX636X656 > Inductor_SMD : L_Coilcraft_XAL60xx_6.36x6.56mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XAL60xx_6.36x6.56mm
-- Hex ID: FZKINDUCTORSMLCOILCRAFTXAL6XX636X656
+- Hex ID: FZKINLCOILCRAFTXAL6XX636X656
 - Name: Inductor_SMD : L_Coilcraft_XAL60xx_6.36x6.56mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Coilcraft_XAL60xx_6.36x6.56mm/
 - Description: Inductor_SMD : L_Coilcraft_XAL60xx_6.36x6.56mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XAL60xx_6.36x6.56mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XAL60xx_6.36x6.56mm)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLCOILCRAFTXAL6XX636X656](http://oom.lt/FZKINDUCTORSMLCOILCRAFTXAL6XX636X656)
+- Short Link: [http://oom.lt/FZKINLCOILCRAFTXAL6XX636X656](http://oom.lt/FZKINLCOILCRAFTXAL6XX636X656)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Coilcraft_XAL60xx_6.36x6.56mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XAL60xx_6.36x6.56mm|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLCOILCRAFTXAL6XX636X656|
+|Hex ID (short code)|hexID|FZKINLCOILCRAFTXAL6XX636X656|
 |name|name|Inductor_SMD : L_Coilcraft_XAL60xx_6.36x6.56mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Coilcraft_XAL60xx_6.36x6.56mm'</td><td> 'description'</td></tr><tr><td> 'Coilcraft XAL60xx series</td><td> https</td></tr><tr><td>//www.coilcraft.com/pdfs/xal60xx.pdf'</td><td> 'tags'</td></tr><tr><td> 'L Coilcraft XAL60xx'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Coilcraft_XAL60xx_6.36x6.56mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

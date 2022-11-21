@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ128GP804
 - Hex ID: SZKDSPMCHIPDSPIC33DSPIC33FJ128GP84
 - Name: DSP_Microchip_DSPIC33 : DSPIC33FJ128GP804
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ128GP804/
 - Description: DSP_Microchip_DSPIC33 : DSPIC33FJ128GP804
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ128GP804](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ128GP804)
 - Short Link: [http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ128GP84](http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ128GP84)

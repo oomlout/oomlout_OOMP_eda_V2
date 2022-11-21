@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-DIL28
 - Hex ID: FZEMMOTOROLADIL28
 - Name: micro-motorola : DIL28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/DIL28/
 - Description: micro-motorola : DIL28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-DIL28](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-DIL28)
 - Short Link: [http://oom.lt/FZEMMOTOROLADIL28](http://oom.lt/FZEMMOTOROLADIL28)

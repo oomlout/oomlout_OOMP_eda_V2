@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-nec-DIL28-6
 - Hex ID: FZEMEMORYNECDIL286
 - Name: memory-nec : DIL28-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-nec/DIL28-6/
 - Description: memory-nec : DIL28-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-nec-DIL28-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-nec-DIL28-6)
 - Short Link: [http://oom.lt/FZEMEMORYNECDIL286](http://oom.lt/FZEMEMORYNECDIL286)

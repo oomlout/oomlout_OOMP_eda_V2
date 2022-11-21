@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT230XQ
 - Hex ID: SZKINTERFACEUFT23XQ
 - Name: Interface_USB : FT230XQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FT230XQ/
 - Description: Interface_USB : FT230XQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT230XQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT230XQ)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT23XQ](http://oom.lt/SZKINTERFACEUFT23XQ)

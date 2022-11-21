@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-LTC1689
 - Hex ID: SZKINTERFACELTC1689
 - Name: Interface : LTC1689
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/LTC1689/
 - Description: Interface : LTC1689
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC1689](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC1689)
 - Short Link: [http://oom.lt/SZKINTERFACELTC1689](http://oom.lt/SZKINTERFACELTC1689)

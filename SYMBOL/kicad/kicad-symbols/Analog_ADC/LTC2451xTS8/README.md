@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2451xTS8
 - Hex ID: SZKANALOGADCLTC2451XTS8
 - Name: Analog_ADC : LTC2451xTS8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2451xTS8/
 - Description: Analog_ADC : LTC2451xTS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2451xTS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2451xTS8)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC2451XTS8](http://oom.lt/SZKANALOGADCLTC2451XTS8)

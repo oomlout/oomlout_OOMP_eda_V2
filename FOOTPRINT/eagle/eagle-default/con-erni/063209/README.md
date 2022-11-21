@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-erni-063209
 - Hex ID: FZECONERNI6329
 - Name: con-erni : 063209
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-erni/063209/
 - Description: con-erni : 063209
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-erni-063209](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-erni-063209)
 - Short Link: [http://oom.lt/FZECONERNI6329](http://oom.lt/FZECONERNI6329)

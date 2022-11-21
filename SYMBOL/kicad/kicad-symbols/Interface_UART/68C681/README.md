@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-68C681
 - Hex ID: SZKINTERFACEUART68C681
 - Name: Interface_UART : 68C681
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/68C681/
 - Description: Interface_UART : 68C681
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-68C681](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-68C681)
 - Short Link: [http://oom.lt/SZKINTERFACEUART68C681](http://oom.lt/SZKINTERFACEUART68C681)

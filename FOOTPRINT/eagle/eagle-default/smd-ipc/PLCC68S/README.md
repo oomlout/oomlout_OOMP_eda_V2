@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-PLCC68S
 - Hex ID: FZESMIPCPLCC68S
 - Name: smd-ipc : PLCC68S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/PLCC68S/
 - Description: smd-ipc : PLCC68S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-PLCC68S](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-PLCC68S)
 - Short Link: [http://oom.lt/FZESMIPCPLCC68S](http://oom.lt/FZESMIPCPLCC68S)

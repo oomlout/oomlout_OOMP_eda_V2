@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNMXMXMFITJR556618A2X9P42VERTICAL > Connector_Molex : Molex_Mini-Fit_Jr_5566-18A_2x09_P4.20mm_Vertical](#fzkcnmxmxmfitjr556618a2x9p42vertical--connector_molex--molex_mini-fit_jr_5566-18a_2x09_p420mm_vertical)
+* [FZKCNMXMXMFITJR556618A2X9P42F > Connector_Molex : Molex_Mini-Fit_Jr_5566-18A_2x09_P4.20mm_Vertical](#fzkcnmxmxmfitjr556618a2x9p42f--connector_molex--molex_mini-fit_jr_5566-18a_2x09_p420mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXMFITJR556618A2X9P42VERTICAL > Connector_Molex : Molex_Mini-Fit_Jr_5566-18A_2x09_P4.20mm_Vertical
+# FZKCNMXMXMFITJR556618A2X9P42F > Connector_Molex : Molex_Mini-Fit_Jr_5566-18A_2x09_P4.20mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5566-18A_2x09_P4.20mm_Vertical
-- Hex ID: FZKCNMXMXMFITJR556618A2X9P42VERTICAL
+- Hex ID: FZKCNMXMXMFITJR556618A2X9P42F
 - Name: Connector_Molex : Molex_Mini-Fit_Jr_5566-18A_2x09_P4.20mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Jr_5566-18A_2x09_P4.20mm_Vertical/
 - Description: Connector_Molex : Molex_Mini-Fit_Jr_5566-18A_2x09_P4.20mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5566-18A_2x09_P4.20mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5566-18A_2x09_P4.20mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNMXMXMFITJR556618A2X9P42VERTICAL](http://oom.lt/FZKCNMXMXMFITJR556618A2X9P42VERTICAL)
+- Short Link: [http://oom.lt/FZKCNMXMXMFITJR556618A2X9P42F](http://oom.lt/FZKCNMXMXMFITJR556618A2X9P42F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_Mini-Fit_Jr_5566-18A_2x09_P4.20mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5566-18A_2x09_P4.20mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNMXMXMFITJR556618A2X9P42VERTICAL|
+|Hex ID (short code)|hexID|FZKCNMXMXMFITJR556618A2X9P42F|
 |name|name|Connector_Molex : Molex_Mini-Fit_Jr_5566-18A_2x09_P4.20mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_Mini-Fit_Jr_5566-18A_2x09_P4.20mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex Mini-Fit Jr. Power Connectors</td><td> old mpn/engineering number</td></tr><tr><td> 5566-18A</td><td> example for new mpn</td></tr><tr><td> 39-28-x18x</td><td> 9 Pins per row</td><td> Mounting</td></tr><tr><td>  (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/039281043_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex Mini-Fit_Jr side entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_Mini-Fit_Jr_5566-18A_2x09_P4.20mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

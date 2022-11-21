@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-BGA_CB11
 - Hex ID: FZEANALOGDEVICESBGACB11
 - Name: analog-devices : BGA_CB11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/BGA_CB11/
 - Description: analog-devices : BGA_CB11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-BGA_CB11](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-BGA_CB11)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESBGACB11](http://oom.lt/FZEANALOGDEVICESBGACB11)

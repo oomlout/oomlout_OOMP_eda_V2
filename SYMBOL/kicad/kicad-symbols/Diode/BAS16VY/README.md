@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAS16VY
 - Hex ID: SZKDIODEBAS16VY
 - Name: Diode : BAS16VY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAS16VY/
 - Description: Diode : BAS16VY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS16VY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS16VY)
 - Short Link: [http://oom.lt/SZKDIODEBAS16VY](http://oom.lt/SZKDIODEBAS16VY)

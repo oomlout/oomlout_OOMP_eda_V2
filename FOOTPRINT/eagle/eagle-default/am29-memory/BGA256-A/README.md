@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-am29-memory-BGA256-A
 - Hex ID: FZEAM29MEMORYBGA256A
 - Name: am29-memory : BGA256-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/am29-memory/BGA256-A/
 - Description: am29-memory : BGA256-A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-BGA256-A](http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-BGA256-A)
 - Short Link: [http://oom.lt/FZEAM29MEMORYBGA256A](http://oom.lt/FZEAM29MEMORYBGA256A)

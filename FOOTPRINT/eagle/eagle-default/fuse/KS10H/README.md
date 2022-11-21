@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-KS10H
 - Hex ID: FZEFUKS1H
 - Name: fuse : KS10H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/KS10H/
 - Description: fuse : KS10H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-KS10H](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-KS10H)
 - Short Link: [http://oom.lt/FZEFUKS1H](http://oom.lt/FZEFUKS1H)

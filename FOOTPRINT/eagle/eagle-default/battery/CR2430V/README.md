@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-CR2430V
 - Hex ID: FZEBATCR243V
 - Name: battery : CR2430V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/CR2430V/
 - Description: battery : CR2430V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-CR2430V](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-CR2430V)
 - Short Link: [http://oom.lt/FZEBATCR243V](http://oom.lt/FZEBATCR243V)

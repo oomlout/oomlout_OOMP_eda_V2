@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AP2171W
 - Hex ID: SZKPOWERMANAGEMENTAP2171W
 - Name: Power_Management : AP2171W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AP2171W/
 - Description: Power_Management : AP2171W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AP2171W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AP2171W)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAP2171W](http://oom.lt/SZKPOWERMANAGEMENTAP2171W)

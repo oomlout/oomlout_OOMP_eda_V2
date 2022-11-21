@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-KH208-8
 - Hex ID: FZERESISTORPOWERKH288
 - Name: resistor-power : KH208-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/KH208-8/
 - Description: resistor-power : KH208-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-KH208-8](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-KH208-8)
 - Short Link: [http://oom.lt/FZERESISTORPOWERKH288](http://oom.lt/FZERESISTORPOWERKH288)

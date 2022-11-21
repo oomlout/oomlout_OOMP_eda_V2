@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1829LIN-ESS
 - Hex ID: SZKMCUMCHIPPIC16PIC16F1829LINESS
 - Name: MCU_Microchip_PIC16 : PIC16F1829LIN-ESS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1829LIN-ESS/
 - Description: MCU_Microchip_PIC16 : PIC16F1829LIN-ESS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1829LIN-ESS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1829LIN-ESS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1829LINESS](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1829LINESS)

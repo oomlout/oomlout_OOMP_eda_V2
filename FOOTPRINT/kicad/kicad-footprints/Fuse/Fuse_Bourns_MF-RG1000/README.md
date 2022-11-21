@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG1000
 - Hex ID: FZKFUFUBOURNSMFRG1
 - Name: Fuse : Fuse_Bourns_MF-RG1000
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-RG1000/
 - Description: Fuse : Fuse_Bourns_MF-RG1000
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG1000](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG1000)
 - Short Link: [http://oom.lt/FZKFUFUBOURNSMFRG1](http://oom.lt/FZKFUFUBOURNSMFRG1)

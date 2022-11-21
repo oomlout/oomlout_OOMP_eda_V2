@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7508
 - Hex ID: SZKDICHARACTERHDSP758
 - Name: Display_Character : HDSP-7508
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-7508/
 - Description: Display_Character : HDSP-7508
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7508](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7508)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSP758](http://oom.lt/SZKDICHARACTERHDSP758)

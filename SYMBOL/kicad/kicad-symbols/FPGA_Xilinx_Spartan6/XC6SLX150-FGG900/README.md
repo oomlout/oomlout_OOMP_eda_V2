@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX150-FGG900
 - Hex ID: SZKFPGAXILINXSPARTAN6XC6SLX15FGG9
 - Name: FPGA_Xilinx_Spartan6 : XC6SLX150-FGG900
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX150-FGG900/
 - Description: FPGA_Xilinx_Spartan6 : XC6SLX150-FGG900
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX150-FGG900](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX150-FGG900)
 - Short Link: [http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX15FGG9](http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX15FGG9)

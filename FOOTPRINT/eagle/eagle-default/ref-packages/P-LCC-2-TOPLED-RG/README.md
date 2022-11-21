@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPLCC2TOPLRG > ref-packages : P-LCC-2-TOPLED-RG](#fzerefpackagesplcc2toplrg--ref-packages--p-lcc-2-topled-rg)
+* [FZEREFPSPLCC2TOPLRG > ref-packages : P-LCC-2-TOPLED-RG](#fzerefpsplcc2toplrg--ref-packages--p-lcc-2-topled-rg)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPLCC2TOPLRG > ref-packages : P-LCC-2-TOPLED-RG
+# FZEREFPSPLCC2TOPLRG > ref-packages : P-LCC-2-TOPLED-RG
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-P-LCC-2-TOPLED-RG
-- Hex ID: FZEREFPACKAGESPLCC2TOPLRG
+- Hex ID: FZEREFPSPLCC2TOPLRG
 - Name: ref-packages : P-LCC-2-TOPLED-RG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/P-LCC-2-TOPLED-RG/
 - Description: ref-packages : P-LCC-2-TOPLED-RG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-P-LCC-2-TOPLED-RG](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-P-LCC-2-TOPLED-RG)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPLCC2TOPLRG](http://oom.lt/FZEREFPACKAGESPLCC2TOPLRG)
+- Short Link: [http://oom.lt/FZEREFPSPLCC2TOPLRG](http://oom.lt/FZEREFPSPLCC2TOPLRG)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|P-LCC-2-TOPLED-RG|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-P-LCC-2-TOPLED-RG|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPLCC2TOPLRG|
+|Hex ID (short code)|hexID|FZEREFPSPLCC2TOPLRG|
 |name|name|ref-packages : P-LCC-2-TOPLED-RG|
 ||||

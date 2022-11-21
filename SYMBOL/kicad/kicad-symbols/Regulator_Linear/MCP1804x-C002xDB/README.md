@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1804x-C002xDB
 - Hex ID: SZKREGULATORLINEARMCP184XC2XDB
 - Name: Regulator_Linear : MCP1804x-C002xDB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1804x-C002xDB/
 - Description: Regulator_Linear : MCP1804x-C002xDB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1804x-C002xDB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1804x-C002xDB)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP184XC2XDB](http://oom.lt/SZKREGULATORLINEARMCP184XC2XDB)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA134
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA134
 - Name: Amplifier_Operational : OPA134
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA134/
 - Description: Amplifier_Operational : OPA134
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA134](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA134)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA134](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA134)

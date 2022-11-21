@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-PSOP24
 - Hex ID: FZELINEARPS24
 - Name: linear : PSOP24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/PSOP24/
 - Description: linear : PSOP24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-PSOP24](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-PSOP24)
 - Short Link: [http://oom.lt/FZELINEARPS24](http://oom.lt/FZELINEARPS24)

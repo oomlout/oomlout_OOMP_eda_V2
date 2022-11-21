@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-DHVQFN-16-2.5X3.5MM
 - Hex ID: FZSILDHVQFN1625X35
 - Name: SparkFun-IC-Logic : DHVQFN-16-2.5X3.5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/DHVQFN-16-2.5X3.5MM/
 - Description: SparkFun-IC-Logic : DHVQFN-16-2.5X3.5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-DHVQFN-16-2.5X3.5MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-DHVQFN-16-2.5X3.5MM)
 - Short Link: [http://oom.lt/FZSILDHVQFN1625X35](http://oom.lt/FZSILDHVQFN1625X35)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-OVERTONE_LOGO
 - Hex ID: FZSRTOVERTONEL
 - Name: SparkFun-Retired : OVERTONE_LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/OVERTONE_LOGO/
 - Description: SparkFun-Retired : OVERTONE_LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-OVERTONE_LOGO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-OVERTONE_LOGO)
 - Short Link: [http://oom.lt/FZSRTOVERTONEL](http://oom.lt/FZSRTOVERTONEL)

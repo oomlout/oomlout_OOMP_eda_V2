@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3295xxH
 - Hex ID: SZKINTERFACEUARTISL3295XXH
 - Name: Interface_UART : ISL3295xxH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ISL3295xxH/
 - Description: Interface_UART : ISL3295xxH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3295xxH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3295xxH)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTISL3295XXH](http://oom.lt/SZKINTERFACEUARTISL3295XXH)

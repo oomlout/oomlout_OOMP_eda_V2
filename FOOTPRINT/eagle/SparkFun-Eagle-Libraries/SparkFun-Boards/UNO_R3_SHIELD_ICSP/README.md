@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-UNO_R3_SHIELD_ICSP
 - Hex ID: FZSBOUNOR3SHICSP
 - Name: SparkFun-Boards : UNO_R3_SHIELD_ICSP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/UNO_R3_SHIELD_ICSP/
 - Description: SparkFun-Boards : UNO_R3_SHIELD_ICSP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-UNO_R3_SHIELD_ICSP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-UNO_R3_SHIELD_ICSP)
 - Short Link: [http://oom.lt/FZSBOUNOR3SHICSP](http://oom.lt/FZSBOUNOR3SHICSP)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74HCT137
 - Hex ID: SZK74XX74HCT137
 - Name: 74xx : 74HCT137
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/74HCT137/
 - Description: 74xx : 74HCT137
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HCT137](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HCT137)
 - Short Link: [http://oom.lt/SZK74XX74HCT137](http://oom.lt/SZK74XX74HCT137)

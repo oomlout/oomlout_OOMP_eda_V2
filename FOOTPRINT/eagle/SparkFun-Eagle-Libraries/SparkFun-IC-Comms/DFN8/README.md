@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-DFN8
 - Hex ID: FZSICDFN8
 - Name: SparkFun-IC-Comms : DFN8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Comms/DFN8/
 - Description: SparkFun-IC-Comms : DFN8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-DFN8](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-DFN8)
 - Short Link: [http://oom.lt/FZSICDFN8](http://oom.lt/FZSICDFN8)

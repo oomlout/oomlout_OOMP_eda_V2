@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-ISD2590S
 - Hex ID: SZKAUDIOISD259S
 - Name: Audio : ISD2590S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/ISD2590S/
 - Description: Audio : ISD2590S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-ISD2590S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-ISD2590S)
 - Short Link: [http://oom.lt/SZKAUDIOISD259S](http://oom.lt/SZKAUDIOISD259S)

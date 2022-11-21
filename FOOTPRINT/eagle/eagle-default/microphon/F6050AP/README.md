@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microphon-F6050AP
 - Hex ID: FZEMPHONF65AP
 - Name: microphon : F6050AP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microphon/F6050AP/
 - Description: microphon : F6050AP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-F6050AP](http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-F6050AP)
 - Short Link: [http://oom.lt/FZEMPHONF65AP](http://oom.lt/FZEMPHONF65AP)

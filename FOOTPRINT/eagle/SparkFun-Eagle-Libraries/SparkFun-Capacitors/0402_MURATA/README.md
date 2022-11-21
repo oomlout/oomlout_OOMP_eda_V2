@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0402_MURATA
 - Hex ID: FZSC42M
 - Name: SparkFun-Capacitors : 0402_MURATA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/0402_MURATA/
 - Description: SparkFun-Capacitors : 0402_MURATA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0402_MURATA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0402_MURATA)
 - Short Link: [http://oom.lt/FZSC42M](http://oom.lt/FZSC42M)

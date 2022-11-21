@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSHSTHREADEDKEYEDNOC > SparkFun-Hardware : SMA-THREADED-KEYED_NO-COPPER](#fzshsthreadedkeyednoc--sparkfun-hardware--sma-threaded-keyed_no-copper)
+* [FZSHSTHKEYEDNOC > SparkFun-Hardware : SMA-THREADED-KEYED_NO-COPPER](#fzshsthkeyednoc--sparkfun-hardware--sma-threaded-keyed_no-copper)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSHSTHREADEDKEYEDNOC > SparkFun-Hardware : SMA-THREADED-KEYED_NO-COPPER
+# FZSHSTHKEYEDNOC > SparkFun-Hardware : SMA-THREADED-KEYED_NO-COPPER
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED-KEYED_NO-COPPER
-- Hex ID: FZSHSTHREADEDKEYEDNOC
+- Hex ID: FZSHSTHKEYEDNOC
 - Name: SparkFun-Hardware : SMA-THREADED-KEYED_NO-COPPER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/SMA-THREADED-KEYED_NO-COPPER/
 - Description: SparkFun-Hardware : SMA-THREADED-KEYED_NO-COPPER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED-KEYED_NO-COPPER](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED-KEYED_NO-COPPER)
-- Short Link: [http://oom.lt/FZSHSTHREADEDKEYEDNOC](http://oom.lt/FZSHSTHREADEDKEYEDNOC)
+- Short Link: [http://oom.lt/FZSHSTHKEYEDNOC](http://oom.lt/FZSHSTHKEYEDNOC)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Hardware|
 |OOMP Index|oompIndex|SMA-THREADED-KEYED_NO-COPPER|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED-KEYED_NO-COPPER|
-|Hex ID (short code)|hexID|FZSHSTHREADEDKEYEDNOC|
+|Hex ID (short code)|hexID|FZSHSTHKEYEDNOC|
 |name|name|SparkFun-Hardware : SMA-THREADED-KEYED_NO-COPPER|
 ||||

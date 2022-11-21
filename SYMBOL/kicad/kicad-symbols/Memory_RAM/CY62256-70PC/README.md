@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-CY62256-70PC
 - Hex ID: SZKMEMORYRAMCY622567PC
 - Name: Memory_RAM : CY62256-70PC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/CY62256-70PC/
 - Description: Memory_RAM : CY62256-70PC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-CY62256-70PC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-CY62256-70PC)
 - Short Link: [http://oom.lt/SZKMEMORYRAMCY622567PC](http://oom.lt/SZKMEMORYRAMCY622567PC)

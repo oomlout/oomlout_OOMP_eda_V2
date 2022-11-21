@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMSOT886 > Package_TO_SOT_SMD : SOT-886](#fzkpackagetosotsmsot886--package_to_sot_smd--sot-886)
+* [FZKSOTSOT886 > Package_TO_SOT_SMD : SOT-886](#fzksotsot886--package_to_sot_smd--sot-886)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMSOT886 > Package_TO_SOT_SMD : SOT-886
+# FZKSOTSOT886 > Package_TO_SOT_SMD : SOT-886
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-886
-- Hex ID: FZKPACKAGETOSOTSMSOT886
+- Hex ID: FZKSOTSOT886
 - Name: Package_TO_SOT_SMD : SOT-886
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-886/
 - Description: Package_TO_SOT_SMD : SOT-886
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-886](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-886)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMSOT886](http://oom.lt/FZKPACKAGETOSOTSMSOT886)
+- Short Link: [http://oom.lt/FZKSOTSOT886](http://oom.lt/FZKSOTSOT886)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SOT-886|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-886|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT886|
+|Hex ID (short code)|hexID|FZKSOTSOT886|
 |name|name|Package_TO_SOT_SMD : SOT-886|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-886'</td><td> 'description'</td></tr><tr><td> 'SOT-886'</td><td> 'tags'</td></tr><tr><td> 'SOT-886'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-886.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

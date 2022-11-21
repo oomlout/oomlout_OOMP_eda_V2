@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNWQFN421EP35X9P5EP25X755THERMALVIAS > Package_DFN_QFN : WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias](#fzkdfnwqfn421ep35x9p5ep25x755thermalvias--package_dfn_qfn--wqfn-42-1ep_35x9mm_p05mm_ep205x755mm_thermalvias)
+* [FZKDFNWQFN421EP35X9P5EP25X755THV > Package_DFN_QFN : WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias](#fzkdfnwqfn421ep35x9p5ep25x755thv--package_dfn_qfn--wqfn-42-1ep_35x9mm_p05mm_ep205x755mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNWQFN421EP35X9P5EP25X755THERMALVIAS > Package_DFN_QFN : WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias
+# FZKDFNWQFN421EP35X9P5EP25X755THV > Package_DFN_QFN : WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias
-- Hex ID: FZKDFNWQFN421EP35X9P5EP25X755THERMALVIAS
+- Hex ID: FZKDFNWQFN421EP35X9P5EP25X755THV
 - Name: Package_DFN_QFN : WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias/
 - Description: Package_DFN_QFN : WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNWQFN421EP35X9P5EP25X755THERMALVIAS](http://oom.lt/FZKDFNWQFN421EP35X9P5EP25X755THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNWQFN421EP35X9P5EP25X755THV](http://oom.lt/FZKDFNWQFN421EP35X9P5EP25X755THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNWQFN421EP35X9P5EP25X755THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNWQFN421EP35X9P5EP25X755THV|
 |name|name|Package_DFN_QFN : WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'WQFN</td><td> 42 Pin (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ts3l501e.pdf#page=23)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'WQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

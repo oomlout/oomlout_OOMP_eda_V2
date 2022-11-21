@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-TD1208
 - Hex ID: FZKRFMOTD128
 - Name: RF_Module : TD1208
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/TD1208/
 - Description: RF_Module : TD1208
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-TD1208](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-TD1208)
 - Short Link: [http://oom.lt/FZKRFMOTD128](http://oom.lt/FZKRFMOTD128)

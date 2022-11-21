@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-S64W
 - Hex ID: FZEPOTS64W
 - Name: pot : S64W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/S64W/
 - Description: pot : S64W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-S64W](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-S64W)
 - Short Link: [http://oom.lt/FZEPOTS64W](http://oom.lt/FZEPOTS64W)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SB140
 - Hex ID: SZKDIODESB14
 - Name: Diode : SB140
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SB140/
 - Description: Diode : SB140
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SB140](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SB140)
 - Short Link: [http://oom.lt/SZKDIODESB14](http://oom.lt/SZKDIODESB14)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-amd-mach-PQFP100
 - Hex ID: FZEAMDMACHPQFP1
 - Name: amd-mach : PQFP100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/amd-mach/PQFP100/
 - Description: amd-mach : PQFP100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-PQFP100](http://oom.lt/FOOTPRINT-eagle-eagle-default-amd-mach-PQFP100)
 - Short Link: [http://oom.lt/FZEAMDMACHPQFP1](http://oom.lt/FZEAMDMACHPQFP1)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-am29-memory-RTSOP48
 - Hex ID: FZEAM29MEMORYRTS48
 - Name: am29-memory : RTSOP48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/am29-memory/RTSOP48/
 - Description: am29-memory : RTSOP48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-RTSOP48](http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-RTSOP48)
 - Short Link: [http://oom.lt/FZEAM29MEMORYRTS48](http://oom.lt/FZEAM29MEMORYRTS48)

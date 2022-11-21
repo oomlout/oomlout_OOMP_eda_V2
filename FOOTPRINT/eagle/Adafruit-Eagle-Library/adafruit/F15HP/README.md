@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-F15HP
 - Hex ID: FZAF15HP
 - Name: adafruit : F15HP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/F15HP/
 - Description: adafruit : F15HP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-F15HP](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-F15HP)
 - Short Link: [http://oom.lt/FZAF15HP](http://oom.lt/FZAF15HP)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-CBB
 - Hex ID: FZETEXASCBB
 - Name: texas : CBB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/CBB/
 - Description: texas : CBB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-CBB](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-CBB)
 - Short Link: [http://oom.lt/FZETEXASCBB](http://oom.lt/FZETEXASCBB)

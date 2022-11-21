@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNMXMXMEGAFIT7682522X1P57HORIZONTAL > Connector_Molex : Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal](#fzkcnmxmxmegafit7682522x1p57horizontal--connector_molex--molex_mega-fit_76825-0002_2x01_p570mm_horizontal)
+* [FZKCNMXMXMEGAFIT7682522X1P57H > Connector_Molex : Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal](#fzkcnmxmxmegafit7682522x1p57h--connector_molex--molex_mega-fit_76825-0002_2x01_p570mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXMEGAFIT7682522X1P57HORIZONTAL > Connector_Molex : Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal
+# FZKCNMXMXMEGAFIT7682522X1P57H > Connector_Molex : Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal
-- Hex ID: FZKCNMXMXMEGAFIT7682522X1P57HORIZONTAL
+- Hex ID: FZKCNMXMXMEGAFIT7682522X1P57H
 - Name: Connector_Molex : Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal/
 - Description: Connector_Molex : Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNMXMXMEGAFIT7682522X1P57HORIZONTAL](http://oom.lt/FZKCNMXMXMEGAFIT7682522X1P57HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNMXMXMEGAFIT7682522X1P57H](http://oom.lt/FZKCNMXMXMEGAFIT7682522X1P57H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNMXMXMEGAFIT7682522X1P57HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNMXMXMEGAFIT7682522X1P57H|
 |name|name|Connector_Molex : Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex Mega-Fit Power Connectors</td><td> 76825-0002 (compatible alternatives</td></tr><tr><td> 172064-0002</td><td> 172064-1002)</td><td> 1 Pins per row (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/1720640002_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex Mega-Fit top entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

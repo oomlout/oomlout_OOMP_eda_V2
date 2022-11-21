@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-P-VQFN16-0303-0.50-001
 - Hex ID: FZSISPVQFN163351
 - Name: SparkFun-IC-Special-Function : P-VQFN16-0303-0.50-001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/P-VQFN16-0303-0.50-001/
 - Description: SparkFun-IC-Special-Function : P-VQFN16-0303-0.50-001
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-P-VQFN16-0303-0.50-001](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-P-VQFN16-0303-0.50-001)
 - Short Link: [http://oom.lt/FZSISPVQFN163351](http://oom.lt/FZSISPVQFN163351)

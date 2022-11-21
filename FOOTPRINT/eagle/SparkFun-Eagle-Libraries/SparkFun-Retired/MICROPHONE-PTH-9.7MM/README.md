@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MICROPHONE-PTH-9.7MM
 - Hex ID: FZSRTMPHONEP97
 - Name: SparkFun-Retired : MICROPHONE-PTH-9.7MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/MICROPHONE-PTH-9.7MM/
 - Description: SparkFun-Retired : MICROPHONE-PTH-9.7MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MICROPHONE-PTH-9.7MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MICROPHONE-PTH-9.7MM)
 - Short Link: [http://oom.lt/FZSRTMPHONEP97](http://oom.lt/FZSRTMPHONEP97)

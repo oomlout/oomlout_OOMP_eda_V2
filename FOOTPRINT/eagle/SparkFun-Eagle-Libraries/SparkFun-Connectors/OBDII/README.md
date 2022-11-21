@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-OBDII
 - Hex ID: FZSSPARKFUNCNSOBDII
 - Name: SparkFun-Connectors : OBDII
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/OBDII/
 - Description: SparkFun-Connectors : OBDII
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-OBDII](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-OBDII)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSOBDII](http://oom.lt/FZSSPARKFUNCNSOBDII)

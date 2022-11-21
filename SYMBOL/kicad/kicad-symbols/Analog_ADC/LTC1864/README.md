@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1864
 - Hex ID: SZKANALOGADCLTC1864
 - Name: Analog_ADC : LTC1864
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1864/
 - Description: Analog_ADC : LTC1864
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1864](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1864)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC1864](http://oom.lt/SZKANALOGADCLTC1864)

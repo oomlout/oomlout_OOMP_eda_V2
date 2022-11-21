@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-RAK811
 - Hex ID: FZKRFMORAK811
 - Name: RF_Module : RAK811
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/RAK811/
 - Description: RF_Module : RAK811
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-RAK811](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-RAK811)
 - Short Link: [http://oom.lt/FZKRFMORAK811](http://oom.lt/FZKRFMORAK811)

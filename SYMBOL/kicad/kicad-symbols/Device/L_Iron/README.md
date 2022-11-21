@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-L_Iron
 - Hex ID: SZKDEVICELIRON
 - Name: Device : L_Iron
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/L_Iron/
 - Description: Device : L_Iron
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Iron](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Iron)
 - Short Link: [http://oom.lt/SZKDEVICELIRON](http://oom.lt/SZKDEVICELIRON)

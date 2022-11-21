@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RE
 - Hex ID: FZERELAYRE
 - Name: relay : RE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RE/
 - Description: relay : RE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RE](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RE)
 - Short Link: [http://oom.lt/FZERELAYRE](http://oom.lt/FZERELAYRE)

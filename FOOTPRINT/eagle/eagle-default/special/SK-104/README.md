@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-SK-104
 - Hex ID: FZESPECIALSK14
 - Name: special : SK-104
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/SK-104/
 - Description: special : SK-104
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SK-104](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-SK-104)
 - Short Link: [http://oom.lt/FZESPECIALSK14](http://oom.lt/FZESPECIALSK14)

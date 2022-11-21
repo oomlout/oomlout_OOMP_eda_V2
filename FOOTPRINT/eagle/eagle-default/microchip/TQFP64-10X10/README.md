@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-TQFP64-10X10
 - Hex ID: FZEMCHIPTQFP641X1
 - Name: microchip : TQFP64-10X10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/TQFP64-10X10/
 - Description: microchip : TQFP64-10X10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-TQFP64-10X10](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-TQFP64-10X10)
 - Short Link: [http://oom.lt/FZEMCHIPTQFP641X1](http://oom.lt/FZEMCHIPTQFP641X1)

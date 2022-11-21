@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_NPN_EBC
 - Hex ID: SZKDEVICEQNPNEBC
 - Name: Device : Q_NPN_EBC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_NPN_EBC/
 - Description: Device : Q_NPN_EBC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NPN_EBC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NPN_EBC)
 - Short Link: [http://oom.lt/SZKDEVICEQNPNEBC](http://oom.lt/SZKDEVICEQNPNEBC)

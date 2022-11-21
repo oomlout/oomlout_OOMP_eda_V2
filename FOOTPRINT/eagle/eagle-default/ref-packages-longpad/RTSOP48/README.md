@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADRTS48 > ref-packages-longpad : RTSOP48](#fzerefpackageslongpadrts48--ref-packages-longpad--rtsop48)
+* [FZEREFPSLPRTS48 > ref-packages-longpad : RTSOP48](#fzerefpslprts48--ref-packages-longpad--rtsop48)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADRTS48 > ref-packages-longpad : RTSOP48
+# FZEREFPSLPRTS48 > ref-packages-longpad : RTSOP48
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTSOP48
-- Hex ID: FZEREFPACKAGESLONGPADRTS48
+- Hex ID: FZEREFPSLPRTS48
 - Name: ref-packages-longpad : RTSOP48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/RTSOP48/
 - Description: ref-packages-longpad : RTSOP48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTSOP48](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTSOP48)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADRTS48](http://oom.lt/FZEREFPACKAGESLONGPADRTS48)
+- Short Link: [http://oom.lt/FZEREFPSLPRTS48](http://oom.lt/FZEREFPSLPRTS48)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|RTSOP48|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTSOP48|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADRTS48|
+|Hex ID (short code)|hexID|FZEREFPSLPRTS48|
 |name|name|ref-packages-longpad : RTSOP48|
 ||||

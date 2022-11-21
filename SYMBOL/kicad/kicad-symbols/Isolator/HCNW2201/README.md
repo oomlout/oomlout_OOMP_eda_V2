@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-HCNW2201
 - Hex ID: SZKISOLATORHCNW221
 - Name: Isolator : HCNW2201
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/HCNW2201/
 - Description: Isolator : HCNW2201
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCNW2201](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCNW2201)
 - Short Link: [http://oom.lt/SZKISOLATORHCNW221](http://oom.lt/SZKISOLATORHCNW221)

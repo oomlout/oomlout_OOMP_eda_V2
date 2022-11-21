@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N4006
 - Hex ID: SZKDIODE1N46
 - Name: Diode : 1N4006
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N4006/
 - Description: Diode : 1N4006
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4006](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4006)
 - Short Link: [http://oom.lt/SZKDIODE1N46](http://oom.lt/SZKDIODE1N46)

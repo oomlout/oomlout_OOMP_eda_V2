@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_ESD-Logo_CopperTop
 - Hex ID: FZKSZSYESDLCTOP
 - Name: Symbol : Symbol_ESD-Logo_CopperTop
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_ESD-Logo_CopperTop/
 - Description: Symbol : Symbol_ESD-Logo_CopperTop
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_ESD-Logo_CopperTop](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_ESD-Logo_CopperTop)
 - Short Link: [http://oom.lt/FZKSZSYESDLCTOP](http://oom.lt/FZKSZSYESDLCTOP)

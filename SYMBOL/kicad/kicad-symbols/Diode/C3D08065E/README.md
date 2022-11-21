@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C3D08065E
 - Hex ID: SZKDIODEC3D865E
 - Name: Diode : C3D08065E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C3D08065E/
 - Description: Diode : C3D08065E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D08065E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D08065E)
 - Short Link: [http://oom.lt/SZKDIODEC3D865E](http://oom.lt/SZKDIODEC3D865E)

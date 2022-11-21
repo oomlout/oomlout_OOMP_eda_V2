@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-conrad-736880-49
 - Hex ID: FZECONCONRAD7368849
 - Name: con-conrad : 736880-49
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-conrad/736880-49/
 - Description: con-conrad : 736880-49
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-conrad-736880-49](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-conrad-736880-49)
 - Short Link: [http://oom.lt/FZECONCONRAD7368849](http://oom.lt/FZECONCONRAD7368849)

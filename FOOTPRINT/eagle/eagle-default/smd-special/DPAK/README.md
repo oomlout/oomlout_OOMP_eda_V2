@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-DPAK
 - Hex ID: FZESMSPECIALDPAK
 - Name: smd-special : DPAK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/DPAK/
 - Description: smd-special : DPAK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-DPAK](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-DPAK)
 - Short Link: [http://oom.lt/FZESMSPECIALDPAK](http://oom.lt/FZESMSPECIALDPAK)

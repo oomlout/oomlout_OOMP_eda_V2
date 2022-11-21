@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESP1Z12E > ref-packages : P1Z12E](#fzerefpackagesp1z12e--ref-packages--p1z12e)
+* [FZEREFPSP1Z12E > ref-packages : P1Z12E](#fzerefpsp1z12e--ref-packages--p1z12e)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESP1Z12E > ref-packages : P1Z12E
+# FZEREFPSP1Z12E > ref-packages : P1Z12E
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-P1Z12E
-- Hex ID: FZEREFPACKAGESP1Z12E
+- Hex ID: FZEREFPSP1Z12E
 - Name: ref-packages : P1Z12E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/P1Z12E/
 - Description: ref-packages : P1Z12E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-P1Z12E](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-P1Z12E)
-- Short Link: [http://oom.lt/FZEREFPACKAGESP1Z12E](http://oom.lt/FZEREFPACKAGESP1Z12E)
+- Short Link: [http://oom.lt/FZEREFPSP1Z12E](http://oom.lt/FZEREFPSP1Z12E)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|P1Z12E|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-P1Z12E|
-|Hex ID (short code)|hexID|FZEREFPACKAGESP1Z12E|
+|Hex ID (short code)|hexID|FZEREFPSP1Z12E|
 |name|name|ref-packages : P1Z12E|
 ||||

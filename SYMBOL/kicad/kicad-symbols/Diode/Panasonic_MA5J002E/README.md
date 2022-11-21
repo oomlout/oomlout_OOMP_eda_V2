@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-Panasonic_MA5J002E
 - Hex ID: SZKDIODEPMA5J2E
 - Name: Diode : Panasonic_MA5J002E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/Panasonic_MA5J002E/
 - Description: Diode : Panasonic_MA5J002E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Panasonic_MA5J002E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Panasonic_MA5J002E)
 - Short Link: [http://oom.lt/SZKDIODEPMA5J2E](http://oom.lt/SZKDIODEPMA5J2E)

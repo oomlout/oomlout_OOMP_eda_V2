@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega329PA-M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA329PAM
 - Name: MCU_Microchip_ATmega : ATmega329PA-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega329PA-M/
 - Description: MCU_Microchip_ATmega : ATmega329PA-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega329PA-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega329PA-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA329PAM](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA329PAM)

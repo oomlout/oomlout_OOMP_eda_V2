@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-124
 - Hex ID: FZESMIPCLCC124
 - Name: smd-ipc : LCC-124
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/LCC-124/
 - Description: smd-ipc : LCC-124
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-124](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-124)
 - Short Link: [http://oom.lt/FZESMIPCLCC124](http://oom.lt/FZESMIPCLCC124)

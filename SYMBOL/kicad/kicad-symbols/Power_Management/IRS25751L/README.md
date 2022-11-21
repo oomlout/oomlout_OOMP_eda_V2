@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-IRS25751L
 - Hex ID: SZKPOWERMANAGEMENTIRS25751L
 - Name: Power_Management : IRS25751L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/IRS25751L/
 - Description: Power_Management : IRS25751L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IRS25751L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IRS25751L)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTIRS25751L](http://oom.lt/SZKPOWERMANAGEMENTIRS25751L)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-8259A
 - Hex ID: SZKINTERFACE8259A
 - Name: Interface : 8259A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/8259A/
 - Description: Interface : 8259A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-8259A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-8259A)
 - Short Link: [http://oom.lt/SZKINTERFACE8259A](http://oom.lt/SZKINTERFACE8259A)

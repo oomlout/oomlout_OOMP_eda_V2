@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3550-60-ESN
 - Hex ID: SZKANALOGADCMCP3556ESN
 - Name: Analog_ADC : MCP3550-60-ESN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3550-60-ESN/
 - Description: Analog_ADC : MCP3550-60-ESN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3550-60-ESN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3550-60-ESN)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3556ESN](http://oom.lt/SZKANALOGADCMCP3556ESN)

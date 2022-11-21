@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-PQFP240
 - Hex ID: FZEALTERAPQFP24
 - Name: altera : PQFP240
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/PQFP240/
 - Description: altera : PQFP240
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PQFP240](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PQFP240)
 - Short Link: [http://oom.lt/FZEALTERAPQFP24](http://oom.lt/FZEALTERAPQFP24)

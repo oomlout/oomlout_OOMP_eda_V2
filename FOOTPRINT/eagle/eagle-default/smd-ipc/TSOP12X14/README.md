@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-TSOP12X14
 - Hex ID: FZESMIPCTS12X14
 - Name: smd-ipc : TSOP12X14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/TSOP12X14/
 - Description: smd-ipc : TSOP12X14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TSOP12X14](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TSOP12X14)
 - Short Link: [http://oom.lt/FZESMIPCTS12X14](http://oom.lt/FZESMIPCTS12X14)

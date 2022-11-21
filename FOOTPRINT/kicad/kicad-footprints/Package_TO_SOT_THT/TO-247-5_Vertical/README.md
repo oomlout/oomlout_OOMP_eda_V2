@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOTTO2475VERTICAL > Package_TO_SOT_THT : TO-247-5_Vertical](#fzksotto2475vertical--package_to_sot_tht--to-247-5_vertical)
+* [FZKSOTTO2475F > Package_TO_SOT_THT : TO-247-5_Vertical](#fzksotto2475f--package_to_sot_tht--to-247-5_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTTO2475VERTICAL > Package_TO_SOT_THT : TO-247-5_Vertical
+# FZKSOTTO2475F > Package_TO_SOT_THT : TO-247-5_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-5_Vertical
-- Hex ID: FZKSOTTO2475VERTICAL
+- Hex ID: FZKSOTTO2475F
 - Name: Package_TO_SOT_THT : TO-247-5_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-247-5_Vertical/
 - Description: Package_TO_SOT_THT : TO-247-5_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-5_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-5_Vertical)
-- Short Link: [http://oom.lt/FZKSOTTO2475VERTICAL](http://oom.lt/FZKSOTTO2475VERTICAL)
+- Short Link: [http://oom.lt/FZKSOTTO2475F](http://oom.lt/FZKSOTTO2475F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_THT|
 |OOMP Index|oompIndex|TO-247-5_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-5_Vertical|
-|Hex ID (short code)|hexID|FZKSOTTO2475VERTICAL|
+|Hex ID (short code)|hexID|FZKSOTTO2475F|
 |name|name|Package_TO_SOT_THT : TO-247-5_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-247-5_Vertical'</td><td> 'description'</td></tr><tr><td> 'TO-247-5</td><td> Vertical</td><td> RM 2.54mm</td><td> see http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20005685A.pdf'</td><td> 'tags'</td></tr><tr><td> 'TO-247-5 Vertical RM 2.54mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-247-5_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

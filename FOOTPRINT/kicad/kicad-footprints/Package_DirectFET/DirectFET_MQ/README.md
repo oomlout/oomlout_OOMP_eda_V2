@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_MQ
 - Hex ID: FZKDFETDIRECTFETMQ
 - Name: Package_DirectFET : DirectFET_MQ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_MQ/
 - Description: Package_DirectFET : DirectFET_MQ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_MQ](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_MQ)
 - Short Link: [http://oom.lt/FZKDFETDIRECTFETMQ](http://oom.lt/FZKDFETDIRECTFETMQ)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP320
 - Hex ID: SZKCPLDALTERAEP32
 - Name: CPLD_Altera : EP320
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EP320/
 - Description: CPLD_Altera : EP320
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP320](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP320)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEP32](http://oom.lt/SZKCPLDALTERAEP32)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_TE_2041021
 - Hex ID: FZKCNCARDSDTE24121
 - Name: Connector_Card : SD_TE_2041021
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_TE_2041021/
 - Description: Connector_Card : SD_TE_2041021
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_TE_2041021](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_TE_2041021)
 - Short Link: [http://oom.lt/FZKCNCARDSDTE24121](http://oom.lt/FZKCNCARDSDTE24121)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DIN7
 - Hex ID: FZSSPARKFUNCNSDIN7
 - Name: SparkFun-Connectors : DIN7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/DIN7/
 - Description: SparkFun-Connectors : DIN7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DIN7](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DIN7)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSDIN7](http://oom.lt/FZSSPARKFUNCNSDIN7)

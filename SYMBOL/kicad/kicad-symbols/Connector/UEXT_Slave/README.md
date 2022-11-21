@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-UEXT_Slave
 - Hex ID: SZKCNUEXTSLAVE
 - Name: Connector : UEXT_Slave
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/UEXT_Slave/
 - Description: Connector : UEXT_Slave
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-UEXT_Slave](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-UEXT_Slave)
 - Short Link: [http://oom.lt/SZKCNUEXTSLAVE](http://oom.lt/SZKCNUEXTSLAVE)

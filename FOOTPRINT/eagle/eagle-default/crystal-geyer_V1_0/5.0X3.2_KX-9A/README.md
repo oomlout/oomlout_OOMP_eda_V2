@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-5.0X3.2_KX-9A
 - Hex ID: FZEXGEYERV15X32KX9A
 - Name: crystal-geyer_V1_0 : 5.0X3.2_KX-9A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal-geyer_V1_0/5.0X3.2_KX-9A/
 - Description: crystal-geyer_V1_0 : 5.0X3.2_KX-9A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-5.0X3.2_KX-9A](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-5.0X3.2_KX-9A)
 - Short Link: [http://oom.lt/FZEXGEYERV15X32KX9A](http://oom.lt/FZEXGEYERV15X32KX9A)

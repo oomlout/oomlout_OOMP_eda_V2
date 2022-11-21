@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS77715_HTSSOP20
 - Hex ID: SZKREGULATORLINEARTPS77715HTSS2
 - Name: Regulator_Linear : TPS77715_HTSSOP20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS77715_HTSSOP20/
 - Description: Regulator_Linear : TPS77715_HTSSOP20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS77715_HTSSOP20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS77715_HTSSOP20)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS77715HTSS2](http://oom.lt/SZKREGULATORLINEARTPS77715HTSS2)

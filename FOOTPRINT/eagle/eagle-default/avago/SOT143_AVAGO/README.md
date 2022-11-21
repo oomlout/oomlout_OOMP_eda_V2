@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-avago-SOT143_AVAGO
 - Hex ID: FZEAVAGOSOT143AVAGO
 - Name: avago : SOT143_AVAGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/avago/SOT143_AVAGO/
 - Description: avago : SOT143_AVAGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-avago-SOT143_AVAGO](http://oom.lt/FOOTPRINT-eagle-eagle-default-avago-SOT143_AVAGO)
 - Short Link: [http://oom.lt/FZEAVAGOSOT143AVAGO](http://oom.lt/FZEAVAGOSOT143AVAGO)

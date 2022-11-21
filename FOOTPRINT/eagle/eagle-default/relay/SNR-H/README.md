@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-SNR-H
 - Hex ID: FZERELAYSNRH
 - Name: relay : SNR-H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/SNR-H/
 - Description: relay : SNR-H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SNR-H](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SNR-H)
 - Short Link: [http://oom.lt/FZERELAYSNRH](http://oom.lt/FZERELAYSNRH)

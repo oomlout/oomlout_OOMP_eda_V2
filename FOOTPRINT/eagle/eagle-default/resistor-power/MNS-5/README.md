@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-MNS-5
 - Hex ID: FZERESISTORPOWERMNS5
 - Name: resistor-power : MNS-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/MNS-5/
 - Description: resistor-power : MNS-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-MNS-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-MNS-5)
 - Short Link: [http://oom.lt/FZERESISTORPOWERMNS5](http://oom.lt/FZERESISTORPOWERMNS5)

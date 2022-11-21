@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-P-BGA329
 - Hex ID: FZEMSIEMENSPBGA329
 - Name: micro-siemens : P-BGA329
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/P-BGA329/
 - Description: micro-siemens : P-BGA329
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-P-BGA329](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-P-BGA329)
 - Short Link: [http://oom.lt/FZEMSIEMENSPBGA329](http://oom.lt/FZEMSIEMENSPBGA329)

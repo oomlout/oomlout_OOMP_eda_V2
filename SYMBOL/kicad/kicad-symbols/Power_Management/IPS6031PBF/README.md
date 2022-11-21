@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-IPS6031PBF
 - Hex ID: SZKPOWERMANAGEMENTIPS631PBF
 - Name: Power_Management : IPS6031PBF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/IPS6031PBF/
 - Description: Power_Management : IPS6031PBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6031PBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6031PBF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTIPS631PBF](http://oom.lt/SZKPOWERMANAGEMENTIPS631PBF)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linx-RXM-XXX-LR
 - Hex ID: FZELINXRXMXXXLR
 - Name: linx : RXM-XXX-LR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linx/RXM-XXX-LR/
 - Description: linx : RXM-XXX-LR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linx-RXM-XXX-LR](http://oom.lt/FOOTPRINT-eagle-eagle-default-linx-RXM-XXX-LR)
 - Short Link: [http://oom.lt/FZELINXRXMXXXLR](http://oom.lt/FZELINXRXMXXXLR)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SJ_2S-NO-NS
 - Hex ID: FZSRTSJ2SNONS
 - Name: SparkFun-Retired : SJ_2S-NO-NS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SJ_2S-NO-NS/
 - Description: SparkFun-Retired : SJ_2S-NO-NS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SJ_2S-NO-NS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SJ_2S-NO-NS)
 - Short Link: [http://oom.lt/FZSRTSJ2SNONS](http://oom.lt/FZSRTSJ2SNONS)

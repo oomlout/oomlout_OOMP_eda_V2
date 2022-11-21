@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-C221B1B
 - Hex ID: FZEDIODEC221B1B
 - Name: diode : C221B1B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/C221B1B/
 - Description: diode : C221B1B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C221B1B](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C221B1B)
 - Short Link: [http://oom.lt/FZEDIODEC221B1B](http://oom.lt/FZEDIODEC221B1B)

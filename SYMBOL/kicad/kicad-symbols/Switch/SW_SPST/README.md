@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKSWITCHSWSPST > Switch : SW_SPST](#szkswitchswspst--switch--sw_spst)
+* [SZKSWSWSPST > Switch : SW_SPST](#szkswswspst--switch--sw_spst)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKSWITCHSWSPST > Switch : SW_SPST
+# SZKSWSWSPST > Switch : SW_SPST
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_SPST
-- Hex ID: SZKSWITCHSWSPST
+- Hex ID: SZKSWSWSPST
 - Name: Switch : SW_SPST
 - Description: Switch : SW_SPST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_SPST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_SPST)
-- Short Link: [http://oom.lt/SZKSWITCHSWSPST](http://oom.lt/SZKSWITCHSWSPST)
+- Short Link: [http://oom.lt/SZKSWSWSPST](http://oom.lt/SZKSWSWSPST)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Switch|
 |OOMP Index|oompIndex|SW_SPST|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_SPST|
-|Hex ID (short code)|hexID|SZKSWITCHSWSPST|
+|Hex ID (short code)|hexID|SZKSWSWSPST|
 |name|name|Switch : SW_SPST|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_SPST'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switch lever'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Pole Single Throw (SPST) switch'</td></tr></table>]|
 ||||

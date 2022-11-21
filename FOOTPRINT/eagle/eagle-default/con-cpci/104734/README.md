@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cpci-104734
 - Hex ID: FZECONCPCI14734
 - Name: con-cpci : 104734
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cpci/104734/
 - Description: con-cpci : 104734
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-104734](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-104734)
 - Short Link: [http://oom.lt/FZECONCPCI14734](http://oom.lt/FZECONCPCI14734)

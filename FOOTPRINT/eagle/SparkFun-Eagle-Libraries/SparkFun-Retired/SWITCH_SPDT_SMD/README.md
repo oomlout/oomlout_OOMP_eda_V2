@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSRTSWITCHSPDTSM > SparkFun-Retired : SWITCH_SPDT_SMD](#fzsrtswitchspdtsm--sparkfun-retired--switch_spdt_smd)
+* [FZSRTSWSPDTSM > SparkFun-Retired : SWITCH_SPDT_SMD](#fzsrtswspdtsm--sparkfun-retired--switch_spdt_smd)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSRTSWITCHSPDTSM > SparkFun-Retired : SWITCH_SPDT_SMD
+# FZSRTSWSPDTSM > SparkFun-Retired : SWITCH_SPDT_SMD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH_SPDT_SMD
-- Hex ID: FZSRTSWITCHSPDTSM
+- Hex ID: FZSRTSWSPDTSM
 - Name: SparkFun-Retired : SWITCH_SPDT_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SWITCH_SPDT_SMD/
 - Description: SparkFun-Retired : SWITCH_SPDT_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH_SPDT_SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH_SPDT_SMD)
-- Short Link: [http://oom.lt/FZSRTSWITCHSPDTSM](http://oom.lt/FZSRTSWITCHSPDTSM)
+- Short Link: [http://oom.lt/FZSRTSWSPDTSM](http://oom.lt/FZSRTSWSPDTSM)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Retired|
 |OOMP Index|oompIndex|SWITCH_SPDT_SMD|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH_SPDT_SMD|
-|Hex ID (short code)|hexID|FZSRTSWITCHSPDTSM|
+|Hex ID (short code)|hexID|FZSRTSWSPDTSM|
 |name|name|SparkFun-Retired : SWITCH_SPDT_SMD|
 ||||

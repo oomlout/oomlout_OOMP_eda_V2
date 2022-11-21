@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT220XQ
 - Hex ID: SZKINTERFACEUFT22XQ
 - Name: Interface_USB : FT220XQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FT220XQ/
 - Description: Interface_USB : FT220XQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT220XQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT220XQ)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT22XQ](http://oom.lt/SZKINTERFACEUFT22XQ)

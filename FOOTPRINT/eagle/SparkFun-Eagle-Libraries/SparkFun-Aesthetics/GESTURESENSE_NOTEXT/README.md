@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSAGESTURESENSENOTEXT > SparkFun-Aesthetics : GESTURESENSE_NOTEXT](#fzsagesturesensenotext--sparkfun-aesthetics--gesturesense_notext)
+* [FZSAGSNOT > SparkFun-Aesthetics : GESTURESENSE_NOTEXT](#fzsagsnot--sparkfun-aesthetics--gesturesense_notext)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSAGESTURESENSENOTEXT > SparkFun-Aesthetics : GESTURESENSE_NOTEXT
+# FZSAGSNOT > SparkFun-Aesthetics : GESTURESENSE_NOTEXT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-GESTURESENSE_NOTEXT
-- Hex ID: FZSAGESTURESENSENOTEXT
+- Hex ID: FZSAGSNOT
 - Name: SparkFun-Aesthetics : GESTURESENSE_NOTEXT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/GESTURESENSE_NOTEXT/
 - Description: SparkFun-Aesthetics : GESTURESENSE_NOTEXT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-GESTURESENSE_NOTEXT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-GESTURESENSE_NOTEXT)
-- Short Link: [http://oom.lt/FZSAGESTURESENSENOTEXT](http://oom.lt/FZSAGESTURESENSENOTEXT)
+- Short Link: [http://oom.lt/FZSAGSNOT](http://oom.lt/FZSAGSNOT)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Aesthetics|
 |OOMP Index|oompIndex|GESTURESENSE_NOTEXT|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-GESTURESENSE_NOTEXT|
-|Hex ID (short code)|hexID|FZSAGESTURESENSENOTEXT|
+|Hex ID (short code)|hexID|FZSAGSNOT|
 |name|name|SparkFun-Aesthetics : GESTURESENSE_NOTEXT|
 ||||

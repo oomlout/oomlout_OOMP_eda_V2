@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKOCSOCSSMSEIKOEPSONSG82CE4PIN32X25HANDSOLDERING > Oscillator : Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering](#fzkocsocssmseikoepsonsg82ce4pin32x25handsoldering--oscillator--oscillator_smd_seikoepson_sg8002ce-4pin_32x25mm_handsoldering)
+* [FZKOCSOCSSMSEIKOEPSONSG82CE4P32X25HS > Oscillator : Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering](#fzkocsocssmseikoepsonsg82ce4p32x25hs--oscillator--oscillator_smd_seikoepson_sg8002ce-4pin_32x25mm_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKOCSOCSSMSEIKOEPSONSG82CE4PIN32X25HANDSOLDERING > Oscillator : Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering
+# FZKOCSOCSSMSEIKOEPSONSG82CE4P32X25HS > Oscillator : Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering
-- Hex ID: FZKOCSOCSSMSEIKOEPSONSG82CE4PIN32X25HANDSOLDERING
+- Hex ID: FZKOCSOCSSMSEIKOEPSONSG82CE4P32X25HS
 - Name: Oscillator : Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering/
 - Description: Oscillator : Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering)
-- Short Link: [http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG82CE4PIN32X25HANDSOLDERING](http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG82CE4PIN32X25HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG82CE4P32X25HS](http://oom.lt/FZKOCSOCSSMSEIKOEPSONSG82CE4P32X25HS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Oscillator|
 |OOMP Index|oompIndex|Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering|
-|Hex ID (short code)|hexID|FZKOCSOCSSMSEIKOEPSONSG82CE4PIN32X25HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKOCSOCSSMSEIKOEPSONSG82CE4P32X25HS|
 |name|name|Oscillator : Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal Oscillator Seiko Epson SG-8002CE https</td></tr><tr><td>//support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC</td><td> hand-soldering</td><td> 3.2x2.5mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal oscillator hand-soldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

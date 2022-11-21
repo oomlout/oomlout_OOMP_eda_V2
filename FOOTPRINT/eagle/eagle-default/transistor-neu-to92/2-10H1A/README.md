@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-2-10H1A
 - Hex ID: FZETRANSISTORNEUTO9221H1A
 - Name: transistor-neu-to92 : 2-10H1A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-neu-to92/2-10H1A/
 - Description: transistor-neu-to92 : 2-10H1A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-2-10H1A](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-2-10H1A)
 - Short Link: [http://oom.lt/FZETRANSISTORNEUTO9221H1A](http://oom.lt/FZETRANSISTORNEUTO9221H1A)

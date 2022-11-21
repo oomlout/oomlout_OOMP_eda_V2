@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Shunt_L35.3mm_W9.5mm_PS25.40mm_P38.10mm
 - Hex ID: FZKRRAXIALSHUNTL353W95PS254P381
 - Name: Resistor_THT : R_Axial_Shunt_L35.3mm_W9.5mm_PS25.40mm_P38.10mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Shunt_L35.3mm_W9.5mm_PS25.40mm_P38.10mm/
 - Description: Resistor_THT : R_Axial_Shunt_L35.3mm_W9.5mm_PS25.40mm_P38.10mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Shunt_L35.3mm_W9.5mm_PS25.40mm_P38.10mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Shunt_L35.3mm_W9.5mm_PS25.40mm_P38.10mm)
 - Short Link: [http://oom.lt/FZKRRAXIALSHUNTL353W95PS254P381](http://oom.lt/FZKRRAXIALSHUNTL353W95PS254P381)

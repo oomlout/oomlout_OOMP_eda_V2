@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067SM
 - Hex ID: SZK74XXCD74HC467SM
 - Name: 74xx : CD74HC4067SM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/CD74HC4067SM/
 - Description: 74xx : CD74HC4067SM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067SM](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067SM)
 - Short Link: [http://oom.lt/SZK74XXCD74HC467SM](http://oom.lt/SZK74XXCD74HC467SM)

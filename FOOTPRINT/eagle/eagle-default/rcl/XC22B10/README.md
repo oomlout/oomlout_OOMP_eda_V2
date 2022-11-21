@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-XC22B10
 - Hex ID: FZERCLXC22B1
 - Name: rcl : XC22B10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/XC22B10/
 - Description: rcl : XC22B10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-XC22B10](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-XC22B10)
 - Short Link: [http://oom.lt/FZERCLXC22B1](http://oom.lt/FZERCLXC22B1)

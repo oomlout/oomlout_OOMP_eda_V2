@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-nec-DIL18
 - Hex ID: FZEMEMORYNECDIL18
 - Name: memory-nec : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-nec/DIL18/
 - Description: memory-nec : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-nec-DIL18](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-nec-DIL18)
 - Short Link: [http://oom.lt/FZEMEMORYNECDIL18](http://oom.lt/FZEMEMORYNECDIL18)

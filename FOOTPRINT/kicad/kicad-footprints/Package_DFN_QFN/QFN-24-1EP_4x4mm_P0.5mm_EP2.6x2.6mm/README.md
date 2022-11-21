@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
 - Hex ID: FZKDFNQFN241EP4X4P5EP26X26
 - Name: Package_DFN_QFN : QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm/
 - Description: Package_DFN_QFN : QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm)
 - Short Link: [http://oom.lt/FZKDFNQFN241EP4X4P5EP26X26](http://oom.lt/FZKDFNQFN241EP4X4P5EP26X26)

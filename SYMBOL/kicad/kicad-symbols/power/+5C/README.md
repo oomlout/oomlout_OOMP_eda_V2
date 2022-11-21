@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+5C
 - Hex ID: SZKPOWER+5C
 - Name: power : +5C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+5C/
 - Description: power : +5C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+5C](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+5C)
 - Short Link: [http://oom.lt/SZKPOWER+5C](http://oom.lt/SZKPOWER+5C)
@@ -38,7 +39,7 @@ Contents
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+5C|
 |Hex ID (short code)|hexID|SZKPOWER+5C|
 |name|name|power : +5C|
-|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '+5C'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "+5C"'</td></tr></table>]|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '+5C'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'global power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "+5C"'</td></tr></table>]|
 ||||
 
 

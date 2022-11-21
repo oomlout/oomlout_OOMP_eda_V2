@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOTEXASHS81EP39X49P127THERMALVIAS > Package_SO : Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias](#fzksotexashs81ep39x49p127thermalvias--package_so--texas_hsop-8-1ep_39x49mm_p127mm_thermalvias)
+* [FZKSOTEXASHS81EP39X49P127THV > Package_SO : Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias](#fzksotexashs81ep39x49p127thv--package_so--texas_hsop-8-1ep_39x49mm_p127mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTEXASHS81EP39X49P127THERMALVIAS > Package_SO : Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias
+# FZKSOTEXASHS81EP39X49P127THV > Package_SO : Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias
-- Hex ID: FZKSOTEXASHS81EP39X49P127THERMALVIAS
+- Hex ID: FZKSOTEXASHS81EP39X49P127THV
 - Name: Package_SO : Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias/
 - Description: Package_SO : Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKSOTEXASHS81EP39X49P127THERMALVIAS](http://oom.lt/FZKSOTEXASHS81EP39X49P127THERMALVIAS)
+- Short Link: [http://oom.lt/FZKSOTEXASHS81EP39X49P127THV](http://oom.lt/FZKSOTEXASHS81EP39X49P127THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_SO|
 |OOMP Index|oompIndex|Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKSOTEXASHS81EP39X49P127THERMALVIAS|
+|Hex ID (short code)|hexID|FZKSOTEXASHS81EP39X49P127THV|
 |name|name|Package_SO : Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'Texas Instruments HSOP 9</td><td> 1.27mm pitch</td><td> 3.9x4.9mm body</td><td> exposed pad</td><td> thermal vias</td><td> DDA0008J (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps5430.pdf)'</td><td> 'tags'</td></tr><tr><td> 'HSOP 1.27'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0207_10
 - Hex ID: FZA271
 - Name: adafruit : 0207_10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0207_10/
 - Description: adafruit : 0207_10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0207_10](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0207_10)
 - Short Link: [http://oom.lt/FZA271](http://oom.lt/FZA271)

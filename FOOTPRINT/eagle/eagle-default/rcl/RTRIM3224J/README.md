@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIM3224J
 - Hex ID: FZERCLRTRIM3224J
 - Name: rcl : RTRIM3224J
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/RTRIM3224J/
 - Description: rcl : RTRIM3224J
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM3224J](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM3224J)
 - Short Link: [http://oom.lt/FZERCLRTRIM3224J](http://oom.lt/FZERCLRTRIM3224J)

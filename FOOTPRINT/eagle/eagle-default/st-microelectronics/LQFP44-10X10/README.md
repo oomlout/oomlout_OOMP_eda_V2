@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-LQFP44-10X10
 - Hex ID: FZESTMELECTRONICSLQFP441X1
 - Name: st-microelectronics : LQFP44-10X10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/LQFP44-10X10/
 - Description: st-microelectronics : LQFP44-10X10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-LQFP44-10X10](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-LQFP44-10X10)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSLQFP441X1](http://oom.lt/FZESTMELECTRONICSLQFP441X1)

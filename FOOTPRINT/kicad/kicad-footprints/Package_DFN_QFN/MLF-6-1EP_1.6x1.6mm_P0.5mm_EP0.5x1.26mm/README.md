@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm
 - Hex ID: FZKDFNMLF61EP16X16P5EP5X126
 - Name: Package_DFN_QFN : MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm/
 - Description: Package_DFN_QFN : MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm)
 - Short Link: [http://oom.lt/FZKDFNMLF61EP16X16P5EP5X126](http://oom.lt/FZKDFNMLF61EP16X16P5EP5X126)

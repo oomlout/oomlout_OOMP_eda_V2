@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-jack-SPC4078
 - Hex ID: FZECONJSPC478
 - Name: con-jack : SPC4078
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jack/SPC4078/
 - Description: con-jack : SPC4078
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jack-SPC4078](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jack-SPC4078)
 - Short Link: [http://oom.lt/FZECONJSPC478](http://oom.lt/FZECONJSPC478)

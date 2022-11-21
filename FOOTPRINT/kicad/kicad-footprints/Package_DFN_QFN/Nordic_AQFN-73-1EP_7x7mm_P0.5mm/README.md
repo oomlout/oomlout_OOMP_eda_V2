@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Nordic_AQFN-73-1EP_7x7mm_P0.5mm
 - Hex ID: FZKDFNNORDICAQFN731EP7X7P5
 - Name: Package_DFN_QFN : Nordic_AQFN-73-1EP_7x7mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Nordic_AQFN-73-1EP_7x7mm_P0.5mm/
 - Description: Package_DFN_QFN : Nordic_AQFN-73-1EP_7x7mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Nordic_AQFN-73-1EP_7x7mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Nordic_AQFN-73-1EP_7x7mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKDFNNORDICAQFN731EP7X7P5](http://oom.lt/FZKDFNNORDICAQFN731EP7X7P5)

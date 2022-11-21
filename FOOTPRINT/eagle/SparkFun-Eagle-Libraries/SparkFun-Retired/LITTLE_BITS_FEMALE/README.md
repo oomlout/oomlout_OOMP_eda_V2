@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSRTLITTLEBITSFEMALE > SparkFun-Retired : LITTLE_BITS_FEMALE](#fzsrtlittlebitsfemale--sparkfun-retired--little_bits_female)
+* [FZSRTLITTLEBITSF > SparkFun-Retired : LITTLE_BITS_FEMALE](#fzsrtlittlebitsf--sparkfun-retired--little_bits_female)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSRTLITTLEBITSFEMALE > SparkFun-Retired : LITTLE_BITS_FEMALE
+# FZSRTLITTLEBITSF > SparkFun-Retired : LITTLE_BITS_FEMALE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LITTLE_BITS_FEMALE
-- Hex ID: FZSRTLITTLEBITSFEMALE
+- Hex ID: FZSRTLITTLEBITSF
 - Name: SparkFun-Retired : LITTLE_BITS_FEMALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LITTLE_BITS_FEMALE/
 - Description: SparkFun-Retired : LITTLE_BITS_FEMALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LITTLE_BITS_FEMALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LITTLE_BITS_FEMALE)
-- Short Link: [http://oom.lt/FZSRTLITTLEBITSFEMALE](http://oom.lt/FZSRTLITTLEBITSFEMALE)
+- Short Link: [http://oom.lt/FZSRTLITTLEBITSF](http://oom.lt/FZSRTLITTLEBITSF)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Retired|
 |OOMP Index|oompIndex|LITTLE_BITS_FEMALE|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LITTLE_BITS_FEMALE|
-|Hex ID (short code)|hexID|FZSRTLITTLEBITSFEMALE|
+|Hex ID (short code)|hexID|FZSRTLITTLEBITSF|
 |name|name|SparkFun-Retired : LITTLE_BITS_FEMALE|
 ||||

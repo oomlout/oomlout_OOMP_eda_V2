@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-ISOPLUS_I4
 - Hex ID: FZETRANSISTORPOWERISLUSI4
 - Name: transistor-power : ISOPLUS_I4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/ISOPLUS_I4/
 - Description: transistor-power : ISOPLUS_I4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-ISOPLUS_I4](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-ISOPLUS_I4)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERISLUSI4](http://oom.lt/FZETRANSISTORPOWERISLUSI4)

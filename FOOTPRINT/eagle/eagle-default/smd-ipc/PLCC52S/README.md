@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-PLCC52S
 - Hex ID: FZESMIPCPLCC52S
 - Name: smd-ipc : PLCC52S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/PLCC52S/
 - Description: smd-ipc : PLCC52S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-PLCC52S](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-PLCC52S)
 - Short Link: [http://oom.lt/FZESMIPCPLCC52S](http://oom.lt/FZESMIPCPLCC52S)

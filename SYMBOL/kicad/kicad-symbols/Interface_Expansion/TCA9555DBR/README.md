@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555DBR
 - Hex ID: SZKINTERFACEEXPANSIONTCA9555DBR
 - Name: Interface_Expansion : TCA9555DBR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9555DBR/
 - Description: Interface_Expansion : TCA9555DBR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555DBR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555DBR)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9555DBR](http://oom.lt/SZKINTERFACEEXPANSIONTCA9555DBR)

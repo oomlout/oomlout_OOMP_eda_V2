@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-U57X32
 - Hex ID: FZAU57X32
 - Name: adafruit : U57X32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/U57X32/
 - Description: adafruit : U57X32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-U57X32](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-U57X32)
 - Short Link: [http://oom.lt/FZAU57X32](http://oom.lt/FZAU57X32)

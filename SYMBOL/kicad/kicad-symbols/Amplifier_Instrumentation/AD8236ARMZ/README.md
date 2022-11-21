@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8236ARMZ
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD8236ARMZ
 - Name: Amplifier_Instrumentation : AD8236ARMZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD8236ARMZ/
 - Description: Amplifier_Instrumentation : AD8236ARMZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8236ARMZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8236ARMZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8236ARMZ](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8236ARMZ)

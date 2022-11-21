@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-allegro-SIP3-UA
 - Hex ID: FZEALLEGROSIP3UA
 - Name: allegro : SIP3-UA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SIP3-UA/
 - Description: allegro : SIP3-UA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SIP3-UA](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SIP3-UA)
 - Short Link: [http://oom.lt/FZEALLEGROSIP3UA](http://oom.lt/FZEALLEGROSIP3UA)

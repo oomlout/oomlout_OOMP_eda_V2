@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-HDSP-4836
 - Hex ID: FZKDIHDSP4836
 - Name: Display : HDSP-4836
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/HDSP-4836/
 - Description: Display : HDSP-4836
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HDSP-4836](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HDSP-4836)
 - Short Link: [http://oom.lt/FZKDIHDSP4836](http://oom.lt/FZKDIHDSP4836)

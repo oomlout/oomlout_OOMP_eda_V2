@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cpci-114134
 - Hex ID: FZECONCPCI114134
 - Name: con-cpci : 114134
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cpci/114134/
 - Description: con-cpci : 114134
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-114134](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-114134)
 - Short Link: [http://oom.lt/FZECONCPCI114134](http://oom.lt/FZECONCPCI114134)

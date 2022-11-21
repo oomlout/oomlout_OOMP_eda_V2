@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rohm-HSOP25
 - Hex ID: FZEROHMHS25
 - Name: rohm : HSOP25
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rohm/HSOP25/
 - Description: rohm : HSOP25
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rohm-HSOP25](http://oom.lt/FOOTPRINT-eagle-eagle-default-rohm-HSOP25)
 - Short Link: [http://oom.lt/FZEROHMHS25](http://oom.lt/FZEROHMHS25)

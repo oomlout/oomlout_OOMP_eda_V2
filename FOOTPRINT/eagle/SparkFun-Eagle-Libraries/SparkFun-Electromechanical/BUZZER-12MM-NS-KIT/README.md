@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-BUZZER-12MM-NS-KIT
 - Hex ID: FZSEBUZZER12NSK
 - Name: SparkFun-Electromechanical : BUZZER-12MM-NS-KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Electromechanical/BUZZER-12MM-NS-KIT/
 - Description: SparkFun-Electromechanical : BUZZER-12MM-NS-KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-BUZZER-12MM-NS-KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-BUZZER-12MM-NS-KIT)
 - Short Link: [http://oom.lt/FZSEBUZZER12NSK](http://oom.lt/FZSEBUZZER12NSK)

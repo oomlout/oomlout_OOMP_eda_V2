@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDSBGA816X16 > digikey-footprints : DSBGA-8_1.6x1.6mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsdsbga816x16--digikey-footprints--dsbga-8_16x16mm)
+* [FZDIGIDIGIKEYFOOTPRINTSDSBGA816X16 > digikey-footprints : DSBGA-8_1.6x1.6mm](#fzdigidigikeyfootprintsdsbga816x16--digikey-footprints--dsbga-8_16x16mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDSBGA816X16 > digikey-footprints : DSBGA-8_1.6x1.6mm
+# FZDIGIDIGIKEYFOOTPRINTSDSBGA816X16 > digikey-footprints : DSBGA-8_1.6x1.6mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSBGA-8_1.6x1.6mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDSBGA816X16
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSDSBGA816X16
 - Name: digikey-footprints : DSBGA-8_1.6x1.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DSBGA-8_1.6x1.6mm/
 - Description: digikey-footprints : DSBGA-8_1.6x1.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSBGA-8_1.6x1.6mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSBGA-8_1.6x1.6mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDSBGA816X16](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDSBGA816X16)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDSBGA816X16](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDSBGA816X16)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|DSBGA-8_1.6x1.6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSBGA-8_1.6x1.6mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDSBGA816X16|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSDSBGA816X16|
 |name|name|digikey-footprints : DSBGA-8_1.6x1.6mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DSBGA-8_1.6x1.6mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tmp006.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

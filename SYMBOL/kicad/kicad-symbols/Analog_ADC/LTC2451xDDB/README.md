@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2451xDDB
 - Hex ID: SZKANALOGADCLTC2451XDDB
 - Name: Analog_ADC : LTC2451xDDB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2451xDDB/
 - Description: Analog_ADC : LTC2451xDDB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2451xDDB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2451xDDB)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC2451XDDB](http://oom.lt/SZKANALOGADCLTC2451XDDB)

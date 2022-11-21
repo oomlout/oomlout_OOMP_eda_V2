@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO247BH
 - Hex ID: FZETRANSISTORPOWERTO247BH
 - Name: transistor-power : TO247BH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO247BH/
 - Description: transistor-power : TO247BH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO247BH](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO247BH)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO247BH](http://oom.lt/FZETRANSISTORPOWERTO247BH)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-WSON-12
 - Hex ID: FZSISWSON12
 - Name: SparkFun-IC-Special-Function : WSON-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/WSON-12/
 - Description: SparkFun-IC-Special-Function : WSON-12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-WSON-12](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-WSON-12)
 - Short Link: [http://oom.lt/FZSISWSON12](http://oom.lt/FZSISWSON12)

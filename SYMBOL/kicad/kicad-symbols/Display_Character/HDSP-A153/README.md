@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A153
 - Hex ID: SZKDICHARACTERHDSPA153
 - Name: Display_Character : HDSP-A153
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-A153/
 - Description: Display_Character : HDSP-A153
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A153](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A153)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSPA153](http://oom.lt/SZKDICHARACTERHDSPA153)

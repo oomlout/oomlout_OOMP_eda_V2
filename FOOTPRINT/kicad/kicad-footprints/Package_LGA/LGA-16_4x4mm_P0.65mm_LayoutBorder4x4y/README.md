@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y
 - Hex ID: FZKLGALGA164X4P65LAYOUTBORDER4X4Y
 - Name: Package_LGA : LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y/
 - Description: Package_LGA : LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y)
 - Short Link: [http://oom.lt/FZKLGALGA164X4P65LAYOUTBORDER4X4Y](http://oom.lt/FZKLGALGA164X4P65LAYOUTBORDER4X4Y)

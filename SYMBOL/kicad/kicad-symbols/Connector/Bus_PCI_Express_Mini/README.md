@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_Express_Mini
 - Hex ID: SZKCNBUSPCIEXPRESSM
 - Name: Connector : Bus_PCI_Express_Mini
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_Mini/
 - Description: Connector : Bus_PCI_Express_Mini
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_Express_Mini](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_Express_Mini)
 - Short Link: [http://oom.lt/SZKCNBUSPCIEXPRESSM](http://oom.lt/SZKCNBUSPCIEXPRESSM)

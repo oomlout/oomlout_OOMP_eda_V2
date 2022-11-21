@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF1V1C6U11 > oomlout_OOMP_parts : CAPC-0603-X-UF10-V10-C6U1010](#fzkicadoomloutoompkicadoomloutoomppartscapc63xuf1v1c6u11--oomlout_oomp_parts--capc-0603-x-uf10-v10-c6u1010)
+* [FZOOMPKOOMPPCAPC63XUF1V1C6U11 > oomlout_OOMP_parts : CAPC-0603-X-UF10-V10-C6U1010](#fzoompkoomppcapc63xuf1v1c6u11--oomlout_oomp_parts--capc-0603-x-uf10-v10-c6u1010)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF1V1C6U11 > oomlout_OOMP_parts : CAPC-0603-X-UF10-V10-C6U1010
+# FZOOMPKOOMPPCAPC63XUF1V1C6U11 > oomlout_OOMP_parts : CAPC-0603-X-UF10-V10-C6U1010
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF10-V10-C6U1010
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF1V1C6U11
+- Hex ID: FZOOMPKOOMPPCAPC63XUF1V1C6U11
 - Name: oomlout_OOMP_parts : CAPC-0603-X-UF10-V10-C6U1010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0603-X-UF10-V10-C6U1010/
 - Description: oomlout_OOMP_parts : CAPC-0603-X-UF10-V10-C6U1010
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF10-V10-C6U1010](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF10-V10-C6U1010)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF1V1C6U11](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF1V1C6U11)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC63XUF1V1C6U11](http://oom.lt/FZOOMPKOOMPPCAPC63XUF1V1C6U11)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|CAPC-0603-X-UF10-V10-C6U1010|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF10-V10-C6U1010|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF1V1C6U11|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPCAPC63XUF1V1C6U11|
 |name|name|oomlout_OOMP_parts : CAPC-0603-X-UF10-V10-C6U1010|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CAPC-0603-X-UF10-V10-C6U1010'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C6U1010;PARTL C-JLCC;C19702;MANUF C-XXXX;CL10A106KP8NNNC; Capacitor SMD 0603 (1608 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

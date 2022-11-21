@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-R1206
 - Hex ID: FZERCLR126
 - Name: rcl : R1206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/R1206/
 - Description: rcl : R1206
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R1206](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R1206)
 - Short Link: [http://oom.lt/FZERCLR126](http://oom.lt/FZERCLR126)

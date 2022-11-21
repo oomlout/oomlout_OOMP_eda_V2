@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-AAR
 - Hex ID: FZETEXASAAR
 - Name: texas : AAR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/AAR/
 - Description: texas : AAR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-AAR](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-AAR)
 - Short Link: [http://oom.lt/FZETEXASAAR](http://oom.lt/FZETEXASAAR)

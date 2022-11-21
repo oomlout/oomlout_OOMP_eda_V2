@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 - Hex ID: FZKHH35X261XFIXATION3FISCHERSK48635
 - Name: Heatsink : Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35/
 - Description: Heatsink : Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35)
 - Short Link: [http://oom.lt/FZKHH35X261XFIXATION3FISCHERSK48635](http://oom.lt/FZKHH35X261XFIXATION3FISCHERSK48635)

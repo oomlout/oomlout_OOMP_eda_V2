@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-HPS947
 - Hex ID: FZERESISTORPOWERHPS947
 - Name: resistor-power : HPS947
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/HPS947/
 - Description: resistor-power : HPS947
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-HPS947](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-HPS947)
 - Short Link: [http://oom.lt/FZERESISTORPOWERHPS947](http://oom.lt/FZERESISTORPOWERHPS947)

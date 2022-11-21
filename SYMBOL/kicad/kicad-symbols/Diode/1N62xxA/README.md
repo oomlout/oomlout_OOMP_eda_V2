@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N62xxA
 - Hex ID: SZKDIODE1N62XXA
 - Name: Diode : 1N62xxA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N62xxA/
 - Description: Diode : 1N62xxA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N62xxA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N62xxA)
 - Short Link: [http://oom.lt/SZKDIODE1N62XXA](http://oom.lt/SZKDIODE1N62XXA)

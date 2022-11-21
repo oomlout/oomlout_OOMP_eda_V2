@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMSOT143RHANDSOLDERING > Package_TO_SOT_SMD : SOT-143R_Handsoldering](#fzkpackagetosotsmsot143rhandsoldering--package_to_sot_smd--sot-143r_handsoldering)
+* [FZKSOTSOT143RHS > Package_TO_SOT_SMD : SOT-143R_Handsoldering](#fzksotsot143rhs--package_to_sot_smd--sot-143r_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMSOT143RHANDSOLDERING > Package_TO_SOT_SMD : SOT-143R_Handsoldering
+# FZKSOTSOT143RHS > Package_TO_SOT_SMD : SOT-143R_Handsoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143R_Handsoldering
-- Hex ID: FZKPACKAGETOSOTSMSOT143RHANDSOLDERING
+- Hex ID: FZKSOTSOT143RHS
 - Name: Package_TO_SOT_SMD : SOT-143R_Handsoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-143R_Handsoldering/
 - Description: Package_TO_SOT_SMD : SOT-143R_Handsoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143R_Handsoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143R_Handsoldering)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMSOT143RHANDSOLDERING](http://oom.lt/FZKPACKAGETOSOTSMSOT143RHANDSOLDERING)
+- Short Link: [http://oom.lt/FZKSOTSOT143RHS](http://oom.lt/FZKSOTSOT143RHS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SOT-143R_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143R_Handsoldering|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT143RHANDSOLDERING|
+|Hex ID (short code)|hexID|FZKSOTSOT143RHS|
 |name|name|Package_TO_SOT_SMD : SOT-143R_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-143R_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'SOT-143R</td><td> reverse pinning</td><td> Handsoldering</td><td> https</td></tr><tr><td>//www.nxp.com/docs/en/package-information/SOT143R.pdf'</td><td> 'tags'</td></tr><tr><td> 'SOT-143 Reverse Handsoldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-143R.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

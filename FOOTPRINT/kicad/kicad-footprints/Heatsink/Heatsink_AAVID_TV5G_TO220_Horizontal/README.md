@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHHAAVIDTV5GTO22HORIZONTAL > Heatsink : Heatsink_AAVID_TV5G_TO220_Horizontal](#fzkhhaavidtv5gto22horizontal--heatsink--heatsink_aavid_tv5g_to220_horizontal)
+* [FZKHHAAVIDTV5GTO22H > Heatsink : Heatsink_AAVID_TV5G_TO220_Horizontal](#fzkhhaavidtv5gto22h--heatsink--heatsink_aavid_tv5g_to220_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHHAAVIDTV5GTO22HORIZONTAL > Heatsink : Heatsink_AAVID_TV5G_TO220_Horizontal
+# FZKHHAAVIDTV5GTO22H > Heatsink : Heatsink_AAVID_TV5G_TO220_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_TV5G_TO220_Horizontal
-- Hex ID: FZKHHAAVIDTV5GTO22HORIZONTAL
+- Hex ID: FZKHHAAVIDTV5GTO22H
 - Name: Heatsink : Heatsink_AAVID_TV5G_TO220_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_TV5G_TO220_Horizontal/
 - Description: Heatsink : Heatsink_AAVID_TV5G_TO220_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_TV5G_TO220_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_TV5G_TO220_Horizontal)
-- Short Link: [http://oom.lt/FZKHHAAVIDTV5GTO22HORIZONTAL](http://oom.lt/FZKHHAAVIDTV5GTO22HORIZONTAL)
+- Short Link: [http://oom.lt/FZKHHAAVIDTV5GTO22H](http://oom.lt/FZKHHAAVIDTV5GTO22H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Heatsink|
 |OOMP Index|oompIndex|Heatsink_AAVID_TV5G_TO220_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_TV5G_TO220_Horizontal|
-|Hex ID (short code)|hexID|FZKHHAAVIDTV5GTO22HORIZONTAL|
+|Hex ID (short code)|hexID|FZKHHAAVIDTV5GTO22H|
 |name|name|Heatsink : Heatsink_AAVID_TV5G_TO220_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Heatsink_AAVID_TV5G_TO220_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Heatsink TV5G TO-220 Horizontal</td><td> https</td></tr><tr><td>//www.shopaavid.com/Product/TV-5G'</td><td> 'tags'</td></tr><tr><td> 'Heatsink TV5G TO-220 Horizontal '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Heatsink.3dshapes/Heatsink_AAVID_TV5G_TO220_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

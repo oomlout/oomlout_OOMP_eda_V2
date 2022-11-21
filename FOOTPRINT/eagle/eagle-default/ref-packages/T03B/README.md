@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGEST3B > ref-packages : T03B](#fzerefpackagest3b--ref-packages--t03b)
+* [FZEREFPST3B > ref-packages : T03B](#fzerefpst3b--ref-packages--t03b)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGEST3B > ref-packages : T03B
+# FZEREFPST3B > ref-packages : T03B
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-T03B
-- Hex ID: FZEREFPACKAGEST3B
+- Hex ID: FZEREFPST3B
 - Name: ref-packages : T03B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/T03B/
 - Description: ref-packages : T03B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-T03B](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-T03B)
-- Short Link: [http://oom.lt/FZEREFPACKAGEST3B](http://oom.lt/FZEREFPACKAGEST3B)
+- Short Link: [http://oom.lt/FZEREFPST3B](http://oom.lt/FZEREFPST3B)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|T03B|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-T03B|
-|Hex ID (short code)|hexID|FZEREFPACKAGEST3B|
+|Hex ID (short code)|hexID|FZEREFPST3B|
 |name|name|ref-packages : T03B|
 ||||

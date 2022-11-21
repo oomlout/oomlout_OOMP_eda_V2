@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSMB > ref-packages-longpad : SMB](#fzerefpackageslongpadsmb--ref-packages-longpad--smb)
+* [FZEREFPSLPSMB > ref-packages-longpad : SMB](#fzerefpslpsmb--ref-packages-longpad--smb)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSMB > ref-packages-longpad : SMB
+# FZEREFPSLPSMB > ref-packages-longpad : SMB
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SMB
-- Hex ID: FZEREFPACKAGESLONGPADSMB
+- Hex ID: FZEREFPSLPSMB
 - Name: ref-packages-longpad : SMB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SMB/
 - Description: ref-packages-longpad : SMB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SMB](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SMB)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSMB](http://oom.lt/FZEREFPACKAGESLONGPADSMB)
+- Short Link: [http://oom.lt/FZEREFPSLPSMB](http://oom.lt/FZEREFPSLPSMB)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SMB|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SMB|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSMB|
+|Hex ID (short code)|hexID|FZEREFPSLPSMB|
 |name|name|ref-packages-longpad : SMB|
 ||||

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNHARTINGHARTINGHARFLEXICON14116132XXX1X6MPP254HORIZONTAL > Connector_Harting : Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal](#fzkcnhartinghartingharflexicon14116132xxx1x6mpp254horizontal--connector_harting--harting_har-flexicon_14110613002xxx_1x06-mp_p254mm_horizontal)
+* [FZKCNHARTINGHARTINGHFLX14116132XXX1X6MPP254H > Connector_Harting : Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal](#fzkcnhartinghartinghflx14116132xxx1x6mpp254h--connector_harting--harting_har-flexicon_14110613002xxx_1x06-mp_p254mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNHARTINGHARTINGHARFLEXICON14116132XXX1X6MPP254HORIZONTAL > Connector_Harting : Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal
+# FZKCNHARTINGHARTINGHFLX14116132XXX1X6MPP254H > Connector_Harting : Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Harting-Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal
-- Hex ID: FZKCNHARTINGHARTINGHARFLEXICON14116132XXX1X6MPP254HORIZONTAL
+- Hex ID: FZKCNHARTINGHARTINGHFLX14116132XXX1X6MPP254H
 - Name: Connector_Harting : Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Harting/Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal/
 - Description: Connector_Harting : Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Harting-Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Harting-Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNHARTINGHARTINGHARFLEXICON14116132XXX1X6MPP254HORIZONTAL](http://oom.lt/FZKCNHARTINGHARTINGHARFLEXICON14116132XXX1X6MPP254HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNHARTINGHARTINGHFLX14116132XXX1X6MPP254H](http://oom.lt/FZKCNHARTINGHARTINGHFLX14116132XXX1X6MPP254H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Harting|
 |OOMP Index|oompIndex|Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Harting-Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNHARTINGHARTINGHARFLEXICON14116132XXX1X6MPP254HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNHARTINGHARTINGHFLX14116132XXX1X6MPP254H|
 |name|name|Connector_Harting : Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Harting har-flexicon series connector</td><td> 14110613002xxx (https</td></tr><tr><td>//b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Harting har-flexicon horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Harting.3dshapes/Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

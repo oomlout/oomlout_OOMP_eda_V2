@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RJ11-6
 - Hex ID: FZSSPARKFUNCNSRJ116
 - Name: SparkFun-Connectors : RJ11-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/RJ11-6/
 - Description: SparkFun-Connectors : RJ11-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RJ11-6](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RJ11-6)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSRJ116](http://oom.lt/FZSSPARKFUNCNSRJ116)

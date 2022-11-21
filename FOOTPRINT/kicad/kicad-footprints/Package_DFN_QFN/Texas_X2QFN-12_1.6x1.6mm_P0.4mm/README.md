@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_X2QFN-12_1.6x1.6mm_P0.4mm
 - Hex ID: FZKDFNTEXASX2QFN1216X16P4
 - Name: Package_DFN_QFN : Texas_X2QFN-12_1.6x1.6mm_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_X2QFN-12_1.6x1.6mm_P0.4mm/
 - Description: Package_DFN_QFN : Texas_X2QFN-12_1.6x1.6mm_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_X2QFN-12_1.6x1.6mm_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_X2QFN-12_1.6x1.6mm_P0.4mm)
 - Short Link: [http://oom.lt/FZKDFNTEXASX2QFN1216X16P4](http://oom.lt/FZKDFNTEXASX2QFN1216X16P4)

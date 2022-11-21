@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-R_SW_TH
 - Hex ID: FZSRTRSWTH
 - Name: SparkFun-Retired : R_SW_TH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/R_SW_TH/
 - Description: SparkFun-Retired : R_SW_TH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-R_SW_TH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-R_SW_TH)
 - Short Link: [http://oom.lt/FZSRTRSWTH](http://oom.lt/FZSRTRSWTH)

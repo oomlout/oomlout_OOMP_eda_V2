@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-MINI_MELF-0102W
 - Hex ID: FZERCL12W
 - Name: rcl : MINI_MELF-0102W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/MINI_MELF-0102W/
 - Description: rcl : MINI_MELF-0102W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-MINI_MELF-0102W](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-MINI_MELF-0102W)
 - Short Link: [http://oom.lt/FZERCL12W](http://oom.lt/FZERCL12W)

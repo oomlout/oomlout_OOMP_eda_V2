@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-holes-5,0
 - Hex ID: FZEH5
 - Name: holes : 5,0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/holes/5,0/
 - Description: holes : 5,0
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-holes-5,0](http://oom.lt/FOOTPRINT-eagle-eagle-default-holes-5,0)
 - Short Link: [http://oom.lt/FZEH5](http://oom.lt/FZEH5)

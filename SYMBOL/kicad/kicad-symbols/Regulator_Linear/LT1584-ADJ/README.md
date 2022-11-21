@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1584-ADJ
 - Hex ID: SZKREGULATORLINEARLT1584ADJ
 - Name: Regulator_Linear : LT1584-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1584-ADJ/
 - Description: Regulator_Linear : LT1584-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1584-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1584-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1584ADJ](http://oom.lt/SZKREGULATORLINEARLT1584ADJ)

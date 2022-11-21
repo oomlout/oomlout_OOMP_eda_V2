@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE674-IJW
 - Hex ID: SZKMCUMCHIPPIC12PIC12CE674IJW
 - Name: MCU_Microchip_PIC12 : PIC12CE674-IJW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12CE674-IJW/
 - Description: MCU_Microchip_PIC12 : PIC12CE674-IJW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE674-IJW](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE674-IJW)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12CE674IJW](http://oom.lt/SZKMCUMCHIPPIC12PIC12CE674IJW)

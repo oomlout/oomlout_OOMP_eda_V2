@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP39F521
 - Hex ID: SZKPOWERSUPERVISORMCP39F521
 - Name: Power_Supervisor : MCP39F521
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP39F521/
 - Description: Power_Supervisor : MCP39F521
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP39F521](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP39F521)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP39F521](http://oom.lt/SZKPOWERSUPERVISORMCP39F521)

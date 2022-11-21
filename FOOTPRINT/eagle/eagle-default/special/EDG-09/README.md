@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-EDG-09
 - Hex ID: FZESPECIALEDG9
 - Name: special : EDG-09
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/EDG-09/
 - Description: special : EDG-09
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-EDG-09](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-EDG-09)
 - Short Link: [http://oom.lt/FZESPECIALEDG9](http://oom.lt/FZESPECIALEDG9)

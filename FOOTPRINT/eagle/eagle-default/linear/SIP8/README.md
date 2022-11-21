@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-SIP8
 - Hex ID: FZELINEARSIP8
 - Name: linear : SIP8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/SIP8/
 - Description: linear : SIP8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SIP8](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SIP8)
 - Short Link: [http://oom.lt/FZELINEARSIP8](http://oom.lt/FZELINEARSIP8)

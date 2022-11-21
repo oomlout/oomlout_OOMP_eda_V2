@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_UNO_R3
 - Hex ID: SZKMCUMOARDUNOR3
 - Name: MCU_Module : Arduino_UNO_R3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_UNO_R3/
 - Description: MCU_Module : Arduino_UNO_R3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_UNO_R3](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_UNO_R3)
 - Short Link: [http://oom.lt/SZKMCUMOARDUNOR3](http://oom.lt/SZKMCUMOARDUNOR3)

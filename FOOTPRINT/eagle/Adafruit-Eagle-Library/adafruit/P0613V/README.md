@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P0613V
 - Hex ID: FZAP613V
 - Name: adafruit : P0613V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/P0613V/
 - Description: adafruit : P0613V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P0613V](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P0613V)
 - Short Link: [http://oom.lt/FZAP613V](http://oom.lt/FZAP613V)

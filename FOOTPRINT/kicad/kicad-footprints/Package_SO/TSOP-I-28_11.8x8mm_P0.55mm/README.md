@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-28_11.8x8mm_P0.55mm
 - Hex ID: FZKSOTSI28118X8P55
 - Name: Package_SO : TSOP-I-28_11.8x8mm_P0.55mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-28_11.8x8mm_P0.55mm/
 - Description: Package_SO : TSOP-I-28_11.8x8mm_P0.55mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-28_11.8x8mm_P0.55mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-28_11.8x8mm_P0.55mm)
 - Short Link: [http://oom.lt/FZKSOTSI28118X8P55](http://oom.lt/FZKSOTSI28118X8P55)

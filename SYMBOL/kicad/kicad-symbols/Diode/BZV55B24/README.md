@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZV55B24
 - Hex ID: SZKDIODEBZV55B24
 - Name: Diode : BZV55B24
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BZV55B24/
 - Description: Diode : BZV55B24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B24](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B24)
 - Short Link: [http://oom.lt/SZKDIODEBZV55B24](http://oom.lt/SZKDIODEBZV55B24)

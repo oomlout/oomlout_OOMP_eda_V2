@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2950-3.3_TO252
 - Hex ID: SZKREGULATORLINEARLP29533TO252
 - Name: Regulator_Linear : LP2950-3.3_TO252
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2950-3.3_TO252/
 - Description: Regulator_Linear : LP2950-3.3_TO252
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2950-3.3_TO252](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2950-3.3_TO252)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP29533TO252](http://oom.lt/SZKREGULATORLINEARLP29533TO252)

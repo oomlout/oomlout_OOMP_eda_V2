@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5217
 - Hex ID: SZKANALOGDACMAX5217
 - Name: Analog_DAC : MAX5217
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MAX5217/
 - Description: Analog_DAC : MAX5217
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5217](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5217)
 - Short Link: [http://oom.lt/SZKANALOGDACMAX5217](http://oom.lt/SZKANALOGDACMAX5217)

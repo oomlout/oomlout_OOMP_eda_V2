@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0402_COILCRAFT
 - Hex ID: FZSCO42COILCRAFT
 - Name: SparkFun-Coils : 0402_COILCRAFT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/0402_COILCRAFT/
 - Description: SparkFun-Coils : 0402_COILCRAFT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0402_COILCRAFT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0402_COILCRAFT)
 - Short Link: [http://oom.lt/FZSCO42COILCRAFT](http://oom.lt/FZSCO42COILCRAFT)

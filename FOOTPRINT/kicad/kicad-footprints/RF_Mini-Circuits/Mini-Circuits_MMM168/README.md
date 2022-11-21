@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_MMM168
 - Hex ID: FZKRFMCIRCUITSM168
 - Name: RF_Mini-Circuits : Mini-Circuits_MMM168
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_MMM168/
 - Description: RF_Mini-Circuits : Mini-Circuits_MMM168
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_MMM168](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_MMM168)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSM168](http://oom.lt/FZKRFMCIRCUITSM168)

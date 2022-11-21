@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-RELAY_G5LE
 - Hex ID: FZSERELAYG5LE
 - Name: SparkFun-Electromechanical : RELAY_G5LE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Electromechanical/RELAY_G5LE/
 - Description: SparkFun-Electromechanical : RELAY_G5LE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-RELAY_G5LE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-RELAY_G5LE)
 - Short Link: [http://oom.lt/FZSERELAYG5LE](http://oom.lt/FZSERELAYG5LE)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-IW220ABS
 - Hex ID: FZEDIODEIW22ABS
 - Name: diode : IW220ABS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/IW220ABS/
 - Description: diode : IW220ABS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-IW220ABS](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-IW220ABS)
 - Short Link: [http://oom.lt/FZEDIODEIW22ABS](http://oom.lt/FZEDIODEIW22ABS)

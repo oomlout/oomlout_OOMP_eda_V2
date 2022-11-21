@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-harting-v-26V
 - Hex ID: FZECONHARTINGV26V
 - Name: con-harting-v : 26V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-harting-v/26V/
 - Description: con-harting-v : 26V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-v-26V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-v-26V)
 - Short Link: [http://oom.lt/FZECONHARTINGV26V](http://oom.lt/FZECONHARTINGV26V)

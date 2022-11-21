@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-8S1
 - Hex ID: FZEATMEL8S1
 - Name: atmel : 8S1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/8S1/
 - Description: atmel : 8S1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-8S1](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-8S1)
 - Short Link: [http://oom.lt/FZEATMEL8S1](http://oom.lt/FZEATMEL8S1)

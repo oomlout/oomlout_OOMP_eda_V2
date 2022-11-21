@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS512T
 - Hex ID: SZKMEMORYNVRAMMB85RS512T
 - Name: Memory_NVRAM : MB85RS512T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS512T/
 - Description: Memory_NVRAM : MB85RS512T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS512T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS512T)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMMB85RS512T](http://oom.lt/SZKMEMORYNVRAMMB85RS512T)

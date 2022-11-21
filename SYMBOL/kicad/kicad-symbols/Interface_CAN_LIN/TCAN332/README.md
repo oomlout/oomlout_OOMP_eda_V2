@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TCAN332
 - Hex ID: SZKINTERFACECANLINTCAN332
 - Name: Interface_CAN_LIN : TCAN332
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TCAN332/
 - Description: Interface_CAN_LIN : TCAN332
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TCAN332](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TCAN332)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTCAN332](http://oom.lt/SZKINTERFACECANLINTCAN332)

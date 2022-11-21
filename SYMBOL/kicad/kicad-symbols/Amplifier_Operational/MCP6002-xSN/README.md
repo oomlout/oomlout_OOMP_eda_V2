@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6002-xSN
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP62XSN
 - Name: Amplifier_Operational : MCP6002-xSN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6002-xSN/
 - Description: Amplifier_Operational : MCP6002-xSN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6002-xSN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6002-xSN)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP62XSN](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP62XSN)

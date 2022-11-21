@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7616
 - Hex ID: SZKANALOGADCAD7616
 - Name: Analog_ADC : AD7616
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7616/
 - Description: Analog_ADC : AD7616
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7616](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7616)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7616](http://oom.lt/SZKANALOGADCAD7616)

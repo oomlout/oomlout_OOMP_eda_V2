@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CT3216
 - Hex ID: FZACT3216
 - Name: adafruit : CT3216
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CT3216/
 - Description: adafruit : CT3216
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CT3216](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CT3216)
 - Short Link: [http://oom.lt/FZACT3216](http://oom.lt/FZACT3216)

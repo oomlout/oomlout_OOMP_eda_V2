@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LUXEON
 - Hex ID: FZSRTLUXEON
 - Name: SparkFun-Retired : LUXEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LUXEON/
 - Description: SparkFun-Retired : LUXEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LUXEON](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LUXEON)
 - Short Link: [http://oom.lt/FZSRTLUXEON](http://oom.lt/FZSRTLUXEON)

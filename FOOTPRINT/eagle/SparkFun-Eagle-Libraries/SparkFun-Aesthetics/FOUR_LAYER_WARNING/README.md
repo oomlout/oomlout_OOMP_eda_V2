@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FOUR_LAYER_WARNING
 - Hex ID: FZSAFOURLAYERWARNING
 - Name: SparkFun-Aesthetics : FOUR_LAYER_WARNING
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FOUR_LAYER_WARNING/
 - Description: SparkFun-Aesthetics : FOUR_LAYER_WARNING
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FOUR_LAYER_WARNING](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FOUR_LAYER_WARNING)
 - Short Link: [http://oom.lt/FZSAFOURLAYERWARNING](http://oom.lt/FZSAFOURLAYERWARNING)

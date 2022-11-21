@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TL071
 - Hex ID: SZKAMPLIFIEROPERATIONALTL71
 - Name: Amplifier_Operational : TL071
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TL071/
 - Description: Amplifier_Operational : TL071
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TL071](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TL071)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTL71](http://oom.lt/SZKAMPLIFIEROPERATIONALTL71)

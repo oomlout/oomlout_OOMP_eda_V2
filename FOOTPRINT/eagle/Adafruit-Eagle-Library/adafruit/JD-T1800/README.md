@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JD-T1800
 - Hex ID: FZAJDT18
 - Name: adafruit : JD-T1800
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/JD-T1800/
 - Description: adafruit : JD-T1800
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JD-T1800](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JD-T1800)
 - Short Link: [http://oom.lt/FZAJDT18](http://oom.lt/FZAJDT18)

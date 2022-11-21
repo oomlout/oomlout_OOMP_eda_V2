@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNAUDIOJ635NEUTRIKNMJ6HFD4HORIZONTAL > Connector_Audio : Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal](#fzkcnaudioj635neutriknmj6hfd4horizontal--connector_audio--jack_635mm_neutrik_nmj6hfd4_horizontal)
+* [FZKCNAUDIOJ635NEUTRIKNMJ6HFD4H > Connector_Audio : Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal](#fzkcnaudioj635neutriknmj6hfd4h--connector_audio--jack_635mm_neutrik_nmj6hfd4_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJ635NEUTRIKNMJ6HFD4HORIZONTAL > Connector_Audio : Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal
+# FZKCNAUDIOJ635NEUTRIKNMJ6HFD4H > Connector_Audio : Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal
-- Hex ID: FZKCNAUDIOJ635NEUTRIKNMJ6HFD4HORIZONTAL
+- Hex ID: FZKCNAUDIOJ635NEUTRIKNMJ6HFD4H
 - Name: Connector_Audio : Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal/
 - Description: Connector_Audio : Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal)
-- Short Link: [http://oom.lt/FZKCNAUDIOJ635NEUTRIKNMJ6HFD4HORIZONTAL](http://oom.lt/FZKCNAUDIOJ635NEUTRIKNMJ6HFD4HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJ635NEUTRIKNMJ6HFD4H](http://oom.lt/FZKCNAUDIOJ635NEUTRIKNMJ6HFD4H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal|
-|Hex ID (short code)|hexID|FZKCNAUDIOJ635NEUTRIKNMJ6HFD4HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJ635NEUTRIKNMJ6HFD4H|
 |name|name|Connector_Audio : Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal'</td><td> 'description'</td></tr><tr><td> 'M Series</td><td> 6.35mm (1/4in) stereo jack</td><td> switched</td><td> with full threaded nose and fishtail PCB pins</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nmj6hfd4'</td><td> 'tags'</td></tr><tr><td> 'neutrik jack m'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

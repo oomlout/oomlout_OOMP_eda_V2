@@ -6,19 +6,27 @@ Contents
 ========
 
 * [FZECONSAMTECTSW138GQRA > con-samtec : TSW-130-08-G-Q-RA](#fzeconsamtectsw138gqra--con-samtec--tsw-130-08-g-q-ra)
+	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONSAMTECTSW138GQRA > con-samtec : TSW-130-08-G-Q-RA
 
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-130-08-G-Q-RA
 - Hex ID: FZECONSAMTECTSW138GQRA
 - Name: con-samtec : TSW-130-08-G-Q-RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-130-08-G-Q-RA/
 - Description: con-samtec : TSW-130-08-G-Q-RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-130-08-G-Q-RA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-TSW-130-08-G-Q-RA)
 - Short Link: [http://oom.lt/FZECONSAMTECTSW138GQRA](http://oom.lt/FZECONSAMTECTSW138GQRA)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-130-08-G-Q-RA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-130-08-G-Q-RA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-130-08-G-Q-RA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-130-08-G-Q-RA/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-130-08-G-Q-RA/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-130-08-G-Q-RA/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-130-08-G-Q-RA/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-130-08-G-Q-RA/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-130-08-G-Q-RA/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-samtec/TSW-130-08-G-Q-RA/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +41,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONSAMTECTSW138GQRA|
 |name|name|con-samtec : TSW-130-08-G-Q-RA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

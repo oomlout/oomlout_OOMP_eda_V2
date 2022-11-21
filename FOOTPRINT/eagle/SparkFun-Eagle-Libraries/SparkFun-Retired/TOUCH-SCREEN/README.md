@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TOUCH-SCREEN
 - Hex ID: FZSRTTOUCHSCREEN
 - Name: SparkFun-Retired : TOUCH-SCREEN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TOUCH-SCREEN/
 - Description: SparkFun-Retired : TOUCH-SCREEN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TOUCH-SCREEN](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TOUCH-SCREEN)
 - Short Link: [http://oom.lt/FZSRTTOUCHSCREEN](http://oom.lt/FZSRTTOUCHSCREEN)

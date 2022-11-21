@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKSWITCHSWDPST > Switch : SW_DPST](#szkswitchswdpst--switch--sw_dpst)
+* [SZKSWSWDPST > Switch : SW_DPST](#szkswswdpst--switch--sw_dpst)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKSWITCHSWDPST > Switch : SW_DPST
+# SZKSWSWDPST > Switch : SW_DPST
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_DPST
-- Hex ID: SZKSWITCHSWDPST
+- Hex ID: SZKSWSWDPST
 - Name: Switch : SW_DPST
 - Description: Switch : SW_DPST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DPST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DPST)
-- Short Link: [http://oom.lt/SZKSWITCHSWDPST](http://oom.lt/SZKSWITCHSWDPST)
+- Short Link: [http://oom.lt/SZKSWSWDPST](http://oom.lt/SZKSWSWDPST)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Switch|
 |OOMP Index|oompIndex|SW_DPST|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_DPST|
-|Hex ID (short code)|hexID|SZKSWITCHSWDPST|
+|Hex ID (short code)|hexID|SZKSWSWDPST|
 |name|name|Switch : SW_DPST|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_DPST'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switch dual double-pole single-throw OFF-ON'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Double Pole Single Throw (DPST) Switch'</td></tr></table>]|
 ||||

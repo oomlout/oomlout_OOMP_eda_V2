@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-SOP06
 - Hex ID: FZERELAYS6
 - Name: relay : SOP06
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/SOP06/
 - Description: relay : SOP06
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SOP06](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SOP06)
 - Short Link: [http://oom.lt/FZERELAYS6](http://oom.lt/FZERELAYS6)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPAD175TMP88 > ref-packages-longpad : 175TMP-0808](#fzerefpackageslongpad175tmp88--ref-packages-longpad--175tmp-0808)
+* [FZEREFPSLP175TMP88 > ref-packages-longpad : 175TMP-0808](#fzerefpslp175tmp88--ref-packages-longpad--175tmp-0808)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPAD175TMP88 > ref-packages-longpad : 175TMP-0808
+# FZEREFPSLP175TMP88 > ref-packages-longpad : 175TMP-0808
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-175TMP-0808
-- Hex ID: FZEREFPACKAGESLONGPAD175TMP88
+- Hex ID: FZEREFPSLP175TMP88
 - Name: ref-packages-longpad : 175TMP-0808
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/175TMP-0808/
 - Description: ref-packages-longpad : 175TMP-0808
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-175TMP-0808](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-175TMP-0808)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPAD175TMP88](http://oom.lt/FZEREFPACKAGESLONGPAD175TMP88)
+- Short Link: [http://oom.lt/FZEREFPSLP175TMP88](http://oom.lt/FZEREFPSLP175TMP88)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|175TMP-0808|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-175TMP-0808|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPAD175TMP88|
+|Hex ID (short code)|hexID|FZEREFPSLP175TMP88|
 |name|name|ref-packages-longpad : 175TMP-0808|
 ||||

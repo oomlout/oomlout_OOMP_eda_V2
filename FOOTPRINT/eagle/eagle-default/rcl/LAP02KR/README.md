@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-LAP02KR
 - Hex ID: FZERCLLAP2KR
 - Name: rcl : LAP02KR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/LAP02KR/
 - Description: rcl : LAP02KR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-LAP02KR](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-LAP02KR)
 - Short Link: [http://oom.lt/FZERCLLAP2KR](http://oom.lt/FZERCLLAP2KR)

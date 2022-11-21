@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EB20D
 - Hex ID: FZAEB2D
 - Name: adafruit : EB20D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/EB20D/
 - Description: adafruit : EB20D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EB20D](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EB20D)
 - Short Link: [http://oom.lt/FZAEB2D](http://oom.lt/FZAEB2D)

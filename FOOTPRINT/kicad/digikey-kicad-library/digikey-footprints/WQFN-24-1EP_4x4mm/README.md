@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWQFN241EP4X4 > digikey-footprints : WQFN-24-1EP_4x4mm](#fzkicaddigikeykicadlibrarydigikeyfootprintswqfn241ep4x4--digikey-footprints--wqfn-24-1ep_4x4mm)
+* [FZDIGIDIGIKEYFOOTPRINTSWQFN241EP4X4 > digikey-footprints : WQFN-24-1EP_4x4mm](#fzdigidigikeyfootprintswqfn241ep4x4--digikey-footprints--wqfn-24-1ep_4x4mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWQFN241EP4X4 > digikey-footprints : WQFN-24-1EP_4x4mm
+# FZDIGIDIGIKEYFOOTPRINTSWQFN241EP4X4 > digikey-footprints : WQFN-24-1EP_4x4mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WQFN-24-1EP_4x4mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWQFN241EP4X4
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSWQFN241EP4X4
 - Name: digikey-footprints : WQFN-24-1EP_4x4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WQFN-24-1EP_4x4mm/
 - Description: digikey-footprints : WQFN-24-1EP_4x4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WQFN-24-1EP_4x4mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WQFN-24-1EP_4x4mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWQFN241EP4X4](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWQFN241EP4X4)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWQFN241EP4X4](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSWQFN241EP4X4)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|WQFN-24-1EP_4x4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WQFN-24-1EP_4x4mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWQFN241EP4X4|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSWQFN241EP4X4|
 |name|name|digikey-footprints : WQFN-24-1EP_4x4mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WQFN-24-1EP_4x4mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

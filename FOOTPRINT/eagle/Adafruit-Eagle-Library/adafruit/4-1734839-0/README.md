@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-4-1734839-0
 - Hex ID: FZA41734839
 - Name: adafruit : 4-1734839-0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/4-1734839-0/
 - Description: adafruit : 4-1734839-0
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-4-1734839-0](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-4-1734839-0)
 - Short Link: [http://oom.lt/FZA41734839](http://oom.lt/FZA41734839)

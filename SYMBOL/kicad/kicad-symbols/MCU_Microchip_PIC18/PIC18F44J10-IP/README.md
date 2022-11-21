@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F44J10-IP
 - Hex ID: SZKMCUMCHIPPIC18PIC18F44J1IP
 - Name: MCU_Microchip_PIC18 : PIC18F44J10-IP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F44J10-IP/
 - Description: MCU_Microchip_PIC18 : PIC18F44J10-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F44J10-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F44J10-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F44J1IP](http://oom.lt/SZKMCUMCHIPPIC18PIC18F44J1IP)

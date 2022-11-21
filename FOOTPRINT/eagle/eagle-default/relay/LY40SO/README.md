@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-LY40SO
 - Hex ID: FZERELAYLY4SO
 - Name: relay : LY40SO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/LY40SO/
 - Description: relay : LY40SO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-LY40SO](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-LY40SO)
 - Short Link: [http://oom.lt/FZERELAYLY4SO](http://oom.lt/FZERELAYLY4SO)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-EL814
 - Hex ID: SZKISOLATOREL814
 - Name: Isolator : EL814
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/EL814/
 - Description: Isolator : EL814
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-EL814](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-EL814)
 - Short Link: [http://oom.lt/SZKISOLATOREL814](http://oom.lt/SZKISOLATOREL814)

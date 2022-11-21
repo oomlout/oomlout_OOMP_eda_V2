@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKV11Z128VLF7
 - Hex ID: SZKMCUNXPKINETISMKV11Z128VLF7
 - Name: MCU_NXP_Kinetis : MKV11Z128VLF7
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKV11Z128VLF7/
 - Description: MCU_NXP_Kinetis : MKV11Z128VLF7
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKV11Z128VLF7](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKV11Z128VLF7)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKV11Z128VLF7](http://oom.lt/SZKMCUNXPKINETISMKV11Z128VLF7)

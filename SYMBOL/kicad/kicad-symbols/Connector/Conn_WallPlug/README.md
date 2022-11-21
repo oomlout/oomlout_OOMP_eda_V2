@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNCONNWALLPLUG > Connector : Conn_WallPlug](#szkcnconnwallplug--connector--conn_wallplug)
+* [SZKCNCWALLPLUG > Connector : Conn_WallPlug](#szkcncwallplug--connector--conn_wallplug)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNCONNWALLPLUG > Connector : Conn_WallPlug
+# SZKCNCWALLPLUG > Connector : Conn_WallPlug
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Conn_WallPlug
-- Hex ID: SZKCNCONNWALLPLUG
+- Hex ID: SZKCNCWALLPLUG
 - Name: Connector : Conn_WallPlug
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Conn_WallPlug/
 - Description: Connector : Conn_WallPlug
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_WallPlug](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_WallPlug)
-- Short Link: [http://oom.lt/SZKCNCONNWALLPLUG](http://oom.lt/SZKCNCONNWALLPLUG)
+- Short Link: [http://oom.lt/SZKCNCWALLPLUG](http://oom.lt/SZKCNCWALLPLUG)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|Conn_WallPlug|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_WallPlug|
-|Hex ID (short code)|hexID|SZKCNCONNWALLPLUG|
+|Hex ID (short code)|hexID|SZKCNCWALLPLUG|
 |name|name|Connector : Conn_WallPlug|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'P'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_WallPlug'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'wall plug 110VAC 220VAC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3-pin general wall plug</td><td> no Earth wire (110VAC</td><td> 220VAC)'</td></tr></table>]|
 ||||

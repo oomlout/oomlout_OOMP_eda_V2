@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLDUAL63 > digikey-footprints : LED_Dual0603](#fzkicaddigikeykicadlibrarydigikeyfootprintsldual63--digikey-footprints--led_dual0603)
+* [FZDIGIDIGIKEYFOOTPRINTSLDUAL63 > digikey-footprints : LED_Dual0603](#fzdigidigikeyfootprintsldual63--digikey-footprints--led_dual0603)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLDUAL63 > digikey-footprints : LED_Dual0603
+# FZDIGIDIGIKEYFOOTPRINTSLDUAL63 > digikey-footprints : LED_Dual0603
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Dual0603
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLDUAL63
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSLDUAL63
 - Name: digikey-footprints : LED_Dual0603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_Dual0603/
 - Description: digikey-footprints : LED_Dual0603
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Dual0603](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Dual0603)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLDUAL63](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLDUAL63)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLDUAL63](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSLDUAL63)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|LED_Dual0603|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Dual0603|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLDUAL63|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSLDUAL63|
 |name|name|digikey-footprints : LED_Dual0603|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Dual0603'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

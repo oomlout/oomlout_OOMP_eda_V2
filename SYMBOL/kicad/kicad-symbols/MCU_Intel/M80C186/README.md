@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-M80C186
 - Hex ID: SZKMCUINTELM8C186
 - Name: MCU_Intel : M80C186
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Intel/M80C186/
 - Description: MCU_Intel : M80C186
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-M80C186](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-M80C186)
 - Short Link: [http://oom.lt/SZKMCUINTELM8C186](http://oom.lt/SZKMCUINTELM8C186)

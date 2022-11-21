@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT223 > digikey-footprints : SOT-223](#fzkicaddigikeykicadlibrarydigikeyfootprintssot223--digikey-footprints--sot-223)
+* [FZDIGIDIGIKEYFOOTPRINTSSOT223 > digikey-footprints : SOT-223](#fzdigidigikeyfootprintssot223--digikey-footprints--sot-223)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT223 > digikey-footprints : SOT-223
+# FZDIGIDIGIKEYFOOTPRINTSSOT223 > digikey-footprints : SOT-223
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-223
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT223
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOT223
 - Name: digikey-footprints : SOT-223
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOT-223/
 - Description: digikey-footprints : SOT-223
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-223](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-223)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT223](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT223)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT223](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOT223)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SOT-223|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-223|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT223|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSOT223|
 |name|name|digikey-footprints : SOT-223|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-223'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

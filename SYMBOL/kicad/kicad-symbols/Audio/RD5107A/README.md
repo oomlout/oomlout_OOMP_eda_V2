@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-RD5107A
 - Hex ID: SZKAUDIORD517A
 - Name: Audio : RD5107A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/RD5107A/
 - Description: Audio : RD5107A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-RD5107A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-RD5107A)
 - Short Link: [http://oom.lt/SZKAUDIORD517A](http://oom.lt/SZKAUDIORD517A)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F767NGHx
 - Hex ID: SZKMCUSTSTM32F7STM32F767NGHX
 - Name: MCU_ST_STM32F7 : STM32F767NGHx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F767NGHx/
 - Description: MCU_ST_STM32F7 : STM32F767NGHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F767NGHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F767NGHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F767NGHX](http://oom.lt/SZKMCUSTSTM32F7STM32F767NGHX)

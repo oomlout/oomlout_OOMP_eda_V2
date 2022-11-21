@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Maple_Mini
 - Hex ID: FZKMOMAPLEM
 - Name: Module : Maple_Mini
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Maple_Mini/
 - Description: Module : Maple_Mini
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Maple_Mini](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Maple_Mini)
 - Short Link: [http://oom.lt/FZKMOMAPLEM](http://oom.lt/FZKMOMAPLEM)

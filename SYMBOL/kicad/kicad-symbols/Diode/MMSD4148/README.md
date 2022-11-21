@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MMSD4148
 - Hex ID: SZKDIODESD4148
 - Name: Diode : MMSD4148
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MMSD4148/
 - Description: Diode : MMSD4148
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMSD4148](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMSD4148)
 - Short Link: [http://oom.lt/SZKDIODESD4148](http://oom.lt/SZKDIODESD4148)

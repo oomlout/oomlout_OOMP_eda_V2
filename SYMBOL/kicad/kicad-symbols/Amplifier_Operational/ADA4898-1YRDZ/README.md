@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4898-1YRDZ
 - Hex ID: SZKAMPLIFIEROPERATIONALADA48981YRDZ
 - Name: Amplifier_Operational : ADA4898-1YRDZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/ADA4898-1YRDZ/
 - Description: Amplifier_Operational : ADA4898-1YRDZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4898-1YRDZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4898-1YRDZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA48981YRDZ](http://oom.lt/SZKAMPLIFIEROPERATIONALADA48981YRDZ)

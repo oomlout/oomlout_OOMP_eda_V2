@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-CDNBS08-SLVU2.8-4
 - Hex ID: SZKPOWERPROTECTIONCDNBS8SLVU284
 - Name: Power_Protection : CDNBS08-SLVU2.8-4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/CDNBS08-SLVU2.8-4/
 - Description: Power_Protection : CDNBS08-SLVU2.8-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-CDNBS08-SLVU2.8-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-CDNBS08-SLVU2.8-4)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONCDNBS8SLVU284](http://oom.lt/SZKPOWERPROTECTIONCDNBS8SLVU284)

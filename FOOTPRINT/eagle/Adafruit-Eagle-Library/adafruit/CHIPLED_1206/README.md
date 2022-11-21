@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIPLED_1206
 - Hex ID: FZACHIPL126
 - Name: adafruit : CHIPLED_1206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CHIPLED_1206/
 - Description: adafruit : CHIPLED_1206
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIPLED_1206](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIPLED_1206)
 - Short Link: [http://oom.lt/FZACHIPL126](http://oom.lt/FZACHIPL126)

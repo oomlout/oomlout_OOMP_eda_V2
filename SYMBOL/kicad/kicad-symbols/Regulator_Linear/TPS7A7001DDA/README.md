@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A7001DDA
 - Hex ID: SZKREGULATORLINEARTPS7A71DDA
 - Name: Regulator_Linear : TPS7A7001DDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS7A7001DDA/
 - Description: Regulator_Linear : TPS7A7001DDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A7001DDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A7001DDA)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7A71DDA](http://oom.lt/SZKREGULATORLINEARTPS7A71DDA)

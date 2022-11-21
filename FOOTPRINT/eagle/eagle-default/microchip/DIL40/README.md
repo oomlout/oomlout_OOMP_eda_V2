@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-DIL40
 - Hex ID: FZEMCHIPDIL4
 - Name: microchip : DIL40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/DIL40/
 - Description: microchip : DIL40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-DIL40](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-DIL40)
 - Short Link: [http://oom.lt/FZEMCHIPDIL4](http://oom.lt/FZEMCHIPDIL4)

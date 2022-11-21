@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F322-IP
 - Hex ID: SZKMCUMCHIPPIC1PIC1F322IP
 - Name: MCU_Microchip_PIC10 : PIC10F322-IP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC10/PIC10F322-IP/
 - Description: MCU_Microchip_PIC10 : PIC10F322-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F322-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F322-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC1PIC1F322IP](http://oom.lt/SZKMCUMCHIPPIC1PIC1F322IP)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-177827-1
 - Hex ID: FZECONAMP1778271
 - Name: con-amp : 177827-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/177827-1/
 - Description: con-amp : 177827-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-177827-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-177827-1)
 - Short Link: [http://oom.lt/FZECONAMP1778271](http://oom.lt/FZECONAMP1778271)

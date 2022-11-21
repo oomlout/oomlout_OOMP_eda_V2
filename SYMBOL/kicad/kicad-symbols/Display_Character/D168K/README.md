@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-D168K
 - Hex ID: SZKDICHARACTERD168K
 - Name: Display_Character : D168K
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/D168K/
 - Description: Display_Character : D168K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-D168K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-D168K)
 - Short Link: [http://oom.lt/SZKDICHARACTERD168K](http://oom.lt/SZKDICHARACTERD168K)

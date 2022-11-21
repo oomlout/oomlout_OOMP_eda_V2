@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LTC6752xMS8-2
 - Hex ID: SZKCOMPARATORLTC6752XMS82
 - Name: Comparator : LTC6752xMS8-2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LTC6752xMS8-2/
 - Description: Comparator : LTC6752xMS8-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LTC6752xMS8-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LTC6752xMS8-2)
 - Short Link: [http://oom.lt/SZKCOMPARATORLTC6752XMS82](http://oom.lt/SZKCOMPARATORLTC6752XMS82)

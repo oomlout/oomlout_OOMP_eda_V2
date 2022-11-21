@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC28L
 - Hex ID: FZELSICOMPUTERSYSTEMSSOIC28L
 - Name: lsi-computer-systems : SOIC28L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/SOIC28L/
 - Description: lsi-computer-systems : SOIC28L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC28L](http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC28L)
 - Short Link: [http://oom.lt/FZELSICOMPUTERSYSTEMSSOIC28L](http://oom.lt/FZELSICOMPUTERSYSTEMSSOIC28L)

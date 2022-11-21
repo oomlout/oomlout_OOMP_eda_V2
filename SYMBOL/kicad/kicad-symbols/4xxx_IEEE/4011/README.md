@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4011
 - Hex ID: SZK4XXXIEEE411
 - Name: 4xxx_IEEE : 4011
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4011/
 - Description: 4xxx_IEEE : 4011
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4011](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4011)
 - Short Link: [http://oom.lt/SZK4XXXIEEE411](http://oom.lt/SZK4XXXIEEE411)

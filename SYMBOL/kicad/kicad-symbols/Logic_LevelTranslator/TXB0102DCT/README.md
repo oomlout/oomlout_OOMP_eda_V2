@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0102DCT
 - Hex ID: SZKLOGICLEVELTRANSLATORTXB12DCT
 - Name: Logic_LevelTranslator : TXB0102DCT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXB0102DCT/
 - Description: Logic_LevelTranslator : TXB0102DCT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0102DCT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0102DCT)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXB12DCT](http://oom.lt/SZKLOGICLEVELTRANSLATORTXB12DCT)

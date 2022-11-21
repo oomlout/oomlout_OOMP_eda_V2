@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-TLP250
 - Hex ID: SZKDRIVERFETTLP25
 - Name: Driver_FET : TLP250
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/TLP250/
 - Description: Driver_FET : TLP250
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-TLP250](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-TLP250)
 - Short Link: [http://oom.lt/SZKDRIVERFETTLP25](http://oom.lt/SZKDRIVERFETTLP25)

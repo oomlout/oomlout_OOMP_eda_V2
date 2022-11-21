@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO220
 - Hex ID: FZATO22
 - Name: adafruit : TO220
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TO220/
 - Description: adafruit : TO220
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO220](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO220)
 - Short Link: [http://oom.lt/FZATO22](http://oom.lt/FZATO22)

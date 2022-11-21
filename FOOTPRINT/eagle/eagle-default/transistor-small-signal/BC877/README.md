@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-BC877
 - Hex ID: FZETRANSISTORSLLSIGNALBC877
 - Name: transistor-small-signal : BC877
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/BC877/
 - Description: transistor-small-signal : BC877
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-BC877](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-BC877)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALBC877](http://oom.lt/FZETRANSISTORSLLSIGNALBC877)

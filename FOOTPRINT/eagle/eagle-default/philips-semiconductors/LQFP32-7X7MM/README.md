@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-philips-semiconductors-LQFP32-7X7MM
 - Hex ID: FZEPHILIPSSEMICONDUCTORSLQFP327X7
 - Name: philips-semiconductors : LQFP32-7X7MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/philips-semiconductors/LQFP32-7X7MM/
 - Description: philips-semiconductors : LQFP32-7X7MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-philips-semiconductors-LQFP32-7X7MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-philips-semiconductors-LQFP32-7X7MM)
 - Short Link: [http://oom.lt/FZEPHILIPSSEMICONDUCTORSLQFP327X7](http://oom.lt/FZEPHILIPSSEMICONDUCTORSLQFP327X7)

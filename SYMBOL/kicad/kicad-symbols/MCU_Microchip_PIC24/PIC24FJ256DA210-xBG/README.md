@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC24-PIC24FJ256DA210-xBG
 - Hex ID: SZKMCUMCHIPPIC24PIC24FJ256DA21XBG
 - Name: MCU_Microchip_PIC24 : PIC24FJ256DA210-xBG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC24/PIC24FJ256DA210-xBG/
 - Description: MCU_Microchip_PIC24 : PIC24FJ256DA210-xBG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC24-PIC24FJ256DA210-xBG](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC24-PIC24FJ256DA210-xBG)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC24PIC24FJ256DA21XBG](http://oom.lt/SZKMCUMCHIPPIC24PIC24FJ256DA21XBG)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSLDIP12HPBUBBLE > SparkFun-LED : DIP12-HP-BUBBLE](#fzsldip12hpbubble--sparkfun-led--dip12-hp-bubble)
+* [FZSLD12HPBUBBLE > SparkFun-LED : DIP12-HP-BUBBLE](#fzsld12hpbubble--sparkfun-led--dip12-hp-bubble)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSLDIP12HPBUBBLE > SparkFun-LED : DIP12-HP-BUBBLE
+# FZSLD12HPBUBBLE > SparkFun-LED : DIP12-HP-BUBBLE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-DIP12-HP-BUBBLE
-- Hex ID: FZSLDIP12HPBUBBLE
+- Hex ID: FZSLD12HPBUBBLE
 - Name: SparkFun-LED : DIP12-HP-BUBBLE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/DIP12-HP-BUBBLE/
 - Description: SparkFun-LED : DIP12-HP-BUBBLE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-DIP12-HP-BUBBLE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-DIP12-HP-BUBBLE)
-- Short Link: [http://oom.lt/FZSLDIP12HPBUBBLE](http://oom.lt/FZSLDIP12HPBUBBLE)
+- Short Link: [http://oom.lt/FZSLD12HPBUBBLE](http://oom.lt/FZSLD12HPBUBBLE)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-LED|
 |OOMP Index|oompIndex|DIP12-HP-BUBBLE|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-DIP12-HP-BUBBLE|
-|Hex ID (short code)|hexID|FZSLDIP12HPBUBBLE|
+|Hex ID (short code)|hexID|FZSLD12HPBUBBLE|
 |name|name|SparkFun-LED : DIP12-HP-BUBBLE|
 ||||

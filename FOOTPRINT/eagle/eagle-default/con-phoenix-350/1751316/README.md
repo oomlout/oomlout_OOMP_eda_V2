@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-350-1751316
 - Hex ID: FZECONPHOENIX351751316
 - Name: con-phoenix-350 : 1751316
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-350/1751316/
 - Description: con-phoenix-350 : 1751316
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-350-1751316](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-350-1751316)
 - Short Link: [http://oom.lt/FZECONPHOENIX351751316](http://oom.lt/FZECONPHOENIX351751316)

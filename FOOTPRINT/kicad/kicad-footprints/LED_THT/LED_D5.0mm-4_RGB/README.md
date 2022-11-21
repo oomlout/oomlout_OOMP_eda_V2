@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm-4_RGB
 - Hex ID: FZKLLD54RGB
 - Name: LED_THT : LED_D5.0mm-4_RGB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm-4_RGB/
 - Description: LED_THT : LED_D5.0mm-4_RGB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm-4_RGB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm-4_RGB)
 - Short Link: [http://oom.lt/FZKLLD54RGB](http://oom.lt/FZKLLD54RGB)

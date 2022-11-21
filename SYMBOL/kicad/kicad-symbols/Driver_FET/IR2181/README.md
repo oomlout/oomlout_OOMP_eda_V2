@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2181
 - Hex ID: SZKDRIVERFETIR2181
 - Name: Driver_FET : IR2181
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2181/
 - Description: Driver_FET : IR2181
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2181](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2181)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2181](http://oom.lt/SZKDRIVERFETIR2181)

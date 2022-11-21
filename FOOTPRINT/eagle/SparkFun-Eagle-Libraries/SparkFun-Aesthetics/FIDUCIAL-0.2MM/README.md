@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIDUCIAL-0.2MM
 - Hex ID: FZSAFID2
 - Name: SparkFun-Aesthetics : FIDUCIAL-0.2MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FIDUCIAL-0.2MM/
 - Description: SparkFun-Aesthetics : FIDUCIAL-0.2MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIDUCIAL-0.2MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIDUCIAL-0.2MM)
 - Short Link: [http://oom.lt/FZSAFID2](http://oom.lt/FZSAFID2)

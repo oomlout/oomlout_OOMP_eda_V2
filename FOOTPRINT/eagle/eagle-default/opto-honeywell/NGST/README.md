@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-NGST
 - Hex ID: FZEOPTOHONEYWELLNGST
 - Name: opto-honeywell : NGST
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/NGST/
 - Description: opto-honeywell : NGST
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-NGST](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-NGST)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLNGST](http://oom.lt/FZEOPTOHONEYWELLNGST)

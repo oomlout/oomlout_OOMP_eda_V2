@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-CHIP
 - Hex ID: SZKMCUMOCHIP
 - Name: MCU_Module : CHIP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/CHIP/
 - Description: MCU_Module : CHIP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-CHIP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-CHIP)
 - Short Link: [http://oom.lt/SZKMCUMOCHIP](http://oom.lt/SZKMCUMOCHIP)

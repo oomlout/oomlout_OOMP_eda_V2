@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_NVRAM-FM1808B-SG
 - Hex ID: SZKMEMORYNVRAMFM188BSG
 - Name: Memory_NVRAM : FM1808B-SG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/FM1808B-SG/
 - Description: Memory_NVRAM : FM1808B-SG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-FM1808B-SG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-FM1808B-SG)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMFM188BSG](http://oom.lt/SZKMEMORYNVRAMFM188BSG)

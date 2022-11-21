@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIM74W
 - Hex ID: FZERCLRTRIM74W
 - Name: rcl : RTRIM74W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/RTRIM74W/
 - Description: rcl : RTRIM74W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM74W](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM74W)
 - Short Link: [http://oom.lt/FZERCLRTRIM74W](http://oom.lt/FZERCLRTRIM74W)

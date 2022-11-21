@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F26K20_ISS
 - Hex ID: SZKMCUMCHIPPIC18PIC18F26K2ISS
 - Name: MCU_Microchip_PIC18 : PIC18F26K20_ISS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F26K20_ISS/
 - Description: MCU_Microchip_PIC18 : PIC18F26K20_ISS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F26K20_ISS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F26K20_ISS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F26K2ISS](http://oom.lt/SZKMCUMCHIPPIC18PIC18F26K2ISS)

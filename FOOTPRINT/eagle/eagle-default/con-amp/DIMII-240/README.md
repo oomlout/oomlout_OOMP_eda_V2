@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-DIMII-240
 - Hex ID: FZECONAMPDII24
 - Name: con-amp : DIMII-240
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/DIMII-240/
 - Description: con-amp : DIMII-240
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-DIMII-240](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-DIMII-240)
 - Short Link: [http://oom.lt/FZECONAMPDII24](http://oom.lt/FZECONAMPDII24)

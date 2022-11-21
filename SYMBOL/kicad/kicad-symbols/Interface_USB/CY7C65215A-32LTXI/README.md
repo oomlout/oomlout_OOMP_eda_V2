@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65215A-32LTXI
 - Hex ID: SZKINTERFACEUCY7C65215A32LTXI
 - Name: Interface_USB : CY7C65215A-32LTXI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CY7C65215A-32LTXI/
 - Description: Interface_USB : CY7C65215A-32LTXI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65215A-32LTXI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65215A-32LTXI)
 - Short Link: [http://oom.lt/SZKINTERFACEUCY7C65215A32LTXI](http://oom.lt/SZKINTERFACEUCY7C65215A32LTXI)

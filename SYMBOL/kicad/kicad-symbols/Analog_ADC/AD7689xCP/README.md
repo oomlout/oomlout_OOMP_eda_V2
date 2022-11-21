@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7689xCP
 - Hex ID: SZKANALOGADCAD7689XCP
 - Name: Analog_ADC : AD7689xCP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7689xCP/
 - Description: Analog_ADC : AD7689xCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7689xCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7689xCP)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7689XCP](http://oom.lt/SZKANALOGADCAD7689XCP)

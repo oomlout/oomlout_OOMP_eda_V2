@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm
 - Hex ID: FZKDFNWDFN81EP4X3P65EP24X18
 - Name: Package_DFN_QFN : WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm/
 - Description: Package_DFN_QFN : WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm)
 - Short Link: [http://oom.lt/FZKDFNWDFN81EP4X3P65EP24X18](http://oom.lt/FZKDFNWDFN81EP4X3P65EP24X18)

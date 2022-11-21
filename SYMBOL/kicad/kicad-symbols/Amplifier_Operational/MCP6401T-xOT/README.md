@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6401T-xOT
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP641TXOT
 - Name: Amplifier_Operational : MCP6401T-xOT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6401T-xOT/
 - Description: Amplifier_Operational : MCP6401T-xOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6401T-xOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6401T-xOT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP641TXOT](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP641TXOT)

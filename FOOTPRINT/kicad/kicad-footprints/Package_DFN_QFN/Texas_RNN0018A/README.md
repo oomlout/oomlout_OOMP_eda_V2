@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RNN0018A
 - Hex ID: FZKDFNTEXASRNN18A
 - Name: Package_DFN_QFN : Texas_RNN0018A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RNN0018A/
 - Description: Package_DFN_QFN : Texas_RNN0018A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RNN0018A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RNN0018A)
 - Short Link: [http://oom.lt/FZKDFNTEXASRNN18A](http://oom.lt/FZKDFNTEXASRNN18A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm
 - Hex ID: FZKBGATEXASDSBGA12136X186LAYOUT3X4P5
 - Name: Package_BGA : Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm/
 - Description: Package_BGA : Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm)
 - Short Link: [http://oom.lt/FZKBGATEXASDSBGA12136X186LAYOUT3X4P5](http://oom.lt/FZKBGATEXASDSBGA12136X186LAYOUT3X4P5)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-DIL14
 - Hex ID: FZEMAXIMDIL14
 - Name: maxim : DIL14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/DIL14/
 - Description: maxim : DIL14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-DIL14](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-DIL14)
 - Short Link: [http://oom.lt/FZEMAXIMDIL14](http://oom.lt/FZEMAXIMDIL14)

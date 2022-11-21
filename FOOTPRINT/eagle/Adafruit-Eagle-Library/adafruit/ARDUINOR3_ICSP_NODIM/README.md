@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3_ICSP_NODIM
 - Hex ID: FZAARDR3ICSPNODIM
 - Name: adafruit : ARDUINOR3_ICSP_NODIM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ARDUINOR3_ICSP_NODIM/
 - Description: adafruit : ARDUINOR3_ICSP_NODIM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3_ICSP_NODIM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3_ICSP_NODIM)
 - Short Link: [http://oom.lt/FZAARDR3ICSPNODIM](http://oom.lt/FZAARDR3ICSPNODIM)

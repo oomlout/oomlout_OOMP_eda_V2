@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Omega2S+
 - Hex ID: SZKMCUMOOMEGA2S+
 - Name: MCU_Module : Omega2S+
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Omega2S+/
 - Description: MCU_Module : Omega2S+
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Omega2S+](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Omega2S+)
 - Short Link: [http://oom.lt/SZKMCUMOOMEGA2S+](http://oom.lt/SZKMCUMOOMEGA2S+)

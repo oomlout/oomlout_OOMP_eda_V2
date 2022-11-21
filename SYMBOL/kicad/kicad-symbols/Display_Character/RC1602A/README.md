@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-RC1602A
 - Hex ID: SZKDICHARACTERRC162A
 - Name: Display_Character : RC1602A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/RC1602A/
 - Description: Display_Character : RC1602A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-RC1602A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-RC1602A)
 - Short Link: [http://oom.lt/SZKDICHARACTERRC162A](http://oom.lt/SZKDICHARACTERRC162A)

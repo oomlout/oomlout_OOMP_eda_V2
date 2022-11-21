@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-TO220-52
 - Hex ID: FZEINFINEONTO2252
 - Name: infineon : TO220-52
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon/TO220-52/
 - Description: infineon : TO220-52
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-TO220-52](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-TO220-52)
 - Short Link: [http://oom.lt/FZEINFINEONTO2252](http://oom.lt/FZEINFINEONTO2252)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-G5SB
 - Hex ID: FZERELAYG5SB
 - Name: relay : G5SB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/G5SB/
 - Description: relay : G5SB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G5SB](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G5SB)
 - Short Link: [http://oom.lt/FZERELAYG5SB](http://oom.lt/FZERELAYG5SB)

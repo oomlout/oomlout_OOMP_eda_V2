@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D3.80mm_Drill2.0mm
 - Hex ID: FZKTPTPLOOPD38DRILL2
 - Name: TestPoint : TestPoint_Loop_D3.80mm_Drill2.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D3.80mm_Drill2.0mm/
 - Description: TestPoint : TestPoint_Loop_D3.80mm_Drill2.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D3.80mm_Drill2.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D3.80mm_Drill2.0mm)
 - Short Link: [http://oom.lt/FZKTPTPLOOPD38DRILL2](http://oom.lt/FZKTPTPLOOPD38DRILL2)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_PQFN-22-15-4EP_6x5mm_P0.65mm
 - Hex ID: FZKDFNINFINEONPQFN22154EP6X5P65
 - Name: Package_DFN_QFN : Infineon_PQFN-22-15-4EP_6x5mm_P0.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Infineon_PQFN-22-15-4EP_6x5mm_P0.65mm/
 - Description: Package_DFN_QFN : Infineon_PQFN-22-15-4EP_6x5mm_P0.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_PQFN-22-15-4EP_6x5mm_P0.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_PQFN-22-15-4EP_6x5mm_P0.65mm)
 - Short Link: [http://oom.lt/FZKDFNINFINEONPQFN22154EP6X5P65](http://oom.lt/FZKDFNINFINEONPQFN22154EP6X5P65)

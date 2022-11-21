@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1203P40
 - Hex ID: SZKREGULATORCONTROLLERNCP123P4
 - Name: Regulator_Controller : NCP1203P40
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1203P40/
 - Description: Regulator_Controller : NCP1203P40
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1203P40](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1203P40)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP123P4](http://oom.lt/SZKREGULATORCONTROLLERNCP123P4)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm
 - Hex ID: FZKDDIODEBRIDGE32X56X17P1P75
 - Name: Diode_THT : Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm/
 - Description: Diode_THT : Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGE32X56X17P1P75](http://oom.lt/FZKDDIODEBRIDGE32X56X17P1P75)

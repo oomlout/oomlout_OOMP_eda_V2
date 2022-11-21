@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TCR2EE115
 - Hex ID: SZKREGULATORLINEARTCR2EE115
 - Name: Regulator_Linear : TCR2EE115
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TCR2EE115/
 - Description: Regulator_Linear : TCR2EE115
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TCR2EE115](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TCR2EE115)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTCR2EE115](http://oom.lt/SZKREGULATORLINEARTCR2EE115)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ptc-ntc-P660A
 - Hex ID: FZEPTCNTCP66A
 - Name: ptc-ntc : P660A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ptc-ntc/P660A/
 - Description: ptc-ntc : P660A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ptc-ntc-P660A](http://oom.lt/FOOTPRINT-eagle-eagle-default-ptc-ntc-P660A)
 - Short Link: [http://oom.lt/FZEPTCNTCP66A](http://oom.lt/FZEPTCNTCP66A)

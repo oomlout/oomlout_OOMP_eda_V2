@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6082xDHC
 - Hex ID: SZKAMPLIFIEROPERATIONALLTC682XDHC
 - Name: Amplifier_Operational : LTC6082xDHC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6082xDHC/
 - Description: Amplifier_Operational : LTC6082xDHC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6082xDHC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6082xDHC)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC682XDHC](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC682XDHC)

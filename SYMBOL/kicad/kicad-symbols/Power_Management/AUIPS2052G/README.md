@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS2052G
 - Hex ID: SZKPOWERMANAGEMENTAUIPS252G
 - Name: Power_Management : AUIPS2052G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS2052G/
 - Description: Power_Management : AUIPS2052G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS2052G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS2052G)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIPS252G](http://oom.lt/SZKPOWERMANAGEMENTAUIPS252G)

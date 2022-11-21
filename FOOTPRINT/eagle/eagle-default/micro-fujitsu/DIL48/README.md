@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-DIL48
 - Hex ID: FZEMFUJITSUDIL48
 - Name: micro-fujitsu : DIL48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-fujitsu/DIL48/
 - Description: micro-fujitsu : DIL48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-DIL48](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-DIL48)
 - Short Link: [http://oom.lt/FZEMFUJITSUDIL48](http://oom.lt/FZEMFUJITSUDIL48)

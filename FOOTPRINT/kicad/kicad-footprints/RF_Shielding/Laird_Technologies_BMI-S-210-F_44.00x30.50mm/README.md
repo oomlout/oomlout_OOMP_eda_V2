@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-210-F_44.00x30.50mm
 - Hex ID: FZKRFSLAIRDTECHNOLOGIESBMIS21F44X35
 - Name: RF_Shielding : Laird_Technologies_BMI-S-210-F_44.00x30.50mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-210-F_44.00x30.50mm/
 - Description: RF_Shielding : Laird_Technologies_BMI-S-210-F_44.00x30.50mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-210-F_44.00x30.50mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-210-F_44.00x30.50mm)
 - Short Link: [http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS21F44X35](http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS21F44X35)

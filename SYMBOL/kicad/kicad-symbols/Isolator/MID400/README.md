@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-MID400
 - Hex ID: SZKISOLATORMID4
 - Name: Isolator : MID400
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/MID400/
 - Description: Isolator : MID400
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-MID400](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-MID400)
 - Short Link: [http://oom.lt/SZKISOLATORMID4](http://oom.lt/SZKISOLATORMID4)

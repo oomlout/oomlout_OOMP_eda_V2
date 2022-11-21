@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-LTC1562xG-2
 - Hex ID: SZKFILLTC1562XG2
 - Name: Filter : LTC1562xG-2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/LTC1562xG-2/
 - Description: Filter : LTC1562xG-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-LTC1562xG-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-LTC1562xG-2)
 - Short Link: [http://oom.lt/SZKFILLTC1562XG2](http://oom.lt/SZKFILLTC1562XG2)

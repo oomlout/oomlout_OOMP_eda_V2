@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega48PA-CC
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA48PACC
 - Name: MCU_Microchip_ATmega : ATmega48PA-CC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega48PA-CC/
 - Description: MCU_Microchip_ATmega : ATmega48PA-CC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega48PA-CC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega48PA-CC)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA48PACC](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA48PACC)

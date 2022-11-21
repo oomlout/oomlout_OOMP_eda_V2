@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSWTACTILESWITCHP12 > SparkFun-Switches : TACTILE_SWITCH_PTH_12MM](#fzswtactileswitchp12--sparkfun-switches--tactile_switch_pth_12mm)
+* [FZSWTSWP12 > SparkFun-Switches : TACTILE_SWITCH_PTH_12MM](#fzswtswp12--sparkfun-switches--tactile_switch_pth_12mm)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSWTACTILESWITCHP12 > SparkFun-Switches : TACTILE_SWITCH_PTH_12MM
+# FZSWTSWP12 > SparkFun-Switches : TACTILE_SWITCH_PTH_12MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_PTH_12MM
-- Hex ID: FZSWTACTILESWITCHP12
+- Hex ID: FZSWTSWP12
 - Name: SparkFun-Switches : TACTILE_SWITCH_PTH_12MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/TACTILE_SWITCH_PTH_12MM/
 - Description: SparkFun-Switches : TACTILE_SWITCH_PTH_12MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_PTH_12MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_PTH_12MM)
-- Short Link: [http://oom.lt/FZSWTACTILESWITCHP12](http://oom.lt/FZSWTACTILESWITCHP12)
+- Short Link: [http://oom.lt/FZSWTSWP12](http://oom.lt/FZSWTSWP12)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Switches|
 |OOMP Index|oompIndex|TACTILE_SWITCH_PTH_12MM|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_PTH_12MM|
-|Hex ID (short code)|hexID|FZSWTACTILESWITCHP12|
+|Hex ID (short code)|hexID|FZSWTSWP12|
 |name|name|SparkFun-Switches : TACTILE_SWITCH_PTH_12MM|
 ||||

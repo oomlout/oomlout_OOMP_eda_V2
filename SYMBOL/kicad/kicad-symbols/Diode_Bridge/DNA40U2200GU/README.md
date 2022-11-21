@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-DNA40U2200GU
 - Hex ID: SZKDIODEBRIDGEDNA4U22GU
 - Name: Diode_Bridge : DNA40U2200GU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DNA40U2200GU/
 - Description: Diode_Bridge : DNA40U2200GU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DNA40U2200GU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DNA40U2200GU)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEDNA4U22GU](http://oom.lt/SZKDIODEBRIDGEDNA4U22GU)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-SNR-H6
 - Hex ID: FZERELAYSNRH6
 - Name: relay : SNR-H6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/SNR-H6/
 - Description: relay : SNR-H6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SNR-H6](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SNR-H6)
 - Short Link: [http://oom.lt/FZERELAYSNRH6](http://oom.lt/FZERELAYSNRH6)

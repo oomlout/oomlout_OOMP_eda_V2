@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2L-2125-1
 - Hex ID: FZECONOMRONXF2L21251
 - Name: con-omron : XF2L-2125-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-omron/XF2L-2125-1/
 - Description: con-omron : XF2L-2125-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2L-2125-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2L-2125-1)
 - Short Link: [http://oom.lt/FZECONOMRONXF2L21251](http://oom.lt/FZECONOMRONXF2L21251)

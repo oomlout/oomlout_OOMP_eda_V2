@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Blade_Mini_directSolder
 - Hex ID: FZKFUFUBLADEMDIRECTSOLDER
 - Name: Fuse : Fuse_Blade_Mini_directSolder
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Blade_Mini_directSolder/
 - Description: Fuse : Fuse_Blade_Mini_directSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Blade_Mini_directSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Blade_Mini_directSolder)
 - Short Link: [http://oom.lt/FZKFUFUBLADEMDIRECTSOLDER](http://oom.lt/FZKFUFUBLADEMDIRECTSOLDER)

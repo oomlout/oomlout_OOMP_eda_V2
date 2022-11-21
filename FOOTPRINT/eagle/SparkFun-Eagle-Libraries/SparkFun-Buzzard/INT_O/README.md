@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-INT_O
 - Hex ID: FZSBUINTO
 - Name: SparkFun-Buzzard : INT_O
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/INT_O/
 - Description: SparkFun-Buzzard : INT_O
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-INT_O](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-INT_O)
 - Short Link: [http://oom.lt/FZSBUINTO](http://oom.lt/FZSBUINTO)

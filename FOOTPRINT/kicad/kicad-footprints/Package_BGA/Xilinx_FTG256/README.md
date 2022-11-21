@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FTG256
 - Hex ID: FZKBGAXILINXFTG256
 - Name: Package_BGA : Xilinx_FTG256
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FTG256/
 - Description: Package_BGA : Xilinx_FTG256
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FTG256](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FTG256)
 - Short Link: [http://oom.lt/FZKBGAXILINXFTG256](http://oom.lt/FZKBGAXILINXFTG256)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCSPLFCSP161EP3X3P5EP13X13THERMALVIAS > Package_CSP : LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias](#fzkcsplfcsp161ep3x3p5ep13x13thermalvias--package_csp--lfcsp-16-1ep_3x3mm_p05mm_ep13x13mm_thermalvias)
+* [FZKCSPLFCSP161EP3X3P5EP13X13THV > Package_CSP : LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias](#fzkcsplfcsp161ep3x3p5ep13x13thv--package_csp--lfcsp-16-1ep_3x3mm_p05mm_ep13x13mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCSPLFCSP161EP3X3P5EP13X13THERMALVIAS > Package_CSP : LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias
+# FZKCSPLFCSP161EP3X3P5EP13X13THV > Package_CSP : LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias
-- Hex ID: FZKCSPLFCSP161EP3X3P5EP13X13THERMALVIAS
+- Hex ID: FZKCSPLFCSP161EP3X3P5EP13X13THV
 - Name: Package_CSP : LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias/
 - Description: Package_CSP : LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKCSPLFCSP161EP3X3P5EP13X13THERMALVIAS](http://oom.lt/FZKCSPLFCSP161EP3X3P5EP13X13THERMALVIAS)
+- Short Link: [http://oom.lt/FZKCSPLFCSP161EP3X3P5EP13X13THV](http://oom.lt/FZKCSPLFCSP161EP3X3P5EP13X13THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_CSP|
 |OOMP Index|oompIndex|LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKCSPLFCSP161EP3X3P5EP13X13THERMALVIAS|
+|Hex ID (short code)|hexID|FZKCSPLFCSP161EP3X3P5EP13X13THV|
 |name|name|Package_CSP : LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'LFCSP</td><td> 16 Pin (https</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/CP_16_21.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LFCSP NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

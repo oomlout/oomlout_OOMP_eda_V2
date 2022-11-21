@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CK605
 - Hex ID: FZKRFMCIRCUITSCK65
 - Name: RF_Mini-Circuits : Mini-Circuits_CK605
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CK605/
 - Description: RF_Mini-Circuits : Mini-Circuits_CK605
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CK605](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CK605)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSCK65](http://oom.lt/FZKRFMCIRCUITSCK65)

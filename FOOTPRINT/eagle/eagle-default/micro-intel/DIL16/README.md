@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-DIL16
 - Hex ID: FZEMINTELDIL16
 - Name: micro-intel : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/DIL16/
 - Description: micro-intel : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-DIL16)
 - Short Link: [http://oom.lt/FZEMINTELDIL16](http://oom.lt/FZEMINTELDIL16)

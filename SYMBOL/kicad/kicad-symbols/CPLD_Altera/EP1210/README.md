@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP1210
 - Hex ID: SZKCPLDALTERAEP121
 - Name: CPLD_Altera : EP1210
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EP1210/
 - Description: CPLD_Altera : EP1210
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP1210](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP1210)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEP121](http://oom.lt/SZKCPLDALTERAEP121)

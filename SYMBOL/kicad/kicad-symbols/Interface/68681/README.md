@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-68681
 - Hex ID: SZKINTERFACE68681
 - Name: Interface : 68681
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/68681/
 - Description: Interface : 68681
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-68681](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-68681)
 - Short Link: [http://oom.lt/SZKINTERFACE68681](http://oom.lt/SZKINTERFACE68681)

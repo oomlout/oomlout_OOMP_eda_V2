@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIODESMDQFN33X33P65 > Diode_SMD : D_QFN_3.3x3.3mm_P0.65mm](#fzkdiodesmdqfn33x33p65--diode_smd--d_qfn_33x33mm_p065mm)
+* [FZKDDQFN33X33P65 > Diode_SMD : D_QFN_3.3x3.3mm_P0.65mm](#fzkddqfn33x33p65--diode_smd--d_qfn_33x33mm_p065mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMDQFN33X33P65 > Diode_SMD : D_QFN_3.3x3.3mm_P0.65mm
+# FZKDDQFN33X33P65 > Diode_SMD : D_QFN_3.3x3.3mm_P0.65mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_QFN_3.3x3.3mm_P0.65mm
-- Hex ID: FZKDIODESMDQFN33X33P65
+- Hex ID: FZKDDQFN33X33P65
 - Name: Diode_SMD : D_QFN_3.3x3.3mm_P0.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_QFN_3.3x3.3mm_P0.65mm/
 - Description: Diode_SMD : D_QFN_3.3x3.3mm_P0.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_QFN_3.3x3.3mm_P0.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_QFN_3.3x3.3mm_P0.65mm)
-- Short Link: [http://oom.lt/FZKDIODESMDQFN33X33P65](http://oom.lt/FZKDIODESMDQFN33X33P65)
+- Short Link: [http://oom.lt/FZKDDQFN33X33P65](http://oom.lt/FZKDDQFN33X33P65)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_QFN_3.3x3.3mm_P0.65mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_QFN_3.3x3.3mm_P0.65mm|
-|Hex ID (short code)|hexID|FZKDIODESMDQFN33X33P65|
+|Hex ID (short code)|hexID|FZKDDQFN33X33P65|
 |name|name|Diode_SMD : D_QFN_3.3x3.3mm_P0.65mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_QFN_3.3x3.3mm_P0.65mm'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> diode</td><td> 3.3x3.3x1mm (https</td></tr><tr><td>//www.wolfspeed.com/media/downloads/846/C3D1P7060Q.pdf)'</td><td> 'tags'</td></tr><tr><td> 'diode qfn 3.3'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_QFN_3.3x3.3mm_P0.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

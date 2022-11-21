@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5355-JGYMME
 - Hex ID: SZKREGULATORLINEARMIC5355JGYE
 - Name: Regulator_Linear : MIC5355-JGYMME
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5355-JGYMME/
 - Description: Regulator_Linear : MIC5355-JGYMME
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5355-JGYMME](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5355-JGYMME)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC5355JGYE](http://oom.lt/SZKREGULATORLINEARMIC5355JGYE)

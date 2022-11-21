@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5912-1.0DRV
 - Hex ID: SZKREGULATORLINEARLP59121DRV
 - Name: Regulator_Linear : LP5912-1.0DRV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP5912-1.0DRV/
 - Description: Regulator_Linear : LP5912-1.0DRV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5912-1.0DRV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5912-1.0DRV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP59121DRV](http://oom.lt/SZKREGULATORLINEARLP59121DRV)

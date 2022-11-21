@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP100-460D
 - Hex ID: SZKPOWERSUPERVISORMCP146D
 - Name: Power_Supervisor : MCP100-460D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP100-460D/
 - Description: Power_Supervisor : MCP100-460D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP100-460D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP100-460D)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP146D](http://oom.lt/SZKPOWERSUPERVISORMCP146D)

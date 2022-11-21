@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-MIC2587R-1
 - Hex ID: SZKPOWERMANAGEMENTMIC2587R1
 - Name: Power_Management : MIC2587R-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/MIC2587R-1/
 - Description: Power_Management : MIC2587R-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MIC2587R-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MIC2587R-1)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTMIC2587R1](http://oom.lt/SZKPOWERMANAGEMENTMIC2587R1)

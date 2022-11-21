@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORNEOSIDH11E > inductor-neosid : H101E](#fzeinductorneosidh11e--inductor-neosid--h101e)
+* [FZEINNEOSIDH11E > inductor-neosid : H101E](#fzeinneosidh11e--inductor-neosid--h101e)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORNEOSIDH11E > inductor-neosid : H101E
+# FZEINNEOSIDH11E > inductor-neosid : H101E
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-H101E
-- Hex ID: FZEINDUCTORNEOSIDH11E
+- Hex ID: FZEINNEOSIDH11E
 - Name: inductor-neosid : H101E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductor-neosid/H101E/
 - Description: inductor-neosid : H101E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-H101E](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-H101E)
-- Short Link: [http://oom.lt/FZEINDUCTORNEOSIDH11E](http://oom.lt/FZEINDUCTORNEOSIDH11E)
+- Short Link: [http://oom.lt/FZEINNEOSIDH11E](http://oom.lt/FZEINNEOSIDH11E)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductor-neosid|
 |OOMP Index|oompIndex|H101E|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductor-neosid-H101E|
-|Hex ID (short code)|hexID|FZEINDUCTORNEOSIDH11E|
+|Hex ID (short code)|hexID|FZEINNEOSIDH11E|
 |name|name|inductor-neosid : H101E|
 ||||

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHDILDS7 > switch-dil : DS-07](#fzeswitchdilds7--switch-dil--ds-07)
+* [FZESWDILDS7 > switch-dil : DS-07](#fzeswdilds7--switch-dil--ds-07)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHDILDS7 > switch-dil : DS-07
+# FZESWDILDS7 > switch-dil : DS-07
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-DS-07
-- Hex ID: FZESWITCHDILDS7
+- Hex ID: FZESWDILDS7
 - Name: switch-dil : DS-07
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/DS-07/
 - Description: switch-dil : DS-07
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DS-07](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DS-07)
-- Short Link: [http://oom.lt/FZESWITCHDILDS7](http://oom.lt/FZESWITCHDILDS7)
+- Short Link: [http://oom.lt/FZESWDILDS7](http://oom.lt/FZESWDILDS7)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-dil|
 |OOMP Index|oompIndex|DS-07|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-dil-DS-07|
-|Hex ID (short code)|hexID|FZESWITCHDILDS7|
+|Hex ID (short code)|hexID|FZESWDILDS7|
 |name|name|switch-dil : DS-07|
 ||||

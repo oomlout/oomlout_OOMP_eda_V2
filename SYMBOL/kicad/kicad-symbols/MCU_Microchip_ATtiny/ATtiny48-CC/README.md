@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny48-CC
 - Hex ID: SZKMCUMCHIPATTINYATTINY48CC
 - Name: MCU_Microchip_ATtiny : ATtiny48-CC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny48-CC/
 - Description: MCU_Microchip_ATtiny : ATtiny48-CC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny48-CC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny48-CC)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY48CC](http://oom.lt/SZKMCUMCHIPATTINYATTINY48CC)

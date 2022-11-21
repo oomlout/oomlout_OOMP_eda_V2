@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-VR22-1
 - Hex ID: FZETRAFOVR221
 - Name: trafo : VR22-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/VR22-1/
 - Description: trafo : VR22-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-VR22-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-VR22-1)
 - Short Link: [http://oom.lt/FZETRAFOVR221](http://oom.lt/FZETRAFOVR221)

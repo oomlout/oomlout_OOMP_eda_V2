@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F884-IP
 - Hex ID: SZKMCUMCHIPPIC16PIC16F884IP
 - Name: MCU_Microchip_PIC16 : PIC16F884-IP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F884-IP/
 - Description: MCU_Microchip_PIC16 : PIC16F884-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F884-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F884-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F884IP](http://oom.lt/SZKMCUMCHIPPIC16PIC16F884IP)

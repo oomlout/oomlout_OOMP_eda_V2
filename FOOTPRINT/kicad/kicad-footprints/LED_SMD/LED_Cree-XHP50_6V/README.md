@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKLSMLCREEXHP56V > LED_SMD : LED_Cree-XHP50_6V](#fzklsmlcreexhp56v--led_smd--led_cree-xhp50_6v)
+* [FZKLLCREEXHP56V > LED_SMD : LED_Cree-XHP50_6V](#fzkllcreexhp56v--led_smd--led_cree-xhp50_6v)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLCREEXHP56V > LED_SMD : LED_Cree-XHP50_6V
+# FZKLLCREEXHP56V > LED_SMD : LED_Cree-XHP50_6V
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP50_6V
-- Hex ID: FZKLSMLCREEXHP56V
+- Hex ID: FZKLLCREEXHP56V
 - Name: LED_SMD : LED_Cree-XHP50_6V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XHP50_6V/
 - Description: LED_SMD : LED_Cree-XHP50_6V
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP50_6V](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP50_6V)
-- Short Link: [http://oom.lt/FZKLSMLCREEXHP56V](http://oom.lt/FZKLSMLCREEXHP56V)
+- Short Link: [http://oom.lt/FZKLLCREEXHP56V](http://oom.lt/FZKLLCREEXHP56V)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_Cree-XHP50_6V|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP50_6V|
-|Hex ID (short code)|hexID|FZKLSMLCREEXHP56V|
+|Hex ID (short code)|hexID|FZKLLCREEXHP56V|
 |name|name|LED_SMD : LED_Cree-XHP50_6V|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Cree-XHP50_6V'</td><td> 'description'</td></tr><tr><td> 'Cree XHP50</td><td> 6V footprint</td><td> http</td></tr><tr><td>//www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP50.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED Cree XHP50'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapesLED_Cree-XHP50_6V.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

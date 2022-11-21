@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-PLCC52
 - Hex ID: FZEATMELPLCC52
 - Name: atmel : PLCC52
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/PLCC52/
 - Description: atmel : PLCC52
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-PLCC52](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-PLCC52)
 - Short Link: [http://oom.lt/FZEATMELPLCC52](http://oom.lt/FZEATMELPLCC52)

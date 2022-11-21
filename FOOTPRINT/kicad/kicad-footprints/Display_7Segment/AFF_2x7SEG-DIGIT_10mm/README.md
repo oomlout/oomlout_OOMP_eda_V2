@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-AFF_2x7SEG-DIGIT_10mm
 - Hex ID: FZKDI7SAFF2X7SEGDIGIT1
 - Name: Display_7Segment : AFF_2x7SEG-DIGIT_10mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/AFF_2x7SEG-DIGIT_10mm/
 - Description: Display_7Segment : AFF_2x7SEG-DIGIT_10mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-AFF_2x7SEG-DIGIT_10mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-AFF_2x7SEG-DIGIT_10mm)
 - Short Link: [http://oom.lt/FZKDI7SAFF2X7SEGDIGIT1](http://oom.lt/FZKDI7SAFF2X7SEGDIGIT1)

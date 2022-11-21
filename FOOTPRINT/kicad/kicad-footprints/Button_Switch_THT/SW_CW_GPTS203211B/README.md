@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CW_GPTS203211B
 - Hex ID: FZKBSWCWGPTS23211B
 - Name: Button_Switch_THT : SW_CW_GPTS203211B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/
 - Description: Button_Switch_THT : SW_CW_GPTS203211B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CW_GPTS203211B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CW_GPTS203211B)
 - Short Link: [http://oom.lt/FZKBSWCWGPTS23211B](http://oom.lt/FZKBSWCWGPTS23211B)

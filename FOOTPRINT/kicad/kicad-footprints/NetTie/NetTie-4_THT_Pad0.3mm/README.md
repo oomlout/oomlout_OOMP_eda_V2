@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKNTNT4THTPAD3 > NetTie : NetTie-4_THT_Pad0.3mm](#fzkntnt4thtpad3--nettie--nettie-4_tht_pad03mm)
+* [FZKNTNT4THTP3 > NetTie : NetTie-4_THT_Pad0.3mm](#fzkntnt4thtp3--nettie--nettie-4_tht_pad03mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKNTNT4THTPAD3 > NetTie : NetTie-4_THT_Pad0.3mm
+# FZKNTNT4THTP3 > NetTie : NetTie-4_THT_Pad0.3mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-4_THT_Pad0.3mm
-- Hex ID: FZKNTNT4THTPAD3
+- Hex ID: FZKNTNT4THTP3
 - Name: NetTie : NetTie-4_THT_Pad0.3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-4_THT_Pad0.3mm/
 - Description: NetTie : NetTie-4_THT_Pad0.3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-4_THT_Pad0.3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-4_THT_Pad0.3mm)
-- Short Link: [http://oom.lt/FZKNTNT4THTPAD3](http://oom.lt/FZKNTNT4THTPAD3)
+- Short Link: [http://oom.lt/FZKNTNT4THTP3](http://oom.lt/FZKNTNT4THTP3)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|NetTie|
 |OOMP Index|oompIndex|NetTie-4_THT_Pad0.3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-4_THT_Pad0.3mm|
-|Hex ID (short code)|hexID|FZKNTNT4THTPAD3|
+|Hex ID (short code)|hexID|FZKNTNT4THTP3|
 |name|name|NetTie : NetTie-4_THT_Pad0.3mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'NetTie-4_THT_Pad0.3mm'</td><td> 'description'</td></tr><tr><td> 'Net tie</td><td> 4 pin</td><td> 0.3mm round THT pads'</td><td> 'tags'</td></tr><tr><td> 'net tie'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

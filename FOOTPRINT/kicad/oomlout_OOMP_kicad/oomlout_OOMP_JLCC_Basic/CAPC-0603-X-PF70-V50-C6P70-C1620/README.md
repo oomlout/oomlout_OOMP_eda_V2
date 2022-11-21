@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF7V5C6P7C162 > oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF70-V50-C6P70-C1620](#fzkicadoomloutoompkicadoomloutoompjlccbasiccapc63xpf7v5c6p7c162--oomlout_oomp_jlcc_basic--capc-0603-x-pf70-v50-c6p70-c1620)
+* [FZOOMPKJLCCAPC63XPF7V5C6P7C162 > oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF70-V50-C6P70-C1620](#fzoompkjlccapc63xpf7v5c6p7c162--oomlout_oomp_jlcc_basic--capc-0603-x-pf70-v50-c6p70-c1620)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF7V5C6P7C162 > oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF70-V50-C6P70-C1620
+# FZOOMPKJLCCAPC63XPF7V5C6P7C162 > oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF70-V50-C6P70-C1620
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF70-V50-C6P70-C1620
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF7V5C6P7C162
+- Hex ID: FZOOMPKJLCCAPC63XPF7V5C6P7C162
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF70-V50-C6P70-C1620
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0603-X-PF70-V50-C6P70-C1620/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF70-V50-C6P70-C1620
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF70-V50-C6P70-C1620](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF70-V50-C6P70-C1620)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF7V5C6P7C162](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF7V5C6P7C162)
+- Short Link: [http://oom.lt/FZOOMPKJLCCAPC63XPF7V5C6P7C162](http://oom.lt/FZOOMPKJLCCAPC63XPF7V5C6P7C162)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_JLCC_Basic|
 |OOMP Index|oompIndex|CAPC-0603-X-PF70-V50-C6P70-C1620|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF70-V50-C6P70-C1620|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF7V5C6P7C162|
+|Hex ID (short code)|hexID|FZOOMPKJLCCAPC63XPF7V5C6P7C162|
 |name|name|oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF70-V50-C6P70-C1620|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CAPC-0603-X-PF70-V50-C6P70-C1620'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C6P70;PARTL C-JLCC;C1620;MANUF C-XXXX;0603B471K500NT; Capacitor SMD 0603 (1608 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

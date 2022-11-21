@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-ETD54
 - Hex ID: FZETRAFOETD54
 - Name: trafo : ETD54
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/ETD54/
 - Description: trafo : ETD54
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-ETD54](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-ETD54)
 - Short Link: [http://oom.lt/FZETRAFOETD54](http://oom.lt/FZETRAFOETD54)

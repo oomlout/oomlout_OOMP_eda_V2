@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADRTRIM7Y > ref-packages-longpad : RTRIM70Y](#fzerefpackageslongpadrtrim7y--ref-packages-longpad--rtrim70y)
+* [FZEREFPSLPRTRIM7Y > ref-packages-longpad : RTRIM70Y](#fzerefpslprtrim7y--ref-packages-longpad--rtrim70y)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADRTRIM7Y > ref-packages-longpad : RTRIM70Y
+# FZEREFPSLPRTRIM7Y > ref-packages-longpad : RTRIM70Y
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTRIM70Y
-- Hex ID: FZEREFPACKAGESLONGPADRTRIM7Y
+- Hex ID: FZEREFPSLPRTRIM7Y
 - Name: ref-packages-longpad : RTRIM70Y
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/RTRIM70Y/
 - Description: ref-packages-longpad : RTRIM70Y
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTRIM70Y](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTRIM70Y)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADRTRIM7Y](http://oom.lt/FZEREFPACKAGESLONGPADRTRIM7Y)
+- Short Link: [http://oom.lt/FZEREFPSLPRTRIM7Y](http://oom.lt/FZEREFPSLPRTRIM7Y)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|RTRIM70Y|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTRIM70Y|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADRTRIM7Y|
+|Hex ID (short code)|hexID|FZEREFPSLPRTRIM7Y|
 |name|name|ref-packages-longpad : RTRIM70Y|
 ||||

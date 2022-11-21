@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2858xMS-2
 - Hex ID: SZKINTERFACEUARTLTC2858XMS2
 - Name: Interface_UART : LTC2858xMS-2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/LTC2858xMS-2/
 - Description: Interface_UART : LTC2858xMS-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2858xMS-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2858xMS-2)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTLTC2858XMS2](http://oom.lt/SZKINTERFACEUARTLTC2858XMS2)

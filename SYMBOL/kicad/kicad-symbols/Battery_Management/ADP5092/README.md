@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-ADP5092
 - Hex ID: SZKBATMANAGEMENTADP592
 - Name: Battery_Management : ADP5092
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/ADP5092/
 - Description: Battery_Management : ADP5092
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-ADP5092](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-ADP5092)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTADP592](http://oom.lt/SZKBATMANAGEMENTADP592)

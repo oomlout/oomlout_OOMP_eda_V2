@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC2130-TA
 - Hex ID: SZKDRIVERMOTORTMC213TA
 - Name: Driver_Motor : TMC2130-TA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2130-TA/
 - Description: Driver_Motor : TMC2130-TA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC2130-TA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC2130-TA)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORTMC213TA](http://oom.lt/SZKDRIVERMOTORTMC213TA)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-19inch-VG96KB
 - Hex ID: FZE19INCHVG96KB
 - Name: 19inch : VG96KB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/VG96KB/
 - Description: 19inch : VG96KB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VG96KB](http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-VG96KB)
 - Short Link: [http://oom.lt/FZE19INCHVG96KB](http://oom.lt/FZE19INCHVG96KB)

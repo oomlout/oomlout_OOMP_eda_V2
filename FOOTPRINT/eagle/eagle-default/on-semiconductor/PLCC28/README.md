@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-on-semiconductor-PLCC28
 - Hex ID: FZEONSEMICONDUCTORPLCC28
 - Name: on-semiconductor : PLCC28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/on-semiconductor/PLCC28/
 - Description: on-semiconductor : PLCC28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-PLCC28](http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-PLCC28)
 - Short Link: [http://oom.lt/FZEONSEMICONDUCTORPLCC28](http://oom.lt/FZEONSEMICONDUCTORPLCC28)

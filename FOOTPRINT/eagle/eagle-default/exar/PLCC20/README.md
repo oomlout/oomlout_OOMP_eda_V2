@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-PLCC20
 - Hex ID: FZEEXARPLCC2
 - Name: exar : PLCC20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/PLCC20/
 - Description: exar : PLCC20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-PLCC20](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-PLCC20)
 - Short Link: [http://oom.lt/FZEEXARPLCC2](http://oom.lt/FZEEXARPLCC2)

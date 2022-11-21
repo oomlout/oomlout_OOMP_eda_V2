@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-P128-60
 - Hex ID: FZERCLP1286
 - Name: rcl : P128-60
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/P128-60/
 - Description: rcl : P128-60
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-P128-60](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-P128-60)
 - Short Link: [http://oom.lt/FZERCLP1286](http://oom.lt/FZERCLP1286)

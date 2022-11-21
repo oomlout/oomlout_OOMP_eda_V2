@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega3290PA-A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA329PAA
 - Name: MCU_Microchip_ATmega : ATmega3290PA-A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega3290PA-A/
 - Description: MCU_Microchip_ATmega : ATmega3290PA-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega3290PA-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega3290PA-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA329PAA](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA329PAA)

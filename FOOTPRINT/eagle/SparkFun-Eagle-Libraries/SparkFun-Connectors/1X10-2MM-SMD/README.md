@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X10-2MM-SMD
 - Hex ID: FZSSPARKFUNCNS1X12SM
 - Name: SparkFun-Connectors : 1X10-2MM-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X10-2MM-SMD/
 - Description: SparkFun-Connectors : 1X10-2MM-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X10-2MM-SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X10-2MM-SMD)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X12SM](http://oom.lt/FZSSPARKFUNCNS1X12SM)

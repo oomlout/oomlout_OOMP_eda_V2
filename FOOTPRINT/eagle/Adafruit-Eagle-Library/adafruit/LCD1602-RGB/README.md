@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LCD1602-RGB
 - Hex ID: FZALCD162RGB
 - Name: adafruit : LCD1602-RGB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/LCD1602-RGB/
 - Description: adafruit : LCD1602-RGB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LCD1602-RGB](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LCD1602-RGB)
 - Short Link: [http://oom.lt/FZALCD162RGB](http://oom.lt/FZALCD162RGB)

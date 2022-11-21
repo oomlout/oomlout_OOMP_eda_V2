@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD80C
 - Hex ID: FZEDIODESOD8C
 - Name: diode : SOD80C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOD80C/
 - Description: diode : SOD80C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD80C](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD80C)
 - Short Link: [http://oom.lt/FZEDIODESOD8C](http://oom.lt/FZEDIODESOD8C)

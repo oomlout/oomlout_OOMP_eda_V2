@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M1.6_H5mm_ThreadDepth2mm_97730506332
 - Hex ID: FZKMONMONWASMSIM16H5THREADDEP2977356332
 - Name: Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-M1.6_H5mm_ThreadDepth2mm_97730506332
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M1.6_H5mm_ThreadDepth2mm_97730506332/
 - Description: Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-M1.6_H5mm_ThreadDepth2mm_97730506332
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M1.6_H5mm_ThreadDepth2mm_97730506332](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M1.6_H5mm_ThreadDepth2mm_97730506332)
 - Short Link: [http://oom.lt/FZKMONMONWASMSIM16H5THREADDEP2977356332](http://oom.lt/FZKMONMONWASMSIM16H5THREADDEP2977356332)

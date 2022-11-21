@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X20_SHROUDED_SMT
 - Hex ID: FZSSPARKFUNCNS2X2SHROUDEDS
 - Name: SparkFun-Connectors : 2X20_SHROUDED_SMT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/2X20_SHROUDED_SMT/
 - Description: SparkFun-Connectors : 2X20_SHROUDED_SMT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X20_SHROUDED_SMT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X20_SHROUDED_SMT)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS2X2SHROUDEDS](http://oom.lt/FZSSPARKFUNCNS2X2SHROUDEDS)

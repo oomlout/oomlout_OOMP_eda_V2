@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-CE_7.3MM
 - Hex ID: FZELCE73
 - Name: logo : CE_7.3MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/CE_7.3MM/
 - Description: logo : CE_7.3MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CE_7.3MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CE_7.3MM)
 - Short Link: [http://oom.lt/FZELCE73](http://oom.lt/FZELCE73)

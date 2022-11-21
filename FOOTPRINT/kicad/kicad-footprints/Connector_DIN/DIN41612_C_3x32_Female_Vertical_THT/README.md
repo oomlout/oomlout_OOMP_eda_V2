@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNDINDIN41612C3X32FEMALEVERTICALTHT > Connector_DIN : DIN41612_C_3x32_Female_Vertical_THT](#fzkcndindin41612c3x32femaleverticaltht--connector_din--din41612_c_3x32_female_vertical_tht)
+* [FZKCNDINDIN41612C3X32FFTHT > Connector_DIN : DIN41612_C_3x32_Female_Vertical_THT](#fzkcndindin41612c3x32fftht--connector_din--din41612_c_3x32_female_vertical_tht)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNDINDIN41612C3X32FEMALEVERTICALTHT > Connector_DIN : DIN41612_C_3x32_Female_Vertical_THT
+# FZKCNDINDIN41612C3X32FFTHT > Connector_DIN : DIN41612_C_3x32_Female_Vertical_THT
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_C_3x32_Female_Vertical_THT
-- Hex ID: FZKCNDINDIN41612C3X32FEMALEVERTICALTHT
+- Hex ID: FZKCNDINDIN41612C3X32FFTHT
 - Name: Connector_DIN : DIN41612_C_3x32_Female_Vertical_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_C_3x32_Female_Vertical_THT/
 - Description: Connector_DIN : DIN41612_C_3x32_Female_Vertical_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_C_3x32_Female_Vertical_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_C_3x32_Female_Vertical_THT)
-- Short Link: [http://oom.lt/FZKCNDINDIN41612C3X32FEMALEVERTICALTHT](http://oom.lt/FZKCNDINDIN41612C3X32FEMALEVERTICALTHT)
+- Short Link: [http://oom.lt/FZKCNDINDIN41612C3X32FFTHT](http://oom.lt/FZKCNDINDIN41612C3X32FFTHT)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_DIN|
 |OOMP Index|oompIndex|DIN41612_C_3x32_Female_Vertical_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_C_3x32_Female_Vertical_THT|
-|Hex ID (short code)|hexID|FZKCNDINDIN41612C3X32FEMALEVERTICALTHT|
+|Hex ID (short code)|hexID|FZKCNDINDIN41612C3X32FFTHT|
 |name|name|Connector_DIN : DIN41612_C_3x32_Female_Vertical_THT|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIN41612_C_3x32_Female_Vertical_THT'</td><td> 'description'</td></tr><tr><td> 'DIN41612 connector</td><td> type C</td><td> Vertical</td><td> 3 rows 32 pins wide</td><td> https</td></tr><tr><td>//www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf'</td><td> 'tags'</td></tr><tr><td> 'DIN 41612 IEC 60603 C'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_DIN.3dshapes/DIN41612_C_3x32_Female_Vertical_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

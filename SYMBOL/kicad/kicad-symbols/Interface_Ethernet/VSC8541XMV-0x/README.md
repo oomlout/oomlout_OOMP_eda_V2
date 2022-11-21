@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-VSC8541XMV-0x
 - Hex ID: SZKINTERFACEETHERNETVSC8541XMVX
 - Name: Interface_Ethernet : VSC8541XMV-0x
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/VSC8541XMV-0x/
 - Description: Interface_Ethernet : VSC8541XMV-0x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-VSC8541XMV-0x](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-VSC8541XMV-0x)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETVSC8541XMVX](http://oom.lt/SZKINTERFACEETHERNETVSC8541XMVX)

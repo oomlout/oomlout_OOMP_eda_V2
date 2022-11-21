@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-MSA5XXX
 - Hex ID: FZELMSA5XXX
 - Name: led : MSA5XXX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/MSA5XXX/
 - Description: led : MSA5XXX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-MSA5XXX](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-MSA5XXX)
 - Short Link: [http://oom.lt/FZELMSA5XXX](http://oom.lt/FZELMSA5XXX)

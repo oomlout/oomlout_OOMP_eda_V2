@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23S17_SS
 - Hex ID: SZKINTERFACEEXPANSIONMCP23S17SS
 - Name: Interface_Expansion : MCP23S17_SS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_SS/
 - Description: Interface_Expansion : MCP23S17_SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23S17_SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23S17_SS)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONMCP23S17SS](http://oom.lt/SZKINTERFACEEXPANSIONMCP23S17SS)

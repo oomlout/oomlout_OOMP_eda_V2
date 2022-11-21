@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-AQW27-DIL08
 - Hex ID: FZERELAYAQW27DIL8
 - Name: relay : AQW27-DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/AQW27-DIL08/
 - Description: relay : AQW27-DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQW27-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQW27-DIL08)
 - Short Link: [http://oom.lt/FZERELAYAQW27DIL8](http://oom.lt/FZERELAYAQW27DIL8)

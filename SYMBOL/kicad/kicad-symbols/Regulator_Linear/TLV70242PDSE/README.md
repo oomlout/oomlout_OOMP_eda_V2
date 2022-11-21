@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70242PDSE
 - Hex ID: SZKREGULATORLINEARTLV7242PDSE
 - Name: Regulator_Linear : TLV70242PDSE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV70242PDSE/
 - Description: Regulator_Linear : TLV70242PDSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70242PDSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70242PDSE)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV7242PDSE](http://oom.lt/SZKREGULATORLINEARTLV7242PDSE)

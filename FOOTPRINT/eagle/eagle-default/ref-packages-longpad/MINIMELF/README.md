@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADMMELF > ref-packages-longpad : MINIMELF](#fzerefpackageslongpadmmelf--ref-packages-longpad--minimelf)
+* [FZEREFPSLPMMELF > ref-packages-longpad : MINIMELF](#fzerefpslpmmelf--ref-packages-longpad--minimelf)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADMMELF > ref-packages-longpad : MINIMELF
+# FZEREFPSLPMMELF > ref-packages-longpad : MINIMELF
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-MINIMELF
-- Hex ID: FZEREFPACKAGESLONGPADMMELF
+- Hex ID: FZEREFPSLPMMELF
 - Name: ref-packages-longpad : MINIMELF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/MINIMELF/
 - Description: ref-packages-longpad : MINIMELF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-MINIMELF](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-MINIMELF)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADMMELF](http://oom.lt/FZEREFPACKAGESLONGPADMMELF)
+- Short Link: [http://oom.lt/FZEREFPSLPMMELF](http://oom.lt/FZEREFPSLPMMELF)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|MINIMELF|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-MINIMELF|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADMMELF|
+|Hex ID (short code)|hexID|FZEREFPSLPMMELF|
 |name|name|ref-packages-longpad : MINIMELF|
 ||||

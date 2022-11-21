@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lc-filter-KNF21
 - Hex ID: FZELCFILKNF21
 - Name: lc-filter : KNF21
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lc-filter/KNF21/
 - Description: lc-filter : KNF21
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lc-filter-KNF21](http://oom.lt/FOOTPRINT-eagle-eagle-default-lc-filter-KNF21)
 - Short Link: [http://oom.lt/FZELCFILKNF21](http://oom.lt/FZELCFILKNF21)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LK112M50TR
 - Hex ID: SZKREGULATORLINEARLK112M5TR
 - Name: Regulator_Linear : LK112M50TR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LK112M50TR/
 - Description: Regulator_Linear : LK112M50TR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LK112M50TR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LK112M50TR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLK112M5TR](http://oom.lt/SZKREGULATORLINEARLK112M5TR)

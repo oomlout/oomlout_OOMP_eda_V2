@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH9x0x
 - Hex ID: FZKOPOSRAMSFH9XX
 - Name: OptoDevice : Osram_SFH9x0x
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SFH9x0x/
 - Description: OptoDevice : Osram_SFH9x0x
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH9x0x](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH9x0x)
 - Short Link: [http://oom.lt/FZKOPOSRAMSFH9XX](http://oom.lt/FZKOPOSRAMSFH9XX)

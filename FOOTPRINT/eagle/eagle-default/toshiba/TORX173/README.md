@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-toshiba-TORX173
 - Hex ID: FZETOSHIBATORX173
 - Name: toshiba : TORX173
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/toshiba/TORX173/
 - Description: toshiba : TORX173
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-toshiba-TORX173](http://oom.lt/FOOTPRINT-eagle-eagle-default-toshiba-TORX173)
 - Short Link: [http://oom.lt/FZETOSHIBATORX173](http://oom.lt/FZETOSHIBATORX173)

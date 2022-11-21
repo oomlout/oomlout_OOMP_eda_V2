@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL27PADTOPBOTTOM > MountingHole : MountingHole_2.7mm_Pad_TopBottom](#fzkholhol27padtopbottom--mountinghole--mountinghole_27mm_pad_topbottom)
+* [FZKHOLHOL27PTOPB > MountingHole : MountingHole_2.7mm_Pad_TopBottom](#fzkholhol27ptopb--mountinghole--mountinghole_27mm_pad_topbottom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL27PADTOPBOTTOM > MountingHole : MountingHole_2.7mm_Pad_TopBottom
+# FZKHOLHOL27PTOPB > MountingHole : MountingHole_2.7mm_Pad_TopBottom
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_Pad_TopBottom
-- Hex ID: FZKHOLHOL27PADTOPBOTTOM
+- Hex ID: FZKHOLHOL27PTOPB
 - Name: MountingHole : MountingHole_2.7mm_Pad_TopBottom
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.7mm_Pad_TopBottom/
 - Description: MountingHole : MountingHole_2.7mm_Pad_TopBottom
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_Pad_TopBottom](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_Pad_TopBottom)
-- Short Link: [http://oom.lt/FZKHOLHOL27PADTOPBOTTOM](http://oom.lt/FZKHOLHOL27PADTOPBOTTOM)
+- Short Link: [http://oom.lt/FZKHOLHOL27PTOPB](http://oom.lt/FZKHOLHOL27PTOPB)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_2.7mm_Pad_TopBottom|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_Pad_TopBottom|
-|Hex ID (short code)|hexID|FZKHOLHOL27PADTOPBOTTOM|
+|Hex ID (short code)|hexID|FZKHOLHOL27PTOPB|
 |name|name|MountingHole : MountingHole_2.7mm_Pad_TopBottom|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_2.7mm_Pad_TopBottom'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 2.7mm'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 2.7mm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

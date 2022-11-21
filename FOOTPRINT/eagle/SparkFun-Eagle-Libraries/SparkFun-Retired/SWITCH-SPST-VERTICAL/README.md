@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSRTSWITCHSPSTVERTICAL > SparkFun-Retired : SWITCH-SPST-VERTICAL](#fzsrtswitchspstvertical--sparkfun-retired--switch-spst-vertical)
+* [FZSRTSWSPSTF > SparkFun-Retired : SWITCH-SPST-VERTICAL](#fzsrtswspstf--sparkfun-retired--switch-spst-vertical)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSRTSWITCHSPSTVERTICAL > SparkFun-Retired : SWITCH-SPST-VERTICAL
+# FZSRTSWSPSTF > SparkFun-Retired : SWITCH-SPST-VERTICAL
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-SPST-VERTICAL
-- Hex ID: FZSRTSWITCHSPSTVERTICAL
+- Hex ID: FZSRTSWSPSTF
 - Name: SparkFun-Retired : SWITCH-SPST-VERTICAL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SWITCH-SPST-VERTICAL/
 - Description: SparkFun-Retired : SWITCH-SPST-VERTICAL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-SPST-VERTICAL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-SPST-VERTICAL)
-- Short Link: [http://oom.lt/FZSRTSWITCHSPSTVERTICAL](http://oom.lt/FZSRTSWITCHSPSTVERTICAL)
+- Short Link: [http://oom.lt/FZSRTSWSPSTF](http://oom.lt/FZSRTSWSPSTF)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Retired|
 |OOMP Index|oompIndex|SWITCH-SPST-VERTICAL|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SWITCH-SPST-VERTICAL|
-|Hex ID (short code)|hexID|FZSRTSWITCHSPSTVERTICAL|
+|Hex ID (short code)|hexID|FZSRTSWSPSTF|
 |name|name|SparkFun-Retired : SWITCH-SPST-VERTICAL|
 ||||

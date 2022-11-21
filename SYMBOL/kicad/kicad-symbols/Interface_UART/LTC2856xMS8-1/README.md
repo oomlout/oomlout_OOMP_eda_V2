@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2856xMS8-1
 - Hex ID: SZKINTERFACEUARTLTC2856XMS81
 - Name: Interface_UART : LTC2856xMS8-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/LTC2856xMS8-1/
 - Description: Interface_UART : LTC2856xMS8-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2856xMS8-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2856xMS8-1)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTLTC2856XMS81](http://oom.lt/SZKINTERFACEUARTLTC2856XMS81)

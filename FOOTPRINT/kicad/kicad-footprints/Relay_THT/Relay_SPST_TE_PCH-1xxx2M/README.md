@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_TE_PCH-1xxx2M
 - Hex ID: FZKRELRELAYSPSTTEPCH1XXX2M
 - Name: Relay_THT : Relay_SPST_TE_PCH-1xxx2M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_TE_PCH-1xxx2M/
 - Description: Relay_THT : Relay_SPST_TE_PCH-1xxx2M
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_TE_PCH-1xxx2M](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_TE_PCH-1xxx2M)
 - Short Link: [http://oom.lt/FZKRELRELAYSPSTTEPCH1XXX2M](http://oom.lt/FZKRELRELAYSPSTTEPCH1XXX2M)

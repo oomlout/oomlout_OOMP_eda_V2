@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-FerriteBead
 - Hex ID: SZKDEVICEFERRITEBEAD
 - Name: Device : FerriteBead
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/FerriteBead/
 - Description: Device : FerriteBead
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-FerriteBead](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-FerriteBead)
 - Short Link: [http://oom.lt/SZKDEVICEFERRITEBEAD](http://oom.lt/SZKDEVICEFERRITEBEAD)

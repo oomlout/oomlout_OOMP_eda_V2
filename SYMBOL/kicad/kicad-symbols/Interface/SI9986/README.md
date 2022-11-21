@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-SI9986
 - Hex ID: SZKINTERFACESI9986
 - Name: Interface : SI9986
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/SI9986/
 - Description: Interface : SI9986
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SI9986](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SI9986)
 - Short Link: [http://oom.lt/SZKINTERFACESI9986](http://oom.lt/SZKINTERFACESI9986)

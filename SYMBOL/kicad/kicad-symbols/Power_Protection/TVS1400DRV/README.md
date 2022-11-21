@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TVS1400DRV
 - Hex ID: SZKPOWERPROTECTIONTVS14DRV
 - Name: Power_Protection : TVS1400DRV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/TVS1400DRV/
 - Description: Power_Protection : TVS1400DRV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TVS1400DRV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TVS1400DRV)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTVS14DRV](http://oom.lt/SZKPOWERPROTECTIONTVS14DRV)

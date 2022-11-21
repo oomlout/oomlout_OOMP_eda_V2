@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADN4650
 - Hex ID: SZKISOLATORADN465
 - Name: Isolator : ADN4650
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ADN4650/
 - Description: Isolator : ADN4650
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADN4650](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADN4650)
 - Short Link: [http://oom.lt/SZKISOLATORADN465](http://oom.lt/SZKISOLATORADN465)

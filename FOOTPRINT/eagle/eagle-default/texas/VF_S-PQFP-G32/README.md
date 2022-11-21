@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-VF_S-PQFP-G32
 - Hex ID: FZETEXASVFSPQFPG32
 - Name: texas : VF_S-PQFP-G32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/VF_S-PQFP-G32/
 - Description: texas : VF_S-PQFP-G32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-VF_S-PQFP-G32](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-VF_S-PQFP-G32)
 - Short Link: [http://oom.lt/FZETEXASVFSPQFPG32](http://oom.lt/FZETEXASVFSPQFPG32)

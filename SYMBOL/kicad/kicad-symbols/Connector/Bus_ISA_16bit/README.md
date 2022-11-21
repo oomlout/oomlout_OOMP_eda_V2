@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Bus_ISA_16bit
 - Hex ID: SZKCNBUSISA16BIT
 - Name: Connector : Bus_ISA_16bit
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_ISA_16bit/
 - Description: Connector : Bus_ISA_16bit
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_ISA_16bit](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_ISA_16bit)
 - Short Link: [http://oom.lt/SZKCNBUSISA16BIT](http://oom.lt/SZKCNBUSISA16BIT)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rohm-HSOP28
 - Hex ID: FZEROHMHS28
 - Name: rohm : HSOP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rohm/HSOP28/
 - Description: rohm : HSOP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rohm-HSOP28](http://oom.lt/FOOTPRINT-eagle-eagle-default-rohm-HSOP28)
 - Short Link: [http://oom.lt/FZEROHMHS28](http://oom.lt/FZEROHMHS28)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15 > digikey-footprints : USB-C_Male_EdgeMnt_DX07P024MJ1R1500](#fzkicaddigikeykicadlibrarydigikeyfootprintsucmaleedgemntdx7p24mj1r15--digikey-footprints--usb-c_male_edgemnt_dx07p024mj1r1500)
+* [FZDIGIDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15 > digikey-footprints : USB-C_Male_EdgeMnt_DX07P024MJ1R1500](#fzdigidigikeyfootprintsucmaleedgemntdx7p24mj1r15--digikey-footprints--usb-c_male_edgemnt_dx07p024mj1r1500)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15 > digikey-footprints : USB-C_Male_EdgeMnt_DX07P024MJ1R1500
+# FZDIGIDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15 > digikey-footprints : USB-C_Male_EdgeMnt_DX07P024MJ1R1500
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Male_EdgeMnt_DX07P024MJ1R1500
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15
 - Name: digikey-footprints : USB-C_Male_EdgeMnt_DX07P024MJ1R1500
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Male_EdgeMnt_DX07P024MJ1R1500/
 - Description: digikey-footprints : USB-C_Male_EdgeMnt_DX07P024MJ1R1500
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Male_EdgeMnt_DX07P024MJ1R1500](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Male_EdgeMnt_DX07P024MJ1R1500)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|USB-C_Male_EdgeMnt_DX07P024MJ1R1500|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Male_EdgeMnt_DX07P024MJ1R1500|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15|
 |name|name|digikey-footprints : USB-C_Male_EdgeMnt_DX07P024MJ1R1500|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB-C_Male_EdgeMnt_DX07P024MJ1R1500'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.jae.com/z-en/pdf_download_exec.cfm?param=MB-0301-2E_DX07_PLUG.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

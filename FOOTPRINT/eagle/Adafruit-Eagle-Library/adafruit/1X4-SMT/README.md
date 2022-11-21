@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X4-SMT
 - Hex ID: FZA1X4S
 - Name: adafruit : 1X4-SMT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X4-SMT/
 - Description: adafruit : 1X4-SMT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X4-SMT](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X4-SMT)
 - Short Link: [http://oom.lt/FZA1X4S](http://oom.lt/FZA1X4S)

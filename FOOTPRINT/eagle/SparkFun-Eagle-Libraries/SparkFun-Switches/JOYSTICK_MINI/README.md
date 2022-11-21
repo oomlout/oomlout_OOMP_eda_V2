@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-JOYSTICK_MINI
 - Hex ID: FZSWJOYSTICKM
 - Name: SparkFun-Switches : JOYSTICK_MINI
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/JOYSTICK_MINI/
 - Description: SparkFun-Switches : JOYSTICK_MINI
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-JOYSTICK_MINI](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-JOYSTICK_MINI)
 - Short Link: [http://oom.lt/FZSWJOYSTICKM](http://oom.lt/FZSWJOYSTICKM)

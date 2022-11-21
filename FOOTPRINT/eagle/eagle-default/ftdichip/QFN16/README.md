@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ftdichip-QFN16
 - Hex ID: FZEFTDICHIPQFN16
 - Name: ftdichip : QFN16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ftdichip/QFN16/
 - Description: ftdichip : QFN16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ftdichip-QFN16](http://oom.lt/FOOTPRINT-eagle-eagle-default-ftdichip-QFN16)
 - Short Link: [http://oom.lt/FZEFTDICHIPQFN16](http://oom.lt/FZEFTDICHIPQFN16)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESMPGA68 > ref-packages : MPGA68](#fzerefpackagesmpga68--ref-packages--mpga68)
+* [FZEREFPSMPGA68 > ref-packages : MPGA68](#fzerefpsmpga68--ref-packages--mpga68)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESMPGA68 > ref-packages : MPGA68
+# FZEREFPSMPGA68 > ref-packages : MPGA68
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-MPGA68
-- Hex ID: FZEREFPACKAGESMPGA68
+- Hex ID: FZEREFPSMPGA68
 - Name: ref-packages : MPGA68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/MPGA68/
 - Description: ref-packages : MPGA68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MPGA68](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MPGA68)
-- Short Link: [http://oom.lt/FZEREFPACKAGESMPGA68](http://oom.lt/FZEREFPACKAGESMPGA68)
+- Short Link: [http://oom.lt/FZEREFPSMPGA68](http://oom.lt/FZEREFPSMPGA68)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|MPGA68|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-MPGA68|
-|Hex ID (short code)|hexID|FZEREFPACKAGESMPGA68|
+|Hex ID (short code)|hexID|FZEREFPSMPGA68|
 |name|name|ref-packages : MPGA68|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7204
 - Hex ID: SZKMEMORYRAMIDT724
 - Name: Memory_RAM : IDT7204
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT7204/
 - Description: Memory_RAM : IDT7204
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7204](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7204)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIDT724](http://oom.lt/SZKMEMORYRAMIDT724)

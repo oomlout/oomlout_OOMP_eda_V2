@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03_LOCK
 - Hex ID: FZSSPARKFUNCNS1X3L
 - Name: SparkFun-Connectors : 1X03_LOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X03_LOCK/
 - Description: SparkFun-Connectors : 1X03_LOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03_LOCK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03_LOCK)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X3L](http://oom.lt/FZSSPARKFUNCNS1X3L)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-MCP6569
 - Hex ID: SZKCOMPARATORMCP6569
 - Name: Comparator : MCP6569
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/MCP6569/
 - Description: Comparator : MCP6569
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP6569](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP6569)
 - Short Link: [http://oom.lt/SZKCOMPARATORMCP6569](http://oom.lt/SZKCOMPARATORMCP6569)

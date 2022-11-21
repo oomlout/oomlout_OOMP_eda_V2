@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-14538
 - Hex ID: SZK4XXX14538
 - Name: 4xxx : 14538
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx/14538/
 - Description: 4xxx : 14538
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-14538](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-14538)
 - Short Link: [http://oom.lt/SZK4XXX14538](http://oom.lt/SZK4XXX14538)

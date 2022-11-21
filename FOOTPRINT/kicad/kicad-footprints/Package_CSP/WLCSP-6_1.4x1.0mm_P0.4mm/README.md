@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-6_1.4x1.0mm_P0.4mm
 - Hex ID: FZKCSPWLCSP614X1P4
 - Name: Package_CSP : WLCSP-6_1.4x1.0mm_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-6_1.4x1.0mm_P0.4mm/
 - Description: Package_CSP : WLCSP-6_1.4x1.0mm_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-6_1.4x1.0mm_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-6_1.4x1.0mm_P0.4mm)
 - Short Link: [http://oom.lt/FZKCSPWLCSP614X1P4](http://oom.lt/FZKCSPWLCSP614X1P4)

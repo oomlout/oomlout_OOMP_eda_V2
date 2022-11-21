@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm
 - Hex ID: FZKCSPWLCSP4X1WLB99489X89P5
 - Name: Package_CSP : WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm/
 - Description: Package_CSP : WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKCSPWLCSP4X1WLB99489X89P5](http://oom.lt/FZKCSPWLCSP4X1WLB99489X89P5)

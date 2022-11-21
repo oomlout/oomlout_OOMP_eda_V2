@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_UniqueID-DS2401P
 - Hex ID: SZKMEMORYUNIQUEIDDS241P
 - Name: Memory_UniqueID : DS2401P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_UniqueID/DS2401P/
 - Description: Memory_UniqueID : DS2401P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_UniqueID-DS2401P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_UniqueID-DS2401P)
 - Short Link: [http://oom.lt/SZKMEMORYUNIQUEIDDS241P](http://oom.lt/SZKMEMORYUNIQUEIDDS241P)

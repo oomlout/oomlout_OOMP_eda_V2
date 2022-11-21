@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89C4051-12S
 - Hex ID: SZKMCUMCHIP851AT89C45112S
 - Name: MCU_Microchip_8051 : AT89C4051-12S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_8051/AT89C4051-12S/
 - Description: MCU_Microchip_8051 : AT89C4051-12S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89C4051-12S](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89C4051-12S)
 - Short Link: [http://oom.lt/SZKMCUMCHIP851AT89C45112S](http://oom.lt/SZKMCUMCHIP851AT89C45112S)

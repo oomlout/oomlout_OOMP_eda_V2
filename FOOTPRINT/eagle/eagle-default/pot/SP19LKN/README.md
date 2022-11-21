@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-SP19LKN
 - Hex ID: FZEPOTSP19LKN
 - Name: pot : SP19LKN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/SP19LKN/
 - Description: pot : SP19LKN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-SP19LKN](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-SP19LKN)
 - Short Link: [http://oom.lt/FZEPOTSP19LKN](http://oom.lt/FZEPOTSP19LKN)

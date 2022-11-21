@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-BUZ71H
 - Hex ID: FZETRANSISTORPOWERBUZ71H
 - Name: transistor-power : BUZ71H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/BUZ71H/
 - Description: transistor-power : BUZ71H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-BUZ71H](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-BUZ71H)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERBUZ71H](http://oom.lt/FZETRANSISTORPOWERBUZ71H)

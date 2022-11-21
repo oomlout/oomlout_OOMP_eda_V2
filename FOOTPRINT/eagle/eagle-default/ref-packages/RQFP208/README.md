@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESRQFP28 > ref-packages : RQFP208](#fzerefpackagesrqfp28--ref-packages--rqfp208)
+* [FZEREFPSRQFP28 > ref-packages : RQFP208](#fzerefpsrqfp28--ref-packages--rqfp208)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESRQFP28 > ref-packages : RQFP208
+# FZEREFPSRQFP28 > ref-packages : RQFP208
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-RQFP208
-- Hex ID: FZEREFPACKAGESRQFP28
+- Hex ID: FZEREFPSRQFP28
 - Name: ref-packages : RQFP208
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/RQFP208/
 - Description: ref-packages : RQFP208
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RQFP208](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RQFP208)
-- Short Link: [http://oom.lt/FZEREFPACKAGESRQFP28](http://oom.lt/FZEREFPACKAGESRQFP28)
+- Short Link: [http://oom.lt/FZEREFPSRQFP28](http://oom.lt/FZEREFPSRQFP28)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|RQFP208|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-RQFP208|
-|Hex ID (short code)|hexID|FZEREFPACKAGESRQFP28|
+|Hex ID (short code)|hexID|FZEREFPSRQFP28|
 |name|name|ref-packages : RQFP208|
 ||||

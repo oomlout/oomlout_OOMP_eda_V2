@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-G6K-2P
 - Hex ID: FZERELAYG6K2P
 - Name: relay : G6K-2P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/G6K-2P/
 - Description: relay : G6K-2P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G6K-2P](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G6K-2P)
 - Short Link: [http://oom.lt/FZERELAYG6K2P](http://oom.lt/FZERELAYG6K2P)

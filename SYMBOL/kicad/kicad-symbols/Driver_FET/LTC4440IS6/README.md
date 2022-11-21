@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-LTC4440IS6
 - Hex ID: SZKDRIVERFETLTC444IS6
 - Name: Driver_FET : LTC4440IS6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/LTC4440IS6/
 - Description: Driver_FET : LTC4440IS6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-LTC4440IS6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-LTC4440IS6)
 - Short Link: [http://oom.lt/SZKDRIVERFETLTC444IS6](http://oom.lt/SZKDRIVERFETLTC444IS6)

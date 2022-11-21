@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-PG203J
 - Hex ID: FZECONHIRSCHMANNPG23J
 - Name: con-hirschmann : PG203J
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirschmann/PG203J/
 - Description: con-hirschmann : PG203J
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-PG203J](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-PG203J)
 - Short Link: [http://oom.lt/FZECONHIRSCHMANNPG23J](http://oom.lt/FZECONHIRSCHMANNPG23J)

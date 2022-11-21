@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D1.8mm_W3.3mm_H2.4mm
 - Hex ID: FZKLLD18W33H24
 - Name: LED_THT : LED_D1.8mm_W3.3mm_H2.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D1.8mm_W3.3mm_H2.4mm/
 - Description: LED_THT : LED_D1.8mm_W3.3mm_H2.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D1.8mm_W3.3mm_H2.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D1.8mm_W3.3mm_H2.4mm)
 - Short Link: [http://oom.lt/FZKLLD18W33H24](http://oom.lt/FZKLLD18W33H24)

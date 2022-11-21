@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNMXMXMFIT343651211X121MPP3HORIZONTAL > Connector_Molex : Molex_Micro-Fit_3.0_43650-1210_1x12-1MP_P3.00mm_Horizontal](#fzkcnmxmxmfit343651211x121mpp3horizontal--connector_molex--molex_micro-fit_30_43650-1210_1x12-1mp_p300mm_horizontal)
+* [FZKCNMXMXMFIT343651211X121MPP3H > Connector_Molex : Molex_Micro-Fit_3.0_43650-1210_1x12-1MP_P3.00mm_Horizontal](#fzkcnmxmxmfit343651211x121mpp3h--connector_molex--molex_micro-fit_30_43650-1210_1x12-1mp_p300mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXMFIT343651211X121MPP3HORIZONTAL > Connector_Molex : Molex_Micro-Fit_3.0_43650-1210_1x12-1MP_P3.00mm_Horizontal
+# FZKCNMXMXMFIT343651211X121MPP3H > Connector_Molex : Molex_Micro-Fit_3.0_43650-1210_1x12-1MP_P3.00mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43650-1210_1x12-1MP_P3.00mm_Horizontal
-- Hex ID: FZKCNMXMXMFIT343651211X121MPP3HORIZONTAL
+- Hex ID: FZKCNMXMXMFIT343651211X121MPP3H
 - Name: Connector_Molex : Molex_Micro-Fit_3.0_43650-1210_1x12-1MP_P3.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-1210_1x12-1MP_P3.00mm_Horizontal/
 - Description: Connector_Molex : Molex_Micro-Fit_3.0_43650-1210_1x12-1MP_P3.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43650-1210_1x12-1MP_P3.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43650-1210_1x12-1MP_P3.00mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNMXMXMFIT343651211X121MPP3HORIZONTAL](http://oom.lt/FZKCNMXMXMFIT343651211X121MPP3HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNMXMXMFIT343651211X121MPP3H](http://oom.lt/FZKCNMXMXMFIT343651211X121MPP3H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_Micro-Fit_3.0_43650-1210_1x12-1MP_P3.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43650-1210_1x12-1MP_P3.00mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNMXMXMFIT343651211X121MPP3HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNMXMXMFIT343651211X121MPP3H|
 |name|name|Connector_Molex : Molex_Micro-Fit_3.0_43650-1210_1x12-1MP_P3.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_Micro-Fit_3.0_43650-1210_1x12-1MP_P3.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex Micro-Fit 3.0 Connector System</td><td> 43650-1210 (compatible alternatives</td></tr><tr><td> 43650-1211</td><td> 43650-1209)</td><td> 12 Pins per row (https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/436500210_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex Micro-Fit_3.0 horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43650-1210_1x12-1MP_P3.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

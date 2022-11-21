@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI38-3VA_Neutral
 - Hex ID: FZKTRTRCHKEI383VANEUTRAL
 - Name: Transformer_THT : Transformer_CHK_EI38-3VA_Neutral
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_EI38-3VA_Neutral/
 - Description: Transformer_THT : Transformer_CHK_EI38-3VA_Neutral
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI38-3VA_Neutral](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI38-3VA_Neutral)
 - Short Link: [http://oom.lt/FZKTRTRCHKEI383VANEUTRAL](http://oom.lt/FZKTRTRCHKEI383VANEUTRAL)

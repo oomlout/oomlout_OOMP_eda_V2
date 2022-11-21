@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02AZ
 - Hex ID: SZKREFERENCEVOLTAGEREF2AZ
 - Name: Reference_Voltage : REF02AZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF02AZ/
 - Description: Reference_Voltage : REF02AZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02AZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02AZ)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF2AZ](http://oom.lt/SZKREFERENCEVOLTAGEREF2AZ)

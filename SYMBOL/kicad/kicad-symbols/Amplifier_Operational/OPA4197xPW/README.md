@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA4197xPW
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA4197XPW
 - Name: Amplifier_Operational : OPA4197xPW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA4197xPW/
 - Description: Amplifier_Operational : OPA4197xPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA4197xPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA4197xPW)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA4197XPW](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA4197XPW)

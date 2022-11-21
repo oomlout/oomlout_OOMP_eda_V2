@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_WICED
 - Hex ID: FZKMOADAFEATHERWICED
 - Name: Module : Adafruit_Feather_WICED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_WICED/
 - Description: Module : Adafruit_Feather_WICED
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_WICED](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_WICED)
 - Short Link: [http://oom.lt/FZKMOADAFEATHERWICED](http://oom.lt/FZKMOADAFEATHERWICED)

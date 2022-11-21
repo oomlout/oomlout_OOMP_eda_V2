@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-USB_B_Mini
 - Hex ID: SZKCNUBM
 - Name: Connector : USB_B_Mini
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/USB_B_Mini/
 - Description: Connector : USB_B_Mini
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_B_Mini](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_B_Mini)
 - Short Link: [http://oom.lt/SZKCNUBM](http://oom.lt/SZKCNUBM)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RN-52
 - Hex ID: FZSRFRN52
 - Name: SparkFun-RF : RN-52
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/RN-52/
 - Description: SparkFun-RF : RN-52
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RN-52](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RN-52)
 - Short Link: [http://oom.lt/FZSRFRN52](http://oom.lt/FZSRFRN52)

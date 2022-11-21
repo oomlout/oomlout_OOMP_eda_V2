@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOP24
 - Hex ID: FZAS24
 - Name: adafruit : SOP24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SOP24/
 - Description: adafruit : SOP24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOP24](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOP24)
 - Short Link: [http://oom.lt/FZAS24](http://oom.lt/FZAS24)

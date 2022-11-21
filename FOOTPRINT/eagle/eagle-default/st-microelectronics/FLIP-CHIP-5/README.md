@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-FLIP-CHIP-5
 - Hex ID: FZESTMELECTRONICSFLIPCHIP5
 - Name: st-microelectronics : FLIP-CHIP-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/FLIP-CHIP-5/
 - Description: st-microelectronics : FLIP-CHIP-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-FLIP-CHIP-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-FLIP-CHIP-5)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSFLIPCHIP5](http://oom.lt/FZESTMELECTRONICSFLIPCHIP5)

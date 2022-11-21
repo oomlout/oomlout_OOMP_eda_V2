@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MBRA340
 - Hex ID: SZKDIODEMBRA34
 - Name: Diode : MBRA340
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MBRA340/
 - Description: Diode : MBRA340
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBRA340](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBRA340)
 - Short Link: [http://oom.lt/SZKDIODEMBRA34](http://oom.lt/SZKDIODEMBRA34)

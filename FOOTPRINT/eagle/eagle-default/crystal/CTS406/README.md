@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-CTS406
 - Hex ID: FZEXCTS46
 - Name: crystal : CTS406
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/CTS406/
 - Description: crystal : CTS406
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-CTS406](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-CTS406)
 - Short Link: [http://oom.lt/FZEXCTS46](http://oom.lt/FZEXCTS46)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-BQ500100DCK
 - Hex ID: SZKAMPLIFIERCURRENTBQ51DCK
 - Name: Amplifier_Current : BQ500100DCK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/BQ500100DCK/
 - Description: Amplifier_Current : BQ500100DCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-BQ500100DCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-BQ500100DCK)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTBQ51DCK](http://oom.lt/SZKAMPLIFIERCURRENTBQ51DCK)

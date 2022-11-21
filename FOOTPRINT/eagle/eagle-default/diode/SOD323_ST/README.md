@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD323_ST
 - Hex ID: FZEDIODESOD323ST
 - Name: diode : SOD323_ST
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOD323_ST/
 - Description: diode : SOD323_ST
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD323_ST](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD323_ST)
 - Short Link: [http://oom.lt/FZEDIODESOD323ST](http://oom.lt/FZEDIODESOD323ST)

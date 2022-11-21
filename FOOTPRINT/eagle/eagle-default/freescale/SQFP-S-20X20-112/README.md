@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-freescale-SQFP-S-20X20-112
 - Hex ID: FZEFREESCALESQFPS2X2112
 - Name: freescale : SQFP-S-20X20-112
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/freescale/SQFP-S-20X20-112/
 - Description: freescale : SQFP-S-20X20-112
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-SQFP-S-20X20-112](http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-SQFP-S-20X20-112)
 - Short Link: [http://oom.lt/FZEFREESCALESQFPS2X2112](http://oom.lt/FZEFREESCALESQFPS2X2112)

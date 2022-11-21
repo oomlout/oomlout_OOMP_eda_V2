@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LTC3555-1
 - Hex ID: SZKBATMANAGEMENTLTC35551
 - Name: Battery_Management : LTC3555-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC3555-1/
 - Description: Battery_Management : LTC3555-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC3555-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC3555-1)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC35551](http://oom.lt/SZKBATMANAGEMENTLTC35551)

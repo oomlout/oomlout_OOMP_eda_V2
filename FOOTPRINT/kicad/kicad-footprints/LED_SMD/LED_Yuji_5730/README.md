@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKLSMLYUJI573 > LED_SMD : LED_Yuji_5730](#fzklsmlyuji573--led_smd--led_yuji_5730)
+* [FZKLLYUJI573 > LED_SMD : LED_Yuji_5730](#fzkllyuji573--led_smd--led_yuji_5730)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLYUJI573 > LED_SMD : LED_Yuji_5730
+# FZKLLYUJI573 > LED_SMD : LED_Yuji_5730
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Yuji_5730
-- Hex ID: FZKLSMLYUJI573
+- Hex ID: FZKLLYUJI573
 - Name: LED_SMD : LED_Yuji_5730
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Yuji_5730/
 - Description: LED_SMD : LED_Yuji_5730
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Yuji_5730](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Yuji_5730)
-- Short Link: [http://oom.lt/FZKLSMLYUJI573](http://oom.lt/FZKLSMLYUJI573)
+- Short Link: [http://oom.lt/FZKLLYUJI573](http://oom.lt/FZKLLYUJI573)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_Yuji_5730|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Yuji_5730|
-|Hex ID (short code)|hexID|FZKLSMLYUJI573|
+|Hex ID (short code)|hexID|FZKLLYUJI573|
 |name|name|LED_SMD : LED_Yuji_5730|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Yuji_5730'</td><td> 'description'</td></tr><tr><td> 'LED</td><td>Yuji</td><td>5730</td><td>https</td></tr><tr><td>//cdn.shopify.com/s/files/1/0344/6401/files/YJWJ014-1.1_YJ-BC-5730L-G02.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED Yuji 5730'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Yuji_5730.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

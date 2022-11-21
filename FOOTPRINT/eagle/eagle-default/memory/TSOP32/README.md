@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-TSOP32
 - Hex ID: FZEMEMORYTS32
 - Name: memory : TSOP32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory/TSOP32/
 - Description: memory : TSOP32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-TSOP32](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-TSOP32)
 - Short Link: [http://oom.lt/FZEMEMORYTS32](http://oom.lt/FZEMEMORYTS32)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ALPHANUMERIC
 - Hex ID: FZSRTALPHANUMERIC
 - Name: SparkFun-Retired : ALPHANUMERIC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/ALPHANUMERIC/
 - Description: SparkFun-Retired : ALPHANUMERIC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ALPHANUMERIC](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ALPHANUMERIC)
 - Short Link: [http://oom.lt/FZSRTALPHANUMERIC](http://oom.lt/FZSRTALPHANUMERIC)

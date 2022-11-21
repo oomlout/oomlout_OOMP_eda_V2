@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBURRBROWNDWRPDSOG16 > burr-brown : DW_RPDSO-G16](#fzeburrbrowndwrpdsog16--burr-brown--dw_rpdso-g16)
+* [FZEBURRBRNDWRPDSOG16 > burr-brown : DW_RPDSO-G16](#fzeburrbrndwrpdsog16--burr-brown--dw_rpdso-g16)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBURRBROWNDWRPDSOG16 > burr-brown : DW_RPDSO-G16
+# FZEBURRBRNDWRPDSOG16 > burr-brown : DW_RPDSO-G16
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-DW_RPDSO-G16
-- Hex ID: FZEBURRBROWNDWRPDSOG16
+- Hex ID: FZEBURRBRNDWRPDSOG16
 - Name: burr-brown : DW_RPDSO-G16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/burr-brown/DW_RPDSO-G16/
 - Description: burr-brown : DW_RPDSO-G16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-DW_RPDSO-G16](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-DW_RPDSO-G16)
-- Short Link: [http://oom.lt/FZEBURRBROWNDWRPDSOG16](http://oom.lt/FZEBURRBROWNDWRPDSOG16)
+- Short Link: [http://oom.lt/FZEBURRBRNDWRPDSOG16](http://oom.lt/FZEBURRBRNDWRPDSOG16)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|burr-brown|
 |OOMP Index|oompIndex|DW_RPDSO-G16|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-burr-brown-DW_RPDSO-G16|
-|Hex ID (short code)|hexID|FZEBURRBROWNDWRPDSOG16|
+|Hex ID (short code)|hexID|FZEBURRBRNDWRPDSOG16|
 |name|name|burr-brown : DW_RPDSO-G16|
 ||||
 

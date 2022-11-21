@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-motorola-dram-SOJ26-20
 - Hex ID: FZEMEMORYMOTOROLADRAMSOJ262
 - Name: memory-motorola-dram : SOJ26-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-motorola-dram/SOJ26-20/
 - Description: memory-motorola-dram : SOJ26-20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-motorola-dram-SOJ26-20](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-motorola-dram-SOJ26-20)
 - Short Link: [http://oom.lt/FZEMEMORYMOTOROLADRAMSOJ262](http://oom.lt/FZEMEMORYMOTOROLADRAMSOJ262)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-APF30212A
 - Hex ID: FZERELAYAPF3212A
 - Name: relay : APF30212A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/APF30212A/
 - Description: relay : APF30212A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-APF30212A](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-APF30212A)
 - Short Link: [http://oom.lt/FZERELAYAPF3212A](http://oom.lt/FZERELAYAPF3212A)

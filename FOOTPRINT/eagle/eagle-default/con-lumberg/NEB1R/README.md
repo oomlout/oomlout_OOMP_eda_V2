@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-NEB1R
 - Hex ID: FZECONLUMBERGNEB1R
 - Name: con-lumberg : NEB1R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/NEB1R/
 - Description: con-lumberg : NEB1R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-NEB1R](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-NEB1R)
 - Short Link: [http://oom.lt/FZECONLUMBERGNEB1R](http://oom.lt/FZECONLUMBERGNEB1R)

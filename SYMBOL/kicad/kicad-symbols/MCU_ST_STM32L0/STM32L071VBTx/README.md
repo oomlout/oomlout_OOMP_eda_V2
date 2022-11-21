@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L071VBTx
 - Hex ID: SZKMCUSTSTM32LSTM32L71VBTX
 - Name: MCU_ST_STM32L0 : STM32L071VBTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L071VBTx/
 - Description: MCU_ST_STM32L0 : STM32L071VBTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L071VBTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L071VBTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32LSTM32L71VBTX](http://oom.lt/SZKMCUSTSTM32LSTM32L71VBTX)

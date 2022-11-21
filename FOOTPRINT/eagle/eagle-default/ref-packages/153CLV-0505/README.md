@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGES153CLV55 > ref-packages : 153CLV-0505](#fzerefpackages153clv55--ref-packages--153clv-0505)
+* [FZEREFPS153CLV55 > ref-packages : 153CLV-0505](#fzerefps153clv55--ref-packages--153clv-0505)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGES153CLV55 > ref-packages : 153CLV-0505
+# FZEREFPS153CLV55 > ref-packages : 153CLV-0505
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-153CLV-0505
-- Hex ID: FZEREFPACKAGES153CLV55
+- Hex ID: FZEREFPS153CLV55
 - Name: ref-packages : 153CLV-0505
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/153CLV-0505/
 - Description: ref-packages : 153CLV-0505
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-153CLV-0505](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-153CLV-0505)
-- Short Link: [http://oom.lt/FZEREFPACKAGES153CLV55](http://oom.lt/FZEREFPACKAGES153CLV55)
+- Short Link: [http://oom.lt/FZEREFPS153CLV55](http://oom.lt/FZEREFPS153CLV55)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|153CLV-0505|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-153CLV-0505|
-|Hex ID (short code)|hexID|FZEREFPACKAGES153CLV55|
+|Hex ID (short code)|hexID|FZEREFPS153CLV55|
 |name|name|ref-packages : 153CLV-0505|
 ||||

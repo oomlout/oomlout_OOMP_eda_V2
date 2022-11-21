@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x32_AE
 - Hex ID: SZKCNDIN416122X32AE
 - Name: Connector : DIN41612_02x32_AE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x32_AE/
 - Description: Connector : DIN41612_02x32_AE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x32_AE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x32_AE)
 - Short Link: [http://oom.lt/SZKCNDIN416122X32AE](http://oom.lt/SZKCNDIN416122X32AE)

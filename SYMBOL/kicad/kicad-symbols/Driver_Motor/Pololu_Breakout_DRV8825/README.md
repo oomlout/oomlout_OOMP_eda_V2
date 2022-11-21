@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_DRV8825
 - Hex ID: SZKDRIVERMOTORPOLOLUBREAKOUTDRV8825
 - Name: Driver_Motor : Pololu_Breakout_DRV8825
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/Pololu_Breakout_DRV8825/
 - Description: Driver_Motor : Pololu_Breakout_DRV8825
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_DRV8825](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_DRV8825)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORPOLOLUBREAKOUTDRV8825](http://oom.lt/SZKDRIVERMOTORPOLOLUBREAKOUTDRV8825)

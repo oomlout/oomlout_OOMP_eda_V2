@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-EDG-07
 - Hex ID: FZESPECIALEDG7
 - Name: special : EDG-07
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/EDG-07/
 - Description: special : EDG-07
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-EDG-07](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-EDG-07)
 - Short Link: [http://oom.lt/FZESPECIALEDG7](http://oom.lt/FZESPECIALEDG7)

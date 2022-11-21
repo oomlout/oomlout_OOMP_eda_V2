@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Jumpers-SMT-JUMPER_3_NO_NO-SILK
 - Hex ID: FZSSPARKFUNJSSJ3NONOSILK
 - Name: SparkFun-Jumpers : SMT-JUMPER_3_NO_NO-SILK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Jumpers/SMT-JUMPER_3_NO_NO-SILK/
 - Description: SparkFun-Jumpers : SMT-JUMPER_3_NO_NO-SILK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Jumpers-SMT-JUMPER_3_NO_NO-SILK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Jumpers-SMT-JUMPER_3_NO_NO-SILK)
 - Short Link: [http://oom.lt/FZSSPARKFUNJSSJ3NONOSILK](http://oom.lt/FZSSPARKFUNJSSJ3NONOSILK)

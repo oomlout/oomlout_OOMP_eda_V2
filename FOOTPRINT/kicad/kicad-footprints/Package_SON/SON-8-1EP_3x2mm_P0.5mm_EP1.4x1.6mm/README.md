@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm
 - Hex ID: FZKSONSON81EP3X2P5EP14X16
 - Name: Package_SON : SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm/
 - Description: Package_SON : SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm)
 - Short Link: [http://oom.lt/FZKSONSON81EP3X2P5EP14X16](http://oom.lt/FZKSONSON81EP3X2P5EP14X16)

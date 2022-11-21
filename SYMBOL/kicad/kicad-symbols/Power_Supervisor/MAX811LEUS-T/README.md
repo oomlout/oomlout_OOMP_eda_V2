@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX811LEUS-T
 - Hex ID: SZKPOWERSUPERVISORMAX811LEUST
 - Name: Power_Supervisor : MAX811LEUS-T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX811LEUS-T/
 - Description: Power_Supervisor : MAX811LEUS-T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX811LEUS-T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX811LEUS-T)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMAX811LEUST](http://oom.lt/SZKPOWERSUPERVISORMAX811LEUST)

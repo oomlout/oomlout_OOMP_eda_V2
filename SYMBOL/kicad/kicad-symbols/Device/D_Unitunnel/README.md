@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Unitunnel
 - Hex ID: SZKDEVICEDUNITUNNEL
 - Name: Device : D_Unitunnel
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Unitunnel/
 - Description: Device : D_Unitunnel
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Unitunnel](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Unitunnel)
 - Short Link: [http://oom.lt/SZKDEVICEDUNITUNNEL](http://oom.lt/SZKDEVICEDUNITUNNEL)

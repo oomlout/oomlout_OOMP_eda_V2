@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-8255A
 - Hex ID: SZKINTERFACE8255A
 - Name: Interface : 8255A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/8255A/
 - Description: Interface : 8255A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-8255A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-8255A)
 - Short Link: [http://oom.lt/SZKINTERFACE8255A](http://oom.lt/SZKINTERFACE8255A)

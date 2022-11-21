@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMSOT143 > Package_TO_SOT_SMD : SOT-143](#fzkpackagetosotsmsot143--package_to_sot_smd--sot-143)
+* [FZKSOTSOT143 > Package_TO_SOT_SMD : SOT-143](#fzksotsot143--package_to_sot_smd--sot-143)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMSOT143 > Package_TO_SOT_SMD : SOT-143
+# FZKSOTSOT143 > Package_TO_SOT_SMD : SOT-143
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143
-- Hex ID: FZKPACKAGETOSOTSMSOT143
+- Hex ID: FZKSOTSOT143
 - Name: Package_TO_SOT_SMD : SOT-143
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-143/
 - Description: Package_TO_SOT_SMD : SOT-143
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMSOT143](http://oom.lt/FZKPACKAGETOSOTSMSOT143)
+- Short Link: [http://oom.lt/FZKSOTSOT143](http://oom.lt/FZKSOTSOT143)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SOT-143|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT143|
+|Hex ID (short code)|hexID|FZKSOTSOT143|
 |name|name|Package_TO_SOT_SMD : SOT-143|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-143'</td><td> 'description'</td></tr><tr><td> 'SOT-143 https</td></tr><tr><td>//www.nxp.com/docs/en/package-information/SOT143B.pdf'</td><td> 'tags'</td></tr><tr><td> 'SOT-143'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-143.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

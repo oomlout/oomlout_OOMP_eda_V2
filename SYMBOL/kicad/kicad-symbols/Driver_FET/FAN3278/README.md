@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-FAN3278
 - Hex ID: SZKDRIVERFETFAN3278
 - Name: Driver_FET : FAN3278
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/FAN3278/
 - Description: Driver_FET : FAN3278
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-FAN3278](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-FAN3278)
 - Short Link: [http://oom.lt/SZKDRIVERFETFAN3278](http://oom.lt/SZKDRIVERFETFAN3278)

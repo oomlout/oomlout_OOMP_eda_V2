@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RT424
 - Hex ID: FZERELAYRT424
 - Name: relay : RT424
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RT424/
 - Description: relay : RT424
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RT424](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RT424)
 - Short Link: [http://oom.lt/FZERELAYRT424](http://oom.lt/FZERELAYRT424)

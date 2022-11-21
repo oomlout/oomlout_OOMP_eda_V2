@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-SM77H
 - Hex ID: FZEXSM77H
 - Name: crystal : SM77H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/SM77H/
 - Description: crystal : SM77H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-SM77H](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-SM77H)
 - Short Link: [http://oom.lt/FZEXSM77H](http://oom.lt/FZEXSM77H)

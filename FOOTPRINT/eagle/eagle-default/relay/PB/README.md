@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-PB
 - Hex ID: FZERELAYPB
 - Name: relay : PB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/PB/
 - Description: relay : PB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PB](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PB)
 - Short Link: [http://oom.lt/FZERELAYPB](http://oom.lt/FZERELAYPB)

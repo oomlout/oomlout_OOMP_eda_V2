@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HX05-NP
 - Hex ID: FZKSENCURRENTLEMHX5NP
 - Name: Sensor_Current : LEM_HX05-NP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/LEM_HX05-NP/
 - Description: Sensor_Current : LEM_HX05-NP
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HX05-NP](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HX05-NP)
 - Short Link: [http://oom.lt/FZKSENCURRENTLEMHX5NP](http://oom.lt/FZKSENCURRENTLEMHX5NP)

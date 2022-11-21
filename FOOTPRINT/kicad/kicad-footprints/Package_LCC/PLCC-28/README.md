@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-28
 - Hex ID: FZKLCCPLCC28
 - Name: Package_LCC : PLCC-28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-28/
 - Description: Package_LCC : PLCC-28
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-28](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-28)
 - Short Link: [http://oom.lt/FZKLCCPLCC28](http://oom.lt/FZKLCCPLCC28)

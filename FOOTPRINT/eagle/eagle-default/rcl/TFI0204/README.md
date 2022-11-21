@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-TFI0204
 - Hex ID: FZERCLTFI24
 - Name: rcl : TFI0204
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/TFI0204/
 - Description: rcl : TFI0204
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TFI0204](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TFI0204)
 - Short Link: [http://oom.lt/FZERCLTFI24](http://oom.lt/FZERCLTFI24)

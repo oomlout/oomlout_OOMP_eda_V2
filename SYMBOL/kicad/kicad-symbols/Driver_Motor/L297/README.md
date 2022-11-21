@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-L297
 - Hex ID: SZKDRIVERMOTORL297
 - Name: Driver_Motor : L297
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/L297/
 - Description: Driver_Motor : L297
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-L297](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-L297)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORL297](http://oom.lt/SZKDRIVERMOTORL297)

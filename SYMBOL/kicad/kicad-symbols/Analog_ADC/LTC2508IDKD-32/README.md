@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2508IDKD-32
 - Hex ID: SZKANALOGADCLTC258IDKD32
 - Name: Analog_ADC : LTC2508IDKD-32
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2508IDKD-32/
 - Description: Analog_ADC : LTC2508IDKD-32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2508IDKD-32](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2508IDKD-32)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC258IDKD32](http://oom.lt/SZKANALOGADCLTC258IDKD32)

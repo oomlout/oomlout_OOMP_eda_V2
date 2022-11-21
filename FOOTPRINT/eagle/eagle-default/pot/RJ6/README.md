@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-RJ6
 - Hex ID: FZEPOTRJ6
 - Name: pot : RJ6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/RJ6/
 - Description: pot : RJ6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-RJ6](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-RJ6)
 - Short Link: [http://oom.lt/FZEPOTRJ6](http://oom.lt/FZEPOTRJ6)

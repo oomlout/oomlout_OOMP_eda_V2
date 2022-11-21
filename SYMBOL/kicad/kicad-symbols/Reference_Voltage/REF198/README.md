@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF198
 - Hex ID: SZKREFERENCEVOLTAGEREF198
 - Name: Reference_Voltage : REF198
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF198/
 - Description: Reference_Voltage : REF198
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF198](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF198)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF198](http://oom.lt/SZKREFERENCEVOLTAGEREF198)

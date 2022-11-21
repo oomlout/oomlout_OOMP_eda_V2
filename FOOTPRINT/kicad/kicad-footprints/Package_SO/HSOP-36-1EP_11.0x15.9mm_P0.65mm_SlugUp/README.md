@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugUp
 - Hex ID: FZKSOHS361EP11X159P65SLUGUP
 - Name: Package_SO : HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugUp
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugUp/
 - Description: Package_SO : HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugUp
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugUp](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugUp)
 - Short Link: [http://oom.lt/FZKSOHS361EP11X159P65SLUGUP](http://oom.lt/FZKSOHS361EP11X159P65SLUGUP)

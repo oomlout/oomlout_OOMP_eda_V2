@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-GN-S
 - Hex ID: FZERELAYGNS
 - Name: relay : GN-S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/GN-S/
 - Description: relay : GN-S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-GN-S](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-GN-S)
 - Short Link: [http://oom.lt/FZERELAYGNS](http://oom.lt/FZERELAYGNS)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ76920PW
 - Hex ID: SZKBATMANAGEMENTBQ7692PW
 - Name: Battery_Management : BQ76920PW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ76920PW/
 - Description: Battery_Management : BQ76920PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ76920PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ76920PW)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ7692PW](http://oom.lt/SZKBATMANAGEMENTBQ7692PW)

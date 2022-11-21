@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_6.7x6mm_Copper
 - Hex ID: FZKSZOSHWSY67X6C
 - Name: Symbol : OSHW-Symbol_6.7x6mm_Copper
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Symbol_6.7x6mm_Copper/
 - Description: Symbol : OSHW-Symbol_6.7x6mm_Copper
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_6.7x6mm_Copper](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_6.7x6mm_Copper)
 - Short Link: [http://oom.lt/FZKSZOSHWSY67X6C](http://oom.lt/FZKSZOSHWSY67X6C)

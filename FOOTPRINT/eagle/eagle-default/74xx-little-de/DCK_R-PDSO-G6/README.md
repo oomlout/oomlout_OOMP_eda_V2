@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-little-de-DCK_R-PDSO-G6
 - Hex ID: FZE74XXLITTLEDEDCKRPDSOG6
 - Name: 74xx-little-de : DCK_R-PDSO-G6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-little-de/DCK_R-PDSO-G6/
 - Description: 74xx-little-de : DCK_R-PDSO-G6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-de-DCK_R-PDSO-G6](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-little-de-DCK_R-PDSO-G6)
 - Short Link: [http://oom.lt/FZE74XXLITTLEDEDCKRPDSOG6](http://oom.lt/FZE74XXLITTLEDEDCKRPDSOG6)

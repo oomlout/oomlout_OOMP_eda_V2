@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMARTLED-TTW
 - Hex ID: FZASRTLTTW
 - Name: adafruit : SMARTLED-TTW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SMARTLED-TTW/
 - Description: adafruit : SMARTLED-TTW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMARTLED-TTW](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMARTLED-TTW)
 - Short Link: [http://oom.lt/FZASRTLTTW](http://oom.lt/FZASRTLTTW)

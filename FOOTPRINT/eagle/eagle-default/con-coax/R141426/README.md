@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-R141426
 - Hex ID: FZECONCOAXR141426
 - Name: con-coax : R141426
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-coax/R141426/
 - Description: con-coax : R141426
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-R141426](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-R141426)
 - Short Link: [http://oom.lt/FZECONCOAXR141426](http://oom.lt/FZECONCOAXR141426)

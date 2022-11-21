@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-XO32
 - Hex ID: SZKOCSXO32
 - Name: Oscillator : XO32
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/XO32/
 - Description: Oscillator : XO32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-XO32](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-XO32)
 - Short Link: [http://oom.lt/SZKOCSXO32](http://oom.lt/SZKOCSXO32)

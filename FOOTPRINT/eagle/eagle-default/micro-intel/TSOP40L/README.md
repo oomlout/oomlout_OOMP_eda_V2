@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-TSOP40L
 - Hex ID: FZEMINTELTS4L
 - Name: micro-intel : TSOP40L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/TSOP40L/
 - Description: micro-intel : TSOP40L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-TSOP40L](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-TSOP40L)
 - Short Link: [http://oom.lt/FZEMINTELTS4L](http://oom.lt/FZEMINTELTS4L)

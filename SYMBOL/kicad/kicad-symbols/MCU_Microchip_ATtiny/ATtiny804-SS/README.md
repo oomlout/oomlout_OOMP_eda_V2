@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny804-SS
 - Hex ID: SZKMCUMCHIPATTINYATTINY84SS
 - Name: MCU_Microchip_ATtiny : ATtiny804-SS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny804-SS/
 - Description: MCU_Microchip_ATtiny : ATtiny804-SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny804-SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny804-SS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY84SS](http://oom.lt/SZKMCUMCHIPATTINYATTINY84SS)

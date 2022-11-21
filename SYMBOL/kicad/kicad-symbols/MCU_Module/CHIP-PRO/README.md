@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-CHIP-PRO
 - Hex ID: SZKMCUMOCHIPPRO
 - Name: MCU_Module : CHIP-PRO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/CHIP-PRO/
 - Description: MCU_Module : CHIP-PRO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-CHIP-PRO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-CHIP-PRO)
 - Short Link: [http://oom.lt/SZKMCUMOCHIPPRO](http://oom.lt/SZKMCUMOCHIPPRO)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217P65
 - Hex ID: SZKREGULATORCONTROLLERNCP1217P65
 - Name: Regulator_Controller : NCP1217P65
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1217P65/
 - Description: Regulator_Controller : NCP1217P65
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217P65](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217P65)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP1217P65](http://oom.lt/SZKREGULATORCONTROLLERNCP1217P65)

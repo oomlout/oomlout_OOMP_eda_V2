@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-TestPoint_2Pole
 - Hex ID: SZKCNTP2POLE
 - Name: Connector : TestPoint_2Pole
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/TestPoint_2Pole/
 - Description: Connector : TestPoint_2Pole
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_2Pole](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_2Pole)
 - Short Link: [http://oom.lt/SZKCNTP2POLE](http://oom.lt/SZKCNTP2POLE)

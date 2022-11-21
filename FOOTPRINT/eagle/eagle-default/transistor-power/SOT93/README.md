@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-SOT93
 - Hex ID: FZETRANSISTORPOWERSOT93
 - Name: transistor-power : SOT93
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/SOT93/
 - Description: transistor-power : SOT93
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-SOT93](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-SOT93)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERSOT93](http://oom.lt/FZETRANSISTORPOWERSOT93)

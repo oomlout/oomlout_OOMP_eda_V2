@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40018
 - Hex ID: SZKCONHS418
 - Name: Converter_ACDC : HS-40018
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/HS-40018/
 - Description: Converter_ACDC : HS-40018
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40018](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40018)
 - Short Link: [http://oom.lt/SZKCONHS418](http://oom.lt/SZKCONHS418)

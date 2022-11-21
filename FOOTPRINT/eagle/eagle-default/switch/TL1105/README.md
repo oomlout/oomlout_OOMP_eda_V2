@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHTL115 > switch : TL1105](#fzeswitchtl115--switch--tl1105)
+* [FZESWTL115 > switch : TL1105](#fzeswtl115--switch--tl1105)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHTL115 > switch : TL1105
+# FZESWTL115 > switch : TL1105
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-TL1105
-- Hex ID: FZESWITCHTL115
+- Hex ID: FZESWTL115
 - Name: switch : TL1105
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/TL1105/
 - Description: switch : TL1105
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-TL1105](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-TL1105)
-- Short Link: [http://oom.lt/FZESWITCHTL115](http://oom.lt/FZESWITCHTL115)
+- Short Link: [http://oom.lt/FZESWTL115](http://oom.lt/FZESWTL115)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|TL1105|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-TL1105|
-|Hex ID (short code)|hexID|FZESWITCHTL115|
+|Hex ID (short code)|hexID|FZESWTL115|
 |name|name|switch : TL1105|
 ||||

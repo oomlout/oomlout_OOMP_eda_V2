@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-gennum-LBGA100
 - Hex ID: FZEGENNUMLBGA1
 - Name: gennum : LBGA100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/gennum/LBGA100/
 - Description: gennum : LBGA100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-gennum-LBGA100](http://oom.lt/FOOTPRINT-eagle-eagle-default-gennum-LBGA100)
 - Short Link: [http://oom.lt/FZEGENNUMLBGA1](http://oom.lt/FZEGENNUMLBGA1)

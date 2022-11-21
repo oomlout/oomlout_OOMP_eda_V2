@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-BD679H
 - Hex ID: FZETRANSISTORPOWERBD679H
 - Name: transistor-power : BD679H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/BD679H/
 - Description: transistor-power : BD679H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-BD679H](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-BD679H)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERBD679H](http://oom.lt/FZETRANSISTORPOWERBD679H)

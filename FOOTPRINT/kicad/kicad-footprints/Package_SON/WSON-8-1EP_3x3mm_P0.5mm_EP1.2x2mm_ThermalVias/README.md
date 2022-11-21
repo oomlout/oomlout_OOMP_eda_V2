@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSONWSON81EP3X3P5EP12X2THERMALVIAS > Package_SON : WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias](#fzksonwson81ep3x3p5ep12x2thermalvias--package_son--wson-8-1ep_3x3mm_p05mm_ep12x2mm_thermalvias)
+* [FZKSONWSON81EP3X3P5EP12X2THV > Package_SON : WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias](#fzksonwson81ep3x3p5ep12x2thv--package_son--wson-8-1ep_3x3mm_p05mm_ep12x2mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSONWSON81EP3X3P5EP12X2THERMALVIAS > Package_SON : WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias
+# FZKSONWSON81EP3X3P5EP12X2THV > Package_SON : WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias
-- Hex ID: FZKSONWSON81EP3X3P5EP12X2THERMALVIAS
+- Hex ID: FZKSONWSON81EP3X3P5EP12X2THV
 - Name: Package_SON : WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias/
 - Description: Package_SON : WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKSONWSON81EP3X3P5EP12X2THERMALVIAS](http://oom.lt/FZKSONWSON81EP3X3P5EP12X2THERMALVIAS)
+- Short Link: [http://oom.lt/FZKSONWSON81EP3X3P5EP12X2THV](http://oom.lt/FZKSONWSON81EP3X3P5EP12X2THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_SON|
 |OOMP Index|oompIndex|WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKSONWSON81EP3X3P5EP12X2THERMALVIAS|
+|Hex ID (short code)|hexID|FZKSONWSON81EP3X3P5EP12X2THV|
 |name|name|Package_SON : WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'WSON</td><td> 8 Pin (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lp2951.pdf#page=27)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'WSON NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

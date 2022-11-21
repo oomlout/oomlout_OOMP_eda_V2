@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-CB1
 - Hex ID: FZERELAYCB1
 - Name: relay : CB1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/CB1/
 - Description: relay : CB1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CB1](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CB1)
 - Short Link: [http://oom.lt/FZERELAYCB1](http://oom.lt/FZERELAYCB1)

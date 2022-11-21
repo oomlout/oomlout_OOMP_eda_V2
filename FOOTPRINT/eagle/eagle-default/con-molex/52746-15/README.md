@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-52746-15
 - Hex ID: FZECONMX5274615
 - Name: con-molex : 52746-15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/52746-15/
 - Description: con-molex : 52746-15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-52746-15](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-52746-15)
 - Short Link: [http://oom.lt/FZECONMX5274615](http://oom.lt/FZECONMX5274615)

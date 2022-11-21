@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-HLCP-J100
 - Hex ID: FZKDIHLCPJ1
 - Name: Display : HLCP-J100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/HLCP-J100/
 - Description: Display : HLCP-J100
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HLCP-J100](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HLCP-J100)
 - Short Link: [http://oom.lt/FZKDIHLCPJ1](http://oom.lt/FZKDIHLCPJ1)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TSSOP14
 - Hex ID: FZATSS14
 - Name: adafruit : TSSOP14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TSSOP14/
 - Description: adafruit : TSSOP14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TSSOP14](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TSSOP14)
 - Short Link: [http://oom.lt/FZATSS14](http://oom.lt/FZATSS14)

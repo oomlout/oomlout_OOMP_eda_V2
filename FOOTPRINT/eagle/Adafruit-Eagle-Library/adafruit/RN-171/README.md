@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-RN-171
 - Hex ID: FZARN171
 - Name: adafruit : RN-171
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/RN-171/
 - Description: adafruit : RN-171
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-RN-171](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-RN-171)
 - Short Link: [http://oom.lt/FZARN171](http://oom.lt/FZARN171)

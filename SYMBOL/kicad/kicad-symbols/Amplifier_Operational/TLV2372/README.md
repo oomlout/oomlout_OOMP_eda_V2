@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV2372
 - Hex ID: SZKAMPLIFIEROPERATIONALTLV2372
 - Name: Amplifier_Operational : TLV2372
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TLV2372/
 - Description: Amplifier_Operational : TLV2372
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV2372](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV2372)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTLV2372](http://oom.lt/SZKAMPLIFIEROPERATIONALTLV2372)

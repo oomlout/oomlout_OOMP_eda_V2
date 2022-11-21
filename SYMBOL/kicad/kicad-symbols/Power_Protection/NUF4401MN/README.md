@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-NUF4401MN
 - Hex ID: SZKPOWERPROTECTIONNUF441MN
 - Name: Power_Protection : NUF4401MN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/NUF4401MN/
 - Description: Power_Protection : NUF4401MN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-NUF4401MN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-NUF4401MN)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONNUF441MN](http://oom.lt/SZKPOWERPROTECTIONNUF441MN)

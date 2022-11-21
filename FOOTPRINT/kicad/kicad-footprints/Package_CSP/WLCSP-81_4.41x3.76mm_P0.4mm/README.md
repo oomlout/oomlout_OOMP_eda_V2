@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-81_4.41x3.76mm_P0.4mm
 - Hex ID: FZKCSPWLCSP81441X376P4
 - Name: Package_CSP : WLCSP-81_4.41x3.76mm_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-81_4.41x3.76mm_P0.4mm/
 - Description: Package_CSP : WLCSP-81_4.41x3.76mm_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-81_4.41x3.76mm_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-81_4.41x3.76mm_P0.4mm)
 - Short Link: [http://oom.lt/FZKCSPWLCSP81441X376P4](http://oom.lt/FZKCSPWLCSP81441X376P4)

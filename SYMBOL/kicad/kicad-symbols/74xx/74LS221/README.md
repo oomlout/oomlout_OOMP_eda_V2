@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS221
 - Hex ID: SZK74XX74LS221
 - Name: 74xx : 74LS221
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/74LS221/
 - Description: 74xx : 74LS221
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS221](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS221)
 - Short Link: [http://oom.lt/SZK74XX74LS221](http://oom.lt/SZK74XX74LS221)

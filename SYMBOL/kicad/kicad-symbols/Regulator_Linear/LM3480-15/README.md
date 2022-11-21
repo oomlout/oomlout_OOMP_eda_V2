@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM3480-15
 - Hex ID: SZKREGULATORLINEARLM34815
 - Name: Regulator_Linear : LM3480-15
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM3480-15/
 - Description: Regulator_Linear : LM3480-15
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM3480-15](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM3480-15)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM34815](http://oom.lt/SZKREGULATORLINEARLM34815)

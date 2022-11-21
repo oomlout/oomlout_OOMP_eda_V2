@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNAMASSAMASSXT3PWM1X2P25HORIZONTAL > Connector_AMASS : AMASS_XT30PW-M_1x02_P2.50mm_Horizontal](#fzkcnamassamassxt3pwm1x2p25horizontal--connector_amass--amass_xt30pw-m_1x02_p250mm_horizontal)
+* [FZKCNAMASSAMASSXT3PWM1X2P25H > Connector_AMASS : AMASS_XT30PW-M_1x02_P2.50mm_Horizontal](#fzkcnamassamassxt3pwm1x2p25h--connector_amass--amass_xt30pw-m_1x02_p250mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAMASSAMASSXT3PWM1X2P25HORIZONTAL > Connector_AMASS : AMASS_XT30PW-M_1x02_P2.50mm_Horizontal
+# FZKCNAMASSAMASSXT3PWM1X2P25H > Connector_AMASS : AMASS_XT30PW-M_1x02_P2.50mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30PW-M_1x02_P2.50mm_Horizontal
-- Hex ID: FZKCNAMASSAMASSXT3PWM1X2P25HORIZONTAL
+- Hex ID: FZKCNAMASSAMASSXT3PWM1X2P25H
 - Name: Connector_AMASS : AMASS_XT30PW-M_1x02_P2.50mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30PW-M_1x02_P2.50mm_Horizontal/
 - Description: Connector_AMASS : AMASS_XT30PW-M_1x02_P2.50mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30PW-M_1x02_P2.50mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30PW-M_1x02_P2.50mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNAMASSAMASSXT3PWM1X2P25HORIZONTAL](http://oom.lt/FZKCNAMASSAMASSXT3PWM1X2P25HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNAMASSAMASSXT3PWM1X2P25H](http://oom.lt/FZKCNAMASSAMASSXT3PWM1X2P25H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_AMASS|
 |OOMP Index|oompIndex|AMASS_XT30PW-M_1x02_P2.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30PW-M_1x02_P2.50mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNAMASSAMASSXT3PWM1X2P25HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNAMASSAMASSXT3PWM1X2P25H|
 |name|name|Connector_AMASS : AMASS_XT30PW-M_1x02_P2.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'AMASS_XT30PW-M_1x02_P2.50mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Connector XT30 Horizontal PCB Male</td><td> https</td></tr><tr><td>//www.tme.eu/en/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf'</td><td> 'tags'</td></tr><tr><td> 'RC Connector XT30'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_AMASS.3dshapes/AMASS_XT30PW-M_1x02_P2.50mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

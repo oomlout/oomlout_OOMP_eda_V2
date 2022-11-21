@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-HC49-4-HSMX
 - Hex ID: FZEIQDFREQUENCYPRODUCTSHC494HSMX
 - Name: IQD-Frequency-Products : HC49-4-HSMX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/HC49-4-HSMX/
 - Description: IQD-Frequency-Products : HC49-4-HSMX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-HC49-4-HSMX](http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-HC49-4-HSMX)
 - Short Link: [http://oom.lt/FZEIQDFREQUENCYPRODUCTSHC494HSMX](http://oom.lt/FZEIQDFREQUENCYPRODUCTSHC494HSMX)

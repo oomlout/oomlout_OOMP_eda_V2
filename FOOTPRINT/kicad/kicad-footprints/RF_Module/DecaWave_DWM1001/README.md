@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-DecaWave_DWM1001
 - Hex ID: FZKRFMODECAWAVEDWM11
 - Name: RF_Module : DecaWave_DWM1001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/DecaWave_DWM1001/
 - Description: RF_Module : DecaWave_DWM1001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-DecaWave_DWM1001](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-DecaWave_DWM1001)
 - Short Link: [http://oom.lt/FZKRFMODECAWAVEDWM11](http://oom.lt/FZKRFMODECAWAVEDWM11)

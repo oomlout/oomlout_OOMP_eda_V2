@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-20-30
 - Hex ID: FZKSOINFINEONPGDSO23
 - Name: Package_SO : Infineon_PG-DSO-20-30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-20-30/
 - Description: Package_SO : Infineon_PG-DSO-20-30
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-20-30](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-20-30)
 - Short Link: [http://oom.lt/FZKSOINFINEONPGDSO23](http://oom.lt/FZKSOINFINEONPGDSO23)

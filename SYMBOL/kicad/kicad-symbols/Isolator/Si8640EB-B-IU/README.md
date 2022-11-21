@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-Si8640EB-B-IU
 - Hex ID: SZKISOLATORSI864EBBIU
 - Name: Isolator : Si8640EB-B-IU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/Si8640EB-B-IU/
 - Description: Isolator : Si8640EB-B-IU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8640EB-B-IU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8640EB-B-IU)
 - Short Link: [http://oom.lt/SZKISOLATORSI864EBBIU](http://oom.lt/SZKISOLATORSI864EBBIU)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L476JEYx
 - Hex ID: SZKMCUSTSTM32L4STM32L476JEYX
 - Name: MCU_ST_STM32L4 : STM32L476JEYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L476JEYx/
 - Description: MCU_ST_STM32L4 : STM32L476JEYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L476JEYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L476JEYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L476JEYX](http://oom.lt/SZKMCUSTSTM32L4STM32L476JEYX)

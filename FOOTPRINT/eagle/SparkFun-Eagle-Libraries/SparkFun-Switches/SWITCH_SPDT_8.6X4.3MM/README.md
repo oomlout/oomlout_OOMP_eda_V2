@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSWSWITCHSPDT86X43 > SparkFun-Switches : SWITCH_SPDT_8.6X4.3MM](#fzswswitchspdt86x43--sparkfun-switches--switch_spdt_86x43mm)
+* [FZSWSWSPDT86X43 > SparkFun-Switches : SWITCH_SPDT_8.6X4.3MM](#fzswswspdt86x43--sparkfun-switches--switch_spdt_86x43mm)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSWSWITCHSPDT86X43 > SparkFun-Switches : SWITCH_SPDT_8.6X4.3MM
+# FZSWSWSPDT86X43 > SparkFun-Switches : SWITCH_SPDT_8.6X4.3MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPDT_8.6X4.3MM
-- Hex ID: FZSWSWITCHSPDT86X43
+- Hex ID: FZSWSWSPDT86X43
 - Name: SparkFun-Switches : SWITCH_SPDT_8.6X4.3MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/SWITCH_SPDT_8.6X4.3MM/
 - Description: SparkFun-Switches : SWITCH_SPDT_8.6X4.3MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPDT_8.6X4.3MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPDT_8.6X4.3MM)
-- Short Link: [http://oom.lt/FZSWSWITCHSPDT86X43](http://oom.lt/FZSWSWITCHSPDT86X43)
+- Short Link: [http://oom.lt/FZSWSWSPDT86X43](http://oom.lt/FZSWSWSPDT86X43)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Switches|
 |OOMP Index|oompIndex|SWITCH_SPDT_8.6X4.3MM|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPDT_8.6X4.3MM|
-|Hex ID (short code)|hexID|FZSWSWITCHSPDT86X43|
+|Hex ID (short code)|hexID|FZSWSWSPDT86X43|
 |name|name|SparkFun-Switches : SWITCH_SPDT_8.6X4.3MM|
 ||||

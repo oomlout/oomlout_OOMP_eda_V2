@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINDUCTORSML18124532METRIC > Inductor_SMD : L_1812_4532Metric](#fzkinductorsml18124532metric--inductor_smd--l_1812_4532metric)
+* [FZKINL18124532VA > Inductor_SMD : L_1812_4532Metric](#fzkinl18124532va--inductor_smd--l_1812_4532metric)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSML18124532METRIC > Inductor_SMD : L_1812_4532Metric
+# FZKINL18124532VA > Inductor_SMD : L_1812_4532Metric
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1812_4532Metric
-- Hex ID: FZKINDUCTORSML18124532METRIC
+- Hex ID: FZKINL18124532VA
 - Name: Inductor_SMD : L_1812_4532Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_1812_4532Metric/
 - Description: Inductor_SMD : L_1812_4532Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1812_4532Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1812_4532Metric)
-- Short Link: [http://oom.lt/FZKINDUCTORSML18124532METRIC](http://oom.lt/FZKINDUCTORSML18124532METRIC)
+- Short Link: [http://oom.lt/FZKINL18124532VA](http://oom.lt/FZKINL18124532VA)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_1812_4532Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1812_4532Metric|
-|Hex ID (short code)|hexID|FZKINDUCTORSML18124532METRIC|
+|Hex ID (short code)|hexID|FZKINL18124532VA|
 |name|name|Inductor_SMD : L_1812_4532Metric|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_1812_4532Metric'</td><td> 'description'</td></tr><tr><td> 'Inductor SMD 1812 (4532 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> https</td></tr><tr><td>//www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'inductor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_1812_4532Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

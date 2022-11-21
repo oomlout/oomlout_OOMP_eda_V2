@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNWIRESOLDERWIRE1SQ1X1D4OD1 > Connector_Wire : SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm](#fzkcnwiresolderwire1sq1x1d4od1--connector_wire--solderwire-01sqmm_1x01_d04mm_od1mm)
+* [FZKCNWSOLDERW1SQ1X1D4OD1 > Connector_Wire : SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm](#fzkcnwsolderw1sq1x1d4od1--connector_wire--solderwire-01sqmm_1x01_d04mm_od1mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNWIRESOLDERWIRE1SQ1X1D4OD1 > Connector_Wire : SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm
+# FZKCNWSOLDERW1SQ1X1D4OD1 > Connector_Wire : SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm
-- Hex ID: FZKCNWIRESOLDERWIRE1SQ1X1D4OD1
+- Hex ID: FZKCNWSOLDERW1SQ1X1D4OD1
 - Name: Connector_Wire : SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm/
 - Description: Connector_Wire : SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm)
-- Short Link: [http://oom.lt/FZKCNWIRESOLDERWIRE1SQ1X1D4OD1](http://oom.lt/FZKCNWIRESOLDERWIRE1SQ1X1D4OD1)
+- Short Link: [http://oom.lt/FZKCNWSOLDERW1SQ1X1D4OD1](http://oom.lt/FZKCNWSOLDERW1SQ1X1D4OD1)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Wire|
 |OOMP Index|oompIndex|SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm|
-|Hex ID (short code)|hexID|FZKCNWIRESOLDERWIRE1SQ1X1D4OD1|
+|Hex ID (short code)|hexID|FZKCNWSOLDERW1SQ1X1D4OD1|
 |name|name|Connector_Wire : SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm'</td><td> 'description'</td></tr><tr><td> 'Soldered wire connection</td><td> for a single 0.1 mmÂ² wire</td><td> basic insulation</td><td> conductor diameter 0.4mm</td><td> outer diameter 1mm</td><td> size source Multi-Contact FLEXI-E 0.1 (https</td></tr><tr><td>//ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf)</td><td> bend radius 3 times outer diameter</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector wire 0.1sqmm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Wire.3dshapes/SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

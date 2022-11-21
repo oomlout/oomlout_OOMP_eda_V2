@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-CMWX1ZZABZ
 - Hex ID: FZKRFMOCMWX1ZZABZ
 - Name: RF_Module : CMWX1ZZABZ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/CMWX1ZZABZ/
 - Description: RF_Module : CMWX1ZZABZ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-CMWX1ZZABZ](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-CMWX1ZZABZ)
 - Short Link: [http://oom.lt/FZKRFMOCMWX1ZZABZ](http://oom.lt/FZKRFMOCMWX1ZZABZ)

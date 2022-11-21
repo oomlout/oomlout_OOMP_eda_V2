@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HD-P101
 - Hex ID: FZEDIHPHDP11
 - Name: display-hp : HD-P101
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-hp/HD-P101/
 - Description: display-hp : HD-P101
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HD-P101](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HD-P101)
 - Short Link: [http://oom.lt/FZEDIHPHDP11](http://oom.lt/FZEDIHPHDP11)

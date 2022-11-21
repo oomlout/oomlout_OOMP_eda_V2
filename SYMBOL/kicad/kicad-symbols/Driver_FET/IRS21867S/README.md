@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21867S
 - Hex ID: SZKDRIVERFETIRS21867S
 - Name: Driver_FET : IRS21867S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS21867S/
 - Description: Driver_FET : IRS21867S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21867S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21867S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS21867S](http://oom.lt/SZKDRIVERFETIRS21867S)

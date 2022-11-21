@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-MCP65R46
 - Hex ID: SZKCOMPARATORMCP65R46
 - Name: Comparator : MCP65R46
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/MCP65R46/
 - Description: Comparator : MCP65R46
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP65R46](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP65R46)
 - Short Link: [http://oom.lt/SZKCOMPARATORMCP65R46](http://oom.lt/SZKCOMPARATORMCP65R46)

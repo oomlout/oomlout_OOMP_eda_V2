@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-SN74LVC1G14DBV
 - Hex ID: SZK74XGXXSN74LVC1G14DBV
 - Name: 74xGxx : SN74LVC1G14DBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/SN74LVC1G14DBV/
 - Description: 74xGxx : SN74LVC1G14DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-SN74LVC1G14DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-SN74LVC1G14DBV)
 - Short Link: [http://oom.lt/SZK74XGXXSN74LVC1G14DBV](http://oom.lt/SZK74XGXXSN74LVC1G14DBV)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-30xCH
 - Hex ID: SZKREFERENCEVOLTAGEMCP1513XCH
 - Name: Reference_Voltage : MCP1501-30xCH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MCP1501-30xCH/
 - Description: Reference_Voltage : MCP1501-30xCH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-30xCH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-30xCH)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMCP1513XCH](http://oom.lt/SZKREFERENCEVOLTAGEMCP1513XCH)

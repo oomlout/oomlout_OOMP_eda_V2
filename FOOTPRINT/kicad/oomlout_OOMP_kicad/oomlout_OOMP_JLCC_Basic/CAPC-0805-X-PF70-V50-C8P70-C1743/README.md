@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF7V5C8P7C1743 > oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF70-V50-C8P70-C1743](#fzkicadoomloutoompkicadoomloutoompjlccbasiccapc85xpf7v5c8p7c1743--oomlout_oomp_jlcc_basic--capc-0805-x-pf70-v50-c8p70-c1743)
+* [FZOOMPKJLCCAPC85XPF7V5C8P7C1743 > oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF70-V50-C8P70-C1743](#fzoompkjlccapc85xpf7v5c8p7c1743--oomlout_oomp_jlcc_basic--capc-0805-x-pf70-v50-c8p70-c1743)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF7V5C8P7C1743 > oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF70-V50-C8P70-C1743
+# FZOOMPKJLCCAPC85XPF7V5C8P7C1743 > oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF70-V50-C8P70-C1743
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF70-V50-C8P70-C1743
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF7V5C8P7C1743
+- Hex ID: FZOOMPKJLCCAPC85XPF7V5C8P7C1743
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF70-V50-C8P70-C1743
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0805-X-PF70-V50-C8P70-C1743/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF70-V50-C8P70-C1743
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF70-V50-C8P70-C1743](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF70-V50-C8P70-C1743)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF7V5C8P7C1743](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF7V5C8P7C1743)
+- Short Link: [http://oom.lt/FZOOMPKJLCCAPC85XPF7V5C8P7C1743](http://oom.lt/FZOOMPKJLCCAPC85XPF7V5C8P7C1743)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_JLCC_Basic|
 |OOMP Index|oompIndex|CAPC-0805-X-PF70-V50-C8P70-C1743|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF70-V50-C8P70-C1743|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF7V5C8P7C1743|
+|Hex ID (short code)|hexID|FZOOMPKJLCCAPC85XPF7V5C8P7C1743|
 |name|name|oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF70-V50-C8P70-C1743|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CAPC-0805-X-PF70-V50-C8P70-C1743'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C8P70;PARTL C-JLCC;C1743;MANUF C-XXXX;0805B471K500NT; Capacitor SMD 0805 (2012 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf</td><td> https</td></tr><tr><td>//docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

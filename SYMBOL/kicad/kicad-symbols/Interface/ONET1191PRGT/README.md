@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-ONET1191PRGT
 - Hex ID: SZKINTERFACEONET1191PRGT
 - Name: Interface : ONET1191PRGT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/ONET1191PRGT/
 - Description: Interface : ONET1191PRGT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-ONET1191PRGT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-ONET1191PRGT)
 - Short Link: [http://oom.lt/SZKINTERFACEONET1191PRGT](http://oom.lt/SZKINTERFACEONET1191PRGT)

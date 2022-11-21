@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-SC70-5
 - Hex ID: FZEANALOGDEVICESSC75
 - Name: analog-devices : SC70-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/SC70-5/
 - Description: analog-devices : SC70-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SC70-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SC70-5)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESSC75](http://oom.lt/FZEANALOGDEVICESSC75)

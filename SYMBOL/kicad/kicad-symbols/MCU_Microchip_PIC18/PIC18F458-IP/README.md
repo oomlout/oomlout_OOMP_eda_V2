@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F458-IP
 - Hex ID: SZKMCUMCHIPPIC18PIC18F458IP
 - Name: MCU_Microchip_PIC18 : PIC18F458-IP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F458-IP/
 - Description: MCU_Microchip_PIC18 : PIC18F458-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F458-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F458-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F458IP](http://oom.lt/SZKMCUMCHIPPIC18PIC18F458IP)

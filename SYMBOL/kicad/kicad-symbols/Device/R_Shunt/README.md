@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Shunt
 - Hex ID: SZKDEVICERSHUNT
 - Name: Device : R_Shunt
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Shunt/
 - Description: Device : R_Shunt
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Shunt](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Shunt)
 - Short Link: [http://oom.lt/SZKDEVICERSHUNT](http://oom.lt/SZKDEVICERSHUNT)

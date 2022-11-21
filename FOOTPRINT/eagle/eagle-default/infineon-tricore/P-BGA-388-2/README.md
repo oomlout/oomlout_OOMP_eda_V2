@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-tricore-P-BGA-388-2
 - Hex ID: FZEINFINEONTRICOREPBGA3882
 - Name: infineon-tricore : P-BGA-388-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon-tricore/P-BGA-388-2/
 - Description: infineon-tricore : P-BGA-388-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-tricore-P-BGA-388-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-tricore-P-BGA-388-2)
 - Short Link: [http://oom.lt/FZEINFINEONTRICOREPBGA3882](http://oom.lt/FZEINFINEONTRICOREPBGA3882)

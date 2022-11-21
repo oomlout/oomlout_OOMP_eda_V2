@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USB-B-PTH
 - Hex ID: FZSRTUBP
 - Name: SparkFun-Retired : USB-B-PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/USB-B-PTH/
 - Description: SparkFun-Retired : USB-B-PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USB-B-PTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USB-B-PTH)
 - Short Link: [http://oom.lt/FZSRTUBP](http://oom.lt/FZSRTUBP)

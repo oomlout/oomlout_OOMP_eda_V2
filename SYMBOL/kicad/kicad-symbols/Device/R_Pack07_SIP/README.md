@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Pack07_SIP
 - Hex ID: SZKDEVICERPACK7SIP
 - Name: Device : R_Pack07_SIP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Pack07_SIP/
 - Description: Device : R_Pack07_SIP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack07_SIP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack07_SIP)
 - Short Link: [http://oom.lt/SZKDEVICERPACK7SIP](http://oom.lt/SZKDEVICERPACK7SIP)

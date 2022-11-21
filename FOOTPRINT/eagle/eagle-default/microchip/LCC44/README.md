@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-LCC44
 - Hex ID: FZEMCHIPLCC44
 - Name: microchip : LCC44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/LCC44/
 - Description: microchip : LCC44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-LCC44](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-LCC44)
 - Short Link: [http://oom.lt/FZEMCHIPLCC44](http://oom.lt/FZEMCHIPLCC44)

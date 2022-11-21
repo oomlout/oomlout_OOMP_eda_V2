@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Display-CR2013-MI2120
 - Hex ID: SZKDRIVERDICR213MI212
 - Name: Driver_Display : CR2013-MI2120
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Display/CR2013-MI2120/
 - Description: Driver_Display : CR2013-MI2120
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-CR2013-MI2120](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-CR2013-MI2120)
 - Short Link: [http://oom.lt/SZKDRIVERDICR213MI212](http://oom.lt/SZKDRIVERDICR213MI212)

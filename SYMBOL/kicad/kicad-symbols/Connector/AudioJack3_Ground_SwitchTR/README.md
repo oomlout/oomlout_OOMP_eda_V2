@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNAUDIOJ3GROUNDSWITCHTR > Connector : AudioJack3_Ground_SwitchTR](#szkcnaudioj3groundswitchtr--connector--audiojack3_ground_switchtr)
+* [SZKCNAUDIOJ3GROUNDSWTR > Connector : AudioJack3_Ground_SwitchTR](#szkcnaudioj3groundswtr--connector--audiojack3_ground_switchtr)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNAUDIOJ3GROUNDSWITCHTR > Connector : AudioJack3_Ground_SwitchTR
+# SZKCNAUDIOJ3GROUNDSWTR > Connector : AudioJack3_Ground_SwitchTR
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_Ground_SwitchTR
-- Hex ID: SZKCNAUDIOJ3GROUNDSWITCHTR
+- Hex ID: SZKCNAUDIOJ3GROUNDSWTR
 - Name: Connector : AudioJack3_Ground_SwitchTR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/AudioJack3_Ground_SwitchTR/
 - Description: Connector : AudioJack3_Ground_SwitchTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_Ground_SwitchTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_Ground_SwitchTR)
-- Short Link: [http://oom.lt/SZKCNAUDIOJ3GROUNDSWITCHTR](http://oom.lt/SZKCNAUDIOJ3GROUNDSWITCHTR)
+- Short Link: [http://oom.lt/SZKCNAUDIOJ3GROUNDSWTR](http://oom.lt/SZKCNAUDIOJ3GROUNDSWTR)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|AudioJack3_Ground_SwitchTR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_Ground_SwitchTR|
-|Hex ID (short code)|hexID|SZKCNAUDIOJ3GROUNDSWITCHTR|
+|Hex ID (short code)|hexID|SZKCNAUDIOJ3GROUNDSWTR|
 |name|name|Connector : AudioJack3_Ground_SwitchTR|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AudioJack3_Ground_SwitchTR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio jack receptacle stereo headphones phones TRS connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Audio Jack</td><td> 3 Poles (Stereo / TRS)</td><td> Grounded Sleeve</td><td> Switched TR Poles (Normalling)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Jack*'</td></tr></table>]|
 ||||

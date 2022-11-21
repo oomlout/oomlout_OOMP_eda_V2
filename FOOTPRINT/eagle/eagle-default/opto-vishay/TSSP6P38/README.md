@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-vishay-TSSP6P38
 - Hex ID: FZEOPTOVISHAYTSSP6P38
 - Name: opto-vishay : TSSP6P38
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-vishay/TSSP6P38/
 - Description: opto-vishay : TSSP6P38
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-vishay-TSSP6P38](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-vishay-TSSP6P38)
 - Short Link: [http://oom.lt/FZEOPTOVISHAYTSSP6P38](http://oom.lt/FZEOPTOVISHAYTSSP6P38)

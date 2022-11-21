@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RMCM01
 - Hex ID: FZSRFRMCM1
 - Name: SparkFun-RF : RMCM01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/RMCM01/
 - Description: SparkFun-RF : RMCM01
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RMCM01](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RMCM01)
 - Short Link: [http://oom.lt/FZSRFRMCM1](http://oom.lt/FZSRFRMCM1)

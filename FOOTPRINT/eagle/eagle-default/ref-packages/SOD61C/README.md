@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSOD61C > ref-packages : SOD61C](#fzerefpackagessod61c--ref-packages--sod61c)
+* [FZEREFPSSOD61C > ref-packages : SOD61C](#fzerefpssod61c--ref-packages--sod61c)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSOD61C > ref-packages : SOD61C
+# FZEREFPSSOD61C > ref-packages : SOD61C
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOD61C
-- Hex ID: FZEREFPACKAGESSOD61C
+- Hex ID: FZEREFPSSOD61C
 - Name: ref-packages : SOD61C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SOD61C/
 - Description: ref-packages : SOD61C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOD61C](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOD61C)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSOD61C](http://oom.lt/FZEREFPACKAGESSOD61C)
+- Short Link: [http://oom.lt/FZEREFPSSOD61C](http://oom.lt/FZEREFPSSOD61C)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SOD61C|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SOD61C|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSOD61C|
+|Hex ID (short code)|hexID|FZEREFPSSOD61C|
 |name|name|ref-packages : SOD61C|
 ||||

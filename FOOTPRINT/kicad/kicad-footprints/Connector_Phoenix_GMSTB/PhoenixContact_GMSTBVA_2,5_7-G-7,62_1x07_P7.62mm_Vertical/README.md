@@ -5,27 +5,21 @@
 Contents
 ========
 
-* [FZKCNPHOENIXGMSTBPHOENIXCONTACTGMSTBVA257G7621X7P762VERTICAL > Connector_Phoenix_GMSTB : PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical](#fzkcnphoenixgmstbphoenixcontactgmstbva257g7621x7p762vertical--connector_phoenix_gmstb--phoenixcontact_gmstbva_25_7-g-762_1x07_p762mm_vertical)
-	* [Images](#images)
+* [FZKCNPHOENIXGMSTBPHOENIXCTGMSTBVA257G7621X7P762F > Connector_Phoenix_GMSTB : PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical](#fzkcnphoenixgmstbphoenixctgmstbva257g7621x7p762f--connector_phoenix_gmstb--phoenixcontact_gmstbva_25_7-g-762_1x07_p762mm_vertical)
 	* [Tags](#tags)
   
-![][im]
-# FZKCNPHOENIXGMSTBPHOENIXCONTACTGMSTBVA257G7621X7P762VERTICAL > Connector_Phoenix_GMSTB : PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical
+NO IMAGE  
+# FZKCNPHOENIXGMSTBPHOENIXCTGMSTBVA257G7621X7P762F > Connector_Phoenix_GMSTB : PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical
-- Hex ID: FZKCNPHOENIXGMSTBPHOENIXCONTACTGMSTBVA257G7621X7P762VERTICAL
+- Hex ID: FZKCNPHOENIXGMSTBPHOENIXCTGMSTBVA257G7621X7P762F
 - Name: Connector_Phoenix_GMSTB : PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical/
 - Description: Connector_Phoenix_GMSTB : PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNPHOENIXGMSTBPHOENIXCONTACTGMSTBVA257G7621X7P762VERTICAL](http://oom.lt/FZKCNPHOENIXGMSTBPHOENIXCONTACTGMSTBVA257G7621X7P762VERTICAL)
-
-## Images
+- Short Link: [http://oom.lt/FZKCNPHOENIXGMSTBPHOENIXCTGMSTBVA257G7621X7P762F](http://oom.lt/FZKCNPHOENIXGMSTBPHOENIXCTGMSTBVA257G7621X7P762F)
   
-
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical/kicadPcb3dBack.png)|
-| :---: | :---: | :---: | :---: |
-|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical/kicadPcb3d.png)||||
-
+NO IMAGES  
 ## Tags
   
 
@@ -37,11 +31,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Phoenix_GMSTB|
 |OOMP Index|oompIndex|PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNPHOENIXGMSTBPHOENIXCONTACTGMSTBVA257G7621X7P762VERTICAL|
+|Hex ID (short code)|hexID|FZKCNPHOENIXGMSTBPHOENIXCTGMSTBVA257G7621X7P762F|
 |name|name|Connector_Phoenix_GMSTB : PhoenixContact_GMSTBVA_2,5_7-G-7,62_1x07_P7.62mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PhoenixContact_GMSTBVA_2</td><td>5_7-G-7</td><td>62_1x07_P7.62mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Generic Phoenix Contact connector footprint for</td></tr><tr><td> GMSTBVA_2</td><td>5/7-G-7</td><td>62; number of pins</td></tr><tr><td> 07; pin pitch</td></tr><tr><td> 7.62mm; Vertical \|\| order number</td></tr><tr><td> 1766822 12A 630V'</td><td> 'tags'</td></tr><tr><td> 'phoenix_contact connector GMSTBVA_01x07_G_7.62mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBVA_2</td><td>5_7-G-7</td><td>62_1x07_P7.62mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
-
-
-
-[im]: kicadPcb3d_450.png

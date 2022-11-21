@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SFH480
 - Hex ID: FZASFH48
 - Name: adafruit : SFH480
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SFH480/
 - Description: adafruit : SFH480
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SFH480](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SFH480)
 - Short Link: [http://oom.lt/FZASFH48](http://oom.lt/FZASFH48)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-SK68_37
 - Hex ID: FZEHSK6837
 - Name: heatsink : SK68_37
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/SK68_37/
 - Description: heatsink : SK68_37
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK68_37](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK68_37)
 - Short Link: [http://oom.lt/FZEHSK6837](http://oom.lt/FZEHSK6837)

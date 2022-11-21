@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-stm32xx-LQFP100_14X14
 - Hex ID: FZESTM32XXLQFP114X14
 - Name: stm32xx : LQFP100_14X14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/stm32xx/LQFP100_14X14/
 - Description: stm32xx : LQFP100_14X14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-stm32xx-LQFP100_14X14](http://oom.lt/FOOTPRINT-eagle-eagle-default-stm32xx-LQFP100_14X14)
 - Short Link: [http://oom.lt/FZESTM32XXLQFP114X14](http://oom.lt/FZESTM32XXLQFP114X14)

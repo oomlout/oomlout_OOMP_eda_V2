@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESMIPCDIP14 > smd-ipc : DIP14](#fzesmipcdip14--smd-ipc--dip14)
+* [FZESMIPCD14 > smd-ipc : DIP14](#fzesmipcd14--smd-ipc--dip14)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESMIPCDIP14 > smd-ipc : DIP14
+# FZESMIPCD14 > smd-ipc : DIP14
 
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-DIP14
-- Hex ID: FZESMIPCDIP14
+- Hex ID: FZESMIPCD14
 - Name: smd-ipc : DIP14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/DIP14/
 - Description: smd-ipc : DIP14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-DIP14](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-DIP14)
-- Short Link: [http://oom.lt/FZESMIPCDIP14](http://oom.lt/FZESMIPCDIP14)
+- Short Link: [http://oom.lt/FZESMIPCD14](http://oom.lt/FZESMIPCD14)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|smd-ipc|
 |OOMP Index|oompIndex|DIP14|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-smd-ipc-DIP14|
-|Hex ID (short code)|hexID|FZESMIPCDIP14|
+|Hex ID (short code)|hexID|FZESMIPCD14|
 |name|name|smd-ipc : DIP14|
 ||||

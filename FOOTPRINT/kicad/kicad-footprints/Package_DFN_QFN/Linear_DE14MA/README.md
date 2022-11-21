@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Linear_DE14MA
 - Hex ID: FZKDFNLINEARDE14MA
 - Name: Package_DFN_QFN : Linear_DE14MA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Linear_DE14MA/
 - Description: Package_DFN_QFN : Linear_DE14MA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Linear_DE14MA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Linear_DE14MA)
 - Short Link: [http://oom.lt/FZKDFNLINEARDE14MA](http://oom.lt/FZKDFNLINEARDE14MA)

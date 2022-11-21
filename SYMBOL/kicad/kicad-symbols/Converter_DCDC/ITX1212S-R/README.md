@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1212S-R
 - Hex ID: SZKCONITX1212SR
 - Name: Converter_DCDC : ITX1212S-R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1212S-R/
 - Description: Converter_DCDC : ITX1212S-R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1212S-R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1212S-R)
 - Short Link: [http://oom.lt/SZKCONITX1212SR](http://oom.lt/SZKCONITX1212SR)

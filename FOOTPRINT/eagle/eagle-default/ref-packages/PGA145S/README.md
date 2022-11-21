@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPGA145S > ref-packages : PGA145S](#fzerefpackagespga145s--ref-packages--pga145s)
+* [FZEREFPSPGA145S > ref-packages : PGA145S](#fzerefpspga145s--ref-packages--pga145s)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPGA145S > ref-packages : PGA145S
+# FZEREFPSPGA145S > ref-packages : PGA145S
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-PGA145S
-- Hex ID: FZEREFPACKAGESPGA145S
+- Hex ID: FZEREFPSPGA145S
 - Name: ref-packages : PGA145S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/PGA145S/
 - Description: ref-packages : PGA145S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PGA145S](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PGA145S)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPGA145S](http://oom.lt/FZEREFPACKAGESPGA145S)
+- Short Link: [http://oom.lt/FZEREFPSPGA145S](http://oom.lt/FZEREFPSPGA145S)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|PGA145S|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-PGA145S|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPGA145S|
+|Hex ID (short code)|hexID|FZEREFPSPGA145S|
 |name|name|ref-packages : PGA145S|
 ||||

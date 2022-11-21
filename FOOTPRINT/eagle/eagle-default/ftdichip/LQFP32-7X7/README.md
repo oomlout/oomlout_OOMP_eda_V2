@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ftdichip-LQFP32-7X7
 - Hex ID: FZEFTDICHIPLQFP327X7
 - Name: ftdichip : LQFP32-7X7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ftdichip/LQFP32-7X7/
 - Description: ftdichip : LQFP32-7X7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ftdichip-LQFP32-7X7](http://oom.lt/FOOTPRINT-eagle-eagle-default-ftdichip-LQFP32-7X7)
 - Short Link: [http://oom.lt/FZEFTDICHIPLQFP327X7](http://oom.lt/FZEFTDICHIPLQFP327X7)

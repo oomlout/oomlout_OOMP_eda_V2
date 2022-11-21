@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2892
 - Hex ID: SZKREGULATORCONTROLLERUCC2892
 - Name: Regulator_Controller : UCC2892
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC2892/
 - Description: Regulator_Controller : UCC2892
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2892](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2892)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC2892](http://oom.lt/SZKREGULATORCONTROLLERUCC2892)

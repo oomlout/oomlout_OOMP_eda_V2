@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-DZ2S200X0L
 - Hex ID: SZKDIODEDZ2S2XL
 - Name: Diode : DZ2S200X0L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/DZ2S200X0L/
 - Description: Diode : DZ2S200X0L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DZ2S200X0L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DZ2S200X0L)
 - Short Link: [http://oom.lt/SZKDIODEDZ2S2XL](http://oom.lt/SZKDIODEDZ2S2XL)

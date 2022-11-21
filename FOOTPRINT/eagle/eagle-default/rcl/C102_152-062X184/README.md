@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C102_152-062X184
 - Hex ID: FZERCLC1215262X184
 - Name: rcl : C102_152-062X184
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C102_152-062X184/
 - Description: rcl : C102_152-062X184
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C102_152-062X184](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C102_152-062X184)
 - Short Link: [http://oom.lt/FZERCLC1215262X184](http://oom.lt/FZERCLC1215262X184)

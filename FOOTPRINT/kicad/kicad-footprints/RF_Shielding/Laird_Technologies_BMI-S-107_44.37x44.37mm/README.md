@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-107_44.37x44.37mm
 - Hex ID: FZKRFSLAIRDTECHNOLOGIESBMIS174437X4437
 - Name: RF_Shielding : Laird_Technologies_BMI-S-107_44.37x44.37mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/
 - Description: RF_Shielding : Laird_Technologies_BMI-S-107_44.37x44.37mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-107_44.37x44.37mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-107_44.37x44.37mm)
 - Short Link: [http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS174437X4437](http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS174437X4437)

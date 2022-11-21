@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_HOLES_ONLY
 - Hex ID: FZSSPARKFUNCNS1X6HONLY
 - Name: SparkFun-Connectors : 1X06_HOLES_ONLY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X06_HOLES_ONLY/
 - Description: SparkFun-Connectors : 1X06_HOLES_ONLY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_HOLES_ONLY](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_HOLES_ONLY)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X6HONLY](http://oom.lt/FZSSPARKFUNCNS1X6HONLY)

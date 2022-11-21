@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_PowerSSO-36_SlugUp
 - Hex ID: FZKSOSTPOWERSSO36SLUGUP
 - Name: Package_SO : ST_PowerSSO-36_SlugUp
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_PowerSSO-36_SlugUp/
 - Description: Package_SO : ST_PowerSSO-36_SlugUp
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_PowerSSO-36_SlugUp](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_PowerSSO-36_SlugUp)
 - Short Link: [http://oom.lt/FZKSOSTPOWERSSO36SLUGUP](http://oom.lt/FZKSOSTPOWERSSO36SLUGUP)

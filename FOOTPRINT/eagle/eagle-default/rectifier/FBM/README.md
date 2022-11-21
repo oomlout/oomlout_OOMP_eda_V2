@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-FBM
 - Hex ID: FZERECTIFIERFBM
 - Name: rectifier : FBM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/FBM/
 - Description: rectifier : FBM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-FBM](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-FBM)
 - Short Link: [http://oom.lt/FZERECTIFIERFBM](http://oom.lt/FZERECTIFIERFBM)

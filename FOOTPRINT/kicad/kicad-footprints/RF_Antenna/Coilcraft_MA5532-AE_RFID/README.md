@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Coilcraft_MA5532-AE_RFID
 - Hex ID: FZKRFCOILCRAFTMA5532AERFID
 - Name: RF_Antenna : Coilcraft_MA5532-AE_RFID
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Coilcraft_MA5532-AE_RFID/
 - Description: RF_Antenna : Coilcraft_MA5532-AE_RFID
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Coilcraft_MA5532-AE_RFID](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Coilcraft_MA5532-AE_RFID)
 - Short Link: [http://oom.lt/FZKRFCOILCRAFTMA5532AERFID](http://oom.lt/FZKRFCOILCRAFTMA5532AERFID)

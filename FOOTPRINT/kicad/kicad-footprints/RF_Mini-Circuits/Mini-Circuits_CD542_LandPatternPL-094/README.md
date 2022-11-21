@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD542_LandPatternPL-094
 - Hex ID: FZKRFMCIRCUITSCD542LANDPATTERNPL94
 - Name: RF_Mini-Circuits : Mini-Circuits_CD542_LandPatternPL-094
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_LandPatternPL-094/
 - Description: RF_Mini-Circuits : Mini-Circuits_CD542_LandPatternPL-094
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD542_LandPatternPL-094](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD542_LandPatternPL-094)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSCD542LANDPATTERNPL94](http://oom.lt/FZKRFMCIRCUITSCD542LANDPATTERNPL94)

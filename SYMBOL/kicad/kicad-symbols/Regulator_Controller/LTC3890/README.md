@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC3890
 - Hex ID: SZKREGULATORCONTROLLERLTC389
 - Name: Regulator_Controller : LTC3890
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LTC3890/
 - Description: Regulator_Controller : LTC3890
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC3890](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC3890)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERLTC389](http://oom.lt/SZKREGULATORCONTROLLERLTC389)

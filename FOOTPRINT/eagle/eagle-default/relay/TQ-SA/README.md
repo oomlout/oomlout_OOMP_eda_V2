@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-TQ-SA
 - Hex ID: FZERELAYTQSA
 - Name: relay : TQ-SA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/TQ-SA/
 - Description: relay : TQ-SA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TQ-SA](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TQ-SA)
 - Short Link: [http://oom.lt/FZERELAYTQSA](http://oom.lt/FZERELAYTQSA)

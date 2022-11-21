@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-QFP52_SOT379-1
 - Hex ID: FZEMPHILIPSQFP52SOT3791
 - Name: micro-philips : QFP52_SOT379-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/QFP52_SOT379-1/
 - Description: micro-philips : QFP52_SOT379-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-QFP52_SOT379-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-QFP52_SOT379-1)
 - Short Link: [http://oom.lt/FZEMPHILIPSQFP52SOT3791](http://oom.lt/FZEMPHILIPSQFP52SOT3791)

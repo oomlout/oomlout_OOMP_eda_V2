@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F733VEYx
 - Hex ID: SZKMCUSTSTM32F7STM32F733VEYX
 - Name: MCU_ST_STM32F7 : STM32F733VEYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F733VEYx/
 - Description: MCU_ST_STM32F7 : STM32F733VEYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F733VEYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F733VEYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F733VEYX](http://oom.lt/SZKMCUSTSTM32F7STM32F733VEYX)

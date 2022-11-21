@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_FK24413DPAK_23x13mm
 - Hex ID: FZKHHFISCHERFK24413DPAK23X13
 - Name: Heatsink : Heatsink_Fischer_FK24413DPAK_23x13mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_FK24413DPAK_23x13mm/
 - Description: Heatsink : Heatsink_Fischer_FK24413DPAK_23x13mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_FK24413DPAK_23x13mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_FK24413DPAK_23x13mm)
 - Short Link: [http://oom.lt/FZKHHFISCHERFK24413DPAK23X13](http://oom.lt/FZKHHFISCHERFK24413DPAK23X13)

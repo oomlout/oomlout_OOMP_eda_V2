@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_Wifi
 - Hex ID: SZKMCUMOADAFEATHERMWIFI
 - Name: MCU_Module : Adafruit_Feather_M0_Wifi
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_Wifi/
 - Description: MCU_Module : Adafruit_Feather_M0_Wifi
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_Wifi](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_Wifi)
 - Short Link: [http://oom.lt/SZKMCUMOADAFEATHERMWIFI](http://oom.lt/SZKMCUMOADAFEATHERMWIFI)

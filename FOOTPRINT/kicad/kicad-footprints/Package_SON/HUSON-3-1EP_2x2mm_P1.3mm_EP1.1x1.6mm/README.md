@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm
 - Hex ID: FZKSONHUSON31EP2X2P13EP11X16
 - Name: Package_SON : HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/
 - Description: Package_SON : HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm)
 - Short Link: [http://oom.lt/FZKSONHUSON31EP2X2P13EP11X16](http://oom.lt/FZKSONHUSON31EP2X2P13EP11X16)

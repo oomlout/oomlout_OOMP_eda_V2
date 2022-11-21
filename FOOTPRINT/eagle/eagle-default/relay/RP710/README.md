@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RP710
 - Hex ID: FZERELAYRP71
 - Name: relay : RP710
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RP710/
 - Description: relay : RP710
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RP710](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RP710)
 - Short Link: [http://oom.lt/FZERELAYRP71](http://oom.lt/FZERELAYRP71)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-36_7x7mm_P0.65mm
 - Hex ID: FZKQFPLQFP367X7P65
 - Name: Package_QFP : LQFP-36_7x7mm_P0.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-36_7x7mm_P0.65mm/
 - Description: Package_QFP : LQFP-36_7x7mm_P0.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-36_7x7mm_P0.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-36_7x7mm_P0.65mm)
 - Short Link: [http://oom.lt/FZKQFPLQFP367X7P65](http://oom.lt/FZKQFPLQFP367X7P65)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lemo-EZG-2B-2K-312
 - Hex ID: FZECONLEMOEZG2B2K312
 - Name: con-lemo : EZG-2B-2K-312
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lemo/EZG-2B-2K-312/
 - Description: con-lemo : EZG-2B-2K-312
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lemo-EZG-2B-2K-312](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lemo-EZG-2B-2K-312)
 - Short Link: [http://oom.lt/FZECONLEMOEZG2B2K312](http://oom.lt/FZECONLEMOEZG2B2K312)

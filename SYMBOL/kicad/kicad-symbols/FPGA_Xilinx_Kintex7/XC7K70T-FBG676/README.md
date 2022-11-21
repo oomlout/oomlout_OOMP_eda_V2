@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K70T-FBG676
 - Hex ID: SZKFPGAXILINXKINTEX7XC7K7TFBG676
 - Name: FPGA_Xilinx_Kintex7 : XC7K70T-FBG676
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K70T-FBG676/
 - Description: FPGA_Xilinx_Kintex7 : XC7K70T-FBG676
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K70T-FBG676](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K70T-FBG676)
 - Short Link: [http://oom.lt/SZKFPGAXILINXKINTEX7XC7K7TFBG676](http://oom.lt/SZKFPGAXILINXKINTEX7XC7K7TFBG676)

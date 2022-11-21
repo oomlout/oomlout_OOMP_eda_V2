@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO35NK > digikey-footprints : DO-35_NK](#fzkicaddigikeykicadlibrarydigikeyfootprintsdo35nk--digikey-footprints--do-35_nk)
+* [FZDIGIDIGIKEYFOOTPRINTSDO35NK > digikey-footprints : DO-35_NK](#fzdigidigikeyfootprintsdo35nk--digikey-footprints--do-35_nk)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO35NK > digikey-footprints : DO-35_NK
+# FZDIGIDIGIKEYFOOTPRINTSDO35NK > digikey-footprints : DO-35_NK
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-35_NK
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO35NK
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSDO35NK
 - Name: digikey-footprints : DO-35_NK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DO-35_NK/
 - Description: digikey-footprints : DO-35_NK
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-35_NK](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-35_NK)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO35NK](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO35NK)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDO35NK](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSDO35NK)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|DO-35_NK|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-35_NK|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO35NK|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSDO35NK|
 |name|name|digikey-footprints : DO-35_NK|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DO-35_NK'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

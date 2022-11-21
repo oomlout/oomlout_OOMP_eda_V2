@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO4321R6O432 > oomlout_OOMP_parts : RESE-0603-X-O432-01-R6O432](#fzkicadoomloutoompkicadoomloutoomppartsrese63xo4321r6o432--oomlout_oomp_parts--rese-0603-x-o432-01-r6o432)
+* [FZOOMPKOOMPPRESE63XO4321R6O432 > oomlout_OOMP_parts : RESE-0603-X-O432-01-R6O432](#fzoompkoompprese63xo4321r6o432--oomlout_oomp_parts--rese-0603-x-o432-01-r6o432)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO4321R6O432 > oomlout_OOMP_parts : RESE-0603-X-O432-01-R6O432
+# FZOOMPKOOMPPRESE63XO4321R6O432 > oomlout_OOMP_parts : RESE-0603-X-O432-01-R6O432
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O432-01-R6O432
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO4321R6O432
+- Hex ID: FZOOMPKOOMPPRESE63XO4321R6O432
 - Name: oomlout_OOMP_parts : RESE-0603-X-O432-01-R6O432
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0603-X-O432-01-R6O432/
 - Description: oomlout_OOMP_parts : RESE-0603-X-O432-01-R6O432
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O432-01-R6O432](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O432-01-R6O432)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO4321R6O432](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO4321R6O432)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPRESE63XO4321R6O432](http://oom.lt/FZOOMPKOOMPPRESE63XO4321R6O432)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0603-X-O432-01-R6O432|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O432-01-R6O432|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO4321R6O432|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPRESE63XO4321R6O432|
 |name|name|oomlout_OOMP_parts : RESE-0603-X-O432-01-R6O432|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RESE-0603-X-O432-01-R6O432'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R6O432;PARTL C-JLCC;C23159;MANUF C-XXXX;0603WAF4301T5E; Resistor SMD 0603 (1608 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

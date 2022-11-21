@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Earphone
 - Hex ID: SZKDEVICEEARPHONE
 - Name: Device : Earphone
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Earphone/
 - Description: Device : Earphone
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Earphone](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Earphone)
 - Short Link: [http://oom.lt/SZKDEVICEEARPHONE](http://oom.lt/SZKDEVICEEARPHONE)

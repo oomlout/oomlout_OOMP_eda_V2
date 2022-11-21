@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74CB3T1G125
 - Hex ID: SZK74XGXX74CB3T1G125
 - Name: 74xGxx : 74CB3T1G125
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74CB3T1G125/
 - Description: 74xGxx : 74CB3T1G125
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74CB3T1G125](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74CB3T1G125)
 - Short Link: [http://oom.lt/SZK74XGXX74CB3T1G125](http://oom.lt/SZK74XGXX74CB3T1G125)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCSGAUGE1TYPE2SILKSCREENTOP > Calibration_Scale : Gauge_100mm_Type2_SilkScreenTop](#fzkcsgauge1type2silkscreentop--calibration_scale--gauge_100mm_type2_silkscreentop)
+* [FZKCSGAUGE1T2SILKSCREENTOP > Calibration_Scale : Gauge_100mm_Type2_SilkScreenTop](#fzkcsgauge1t2silkscreentop--calibration_scale--gauge_100mm_type2_silkscreentop)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCSGAUGE1TYPE2SILKSCREENTOP > Calibration_Scale : Gauge_100mm_Type2_SilkScreenTop
+# FZKCSGAUGE1T2SILKSCREENTOP > Calibration_Scale : Gauge_100mm_Type2_SilkScreenTop
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_100mm_Type2_SilkScreenTop
-- Hex ID: FZKCSGAUGE1TYPE2SILKSCREENTOP
+- Hex ID: FZKCSGAUGE1T2SILKSCREENTOP
 - Name: Calibration_Scale : Gauge_100mm_Type2_SilkScreenTop
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_100mm_Type2_SilkScreenTop/
 - Description: Calibration_Scale : Gauge_100mm_Type2_SilkScreenTop
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_100mm_Type2_SilkScreenTop](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_100mm_Type2_SilkScreenTop)
-- Short Link: [http://oom.lt/FZKCSGAUGE1TYPE2SILKSCREENTOP](http://oom.lt/FZKCSGAUGE1TYPE2SILKSCREENTOP)
+- Short Link: [http://oom.lt/FZKCSGAUGE1T2SILKSCREENTOP](http://oom.lt/FZKCSGAUGE1T2SILKSCREENTOP)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Calibration_Scale|
 |OOMP Index|oompIndex|Gauge_100mm_Type2_SilkScreenTop|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_100mm_Type2_SilkScreenTop|
-|Hex ID (short code)|hexID|FZKCSGAUGE1TYPE2SILKSCREENTOP|
+|Hex ID (short code)|hexID|FZKCSGAUGE1T2SILKSCREENTOP|
 |name|name|Calibration_Scale : Gauge_100mm_Type2_SilkScreenTop|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Gauge_100mm_Type2_SilkScreenTop'</td><td> 'description'</td></tr><tr><td> 'Gauge</td><td> Massstab</td><td> 100mm</td><td> SilkScreenTop</td><td> Type 2</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Gauge Massstab 100mm SilkScreenTop Type 2'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXRSSFECV3PIN69X29HANDSOLDERING > Crystal : Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering](#fzkxrssfecv3pin69x29handsoldering--crystal--resonator_smd_murata_sfecv-3pin_69x29mm_handsoldering)
+* [FZKXRSSFECV3P69X29HS > Crystal : Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering](#fzkxrssfecv3p69x29hs--crystal--resonator_smd_murata_sfecv-3pin_69x29mm_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXRSSFECV3PIN69X29HANDSOLDERING > Crystal : Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering
+# FZKXRSSFECV3P69X29HS > Crystal : Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering
-- Hex ID: FZKXRSSFECV3PIN69X29HANDSOLDERING
+- Hex ID: FZKXRSSFECV3P69X29HS
 - Name: Crystal : Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering/
 - Description: Crystal : Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering)
-- Short Link: [http://oom.lt/FZKXRSSFECV3PIN69X29HANDSOLDERING](http://oom.lt/FZKXRSSFECV3PIN69X29HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKXRSSFECV3P69X29HS](http://oom.lt/FZKXRSSFECV3P69X29HS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering|
-|Hex ID (short code)|hexID|FZKXRSSFECV3PIN69X29HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKXRSSFECV3P69X29HS|
 |name|name|Crystal : Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'SMD Resomator/Filter Murata SFECV</td><td> http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf</td><td> hand-soldering</td><td> 6.9x2.9mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT ceramic resonator filter filter hand-soldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

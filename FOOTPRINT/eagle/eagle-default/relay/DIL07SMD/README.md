@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-DIL07SMD
 - Hex ID: FZERELAYDIL7SM
 - Name: relay : DIL07SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/DIL07SMD/
 - Description: relay : DIL07SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-DIL07SMD](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-DIL07SMD)
 - Short Link: [http://oom.lt/FZERELAYDIL7SM](http://oom.lt/FZERELAYDIL7SM)

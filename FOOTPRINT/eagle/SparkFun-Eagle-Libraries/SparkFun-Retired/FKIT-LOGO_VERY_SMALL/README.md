@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-LOGO_VERY_SMALL
 - Hex ID: FZSRTFKITLVERYSLL
 - Name: SparkFun-Retired : FKIT-LOGO_VERY_SMALL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/FKIT-LOGO_VERY_SMALL/
 - Description: SparkFun-Retired : FKIT-LOGO_VERY_SMALL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-LOGO_VERY_SMALL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FKIT-LOGO_VERY_SMALL)
 - Short Link: [http://oom.lt/FZSRTFKITLVERYSLL](http://oom.lt/FZSRTFKITLVERYSLL)

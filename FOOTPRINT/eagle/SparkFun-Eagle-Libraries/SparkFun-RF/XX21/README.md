@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XX21
 - Hex ID: FZSRFXX21
 - Name: SparkFun-RF : XX21
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/XX21/
 - Description: SparkFun-RF : XX21
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XX21](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XX21)
 - Short Link: [http://oom.lt/FZSRFXX21](http://oom.lt/FZSRFXX21)

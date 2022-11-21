@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-3m-PAK100_2500-60
 - Hex ID: FZECON3MPAK1256
 - Name: con-3m : PAK100_2500-60
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-3m/PAK100_2500-60/
 - Description: con-3m : PAK100_2500-60
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-PAK100_2500-60](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-PAK100_2500-60)
 - Short Link: [http://oom.lt/FZECON3MPAK1256](http://oom.lt/FZECON3MPAK1256)

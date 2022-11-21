@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-dil-YC124
 - Hex ID: FZERESISTORDILYC124
 - Name: resistor-dil : YC124
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-dil/YC124/
 - Description: resistor-dil : YC124
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-YC124](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-YC124)
 - Short Link: [http://oom.lt/FZERESISTORDILYC124](http://oom.lt/FZERESISTORDILYC124)

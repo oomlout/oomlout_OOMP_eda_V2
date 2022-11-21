@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-7443
 - Hex ID: SZK74XXIEEE7443
 - Name: 74xx_IEEE : 7443
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/7443/
 - Description: 74xx_IEEE : 7443
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7443](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7443)
 - Short Link: [http://oom.lt/SZK74XXIEEE7443](http://oom.lt/SZK74XXIEEE7443)

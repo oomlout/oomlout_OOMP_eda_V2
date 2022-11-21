@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ANT-2.4GHZ-7.0X3.0MM-FRACTUS
 - Hex ID: FZSRFANT24GHZ7X3FRACTUS
 - Name: SparkFun-RF : ANT-2.4GHZ-7.0X3.0MM-FRACTUS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/ANT-2.4GHZ-7.0X3.0MM-FRACTUS/
 - Description: SparkFun-RF : ANT-2.4GHZ-7.0X3.0MM-FRACTUS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ANT-2.4GHZ-7.0X3.0MM-FRACTUS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ANT-2.4GHZ-7.0X3.0MM-FRACTUS)
 - Short Link: [http://oom.lt/FZSRFANT24GHZ7X3FRACTUS](http://oom.lt/FZSRFANT24GHZ7X3FRACTUS)

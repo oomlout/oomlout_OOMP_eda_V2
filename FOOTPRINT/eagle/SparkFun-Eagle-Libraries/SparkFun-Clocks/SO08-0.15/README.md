@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-SO08-0.15
 - Hex ID: FZSCLSO815
 - Name: SparkFun-Clocks : SO08-0.15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/SO08-0.15/
 - Description: SparkFun-Clocks : SO08-0.15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-SO08-0.15](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-SO08-0.15)
 - Short Link: [http://oom.lt/FZSCLSO815](http://oom.lt/FZSCLSO815)

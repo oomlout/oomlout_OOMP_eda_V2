@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS642
 - Hex ID: SZK74XXIEEE74LS642
 - Name: 74xx_IEEE : 74LS642
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74LS642/
 - Description: 74xx_IEEE : 74LS642
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS642](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS642)
 - Short Link: [http://oom.lt/SZK74XXIEEE74LS642](http://oom.lt/SZK74XXIEEE74LS642)

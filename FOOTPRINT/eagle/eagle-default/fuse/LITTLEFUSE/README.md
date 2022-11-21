@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-LITTLEFUSE
 - Hex ID: FZEFULITTLEFU
 - Name: fuse : LITTLEFUSE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/LITTLEFUSE/
 - Description: fuse : LITTLEFUSE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-LITTLEFUSE](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-LITTLEFUSE)
 - Short Link: [http://oom.lt/FZEFULITTLEFU](http://oom.lt/FZEFULITTLEFU)

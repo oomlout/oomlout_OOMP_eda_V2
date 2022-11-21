@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Micro_SD_Card_Det
 - Hex ID: SZKCNMSDCARDDET
 - Name: Connector : Micro_SD_Card_Det
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Micro_SD_Card_Det/
 - Description: Connector : Micro_SD_Card_Det
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Micro_SD_Card_Det](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Micro_SD_Card_Det)
 - Short Link: [http://oom.lt/SZKCNMSDCARDDET](http://oom.lt/SZKCNMSDCARDDET)

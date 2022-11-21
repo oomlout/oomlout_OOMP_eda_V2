@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-sn55-sn75-DIL08
 - Hex ID: FZETEXASSN55SN75DIL8
 - Name: texas-sn55-sn75 : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas-sn55-sn75/DIL08/
 - Description: texas-sn55-sn75 : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-sn55-sn75-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-sn55-sn75-DIL08)
 - Short Link: [http://oom.lt/FZETEXASSN55SN75DIL8](http://oom.lt/FZETEXASSN55SN75DIL8)

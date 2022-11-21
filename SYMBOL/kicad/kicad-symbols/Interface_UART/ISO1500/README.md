@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ISO1500
 - Hex ID: SZKINTERFACEUARTISO15
 - Name: Interface_UART : ISO1500
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ISO1500/
 - Description: Interface_UART : ISO1500
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISO1500](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISO1500)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTISO15](http://oom.lt/SZKINTERFACEUARTISO15)

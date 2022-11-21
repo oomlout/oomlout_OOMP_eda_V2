@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_WICED_Wifi
 - Hex ID: SZKMCUMOADAFEATHERWICEDWIFI
 - Name: MCU_Module : Adafruit_Feather_WICED_Wifi
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_WICED_Wifi/
 - Description: MCU_Module : Adafruit_Feather_WICED_Wifi
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_WICED_Wifi](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_WICED_Wifi)
 - Short Link: [http://oom.lt/SZKMCUMOADAFEATHERWICEDWIFI](http://oom.lt/SZKMCUMOADAFEATHERWICEDWIFI)

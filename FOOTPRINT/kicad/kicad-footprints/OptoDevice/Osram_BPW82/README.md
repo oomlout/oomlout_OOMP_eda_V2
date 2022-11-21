@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_BPW82
 - Hex ID: FZKOPOSRAMBPW82
 - Name: OptoDevice : Osram_BPW82
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_BPW82/
 - Description: OptoDevice : Osram_BPW82
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_BPW82](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_BPW82)
 - Short Link: [http://oom.lt/FZKOPOSRAMBPW82](http://oom.lt/FZKOPOSRAMBPW82)

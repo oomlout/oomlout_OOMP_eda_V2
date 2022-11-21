@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-SH22
 - Hex ID: FZEFUSH22
 - Name: fuse : SH22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/SH22/
 - Description: fuse : SH22
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-SH22](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-SH22)
 - Short Link: [http://oom.lt/FZEFUSH22](http://oom.lt/FZEFUSH22)

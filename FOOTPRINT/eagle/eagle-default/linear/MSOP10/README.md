@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-MSOP10
 - Hex ID: FZELINEARMS1
 - Name: linear : MSOP10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/MSOP10/
 - Description: linear : MSOP10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-MSOP10](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-MSOP10)
 - Short Link: [http://oom.lt/FZELINEARMS1](http://oom.lt/FZELINEARMS1)

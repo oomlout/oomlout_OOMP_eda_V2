@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BA283
 - Hex ID: SZKDIODEBA283
 - Name: Diode : BA283
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BA283/
 - Description: Diode : BA283
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA283](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA283)
 - Short Link: [http://oom.lt/SZKDIODEBA283](http://oom.lt/SZKDIODEBA283)

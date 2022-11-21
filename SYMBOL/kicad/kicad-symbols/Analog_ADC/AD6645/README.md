@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD6645
 - Hex ID: SZKANALOGADCAD6645
 - Name: Analog_ADC : AD6645
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD6645/
 - Description: Analog_ADC : AD6645
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD6645](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD6645)
 - Short Link: [http://oom.lt/SZKANALOGADCAD6645](http://oom.lt/SZKANALOGADCAD6645)

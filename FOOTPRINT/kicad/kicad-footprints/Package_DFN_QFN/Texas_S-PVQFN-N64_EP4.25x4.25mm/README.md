@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N64_EP4.25x4.25mm
 - Hex ID: FZKDFNTEXASSPVQFNN64EP425X425
 - Name: Package_DFN_QFN : Texas_S-PVQFN-N64_EP4.25x4.25mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N64_EP4.25x4.25mm/
 - Description: Package_DFN_QFN : Texas_S-PVQFN-N64_EP4.25x4.25mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N64_EP4.25x4.25mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N64_EP4.25x4.25mm)
 - Short Link: [http://oom.lt/FZKDFNTEXASSPVQFNN64EP425X425](http://oom.lt/FZKDFNTEXASSPVQFNN64EP425X425)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP184xSE
 - Hex ID: SZKISOLATORTLP184XSE
 - Name: Isolator : TLP184xSE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TLP184xSE/
 - Description: Isolator : TLP184xSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP184xSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP184xSE)
 - Short Link: [http://oom.lt/SZKISOLATORTLP184XSE](http://oom.lt/SZKISOLATORTLP184XSE)

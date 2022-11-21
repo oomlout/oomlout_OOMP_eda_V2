@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SA15-11EWA
 - Hex ID: SZKDICHARACTERSA1511EWA
 - Name: Display_Character : SA15-11EWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/SA15-11EWA/
 - Description: Display_Character : SA15-11EWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA15-11EWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA15-11EWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSA1511EWA](http://oom.lt/SZKDICHARACTERSA1511EWA)

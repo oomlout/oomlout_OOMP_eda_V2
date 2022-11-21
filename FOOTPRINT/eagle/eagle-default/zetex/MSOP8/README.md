@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-zetex-MSOP8
 - Hex ID: FZEZETEXMS8
 - Name: zetex : MSOP8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/MSOP8/
 - Description: zetex : MSOP8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-MSOP8](http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-MSOP8)
 - Short Link: [http://oom.lt/FZEZETEXMS8](http://oom.lt/FZEZETEXMS8)

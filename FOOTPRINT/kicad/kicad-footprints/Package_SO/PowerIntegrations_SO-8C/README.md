@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerIntegrations_SO-8C
 - Hex ID: FZKSOPOWERINTEGRATIONSSO8C
 - Name: Package_SO : PowerIntegrations_SO-8C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/PowerIntegrations_SO-8C/
 - Description: Package_SO : PowerIntegrations_SO-8C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerIntegrations_SO-8C](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerIntegrations_SO-8C)
 - Short Link: [http://oom.lt/FZKSOPOWERINTEGRATIONSSO8C](http://oom.lt/FZKSOPOWERINTEGRATIONSSO8C)

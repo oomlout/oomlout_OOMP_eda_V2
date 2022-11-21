@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-busbar-TE3_9
 - Hex ID: FZEBUARTE39
 - Name: busbar : TE3_9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/busbar/TE3_9/
 - Description: busbar : TE3_9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-busbar-TE3_9](http://oom.lt/FOOTPRINT-eagle-eagle-default-busbar-TE3_9)
 - Short Link: [http://oom.lt/FZEBUARTE39](http://oom.lt/FZEBUARTE39)

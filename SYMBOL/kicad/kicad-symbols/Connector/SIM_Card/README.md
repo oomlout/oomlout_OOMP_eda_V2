@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-SIM_Card
 - Hex ID: SZKCNSIMCARD
 - Name: Connector : SIM_Card
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/SIM_Card/
 - Description: Connector : SIM_Card
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SIM_Card](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SIM_Card)
 - Short Link: [http://oom.lt/SZKCNSIMCARD](http://oom.lt/SZKCNSIMCARD)

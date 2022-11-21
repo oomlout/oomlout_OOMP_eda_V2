@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNSUMBVERTICAL > SparkFun-Connectors : USB_MICROB_VERTICAL](#fzssparkfuncnsumbvertical--sparkfun-connectors--usb_microb_vertical)
+* [FZSSPARKFUNCNSUMBF > SparkFun-Connectors : USB_MICROB_VERTICAL](#fzssparkfuncnsumbf--sparkfun-connectors--usb_microb_vertical)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNSUMBVERTICAL > SparkFun-Connectors : USB_MICROB_VERTICAL
+# FZSSPARKFUNCNSUMBF > SparkFun-Connectors : USB_MICROB_VERTICAL
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB_MICROB_VERTICAL
-- Hex ID: FZSSPARKFUNCNSUMBVERTICAL
+- Hex ID: FZSSPARKFUNCNSUMBF
 - Name: SparkFun-Connectors : USB_MICROB_VERTICAL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB_MICROB_VERTICAL/
 - Description: SparkFun-Connectors : USB_MICROB_VERTICAL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB_MICROB_VERTICAL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB_MICROB_VERTICAL)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNSUMBVERTICAL](http://oom.lt/FZSSPARKFUNCNSUMBVERTICAL)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNSUMBF](http://oom.lt/FZSSPARKFUNCNSUMBF)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|USB_MICROB_VERTICAL|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB_MICROB_VERTICAL|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNSUMBVERTICAL|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNSUMBF|
 |name|name|SparkFun-Connectors : USB_MICROB_VERTICAL|
 ||||

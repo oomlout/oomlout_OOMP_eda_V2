@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC108
 - Hex ID: SZKDIODEBRIDGEVSKBPC18
 - Name: Diode_Bridge : VS-KBPC108
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/VS-KBPC108/
 - Description: Diode_Bridge : VS-KBPC108
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC108](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC108)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEVSKBPC18](http://oom.lt/SZKDIODEBRIDGEVSKBPC18)

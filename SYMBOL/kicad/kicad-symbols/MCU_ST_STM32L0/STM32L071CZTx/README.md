@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L071CZTx
 - Hex ID: SZKMCUSTSTM32LSTM32L71CZTX
 - Name: MCU_ST_STM32L0 : STM32L071CZTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L071CZTx/
 - Description: MCU_ST_STM32L0 : STM32L071CZTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L071CZTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L071CZTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32LSTM32L71CZTX](http://oom.lt/SZKMCUSTSTM32LSTM32L71CZTX)

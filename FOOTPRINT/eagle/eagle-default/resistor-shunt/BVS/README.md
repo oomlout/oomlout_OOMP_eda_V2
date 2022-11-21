@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-shunt-BVS
 - Hex ID: FZERESISTORSHUNTBVS
 - Name: resistor-shunt : BVS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-shunt/BVS/
 - Description: resistor-shunt : BVS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-BVS](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-BVS)
 - Short Link: [http://oom.lt/FZERESISTORSHUNTBVS](http://oom.lt/FZERESISTORSHUNTBVS)

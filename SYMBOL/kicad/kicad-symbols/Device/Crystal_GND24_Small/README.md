@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Crystal_GND24_Small
 - Hex ID: SZKDEVICEXGND24SLL
 - Name: Device : Crystal_GND24_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Crystal_GND24_Small/
 - Description: Device : Crystal_GND24_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Crystal_GND24_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Crystal_GND24_Small)
 - Short Link: [http://oom.lt/SZKDEVICEXGND24SLL](http://oom.lt/SZKDEVICEXGND24SLL)

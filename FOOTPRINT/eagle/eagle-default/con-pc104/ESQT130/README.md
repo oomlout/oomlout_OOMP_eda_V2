@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc104-ESQT130
 - Hex ID: FZECONPC14ESQT13
 - Name: con-pc104 : ESQT130
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc104/ESQT130/
 - Description: con-pc104 : ESQT130
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc104-ESQT130](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc104-ESQT130)
 - Short Link: [http://oom.lt/FZECONPC14ESQT13](http://oom.lt/FZECONPC14ESQT13)

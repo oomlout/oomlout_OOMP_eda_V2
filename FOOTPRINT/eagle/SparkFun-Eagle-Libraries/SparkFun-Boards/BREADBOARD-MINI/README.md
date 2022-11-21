@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-BREADBOARD-MINI
 - Hex ID: FZSBOBREADBOARDM
 - Name: SparkFun-Boards : BREADBOARD-MINI
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/BREADBOARD-MINI/
 - Description: SparkFun-Boards : BREADBOARD-MINI
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-BREADBOARD-MINI](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-BREADBOARD-MINI)
 - Short Link: [http://oom.lt/FZSBOBREADBOARDM](http://oom.lt/FZSBOBREADBOARDM)

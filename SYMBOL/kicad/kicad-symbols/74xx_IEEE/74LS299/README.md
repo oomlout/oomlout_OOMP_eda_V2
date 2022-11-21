@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS299
 - Hex ID: SZK74XXIEEE74LS299
 - Name: 74xx_IEEE : 74LS299
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74LS299/
 - Description: 74xx_IEEE : 74LS299
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS299](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS299)
 - Short Link: [http://oom.lt/SZK74XXIEEE74LS299](http://oom.lt/SZK74XXIEEE74LS299)

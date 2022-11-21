@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCCPAXIALL38D18P44HORIZONTAL > Capacitor_THT : CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal](#fzkccpaxiall38d18p44horizontal--capacitor_tht--cp_axial_l380mm_d180mm_p4400mm_horizontal)
+* [FZKCCPAXIALL38D18P44H > Capacitor_THT : CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal](#fzkccpaxiall38d18p44h--capacitor_tht--cp_axial_l380mm_d180mm_p4400mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCCPAXIALL38D18P44HORIZONTAL > Capacitor_THT : CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal
+# FZKCCPAXIALL38D18P44H > Capacitor_THT : CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal
-- Hex ID: FZKCCPAXIALL38D18P44HORIZONTAL
+- Hex ID: FZKCCPAXIALL38D18P44H
 - Name: Capacitor_THT : CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal/
 - Description: Capacitor_THT : CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCCPAXIALL38D18P44HORIZONTAL](http://oom.lt/FZKCCPAXIALL38D18P44HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCCPAXIALL38D18P44H](http://oom.lt/FZKCCPAXIALL38D18P44H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_THT|
 |OOMP Index|oompIndex|CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCCPAXIALL38D18P44HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCCPAXIALL38D18P44H|
 |name|name|Capacitor_THT : CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'CP</td><td> Axial series</td><td> Axial</td><td> Horizontal</td><td> pin pitch=44mm</td><td> </td><td> length*diameter=38*18mm^2</td><td> Electrolytic Capacitor</td><td> </td><td> http</td></tr><tr><td>//www.vishay.com/docs/28325/021asm.pdf'</td><td> 'tags'</td></tr><tr><td> 'CP Axial series Axial Horizontal pin pitch 44mm  length 38mm diameter 18mm Electrolytic Capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_THT.3dshapes/CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

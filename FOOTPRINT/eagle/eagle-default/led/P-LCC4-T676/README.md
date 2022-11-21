@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-P-LCC4-T676
 - Hex ID: FZELPLCC4T676
 - Name: led : P-LCC4-T676
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/P-LCC4-T676/
 - Description: led : P-LCC4-T676
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-P-LCC4-T676](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-P-LCC4-T676)
 - Short Link: [http://oom.lt/FZELPLCC4T676](http://oom.lt/FZELPLCC4T676)

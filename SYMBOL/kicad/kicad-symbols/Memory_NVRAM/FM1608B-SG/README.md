@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_NVRAM-FM1608B-SG
 - Hex ID: SZKMEMORYNVRAMFM168BSG
 - Name: Memory_NVRAM : FM1608B-SG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/FM1608B-SG/
 - Description: Memory_NVRAM : FM1608B-SG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-FM1608B-SG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-FM1608B-SG)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMFM168BSG](http://oom.lt/SZKMEMORYNVRAMFM168BSG)

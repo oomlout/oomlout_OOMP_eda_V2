@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-STAT_TO
 - Hex ID: FZSBUSTATTO
 - Name: SparkFun-Buzzard : STAT_TO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/STAT_TO/
 - Description: SparkFun-Buzzard : STAT_TO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-STAT_TO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-STAT_TO)
 - Short Link: [http://oom.lt/FZSBUSTATTO](http://oom.lt/FZSBUSTATTO)

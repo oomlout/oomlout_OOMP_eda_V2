@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-SANYO-OSCON_SMD_E7
 - Hex ID: FZERCLSANYOOSCONSME7
 - Name: rcl : SANYO-OSCON_SMD_E7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/SANYO-OSCON_SMD_E7/
 - Description: rcl : SANYO-OSCON_SMD_E7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-SANYO-OSCON_SMD_E7](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-SANYO-OSCON_SMD_E7)
 - Short Link: [http://oom.lt/FZERCLSANYOOSCONSME7](http://oom.lt/FZERCLSANYOOSCONSME7)

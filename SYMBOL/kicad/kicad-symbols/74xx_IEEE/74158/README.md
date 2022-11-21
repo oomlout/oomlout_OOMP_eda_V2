@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74158
 - Hex ID: SZK74XXIEEE74158
 - Name: 74xx_IEEE : 74158
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74158/
 - Description: 74xx_IEEE : 74158
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74158](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74158)
 - Short Link: [http://oom.lt/SZK74XXIEEE74158](http://oom.lt/SZK74XXIEEE74158)

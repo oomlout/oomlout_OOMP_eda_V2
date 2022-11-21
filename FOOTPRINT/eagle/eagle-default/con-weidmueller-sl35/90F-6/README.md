@@ -6,19 +6,27 @@ Contents
 ========
 
 * [FZECONWEIDMUELLERSL359F6 > con-weidmueller-sl35 : 90F-6](#fzeconweidmuellersl359f6--con-weidmueller-sl35--90f-6)
+	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONWEIDMUELLERSL359F6 > con-weidmueller-sl35 : 90F-6
 
 - ID: FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-90F-6
 - Hex ID: FZECONWEIDMUELLERSL359F6
 - Name: con-weidmueller-sl35 : 90F-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/90F-6/
 - Description: con-weidmueller-sl35 : 90F-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-90F-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-90F-6)
 - Short Link: [http://oom.lt/FZECONWEIDMUELLERSL359F6](http://oom.lt/FZECONWEIDMUELLERSL359F6)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/90F-6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/90F-6/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/90F-6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/90F-6/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/90F-6/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/90F-6/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/90F-6/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/90F-6/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/90F-6/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/90F-6/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -33,3 +41,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONWEIDMUELLERSL359F6|
 |name|name|con-weidmueller-sl35 : 90F-6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

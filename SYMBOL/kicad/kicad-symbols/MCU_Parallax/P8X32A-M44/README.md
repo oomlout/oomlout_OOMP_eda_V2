@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Parallax-P8X32A-M44
 - Hex ID: SZKMCUPARALLAXP8X32AM44
 - Name: MCU_Parallax : P8X32A-M44
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Parallax/P8X32A-M44/
 - Description: MCU_Parallax : P8X32A-M44
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Parallax-P8X32A-M44](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Parallax-P8X32A-M44)
 - Short Link: [http://oom.lt/SZKMCUPARALLAXP8X32AM44](http://oom.lt/SZKMCUPARALLAXP8X32AM44)

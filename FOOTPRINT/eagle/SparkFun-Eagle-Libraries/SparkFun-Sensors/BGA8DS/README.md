@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BGA8DS
 - Hex ID: FZSSPARKFUNSENSBGA8DS
 - Name: SparkFun-Sensors : BGA8DS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/BGA8DS/
 - Description: SparkFun-Sensors : BGA8DS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BGA8DS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BGA8DS)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSBGA8DS](http://oom.lt/FZSSPARKFUNSENSBGA8DS)

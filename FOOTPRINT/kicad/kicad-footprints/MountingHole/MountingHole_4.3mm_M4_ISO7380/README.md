@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4.3mm_M4_ISO7380
 - Hex ID: FZKHOLHOL43M4ISO738
 - Name: MountingHole : MountingHole_4.3mm_M4_ISO7380
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_4.3mm_M4_ISO7380/
 - Description: MountingHole : MountingHole_4.3mm_M4_ISO7380
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4.3mm_M4_ISO7380](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4.3mm_M4_ISO7380)
 - Short Link: [http://oom.lt/FZKHOLHOL43M4ISO738](http://oom.lt/FZKHOLHOL43M4ISO738)

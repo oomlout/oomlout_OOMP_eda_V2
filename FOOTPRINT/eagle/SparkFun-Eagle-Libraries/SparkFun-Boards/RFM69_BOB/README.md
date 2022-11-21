@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-RFM69_BOB
 - Hex ID: FZSBORFM69BOB
 - Name: SparkFun-Boards : RFM69_BOB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/RFM69_BOB/
 - Description: SparkFun-Boards : RFM69_BOB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-RFM69_BOB](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-RFM69_BOB)
 - Short Link: [http://oom.lt/FZSBORFM69BOB](http://oom.lt/FZSBORFM69BOB)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIODESMDMELF > Diode_SMD : D_MELF](#fzkdiodesmdmelf--diode_smd--d_melf)
+* [FZKDDMELF > Diode_SMD : D_MELF](#fzkddmelf--diode_smd--d_melf)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMDMELF > Diode_SMD : D_MELF
+# FZKDDMELF > Diode_SMD : D_MELF
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MELF
-- Hex ID: FZKDIODESMDMELF
+- Hex ID: FZKDDMELF
 - Name: Diode_SMD : D_MELF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MELF/
 - Description: Diode_SMD : D_MELF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MELF](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MELF)
-- Short Link: [http://oom.lt/FZKDIODESMDMELF](http://oom.lt/FZKDIODESMDMELF)
+- Short Link: [http://oom.lt/FZKDDMELF](http://oom.lt/FZKDDMELF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_MELF|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MELF|
-|Hex ID (short code)|hexID|FZKDIODESMDMELF|
+|Hex ID (short code)|hexID|FZKDDMELF|
 |name|name|Diode_SMD : D_MELF|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_MELF'</td><td> 'description'</td></tr><tr><td> 'Diode</td><td> MELF</td><td></td><td>'</td><td> 'tags'</td></tr><tr><td> 'Diode MELF '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_MELF.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

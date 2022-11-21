@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cpci-064782
 - Hex ID: FZECONCPCI64782
 - Name: con-cpci : 064782
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cpci/064782/
 - Description: con-cpci : 064782
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-064782](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-064782)
 - Short Link: [http://oom.lt/FZECONCPCI64782](http://oom.lt/FZECONCPCI64782)

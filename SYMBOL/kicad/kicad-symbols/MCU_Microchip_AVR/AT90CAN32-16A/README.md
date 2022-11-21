@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90CAN32-16A
 - Hex ID: SZKMCUMCHIPAVRAT9CAN3216A
 - Name: MCU_Microchip_AVR : AT90CAN32-16A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR/AT90CAN32-16A/
 - Description: MCU_Microchip_AVR : AT90CAN32-16A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90CAN32-16A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90CAN32-16A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRAT9CAN3216A](http://oom.lt/SZKMCUMCHIPAVRAT9CAN3216A)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-E7,5-16
 - Hex ID: FZERCLE7516
 - Name: rcl : E7,5-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/E7,5-16/
 - Description: rcl : E7,5-16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E7,5-16](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E7,5-16)
 - Short Link: [http://oom.lt/FZERCLE7516](http://oom.lt/FZERCLE7516)

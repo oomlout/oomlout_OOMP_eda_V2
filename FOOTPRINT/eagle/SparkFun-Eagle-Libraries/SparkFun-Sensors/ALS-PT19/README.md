@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ALS-PT19
 - Hex ID: FZSSPARKFUNSENSALSPT19
 - Name: SparkFun-Sensors : ALS-PT19
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/ALS-PT19/
 - Description: SparkFun-Sensors : ALS-PT19
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ALS-PT19](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ALS-PT19)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSALSPT19](http://oom.lt/FZSSPARKFUNSENSALSPT19)

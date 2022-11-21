@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F207ZG
 - Hex ID: SZKMCUMONUCLEO144F27ZG
 - Name: MCU_Module : NUCLEO144-F207ZG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F207ZG/
 - Description: MCU_Module : NUCLEO144-F207ZG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F207ZG](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F207ZG)
 - Short Link: [http://oom.lt/SZKMCUMONUCLEO144F27ZG](http://oom.lt/SZKMCUMONUCLEO144F27ZG)

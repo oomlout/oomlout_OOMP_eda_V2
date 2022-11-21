@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SOIC-14
 - Hex ID: FZSRTSOIC14
 - Name: SparkFun-Retired : SOIC-14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SOIC-14/
 - Description: SparkFun-Retired : SOIC-14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SOIC-14](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SOIC-14)
 - Short Link: [http://oom.lt/FZSRTSOIC14](http://oom.lt/FZSRTSOIC14)

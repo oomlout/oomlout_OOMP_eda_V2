@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGLM2574HVN15 > Regulator_Switching : LM2574HVN-15](#szkregulatorswitchinglm2574hvn15--regulator_switching--lm2574hvn-15)
+* [SZKREGULATORSWINGLM2574HVN15 > Regulator_Switching : LM2574HVN-15](#szkregulatorswinglm2574hvn15--regulator_switching--lm2574hvn-15)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGLM2574HVN15 > Regulator_Switching : LM2574HVN-15
+# SZKREGULATORSWINGLM2574HVN15 > Regulator_Switching : LM2574HVN-15
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2574HVN-15
-- Hex ID: SZKREGULATORSWITCHINGLM2574HVN15
+- Hex ID: SZKREGULATORSWINGLM2574HVN15
 - Name: Regulator_Switching : LM2574HVN-15
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2574HVN-15/
 - Description: Regulator_Switching : LM2574HVN-15
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2574HVN-15](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2574HVN-15)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM2574HVN15](http://oom.lt/SZKREGULATORSWITCHINGLM2574HVN15)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGLM2574HVN15](http://oom.lt/SZKREGULATORSWINGLM2574HVN15)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|LM2574HVN-15|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2574HVN-15|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2574HVN15|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGLM2574HVN15|
 |name|name|Regulator_Switching : LM2574HVN-15|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM2574HVN-12'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM2574HVN-15'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.national.com/ds/LM/LM2574.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Step-Down Voltage Regulator 15V 500mA HV'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '15V</td><td> 0.5A SIMPLE SWITCHERÂ® Step-Down Voltage Regulator</td><td> High Voltage Input</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

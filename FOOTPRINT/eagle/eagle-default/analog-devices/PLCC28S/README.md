@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-PLCC28S
 - Hex ID: FZEANALOGDEVICESPLCC28S
 - Name: analog-devices : PLCC28S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/PLCC28S/
 - Description: analog-devices : PLCC28S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PLCC28S](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PLCC28S)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESPLCC28S](http://oom.lt/FZEANALOGDEVICESPLCC28S)

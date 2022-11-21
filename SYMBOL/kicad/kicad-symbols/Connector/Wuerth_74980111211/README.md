@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Wuerth_74980111211
 - Hex ID: SZKCNWUERTH7498111211
 - Name: Connector : Wuerth_74980111211
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Wuerth_74980111211/
 - Description: Connector : Wuerth_74980111211
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Wuerth_74980111211](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Wuerth_74980111211)
 - Short Link: [http://oom.lt/SZKCNWUERTH7498111211](http://oom.lt/SZKCNWUERTH7498111211)

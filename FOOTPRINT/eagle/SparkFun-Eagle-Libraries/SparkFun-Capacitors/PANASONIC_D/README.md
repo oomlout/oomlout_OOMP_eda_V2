@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-PANASONIC_D
 - Hex ID: FZSSPARKFUNCAPACITORSPD
 - Name: SparkFun-Capacitors : PANASONIC_D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/PANASONIC_D/
 - Description: SparkFun-Capacitors : PANASONIC_D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-PANASONIC_D](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-PANASONIC_D)
 - Short Link: [http://oom.lt/FZSSPARKFUNCAPACITORSPD](http://oom.lt/FZSSPARKFUNCAPACITORSPD)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL02Z32CAF4
 - Hex ID: SZKMCUNXPKINETISMKL2Z32CAF4
 - Name: MCU_NXP_Kinetis : MKL02Z32CAF4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL02Z32CAF4/
 - Description: MCU_NXP_Kinetis : MKL02Z32CAF4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL02Z32CAF4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL02Z32CAF4)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL2Z32CAF4](http://oom.lt/SZKMCUNXPKINETISMKL2Z32CAF4)

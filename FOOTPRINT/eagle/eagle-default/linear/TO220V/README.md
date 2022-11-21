@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-TO220V
 - Hex ID: FZELINEARTO22V
 - Name: linear : TO220V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/TO220V/
 - Description: linear : TO220V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO220V](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO220V)
 - Short Link: [http://oom.lt/FZELINEARTO22V](http://oom.lt/FZELINEARTO22V)

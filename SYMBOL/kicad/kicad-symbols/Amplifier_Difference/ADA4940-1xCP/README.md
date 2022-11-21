@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Difference-ADA4940-1xCP
 - Hex ID: SZKAMPLIFIERDIFFERENCEADA4941XCP
 - Name: Amplifier_Difference : ADA4940-1xCP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/ADA4940-1xCP/
 - Description: Amplifier_Difference : ADA4940-1xCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-ADA4940-1xCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-ADA4940-1xCP)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCEADA4941XCP](http://oom.lt/SZKAMPLIFIERDIFFERENCEADA4941XCP)

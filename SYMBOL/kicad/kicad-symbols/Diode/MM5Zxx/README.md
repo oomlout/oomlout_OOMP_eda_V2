@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MM5Zxx
 - Hex ID: SZKDIODE5ZXX
 - Name: Diode : MM5Zxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MM5Zxx/
 - Description: Diode : MM5Zxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MM5Zxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MM5Zxx)
 - Short Link: [http://oom.lt/SZKDIODE5ZXX](http://oom.lt/SZKDIODE5ZXX)

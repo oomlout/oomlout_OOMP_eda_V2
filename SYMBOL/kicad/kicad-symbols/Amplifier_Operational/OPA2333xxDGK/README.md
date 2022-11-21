@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2333xxDGK
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA2333XXDGK
 - Name: Amplifier_Operational : OPA2333xxDGK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2333xxDGK/
 - Description: Amplifier_Operational : OPA2333xxDGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2333xxDGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2333xxDGK)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2333XXDGK](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2333XXDGK)

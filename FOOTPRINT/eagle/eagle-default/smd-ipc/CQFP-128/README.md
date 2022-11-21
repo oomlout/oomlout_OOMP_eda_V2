@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-128
 - Hex ID: FZESMIPCCQFP128
 - Name: smd-ipc : CQFP-128
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/CQFP-128/
 - Description: smd-ipc : CQFP-128
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-128](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-128)
 - Short Link: [http://oom.lt/FZESMIPCCQFP128](http://oom.lt/FZESMIPCCQFP128)

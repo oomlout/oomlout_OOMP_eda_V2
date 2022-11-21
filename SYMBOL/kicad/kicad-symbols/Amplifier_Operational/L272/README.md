@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-L272
 - Hex ID: SZKAMPLIFIEROPERATIONALL272
 - Name: Amplifier_Operational : L272
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/L272/
 - Description: Amplifier_Operational : L272
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-L272](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-L272)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALL272](http://oom.lt/SZKAMPLIFIEROPERATIONALL272)

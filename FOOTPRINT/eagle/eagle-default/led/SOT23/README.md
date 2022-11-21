@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-SOT23
 - Hex ID: FZELSOT23
 - Name: led : SOT23
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/SOT23/
 - Description: led : SOT23
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SOT23](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SOT23)
 - Short Link: [http://oom.lt/FZELSOT23](http://oom.lt/FZELSOT23)

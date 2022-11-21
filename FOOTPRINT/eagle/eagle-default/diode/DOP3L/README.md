@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-DOP3L
 - Hex ID: FZEDIODEDOP3L
 - Name: diode : DOP3L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/DOP3L/
 - Description: diode : DOP3L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DOP3L](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DOP3L)
 - Short Link: [http://oom.lt/FZEDIODEDOP3L](http://oom.lt/FZEDIODEDOP3L)

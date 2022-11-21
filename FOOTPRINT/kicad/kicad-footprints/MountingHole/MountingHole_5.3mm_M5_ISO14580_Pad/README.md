@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL53M5ISO1458PAD > MountingHole : MountingHole_5.3mm_M5_ISO14580_Pad](#fzkholhol53m5iso1458pad--mountinghole--mountinghole_53mm_m5_iso14580_pad)
+* [FZKHOLHOL53M5ISO1458P > MountingHole : MountingHole_5.3mm_M5_ISO14580_Pad](#fzkholhol53m5iso1458p--mountinghole--mountinghole_53mm_m5_iso14580_pad)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL53M5ISO1458PAD > MountingHole : MountingHole_5.3mm_M5_ISO14580_Pad
+# FZKHOLHOL53M5ISO1458P > MountingHole : MountingHole_5.3mm_M5_ISO14580_Pad
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_ISO14580_Pad
-- Hex ID: FZKHOLHOL53M5ISO1458PAD
+- Hex ID: FZKHOLHOL53M5ISO1458P
 - Name: MountingHole : MountingHole_5.3mm_M5_ISO14580_Pad
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_5.3mm_M5_ISO14580_Pad/
 - Description: MountingHole : MountingHole_5.3mm_M5_ISO14580_Pad
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_ISO14580_Pad](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_ISO14580_Pad)
-- Short Link: [http://oom.lt/FZKHOLHOL53M5ISO1458PAD](http://oom.lt/FZKHOLHOL53M5ISO1458PAD)
+- Short Link: [http://oom.lt/FZKHOLHOL53M5ISO1458P](http://oom.lt/FZKHOLHOL53M5ISO1458P)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_5.3mm_M5_ISO14580_Pad|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_ISO14580_Pad|
-|Hex ID (short code)|hexID|FZKHOLHOL53M5ISO1458PAD|
+|Hex ID (short code)|hexID|FZKHOLHOL53M5ISO1458P|
 |name|name|MountingHole : MountingHole_5.3mm_M5_ISO14580_Pad|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_5.3mm_M5_ISO14580_Pad'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 5.3mm</td><td> M5</td><td> ISO14580'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 5.3mm m5 iso14580'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

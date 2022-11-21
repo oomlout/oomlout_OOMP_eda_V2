@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_PotterBrumfield_T9AP1D52_12V30A
 - Hex ID: FZKRELRELAYSPSTPOTTERBRUMFIELDT9AP1D5212V3A
 - Name: Relay_THT : Relay_SPST_PotterBrumfield_T9AP1D52_12V30A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/
 - Description: Relay_THT : Relay_SPST_PotterBrumfield_T9AP1D52_12V30A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_PotterBrumfield_T9AP1D52_12V30A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_PotterBrumfield_T9AP1D52_12V30A)
 - Short Link: [http://oom.lt/FZKRELRELAYSPSTPOTTERBRUMFIELDT9AP1D5212V3A](http://oom.lt/FZKRELRELAYSPSTPOTTERBRUMFIELDT9AP1D5212V3A)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-6P2C_Shielded
 - Hex ID: SZKCN6P2CSHED
 - Name: Connector : 6P2C_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/6P2C_Shielded/
 - Description: Connector : 6P2C_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-6P2C_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-6P2C_Shielded)
 - Short Link: [http://oom.lt/SZKCN6P2CSHED](http://oom.lt/SZKCN6P2CSHED)

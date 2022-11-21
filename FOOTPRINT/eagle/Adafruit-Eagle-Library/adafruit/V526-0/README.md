@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-V526-0
 - Hex ID: FZAV526
 - Name: adafruit : V526-0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/V526-0/
 - Description: adafruit : V526-0
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-V526-0](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-V526-0)
 - Short Link: [http://oom.lt/FZAV526](http://oom.lt/FZAV526)

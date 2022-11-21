@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2014-3.0VxCTTR
 - Hex ID: SZKREGULATORLINEARTC2143VXCTTR
 - Name: Regulator_Linear : TC2014-3.0VxCTTR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC2014-3.0VxCTTR/
 - Description: Regulator_Linear : TC2014-3.0VxCTTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2014-3.0VxCTTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2014-3.0VxCTTR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC2143VXCTTR](http://oom.lt/SZKREGULATORLINEARTC2143VXCTTR)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MK20FX512VMD12
 - Hex ID: SZKMCUNXPKINETISMK2FX512VMD12
 - Name: MCU_NXP_Kinetis : MK20FX512VMD12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MK20FX512VMD12/
 - Description: MCU_NXP_Kinetis : MK20FX512VMD12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MK20FX512VMD12](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MK20FX512VMD12)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMK2FX512VMD12](http://oom.lt/SZKMCUNXPKINETISMK2FX512VMD12)

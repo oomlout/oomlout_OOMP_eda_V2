@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ8081RNA
 - Hex ID: SZKINTERFACEETHERNETKSZ881RNA
 - Name: Interface_Ethernet : KSZ8081RNA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ8081RNA/
 - Description: Interface_Ethernet : KSZ8081RNA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ8081RNA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ8081RNA)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETKSZ881RNA](http://oom.lt/SZKINTERFACEETHERNETKSZ881RNA)

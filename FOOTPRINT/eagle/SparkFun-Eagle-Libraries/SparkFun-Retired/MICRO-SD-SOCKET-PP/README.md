@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MICRO-SD-SOCKET-PP
 - Hex ID: FZSRTMSDSOPP
 - Name: SparkFun-Retired : MICRO-SD-SOCKET-PP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/MICRO-SD-SOCKET-PP/
 - Description: SparkFun-Retired : MICRO-SD-SOCKET-PP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MICRO-SD-SOCKET-PP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MICRO-SD-SOCKET-PP)
 - Short Link: [http://oom.lt/FZSRTMSDSOPP](http://oom.lt/FZSRTMSDSOPP)

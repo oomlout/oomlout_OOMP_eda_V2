@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USB-MINIB-OLD
 - Hex ID: FZSRTUMBOLD
 - Name: SparkFun-Retired : USB-MINIB-OLD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/USB-MINIB-OLD/
 - Description: SparkFun-Retired : USB-MINIB-OLD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USB-MINIB-OLD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USB-MINIB-OLD)
 - Short Link: [http://oom.lt/FZSRTUMBOLD](http://oom.lt/FZSRTUMBOLD)

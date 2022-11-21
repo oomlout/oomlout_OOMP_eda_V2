@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHM94P2 > switch : M9040P2](#fzeswitchm94p2--switch--m9040p2)
+* [FZESWM94P2 > switch : M9040P2](#fzeswm94p2--switch--m9040p2)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHM94P2 > switch : M9040P2
+# FZESWM94P2 > switch : M9040P2
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-M9040P2
-- Hex ID: FZESWITCHM94P2
+- Hex ID: FZESWM94P2
 - Name: switch : M9040P2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/M9040P2/
 - Description: switch : M9040P2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-M9040P2](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-M9040P2)
-- Short Link: [http://oom.lt/FZESWITCHM94P2](http://oom.lt/FZESWITCHM94P2)
+- Short Link: [http://oom.lt/FZESWM94P2](http://oom.lt/FZESWM94P2)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|M9040P2|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-M9040P2|
-|Hex ID (short code)|hexID|FZESWITCHM94P2|
+|Hex ID (short code)|hexID|FZESWM94P2|
 |name|name|switch : M9040P2|
 ||||

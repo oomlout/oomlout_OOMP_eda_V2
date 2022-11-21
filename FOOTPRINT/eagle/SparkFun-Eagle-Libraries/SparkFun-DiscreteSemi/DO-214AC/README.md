@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DO-214AC
 - Hex ID: FZSDSDO214AC
 - Name: SparkFun-DiscreteSemi : DO-214AC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/DO-214AC/
 - Description: SparkFun-DiscreteSemi : DO-214AC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DO-214AC](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DO-214AC)
 - Short Link: [http://oom.lt/FZSDSDO214AC](http://oom.lt/FZSDSDO214AC)

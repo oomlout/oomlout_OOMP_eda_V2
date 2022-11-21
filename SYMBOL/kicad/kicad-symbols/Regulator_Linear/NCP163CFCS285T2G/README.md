@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163CFCS285T2G
 - Hex ID: SZKREGULATORLINEARNCP163CFCS285T2G
 - Name: Regulator_Linear : NCP163CFCS285T2G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP163CFCS285T2G/
 - Description: Regulator_Linear : NCP163CFCS285T2G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163CFCS285T2G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163CFCS285T2G)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP163CFCS285T2G](http://oom.lt/SZKREGULATORLINEARNCP163CFCS285T2G)

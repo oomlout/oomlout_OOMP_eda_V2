@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-LT1026
 - Hex ID: SZKCONLT126
 - Name: Converter_DCDC : LT1026
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/LT1026/
 - Description: Converter_DCDC : LT1026
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-LT1026](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-LT1026)
 - Short Link: [http://oom.lt/SZKCONLT126](http://oom.lt/SZKCONLT126)

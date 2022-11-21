@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-ABLNO
 - Hex ID: SZKOCSABLNO
 - Name: Oscillator : ABLNO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/ABLNO/
 - Description: Oscillator : ABLNO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ABLNO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ABLNO)
 - Short Link: [http://oom.lt/SZKOCSABLNO](http://oom.lt/SZKOCSABLNO)

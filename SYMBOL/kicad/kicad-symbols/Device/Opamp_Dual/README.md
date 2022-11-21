@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Opamp_Dual
 - Hex ID: SZKDEVICEOPAMPDUAL
 - Name: Device : Opamp_Dual
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Opamp_Dual/
 - Description: Device : Opamp_Dual
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Opamp_Dual](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Opamp_Dual)
 - Short Link: [http://oom.lt/SZKDEVICEOPAMPDUAL](http://oom.lt/SZKDEVICEOPAMPDUAL)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-GPU-MC68B45
 - Hex ID: SZKGPUMC68B45
 - Name: GPU : MC68B45
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/GPU/MC68B45/
 - Description: GPU : MC68B45
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-GPU-MC68B45](http://oom.lt/SYMBOL-kicad-kicad-symbols-GPU-MC68B45)
 - Short Link: [http://oom.lt/SZKGPUMC68B45](http://oom.lt/SZKGPUMC68B45)

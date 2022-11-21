@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-PANASONIC_SMINI2-F5-B
 - Hex ID: FZSSPARKFUNDISCRETESEMIPSM2F5B
 - Name: SparkFun-DiscreteSemi : PANASONIC_SMINI2-F5-B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/PANASONIC_SMINI2-F5-B/
 - Description: SparkFun-DiscreteSemi : PANASONIC_SMINI2-F5-B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-PANASONIC_SMINI2-F5-B](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-PANASONIC_SMINI2-F5-B)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISCRETESEMIPSM2F5B](http://oom.lt/FZSSPARKFUNDISCRETESEMIPSM2F5B)

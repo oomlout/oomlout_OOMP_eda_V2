@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-CEP125
 - Hex ID: FZERCLCEP125
 - Name: rcl : CEP125
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/CEP125/
 - Description: rcl : CEP125
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CEP125](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CEP125)
 - Short Link: [http://oom.lt/FZERCLCEP125](http://oom.lt/FZERCLCEP125)

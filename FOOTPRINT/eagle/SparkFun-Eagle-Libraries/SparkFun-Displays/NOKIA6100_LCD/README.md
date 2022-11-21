@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-NOKIA6100_LCD
 - Hex ID: FZSSPARKFUNDISNOKIA61LCD
 - Name: SparkFun-Displays : NOKIA6100_LCD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/NOKIA6100_LCD/
 - Description: SparkFun-Displays : NOKIA6100_LCD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-NOKIA6100_LCD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-NOKIA6100_LCD)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISNOKIA61LCD](http://oom.lt/FZSSPARKFUNDISNOKIA61LCD)

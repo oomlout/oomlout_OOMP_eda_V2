@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-MINI-SO8
 - Hex ID: FZENATIONALSEMICONDUCTORMSO8
 - Name: national-semiconductor : MINI-SO8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/MINI-SO8/
 - Description: national-semiconductor : MINI-SO8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-MINI-SO8](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-MINI-SO8)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORMSO8](http://oom.lt/FZENATIONALSEMICONDUCTORMSO8)

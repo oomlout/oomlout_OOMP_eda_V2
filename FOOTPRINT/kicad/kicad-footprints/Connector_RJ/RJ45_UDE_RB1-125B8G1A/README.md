@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_UDE_RB1-125B8G1A
 - Hex ID: FZKCNRJRJ45UDERB1125B8G1A
 - Name: Connector_RJ : RJ45_UDE_RB1-125B8G1A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_UDE_RB1-125B8G1A/
 - Description: Connector_RJ : RJ45_UDE_RB1-125B8G1A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_UDE_RB1-125B8G1A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_UDE_RB1-125B8G1A)
 - Short Link: [http://oom.lt/FZKCNRJRJ45UDERB1125B8G1A](http://oom.lt/FZKCNRJRJ45UDERB1125B8G1A)

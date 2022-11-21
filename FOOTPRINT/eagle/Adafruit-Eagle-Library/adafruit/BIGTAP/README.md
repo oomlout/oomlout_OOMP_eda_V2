@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BIGTAP
 - Hex ID: FZABIGTAP
 - Name: adafruit : BIGTAP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/BIGTAP/
 - Description: adafruit : BIGTAP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BIGTAP](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BIGTAP)
 - Short Link: [http://oom.lt/FZABIGTAP](http://oom.lt/FZABIGTAP)

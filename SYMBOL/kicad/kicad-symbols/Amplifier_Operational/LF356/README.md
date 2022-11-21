@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF356
 - Hex ID: SZKAMPLIFIEROPERATIONALLF356
 - Name: Amplifier_Operational : LF356
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LF356/
 - Description: Amplifier_Operational : LF356
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF356](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF356)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLF356](http://oom.lt/SZKAMPLIFIEROPERATIONALLF356)

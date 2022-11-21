@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-LM3880
 - Hex ID: SZKPOWERSUPERVISORLM388
 - Name: Power_Supervisor : LM3880
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/LM3880/
 - Description: Power_Supervisor : LM3880
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-LM3880](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-LM3880)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORLM388](http://oom.lt/SZKPOWERSUPERVISORLM388)

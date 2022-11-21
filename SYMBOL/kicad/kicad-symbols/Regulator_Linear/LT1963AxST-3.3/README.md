@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1963AxST-3.3
 - Hex ID: SZKREGULATORLINEARLT1963AXST33
 - Name: Regulator_Linear : LT1963AxST-3.3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1963AxST-3.3/
 - Description: Regulator_Linear : LT1963AxST-3.3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1963AxST-3.3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1963AxST-3.3)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1963AXST33](http://oom.lt/SZKREGULATORLINEARLT1963AXST33)

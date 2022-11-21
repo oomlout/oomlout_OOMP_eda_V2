@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Current-LM334SM
 - Hex ID: SZKREFERENCECURRENTLM334SM
 - Name: Reference_Current : LM334SM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Current/LM334SM/
 - Description: Reference_Current : LM334SM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-LM334SM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-LM334SM)
 - Short Link: [http://oom.lt/SZKREFERENCECURRENTLM334SM](http://oom.lt/SZKREFERENCECURRENTLM334SM)

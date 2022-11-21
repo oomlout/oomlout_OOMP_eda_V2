@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-TQFP48
 - Hex ID: FZEATMELTQFP48
 - Name: atmel : TQFP48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/TQFP48/
 - Description: atmel : TQFP48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-TQFP48](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-TQFP48)
 - Short Link: [http://oom.lt/FZEATMELTQFP48](http://oom.lt/FZEATMELTQFP48)

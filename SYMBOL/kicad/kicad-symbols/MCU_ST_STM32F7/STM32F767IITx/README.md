@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F767IITx
 - Hex ID: SZKMCUSTSTM32F7STM32F767IITX
 - Name: MCU_ST_STM32F7 : STM32F767IITx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F767IITx/
 - Description: MCU_ST_STM32F7 : STM32F767IITx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F767IITx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F767IITx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F767IITX](http://oom.lt/SZKMCUSTSTM32F7STM32F767IITX)

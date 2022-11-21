@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD64-12
 - Hex ID: FZEDIODESOD6412
 - Name: diode : SOD64-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOD64-12/
 - Description: diode : SOD64-12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD64-12](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOD64-12)
 - Short Link: [http://oom.lt/FZEDIODESOD6412](http://oom.lt/FZEDIODESOD6412)

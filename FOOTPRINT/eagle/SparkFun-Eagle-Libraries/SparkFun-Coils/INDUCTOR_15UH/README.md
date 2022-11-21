@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSCOINDUCTOR15UH > SparkFun-Coils : INDUCTOR_15UH](#fzscoinductor15uh--sparkfun-coils--inductor_15uh)
+* [FZSCOIN15UH > SparkFun-Coils : INDUCTOR_15UH](#fzscoin15uh--sparkfun-coils--inductor_15uh)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSCOINDUCTOR15UH > SparkFun-Coils : INDUCTOR_15UH
+# FZSCOIN15UH > SparkFun-Coils : INDUCTOR_15UH
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_15UH
-- Hex ID: FZSCOINDUCTOR15UH
+- Hex ID: FZSCOIN15UH
 - Name: SparkFun-Coils : INDUCTOR_15UH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/INDUCTOR_15UH/
 - Description: SparkFun-Coils : INDUCTOR_15UH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_15UH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_15UH)
-- Short Link: [http://oom.lt/FZSCOINDUCTOR15UH](http://oom.lt/FZSCOINDUCTOR15UH)
+- Short Link: [http://oom.lt/FZSCOIN15UH](http://oom.lt/FZSCOIN15UH)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Coils|
 |OOMP Index|oompIndex|INDUCTOR_15UH|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_15UH|
-|Hex ID (short code)|hexID|FZSCOINDUCTOR15UH|
+|Hex ID (short code)|hexID|FZSCOIN15UH|
 |name|name|SparkFun-Coils : INDUCTOR_15UH|
 ||||

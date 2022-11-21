@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADFBGA256 > ref-packages-longpad : FBGA256](#fzerefpackageslongpadfbga256--ref-packages-longpad--fbga256)
+* [FZEREFPSLPFBGA256 > ref-packages-longpad : FBGA256](#fzerefpslpfbga256--ref-packages-longpad--fbga256)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADFBGA256 > ref-packages-longpad : FBGA256
+# FZEREFPSLPFBGA256 > ref-packages-longpad : FBGA256
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-FBGA256
-- Hex ID: FZEREFPACKAGESLONGPADFBGA256
+- Hex ID: FZEREFPSLPFBGA256
 - Name: ref-packages-longpad : FBGA256
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/FBGA256/
 - Description: ref-packages-longpad : FBGA256
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-FBGA256](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-FBGA256)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADFBGA256](http://oom.lt/FZEREFPACKAGESLONGPADFBGA256)
+- Short Link: [http://oom.lt/FZEREFPSLPFBGA256](http://oom.lt/FZEREFPSLPFBGA256)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|FBGA256|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-FBGA256|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADFBGA256|
+|Hex ID (short code)|hexID|FZEREFPSLPFBGA256|
 |name|name|ref-packages-longpad : FBGA256|
 ||||

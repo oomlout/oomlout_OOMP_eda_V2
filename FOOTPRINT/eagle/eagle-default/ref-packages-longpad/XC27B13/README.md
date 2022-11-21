@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADXC27B13 > ref-packages-longpad : XC27B13](#fzerefpackageslongpadxc27b13--ref-packages-longpad--xc27b13)
+* [FZEREFPSLPXC27B13 > ref-packages-longpad : XC27B13](#fzerefpslpxc27b13--ref-packages-longpad--xc27b13)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADXC27B13 > ref-packages-longpad : XC27B13
+# FZEREFPSLPXC27B13 > ref-packages-longpad : XC27B13
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-XC27B13
-- Hex ID: FZEREFPACKAGESLONGPADXC27B13
+- Hex ID: FZEREFPSLPXC27B13
 - Name: ref-packages-longpad : XC27B13
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/XC27B13/
 - Description: ref-packages-longpad : XC27B13
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-XC27B13](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-XC27B13)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADXC27B13](http://oom.lt/FZEREFPACKAGESLONGPADXC27B13)
+- Short Link: [http://oom.lt/FZEREFPSLPXC27B13](http://oom.lt/FZEREFPSLPXC27B13)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|XC27B13|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-XC27B13|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADXC27B13|
+|Hex ID (short code)|hexID|FZEREFPSLPXC27B13|
 |name|name|ref-packages-longpad : XC27B13|
 ||||

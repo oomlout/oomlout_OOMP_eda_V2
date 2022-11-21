@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_DRB0008A
 - Hex ID: FZKDFNTEXASDRB8A
 - Name: Package_DFN_QFN : Texas_DRB0008A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_DRB0008A/
 - Description: Package_DFN_QFN : Texas_DRB0008A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_DRB0008A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_DRB0008A)
 - Short Link: [http://oom.lt/FZKDFNTEXASDRB8A](http://oom.lt/FZKDFNTEXASDRB8A)

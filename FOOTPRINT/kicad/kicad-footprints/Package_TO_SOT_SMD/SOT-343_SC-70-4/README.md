@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMSOT343SC74 > Package_TO_SOT_SMD : SOT-343_SC-70-4](#fzkpackagetosotsmsot343sc74--package_to_sot_smd--sot-343_sc-70-4)
+* [FZKSOTSOT343SC74 > Package_TO_SOT_SMD : SOT-343_SC-70-4](#fzksotsot343sc74--package_to_sot_smd--sot-343_sc-70-4)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMSOT343SC74 > Package_TO_SOT_SMD : SOT-343_SC-70-4
+# FZKSOTSOT343SC74 > Package_TO_SOT_SMD : SOT-343_SC-70-4
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-343_SC-70-4
-- Hex ID: FZKPACKAGETOSOTSMSOT343SC74
+- Hex ID: FZKSOTSOT343SC74
 - Name: Package_TO_SOT_SMD : SOT-343_SC-70-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-343_SC-70-4/
 - Description: Package_TO_SOT_SMD : SOT-343_SC-70-4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-343_SC-70-4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-343_SC-70-4)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMSOT343SC74](http://oom.lt/FZKPACKAGETOSOTSMSOT343SC74)
+- Short Link: [http://oom.lt/FZKSOTSOT343SC74](http://oom.lt/FZKSOTSOT343SC74)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SOT-343_SC-70-4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-343_SC-70-4|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT343SC74|
+|Hex ID (short code)|hexID|FZKSOTSOT343SC74|
 |name|name|Package_TO_SOT_SMD : SOT-343_SC-70-4|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-343_SC-70-4'</td><td> 'description'</td></tr><tr><td> 'SOT-343</td><td> SC-70-4'</td><td> 'tags'</td></tr><tr><td> 'SOT-343 SC-70-4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-343_SC-70-4.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

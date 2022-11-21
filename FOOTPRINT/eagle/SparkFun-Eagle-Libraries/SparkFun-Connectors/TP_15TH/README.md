@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-TP_15TH
 - Hex ID: FZSSPARKFUNCNSTP15TH
 - Name: SparkFun-Connectors : TP_15TH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/TP_15TH/
 - Description: SparkFun-Connectors : TP_15TH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-TP_15TH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-TP_15TH)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSTP15TH](http://oom.lt/FZSSPARKFUNCNSTP15TH)

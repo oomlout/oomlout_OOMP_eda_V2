@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX155-FF1760
 - Hex ID: SZKFPGAXILINXVIRTEX5XC5VLX155FF176
 - Name: FPGA_Xilinx_Virtex5 : XC5VLX155-FF1760
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex5/XC5VLX155-FF1760/
 - Description: FPGA_Xilinx_Virtex5 : XC5VLX155-FF1760
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX155-FF1760](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX155-FF1760)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VLX155FF176](http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VLX155FF176)

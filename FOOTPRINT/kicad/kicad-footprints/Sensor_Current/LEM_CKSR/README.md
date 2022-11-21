@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_CKSR
 - Hex ID: FZKSENCURRENTLEMCKSR
 - Name: Sensor_Current : LEM_CKSR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/LEM_CKSR/
 - Description: Sensor_Current : LEM_CKSR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_CKSR](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_CKSR)
 - Short Link: [http://oom.lt/FZKSENCURRENTLEMCKSR](http://oom.lt/FZKSENCURRENTLEMCKSR)

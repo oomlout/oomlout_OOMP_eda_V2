@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ID-12_SMD
 - Hex ID: FZSRFID12SM
 - Name: SparkFun-RF : ID-12_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/ID-12_SMD/
 - Description: SparkFun-RF : ID-12_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ID-12_SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ID-12_SMD)
 - Short Link: [http://oom.lt/FZSRFID12SM](http://oom.lt/FZSRFID12SM)

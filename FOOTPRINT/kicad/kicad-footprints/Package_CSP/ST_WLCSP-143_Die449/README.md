@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-143_Die449
 - Hex ID: FZKCSPSTWLCSP143DIE449
 - Name: Package_CSP : ST_WLCSP-143_Die449
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-143_Die449/
 - Description: Package_CSP : ST_WLCSP-143_Die449
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-143_Die449](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-143_Die449)
 - Short Link: [http://oom.lt/FZKCSPSTWLCSP143DIE449](http://oom.lt/FZKCSPSTWLCSP143DIE449)

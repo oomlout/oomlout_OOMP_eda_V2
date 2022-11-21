@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOD80
 - Hex ID: FZESMIPCSOD8
 - Name: smd-ipc : SOD80
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOD80/
 - Description: smd-ipc : SOD80
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOD80](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOD80)
 - Short Link: [http://oom.lt/FZESMIPCSOD8](http://oom.lt/FZESMIPCSOD8)

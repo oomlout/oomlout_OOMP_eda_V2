@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9572XL-VQ64
 - Hex ID: SZKCPLDXILINXXC9572XLVQ64
 - Name: CPLD_Xilinx : XC9572XL-VQ64
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC9572XL-VQ64/
 - Description: CPLD_Xilinx : XC9572XL-VQ64
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9572XL-VQ64](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9572XL-VQ64)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC9572XLVQ64](http://oom.lt/SZKCPLDXILINXXC9572XLVQ64)

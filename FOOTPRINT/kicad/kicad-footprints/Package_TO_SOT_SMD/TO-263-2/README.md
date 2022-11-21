@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMTO2632 > Package_TO_SOT_SMD : TO-263-2](#fzkpackagetosotsmto2632--package_to_sot_smd--to-263-2)
+* [FZKSOTTO2632 > Package_TO_SOT_SMD : TO-263-2](#fzksotto2632--package_to_sot_smd--to-263-2)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMTO2632 > Package_TO_SOT_SMD : TO-263-2
+# FZKSOTTO2632 > Package_TO_SOT_SMD : TO-263-2
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-2
-- Hex ID: FZKPACKAGETOSOTSMTO2632
+- Hex ID: FZKSOTTO2632
 - Name: Package_TO_SOT_SMD : TO-263-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-263-2/
 - Description: Package_TO_SOT_SMD : TO-263-2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-2)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMTO2632](http://oom.lt/FZKPACKAGETOSOTSMTO2632)
+- Short Link: [http://oom.lt/FZKSOTTO2632](http://oom.lt/FZKSOTTO2632)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|TO-263-2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-2|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO2632|
+|Hex ID (short code)|hexID|FZKSOTTO2632|
 |name|name|Package_TO_SOT_SMD : TO-263-2|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-263-2'</td><td> 'description'</td></tr><tr><td> 'TO-263 / D2PAK / DDPAK SMD package</td><td> http</td></tr><tr><td>//www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/'</td><td> 'tags'</td></tr><tr><td> 'D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/TO-263-2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC14W39 > digikey-footprints : SOIC-14_W3.9mm](#fzkicaddigikeykicadlibrarydigikeyfootprintssoic14w39--digikey-footprints--soic-14_w39mm)
+* [FZDIGIDIGIKEYFOOTPRINTSSOIC14W39 > digikey-footprints : SOIC-14_W3.9mm](#fzdigidigikeyfootprintssoic14w39--digikey-footprints--soic-14_w39mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC14W39 > digikey-footprints : SOIC-14_W3.9mm
+# FZDIGIDIGIKEYFOOTPRINTSSOIC14W39 > digikey-footprints : SOIC-14_W3.9mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-14_W3.9mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC14W39
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOIC14W39
 - Name: digikey-footprints : SOIC-14_W3.9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-14_W3.9mm/
 - Description: digikey-footprints : SOIC-14_W3.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-14_W3.9mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-14_W3.9mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC14W39](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC14W39)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC14W39](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC14W39)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SOIC-14_W3.9mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-14_W3.9mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC14W39|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSOIC14W39|
 |name|name|digikey-footprints : SOIC-14_W3.9mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOIC-14_W3.9mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

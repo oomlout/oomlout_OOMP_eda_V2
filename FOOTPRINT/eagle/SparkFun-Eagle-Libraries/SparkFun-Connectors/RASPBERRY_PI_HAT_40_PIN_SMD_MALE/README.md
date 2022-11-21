@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNSRASPBERRYPIHAT4PINSMMALE > SparkFun-Connectors : RASPBERRY_PI_HAT_40_PIN_SMD_MALE](#fzssparkfuncnsraspberrypihat4pinsmmale--sparkfun-connectors--raspberry_pi_hat_40_pin_smd_male)
+* [FZSSPARKFUNCNSRPIHAT4PSMMALE > SparkFun-Connectors : RASPBERRY_PI_HAT_40_PIN_SMD_MALE](#fzssparkfuncnsrpihat4psmmale--sparkfun-connectors--raspberry_pi_hat_40_pin_smd_male)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNSRASPBERRYPIHAT4PINSMMALE > SparkFun-Connectors : RASPBERRY_PI_HAT_40_PIN_SMD_MALE
+# FZSSPARKFUNCNSRPIHAT4PSMMALE > SparkFun-Connectors : RASPBERRY_PI_HAT_40_PIN_SMD_MALE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RASPBERRY_PI_HAT_40_PIN_SMD_MALE
-- Hex ID: FZSSPARKFUNCNSRASPBERRYPIHAT4PINSMMALE
+- Hex ID: FZSSPARKFUNCNSRPIHAT4PSMMALE
 - Name: SparkFun-Connectors : RASPBERRY_PI_HAT_40_PIN_SMD_MALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/RASPBERRY_PI_HAT_40_PIN_SMD_MALE/
 - Description: SparkFun-Connectors : RASPBERRY_PI_HAT_40_PIN_SMD_MALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RASPBERRY_PI_HAT_40_PIN_SMD_MALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RASPBERRY_PI_HAT_40_PIN_SMD_MALE)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNSRASPBERRYPIHAT4PINSMMALE](http://oom.lt/FZSSPARKFUNCNSRASPBERRYPIHAT4PINSMMALE)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNSRPIHAT4PSMMALE](http://oom.lt/FZSSPARKFUNCNSRPIHAT4PSMMALE)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|RASPBERRY_PI_HAT_40_PIN_SMD_MALE|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RASPBERRY_PI_HAT_40_PIN_SMD_MALE|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNSRASPBERRYPIHAT4PINSMMALE|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNSRPIHAT4PSMMALE|
 |name|name|SparkFun-Connectors : RASPBERRY_PI_HAT_40_PIN_SMD_MALE|
 ||||

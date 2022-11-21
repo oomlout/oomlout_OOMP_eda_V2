@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-SO16
 - Hex ID: FZSIVSO16
 - Name: SparkFun-IC-Conversion : SO16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Conversion/SO16/
 - Description: SparkFun-IC-Conversion : SO16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-SO16](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-SO16)
 - Short Link: [http://oom.lt/FZSIVSO16](http://oom.lt/FZSIVSO16)

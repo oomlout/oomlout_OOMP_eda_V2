@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-DS90C241
 - Hex ID: SZKINTERFACEDS9C241
 - Name: Interface : DS90C241
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/DS90C241/
 - Description: Interface : DS90C241
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90C241](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90C241)
 - Short Link: [http://oom.lt/SZKINTERFACEDS9C241](http://oom.lt/SZKINTERFACEDS9C241)

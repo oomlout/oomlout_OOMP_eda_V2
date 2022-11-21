@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HCMS200X
 - Hex ID: FZEDIHPHCMS2X
 - Name: display-hp : HCMS200X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-hp/HCMS200X/
 - Description: display-hp : HCMS200X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HCMS200X](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HCMS200X)
 - Short Link: [http://oom.lt/FZEDIHPHCMS2X](http://oom.lt/FZEDIHPHCMS2X)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-XLR3_Ground
 - Hex ID: SZKCNXLR3GROUND
 - Name: Connector : XLR3_Ground
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/XLR3_Ground/
 - Description: Connector : XLR3_Ground
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_Ground](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_Ground)
 - Short Link: [http://oom.lt/SZKCNXLR3GROUND](http://oom.lt/SZKCNXLR3GROUND)

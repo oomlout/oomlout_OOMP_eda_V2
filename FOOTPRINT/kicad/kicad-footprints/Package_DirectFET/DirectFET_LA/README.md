@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_LA
 - Hex ID: FZKDFETDIRECTFETLA
 - Name: Package_DirectFET : DirectFET_LA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_LA/
 - Description: Package_DirectFET : DirectFET_LA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_LA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_LA)
 - Short Link: [http://oom.lt/FZKDFETDIRECTFETLA](http://oom.lt/FZKDFETDIRECTFETLA)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZV55B51
 - Hex ID: SZKDIODEBZV55B51
 - Name: Diode : BZV55B51
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BZV55B51/
 - Description: Diode : BZV55B51
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B51](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B51)
 - Short Link: [http://oom.lt/SZKDIODEBZV55B51](http://oom.lt/SZKDIODEBZV55B51)

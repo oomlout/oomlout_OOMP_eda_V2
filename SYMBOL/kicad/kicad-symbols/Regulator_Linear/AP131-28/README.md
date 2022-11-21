@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP131-28
 - Hex ID: SZKREGULATORLINEARAP13128
 - Name: Regulator_Linear : AP131-28
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP131-28/
 - Description: Regulator_Linear : AP131-28
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP131-28](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP131-28)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP13128](http://oom.lt/SZKREGULATORLINEARAP13128)

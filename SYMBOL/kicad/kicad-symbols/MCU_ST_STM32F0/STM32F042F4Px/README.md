@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F042F4Px
 - Hex ID: SZKMCUSTSTM32FSTM32F42F4PX
 - Name: MCU_ST_STM32F0 : STM32F042F4Px
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F042F4Px/
 - Description: MCU_ST_STM32F0 : STM32F042F4Px
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F042F4Px](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F042F4Px)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F42F4PX](http://oom.lt/SZKMCUSTSTM32FSTM32F42F4PX)

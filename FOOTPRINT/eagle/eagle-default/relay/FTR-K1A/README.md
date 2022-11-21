@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-FTR-K1A
 - Hex ID: FZERELAYFTRK1A
 - Name: relay : FTR-K1A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/FTR-K1A/
 - Description: relay : FTR-K1A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-FTR-K1A](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-FTR-K1A)
 - Short Link: [http://oom.lt/FZERELAYFTRK1A](http://oom.lt/FZERELAYFTRK1A)

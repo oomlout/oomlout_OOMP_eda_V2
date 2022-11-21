@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-R4527
 - Hex ID: FZERCLR4527
 - Name: rcl : R4527
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/R4527/
 - Description: rcl : R4527
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R4527](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R4527)
 - Short Link: [http://oom.lt/FZERCLR4527](http://oom.lt/FZERCLR4527)

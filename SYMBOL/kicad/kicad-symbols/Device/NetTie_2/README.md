@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-NetTie_2
 - Hex ID: SZKDEVICENT2
 - Name: Device : NetTie_2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/NetTie_2/
 - Description: Device : NetTie_2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_2)
 - Short Link: [http://oom.lt/SZKDEVICENT2](http://oom.lt/SZKDEVICENT2)

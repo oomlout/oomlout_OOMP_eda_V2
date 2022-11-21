@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXXHC526HORIZONTAL > Crystal : Crystal_HC52-6mm_Horizontal](#fzkxxhc526horizontal--crystal--crystal_hc52-6mm_horizontal)
+* [FZKXXHC526H > Crystal : Crystal_HC52-6mm_Horizontal](#fzkxxhc526h--crystal--crystal_hc52-6mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXHC526HORIZONTAL > Crystal : Crystal_HC52-6mm_Horizontal
+# FZKXXHC526H > Crystal : Crystal_HC52-6mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC52-6mm_Horizontal
-- Hex ID: FZKXXHC526HORIZONTAL
+- Hex ID: FZKXXHC526H
 - Name: Crystal : Crystal_HC52-6mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC52-6mm_Horizontal/
 - Description: Crystal : Crystal_HC52-6mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC52-6mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC52-6mm_Horizontal)
-- Short Link: [http://oom.lt/FZKXXHC526HORIZONTAL](http://oom.lt/FZKXXHC526HORIZONTAL)
+- Short Link: [http://oom.lt/FZKXXHC526H](http://oom.lt/FZKXXHC526H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_HC52-6mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC52-6mm_Horizontal|
-|Hex ID (short code)|hexID|FZKXXHC526HORIZONTAL|
+|Hex ID (short code)|hexID|FZKXXHC526H|
 |name|name|Crystal : Crystal_HC52-6mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_HC52-6mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Crystal THT HC-51/6mm http</td></tr><tr><td>//www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf'</td><td> 'tags'</td></tr><tr><td> 'THT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_HC52-6mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

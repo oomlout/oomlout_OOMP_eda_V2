@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-FINDER-30.22
 - Hex ID: FZERELAYFINDER322
 - Name: relay : FINDER-30.22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/FINDER-30.22/
 - Description: relay : FINDER-30.22
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-FINDER-30.22](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-FINDER-30.22)
 - Short Link: [http://oom.lt/FZERELAYFINDER322](http://oom.lt/FZERELAYFINDER322)

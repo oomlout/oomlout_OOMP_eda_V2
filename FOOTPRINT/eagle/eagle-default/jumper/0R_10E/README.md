@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-jumper-0R_10E
 - Hex ID: FZEJR1E
 - Name: jumper : 0R_10E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/jumper/0R_10E/
 - Description: jumper : 0R_10E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-0R_10E](http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-0R_10E)
 - Short Link: [http://oom.lt/FZEJR1E](http://oom.lt/FZEJR1E)

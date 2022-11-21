@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-USB3300-EZK
 - Hex ID: SZKINTERFACEUU33EZK
 - Name: Interface_USB : USB3300-EZK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3300-EZK/
 - Description: Interface_USB : USB3300-EZK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3300-EZK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3300-EZK)
 - Short Link: [http://oom.lt/SZKINTERFACEUU33EZK](http://oom.lt/SZKINTERFACEUU33EZK)

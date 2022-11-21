@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-L52-1
 - Hex ID: FZEMEMORYIDTL521
 - Name: memory-idt : L52-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/L52-1/
 - Description: memory-idt : L52-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-L52-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-L52-1)
 - Short Link: [http://oom.lt/FZEMEMORYIDTL521](http://oom.lt/FZEMEMORYIDTL521)

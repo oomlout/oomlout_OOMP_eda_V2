@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega324A-MC
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA324AMC
 - Name: MCU_Microchip_ATmega : ATmega324A-MC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega324A-MC/
 - Description: MCU_Microchip_ATmega : ATmega324A-MC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega324A-MC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega324A-MC)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA324AMC](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA324AMC)

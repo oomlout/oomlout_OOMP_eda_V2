@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-508-IC6
 - Hex ID: FZECONPHOENIX58IC6
 - Name: con-phoenix-508 : IC6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-508/IC6/
 - Description: con-phoenix-508 : IC6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-IC6](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-508-IC6)
 - Short Link: [http://oom.lt/FZECONPHOENIX58IC6](http://oom.lt/FZECONPHOENIX58IC6)

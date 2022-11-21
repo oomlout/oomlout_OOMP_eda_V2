@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-MV317
 - Hex ID: SZKOCSMV317
 - Name: Oscillator : MV317
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/MV317/
 - Description: Oscillator : MV317
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-MV317](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-MV317)
 - Short Link: [http://oom.lt/SZKOCSMV317](http://oom.lt/SZKOCSMV317)

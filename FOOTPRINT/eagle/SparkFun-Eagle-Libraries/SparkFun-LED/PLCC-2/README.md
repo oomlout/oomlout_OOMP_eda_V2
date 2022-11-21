@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-PLCC-2
 - Hex ID: FZSLPLCC2
 - Name: SparkFun-LED : PLCC-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/PLCC-2/
 - Description: SparkFun-LED : PLCC-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-PLCC-2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-PLCC-2)
 - Short Link: [http://oom.lt/FZSLPLCC2](http://oom.lt/FZSLPLCC2)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-SFH480
 - Hex ID: FZELSFH48
 - Name: led : SFH480
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/SFH480/
 - Description: led : SFH480
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SFH480](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SFH480)
 - Short Link: [http://oom.lt/FZELSFH48](http://oom.lt/FZELSFH48)

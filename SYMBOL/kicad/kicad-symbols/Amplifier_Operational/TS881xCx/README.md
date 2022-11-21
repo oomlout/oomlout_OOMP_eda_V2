@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TS881xCx
 - Hex ID: SZKAMPLIFIEROPERATIONALTS881XCX
 - Name: Amplifier_Operational : TS881xCx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TS881xCx/
 - Description: Amplifier_Operational : TS881xCx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TS881xCx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TS881xCx)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTS881XCX](http://oom.lt/SZKAMPLIFIEROPERATIONALTS881XCX)

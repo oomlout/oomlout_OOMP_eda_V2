@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S100TQ144
 - Hex ID: SZKFPGAXILINXXC2S1TQ144
 - Name: FPGA_Xilinx : XC2S100TQ144
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S100TQ144/
 - Description: FPGA_Xilinx : XC2S100TQ144
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S100TQ144](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S100TQ144)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC2S1TQ144](http://oom.lt/SZKFPGAXILINXXC2S1TQ144)

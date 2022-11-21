@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-SOP64
 - Hex ID: FZEMFUJITSUS64
 - Name: micro-fujitsu : SOP64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-fujitsu/SOP64/
 - Description: micro-fujitsu : SOP64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-SOP64](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-SOP64)
 - Short Link: [http://oom.lt/FZEMFUJITSUS64](http://oom.lt/FZEMFUJITSUS64)

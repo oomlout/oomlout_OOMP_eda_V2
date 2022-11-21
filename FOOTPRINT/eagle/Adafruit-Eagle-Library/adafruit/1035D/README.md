@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1035D
 - Hex ID: FZA135D
 - Name: adafruit : 1035D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1035D/
 - Description: adafruit : 1035D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1035D](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1035D)
 - Short Link: [http://oom.lt/FZA135D](http://oom.lt/FZA135D)

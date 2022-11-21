@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEPINHEAD2X2 > pinhead : 2X02](#fzepinhead2x2--pinhead--2x02)
+* [FZEPHEAD2X2 > pinhead : 2X02](#fzephead2x2--pinhead--2x02)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEPINHEAD2X2 > pinhead : 2X02
+# FZEPHEAD2X2 > pinhead : 2X02
 
 - ID: FOOTPRINT-eagle-eagle-default-pinhead-2X02
-- Hex ID: FZEPINHEAD2X2
+- Hex ID: FZEPHEAD2X2
 - Name: pinhead : 2X02
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pinhead/2X02/
 - Description: pinhead : 2X02
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pinhead-2X02](http://oom.lt/FOOTPRINT-eagle-eagle-default-pinhead-2X02)
-- Short Link: [http://oom.lt/FZEPINHEAD2X2](http://oom.lt/FZEPINHEAD2X2)
+- Short Link: [http://oom.lt/FZEPHEAD2X2](http://oom.lt/FZEPHEAD2X2)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|pinhead|
 |OOMP Index|oompIndex|2X02|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-pinhead-2X02|
-|Hex ID (short code)|hexID|FZEPINHEAD2X2|
+|Hex ID (short code)|hexID|FZEPHEAD2X2|
 |name|name|pinhead : 2X02|
 ||||

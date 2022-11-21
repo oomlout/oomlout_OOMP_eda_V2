@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-LZ1-00WW03
 - Hex ID: FZELLZ1WW3
 - Name: led : LZ1-00WW03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/LZ1-00WW03/
 - Description: led : LZ1-00WW03
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LZ1-00WW03](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LZ1-00WW03)
 - Short Link: [http://oom.lt/FZELLZ1WW3](http://oom.lt/FZELLZ1WW3)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGS104B-A
 - Hex ID: SZKDIGRAPHICEADOGS14BA
 - Name: Display_Graphic : EA_DOGS104B-A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_DOGS104B-A/
 - Description: Display_Graphic : EA_DOGS104B-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGS104B-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGS104B-A)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEADOGS14BA](http://oom.lt/SZKDIGRAPHICEADOGS14BA)

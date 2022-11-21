@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75729PDBV
 - Hex ID: SZKREGULATORLINEARTLV75729PDBV
 - Name: Regulator_Linear : TLV75729PDBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV75729PDBV/
 - Description: Regulator_Linear : TLV75729PDBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75729PDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75729PDBV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV75729PDBV](http://oom.lt/SZKREGULATORLINEARTLV75729PDBV)

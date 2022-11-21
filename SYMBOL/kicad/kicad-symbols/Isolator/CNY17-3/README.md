@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-CNY17-3
 - Hex ID: SZKISOLATORCNY173
 - Name: Isolator : CNY17-3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/CNY17-3/
 - Description: Isolator : CNY17-3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-CNY17-3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-CNY17-3)
 - Short Link: [http://oom.lt/SZKISOLATORCNY173](http://oom.lt/SZKISOLATORCNY173)

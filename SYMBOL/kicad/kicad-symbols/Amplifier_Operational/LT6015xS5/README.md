@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6015xS5
 - Hex ID: SZKAMPLIFIEROPERATIONALLT615XS5
 - Name: Amplifier_Operational : LT6015xS5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LT6015xS5/
 - Description: Amplifier_Operational : LT6015xS5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6015xS5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6015xS5)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLT615XS5](http://oom.lt/SZKAMPLIFIEROPERATIONALLT615XS5)

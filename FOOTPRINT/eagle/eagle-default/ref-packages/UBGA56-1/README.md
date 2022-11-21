@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESUBGA561 > ref-packages : UBGA56-1](#fzerefpackagesubga561--ref-packages--ubga56-1)
+* [FZEREFPSUBGA561 > ref-packages : UBGA56-1](#fzerefpsubga561--ref-packages--ubga56-1)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESUBGA561 > ref-packages : UBGA56-1
+# FZEREFPSUBGA561 > ref-packages : UBGA56-1
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-UBGA56-1
-- Hex ID: FZEREFPACKAGESUBGA561
+- Hex ID: FZEREFPSUBGA561
 - Name: ref-packages : UBGA56-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/UBGA56-1/
 - Description: ref-packages : UBGA56-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-UBGA56-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-UBGA56-1)
-- Short Link: [http://oom.lt/FZEREFPACKAGESUBGA561](http://oom.lt/FZEREFPACKAGESUBGA561)
+- Short Link: [http://oom.lt/FZEREFPSUBGA561](http://oom.lt/FZEREFPSUBGA561)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|UBGA56-1|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-UBGA56-1|
-|Hex ID (short code)|hexID|FZEREFPACKAGESUBGA561|
+|Hex ID (short code)|hexID|FZEREFPSUBGA561|
 |name|name|ref-packages : UBGA56-1|
 ||||

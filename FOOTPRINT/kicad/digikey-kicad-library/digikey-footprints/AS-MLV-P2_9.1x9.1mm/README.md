@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSASMLVP291X91 > digikey-footprints : AS-MLV-P2_9.1x9.1mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsasmlvp291x91--digikey-footprints--as-mlv-p2_91x91mm)
+* [FZDIGIDIGIKEYFOOTPRINTSASMLVP291X91 > digikey-footprints : AS-MLV-P2_9.1x9.1mm](#fzdigidigikeyfootprintsasmlvp291x91--digikey-footprints--as-mlv-p2_91x91mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSASMLVP291X91 > digikey-footprints : AS-MLV-P2_9.1x9.1mm
+# FZDIGIDIGIKEYFOOTPRINTSASMLVP291X91 > digikey-footprints : AS-MLV-P2_9.1x9.1mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-AS-MLV-P2_9.1x9.1mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSASMLVP291X91
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSASMLVP291X91
 - Name: digikey-footprints : AS-MLV-P2_9.1x9.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/AS-MLV-P2_9.1x9.1mm/
 - Description: digikey-footprints : AS-MLV-P2_9.1x9.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-AS-MLV-P2_9.1x9.1mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-AS-MLV-P2_9.1x9.1mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSASMLVP291X91](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSASMLVP291X91)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSASMLVP291X91](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSASMLVP291X91)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|AS-MLV-P2_9.1x9.1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-AS-MLV-P2_9.1x9.1mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSASMLVP291X91|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSASMLVP291X91|
 |name|name|digikey-footprints : AS-MLV-P2_9.1x9.1mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'AS-MLV-P2_9.1x9.1mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

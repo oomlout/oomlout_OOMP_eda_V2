@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X20-BIG
 - Hex ID: FZA2X2B
 - Name: adafruit : 2X20-BIG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X20-BIG/
 - Description: adafruit : 2X20-BIG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X20-BIG](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X20-BIG)
 - Short Link: [http://oom.lt/FZA2X2B](http://oom.lt/FZA2X2B)

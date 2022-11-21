@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-17-4
 - Hex ID: FZKSOTTO174
 - Name: Package_TO_SOT_THT : TO-17-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-17-4/
 - Description: Package_TO_SOT_THT : TO-17-4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-17-4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-17-4)
 - Short Link: [http://oom.lt/FZKSOTTO174](http://oom.lt/FZKSOTTO174)

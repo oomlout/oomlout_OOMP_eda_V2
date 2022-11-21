@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-C0805
 - Hex ID: FZESMIPCC85
 - Name: smd-ipc : C0805
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/C0805/
 - Description: smd-ipc : C0805
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-C0805](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-C0805)
 - Short Link: [http://oom.lt/FZESMIPCC85](http://oom.lt/FZESMIPCC85)

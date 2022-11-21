@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-harting-ml-3M_50L
 - Hex ID: FZECONHARTINGML3M5L
 - Name: con-harting-ml : 3M_50L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-harting-ml/3M_50L/
 - Description: con-harting-ml : 3M_50L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-ml-3M_50L](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-ml-3M_50L)
 - Short Link: [http://oom.lt/FZECONHARTINGML3M5L](http://oom.lt/FZECONHARTINGML3M5L)

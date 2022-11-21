@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-KLBRSS3
 - Hex ID: FZECONLUMBERGKLBRSS3
 - Name: con-lumberg : KLBRSS3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/KLBRSS3/
 - Description: con-lumberg : KLBRSS3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-KLBRSS3](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-KLBRSS3)
 - Short Link: [http://oom.lt/FZECONLUMBERGKLBRSS3](http://oom.lt/FZECONLUMBERGKLBRSS3)

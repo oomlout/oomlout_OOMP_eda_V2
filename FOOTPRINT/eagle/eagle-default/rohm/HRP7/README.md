@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rohm-HRP7
 - Hex ID: FZEROHMHRP7
 - Name: rohm : HRP7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rohm/HRP7/
 - Description: rohm : HRP7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rohm-HRP7](http://oom.lt/FOOTPRINT-eagle-eagle-default-rohm-HRP7)
 - Short Link: [http://oom.lt/FZEROHMHRP7](http://oom.lt/FZEROHMHRP7)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-semicon-smd-ipc-SOT23C
 - Hex ID: FZESEMICONSMIPCSOT23C
 - Name: semicon-smd-ipc : SOT23C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/semicon-smd-ipc/SOT23C/
 - Description: semicon-smd-ipc : SOT23C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-semicon-smd-ipc-SOT23C](http://oom.lt/FOOTPRINT-eagle-eagle-default-semicon-smd-ipc-SOT23C)
 - Short Link: [http://oom.lt/FZESEMICONSMIPCSOT23C](http://oom.lt/FZESEMICONSMIPCSOT23C)

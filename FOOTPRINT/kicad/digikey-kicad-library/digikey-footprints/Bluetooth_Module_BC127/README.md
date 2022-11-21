@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBC127 > digikey-footprints : Bluetooth_Module_BC127](#fzkicaddigikeykicadlibrarydigikeyfootprintsbluetoothmobc127--digikey-footprints--bluetooth_module_bc127)
+* [FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBC127 > digikey-footprints : Bluetooth_Module_BC127](#fzdigidigikeyfootprintsbluetoothmobc127--digikey-footprints--bluetooth_module_bc127)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBC127 > digikey-footprints : Bluetooth_Module_BC127
+# FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBC127 > digikey-footprints : Bluetooth_Module_BC127
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BC127
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBC127
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBC127
 - Name: digikey-footprints : Bluetooth_Module_BC127
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BC127/
 - Description: digikey-footprints : Bluetooth_Module_BC127
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BC127](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BC127)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBC127](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBC127)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBC127](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBC127)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Bluetooth_Module_BC127|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BC127|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBC127|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMOBC127|
 |name|name|digikey-footprints : Bluetooth_Module_BC127|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bluetooth_Module_BC127'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.bluecreation.com/userfiles/DataSheet-BC127-latest3.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

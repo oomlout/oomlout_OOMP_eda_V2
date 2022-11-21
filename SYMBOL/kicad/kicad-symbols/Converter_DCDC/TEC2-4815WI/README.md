@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEC2-4815WI
 - Hex ID: SZKCONTEC24815WI
 - Name: Converter_DCDC : TEC2-4815WI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEC2-4815WI/
 - Description: Converter_DCDC : TEC2-4815WI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEC2-4815WI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEC2-4815WI)
 - Short Link: [http://oom.lt/SZKCONTEC24815WI](http://oom.lt/SZKCONTEC24815WI)

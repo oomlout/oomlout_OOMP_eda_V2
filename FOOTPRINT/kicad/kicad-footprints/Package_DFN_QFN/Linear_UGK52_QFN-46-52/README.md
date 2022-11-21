@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Linear_UGK52_QFN-46-52
 - Hex ID: FZKDFNLINEARUGK52QFN4652
 - Name: Package_DFN_QFN : Linear_UGK52_QFN-46-52
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Linear_UGK52_QFN-46-52/
 - Description: Package_DFN_QFN : Linear_UGK52_QFN-46-52
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Linear_UGK52_QFN-46-52](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Linear_UGK52_QFN-46-52)
 - Short Link: [http://oom.lt/FZKDFNLINEARUGK52QFN4652](http://oom.lt/FZKDFNLINEARUGK52QFN4652)

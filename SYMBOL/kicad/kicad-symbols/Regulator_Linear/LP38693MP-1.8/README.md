@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP38693MP-1.8
 - Hex ID: SZKREGULATORLINEARLP38693MP18
 - Name: Regulator_Linear : LP38693MP-1.8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP38693MP-1.8/
 - Description: Regulator_Linear : LP38693MP-1.8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP38693MP-1.8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP38693MP-1.8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP38693MP18](http://oom.lt/SZKREGULATORLINEARLP38693MP18)

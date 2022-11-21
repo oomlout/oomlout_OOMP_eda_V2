@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-ZCE_S-PBGA-N361
 - Hex ID: FZETEXASZCESPBGAN361
 - Name: texas : ZCE_S-PBGA-N361
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/ZCE_S-PBGA-N361/
 - Description: texas : ZCE_S-PBGA-N361
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-ZCE_S-PBGA-N361](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-ZCE_S-PBGA-N361)
 - Short Link: [http://oom.lt/FZETEXASZCESPBGAN361](http://oom.lt/FZETEXASZCESPBGAN361)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-B35N61
 - Hex ID: FZECONCOAXB35N61
 - Name: con-coax : B35N61
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-coax/B35N61/
 - Description: con-coax : B35N61
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-B35N61](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-B35N61)
 - Short Link: [http://oom.lt/FZECONCOAXB35N61](http://oom.lt/FZECONCOAXB35N61)

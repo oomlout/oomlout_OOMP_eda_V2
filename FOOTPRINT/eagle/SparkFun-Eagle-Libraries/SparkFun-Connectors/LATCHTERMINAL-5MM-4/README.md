@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNSLATCHTERMINAL54 > SparkFun-Connectors : LATCHTERMINAL-5MM-4](#fzssparkfuncnslatchterminal54--sparkfun-connectors--latchterminal-5mm-4)
+* [FZSSPARKFUNCNSLATCHT54 > SparkFun-Connectors : LATCHTERMINAL-5MM-4](#fzssparkfuncnslatcht54--sparkfun-connectors--latchterminal-5mm-4)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNSLATCHTERMINAL54 > SparkFun-Connectors : LATCHTERMINAL-5MM-4
+# FZSSPARKFUNCNSLATCHT54 > SparkFun-Connectors : LATCHTERMINAL-5MM-4
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-LATCHTERMINAL-5MM-4
-- Hex ID: FZSSPARKFUNCNSLATCHTERMINAL54
+- Hex ID: FZSSPARKFUNCNSLATCHT54
 - Name: SparkFun-Connectors : LATCHTERMINAL-5MM-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/LATCHTERMINAL-5MM-4/
 - Description: SparkFun-Connectors : LATCHTERMINAL-5MM-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-LATCHTERMINAL-5MM-4](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-LATCHTERMINAL-5MM-4)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNSLATCHTERMINAL54](http://oom.lt/FZSSPARKFUNCNSLATCHTERMINAL54)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNSLATCHT54](http://oom.lt/FZSSPARKFUNCNSLATCHT54)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|LATCHTERMINAL-5MM-4|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-LATCHTERMINAL-5MM-4|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNSLATCHTERMINAL54|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNSLATCHT54|
 |name|name|SparkFun-Connectors : LATCHTERMINAL-5MM-4|
 ||||

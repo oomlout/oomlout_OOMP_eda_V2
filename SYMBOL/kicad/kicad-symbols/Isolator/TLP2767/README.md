@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP2767
 - Hex ID: SZKISOLATORTLP2767
 - Name: Isolator : TLP2767
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TLP2767/
 - Description: Isolator : TLP2767
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2767](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2767)
 - Short Link: [http://oom.lt/SZKISOLATORTLP2767](http://oom.lt/SZKISOLATORTLP2767)

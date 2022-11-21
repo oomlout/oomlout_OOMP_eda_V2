@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LPV812DGK
 - Hex ID: SZKAMPLIFIEROPERATIONALLPV812DGK
 - Name: Amplifier_Operational : LPV812DGK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LPV812DGK/
 - Description: Amplifier_Operational : LPV812DGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LPV812DGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LPV812DGK)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLPV812DGK](http://oom.lt/SZKAMPLIFIEROPERATIONALLPV812DGK)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-MC34152
 - Hex ID: SZKDRIVERFETMC34152
 - Name: Driver_FET : MC34152
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/MC34152/
 - Description: Driver_FET : MC34152
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MC34152](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MC34152)
 - Short Link: [http://oom.lt/SZKDRIVERFETMC34152](http://oom.lt/SZKDRIVERFETMC34152)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-V23148-CO
 - Hex ID: FZERELAYV23148CO
 - Name: relay : V23148-CO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/V23148-CO/
 - Description: relay : V23148-CO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-V23148-CO](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-V23148-CO)
 - Short Link: [http://oom.lt/FZERELAYV23148CO](http://oom.lt/FZERELAYV23148CO)

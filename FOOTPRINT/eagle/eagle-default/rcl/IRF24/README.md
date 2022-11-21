@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-IRF24
 - Hex ID: FZERCLIRF24
 - Name: rcl : IRF24
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/IRF24/
 - Description: rcl : IRF24
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-IRF24](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-IRF24)
 - Short Link: [http://oom.lt/FZERCLIRF24](http://oom.lt/FZERCLIRF24)

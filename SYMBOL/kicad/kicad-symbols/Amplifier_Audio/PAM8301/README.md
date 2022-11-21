@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8301
 - Hex ID: SZKAMPLIFIERAUDIOPAM831
 - Name: Amplifier_Audio : PAM8301
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/PAM8301/
 - Description: Amplifier_Audio : PAM8301
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8301](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8301)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOPAM831](http://oom.lt/SZKAMPLIFIERAUDIOPAM831)

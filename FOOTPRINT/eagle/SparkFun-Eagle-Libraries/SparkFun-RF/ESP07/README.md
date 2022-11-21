@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP07
 - Hex ID: FZSRFESP7
 - Name: SparkFun-RF : ESP07
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/ESP07/
 - Description: SparkFun-RF : ESP07
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP07](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP07)
 - Short Link: [http://oom.lt/FZSRFESP7](http://oom.lt/FZSRFESP7)

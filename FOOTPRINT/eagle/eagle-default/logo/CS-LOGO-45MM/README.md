@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-CS-LOGO-45MM
 - Hex ID: FZELCSL45
 - Name: logo : CS-LOGO-45MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/CS-LOGO-45MM/
 - Description: logo : CS-LOGO-45MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CS-LOGO-45MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CS-LOGO-45MM)
 - Short Link: [http://oom.lt/FZELCSL45](http://oom.lt/FZELCSL45)

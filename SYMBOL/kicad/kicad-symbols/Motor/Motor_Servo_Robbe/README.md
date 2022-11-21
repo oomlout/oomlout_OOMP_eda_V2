@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Robbe
 - Hex ID: SZKMOTORMOTORSERVOROBBE
 - Name: Motor : Motor_Servo_Robbe
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Robbe/
 - Description: Motor : Motor_Servo_Robbe
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Robbe](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Robbe)
 - Short Link: [http://oom.lt/SZKMOTORMOTORSERVOROBBE](http://oom.lt/SZKMOTORMOTORSERVOROBBE)

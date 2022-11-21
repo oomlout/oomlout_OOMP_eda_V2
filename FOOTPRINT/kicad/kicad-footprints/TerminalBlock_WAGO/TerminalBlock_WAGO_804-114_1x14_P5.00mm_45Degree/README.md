@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_804-114_1x14_P5.00mm_45Degree
 - Hex ID: FZKTBWAGOTBWAGO841141X14P545DEGREE
 - Name: TerminalBlock_WAGO : TerminalBlock_WAGO_804-114_1x14_P5.00mm_45Degree
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_804-114_1x14_P5.00mm_45Degree/
 - Description: TerminalBlock_WAGO : TerminalBlock_WAGO_804-114_1x14_P5.00mm_45Degree
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_804-114_1x14_P5.00mm_45Degree](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_804-114_1x14_P5.00mm_45Degree)
 - Short Link: [http://oom.lt/FZKTBWAGOTBWAGO841141X14P545DEGREE](http://oom.lt/FZKTBWAGOTBWAGO841141X14P545DEGREE)

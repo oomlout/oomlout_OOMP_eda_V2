@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSZSYHIGHVOLTAGETYPE1CTOPBIG > Symbol : Symbol_HighVoltage_Type1_CopperTop_Big](#fzkszsyhighvoltagetype1ctopbig--symbol--symbol_highvoltage_type1_coppertop_big)
+* [FZKSZSYHIGHVOLTAGET1CTOPBIG > Symbol : Symbol_HighVoltage_Type1_CopperTop_Big](#fzkszsyhighvoltaget1ctopbig--symbol--symbol_highvoltage_type1_coppertop_big)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSZSYHIGHVOLTAGETYPE1CTOPBIG > Symbol : Symbol_HighVoltage_Type1_CopperTop_Big
+# FZKSZSYHIGHVOLTAGET1CTOPBIG > Symbol : Symbol_HighVoltage_Type1_CopperTop_Big
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_HighVoltage_Type1_CopperTop_Big
-- Hex ID: FZKSZSYHIGHVOLTAGETYPE1CTOPBIG
+- Hex ID: FZKSZSYHIGHVOLTAGET1CTOPBIG
 - Name: Symbol : Symbol_HighVoltage_Type1_CopperTop_Big
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_HighVoltage_Type1_CopperTop_Big/
 - Description: Symbol : Symbol_HighVoltage_Type1_CopperTop_Big
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_HighVoltage_Type1_CopperTop_Big](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_HighVoltage_Type1_CopperTop_Big)
-- Short Link: [http://oom.lt/FZKSZSYHIGHVOLTAGETYPE1CTOPBIG](http://oom.lt/FZKSZSYHIGHVOLTAGETYPE1CTOPBIG)
+- Short Link: [http://oom.lt/FZKSZSYHIGHVOLTAGET1CTOPBIG](http://oom.lt/FZKSZSYHIGHVOLTAGET1CTOPBIG)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Symbol|
 |OOMP Index|oompIndex|Symbol_HighVoltage_Type1_CopperTop_Big|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_HighVoltage_Type1_CopperTop_Big|
-|Hex ID (short code)|hexID|FZKSZSYHIGHVOLTAGETYPE1CTOPBIG|
+|Hex ID (short code)|hexID|FZKSZSYHIGHVOLTAGET1CTOPBIG|
 |name|name|Symbol : Symbol_HighVoltage_Type1_CopperTop_Big|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Symbol_HighVoltage_Type1_CopperTop_Big'</td><td> 'description'</td></tr><tr><td> 'Symbol</td><td> HighVoltage</td><td> Type1</td><td> Copper Top</td><td> Big</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Symbol</td><td> HighVoltage</td><td> Type1</td><td> Copper Top</td><td> Big</td><td>'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

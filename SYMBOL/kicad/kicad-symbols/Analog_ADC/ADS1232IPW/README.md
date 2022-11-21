@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1232IPW
 - Hex ID: SZKANALOGADCADS1232IPW
 - Name: Analog_ADC : ADS1232IPW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1232IPW/
 - Description: Analog_ADC : ADS1232IPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1232IPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1232IPW)
 - Short Link: [http://oom.lt/SZKANALOGADCADS1232IPW](http://oom.lt/SZKANALOGADCADS1232IPW)

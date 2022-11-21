@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Finder_30.22
 - Hex ID: FZKRELRELAYDPDTFINDER322
 - Name: Relay_THT : Relay_DPDT_Finder_30.22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Finder_30.22/
 - Description: Relay_THT : Relay_DPDT_Finder_30.22
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Finder_30.22](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Finder_30.22)
 - Short Link: [http://oom.lt/FZKRELRELAYDPDTFINDER322](http://oom.lt/FZKRELRELAYDPDTFINDER322)

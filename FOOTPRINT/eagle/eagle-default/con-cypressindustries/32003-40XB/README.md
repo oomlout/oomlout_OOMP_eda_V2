@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cypressindustries-32003-40XB
 - Hex ID: FZECONCYPRESSINDUSTRIES3234XB
 - Name: con-cypressindustries : 32003-40XB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cypressindustries/32003-40XB/
 - Description: con-cypressindustries : 32003-40XB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cypressindustries-32003-40XB](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cypressindustries-32003-40XB)
 - Short Link: [http://oom.lt/FZECONCYPRESSINDUSTRIES3234XB](http://oom.lt/FZECONCYPRESSINDUSTRIES3234XB)

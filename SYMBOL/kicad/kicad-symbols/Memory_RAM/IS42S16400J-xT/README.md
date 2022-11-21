@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IS42S16400J-xT
 - Hex ID: SZKMEMORYRAMIS42S164JXT
 - Name: Memory_RAM : IS42S16400J-xT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS42S16400J-xT/
 - Description: Memory_RAM : IS42S16400J-xT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS42S16400J-xT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS42S16400J-xT)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIS42S164JXT](http://oom.lt/SZKMEMORYRAMIS42S164JXT)

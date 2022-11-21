@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS
 - Hex ID: FZKINLRD15P4X5M12RS
 - Name: Inductor_THT : L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS/
 - Description: Inductor_THT : L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS)
 - Short Link: [http://oom.lt/FZKINLRD15P4X5M12RS](http://oom.lt/FZKINLRD15P4X5M12RS)

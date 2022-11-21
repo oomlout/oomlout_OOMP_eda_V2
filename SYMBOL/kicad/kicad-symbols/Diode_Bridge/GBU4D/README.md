@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU4D
 - Hex ID: SZKDIODEBRIDGEGBU4D
 - Name: Diode_Bridge : GBU4D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GBU4D/
 - Description: Diode_Bridge : GBU4D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU4D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU4D)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEGBU4D](http://oom.lt/SZKDIODEBRIDGEGBU4D)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBURRBROWNSOT235L > burr-brown : SOT23-5L](#fzeburrbrownsot235l--burr-brown--sot23-5l)
+* [FZEBURRBRNSOT235L > burr-brown : SOT23-5L](#fzeburrbrnsot235l--burr-brown--sot23-5l)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBURRBROWNSOT235L > burr-brown : SOT23-5L
+# FZEBURRBRNSOT235L > burr-brown : SOT23-5L
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-SOT23-5L
-- Hex ID: FZEBURRBROWNSOT235L
+- Hex ID: FZEBURRBRNSOT235L
 - Name: burr-brown : SOT23-5L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/burr-brown/SOT23-5L/
 - Description: burr-brown : SOT23-5L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-SOT23-5L](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-SOT23-5L)
-- Short Link: [http://oom.lt/FZEBURRBROWNSOT235L](http://oom.lt/FZEBURRBROWNSOT235L)
+- Short Link: [http://oom.lt/FZEBURRBRNSOT235L](http://oom.lt/FZEBURRBRNSOT235L)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|burr-brown|
 |OOMP Index|oompIndex|SOT23-5L|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-burr-brown-SOT23-5L|
-|Hex ID (short code)|hexID|FZEBURRBROWNSOT235L|
+|Hex ID (short code)|hexID|FZEBURRBRNSOT235L|
 |name|name|burr-brown : SOT23-5L|
 ||||
 

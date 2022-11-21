@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKFUFU2927451METRICPAD21X545HANDSOLDER > Fuse : Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder](#fzkfufu2927451metricpad21x545handsolder--fuse--fuse_2920_7451metric_pad210x545mm_handsolder)
+* [FZKFUFU2927451VAP21X545HSOLDER > Fuse : Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder](#fzkfufu2927451vap21x545hsolder--fuse--fuse_2920_7451metric_pad210x545mm_handsolder)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKFUFU2927451METRICPAD21X545HANDSOLDER > Fuse : Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder
+# FZKFUFU2927451VAP21X545HSOLDER > Fuse : Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder
-- Hex ID: FZKFUFU2927451METRICPAD21X545HANDSOLDER
+- Hex ID: FZKFUFU2927451VAP21X545HSOLDER
 - Name: Fuse : Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder/
 - Description: Fuse : Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder)
-- Short Link: [http://oom.lt/FZKFUFU2927451METRICPAD21X545HANDSOLDER](http://oom.lt/FZKFUFU2927451METRICPAD21X545HANDSOLDER)
+- Short Link: [http://oom.lt/FZKFUFU2927451VAP21X545HSOLDER](http://oom.lt/FZKFUFU2927451VAP21X545HSOLDER)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Fuse|
 |OOMP Index|oompIndex|Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder|
-|Hex ID (short code)|hexID|FZKFUFU2927451METRICPAD21X545HANDSOLDER|
+|Hex ID (short code)|hexID|FZKFUFU2927451VAP21X545HSOLDER|
 |name|name|Fuse : Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Fuse SMD 2920 (7451 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal with elongated pad for handsoldering. (Body size from</td></tr><tr><td> http</td></tr><tr><td>//www.megastar.com/products/fusetronic/polyswitch/PDF/smd2920.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'fuse handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuse_2920_7451Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

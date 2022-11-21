@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LQFP-10X10-64_MCU
 - Hex ID: FZSRTLQFP1X164MCU
 - Name: SparkFun-Retired : LQFP-10X10-64_MCU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LQFP-10X10-64_MCU/
 - Description: SparkFun-Retired : LQFP-10X10-64_MCU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LQFP-10X10-64_MCU](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LQFP-10X10-64_MCU)
 - Short Link: [http://oom.lt/FZSRTLQFP1X164MCU](http://oom.lt/FZSRTLQFP1X164MCU)

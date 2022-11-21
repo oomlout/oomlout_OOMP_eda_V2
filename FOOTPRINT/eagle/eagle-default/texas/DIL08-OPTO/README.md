@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-DIL08-OPTO
 - Hex ID: FZETEXASDIL8OPTO
 - Name: texas : DIL08-OPTO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/DIL08-OPTO/
 - Description: texas : DIL08-OPTO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DIL08-OPTO](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DIL08-OPTO)
 - Short Link: [http://oom.lt/FZETEXASDIL8OPTO](http://oom.lt/FZETEXASDIL8OPTO)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C3216
 - Hex ID: FZERCLC3216
 - Name: rcl : C3216
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C3216/
 - Description: rcl : C3216
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C3216](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C3216)
 - Short Link: [http://oom.lt/FZERCLC3216](http://oom.lt/FZERCLC3216)

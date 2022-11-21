@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCAPACITORSMCPELEC63X54NICHICON > Capacitor_SMD : CP_Elec_6.3x5.4_Nichicon](#fzkcapacitorsmcpelec63x54nichicon--capacitor_smd--cp_elec_63x54_nichicon)
+* [FZKCCPELEC63X54NC > Capacitor_SMD : CP_Elec_6.3x5.4_Nichicon](#fzkccpelec63x54nc--capacitor_smd--cp_elec_63x54_nichicon)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORSMCPELEC63X54NICHICON > Capacitor_SMD : CP_Elec_6.3x5.4_Nichicon
+# FZKCCPELEC63X54NC > Capacitor_SMD : CP_Elec_6.3x5.4_Nichicon
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_6.3x5.4_Nichicon
-- Hex ID: FZKCAPACITORSMCPELEC63X54NICHICON
+- Hex ID: FZKCCPELEC63X54NC
 - Name: Capacitor_SMD : CP_Elec_6.3x5.4_Nichicon
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_6.3x5.4_Nichicon/
 - Description: Capacitor_SMD : CP_Elec_6.3x5.4_Nichicon
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_6.3x5.4_Nichicon](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_6.3x5.4_Nichicon)
-- Short Link: [http://oom.lt/FZKCAPACITORSMCPELEC63X54NICHICON](http://oom.lt/FZKCAPACITORSMCPELEC63X54NICHICON)
+- Short Link: [http://oom.lt/FZKCCPELEC63X54NC](http://oom.lt/FZKCCPELEC63X54NC)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_SMD|
 |OOMP Index|oompIndex|CP_Elec_6.3x5.4_Nichicon|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_6.3x5.4_Nichicon|
-|Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC63X54NICHICON|
+|Hex ID (short code)|hexID|FZKCCPELEC63X54NC|
 |name|name|Capacitor_SMD : CP_Elec_6.3x5.4_Nichicon|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Elec_6.3x5.4_Nichicon'</td><td> 'description'</td></tr><tr><td> 'SMD capacitor</td><td> aluminum electrolytic</td><td> Nichicon</td><td> 6.3x5.4mm'</td><td> 'tags'</td></tr><tr><td> 'capacitor electrolytic'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/CP_Elec_6.3x5.4_Nichicon.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

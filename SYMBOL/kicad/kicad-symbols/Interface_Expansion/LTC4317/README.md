@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4317
 - Hex ID: SZKINTERFACEEXPANSIONLTC4317
 - Name: Interface_Expansion : LTC4317
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/LTC4317/
 - Description: Interface_Expansion : LTC4317
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4317](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4317)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONLTC4317](http://oom.lt/SZKINTERFACEEXPANSIONLTC4317)

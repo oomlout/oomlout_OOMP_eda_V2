@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-48_18.4x12mm_P0.5mm
 - Hex ID: FZKSOTSI48184X12P5
 - Name: Package_SO : TSOP-I-48_18.4x12mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-48_18.4x12mm_P0.5mm/
 - Description: Package_SO : TSOP-I-48_18.4x12mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-48_18.4x12mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-48_18.4x12mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKSOTSI48184X12P5](http://oom.lt/FZKSOTSI48184X12P5)

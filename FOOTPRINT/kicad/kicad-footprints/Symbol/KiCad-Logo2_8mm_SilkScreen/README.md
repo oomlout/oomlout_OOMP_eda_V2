@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo2_8mm_SilkScreen
 - Hex ID: FZKSZKICADL28SILKSCREEN
 - Name: Symbol : KiCad-Logo2_8mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/KiCad-Logo2_8mm_SilkScreen/
 - Description: Symbol : KiCad-Logo2_8mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo2_8mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo2_8mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZKICADL28SILKSCREEN](http://oom.lt/FZKSZKICADL28SILKSCREEN)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-CIP20C-4MM
 - Hex ID: FZEPOTCIP2C4
 - Name: pot : CIP20C-4MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/CIP20C-4MM/
 - Description: pot : CIP20C-4MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-CIP20C-4MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-CIP20C-4MM)
 - Short Link: [http://oom.lt/FZEPOTCIP2C4](http://oom.lt/FZEPOTCIP2C4)

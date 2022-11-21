@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLVISHAYIHSM7832 > Inductor_SMD : L_Vishay_IHSM-7832](#fzkinductorsmlvishayihsm7832--inductor_smd--l_vishay_ihsm-7832)
+* [FZKINLVISHAYIHSM7832 > Inductor_SMD : L_Vishay_IHSM-7832](#fzkinlvishayihsm7832--inductor_smd--l_vishay_ihsm-7832)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLVISHAYIHSM7832 > Inductor_SMD : L_Vishay_IHSM-7832
+# FZKINLVISHAYIHSM7832 > Inductor_SMD : L_Vishay_IHSM-7832
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-7832
-- Hex ID: FZKINDUCTORSMLVISHAYIHSM7832
+- Hex ID: FZKINLVISHAYIHSM7832
 - Name: Inductor_SMD : L_Vishay_IHSM-7832
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-7832/
 - Description: Inductor_SMD : L_Vishay_IHSM-7832
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-7832](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-7832)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLVISHAYIHSM7832](http://oom.lt/FZKINDUCTORSMLVISHAYIHSM7832)
+- Short Link: [http://oom.lt/FZKINLVISHAYIHSM7832](http://oom.lt/FZKINLVISHAYIHSM7832)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Vishay_IHSM-7832|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-7832|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLVISHAYIHSM7832|
+|Hex ID (short code)|hexID|FZKINLVISHAYIHSM7832|
 |name|name|Inductor_SMD : L_Vishay_IHSM-7832|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Vishay_IHSM-7832'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Vishay</td><td> Vishay_IHSM-7832</td><td> http</td></tr><tr><td>//www.vishay.com/docs/34021/ihsm7832.pdf</td><td> 19.8mmx8.1mm'</td><td> 'tags'</td></tr><tr><td> 'inductor vishay icsm smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Vishay_IHSM-7832.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

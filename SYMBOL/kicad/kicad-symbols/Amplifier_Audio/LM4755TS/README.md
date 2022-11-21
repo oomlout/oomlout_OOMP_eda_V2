@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4755TS
 - Hex ID: SZKAMPLIFIERAUDIOLM4755TS
 - Name: Amplifier_Audio : LM4755TS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM4755TS/
 - Description: Amplifier_Audio : LM4755TS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4755TS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4755TS)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM4755TS](http://oom.lt/SZKAMPLIFIERAUDIOLM4755TS)

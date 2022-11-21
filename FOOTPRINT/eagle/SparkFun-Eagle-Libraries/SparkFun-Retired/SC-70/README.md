@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SC-70
 - Hex ID: FZSRTSC7
 - Name: SparkFun-Retired : SC-70
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SC-70/
 - Description: SparkFun-Retired : SC-70
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SC-70](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SC-70)
 - Short Link: [http://oom.lt/FZSRTSC7](http://oom.lt/FZSRTSC7)

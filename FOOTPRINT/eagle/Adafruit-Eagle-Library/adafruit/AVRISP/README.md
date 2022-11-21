@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AVRISP
 - Hex ID: FZAAVRISP
 - Name: adafruit : AVRISP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/AVRISP/
 - Description: adafruit : AVRISP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AVRISP](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AVRISP)
 - Short Link: [http://oom.lt/FZAAVRISP](http://oom.lt/FZAAVRISP)

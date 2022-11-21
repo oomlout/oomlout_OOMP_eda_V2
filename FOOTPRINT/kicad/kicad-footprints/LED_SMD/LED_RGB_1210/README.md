@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKLSMLRGB121 > LED_SMD : LED_RGB_1210](#fzklsmlrgb121--led_smd--led_rgb_1210)
+* [FZKLLRGB121 > LED_SMD : LED_RGB_1210](#fzkllrgb121--led_smd--led_rgb_1210)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLRGB121 > LED_SMD : LED_RGB_1210
+# FZKLLRGB121 > LED_SMD : LED_RGB_1210
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_1210
-- Hex ID: FZKLSMLRGB121
+- Hex ID: FZKLLRGB121
 - Name: LED_SMD : LED_RGB_1210
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_RGB_1210/
 - Description: LED_SMD : LED_RGB_1210
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_1210](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_1210)
-- Short Link: [http://oom.lt/FZKLSMLRGB121](http://oom.lt/FZKLSMLRGB121)
+- Short Link: [http://oom.lt/FZKLLRGB121](http://oom.lt/FZKLLRGB121)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_RGB_1210|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_1210|
-|Hex ID (short code)|hexID|FZKLSMLRGB121|
+|Hex ID (short code)|hexID|FZKLLRGB121|
 |name|name|LED_SMD : LED_RGB_1210|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_RGB_1210'</td><td> 'description'</td></tr><tr><td> 'RGB LED 3.2x2.7mm http</td></tr><tr><td>//www.avagotech.com/docs/AV02-0610EN'</td><td> 'tags'</td></tr><tr><td> 'LED 3227'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_RGB_1210.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

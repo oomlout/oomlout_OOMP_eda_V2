@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC3892
 - Hex ID: SZKREGULATORCONTROLLERLTC3892
 - Name: Regulator_Controller : LTC3892
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LTC3892/
 - Description: Regulator_Controller : LTC3892
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC3892](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC3892)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERLTC3892](http://oom.lt/SZKREGULATORCONTROLLERLTC3892)

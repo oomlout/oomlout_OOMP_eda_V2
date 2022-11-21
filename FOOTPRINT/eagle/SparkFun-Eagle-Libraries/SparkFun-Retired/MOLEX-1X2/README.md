@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MOLEX-1X2
 - Hex ID: FZSRTMX1X2
 - Name: SparkFun-Retired : MOLEX-1X2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/MOLEX-1X2/
 - Description: SparkFun-Retired : MOLEX-1X2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MOLEX-1X2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MOLEX-1X2)
 - Short Link: [http://oom.lt/FZSRTMX1X2](http://oom.lt/FZSRTMX1X2)

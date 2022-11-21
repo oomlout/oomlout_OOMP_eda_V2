@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cpci-CPCI_6U_AB47
 - Hex ID: FZECONCPCICPCI6UAB47
 - Name: con-cpci : CPCI_6U_AB47
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cpci/CPCI_6U_AB47/
 - Description: con-cpci : CPCI_6U_AB47
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-CPCI_6U_AB47](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-CPCI_6U_AB47)
 - Short Link: [http://oom.lt/FZECONCPCICPCI6UAB47](http://oom.lt/FZECONCPCICPCI6UAB47)

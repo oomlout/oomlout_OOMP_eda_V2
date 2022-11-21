@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CR2032-THRU
 - Hex ID: FZACR232THRU
 - Name: adafruit : CR2032-THRU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CR2032-THRU/
 - Description: adafruit : CR2032-THRU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CR2032-THRU](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CR2032-THRU)
 - Short Link: [http://oom.lt/FZACR232THRU](http://oom.lt/FZACR232THRU)

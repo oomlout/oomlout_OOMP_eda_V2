@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-7.0X5.0_6
 - Hex ID: FZEXGEYERV17X56
 - Name: crystal-geyer_V1_0 : 7.0X5.0_6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal-geyer_V1_0/7.0X5.0_6/
 - Description: crystal-geyer_V1_0 : 7.0X5.0_6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-7.0X5.0_6](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-7.0X5.0_6)
 - Short Link: [http://oom.lt/FZEXGEYERV17X56](http://oom.lt/FZEXGEYERV17X56)

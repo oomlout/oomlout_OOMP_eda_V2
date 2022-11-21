@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MSOP10
 - Hex ID: FZAMS1
 - Name: adafruit : MSOP10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MSOP10/
 - Description: adafruit : MSOP10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MSOP10](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MSOP10)
 - Short Link: [http://oom.lt/FZAMS1](http://oom.lt/FZAMS1)

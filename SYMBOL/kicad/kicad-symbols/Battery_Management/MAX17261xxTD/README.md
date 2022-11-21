@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-MAX17261xxTD
 - Hex ID: SZKBATMANAGEMENTMAX17261XXTD
 - Name: Battery_Management : MAX17261xxTD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX17261xxTD/
 - Description: Battery_Management : MAX17261xxTD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX17261xxTD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX17261xxTD)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMAX17261XXTD](http://oom.lt/SZKBATMANAGEMENTMAX17261XXTD)

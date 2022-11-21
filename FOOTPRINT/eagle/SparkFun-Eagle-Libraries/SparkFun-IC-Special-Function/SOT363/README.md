@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SOT363
 - Hex ID: FZSISSOT363
 - Name: SparkFun-IC-Special-Function : SOT363
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/SOT363/
 - Description: SparkFun-IC-Special-Function : SOT363
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SOT363](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-SOT363)
 - Short Link: [http://oom.lt/FZSISSOT363](http://oom.lt/FZSISSOT363)

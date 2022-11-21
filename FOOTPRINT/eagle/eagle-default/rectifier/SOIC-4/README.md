@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-SOIC-4
 - Hex ID: FZERECTIFIERSOIC4
 - Name: rectifier : SOIC-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/SOIC-4/
 - Description: rectifier : SOIC-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-SOIC-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-SOIC-4)
 - Short Link: [http://oom.lt/FZERECTIFIERSOIC4](http://oom.lt/FZERECTIFIERSOIC4)

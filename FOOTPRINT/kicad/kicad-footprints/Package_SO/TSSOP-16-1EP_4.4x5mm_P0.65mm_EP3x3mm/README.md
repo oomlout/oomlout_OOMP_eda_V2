@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm
 - Hex ID: FZKSOTSS161EP44X5P65EP3X3
 - Name: Package_SO : TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm/
 - Description: Package_SO : TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm)
 - Short Link: [http://oom.lt/FZKSOTSS161EP44X5P65EP3X3](http://oom.lt/FZKSOTSS161EP44X5P65EP3X3)

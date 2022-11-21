@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-MC-306
 - Hex ID: FZEXMC36
 - Name: crystal : MC-306
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/MC-306/
 - Description: crystal : MC-306
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-MC-306](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-MC-306)
 - Short Link: [http://oom.lt/FZEXMC36](http://oom.lt/FZEXMC36)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RP-SLA
 - Hex ID: FZERELAYRPSLA
 - Name: relay : RP-SLA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RP-SLA/
 - Description: relay : RP-SLA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RP-SLA](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RP-SLA)
 - Short Link: [http://oom.lt/FZERELAYRPSLA](http://oom.lt/FZERELAYRPSLA)

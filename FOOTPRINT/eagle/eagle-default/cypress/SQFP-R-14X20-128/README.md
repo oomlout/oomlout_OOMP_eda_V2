@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-SQFP-R-14X20-128
 - Hex ID: FZECYPRESSSQFPR14X2128
 - Name: cypress : SQFP-R-14X20-128
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/SQFP-R-14X20-128/
 - Description: cypress : SQFP-R-14X20-128
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SQFP-R-14X20-128](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SQFP-R-14X20-128)
 - Short Link: [http://oom.lt/FZECYPRESSSQFPR14X2128](http://oom.lt/FZECYPRESSSQFPR14X2128)

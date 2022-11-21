@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-R-PQFP-N20
 - Hex ID: FZETEXASRPQFPN2
 - Name: texas : R-PQFP-N20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/R-PQFP-N20/
 - Description: texas : R-PQFP-N20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-R-PQFP-N20](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-R-PQFP-N20)
 - Short Link: [http://oom.lt/FZETEXASRPQFPN2](http://oom.lt/FZETEXASRPQFPN2)

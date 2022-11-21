@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-KPS-1290
 - Hex ID: FZSRTKPS129
 - Name: SparkFun-Retired : KPS-1290
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/KPS-1290/
 - Description: SparkFun-Retired : KPS-1290
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-KPS-1290](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-KPS-1290)
 - Short Link: [http://oom.lt/FZSRTKPS129](http://oom.lt/FZSRTKPS129)

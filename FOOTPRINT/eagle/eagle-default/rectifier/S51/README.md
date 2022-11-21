@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-S51
 - Hex ID: FZERECTIFIERS51
 - Name: rectifier : S51
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/S51/
 - Description: rectifier : S51
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-S51](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-S51)
 - Short Link: [http://oom.lt/FZERECTIFIERS51](http://oom.lt/FZERECTIFIERS51)

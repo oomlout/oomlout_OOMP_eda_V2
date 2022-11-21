@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SB120
 - Hex ID: SZKDIODESB12
 - Name: Diode : SB120
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SB120/
 - Description: Diode : SB120
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SB120](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SB120)
 - Short Link: [http://oom.lt/SZKDIODESB12](http://oom.lt/SZKDIODESB12)

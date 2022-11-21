@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-cirrus-logic-SOIC16
 - Hex ID: FZECIRRUSLOGICSOIC16
 - Name: cirrus-logic : SOIC16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cirrus-logic/SOIC16/
 - Description: cirrus-logic : SOIC16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cirrus-logic-SOIC16](http://oom.lt/FOOTPRINT-eagle-eagle-default-cirrus-logic-SOIC16)
 - Short Link: [http://oom.lt/FZECIRRUSLOGICSOIC16](http://oom.lt/FZECIRRUSLOGICSOIC16)

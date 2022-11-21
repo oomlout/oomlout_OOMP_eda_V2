@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-TCM809
 - Hex ID: SZKPOWERSUPERVISORTCM89
 - Name: Power_Supervisor : TCM809
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TCM809/
 - Description: Power_Supervisor : TCM809
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TCM809](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TCM809)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTCM89](http://oom.lt/SZKPOWERSUPERVISORTCM89)

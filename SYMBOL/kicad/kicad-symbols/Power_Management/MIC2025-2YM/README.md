@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-MIC2025-2YM
 - Hex ID: SZKPOWERMANAGEMENTMIC2252YM
 - Name: Power_Management : MIC2025-2YM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/MIC2025-2YM/
 - Description: Power_Management : MIC2025-2YM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MIC2025-2YM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MIC2025-2YM)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTMIC2252YM](http://oom.lt/SZKPOWERMANAGEMENTMIC2252YM)

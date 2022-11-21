@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIPLED_0603
 - Hex ID: FZACHIPL63
 - Name: adafruit : CHIPLED_0603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CHIPLED_0603/
 - Description: adafruit : CHIPLED_0603
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIPLED_0603](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIPLED_0603)
 - Short Link: [http://oom.lt/FZACHIPL63](http://oom.lt/FZACHIPL63)

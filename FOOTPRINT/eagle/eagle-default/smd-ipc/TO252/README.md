@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-TO252
 - Hex ID: FZESMIPCTO252
 - Name: smd-ipc : TO252
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/TO252/
 - Description: smd-ipc : TO252
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TO252](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TO252)
 - Short Link: [http://oom.lt/FZESMIPCTO252](http://oom.lt/FZESMIPCTO252)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Microphone_Crystal
 - Hex ID: SZKDEVICEMPHONEX
 - Name: Device : Microphone_Crystal
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Microphone_Crystal/
 - Description: Device : Microphone_Crystal
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone_Crystal](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone_Crystal)
 - Short Link: [http://oom.lt/SZKDEVICEMPHONEX](http://oom.lt/SZKDEVICEMPHONEX)

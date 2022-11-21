@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0603-POLAR
 - Hex ID: FZSC63POLAR
 - Name: SparkFun-Capacitors : 0603-POLAR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/0603-POLAR/
 - Description: SparkFun-Capacitors : 0603-POLAR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0603-POLAR](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0603-POLAR)
 - Short Link: [http://oom.lt/FZSC63POLAR](http://oom.lt/FZSC63POLAR)

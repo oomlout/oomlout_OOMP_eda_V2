@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-RM5-4
 - Hex ID: FZETRAFOSIEMENSRM54
 - Name: trafo-siemens : RM5-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo-siemens/RM5-4/
 - Description: trafo-siemens : RM5-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM5-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM5-4)
 - Short Link: [http://oom.lt/FZETRAFOSIEMENSRM54](http://oom.lt/FZETRAFOSIEMENSRM54)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R3225
 - Hex ID: FZAR3225
 - Name: adafruit : R3225
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/R3225/
 - Description: adafruit : R3225
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R3225](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R3225)
 - Short Link: [http://oom.lt/FZAR3225](http://oom.lt/FZAR3225)

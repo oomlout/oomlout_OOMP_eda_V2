@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-DZ2S051X0L
 - Hex ID: SZKDIODEDZ2S51XL
 - Name: Diode : DZ2S051X0L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/DZ2S051X0L/
 - Description: Diode : DZ2S051X0L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DZ2S051X0L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DZ2S051X0L)
 - Short Link: [http://oom.lt/SZKDIODEDZ2S51XL](http://oom.lt/SZKDIODEDZ2S51XL)

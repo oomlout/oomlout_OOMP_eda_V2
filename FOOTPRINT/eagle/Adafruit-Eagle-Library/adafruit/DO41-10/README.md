@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO41-10
 - Hex ID: FZADO411
 - Name: adafruit : DO41-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/DO41-10/
 - Description: adafruit : DO41-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO41-10](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO41-10)
 - Short Link: [http://oom.lt/FZADO411](http://oom.lt/FZADO411)

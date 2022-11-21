@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-COILCRAFT_DA230X
 - Hex ID: FZSCOCOILCRAFTDA23X
 - Name: SparkFun-Coils : COILCRAFT_DA230X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/COILCRAFT_DA230X/
 - Description: SparkFun-Coils : COILCRAFT_DA230X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-COILCRAFT_DA230X](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-COILCRAFT_DA230X)
 - Short Link: [http://oom.lt/FZSCOCOILCRAFTDA23X](http://oom.lt/FZSCOCOILCRAFTDA23X)

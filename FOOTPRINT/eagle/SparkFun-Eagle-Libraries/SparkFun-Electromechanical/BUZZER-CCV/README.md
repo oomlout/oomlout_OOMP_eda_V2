@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-BUZZER-CCV
 - Hex ID: FZSEBUZZERCCV
 - Name: SparkFun-Electromechanical : BUZZER-CCV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Electromechanical/BUZZER-CCV/
 - Description: SparkFun-Electromechanical : BUZZER-CCV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-BUZZER-CCV](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-BUZZER-CCV)
 - Short Link: [http://oom.lt/FZSEBUZZERCCV](http://oom.lt/FZSEBUZZERCCV)

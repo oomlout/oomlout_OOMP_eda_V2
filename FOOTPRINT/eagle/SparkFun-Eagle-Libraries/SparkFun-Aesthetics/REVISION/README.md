@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-REVISION
 - Hex ID: FZSAREVISION
 - Name: SparkFun-Aesthetics : REVISION
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/REVISION/
 - Description: SparkFun-Aesthetics : REVISION
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-REVISION](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-REVISION)
 - Short Link: [http://oom.lt/FZSAREVISION](http://oom.lt/FZSAREVISION)

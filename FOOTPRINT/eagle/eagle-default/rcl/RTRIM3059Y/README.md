@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIM3059Y
 - Hex ID: FZERCLRTRIM359Y
 - Name: rcl : RTRIM3059Y
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/RTRIM3059Y/
 - Description: rcl : RTRIM3059Y
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM3059Y](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM3059Y)
 - Short Link: [http://oom.lt/FZERCLRTRIM359Y](http://oom.lt/FZERCLRTRIM359Y)

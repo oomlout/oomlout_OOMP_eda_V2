@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-SA08-21
 - Hex ID: FZELSA821
 - Name: led : SA08-21
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/SA08-21/
 - Description: led : SA08-21
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SA08-21](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SA08-21)
 - Short Link: [http://oom.lt/FZELSA821](http://oom.lt/FZELSA821)

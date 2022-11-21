@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO08WIDE
 - Hex ID: FZSRTSO8WIDE
 - Name: SparkFun-Retired : SO08WIDE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SO08WIDE/
 - Description: SparkFun-Retired : SO08WIDE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO08WIDE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO08WIDE)
 - Short Link: [http://oom.lt/FZSRTSO8WIDE](http://oom.lt/FZSRTSO8WIDE)

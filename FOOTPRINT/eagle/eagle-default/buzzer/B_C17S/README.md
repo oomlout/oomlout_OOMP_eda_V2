@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-B_C17S
 - Hex ID: FZEBUZZERBC17S
 - Name: buzzer : B_C17S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/B_C17S/
 - Description: buzzer : B_C17S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-B_C17S](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-B_C17S)
 - Short Link: [http://oom.lt/FZEBUZZERBC17S](http://oom.lt/FZEBUZZERBC17S)

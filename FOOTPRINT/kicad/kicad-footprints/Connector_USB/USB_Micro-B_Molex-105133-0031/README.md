@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Molex-105133-0031
 - Hex ID: FZKCNUUMBMX1513331
 - Name: Connector_USB : USB_Micro-B_Molex-105133-0031
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Molex-105133-0031/
 - Description: Connector_USB : USB_Micro-B_Molex-105133-0031
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Molex-105133-0031](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Molex-105133-0031)
 - Short Link: [http://oom.lt/FZKCNUUMBMX1513331](http://oom.lt/FZKCNUUMBMX1513331)

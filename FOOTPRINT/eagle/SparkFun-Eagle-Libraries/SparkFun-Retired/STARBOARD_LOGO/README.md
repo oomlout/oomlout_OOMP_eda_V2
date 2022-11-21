@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-STARBOARD_LOGO
 - Hex ID: FZSRTSTARBOARDL
 - Name: SparkFun-Retired : STARBOARD_LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/STARBOARD_LOGO/
 - Description: SparkFun-Retired : STARBOARD_LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-STARBOARD_LOGO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-STARBOARD_LOGO)
 - Short Link: [http://oom.lt/FZSRTSTARBOARDL](http://oom.lt/FZSRTSTARBOARDL)

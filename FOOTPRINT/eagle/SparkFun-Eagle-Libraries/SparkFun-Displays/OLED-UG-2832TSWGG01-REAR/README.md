@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OLED-UG-2832TSWGG01-REAR
 - Hex ID: FZSSPARKFUNDISOLUG2832TSWGG1REAR
 - Name: SparkFun-Displays : OLED-UG-2832TSWGG01-REAR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/OLED-UG-2832TSWGG01-REAR/
 - Description: SparkFun-Displays : OLED-UG-2832TSWGG01-REAR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OLED-UG-2832TSWGG01-REAR](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OLED-UG-2832TSWGG01-REAR)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISOLUG2832TSWGG1REAR](http://oom.lt/FZSSPARKFUNDISOLUG2832TSWGG1REAR)

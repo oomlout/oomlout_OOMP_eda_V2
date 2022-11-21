@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CPG236
 - Hex ID: FZKBGAXILINXCPG236
 - Name: Package_BGA : Xilinx_CPG236
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_CPG236/
 - Description: Package_BGA : Xilinx_CPG236
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CPG236](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CPG236)
 - Short Link: [http://oom.lt/FZKBGAXILINXCPG236](http://oom.lt/FZKBGAXILINXCPG236)

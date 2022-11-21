@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SSOP28
 - Hex ID: FZASS28
 - Name: adafruit : SSOP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SSOP28/
 - Description: adafruit : SSOP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SSOP28](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SSOP28)
 - Short Link: [http://oom.lt/FZASS28](http://oom.lt/FZASS28)

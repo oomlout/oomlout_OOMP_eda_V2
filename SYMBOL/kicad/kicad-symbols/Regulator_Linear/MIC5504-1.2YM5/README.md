@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5504-1.2YM5
 - Hex ID: SZKREGULATORLINEARMIC55412YM5
 - Name: Regulator_Linear : MIC5504-1.2YM5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5504-1.2YM5/
 - Description: Regulator_Linear : MIC5504-1.2YM5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5504-1.2YM5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5504-1.2YM5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC55412YM5](http://oom.lt/SZKREGULATORLINEARMIC55412YM5)

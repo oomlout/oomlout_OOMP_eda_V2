@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DF40-XC-(X.X)-70DS-0.4V(51)
 - Hex ID: FZSSPARKFUNCNSDF4XC(XX)7DS4V(51)
 - Name: SparkFun-Connectors : DF40-XC-(X.X)-70DS-0.4V(51)
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/DF40-XC-(X.X)-70DS-0.4V(51)/
 - Description: SparkFun-Connectors : DF40-XC-(X.X)-70DS-0.4V(51)
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DF40-XC-(X.X)-70DS-0.4V(51)](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DF40-XC-(X.X)-70DS-0.4V(51))
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSDF4XC(XX)7DS4V(51)](http://oom.lt/FZSSPARKFUNCNSDF4XC(XX)7DS4V(51))

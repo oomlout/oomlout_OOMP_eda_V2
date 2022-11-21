@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7824
 - Hex ID: SZKREGULATORLINEARL7824
 - Name: Regulator_Linear : L7824
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7824/
 - Description: Regulator_Linear : L7824
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7824](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7824)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL7824](http://oom.lt/SZKREGULATORLINEARL7824)

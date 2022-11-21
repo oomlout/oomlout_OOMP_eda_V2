@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-CA9V
 - Hex ID: FZEPOTCA9V
 - Name: pot : CA9V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/CA9V/
 - Description: pot : CA9V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-CA9V](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-CA9V)
 - Short Link: [http://oom.lt/FZEPOTCA9V](http://oom.lt/FZEPOTCA9V)

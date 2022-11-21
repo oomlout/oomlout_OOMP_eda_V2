@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-87360-SCSI
 - Hex ID: FZECONMX8736SCSI
 - Name: con-molex : 87360-SCSI
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/87360-SCSI/
 - Description: con-molex : 87360-SCSI
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-87360-SCSI](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-87360-SCSI)
 - Short Link: [http://oom.lt/FZECONMX8736SCSI](http://oom.lt/FZECONMX8736SCSI)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-POT_ALPHA_RV16AF-20
 - Hex ID: FZSRTPOTALPHARV16AF2
 - Name: SparkFun-Retired : POT_ALPHA_RV16AF-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/POT_ALPHA_RV16AF-20/
 - Description: SparkFun-Retired : POT_ALPHA_RV16AF-20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-POT_ALPHA_RV16AF-20](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-POT_ALPHA_RV16AF-20)
 - Short Link: [http://oom.lt/FZSRTPOTALPHARV16AF2](http://oom.lt/FZSRTPOTALPHARV16AF2)

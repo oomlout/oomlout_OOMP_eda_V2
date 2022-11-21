@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-MSOP8
 - Hex ID: FZSDSMS8
 - Name: SparkFun-DiscreteSemi : MSOP8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/MSOP8/
 - Description: SparkFun-DiscreteSemi : MSOP8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-MSOP8](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-MSOP8)
 - Short Link: [http://oom.lt/FZSDSMS8](http://oom.lt/FZSDSMS8)

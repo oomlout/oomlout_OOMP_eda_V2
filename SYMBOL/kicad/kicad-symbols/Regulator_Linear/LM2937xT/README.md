@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2937xT
 - Hex ID: SZKREGULATORLINEARLM2937XT
 - Name: Regulator_Linear : LM2937xT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM2937xT/
 - Description: Regulator_Linear : LM2937xT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2937xT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2937xT)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM2937XT](http://oom.lt/SZKREGULATORLINEARLM2937XT)

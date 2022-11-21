@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_BIG
 - Hex ID: FZSSPARKFUNCNS1X2BIG
 - Name: SparkFun-Connectors : 1X02_BIG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X02_BIG/
 - Description: SparkFun-Connectors : 1X02_BIG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_BIG](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_BIG)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X2BIG](http://oom.lt/FZSSPARKFUNCNS1X2BIG)

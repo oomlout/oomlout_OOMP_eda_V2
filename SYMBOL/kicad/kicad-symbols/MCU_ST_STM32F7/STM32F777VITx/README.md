@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F777VITx
 - Hex ID: SZKMCUSTSTM32F7STM32F777VITX
 - Name: MCU_ST_STM32F7 : STM32F777VITx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F777VITx/
 - Description: MCU_ST_STM32F7 : STM32F777VITx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F777VITx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F777VITx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F777VITX](http://oom.lt/SZKMCUSTSTM32F7STM32F777VITX)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G17
 - Hex ID: SZK74XGXX74AUP1G17
 - Name: 74xGxx : 74AUP1G17
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74AUP1G17/
 - Description: 74xGxx : 74AUP1G17
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G17](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G17)
 - Short Link: [http://oom.lt/SZK74XGXX74AUP1G17](http://oom.lt/SZK74XGXX74AUP1G17)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-HCPL-063A
 - Hex ID: SZKISOLATORHCPL63A
 - Name: Isolator : HCPL-063A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/HCPL-063A/
 - Description: Isolator : HCPL-063A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-063A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-063A)
 - Short Link: [http://oom.lt/SZKISOLATORHCPL63A](http://oom.lt/SZKISOLATORHCPL63A)

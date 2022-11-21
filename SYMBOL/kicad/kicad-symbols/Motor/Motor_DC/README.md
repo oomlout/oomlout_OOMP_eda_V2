@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_DC
 - Hex ID: SZKMOTORMOTORDC
 - Name: Motor : Motor_DC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC/
 - Description: Motor : Motor_DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_DC)
 - Short Link: [http://oom.lt/SZKMOTORMOTORDC](http://oom.lt/SZKMOTORMOTORDC)

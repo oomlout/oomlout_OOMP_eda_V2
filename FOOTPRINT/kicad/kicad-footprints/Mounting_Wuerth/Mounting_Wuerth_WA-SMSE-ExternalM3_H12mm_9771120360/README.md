@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSE-ExternalM3_H12mm_9771120360
 - Hex ID: FZKMONMONWASMSEEXTERNALM3H1297711236
 - Name: Mounting_Wuerth : Mounting_Wuerth_WA-SMSE-ExternalM3_H12mm_9771120360
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSE-ExternalM3_H12mm_9771120360/
 - Description: Mounting_Wuerth : Mounting_Wuerth_WA-SMSE-ExternalM3_H12mm_9771120360
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSE-ExternalM3_H12mm_9771120360](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSE-ExternalM3_H12mm_9771120360)
 - Short Link: [http://oom.lt/FZKMONMONWASMSEEXTERNALM3H1297711236](http://oom.lt/FZKMONMONWASMSEEXTERNALM3H1297711236)

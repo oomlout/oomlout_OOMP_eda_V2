@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-NAIS-LOGO
 - Hex ID: FZERELAYNAISL
 - Name: relay : NAIS-LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/NAIS-LOGO/
 - Description: relay : NAIS-LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-NAIS-LOGO](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-NAIS-LOGO)
 - Short Link: [http://oom.lt/FZERELAYNAISL](http://oom.lt/FZERELAYNAISL)

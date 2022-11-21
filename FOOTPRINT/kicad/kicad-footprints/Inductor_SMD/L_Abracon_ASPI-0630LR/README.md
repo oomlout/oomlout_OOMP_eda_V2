@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLABRACONASPI63LR > Inductor_SMD : L_Abracon_ASPI-0630LR](#fzkinductorsmlabraconaspi63lr--inductor_smd--l_abracon_aspi-0630lr)
+* [FZKINLABRACONASPI63LR > Inductor_SMD : L_Abracon_ASPI-0630LR](#fzkinlabraconaspi63lr--inductor_smd--l_abracon_aspi-0630lr)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLABRACONASPI63LR > Inductor_SMD : L_Abracon_ASPI-0630LR
+# FZKINLABRACONASPI63LR > Inductor_SMD : L_Abracon_ASPI-0630LR
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-0630LR
-- Hex ID: FZKINDUCTORSMLABRACONASPI63LR
+- Hex ID: FZKINLABRACONASPI63LR
 - Name: Inductor_SMD : L_Abracon_ASPI-0630LR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Abracon_ASPI-0630LR/
 - Description: Inductor_SMD : L_Abracon_ASPI-0630LR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-0630LR](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-0630LR)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLABRACONASPI63LR](http://oom.lt/FZKINDUCTORSMLABRACONASPI63LR)
+- Short Link: [http://oom.lt/FZKINLABRACONASPI63LR](http://oom.lt/FZKINLABRACONASPI63LR)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Abracon_ASPI-0630LR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-0630LR|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLABRACONASPI63LR|
+|Hex ID (short code)|hexID|FZKINLABRACONASPI63LR|
 |name|name|Inductor_SMD : L_Abracon_ASPI-0630LR|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Abracon_ASPI-0630LR'</td><td> 'description'</td></tr><tr><td> 'smd shielded power inductor https</td></tr><tr><td>//abracon.com/Magnetics/power/ASPI-0630LR.pdf'</td><td> 'tags'</td></tr><tr><td> 'inductor abracon smd shielded'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Abracon_ASPI-0630LR.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-NX3225
 - Hex ID: FZANX3225
 - Name: adafruit : NX3225
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/NX3225/
 - Description: adafruit : NX3225
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-NX3225](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-NX3225)
 - Short Link: [http://oom.lt/FZANX3225](http://oom.lt/FZANX3225)

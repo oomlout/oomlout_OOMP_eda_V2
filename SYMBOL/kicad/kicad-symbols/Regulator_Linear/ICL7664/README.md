@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-ICL7664
 - Hex ID: SZKREGULATORLINEARICL7664
 - Name: Regulator_Linear : ICL7664
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ICL7664/
 - Description: Regulator_Linear : ICL7664
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ICL7664](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ICL7664)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARICL7664](http://oom.lt/SZKREGULATORLINEARICL7664)

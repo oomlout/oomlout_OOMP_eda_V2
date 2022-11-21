@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCH71BT3A1 > switch : 71BT-30-A1](#fzeswitch71bt3a1--switch--71bt-30-a1)
+* [FZESW71BT3A1 > switch : 71BT-30-A1](#fzesw71bt3a1--switch--71bt-30-a1)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCH71BT3A1 > switch : 71BT-30-A1
+# FZESW71BT3A1 > switch : 71BT-30-A1
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-71BT-30-A1
-- Hex ID: FZESWITCH71BT3A1
+- Hex ID: FZESW71BT3A1
 - Name: switch : 71BT-30-A1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/71BT-30-A1/
 - Description: switch : 71BT-30-A1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-71BT-30-A1](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-71BT-30-A1)
-- Short Link: [http://oom.lt/FZESWITCH71BT3A1](http://oom.lt/FZESWITCH71BT3A1)
+- Short Link: [http://oom.lt/FZESW71BT3A1](http://oom.lt/FZESW71BT3A1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|71BT-30-A1|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-71BT-30-A1|
-|Hex ID (short code)|hexID|FZESWITCH71BT3A1|
+|Hex ID (short code)|hexID|FZESW71BT3A1|
 |name|name|switch : 71BT-30-A1|
 ||||

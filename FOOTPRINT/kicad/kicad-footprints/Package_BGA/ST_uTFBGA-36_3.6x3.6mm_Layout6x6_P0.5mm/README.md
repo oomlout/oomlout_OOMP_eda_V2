@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm
 - Hex ID: FZKBGASTUTFBGA3636X36LAYOUT6X6P5
 - Name: Package_BGA : ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm/
 - Description: Package_BGA : ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm)
 - Short Link: [http://oom.lt/FZKBGASTUTFBGA3636X36LAYOUT6X6P5](http://oom.lt/FZKBGASTUTFBGA3636X36LAYOUT6X6P5)

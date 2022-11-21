@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PVSON-N8
 - Hex ID: FZKSONTEXASSPVSONN8
 - Name: Package_SON : Texas_S-PVSON-N8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PVSON-N8/
 - Description: Package_SON : Texas_S-PVSON-N8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PVSON-N8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PVSON-N8)
 - Short Link: [http://oom.lt/FZKSONTEXASSPVSONN8](http://oom.lt/FZKSONTEXASSPVSONN8)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DCJACK_2MM_SMT
 - Hex ID: FZADCJ2S
 - Name: adafruit : DCJACK_2MM_SMT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/DCJACK_2MM_SMT/
 - Description: adafruit : DCJACK_2MM_SMT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DCJACK_2MM_SMT](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DCJACK_2MM_SMT)
 - Short Link: [http://oom.lt/FZADCJ2S](http://oom.lt/FZADCJ2S)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R
 - Hex ID: SZKDEVICER
 - Name: Device : R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R/
 - Description: Device : R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R)
 - Short Link: [http://oom.lt/SZKDEVICER](http://oom.lt/SZKDEVICER)

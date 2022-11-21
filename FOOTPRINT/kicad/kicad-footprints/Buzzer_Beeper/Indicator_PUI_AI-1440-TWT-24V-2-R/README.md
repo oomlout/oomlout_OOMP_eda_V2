@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Indicator_PUI_AI-1440-TWT-24V-2-R
 - Hex ID: FZKBZINDICATORPUIAI144TWT24V2R
 - Name: Buzzer_Beeper : Indicator_PUI_AI-1440-TWT-24V-2-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Indicator_PUI_AI-1440-TWT-24V-2-R/
 - Description: Buzzer_Beeper : Indicator_PUI_AI-1440-TWT-24V-2-R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Indicator_PUI_AI-1440-TWT-24V-2-R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Indicator_PUI_AI-1440-TWT-24V-2-R)
 - Short Link: [http://oom.lt/FZKBZINDICATORPUIAI144TWT24V2R](http://oom.lt/FZKBZINDICATORPUIAI144TWT24V2R)

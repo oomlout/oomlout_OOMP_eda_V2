@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TCR2EE13
 - Hex ID: SZKREGULATORLINEARTCR2EE13
 - Name: Regulator_Linear : TCR2EE13
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TCR2EE13/
 - Description: Regulator_Linear : TCR2EE13
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TCR2EE13](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TCR2EE13)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTCR2EE13](http://oom.lt/SZKREGULATORLINEARTCR2EE13)

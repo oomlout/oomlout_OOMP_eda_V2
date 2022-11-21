@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-KH206-8R
 - Hex ID: FZERESISTORPOWERKH268R
 - Name: resistor-power : KH206-8R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/KH206-8R/
 - Description: resistor-power : KH206-8R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-KH206-8R](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-KH206-8R)
 - Short Link: [http://oom.lt/FZERESISTORPOWERKH268R](http://oom.lt/FZERESISTORPOWERKH268R)

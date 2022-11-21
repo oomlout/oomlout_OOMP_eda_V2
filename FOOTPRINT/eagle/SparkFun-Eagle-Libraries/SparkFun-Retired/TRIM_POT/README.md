@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TRIM_POT
 - Hex ID: FZSRTTRIMPOT
 - Name: SparkFun-Retired : TRIM_POT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TRIM_POT/
 - Description: SparkFun-Retired : TRIM_POT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TRIM_POT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TRIM_POT)
 - Short Link: [http://oom.lt/FZSRTTRIMPOT](http://oom.lt/FZSRTTRIMPOT)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM3478MA
 - Hex ID: SZKREGULATORCONTROLLERLM3478MA
 - Name: Regulator_Controller : LM3478MA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LM3478MA/
 - Description: Regulator_Controller : LM3478MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM3478MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM3478MA)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERLM3478MA](http://oom.lt/SZKREGULATORCONTROLLERLM3478MA)

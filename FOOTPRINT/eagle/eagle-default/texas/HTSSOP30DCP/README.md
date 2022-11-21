@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-HTSSOP30DCP
 - Hex ID: FZETEXASHTSS3DCP
 - Name: texas : HTSSOP30DCP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/HTSSOP30DCP/
 - Description: texas : HTSSOP30DCP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTSSOP30DCP](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTSSOP30DCP)
 - Short Link: [http://oom.lt/FZETEXASHTSS3DCP](http://oom.lt/FZETEXASHTSS3DCP)

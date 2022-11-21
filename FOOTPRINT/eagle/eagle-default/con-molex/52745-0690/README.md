@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-52745-0690
 - Hex ID: FZECONMX5274569
 - Name: con-molex : 52745-0690
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/52745-0690/
 - Description: con-molex : 52745-0690
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-52745-0690](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-52745-0690)
 - Short Link: [http://oom.lt/FZECONMX5274569](http://oom.lt/FZECONMX5274569)

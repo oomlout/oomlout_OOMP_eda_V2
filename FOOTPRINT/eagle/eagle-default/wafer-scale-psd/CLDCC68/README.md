@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-wafer-scale-psd-CLDCC68
 - Hex ID: FZEWAFERSCALEPSDCLDCC68
 - Name: wafer-scale-psd : CLDCC68
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/wafer-scale-psd/CLDCC68/
 - Description: wafer-scale-psd : CLDCC68
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-wafer-scale-psd-CLDCC68](http://oom.lt/FOOTPRINT-eagle-eagle-default-wafer-scale-psd-CLDCC68)
 - Short Link: [http://oom.lt/FZEWAFERSCALEPSDCLDCC68](http://oom.lt/FZEWAFERSCALEPSDCLDCC68)

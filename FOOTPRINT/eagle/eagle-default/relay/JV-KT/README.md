@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-JV-KT
 - Hex ID: FZERELAYJVKT
 - Name: relay : JV-KT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/JV-KT/
 - Description: relay : JV-KT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-JV-KT](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-JV-KT)
 - Short Link: [http://oom.lt/FZERELAYJVKT](http://oom.lt/FZERELAYJVKT)

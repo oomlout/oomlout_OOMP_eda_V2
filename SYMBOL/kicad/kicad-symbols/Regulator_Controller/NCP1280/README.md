@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1280
 - Hex ID: SZKREGULATORCONTROLLERNCP128
 - Name: Regulator_Controller : NCP1280
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1280/
 - Description: Regulator_Controller : NCP1280
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1280](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1280)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP128](http://oom.lt/SZKREGULATORCONTROLLERNCP128)

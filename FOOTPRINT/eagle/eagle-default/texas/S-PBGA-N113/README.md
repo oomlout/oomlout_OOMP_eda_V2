@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-S-PBGA-N113
 - Hex ID: FZETEXASSPBGAN113
 - Name: texas : S-PBGA-N113
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/S-PBGA-N113/
 - Description: texas : S-PBGA-N113
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-S-PBGA-N113](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-S-PBGA-N113)
 - Short Link: [http://oom.lt/FZETEXASSPBGAN113](http://oom.lt/FZETEXASSPBGAN113)

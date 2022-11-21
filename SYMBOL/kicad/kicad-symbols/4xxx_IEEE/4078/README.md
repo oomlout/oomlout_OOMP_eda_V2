@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4078
 - Hex ID: SZK4XXXIEEE478
 - Name: 4xxx_IEEE : 4078
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4078/
 - Description: 4xxx_IEEE : 4078
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4078](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4078)
 - Short Link: [http://oom.lt/SZK4XXXIEEE478](http://oom.lt/SZK4XXXIEEE478)

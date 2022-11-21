@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNUUMBTENSILITY5423VERTICALCIRCULARH > Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles](#fzkcnuumbtensility5423verticalcircularh--connector_usb--usb_mini-b_tensility_54-00023_vertical_circularholes)
+* [FZKCNUUMBTENSILITY5423FCIRCULARH > Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles](#fzkcnuumbtensility5423fcircularh--connector_usb--usb_mini-b_tensility_54-00023_vertical_circularholes)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNUUMBTENSILITY5423VERTICALCIRCULARH > Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles
+# FZKCNUUMBTENSILITY5423FCIRCULARH > Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles
-- Hex ID: FZKCNUUMBTENSILITY5423VERTICALCIRCULARH
+- Hex ID: FZKCNUUMBTENSILITY5423FCIRCULARH
 - Name: Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/
 - Description: Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles)
-- Short Link: [http://oom.lt/FZKCNUUMBTENSILITY5423VERTICALCIRCULARH](http://oom.lt/FZKCNUUMBTENSILITY5423VERTICALCIRCULARH)
+- Short Link: [http://oom.lt/FZKCNUUMBTENSILITY5423FCIRCULARH](http://oom.lt/FZKCNUUMBTENSILITY5423FCIRCULARH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_USB|
 |OOMP Index|oompIndex|USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles|
-|Hex ID (short code)|hexID|FZKCNUUMBTENSILITY5423VERTICALCIRCULARH|
+|Hex ID (short code)|hexID|FZKCNUUMBTENSILITY5423FCIRCULARH|
 |name|name|Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.tensility.com/pdffiles/54-00023.pdf'</td><td> 'tags'</td></tr><tr><td> 'usb mini receptacle vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_Mini-B_Tensility_54-00023_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

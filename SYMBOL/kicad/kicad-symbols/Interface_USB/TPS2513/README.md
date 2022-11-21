@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2513
 - Hex ID: SZKINTERFACEUTPS2513
 - Name: Interface_USB : TPS2513
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/TPS2513/
 - Description: Interface_USB : TPS2513
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2513](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2513)
 - Short Link: [http://oom.lt/SZKINTERFACEUTPS2513](http://oom.lt/SZKINTERFACEUTPS2513)

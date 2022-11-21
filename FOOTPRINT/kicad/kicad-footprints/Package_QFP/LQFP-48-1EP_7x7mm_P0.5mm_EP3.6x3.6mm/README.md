@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm
 - Hex ID: FZKQFPLQFP481EP7X7P5EP36X36
 - Name: Package_QFP : LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm/
 - Description: Package_QFP : LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm)
 - Short Link: [http://oom.lt/FZKQFPLQFP481EP7X7P5EP36X36](http://oom.lt/FZKQFPLQFP481EP7X7P5EP36X36)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm
 - Hex ID: FZKCSPLFCSP241EP4X4P5EP25X25
 - Name: Package_CSP : LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm/
 - Description: Package_CSP : LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm)
 - Short Link: [http://oom.lt/FZKCSPLFCSP241EP4X4P5EP25X25](http://oom.lt/FZKCSPLFCSP241EP4X4P5EP25X25)

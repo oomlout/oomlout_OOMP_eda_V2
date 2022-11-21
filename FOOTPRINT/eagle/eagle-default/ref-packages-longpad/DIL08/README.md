@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADDIL8 > ref-packages-longpad : DIL08](#fzerefpackageslongpaddil8--ref-packages-longpad--dil08)
+* [FZEREFPSLPDIL8 > ref-packages-longpad : DIL08](#fzerefpslpdil8--ref-packages-longpad--dil08)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADDIL8 > ref-packages-longpad : DIL08
+# FZEREFPSLPDIL8 > ref-packages-longpad : DIL08
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-DIL08
-- Hex ID: FZEREFPACKAGESLONGPADDIL8
+- Hex ID: FZEREFPSLPDIL8
 - Name: ref-packages-longpad : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/DIL08/
 - Description: ref-packages-longpad : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-DIL08)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADDIL8](http://oom.lt/FZEREFPACKAGESLONGPADDIL8)
+- Short Link: [http://oom.lt/FZEREFPSLPDIL8](http://oom.lt/FZEREFPSLPDIL8)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|DIL08|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-DIL08|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADDIL8|
+|Hex ID (short code)|hexID|FZEREFPSLPDIL8|
 |name|name|ref-packages-longpad : DIL08|
 ||||

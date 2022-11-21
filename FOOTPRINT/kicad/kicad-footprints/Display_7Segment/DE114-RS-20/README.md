@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DE114-RS-20
 - Hex ID: FZKDI7SDE114RS2
 - Name: Display_7Segment : DE114-RS-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/DE114-RS-20/
 - Description: Display_7Segment : DE114-RS-20
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DE114-RS-20](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DE114-RS-20)
 - Short Link: [http://oom.lt/FZKDI7SDE114RS2](http://oom.lt/FZKDI7SDE114RS2)

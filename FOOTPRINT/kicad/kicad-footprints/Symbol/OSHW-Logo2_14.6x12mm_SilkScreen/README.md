@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo2_14.6x12mm_SilkScreen
 - Hex ID: FZKSZOSHWL2146X12SILKSCREEN
 - Name: Symbol : OSHW-Logo2_14.6x12mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo2_14.6x12mm_SilkScreen/
 - Description: Symbol : OSHW-Logo2_14.6x12mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo2_14.6x12mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo2_14.6x12mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZOSHWL2146X12SILKSCREEN](http://oom.lt/FZKSZOSHWL2146X12SILKSCREEN)

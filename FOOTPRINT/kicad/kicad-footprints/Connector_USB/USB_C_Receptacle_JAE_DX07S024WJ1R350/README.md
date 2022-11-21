@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_JAE_DX07S024WJ1R350
 - Hex ID: FZKCNUUCRECEPTACLEJAEDX7S24WJ1R35
 - Name: Connector_USB : USB_C_Receptacle_JAE_DX07S024WJ1R350
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_JAE_DX07S024WJ1R350/
 - Description: Connector_USB : USB_C_Receptacle_JAE_DX07S024WJ1R350
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_JAE_DX07S024WJ1R350](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_JAE_DX07S024WJ1R350)
 - Short Link: [http://oom.lt/FZKCNUUCRECEPTACLEJAEDX7S24WJ1R35](http://oom.lt/FZKCNUUCRECEPTACLEJAEDX7S24WJ1R35)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-TSSOP16
 - Hex ID: FZSICTSS16
 - Name: SparkFun-IC-Comms : TSSOP16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Comms/TSSOP16/
 - Description: SparkFun-IC-Comms : TSSOP16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-TSSOP16](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-TSSOP16)
 - Short Link: [http://oom.lt/FZSICTSS16](http://oom.lt/FZSICTSS16)

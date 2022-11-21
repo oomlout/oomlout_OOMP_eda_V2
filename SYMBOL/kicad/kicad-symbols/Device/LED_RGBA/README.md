@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_RGBA
 - Hex ID: SZKDEVICELRGBA
 - Name: Device : LED_RGBA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_RGBA/
 - Description: Device : LED_RGBA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_RGBA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_RGBA)
 - Short Link: [http://oom.lt/SZKDEVICELRGBA](http://oom.lt/SZKDEVICELRGBA)

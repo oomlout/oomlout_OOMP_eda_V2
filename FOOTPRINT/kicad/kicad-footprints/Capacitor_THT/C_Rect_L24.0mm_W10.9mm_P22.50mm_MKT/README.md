@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L24.0mm_W10.9mm_P22.50mm_MKT
 - Hex ID: FZKCCRECTL24W19P225MKT
 - Name: Capacitor_THT : C_Rect_L24.0mm_W10.9mm_P22.50mm_MKT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L24.0mm_W10.9mm_P22.50mm_MKT/
 - Description: Capacitor_THT : C_Rect_L24.0mm_W10.9mm_P22.50mm_MKT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L24.0mm_W10.9mm_P22.50mm_MKT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L24.0mm_W10.9mm_P22.50mm_MKT)
 - Short Link: [http://oom.lt/FZKCCRECTL24W19P225MKT](http://oom.lt/FZKCCRECTL24W19P225MKT)

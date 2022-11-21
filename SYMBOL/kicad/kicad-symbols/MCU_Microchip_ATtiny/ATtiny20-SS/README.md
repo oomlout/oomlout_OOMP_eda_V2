@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny20-SS
 - Hex ID: SZKMCUMCHIPATTINYATTINY2SS
 - Name: MCU_Microchip_ATtiny : ATtiny20-SS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny20-SS/
 - Description: MCU_Microchip_ATtiny : ATtiny20-SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny20-SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny20-SS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY2SS](http://oom.lt/SZKMCUMCHIPATTINYATTINY2SS)

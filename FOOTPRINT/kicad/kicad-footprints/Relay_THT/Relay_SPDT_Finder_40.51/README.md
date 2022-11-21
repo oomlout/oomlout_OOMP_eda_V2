@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Finder_40.51
 - Hex ID: FZKRELRELAYSPDTFINDER451
 - Name: Relay_THT : Relay_SPDT_Finder_40.51
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPDT_Finder_40.51/
 - Description: Relay_THT : Relay_SPDT_Finder_40.51
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Finder_40.51](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Finder_40.51)
 - Short Link: [http://oom.lt/FZKRELRELAYSPDTFINDER451](http://oom.lt/FZKRELRELAYSPDTFINDER451)

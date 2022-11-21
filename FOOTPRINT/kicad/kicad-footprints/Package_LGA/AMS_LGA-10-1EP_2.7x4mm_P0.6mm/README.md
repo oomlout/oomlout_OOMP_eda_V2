@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-AMS_LGA-10-1EP_2.7x4mm_P0.6mm
 - Hex ID: FZKLGAAMSLGA11EP27X4P6
 - Name: Package_LGA : AMS_LGA-10-1EP_2.7x4mm_P0.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/AMS_LGA-10-1EP_2.7x4mm_P0.6mm/
 - Description: Package_LGA : AMS_LGA-10-1EP_2.7x4mm_P0.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-AMS_LGA-10-1EP_2.7x4mm_P0.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-AMS_LGA-10-1EP_2.7x4mm_P0.6mm)
 - Short Link: [http://oom.lt/FZKLGAAMSLGA11EP27X4P6](http://oom.lt/FZKLGAAMSLGA11EP27X4P6)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-CT6032
 - Hex ID: FZERCLCT632
 - Name: rcl : CT6032
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/CT6032/
 - Description: rcl : CT6032
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CT6032](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CT6032)
 - Short Link: [http://oom.lt/FZERCLCT632](http://oom.lt/FZERCLCT632)

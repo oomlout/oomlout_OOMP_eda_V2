@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPCBEDGESAMTECMECF6LDV2X6P127POLARIZEDEDGE > Connector_PCBEdge : Samtec_MECF-60-0_-L-DV_2x60_P1.27mm_Polarized_Edge](#fzkcnpcbedgesamtecmecf6ldv2x6p127polarizededge--connector_pcbedge--samtec_mecf-60-0_-l-dv_2x60_p127mm_polarized_edge)
+* [FZKCNPESAMTECMECF6LDV2X6P127PZEDGE > Connector_PCBEdge : Samtec_MECF-60-0_-L-DV_2x60_P1.27mm_Polarized_Edge](#fzkcnpesamtecmecf6ldv2x6p127pzedge--connector_pcbedge--samtec_mecf-60-0_-l-dv_2x60_p127mm_polarized_edge)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPCBEDGESAMTECMECF6LDV2X6P127POLARIZEDEDGE > Connector_PCBEdge : Samtec_MECF-60-0_-L-DV_2x60_P1.27mm_Polarized_Edge
+# FZKCNPESAMTECMECF6LDV2X6P127PZEDGE > Connector_PCBEdge : Samtec_MECF-60-0_-L-DV_2x60_P1.27mm_Polarized_Edge
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-60-0_-L-DV_2x60_P1.27mm_Polarized_Edge
-- Hex ID: FZKCNPCBEDGESAMTECMECF6LDV2X6P127POLARIZEDEDGE
+- Hex ID: FZKCNPESAMTECMECF6LDV2X6P127PZEDGE
 - Name: Connector_PCBEdge : Samtec_MECF-60-0_-L-DV_2x60_P1.27mm_Polarized_Edge
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-60-0_-L-DV_2x60_P1.27mm_Polarized_Edge/
 - Description: Connector_PCBEdge : Samtec_MECF-60-0_-L-DV_2x60_P1.27mm_Polarized_Edge
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-60-0_-L-DV_2x60_P1.27mm_Polarized_Edge](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-60-0_-L-DV_2x60_P1.27mm_Polarized_Edge)
-- Short Link: [http://oom.lt/FZKCNPCBEDGESAMTECMECF6LDV2X6P127POLARIZEDEDGE](http://oom.lt/FZKCNPCBEDGESAMTECMECF6LDV2X6P127POLARIZEDEDGE)
+- Short Link: [http://oom.lt/FZKCNPESAMTECMECF6LDV2X6P127PZEDGE](http://oom.lt/FZKCNPESAMTECMECF6LDV2X6P127PZEDGE)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PCBEdge|
 |OOMP Index|oompIndex|Samtec_MECF-60-0_-L-DV_2x60_P1.27mm_Polarized_Edge|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-60-0_-L-DV_2x60_P1.27mm_Polarized_Edge|
-|Hex ID (short code)|hexID|FZKCNPCBEDGESAMTECMECF6LDV2X6P127POLARIZEDEDGE|
+|Hex ID (short code)|hexID|FZKCNPESAMTECMECF6LDV2X6P127PZEDGE|
 |name|name|Connector_PCBEdge : Samtec_MECF-60-0_-L-DV_2x60_P1.27mm_Polarized_Edge|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Samtec_MECF-60-0_-L-DV_2x60_P1.27mm_Polarized_Edge'</td><td> 'description'</td></tr><tr><td> 'Highspeed card edge connector for PCBs with 60 contacts (polarized)'</td><td> 'tags'</td></tr><tr><td> 'conn samtec card-edge high-speed'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

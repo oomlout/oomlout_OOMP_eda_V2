@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINPIND7L65W18FLATFORK > Connector_Pin : Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork](#fzkcnpinpind7l65w18flatfork--connector_pin--pin_d07mm_l65mm_w18mm_flatfork)
+* [FZKCNPPD7L65W18FLATFORK > Connector_Pin : Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork](#fzkcnppd7l65w18flatfork--connector_pin--pin_d07mm_l65mm_w18mm_flatfork)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINPIND7L65W18FLATFORK > Connector_Pin : Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork
+# FZKCNPPD7L65W18FLATFORK > Connector_Pin : Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork
-- Hex ID: FZKCNPINPIND7L65W18FLATFORK
+- Hex ID: FZKCNPPD7L65W18FLATFORK
 - Name: Connector_Pin : Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork/
 - Description: Connector_Pin : Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork)
-- Short Link: [http://oom.lt/FZKCNPINPIND7L65W18FLATFORK](http://oom.lt/FZKCNPINPIND7L65W18FLATFORK)
+- Short Link: [http://oom.lt/FZKCNPPD7L65W18FLATFORK](http://oom.lt/FZKCNPPD7L65W18FLATFORK)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Pin|
 |OOMP Index|oompIndex|Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork|
-|Hex ID (short code)|hexID|FZKCNPINPIND7L65W18FLATFORK|
+|Hex ID (short code)|hexID|FZKCNPPD7L65W18FLATFORK|
 |name|name|Connector_Pin : Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork'</td><td> 'description'</td></tr><tr><td> 'solder Pin_ with flat fork</td><td> hole diameter 0.7mm</td><td> length 6.5mm</td><td> width 1.8mm'</td><td> 'tags'</td></tr><tr><td> 'solder Pin_ with flat fork'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Pin.3dshapes/Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

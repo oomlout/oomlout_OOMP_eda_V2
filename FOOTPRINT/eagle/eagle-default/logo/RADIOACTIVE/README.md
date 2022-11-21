@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-RADIOACTIVE
 - Hex ID: FZELRADIOACTIVE
 - Name: logo : RADIOACTIVE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/RADIOACTIVE/
 - Description: logo : RADIOACTIVE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-RADIOACTIVE](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-RADIOACTIVE)
 - Short Link: [http://oom.lt/FZELRADIOACTIVE](http://oom.lt/FZELRADIOACTIVE)

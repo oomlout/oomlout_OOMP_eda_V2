@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCOAXCONNUFL > digikey-footprints : Coax_Conn_U.FL](#fzkicaddigikeykicadlibrarydigikeyfootprintscoaxconnufl--digikey-footprints--coax_conn_ufl)
+* [FZDIGIDIGIKEYFOOTPRINTSCOAXCUFL > digikey-footprints : Coax_Conn_U.FL](#fzdigidigikeyfootprintscoaxcufl--digikey-footprints--coax_conn_ufl)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCOAXCONNUFL > digikey-footprints : Coax_Conn_U.FL
+# FZDIGIDIGIKEYFOOTPRINTSCOAXCUFL > digikey-footprints : Coax_Conn_U.FL
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Coax_Conn_U.FL
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCOAXCONNUFL
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSCOAXCUFL
 - Name: digikey-footprints : Coax_Conn_U.FL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Coax_Conn_U.FL/
 - Description: digikey-footprints : Coax_Conn_U.FL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Coax_Conn_U.FL](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Coax_Conn_U.FL)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCOAXCONNUFL](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCOAXCONNUFL)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCOAXCUFL](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSCOAXCUFL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Coax_Conn_U.FL|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Coax_Conn_U.FL|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCOAXCONNUFL|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSCOAXCUFL|
 |name|name|digikey-footprints : Coax_Conn_U.FL|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Coax_Conn_U.FL'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UFL%20Series.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

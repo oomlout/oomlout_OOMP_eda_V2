@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-PQFP144-28X28
 - Hex ID: FZESTMELECTRONICSPQFP14428X28
 - Name: st-microelectronics : PQFP144-28X28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/PQFP144-28X28/
 - Description: st-microelectronics : PQFP144-28X28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-PQFP144-28X28](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-PQFP144-28X28)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSPQFP14428X28](http://oom.lt/FZESTMELECTRONICSPQFP14428X28)

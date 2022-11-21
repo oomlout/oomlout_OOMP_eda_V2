@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_8.4mm_M8
 - Hex ID: FZKHOLHOL84M8
 - Name: MountingHole : MountingHole_8.4mm_M8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_8.4mm_M8/
 - Description: MountingHole : MountingHole_8.4mm_M8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_8.4mm_M8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_8.4mm_M8)
 - Short Link: [http://oom.lt/FZKHOLHOL84M8](http://oom.lt/FZKHOLHOL84M8)

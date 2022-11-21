@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-SN6505BDBV
 - Hex ID: SZKPOWERMANAGEMENTSN655BDBV
 - Name: Power_Management : SN6505BDBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/SN6505BDBV/
 - Description: Power_Management : SN6505BDBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-SN6505BDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-SN6505BDBV)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTSN655BDBV](http://oom.lt/SZKPOWERMANAGEMENTSN655BDBV)

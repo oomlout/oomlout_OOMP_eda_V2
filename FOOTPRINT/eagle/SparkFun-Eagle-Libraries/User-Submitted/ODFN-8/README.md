@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-ODFN-8
 - Hex ID: FZSUODFN8
 - Name: User-Submitted : ODFN-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/User-Submitted/ODFN-8/
 - Description: User-Submitted : ODFN-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-ODFN-8](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-ODFN-8)
 - Short Link: [http://oom.lt/FZSUODFN8](http://oom.lt/FZSUODFN8)

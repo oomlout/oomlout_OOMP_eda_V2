@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-LB4H
 - Hex ID: FZECONHIRSCHMANNLB4H
 - Name: con-hirschmann : LB4H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirschmann/LB4H/
 - Description: con-hirschmann : LB4H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-LB4H](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-LB4H)
 - Short Link: [http://oom.lt/FZECONHIRSCHMANNLB4H](http://oom.lt/FZECONHIRSCHMANNLB4H)

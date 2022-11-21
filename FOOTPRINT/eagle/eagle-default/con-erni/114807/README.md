@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-erni-114807
 - Hex ID: FZECONERNI11487
 - Name: con-erni : 114807
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-erni/114807/
 - Description: con-erni : 114807
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-erni-114807](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-erni-114807)
 - Short Link: [http://oom.lt/FZECONERNI11487](http://oom.lt/FZECONERNI11487)

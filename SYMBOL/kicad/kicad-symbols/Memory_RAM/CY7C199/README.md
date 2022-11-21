@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-CY7C199
 - Hex ID: SZKMEMORYRAMCY7C199
 - Name: Memory_RAM : CY7C199
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/CY7C199/
 - Description: Memory_RAM : CY7C199
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-CY7C199](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-CY7C199)
 - Short Link: [http://oom.lt/SZKMEMORYRAMCY7C199](http://oom.lt/SZKMEMORYRAMCY7C199)

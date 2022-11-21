@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL431DCK
 - Hex ID: SZKREFERENCEVOLTAGETL431DCK
 - Name: Reference_Voltage : TL431DCK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/TL431DCK/
 - Description: Reference_Voltage : TL431DCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL431DCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL431DCK)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGETL431DCK](http://oom.lt/SZKREFERENCEVOLTAGETL431DCK)

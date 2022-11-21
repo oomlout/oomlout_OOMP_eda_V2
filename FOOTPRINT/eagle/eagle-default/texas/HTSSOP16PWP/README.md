@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-HTSSOP16PWP
 - Hex ID: FZETEXASHTSS16PWP
 - Name: texas : HTSSOP16PWP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/HTSSOP16PWP/
 - Description: texas : HTSSOP16PWP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTSSOP16PWP](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTSSOP16PWP)
 - Short Link: [http://oom.lt/FZETEXASHTSS16PWP](http://oom.lt/FZETEXASHTSS16PWP)

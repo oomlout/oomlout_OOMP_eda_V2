@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-sram-SOP28
 - Hex ID: FZEMEMORYSRAMS28
 - Name: memory-sram : SOP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-sram/SOP28/
 - Description: memory-sram : SOP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-SOP28](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-SOP28)
 - Short Link: [http://oom.lt/FZEMEMORYSRAMS28](http://oom.lt/FZEMEMORYSRAMS28)

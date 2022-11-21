@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6564H
 - Hex ID: SZKREGULATORCONTROLLERL6564H
 - Name: Regulator_Controller : L6564H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/L6564H/
 - Description: Regulator_Controller : L6564H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6564H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6564H)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERL6564H](http://oom.lt/SZKREGULATORCONTROLLERL6564H)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-68LQFN
 - Hex ID: FZEMAXIM68LQFN
 - Name: maxim : 68LQFN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/68LQFN/
 - Description: maxim : 68LQFN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-68LQFN](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-68LQFN)
 - Short Link: [http://oom.lt/FZEMAXIM68LQFN](http://oom.lt/FZEMAXIM68LQFN)

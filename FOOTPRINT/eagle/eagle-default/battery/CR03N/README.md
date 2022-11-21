@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-CR03N
 - Hex ID: FZEBATCR3N
 - Name: battery : CR03N
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/CR03N/
 - Description: battery : CR03N
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-CR03N](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-CR03N)
 - Short Link: [http://oom.lt/FZEBATCR3N](http://oom.lt/FZEBATCR3N)

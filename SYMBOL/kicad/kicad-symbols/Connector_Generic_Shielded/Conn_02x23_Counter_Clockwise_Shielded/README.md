@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNGENERICSHEDCONN2X23COUNTERCLWISESHED > Connector_Generic_Shielded : Conn_02x23_Counter_Clockwise_Shielded](#szkcngenericshedconn2x23counterclwiseshed--connector_generic_shielded--conn_02x23_counter_clockwise_shielded)
+* [SZKCNGSHEDC2X23CCWSHED > Connector_Generic_Shielded : Conn_02x23_Counter_Clockwise_Shielded](#szkcngshedc2x23ccwshed--connector_generic_shielded--conn_02x23_counter_clockwise_shielded)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNGENERICSHEDCONN2X23COUNTERCLWISESHED > Connector_Generic_Shielded : Conn_02x23_Counter_Clockwise_Shielded
+# SZKCNGSHEDC2X23CCWSHED > Connector_Generic_Shielded : Conn_02x23_Counter_Clockwise_Shielded
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_02x23_Counter_Clockwise_Shielded
-- Hex ID: SZKCNGENERICSHEDCONN2X23COUNTERCLWISESHED
+- Hex ID: SZKCNGSHEDC2X23CCWSHED
 - Name: Connector_Generic_Shielded : Conn_02x23_Counter_Clockwise_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_02x23_Counter_Clockwise_Shielded/
 - Description: Connector_Generic_Shielded : Conn_02x23_Counter_Clockwise_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_02x23_Counter_Clockwise_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_02x23_Counter_Clockwise_Shielded)
-- Short Link: [http://oom.lt/SZKCNGENERICSHEDCONN2X23COUNTERCLWISESHED](http://oom.lt/SZKCNGENERICSHEDCONN2X23COUNTERCLWISESHED)
+- Short Link: [http://oom.lt/SZKCNGSHEDC2X23CCWSHED](http://oom.lt/SZKCNGSHEDC2X23CCWSHED)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Generic_Shielded|
 |OOMP Index|oompIndex|Conn_02x23_Counter_Clockwise_Shielded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_02x23_Counter_Clockwise_Shielded|
-|Hex ID (short code)|hexID|SZKCNGENERICSHEDCONN2X23COUNTERCLWISESHED|
+|Hex ID (short code)|hexID|SZKCNGSHEDC2X23CCWSHED|
 |name|name|Connector_Generic_Shielded : Conn_02x23_Counter_Clockwise_Shielded|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_02x23_Counter_Clockwise_Shielded'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic shielded connector</td><td> double row</td><td> 02x23</td><td> counter clockwise pin numbering scheme (similar to DIP package numbering)</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_2x??-1SH*'</td></tr></table>]|
 ||||

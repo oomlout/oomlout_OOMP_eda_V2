@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5815WLP
 - Hex ID: SZKANALOGDACMAX5815WLP
 - Name: Analog_DAC : MAX5815WLP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MAX5815WLP/
 - Description: Analog_DAC : MAX5815WLP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5815WLP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5815WLP)
 - Short Link: [http://oom.lt/SZKANALOGDACMAX5815WLP](http://oom.lt/SZKANALOGDACMAX5815WLP)

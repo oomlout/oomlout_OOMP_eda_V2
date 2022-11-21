@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-TO92
 - Hex ID: FZEMCHIPTO92
 - Name: microchip : TO92
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/TO92/
 - Description: microchip : TO92
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-TO92](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-TO92)
 - Short Link: [http://oom.lt/FZEMCHIPTO92](http://oom.lt/FZEMCHIPTO92)

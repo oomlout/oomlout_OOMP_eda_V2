@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F217ZETx
 - Hex ID: SZKMCUSTSTM32F2STM32F217ZETX
 - Name: MCU_ST_STM32F2 : STM32F217ZETx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F217ZETx/
 - Description: MCU_ST_STM32F2 : STM32F217ZETx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F217ZETx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F217ZETx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F2STM32F217ZETX](http://oom.lt/SZKMCUSTSTM32F2STM32F217ZETX)

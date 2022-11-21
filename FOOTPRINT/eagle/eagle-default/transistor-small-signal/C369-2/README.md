@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-C369-2
 - Hex ID: FZETRANSISTORSLLSIGNALC3692
 - Name: transistor-small-signal : C369-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/C369-2/
 - Description: transistor-small-signal : C369-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-C369-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-C369-2)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALC3692](http://oom.lt/FZETRANSISTORSLLSIGNALC3692)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LITTLE_BITS_MALE
 - Hex ID: FZSRTLITTLEBITSMALE
 - Name: SparkFun-Retired : LITTLE_BITS_MALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/LITTLE_BITS_MALE/
 - Description: SparkFun-Retired : LITTLE_BITS_MALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LITTLE_BITS_MALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-LITTLE_BITS_MALE)
 - Short Link: [http://oom.lt/FZSRTLITTLEBITSMALE](http://oom.lt/FZSRTLITTLEBITSMALE)

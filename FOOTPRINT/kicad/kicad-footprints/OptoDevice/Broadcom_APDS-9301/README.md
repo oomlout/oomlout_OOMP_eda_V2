@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_APDS-9301
 - Hex ID: FZKOPBROADCOMAPDS931
 - Name: OptoDevice : Broadcom_APDS-9301
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_APDS-9301/
 - Description: OptoDevice : Broadcom_APDS-9301
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_APDS-9301](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_APDS-9301)
 - Short Link: [http://oom.lt/FZKOPBROADCOMAPDS931](http://oom.lt/FZKOPBROADCOMAPDS931)

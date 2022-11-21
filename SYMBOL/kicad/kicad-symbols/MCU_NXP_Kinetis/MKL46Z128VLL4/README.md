@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL46Z128VLL4
 - Hex ID: SZKMCUNXPKINETISMKL46Z128VLL4
 - Name: MCU_NXP_Kinetis : MKL46Z128VLL4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL46Z128VLL4/
 - Description: MCU_NXP_Kinetis : MKL46Z128VLL4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL46Z128VLL4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL46Z128VLL4)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL46Z128VLL4](http://oom.lt/SZKMCUNXPKINETISMKL46Z128VLL4)

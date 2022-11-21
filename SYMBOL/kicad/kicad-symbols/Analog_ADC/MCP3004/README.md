@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3004
 - Hex ID: SZKANALOGADCMCP34
 - Name: Analog_ADC : MCP3004
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3004/
 - Description: Analog_ADC : MCP3004
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3004](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3004)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP34](http://oom.lt/SZKANALOGADCMCP34)

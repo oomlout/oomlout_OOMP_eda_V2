@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMART-LED
 - Hex ID: FZASRTL
 - Name: adafruit : SMART-LED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SMART-LED/
 - Description: adafruit : SMART-LED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMART-LED](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMART-LED)
 - Short Link: [http://oom.lt/FZASRTL](http://oom.lt/FZASRTL)

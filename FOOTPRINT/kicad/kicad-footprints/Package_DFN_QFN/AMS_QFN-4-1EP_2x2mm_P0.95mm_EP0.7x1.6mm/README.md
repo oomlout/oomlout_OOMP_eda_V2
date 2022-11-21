@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm
 - Hex ID: FZKDFNAMSQFN41EP2X2P95EP7X16
 - Name: Package_DFN_QFN : AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm/
 - Description: Package_DFN_QFN : AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm)
 - Short Link: [http://oom.lt/FZKDFNAMSQFN41EP2X2P95EP7X16](http://oom.lt/FZKDFNAMSQFN41EP2X2P95EP7X16)

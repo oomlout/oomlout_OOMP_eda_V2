@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-SMA-SMD
 - Hex ID: FZECONCOAXSSM
 - Name: con-coax : SMA-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-coax/SMA-SMD/
 - Description: con-coax : SMA-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-SMA-SMD](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-SMA-SMD)
 - Short Link: [http://oom.lt/FZECONCOAXSSM](http://oom.lt/FZECONCOAXSSM)

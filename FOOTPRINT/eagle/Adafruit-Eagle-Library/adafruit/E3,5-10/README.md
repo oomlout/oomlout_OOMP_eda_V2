@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E3,5-10
 - Hex ID: FZAE351
 - Name: adafruit : E3,5-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E3,5-10/
 - Description: adafruit : E3,5-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E3,5-10](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E3,5-10)
 - Short Link: [http://oom.lt/FZAE351](http://oom.lt/FZAE351)

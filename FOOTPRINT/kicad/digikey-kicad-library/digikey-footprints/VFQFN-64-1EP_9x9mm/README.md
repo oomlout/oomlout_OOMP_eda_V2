@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN641EP9X9 > digikey-footprints : VFQFN-64-1EP_9x9mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsvfqfn641ep9x9--digikey-footprints--vfqfn-64-1ep_9x9mm)
+* [FZDIGIDIGIKEYFOOTPRINTSVFQFN641EP9X9 > digikey-footprints : VFQFN-64-1EP_9x9mm](#fzdigidigikeyfootprintsvfqfn641ep9x9--digikey-footprints--vfqfn-64-1ep_9x9mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN641EP9X9 > digikey-footprints : VFQFN-64-1EP_9x9mm
+# FZDIGIDIGIKEYFOOTPRINTSVFQFN641EP9X9 > digikey-footprints : VFQFN-64-1EP_9x9mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-64-1EP_9x9mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN641EP9X9
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSVFQFN641EP9X9
 - Name: digikey-footprints : VFQFN-64-1EP_9x9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VFQFN-64-1EP_9x9mm/
 - Description: digikey-footprints : VFQFN-64-1EP_9x9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-64-1EP_9x9mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-64-1EP_9x9mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN641EP9X9](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN641EP9X9)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVFQFN641EP9X9](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVFQFN641EP9X9)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|VFQFN-64-1EP_9x9mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-64-1EP_9x9mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN641EP9X9|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSVFQFN641EP9X9|
 |name|name|digikey-footprints : VFQFN-64-1EP_9x9mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VFQFN-64-1EP_9x9mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/cc3200.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

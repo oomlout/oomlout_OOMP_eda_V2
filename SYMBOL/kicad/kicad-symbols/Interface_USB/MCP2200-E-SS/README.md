@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2200-E-SS
 - Hex ID: SZKINTERFACEUMCP22ESS
 - Name: Interface_USB : MCP2200-E-SS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/MCP2200-E-SS/
 - Description: Interface_USB : MCP2200-E-SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2200-E-SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2200-E-SS)
 - Short Link: [http://oom.lt/SZKINTERFACEUMCP22ESS](http://oom.lt/SZKINTERFACEUMCP22ESS)

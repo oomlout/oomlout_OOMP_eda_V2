@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-W724C0
 - Hex ID: FZELW724C
 - Name: led : W724C0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/W724C0/
 - Description: led : W724C0
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-W724C0](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-W724C0)
 - Short Link: [http://oom.lt/FZELW724C](http://oom.lt/FZELW724C)

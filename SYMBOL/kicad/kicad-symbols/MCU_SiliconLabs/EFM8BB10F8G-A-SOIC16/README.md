@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8BB10F8G-A-SOIC16
 - Hex ID: SZKMCUSILICONLABSEFM8BB1F8GASOIC16
 - Name: MCU_SiliconLabs : EFM8BB10F8G-A-SOIC16
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8G-A-SOIC16/
 - Description: MCU_SiliconLabs : EFM8BB10F8G-A-SOIC16
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8BB10F8G-A-SOIC16](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8BB10F8G-A-SOIC16)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM8BB1F8GASOIC16](http://oom.lt/SZKMCUSILICONLABSEFM8BB1F8GASOIC16)

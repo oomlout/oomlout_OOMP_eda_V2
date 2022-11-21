@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNJSTJSTVHB4PVHFBB1X4P396VERTICAL > Connector_JST : JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical](#fzkcnjstjstvhb4pvhfbb1x4p396vertical--connector_jst--jst_vh_b4p-vh-fb-b_1x04_p396mm_vertical)
+* [FZKCNJSTJSTVHB4PVHFBB1X4P396F > Connector_JST : JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical](#fzkcnjstjstvhb4pvhfbb1x4p396f--connector_jst--jst_vh_b4p-vh-fb-b_1x04_p396mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTVHB4PVHFBB1X4P396VERTICAL > Connector_JST : JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical
+# FZKCNJSTJSTVHB4PVHFBB1X4P396F > Connector_JST : JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical
-- Hex ID: FZKCNJSTJSTVHB4PVHFBB1X4P396VERTICAL
+- Hex ID: FZKCNJSTJSTVHB4PVHFBB1X4P396F
 - Name: Connector_JST : JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical/
 - Description: Connector_JST : JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJSTJSTVHB4PVHFBB1X4P396VERTICAL](http://oom.lt/FZKCNJSTJSTVHB4PVHFBB1X4P396VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTVHB4PVHFBB1X4P396F](http://oom.lt/FZKCNJSTJSTVHB4PVHFBB1X4P396F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJSTJSTVHB4PVHFBB1X4P396VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTVHB4PVHFBB1X4P396F|
 |name|name|Connector_JST : JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST VH series connector</td><td> B4P-VH-FB-B</td><td> shrouded (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eVH.pdf)</td><td>  generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST VH side entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

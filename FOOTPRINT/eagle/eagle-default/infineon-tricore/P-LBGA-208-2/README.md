@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-tricore-P-LBGA-208-2
 - Hex ID: FZEINFINEONTRICOREPLBGA282
 - Name: infineon-tricore : P-LBGA-208-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon-tricore/P-LBGA-208-2/
 - Description: infineon-tricore : P-LBGA-208-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-tricore-P-LBGA-208-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-tricore-P-LBGA-208-2)
 - Short Link: [http://oom.lt/FZEINFINEONTRICOREPLBGA282](http://oom.lt/FZEINFINEONTRICOREPLBGA282)

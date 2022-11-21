@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-MIC2026-2BN
 - Hex ID: SZKPOWERMANAGEMENTMIC2262BN
 - Name: Power_Management : MIC2026-2BN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/MIC2026-2BN/
 - Description: Power_Management : MIC2026-2BN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MIC2026-2BN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-MIC2026-2BN)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTMIC2262BN](http://oom.lt/SZKPOWERMANAGEMENTMIC2262BN)

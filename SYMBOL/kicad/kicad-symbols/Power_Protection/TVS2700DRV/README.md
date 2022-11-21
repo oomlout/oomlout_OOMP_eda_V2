@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TVS2700DRV
 - Hex ID: SZKPOWERPROTECTIONTVS27DRV
 - Name: Power_Protection : TVS2700DRV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/TVS2700DRV/
 - Description: Power_Protection : TVS2700DRV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TVS2700DRV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TVS2700DRV)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTVS27DRV](http://oom.lt/SZKPOWERPROTECTIONTVS27DRV)

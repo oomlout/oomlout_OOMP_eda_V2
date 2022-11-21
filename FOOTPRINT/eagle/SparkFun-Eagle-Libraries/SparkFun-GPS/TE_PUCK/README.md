@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-TE_PUCK
 - Hex ID: FZSGTEPUCK
 - Name: SparkFun-GPS : TE_PUCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/TE_PUCK/
 - Description: SparkFun-GPS : TE_PUCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-TE_PUCK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-TE_PUCK)
 - Short Link: [http://oom.lt/FZSGTEPUCK](http://oom.lt/FZSGTEPUCK)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-139CLL-3R
 - Hex ID: FZERCL139CLL3R
 - Name: rcl : 139CLL-3R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/139CLL-3R/
 - Description: rcl : 139CLL-3R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-139CLL-3R](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-139CLL-3R)
 - Short Link: [http://oom.lt/FZERCL139CLL3R](http://oom.lt/FZERCL139CLL3R)

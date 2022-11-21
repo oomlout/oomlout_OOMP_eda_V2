@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1225PL84
 - Hex ID: SZKFPGAMSEMIACT1225PL84
 - Name: FPGA_Microsemi : ACT1225PL84
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1225PL84/
 - Description: FPGA_Microsemi : ACT1225PL84
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1225PL84](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1225PL84)
 - Short Link: [http://oom.lt/SZKFPGAMSEMIACT1225PL84](http://oom.lt/SZKFPGAMSEMIACT1225PL84)

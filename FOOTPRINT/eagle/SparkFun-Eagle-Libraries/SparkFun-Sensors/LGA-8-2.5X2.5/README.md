@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-8-2.5X2.5
 - Hex ID: FZSSPARKFUNSENSLGA825X25
 - Name: SparkFun-Sensors : LGA-8-2.5X2.5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/LGA-8-2.5X2.5/
 - Description: SparkFun-Sensors : LGA-8-2.5X2.5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-8-2.5X2.5](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-8-2.5X2.5)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSLGA825X25](http://oom.lt/FZSSPARKFUNSENSLGA825X25)

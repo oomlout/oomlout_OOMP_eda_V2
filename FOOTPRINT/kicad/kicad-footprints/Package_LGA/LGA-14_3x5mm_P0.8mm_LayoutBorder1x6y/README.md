@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y
 - Hex ID: FZKLGALGA143X5P8LAYOUTBORDER1X6Y
 - Name: Package_LGA : LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y/
 - Description: Package_LGA : LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y)
 - Short Link: [http://oom.lt/FZKLGALGA143X5P8LAYOUTBORDER1X6Y](http://oom.lt/FZKLGALGA143X5P8LAYOUTBORDER1X6Y)

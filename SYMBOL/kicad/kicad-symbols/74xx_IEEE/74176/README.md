@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74176
 - Hex ID: SZK74XXIEEE74176
 - Name: 74xx_IEEE : 74176
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74176/
 - Description: 74xx_IEEE : 74176
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74176](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74176)
 - Short Link: [http://oom.lt/SZK74XXIEEE74176](http://oom.lt/SZK74XXIEEE74176)

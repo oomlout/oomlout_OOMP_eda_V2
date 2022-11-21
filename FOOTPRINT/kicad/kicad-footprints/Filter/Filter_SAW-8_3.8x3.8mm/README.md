@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_SAW-8_3.8x3.8mm
 - Hex ID: FZKFILFILSAW838X38
 - Name: Filter : Filter_SAW-8_3.8x3.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_SAW-8_3.8x3.8mm/
 - Description: Filter : Filter_SAW-8_3.8x3.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_SAW-8_3.8x3.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_SAW-8_3.8x3.8mm)
 - Short Link: [http://oom.lt/FZKFILFILSAW838X38](http://oom.lt/FZKFILFILSAW838X38)

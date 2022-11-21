@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-16LCSP
 - Hex ID: FZA16LCSP
 - Name: adafruit : 16LCSP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/16LCSP/
 - Description: adafruit : 16LCSP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-16LCSP](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-16LCSP)
 - Short Link: [http://oom.lt/FZA16LCSP](http://oom.lt/FZA16LCSP)

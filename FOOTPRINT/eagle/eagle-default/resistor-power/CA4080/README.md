@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-CA4080
 - Hex ID: FZERESISTORPOWERCA48
 - Name: resistor-power : CA4080
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/CA4080/
 - Description: resistor-power : CA4080
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA4080](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA4080)
 - Short Link: [http://oom.lt/FZERESISTORPOWERCA48](http://oom.lt/FZERESISTORPOWERCA48)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-PF750
 - Hex ID: FZEHPF75
 - Name: heatsink : PF750
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/PF750/
 - Description: heatsink : PF750
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-PF750](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-PF750)
 - Short Link: [http://oom.lt/FZEHPF75](http://oom.lt/FZEHPF75)

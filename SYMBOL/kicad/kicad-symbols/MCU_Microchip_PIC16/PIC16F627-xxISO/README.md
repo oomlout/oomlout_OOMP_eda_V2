@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F627-xxISO
 - Hex ID: SZKMCUMCHIPPIC16PIC16F627XXISO
 - Name: MCU_Microchip_PIC16 : PIC16F627-xxISO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F627-xxISO/
 - Description: MCU_Microchip_PIC16 : PIC16F627-xxISO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F627-xxISO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F627-xxISO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F627XXISO](http://oom.lt/SZKMCUMCHIPPIC16PIC16F627XXISO)

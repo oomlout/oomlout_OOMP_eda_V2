@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-LEMO6
 - Hex ID: SZKCNLEMO6
 - Name: Connector : LEMO6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/LEMO6/
 - Description: Connector : LEMO6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-LEMO6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-LEMO6)
 - Short Link: [http://oom.lt/SZKCNLEMO6](http://oom.lt/SZKCNLEMO6)

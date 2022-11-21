@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESTS32L > ref-packages : TSOP32L](#fzerefpackagests32l--ref-packages--tsop32l)
+* [FZEREFPSTS32L > ref-packages : TSOP32L](#fzerefpsts32l--ref-packages--tsop32l)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESTS32L > ref-packages : TSOP32L
+# FZEREFPSTS32L > ref-packages : TSOP32L
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-TSOP32L
-- Hex ID: FZEREFPACKAGESTS32L
+- Hex ID: FZEREFPSTS32L
 - Name: ref-packages : TSOP32L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/TSOP32L/
 - Description: ref-packages : TSOP32L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TSOP32L](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TSOP32L)
-- Short Link: [http://oom.lt/FZEREFPACKAGESTS32L](http://oom.lt/FZEREFPACKAGESTS32L)
+- Short Link: [http://oom.lt/FZEREFPSTS32L](http://oom.lt/FZEREFPSTS32L)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|TSOP32L|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-TSOP32L|
-|Hex ID (short code)|hexID|FZEREFPACKAGESTS32L|
+|Hex ID (short code)|hexID|FZEREFPSTS32L|
 |name|name|ref-packages : TSOP32L|
 ||||

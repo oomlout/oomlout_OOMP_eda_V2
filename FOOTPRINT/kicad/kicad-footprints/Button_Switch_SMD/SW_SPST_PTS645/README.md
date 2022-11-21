@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBSWITCHSMSWSPSTPTS645 > Button_Switch_SMD : SW_SPST_PTS645](#fzkbswitchsmswspstpts645--button_switch_smd--sw_spst_pts645)
+* [FZKBSWSPSTPTS645 > Button_Switch_SMD : SW_SPST_PTS645](#fzkbswspstpts645--button_switch_smd--sw_spst_pts645)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWITCHSMSWSPSTPTS645 > Button_Switch_SMD : SW_SPST_PTS645
+# FZKBSWSPSTPTS645 > Button_Switch_SMD : SW_SPST_PTS645
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_PTS645
-- Hex ID: FZKBSWITCHSMSWSPSTPTS645
+- Hex ID: FZKBSWSPSTPTS645
 - Name: Button_Switch_SMD : SW_SPST_PTS645
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_PTS645/
 - Description: Button_Switch_SMD : SW_SPST_PTS645
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_PTS645](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_PTS645)
-- Short Link: [http://oom.lt/FZKBSWITCHSMSWSPSTPTS645](http://oom.lt/FZKBSWITCHSMSWSPSTPTS645)
+- Short Link: [http://oom.lt/FZKBSWSPSTPTS645](http://oom.lt/FZKBSWSPSTPTS645)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_SMD|
 |OOMP Index|oompIndex|SW_SPST_PTS645|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_PTS645|
-|Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTPTS645|
+|Hex ID (short code)|hexID|FZKBSWSPSTPTS645|
 |name|name|Button_Switch_SMD : SW_SPST_PTS645|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPST_PTS645'</td><td> 'description'</td></tr><tr><td> 'C&K Components SPST SMD PTS645 Series 6mm Tact Switch'</td><td> 'tags'</td></tr><tr><td> 'SPST Button Switch'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPST_PTS645.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-OPENLOG
 - Hex ID: FZSBOOPENLOG
 - Name: SparkFun-Boards : OPENLOG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/OPENLOG/
 - Description: SparkFun-Boards : OPENLOG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-OPENLOG](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-OPENLOG)
 - Short Link: [http://oom.lt/FZSBOOPENLOG](http://oom.lt/FZSBOOPENLOG)

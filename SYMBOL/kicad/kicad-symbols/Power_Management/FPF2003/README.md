@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-FPF2003
 - Hex ID: SZKPOWERMANAGEMENTFPF23
 - Name: Power_Management : FPF2003
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/FPF2003/
 - Description: Power_Management : FPF2003
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2003](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2003)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTFPF23](http://oom.lt/SZKPOWERMANAGEMENTFPF23)

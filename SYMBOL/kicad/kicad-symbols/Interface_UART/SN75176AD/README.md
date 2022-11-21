@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-SN75176AD
 - Hex ID: SZKINTERFACEUARTSN75176AD
 - Name: Interface_UART : SN75176AD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/SN75176AD/
 - Description: Interface_UART : SN75176AD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SN75176AD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SN75176AD)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSN75176AD](http://oom.lt/SZKINTERFACEUARTSN75176AD)

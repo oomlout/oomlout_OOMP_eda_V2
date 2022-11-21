@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2
 - Hex ID: FZKINLRD12P5NEOSIDSD12KSTYLE2
 - Name: Inductor_THT : L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/
 - Description: Inductor_THT : L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2)
 - Short Link: [http://oom.lt/FZKINLRD12P5NEOSIDSD12KSTYLE2](http://oom.lt/FZKINLRD12P5NEOSIDSD12KSTYLE2)

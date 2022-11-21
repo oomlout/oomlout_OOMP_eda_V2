@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-A_3216-18W
 - Hex ID: FZAA321618W
 - Name: adafruit : A_3216-18W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/A_3216-18W/
 - Description: adafruit : A_3216-18W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-A_3216-18W](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-A_3216-18W)
 - Short Link: [http://oom.lt/FZAA321618W](http://oom.lt/FZAA321618W)

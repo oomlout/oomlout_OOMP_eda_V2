@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-DIL32
 - Hex ID: FZEATMELDIL32
 - Name: atmel : DIL32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/DIL32/
 - Description: atmel : DIL32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-DIL32](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-DIL32)
 - Short Link: [http://oom.lt/FZEATMELDIL32](http://oom.lt/FZEATMELDIL32)

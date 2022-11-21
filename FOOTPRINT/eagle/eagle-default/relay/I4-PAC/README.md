@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-I4-PAC
 - Hex ID: FZERELAYI4PAC
 - Name: relay : I4-PAC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/I4-PAC/
 - Description: relay : I4-PAC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-I4-PAC](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-I4-PAC)
 - Short Link: [http://oom.lt/FZERELAYI4PAC](http://oom.lt/FZERELAYI4PAC)

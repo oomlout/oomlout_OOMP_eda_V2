@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ2D121802SC
 - Hex ID: SZKCONMGJ2D12182SC
 - Name: Converter_DCDC : MGJ2D121802SC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MGJ2D121802SC/
 - Description: Converter_DCDC : MGJ2D121802SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ2D121802SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ2D121802SC)
 - Short Link: [http://oom.lt/SZKCONMGJ2D12182SC](http://oom.lt/SZKCONMGJ2D12182SC)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4364HDE
 - Hex ID: SZKPOWERMANAGEMENTLTC4364HDE
 - Name: Power_Management : LTC4364HDE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4364HDE/
 - Description: Power_Management : LTC4364HDE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4364HDE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4364HDE)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4364HDE](http://oom.lt/SZKPOWERMANAGEMENTLTC4364HDE)

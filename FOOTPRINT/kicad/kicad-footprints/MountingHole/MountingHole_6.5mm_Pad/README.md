@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL65PAD > MountingHole : MountingHole_6.5mm_Pad](#fzkholhol65pad--mountinghole--mountinghole_65mm_pad)
+* [FZKHOLHOL65P > MountingHole : MountingHole_6.5mm_Pad](#fzkholhol65p--mountinghole--mountinghole_65mm_pad)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL65PAD > MountingHole : MountingHole_6.5mm_Pad
+# FZKHOLHOL65P > MountingHole : MountingHole_6.5mm_Pad
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.5mm_Pad
-- Hex ID: FZKHOLHOL65PAD
+- Hex ID: FZKHOLHOL65P
 - Name: MountingHole : MountingHole_6.5mm_Pad
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.5mm_Pad/
 - Description: MountingHole : MountingHole_6.5mm_Pad
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.5mm_Pad](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.5mm_Pad)
-- Short Link: [http://oom.lt/FZKHOLHOL65PAD](http://oom.lt/FZKHOLHOL65PAD)
+- Short Link: [http://oom.lt/FZKHOLHOL65P](http://oom.lt/FZKHOLHOL65P)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_6.5mm_Pad|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.5mm_Pad|
-|Hex ID (short code)|hexID|FZKHOLHOL65PAD|
+|Hex ID (short code)|hexID|FZKHOLHOL65P|
 |name|name|MountingHole : MountingHole_6.5mm_Pad|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_6.5mm_Pad'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 6.5mm'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 6.5mm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

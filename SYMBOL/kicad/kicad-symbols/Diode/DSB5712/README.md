@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-DSB5712
 - Hex ID: SZKDIODEDSB5712
 - Name: Diode : DSB5712
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/DSB5712/
 - Description: Diode : DSB5712
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DSB5712](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DSB5712)
 - Short Link: [http://oom.lt/SZKDIODEDSB5712](http://oom.lt/SZKDIODEDSB5712)

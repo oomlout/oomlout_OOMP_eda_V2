@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-kyocera-elco-5036_006_201_862
 - Hex ID: FZECONKYOCERAELCO536621862
 - Name: con-kyocera-elco : 5036_006_201_862
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-kyocera-elco/5036_006_201_862/
 - Description: con-kyocera-elco : 5036_006_201_862
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-kyocera-elco-5036_006_201_862](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-kyocera-elco-5036_006_201_862)
 - Short Link: [http://oom.lt/FZECONKYOCERAELCO536621862](http://oom.lt/FZECONKYOCERAELCO536621862)

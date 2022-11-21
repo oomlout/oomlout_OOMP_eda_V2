@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4xx7LQI-4xx
 - Hex ID: SZKMCUCYPRESSCY8C4XX7LQI4XX
 - Name: MCU_Cypress : CY8C4xx7LQI-4xx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4xx7LQI-4xx/
 - Description: MCU_Cypress : CY8C4xx7LQI-4xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4xx7LQI-4xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4xx7LQI-4xx)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY8C4XX7LQI4XX](http://oom.lt/SZKMCUCYPRESSCY8C4XX7LQI4XX)

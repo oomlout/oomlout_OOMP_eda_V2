@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4072
 - Hex ID: SZK4XXXIEEE472
 - Name: 4xxx_IEEE : 4072
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4072/
 - Description: 4xxx_IEEE : 4072
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4072](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4072)
 - Short Link: [http://oom.lt/SZK4XXXIEEE472](http://oom.lt/SZK4XXXIEEE472)

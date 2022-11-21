@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-WSON-8-6X5
 - Hex ID: FZSIMWSON86X5
 - Name: SparkFun-IC-Memory : WSON-8-6X5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Memory/WSON-8-6X5/
 - Description: SparkFun-IC-Memory : WSON-8-6X5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-WSON-8-6X5](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-WSON-8-6X5)
 - Short Link: [http://oom.lt/FZSIMWSON86X5](http://oom.lt/FZSIMWSON86X5)

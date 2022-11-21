@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5689RxRUZ
 - Hex ID: SZKANALOGDACAD5689RXRUZ
 - Name: Analog_DAC : AD5689RxRUZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD5689RxRUZ/
 - Description: Analog_DAC : AD5689RxRUZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5689RxRUZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5689RxRUZ)
 - Short Link: [http://oom.lt/SZKANALOGDACAD5689RXRUZ](http://oom.lt/SZKANALOGDACAD5689RXRUZ)

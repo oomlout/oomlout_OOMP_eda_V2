@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-AXIAL-0.3
 - Hex ID: FZSRA3
 - Name: SparkFun-Resistors : AXIAL-0.3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/AXIAL-0.3/
 - Description: SparkFun-Resistors : AXIAL-0.3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-AXIAL-0.3](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-AXIAL-0.3)
 - Short Link: [http://oom.lt/FZSRA3](http://oom.lt/FZSRA3)

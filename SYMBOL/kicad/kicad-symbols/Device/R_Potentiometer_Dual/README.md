@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKDEVICERPOTENTIOMETERDUAL > Device : R_Potentiometer_Dual](#szkdevicerpotentiometerdual--device--r_potentiometer_dual)
+* [SZKDEVICERPOTDUAL > Device : R_Potentiometer_Dual](#szkdevicerpotdual--device--r_potentiometer_dual)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKDEVICERPOTENTIOMETERDUAL > Device : R_Potentiometer_Dual
+# SZKDEVICERPOTDUAL > Device : R_Potentiometer_Dual
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual
-- Hex ID: SZKDEVICERPOTENTIOMETERDUAL
+- Hex ID: SZKDEVICERPOTDUAL
 - Name: Device : R_Potentiometer_Dual
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer_Dual/
 - Description: Device : R_Potentiometer_Dual
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual)
-- Short Link: [http://oom.lt/SZKDEVICERPOTENTIOMETERDUAL](http://oom.lt/SZKDEVICERPOTENTIOMETERDUAL)
+- Short Link: [http://oom.lt/SZKDEVICERPOTDUAL](http://oom.lt/SZKDEVICERPOTDUAL)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Device|
 |OOMP Index|oompIndex|R_Potentiometer_Dual|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual|
-|Hex ID (short code)|hexID|SZKDEVICERPOTENTIOMETERDUAL|
+|Hex ID (short code)|hexID|SZKDEVICERPOTDUAL|
 |name|name|Device : R_Potentiometer_Dual|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'RV'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'R_Potentiometer_Dual'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'resistor variable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual potentiometer'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Potentiometer*'</td></tr></table>]|
 ||||

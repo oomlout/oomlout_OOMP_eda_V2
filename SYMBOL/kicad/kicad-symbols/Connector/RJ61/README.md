@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ61
 - Hex ID: SZKCNRJ61
 - Name: Connector : RJ61
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ61/
 - Description: Connector : RJ61
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ61](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ61)
 - Short Link: [http://oom.lt/SZKCNRJ61](http://oom.lt/SZKCNRJ61)

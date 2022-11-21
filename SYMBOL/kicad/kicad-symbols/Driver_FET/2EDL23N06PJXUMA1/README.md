@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-2EDL23N06PJXUMA1
 - Hex ID: SZKDRIVERFET2EDL23N6PJXUMA1
 - Name: Driver_FET : 2EDL23N06PJXUMA1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/2EDL23N06PJXUMA1/
 - Description: Driver_FET : 2EDL23N06PJXUMA1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-2EDL23N06PJXUMA1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-2EDL23N06PJXUMA1)
 - Short Link: [http://oom.lt/SZKDRIVERFET2EDL23N6PJXUMA1](http://oom.lt/SZKDRIVERFET2EDL23N6PJXUMA1)

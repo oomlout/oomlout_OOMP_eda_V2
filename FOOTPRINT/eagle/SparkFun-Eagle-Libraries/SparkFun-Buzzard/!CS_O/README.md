@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-!CS_O
 - Hex ID: FZSBU!CSO
 - Name: SparkFun-Buzzard : !CS_O
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/!CS_O/
 - Description: SparkFun-Buzzard : !CS_O
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-!CS_O](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-!CS_O)
 - Short Link: [http://oom.lt/FZSBU!CSO](http://oom.lt/FZSBU!CSO)

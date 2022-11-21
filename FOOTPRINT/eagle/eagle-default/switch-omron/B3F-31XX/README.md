@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHOMRONB3F31XX > switch-omron : B3F-31XX](#fzeswitchomronb3f31xx--switch-omron--b3f-31xx)
+* [FZESWOMRONB3F31XX > switch-omron : B3F-31XX](#fzeswomronb3f31xx--switch-omron--b3f-31xx)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHOMRONB3F31XX > switch-omron : B3F-31XX
+# FZESWOMRONB3F31XX > switch-omron : B3F-31XX
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-omron-B3F-31XX
-- Hex ID: FZESWITCHOMRONB3F31XX
+- Hex ID: FZESWOMRONB3F31XX
 - Name: switch-omron : B3F-31XX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-omron/B3F-31XX/
 - Description: switch-omron : B3F-31XX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-omron-B3F-31XX](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-omron-B3F-31XX)
-- Short Link: [http://oom.lt/FZESWITCHOMRONB3F31XX](http://oom.lt/FZESWITCHOMRONB3F31XX)
+- Short Link: [http://oom.lt/FZESWOMRONB3F31XX](http://oom.lt/FZESWOMRONB3F31XX)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-omron|
 |OOMP Index|oompIndex|B3F-31XX|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-omron-B3F-31XX|
-|Hex ID (short code)|hexID|FZESWITCHOMRONB3F31XX|
+|Hex ID (short code)|hexID|FZESWOMRONB3F31XX|
 |name|name|switch-omron : B3F-31XX|
 ||||

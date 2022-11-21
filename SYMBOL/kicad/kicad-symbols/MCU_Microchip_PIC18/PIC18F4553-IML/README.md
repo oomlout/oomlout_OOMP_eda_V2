@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4553-IML
 - Hex ID: SZKMCUMCHIPPIC18PIC18F4553IML
 - Name: MCU_Microchip_PIC18 : PIC18F4553-IML
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F4553-IML/
 - Description: MCU_Microchip_PIC18 : PIC18F4553-IML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4553-IML](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4553-IML)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F4553IML](http://oom.lt/SZKMCUMCHIPPIC18PIC18F4553IML)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINLAXIALL12D5P58VERTICALFASTRONMISC > Inductor_THT : L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC](#fzkinlaxiall12d5p58verticalfastronmisc--inductor_tht--l_axial_l120mm_d50mm_p508mm_vertical_fastron_misc)
+* [FZKINLAXIALL12D5P58FFASTRONMISC > Inductor_THT : L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC](#fzkinlaxiall12d5p58ffastronmisc--inductor_tht--l_axial_l120mm_d50mm_p508mm_vertical_fastron_misc)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINLAXIALL12D5P58VERTICALFASTRONMISC > Inductor_THT : L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC
+# FZKINLAXIALL12D5P58FFASTRONMISC > Inductor_THT : L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC
-- Hex ID: FZKINLAXIALL12D5P58VERTICALFASTRONMISC
+- Hex ID: FZKINLAXIALL12D5P58FFASTRONMISC
 - Name: Inductor_THT : L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC/
 - Description: Inductor_THT : L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC)
-- Short Link: [http://oom.lt/FZKINLAXIALL12D5P58VERTICALFASTRONMISC](http://oom.lt/FZKINLAXIALL12D5P58VERTICALFASTRONMISC)
+- Short Link: [http://oom.lt/FZKINLAXIALL12D5P58FFASTRONMISC](http://oom.lt/FZKINLAXIALL12D5P58FFASTRONMISC)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_THT|
 |OOMP Index|oompIndex|L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC|
-|Hex ID (short code)|hexID|FZKINLAXIALL12D5P58VERTICALFASTRONMISC|
+|Hex ID (short code)|hexID|FZKINLAXIALL12D5P58FFASTRONMISC|
 |name|name|Inductor_THT : L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Axial series</td><td> Axial</td><td> Vertical</td><td> pin pitch=5.08mm</td><td> </td><td> length*diameter=12*5mm^2</td><td> Fastron</td><td> MISC</td><td> http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/DS_MISC.pdf'</td><td> 'tags'</td></tr><tr><td> 'Inductor Axial series Axial Vertical pin pitch 5.08mm  length 12mm diameter 5mm Fastron MISC'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

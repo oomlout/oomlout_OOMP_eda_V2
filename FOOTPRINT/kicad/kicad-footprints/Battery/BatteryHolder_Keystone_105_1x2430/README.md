@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBATBATHOLDERKEYSTONE151X243 > Battery : BatteryHolder_Keystone_105_1x2430](#fzkbatbatholderkeystone151x243--battery--batteryholder_keystone_105_1x2430)
+* [FZKBATBATHKEYSTONE151X243 > Battery : BatteryHolder_Keystone_105_1x2430](#fzkbatbathkeystone151x243--battery--batteryholder_keystone_105_1x2430)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBATBATHOLDERKEYSTONE151X243 > Battery : BatteryHolder_Keystone_105_1x2430
+# FZKBATBATHKEYSTONE151X243 > Battery : BatteryHolder_Keystone_105_1x2430
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_105_1x2430
-- Hex ID: FZKBATBATHOLDERKEYSTONE151X243
+- Hex ID: FZKBATBATHKEYSTONE151X243
 - Name: Battery : BatteryHolder_Keystone_105_1x2430
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_105_1x2430/
 - Description: Battery : BatteryHolder_Keystone_105_1x2430
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_105_1x2430](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_105_1x2430)
-- Short Link: [http://oom.lt/FZKBATBATHOLDERKEYSTONE151X243](http://oom.lt/FZKBATBATHOLDERKEYSTONE151X243)
+- Short Link: [http://oom.lt/FZKBATBATHKEYSTONE151X243](http://oom.lt/FZKBATBATHKEYSTONE151X243)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Battery|
 |OOMP Index|oompIndex|BatteryHolder_Keystone_105_1x2430|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_105_1x2430|
-|Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE151X243|
+|Hex ID (short code)|hexID|FZKBATBATHKEYSTONE151X243|
 |name|name|Battery : BatteryHolder_Keystone_105_1x2430|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_Keystone_105_1x2430'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.keyelco.com/product-pdf.cfm?p=745'</td><td> 'tags'</td></tr><tr><td> 'Keystone type 105 battery holder'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_Keystone_105_1x2430.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

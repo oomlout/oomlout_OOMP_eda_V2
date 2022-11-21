@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-IDDD06G65C6
 - Hex ID: SZKDIODEIDDD6G65C6
 - Name: Diode : IDDD06G65C6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/IDDD06G65C6/
 - Description: Diode : IDDD06G65C6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-IDDD06G65C6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-IDDD06G65C6)
 - Short Link: [http://oom.lt/SZKDIODEIDDD6G65C6](http://oom.lt/SZKDIODEIDDD6G65C6)

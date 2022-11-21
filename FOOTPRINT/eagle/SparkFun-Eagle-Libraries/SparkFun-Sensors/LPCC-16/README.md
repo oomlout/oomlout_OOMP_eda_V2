@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LPCC-16
 - Hex ID: FZSSPARKFUNSENSLPCC16
 - Name: SparkFun-Sensors : LPCC-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/LPCC-16/
 - Description: SparkFun-Sensors : LPCC-16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LPCC-16](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LPCC-16)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSLPCC16](http://oom.lt/FZSSPARKFUNSENSLPCC16)

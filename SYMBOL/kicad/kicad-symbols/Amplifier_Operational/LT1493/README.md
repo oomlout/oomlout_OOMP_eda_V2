@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT1493
 - Hex ID: SZKAMPLIFIEROPERATIONALLT1493
 - Name: Amplifier_Operational : LT1493
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LT1493/
 - Description: Amplifier_Operational : LT1493
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT1493](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT1493)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLT1493](http://oom.lt/SZKAMPLIFIEROPERATIONALLT1493)

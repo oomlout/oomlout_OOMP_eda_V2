@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-QFP80R
 - Hex ID: FZEMPHILIPSQFP8R
 - Name: micro-philips : QFP80R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/QFP80R/
 - Description: micro-philips : QFP80R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-QFP80R](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-QFP80R)
 - Short Link: [http://oom.lt/FZEMPHILIPSQFP8R](http://oom.lt/FZEMPHILIPSQFP8R)

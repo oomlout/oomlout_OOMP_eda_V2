@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNCOACXMX73415961HORIZONTAL1PCB > Connector_Coaxial : MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB](#fzkcncoacxmx73415961horizontal1pcb--connector_coaxial--mmcx_molex_73415-0961_horizontal_10mm-pcb)
+* [FZKCNCOACXMX73415961H1PCB > Connector_Coaxial : MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB](#fzkcncoacxmx73415961h1pcb--connector_coaxial--mmcx_molex_73415-0961_horizontal_10mm-pcb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNCOACXMX73415961HORIZONTAL1PCB > Connector_Coaxial : MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB
+# FZKCNCOACXMX73415961H1PCB > Connector_Coaxial : MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB
-- Hex ID: FZKCNCOACXMX73415961HORIZONTAL1PCB
+- Hex ID: FZKCNCOACXMX73415961H1PCB
 - Name: Connector_Coaxial : MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB/
 - Description: Connector_Coaxial : MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB)
-- Short Link: [http://oom.lt/FZKCNCOACXMX73415961HORIZONTAL1PCB](http://oom.lt/FZKCNCOACXMX73415961HORIZONTAL1PCB)
+- Short Link: [http://oom.lt/FZKCNCOACXMX73415961H1PCB](http://oom.lt/FZKCNCOACXMX73415961H1PCB)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Coaxial|
 |OOMP Index|oompIndex|MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB|
-|Hex ID (short code)|hexID|FZKCNCOACXMX73415961HORIZONTAL1PCB|
+|Hex ID (short code)|hexID|FZKCNCOACXMX73415961H1PCB|
 |name|name|Connector_Coaxial : MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB'</td><td> 'description'</td></tr><tr><td> 'Molex MMCX Horizontal Coaxial https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/734150961_sd.pdf'</td><td> 'tags'</td></tr><tr><td> 'Molex MMCX Horizontal Coaxial'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/MMCX_Molex_73415-0961_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

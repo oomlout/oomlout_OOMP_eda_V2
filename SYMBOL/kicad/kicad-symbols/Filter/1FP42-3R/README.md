@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-1FP42-3R
 - Hex ID: SZKFIL1FP423R
 - Name: Filter : 1FP42-3R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/1FP42-3R/
 - Description: Filter : 1FP42-3R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-1FP42-3R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-1FP42-3R)
 - Short Link: [http://oom.lt/SZKFIL1FP423R](http://oom.lt/SZKFIL1FP423R)

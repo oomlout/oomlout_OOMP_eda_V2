@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VEML7700_TR
 - Hex ID: FZSSPARKFUNSENSVEML77TR
 - Name: SparkFun-Sensors : VEML7700_TR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/VEML7700_TR/
 - Description: SparkFun-Sensors : VEML7700_TR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VEML7700_TR](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VEML7700_TR)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSVEML77TR](http://oom.lt/FZSSPARKFUNSENSVEML77TR)

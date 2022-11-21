@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Graphic-AG12864E
 - Hex ID: SZKDIGRAPHICAG12864E
 - Name: Display_Graphic : AG12864E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/AG12864E/
 - Description: Display_Graphic : AG12864E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-AG12864E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-AG12864E)
 - Short Link: [http://oom.lt/SZKDIGRAPHICAG12864E](http://oom.lt/SZKDIGRAPHICAG12864E)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_NVRAM-FM24C64B
 - Hex ID: SZKMEMORYNVRAMFM24C64B
 - Name: Memory_NVRAM : FM24C64B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/FM24C64B/
 - Description: Memory_NVRAM : FM24C64B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-FM24C64B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-FM24C64B)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMFM24C64B](http://oom.lt/SZKMEMORYNVRAMFM24C64B)

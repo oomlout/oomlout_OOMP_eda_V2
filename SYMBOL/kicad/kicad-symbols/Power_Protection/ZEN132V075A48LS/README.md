@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN132V075A48LS
 - Hex ID: SZKPOWERPROTECTIONZEN132V75A48LS
 - Name: Power_Protection : ZEN132V075A48LS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/ZEN132V075A48LS/
 - Description: Power_Protection : ZEN132V075A48LS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN132V075A48LS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN132V075A48LS)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONZEN132V75A48LS](http://oom.lt/SZKPOWERPROTECTIONZEN132V75A48LS)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-SIM-CARD_496191611
 - Hex ID: FZECONMXSIMCARD496191611
 - Name: con-molex : SIM-CARD_496191611
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/SIM-CARD_496191611/
 - Description: con-molex : SIM-CARD_496191611
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-SIM-CARD_496191611](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-SIM-CARD_496191611)
 - Short Link: [http://oom.lt/FZECONMXSIMCARD496191611](http://oom.lt/FZECONMXSIMCARD496191611)

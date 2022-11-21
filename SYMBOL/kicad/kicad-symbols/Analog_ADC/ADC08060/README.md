@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC08060
 - Hex ID: SZKANALOGADCADC86
 - Name: Analog_ADC : ADC08060
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC08060/
 - Description: Analog_ADC : ADC08060
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC08060](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC08060)
 - Short Link: [http://oom.lt/SZKANALOGADCADC86](http://oom.lt/SZKANALOGADCADC86)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40HX8K-BG121
 - Hex ID: SZKFPGALATTICEICE4HX8KBG121
 - Name: FPGA_Lattice : ICE40HX8K-BG121
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40HX8K-BG121/
 - Description: FPGA_Lattice : ICE40HX8K-BG121
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40HX8K-BG121](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40HX8K-BG121)
 - Short Link: [http://oom.lt/SZKFPGALATTICEICE4HX8KBG121](http://oom.lt/SZKFPGALATTICEICE4HX8KBG121)

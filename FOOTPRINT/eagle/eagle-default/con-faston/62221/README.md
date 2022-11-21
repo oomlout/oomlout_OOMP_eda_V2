@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-faston-62221
 - Hex ID: FZECONFASTON62221
 - Name: con-faston : 62221
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-faston/62221/
 - Description: con-faston : 62221
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-faston-62221](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-faston-62221)
 - Short Link: [http://oom.lt/FZECONFASTON62221](http://oom.lt/FZECONFASTON62221)

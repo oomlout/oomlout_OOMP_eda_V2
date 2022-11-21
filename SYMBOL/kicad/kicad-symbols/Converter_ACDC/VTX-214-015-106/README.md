@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-VTX-214-015-106
 - Hex ID: SZKCONVTX2141516
 - Name: Converter_ACDC : VTX-214-015-106
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/VTX-214-015-106/
 - Description: Converter_ACDC : VTX-214-015-106
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-VTX-214-015-106](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-VTX-214-015-106)
 - Short Link: [http://oom.lt/SZKCONVTX2141516](http://oom.lt/SZKCONVTX2141516)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-ml-ML40L
 - Hex ID: FZECONMLML4L
 - Name: con-ml : ML40L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-ml/ML40L/
 - Description: con-ml : ML40L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-ML40L](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ml-ML40L)
 - Short Link: [http://oom.lt/FZECONMLML4L](http://oom.lt/FZECONMLML4L)

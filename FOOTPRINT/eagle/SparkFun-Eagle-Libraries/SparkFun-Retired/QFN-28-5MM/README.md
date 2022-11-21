@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN-28-5MM
 - Hex ID: FZSRTQFN285
 - Name: SparkFun-Retired : QFN-28-5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/QFN-28-5MM/
 - Description: SparkFun-Retired : QFN-28-5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN-28-5MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN-28-5MM)
 - Short Link: [http://oom.lt/FZSRTQFN285](http://oom.lt/FZSRTQFN285)

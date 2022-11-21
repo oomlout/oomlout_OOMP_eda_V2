@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX884
 - Hex ID: SZKREGULATORLINEARMAX884
 - Name: Regulator_Linear : MAX884
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX884/
 - Description: Regulator_Linear : MAX884
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX884](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX884)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMAX884](http://oom.lt/SZKREGULATORLINEARMAX884)

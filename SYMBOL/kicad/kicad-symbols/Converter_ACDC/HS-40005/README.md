@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40005
 - Hex ID: SZKCONHS45
 - Name: Converter_ACDC : HS-40005
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/HS-40005/
 - Description: Converter_ACDC : HS-40005
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40005](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40005)
 - Short Link: [http://oom.lt/SZKCONHS45](http://oom.lt/SZKCONHS45)

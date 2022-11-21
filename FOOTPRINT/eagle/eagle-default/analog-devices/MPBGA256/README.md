@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-MPBGA256
 - Hex ID: FZEANALOGDEVICESMPBGA256
 - Name: analog-devices : MPBGA256
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/MPBGA256/
 - Description: analog-devices : MPBGA256
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-MPBGA256](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-MPBGA256)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESMPBGA256](http://oom.lt/FZEANALOGDEVICESMPBGA256)

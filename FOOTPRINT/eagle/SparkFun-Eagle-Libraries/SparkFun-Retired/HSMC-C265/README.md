@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-HSMC-C265
 - Hex ID: FZSRTHSMCC265
 - Name: SparkFun-Retired : HSMC-C265
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/HSMC-C265/
 - Description: SparkFun-Retired : HSMC-C265
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-HSMC-C265](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-HSMC-C265)
 - Short Link: [http://oom.lt/FZSRTHSMCC265](http://oom.lt/FZSRTHSMCC265)

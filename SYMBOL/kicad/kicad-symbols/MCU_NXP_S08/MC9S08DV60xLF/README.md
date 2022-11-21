@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DV60xLF
 - Hex ID: SZKMCUNXPS8MC9S8DV6XLF
 - Name: MCU_NXP_S08 : MC9S08DV60xLF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08DV60xLF/
 - Description: MCU_NXP_S08 : MC9S08DV60xLF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DV60xLF](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DV60xLF)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8DV6XLF](http://oom.lt/SZKMCUNXPS8MC9S8DV6XLF)

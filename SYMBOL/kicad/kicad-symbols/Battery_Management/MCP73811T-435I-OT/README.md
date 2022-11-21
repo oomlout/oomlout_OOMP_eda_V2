@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73811T-435I-OT
 - Hex ID: SZKBATMANAGEMENTMCP73811T435IOT
 - Name: Battery_Management : MCP73811T-435I-OT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73811T-435I-OT/
 - Description: Battery_Management : MCP73811T-435I-OT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73811T-435I-OT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73811T-435I-OT)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMCP73811T435IOT](http://oom.lt/SZKBATMANAGEMENTMCP73811T435IOT)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-SMLVN6RGB
 - Hex ID: SZKLSMLVN6RGB
 - Name: LED : SMLVN6RGB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SMLVN6RGB/
 - Description: LED : SMLVN6RGB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SMLVN6RGB](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SMLVN6RGB)
 - Short Link: [http://oom.lt/SZKLSMLVN6RGB](http://oom.lt/SZKLSMLVN6RGB)

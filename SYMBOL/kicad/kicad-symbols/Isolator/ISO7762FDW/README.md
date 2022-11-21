@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ISO7762FDW
 - Hex ID: SZKISOLATORISO7762FDW
 - Name: Isolator : ISO7762FDW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ISO7762FDW/
 - Description: Isolator : ISO7762FDW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7762FDW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7762FDW)
 - Short Link: [http://oom.lt/SZKISOLATORISO7762FDW](http://oom.lt/SZKISOLATORISO7762FDW)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F401VDHx
 - Hex ID: SZKMCUSTSTM32F4STM32F41VDHX
 - Name: MCU_ST_STM32F4 : STM32F401VDHx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F401VDHx/
 - Description: MCU_ST_STM32F4 : STM32F401VDHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F401VDHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F401VDHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F41VDHX](http://oom.lt/SZKMCUSTSTM32F4STM32F41VDHX)

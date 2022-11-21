@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_PUJT_BEB
 - Hex ID: SZKDEVICEQPUJTBEB
 - Name: Device : Q_PUJT_BEB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_PUJT_BEB/
 - Description: Device : Q_PUJT_BEB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PUJT_BEB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PUJT_BEB)
 - Short Link: [http://oom.lt/SZKDEVICEQPUJTBEB](http://oom.lt/SZKDEVICEQPUJTBEB)

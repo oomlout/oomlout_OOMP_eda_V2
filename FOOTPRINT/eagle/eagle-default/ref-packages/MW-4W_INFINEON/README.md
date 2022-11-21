@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESMW4WINFINEON > ref-packages : MW-4W_INFINEON](#fzerefpackagesmw4winfineon--ref-packages--mw-4w_infineon)
+* [FZEREFPSMW4WINFINEON > ref-packages : MW-4W_INFINEON](#fzerefpsmw4winfineon--ref-packages--mw-4w_infineon)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESMW4WINFINEON > ref-packages : MW-4W_INFINEON
+# FZEREFPSMW4WINFINEON > ref-packages : MW-4W_INFINEON
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-MW-4W_INFINEON
-- Hex ID: FZEREFPACKAGESMW4WINFINEON
+- Hex ID: FZEREFPSMW4WINFINEON
 - Name: ref-packages : MW-4W_INFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/MW-4W_INFINEON/
 - Description: ref-packages : MW-4W_INFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MW-4W_INFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MW-4W_INFINEON)
-- Short Link: [http://oom.lt/FZEREFPACKAGESMW4WINFINEON](http://oom.lt/FZEREFPACKAGESMW4WINFINEON)
+- Short Link: [http://oom.lt/FZEREFPSMW4WINFINEON](http://oom.lt/FZEREFPSMW4WINFINEON)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|MW-4W_INFINEON|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-MW-4W_INFINEON|
-|Hex ID (short code)|hexID|FZEREFPACKAGESMW4WINFINEON|
+|Hex ID (short code)|hexID|FZEREFPSMW4WINFINEON|
 |name|name|ref-packages : MW-4W_INFINEON|
 ||||

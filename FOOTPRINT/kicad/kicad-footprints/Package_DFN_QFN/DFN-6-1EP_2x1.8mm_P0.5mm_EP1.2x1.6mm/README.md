@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-6-1EP_2x1.8mm_P0.5mm_EP1.2x1.6mm
 - Hex ID: FZKDFNDFN61EP2X18P5EP12X16
 - Name: Package_DFN_QFN : DFN-6-1EP_2x1.8mm_P0.5mm_EP1.2x1.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-6-1EP_2x1.8mm_P0.5mm_EP1.2x1.6mm/
 - Description: Package_DFN_QFN : DFN-6-1EP_2x1.8mm_P0.5mm_EP1.2x1.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-6-1EP_2x1.8mm_P0.5mm_EP1.2x1.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-6-1EP_2x1.8mm_P0.5mm_EP1.2x1.6mm)
 - Short Link: [http://oom.lt/FZKDFNDFN61EP2X18P5EP12X16](http://oom.lt/FZKDFNDFN61EP2X18P5EP12X16)

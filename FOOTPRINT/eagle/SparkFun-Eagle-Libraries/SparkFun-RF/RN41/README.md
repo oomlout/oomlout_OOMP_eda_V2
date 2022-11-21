@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RN41
 - Hex ID: FZSRFRN41
 - Name: SparkFun-RF : RN41
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/RN41/
 - Description: SparkFun-RF : RN41
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RN41](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RN41)
 - Short Link: [http://oom.lt/FZSRFRN41](http://oom.lt/FZSRFRN41)

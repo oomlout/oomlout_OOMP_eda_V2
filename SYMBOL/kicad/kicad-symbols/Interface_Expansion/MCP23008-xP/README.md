@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23008-xP
 - Hex ID: SZKINTERFACEEXPANSIONMCP238XP
 - Name: Interface_Expansion : MCP23008-xP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23008-xP/
 - Description: Interface_Expansion : MCP23008-xP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23008-xP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23008-xP)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONMCP238XP](http://oom.lt/SZKINTERFACEEXPANSIONMCP238XP)

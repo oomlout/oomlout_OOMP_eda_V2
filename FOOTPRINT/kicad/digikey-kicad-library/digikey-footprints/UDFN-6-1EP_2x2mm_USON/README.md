@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUDFN61EP2X2USON > digikey-footprints : UDFN-6-1EP_2x2mm_USON](#fzkicaddigikeykicadlibrarydigikeyfootprintsudfn61ep2x2uson--digikey-footprints--udfn-6-1ep_2x2mm_uson)
+* [FZDIGIDIGIKEYFOOTPRINTSUDFN61EP2X2USON > digikey-footprints : UDFN-6-1EP_2x2mm_USON](#fzdigidigikeyfootprintsudfn61ep2x2uson--digikey-footprints--udfn-6-1ep_2x2mm_uson)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUDFN61EP2X2USON > digikey-footprints : UDFN-6-1EP_2x2mm_USON
+# FZDIGIDIGIKEYFOOTPRINTSUDFN61EP2X2USON > digikey-footprints : UDFN-6-1EP_2x2mm_USON
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UDFN-6-1EP_2x2mm_USON
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUDFN61EP2X2USON
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSUDFN61EP2X2USON
 - Name: digikey-footprints : UDFN-6-1EP_2x2mm_USON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UDFN-6-1EP_2x2mm_USON/
 - Description: digikey-footprints : UDFN-6-1EP_2x2mm_USON
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UDFN-6-1EP_2x2mm_USON](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UDFN-6-1EP_2x2mm_USON)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUDFN61EP2X2USON](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUDFN61EP2X2USON)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUDFN61EP2X2USON](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUDFN61EP2X2USON)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|UDFN-6-1EP_2x2mm_USON|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UDFN-6-1EP_2x2mm_USON|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUDFN61EP2X2USON|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSUDFN61EP2X2USON|
 |name|name|digikey-footprints : UDFN-6-1EP_2x2mm_USON|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UDFN-6-1EP_2x2mm_USON'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

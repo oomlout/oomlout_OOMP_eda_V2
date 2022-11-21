@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-V235_17
 - Hex ID: FZAV23517
 - Name: adafruit : V235_17
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/V235_17/
 - Description: adafruit : V235_17
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-V235_17](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-V235_17)
 - Short Link: [http://oom.lt/FZAV23517](http://oom.lt/FZAV23517)

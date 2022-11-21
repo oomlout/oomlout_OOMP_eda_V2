@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-HFE-3XX
 - Hex ID: FZEOPTOHONEYWELLHFE3XX
 - Name: opto-honeywell : HFE-3XX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/HFE-3XX/
 - Description: opto-honeywell : HFE-3XX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-HFE-3XX](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-HFE-3XX)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLHFE3XX](http://oom.lt/FZEOPTOHONEYWELLHFE3XX)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBB44 > oobbOutlines : OOBB-04-04](#fzkicadoomloutoompkicadoobboutlinesoobb44--oobboutlines--oobb-04-04)
+* [FZOOMPKOOBBOOBB44 > oobbOutlines : OOBB-04-04](#fzoompkoobboobb44--oobboutlines--oobb-04-04)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBB44 > oobbOutlines : OOBB-04-04
+# FZOOMPKOOBBOOBB44 > oobbOutlines : OOBB-04-04
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-04-04
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBB44
+- Hex ID: FZOOMPKOOBBOOBB44
 - Name: oobbOutlines : OOBB-04-04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oobbOutlines/OOBB-04-04/
 - Description: oobbOutlines : OOBB-04-04
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-04-04](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-04-04)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBB44](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBB44)
+- Short Link: [http://oom.lt/FZOOMPKOOBBOOBB44](http://oom.lt/FZOOMPKOOBBOOBB44)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oobbOutlines|
 |OOMP Index|oompIndex|OOBB-04-04|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-04-04|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBB44|
+|Hex ID (short code)|hexID|FZOOMPKOOBBOOBB44|
 |name|name|oobbOutlines : OOBB-04-04|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'OOBB-04-04'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

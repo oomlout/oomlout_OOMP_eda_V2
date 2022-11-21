@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A401
 - Hex ID: SZKDICHARACTERHDSPA41
 - Name: Display_Character : HDSP-A401
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-A401/
 - Description: Display_Character : HDSP-A401
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A401](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A401)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSPA41](http://oom.lt/SZKDICHARACTERHDSPA41)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-AQZ404-PS-H
 - Hex ID: FZERELAYAQZ44PSH
 - Name: relay : AQZ404-PS-H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/AQZ404-PS-H/
 - Description: relay : AQZ404-PS-H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQZ404-PS-H](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQZ404-PS-H)
 - Short Link: [http://oom.lt/FZERELAYAQZ44PSH](http://oom.lt/FZERELAYAQZ44PSH)

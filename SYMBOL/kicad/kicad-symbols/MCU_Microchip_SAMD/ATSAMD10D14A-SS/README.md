@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD10D14A-SS
 - Hex ID: SZKMCUMCHIPSAMDATSAMD1D14ASS
 - Name: MCU_Microchip_SAMD : ATSAMD10D14A-SS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD10D14A-SS/
 - Description: MCU_Microchip_SAMD : ATSAMD10D14A-SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD10D14A-SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD10D14A-SS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMD1D14ASS](http://oom.lt/SZKMCUMCHIPSAMDATSAMD1D14ASS)

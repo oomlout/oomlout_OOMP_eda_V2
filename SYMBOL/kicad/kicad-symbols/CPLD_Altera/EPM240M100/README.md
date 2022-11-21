@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM240M100
 - Hex ID: SZKCPLDALTERAEPM24M1
 - Name: CPLD_Altera : EPM240M100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM240M100/
 - Description: CPLD_Altera : EPM240M100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM240M100](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM240M100)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEPM24M1](http://oom.lt/SZKCPLDALTERAEPM24M1)

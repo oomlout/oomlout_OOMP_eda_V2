@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-MSOP8
 - Hex ID: FZETRANSISTORPOWERMS8
 - Name: transistor-power : MSOP8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/MSOP8/
 - Description: transistor-power : MSOP8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-MSOP8](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-MSOP8)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERMS8](http://oom.lt/FZETRANSISTORPOWERMS8)

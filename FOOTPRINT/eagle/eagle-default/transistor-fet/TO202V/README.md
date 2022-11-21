@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-TO202V
 - Hex ID: FZETRANSISTORFETTO22V
 - Name: transistor-fet : TO202V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/TO202V/
 - Description: transistor-fet : TO202V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-TO202V](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-TO202V)
 - Short Link: [http://oom.lt/FZETRANSISTORFETTO22V](http://oom.lt/FZETRANSISTORFETTO22V)

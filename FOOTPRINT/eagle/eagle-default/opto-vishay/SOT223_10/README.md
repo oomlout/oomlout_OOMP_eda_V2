@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-vishay-SOT223_10
 - Hex ID: FZEOPTOVISHAYSOT2231
 - Name: opto-vishay : SOT223_10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-vishay/SOT223_10/
 - Description: opto-vishay : SOT223_10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-vishay-SOT223_10](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-vishay-SOT223_10)
 - Short Link: [http://oom.lt/FZEOPTOVISHAYSOT2231](http://oom.lt/FZEOPTOVISHAYSOT2231)

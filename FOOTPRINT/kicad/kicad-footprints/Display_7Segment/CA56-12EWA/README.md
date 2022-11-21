@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-CA56-12EWA
 - Hex ID: FZKDI7SCA5612EWA
 - Name: Display_7Segment : CA56-12EWA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/CA56-12EWA/
 - Description: Display_7Segment : CA56-12EWA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-CA56-12EWA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-CA56-12EWA)
 - Short Link: [http://oom.lt/FZKDI7SCA5612EWA](http://oom.lt/FZKDI7SCA5612EWA)

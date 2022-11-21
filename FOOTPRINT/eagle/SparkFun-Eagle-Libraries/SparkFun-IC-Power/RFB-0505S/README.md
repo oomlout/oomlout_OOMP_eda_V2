@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-RFB-0505S
 - Hex ID: FZSIPRFB55S
 - Name: SparkFun-IC-Power : RFB-0505S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/RFB-0505S/
 - Description: SparkFun-IC-Power : RFB-0505S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-RFB-0505S](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-RFB-0505S)
 - Short Link: [http://oom.lt/FZSIPRFB55S](http://oom.lt/FZSIPRFB55S)

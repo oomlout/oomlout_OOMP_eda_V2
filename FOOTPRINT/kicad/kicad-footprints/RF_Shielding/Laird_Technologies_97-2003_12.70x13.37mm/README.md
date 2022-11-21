@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_97-2003_12.70x13.37mm
 - Hex ID: FZKRFSLAIRDTECHNOLOGIES9723127X1337
 - Name: RF_Shielding : Laird_Technologies_97-2003_12.70x13.37mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_97-2003_12.70x13.37mm/
 - Description: RF_Shielding : Laird_Technologies_97-2003_12.70x13.37mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_97-2003_12.70x13.37mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_97-2003_12.70x13.37mm)
 - Short Link: [http://oom.lt/FZKRFSLAIRDTECHNOLOGIES9723127X1337](http://oom.lt/FZKRFSLAIRDTECHNOLOGIES9723127X1337)

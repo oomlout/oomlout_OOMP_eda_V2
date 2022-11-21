@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA285
 - Hex ID: SZKAMPLIFIERCURRENTINA285
 - Name: Amplifier_Current : INA285
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA285/
 - Description: Amplifier_Current : INA285
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA285](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA285)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTINA285](http://oom.lt/SZKAMPLIFIERCURRENTINA285)

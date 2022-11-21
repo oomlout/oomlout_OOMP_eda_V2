@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Antenna_Shield
 - Hex ID: SZKDEVICEANTENNASH
 - Name: Device : Antenna_Shield
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Antenna_Shield/
 - Description: Device : Antenna_Shield
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Antenna_Shield](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Antenna_Shield)
 - Short Link: [http://oom.lt/SZKDEVICEANTENNASH](http://oom.lt/SZKDEVICEANTENNASH)

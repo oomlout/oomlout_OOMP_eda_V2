@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC7750xRHA
 - Hex ID: SZKANALOGDACDAC775XRHA
 - Name: Analog_DAC : DAC7750xRHA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC7750xRHA/
 - Description: Analog_DAC : DAC7750xRHA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC7750xRHA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC7750xRHA)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC775XRHA](http://oom.lt/SZKANALOGDACDAC775XRHA)

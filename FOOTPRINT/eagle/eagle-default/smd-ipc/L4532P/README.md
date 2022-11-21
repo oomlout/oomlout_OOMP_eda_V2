@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-L4532P
 - Hex ID: FZESMIPCL4532P
 - Name: smd-ipc : L4532P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/L4532P/
 - Description: smd-ipc : L4532P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L4532P](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L4532P)
 - Short Link: [http://oom.lt/FZESMIPCL4532P](http://oom.lt/FZESMIPCL4532P)

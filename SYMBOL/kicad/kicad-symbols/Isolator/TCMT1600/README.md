@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TCMT1600
 - Hex ID: SZKISOLATORTCMT16
 - Name: Isolator : TCMT1600
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TCMT1600/
 - Description: Isolator : TCMT1600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TCMT1600](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TCMT1600)
 - Short Link: [http://oom.lt/SZKISOLATORTCMT16](http://oom.lt/SZKISOLATORTCMT16)

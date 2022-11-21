@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega169A-MC
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA169AMC
 - Name: MCU_Microchip_ATmega : ATmega169A-MC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega169A-MC/
 - Description: MCU_Microchip_ATmega : ATmega169A-MC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega169A-MC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega169A-MC)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA169AMC](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA169AMC)

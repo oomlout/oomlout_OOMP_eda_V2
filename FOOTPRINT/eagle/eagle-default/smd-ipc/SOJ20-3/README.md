@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ20-3
 - Hex ID: FZESMIPCSOJ23
 - Name: smd-ipc : SOJ20-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOJ20-3/
 - Description: smd-ipc : SOJ20-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ20-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ20-3)
 - Short Link: [http://oom.lt/FZESMIPCSOJ23](http://oom.lt/FZESMIPCSOJ23)

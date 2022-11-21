@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHELMA11X11 > switch : ELMA-01-1X11](#fzeswitchelma11x11--switch--elma-01-1x11)
+* [FZESWELMA11X11 > switch : ELMA-01-1X11](#fzeswelma11x11--switch--elma-01-1x11)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHELMA11X11 > switch : ELMA-01-1X11
+# FZESWELMA11X11 > switch : ELMA-01-1X11
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-ELMA-01-1X11
-- Hex ID: FZESWITCHELMA11X11
+- Hex ID: FZESWELMA11X11
 - Name: switch : ELMA-01-1X11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/ELMA-01-1X11/
 - Description: switch : ELMA-01-1X11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ELMA-01-1X11](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ELMA-01-1X11)
-- Short Link: [http://oom.lt/FZESWITCHELMA11X11](http://oom.lt/FZESWITCHELMA11X11)
+- Short Link: [http://oom.lt/FZESWELMA11X11](http://oom.lt/FZESWELMA11X11)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|ELMA-01-1X11|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-ELMA-01-1X11|
-|Hex ID (short code)|hexID|FZESWITCHELMA11X11|
+|Hex ID (short code)|hexID|FZESWELMA11X11|
 |name|name|switch : ELMA-01-1X11|
 ||||

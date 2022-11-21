@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7709A
 - Hex ID: SZKPOWERSUPERVISORTL779A
 - Name: Power_Supervisor : TL7709A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7709A/
 - Description: Power_Supervisor : TL7709A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7709A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7709A)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTL779A](http://oom.lt/SZKPOWERSUPERVISORTL779A)

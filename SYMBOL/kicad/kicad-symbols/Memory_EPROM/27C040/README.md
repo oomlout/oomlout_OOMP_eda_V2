@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C040
 - Hex ID: SZKMEMORYEPROM27C4
 - Name: Memory_EPROM : 27C040
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EPROM/27C040/
 - Description: Memory_EPROM : 27C040
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C040](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C040)
 - Short Link: [http://oom.lt/SZKMEMORYEPROM27C4](http://oom.lt/SZKMEMORYEPROM27C4)

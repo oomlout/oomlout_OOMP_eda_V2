@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-TN2
 - Hex ID: FZERELAYTN2
 - Name: relay : TN2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/TN2/
 - Description: relay : TN2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TN2](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TN2)
 - Short Link: [http://oom.lt/FZERELAYTN2](http://oom.lt/FZERELAYTN2)

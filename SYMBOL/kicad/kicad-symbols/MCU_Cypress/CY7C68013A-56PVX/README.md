@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY7C68013A-56PVX
 - Hex ID: SZKMCUCYPRESSCY7C6813A56PVX
 - Name: MCU_Cypress : CY7C68013A-56PVX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY7C68013A-56PVX/
 - Description: MCU_Cypress : CY7C68013A-56PVX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY7C68013A-56PVX](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY7C68013A-56PVX)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY7C6813A56PVX](http://oom.lt/SZKMCUCYPRESSCY7C6813A56PVX)

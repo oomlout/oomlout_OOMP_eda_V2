@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-SO24W
 - Hex ID: FZEATMELSO24W
 - Name: atmel : SO24W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/SO24W/
 - Description: atmel : SO24W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SO24W](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SO24W)
 - Short Link: [http://oom.lt/FZEATMELSO24W](http://oom.lt/FZEATMELSO24W)

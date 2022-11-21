@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1634xxS8-2.5
 - Hex ID: SZKREFERENCEVOLTAGELT1634XXS825
 - Name: Reference_Voltage : LT1634xxS8-2.5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LT1634xxS8-2.5/
 - Description: Reference_Voltage : LT1634xxS8-2.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1634xxS8-2.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1634xxS8-2.5)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELT1634XXS825](http://oom.lt/SZKREFERENCEVOLTAGELT1634XXS825)

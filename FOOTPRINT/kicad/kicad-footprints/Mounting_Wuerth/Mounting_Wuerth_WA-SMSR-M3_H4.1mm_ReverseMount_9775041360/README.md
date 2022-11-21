@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKMONMONWASMSRM3H41RMOUNT97754136 > Mounting_Wuerth : Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360](#fzkmonmonwasmsrm3h41rmount97754136--mounting_wuerth--mounting_wuerth_wa-smsr-m3_h41mm_reversemount_9775041360)
+* [FZKMONMONWASMSRM3H41RM97754136 > Mounting_Wuerth : Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360](#fzkmonmonwasmsrm3h41rm97754136--mounting_wuerth--mounting_wuerth_wa-smsr-m3_h41mm_reversemount_9775041360)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKMONMONWASMSRM3H41RMOUNT97754136 > Mounting_Wuerth : Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360
+# FZKMONMONWASMSRM3H41RM97754136 > Mounting_Wuerth : Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360
-- Hex ID: FZKMONMONWASMSRM3H41RMOUNT97754136
+- Hex ID: FZKMONMONWASMSRM3H41RM97754136
 - Name: Mounting_Wuerth : Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360/
 - Description: Mounting_Wuerth : Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360)
-- Short Link: [http://oom.lt/FZKMONMONWASMSRM3H41RMOUNT97754136](http://oom.lt/FZKMONMONWASMSRM3H41RMOUNT97754136)
+- Short Link: [http://oom.lt/FZKMONMONWASMSRM3H41RM97754136](http://oom.lt/FZKMONMONWASMSRM3H41RM97754136)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Mounting_Wuerth|
 |OOMP Index|oompIndex|Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360|
-|Hex ID (short code)|hexID|FZKMONMONWASMSRM3H41RMOUNT97754136|
+|Hex ID (short code)|hexID|FZKMONMONWASMSRM3H41RM97754136|
 |name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360'</td><td> 'description'</td></tr><tr><td> 'Mounting Hardware</td><td> inside through hole M3</td><td> height 4.1</td><td> Wuerth electronics 9775041360 (https</td></tr><tr><td>//katalog.we-online.com/em/datasheet/9775041360.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'Mounting M3 9775041360'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||

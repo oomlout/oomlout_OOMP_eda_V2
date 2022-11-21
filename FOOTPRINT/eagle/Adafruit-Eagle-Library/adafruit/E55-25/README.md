@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E55-25
 - Hex ID: FZAE5525
 - Name: adafruit : E55-25
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E55-25/
 - Description: adafruit : E55-25
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E55-25](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E55-25)
 - Short Link: [http://oom.lt/FZAE5525](http://oom.lt/FZAE5525)

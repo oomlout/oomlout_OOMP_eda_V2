@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN4677VRM1 > digikey-footprints : Bluetooth_Module_RN4677-VRM100](#fzkicaddigikeykicadlibrarydigikeyfootprintsbluetoothmorn4677vrm1--digikey-footprints--bluetooth_module_rn4677-vrm100)
+* [FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN4677VRM1 > digikey-footprints : Bluetooth_Module_RN4677-VRM100](#fzdigidigikeyfootprintsbluetoothmorn4677vrm1--digikey-footprints--bluetooth_module_rn4677-vrm100)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN4677VRM1 > digikey-footprints : Bluetooth_Module_RN4677-VRM100
+# FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN4677VRM1 > digikey-footprints : Bluetooth_Module_RN4677-VRM100
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN4677-VRM100
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN4677VRM1
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN4677VRM1
 - Name: digikey-footprints : Bluetooth_Module_RN4677-VRM100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_RN4677-VRM100/
 - Description: digikey-footprints : Bluetooth_Module_RN4677-VRM100
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN4677-VRM100](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN4677-VRM100)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN4677VRM1](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN4677VRM1)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN4677VRM1](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN4677VRM1)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Bluetooth_Module_RN4677-VRM100|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN4677-VRM100|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN4677VRM1|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSBLUETOOTHMORN4677VRM1|
 |name|name|digikey-footprints : Bluetooth_Module_RN4677-VRM100|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bluetooth_Module_RN4677-VRM100'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

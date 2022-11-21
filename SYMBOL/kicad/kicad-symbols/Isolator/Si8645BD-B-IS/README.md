@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-Si8645BD-B-IS
 - Hex ID: SZKISOLATORSI8645BDBIS
 - Name: Isolator : Si8645BD-B-IS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/Si8645BD-B-IS/
 - Description: Isolator : Si8645BD-B-IS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8645BD-B-IS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8645BD-B-IS)
 - Short Link: [http://oom.lt/SZKISOLATORSI8645BDBIS](http://oom.lt/SZKISOLATORSI8645BDBIS)

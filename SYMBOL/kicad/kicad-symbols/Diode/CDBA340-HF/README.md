@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-CDBA340-HF
 - Hex ID: SZKDIODECDBA34HF
 - Name: Diode : CDBA340-HF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/CDBA340-HF/
 - Description: Diode : CDBA340-HF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CDBA340-HF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CDBA340-HF)
 - Short Link: [http://oom.lt/SZKDIODECDBA34HF](http://oom.lt/SZKDIODECDBA34HF)

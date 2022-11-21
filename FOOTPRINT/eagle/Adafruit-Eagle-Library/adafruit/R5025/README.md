@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R5025
 - Hex ID: FZAR525
 - Name: adafruit : R5025
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/R5025/
 - Description: adafruit : R5025
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R5025](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R5025)
 - Short Link: [http://oom.lt/FZAR525](http://oom.lt/FZAR525)

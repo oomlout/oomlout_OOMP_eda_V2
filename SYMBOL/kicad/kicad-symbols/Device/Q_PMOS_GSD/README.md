@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_GSD
 - Hex ID: SZKDEVICEQPMOSGSD
 - Name: Device : Q_PMOS_GSD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_PMOS_GSD/
 - Description: Device : Q_PMOS_GSD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_GSD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_GSD)
 - Short Link: [http://oom.lt/SZKDEVICEQPMOSGSD](http://oom.lt/SZKDEVICEQPMOSGSD)

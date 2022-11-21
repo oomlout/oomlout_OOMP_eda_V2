@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN9514i
 - Hex ID: SZKINTERFACEETHERNETLAN9514I
 - Name: Interface_Ethernet : LAN9514i
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/LAN9514i/
 - Description: Interface_Ethernet : LAN9514i
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN9514i](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-LAN9514i)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETLAN9514I](http://oom.lt/SZKINTERFACEETHERNETLAN9514I)

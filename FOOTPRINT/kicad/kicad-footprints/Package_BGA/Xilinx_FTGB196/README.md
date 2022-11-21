@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FTGB196
 - Hex ID: FZKBGAXILINXFTGB196
 - Name: Package_BGA : Xilinx_FTGB196
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FTGB196/
 - Description: Package_BGA : Xilinx_FTGB196
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FTGB196](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FTGB196)
 - Short Link: [http://oom.lt/FZKBGAXILINXFTGB196](http://oom.lt/FZKBGAXILINXFTGB196)

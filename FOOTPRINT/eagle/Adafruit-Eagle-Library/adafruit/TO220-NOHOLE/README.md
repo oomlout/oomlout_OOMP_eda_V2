@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO220-NOHOLE
 - Hex ID: FZATO22NH
 - Name: adafruit : TO220-NOHOLE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TO220-NOHOLE/
 - Description: adafruit : TO220-NOHOLE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO220-NOHOLE](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO220-NOHOLE)
 - Short Link: [http://oom.lt/FZATO22NH](http://oom.lt/FZATO22NH)

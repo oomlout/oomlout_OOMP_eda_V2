@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SD24_SOD323
 - Hex ID: SZKDIODESD24SOD323
 - Name: Diode : SD24_SOD323
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SD24_SOD323/
 - Description: Diode : SD24_SOD323
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SD24_SOD323](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SD24_SOD323)
 - Short Link: [http://oom.lt/SZKDIODESD24SOD323](http://oom.lt/SZKDIODESD24SOD323)

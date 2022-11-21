@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-PQFP-44
 - Hex ID: FZEMPHILIPSPQFP44
 - Name: micro-philips : PQFP-44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/PQFP-44/
 - Description: micro-philips : PQFP-44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-PQFP-44](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-PQFP-44)
 - Short Link: [http://oom.lt/FZEMPHILIPSPQFP44](http://oom.lt/FZEMPHILIPSPQFP44)

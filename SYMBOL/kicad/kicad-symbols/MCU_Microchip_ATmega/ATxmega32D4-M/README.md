@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega32D4-M
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA32D4M
 - Name: MCU_Microchip_ATmega : ATxmega32D4-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATxmega32D4-M/
 - Description: MCU_Microchip_ATmega : ATxmega32D4-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega32D4-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega32D4-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA32D4M](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA32D4M)

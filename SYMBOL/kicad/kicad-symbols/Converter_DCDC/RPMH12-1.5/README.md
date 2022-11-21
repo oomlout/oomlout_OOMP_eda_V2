@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPMH12-1.5
 - Hex ID: SZKCONRPMH1215
 - Name: Converter_DCDC : RPMH12-1.5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/RPMH12-1.5/
 - Description: Converter_DCDC : RPMH12-1.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPMH12-1.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPMH12-1.5)
 - Short Link: [http://oom.lt/SZKCONRPMH1215](http://oom.lt/SZKCONRPMH1215)

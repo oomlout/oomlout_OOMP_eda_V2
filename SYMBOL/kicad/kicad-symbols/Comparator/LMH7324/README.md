@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LMH7324
 - Hex ID: SZKCOMPARATORLMH7324
 - Name: Comparator : LMH7324
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LMH7324/
 - Description: Comparator : LMH7324
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMH7324](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMH7324)
 - Short Link: [http://oom.lt/SZKCOMPARATORLMH7324](http://oom.lt/SZKCOMPARATORLMH7324)

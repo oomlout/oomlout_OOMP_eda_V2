@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7078MPRT
 - Hex ID: SZKDRIVERMOTORSLA778MPRT
 - Name: Driver_Motor : SLA7078MPRT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/SLA7078MPRT/
 - Description: Driver_Motor : SLA7078MPRT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7078MPRT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7078MPRT)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORSLA778MPRT](http://oom.lt/SZKDRIVERMOTORSLA778MPRT)

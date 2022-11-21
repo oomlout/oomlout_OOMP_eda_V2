@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-EI54-1
 - Hex ID: FZETRAFOEI541
 - Name: trafo : EI54-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/EI54-1/
 - Description: trafo : EI54-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EI54-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EI54-1)
 - Short Link: [http://oom.lt/FZETRAFOEI541](http://oom.lt/FZETRAFOEI541)

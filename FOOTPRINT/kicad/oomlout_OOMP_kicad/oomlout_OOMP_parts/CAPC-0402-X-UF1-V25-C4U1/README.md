@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XUF1V25C4U1 > oomlout_OOMP_parts : CAPC-0402-X-UF1-V25-C4U1](#fzkicadoomloutoompkicadoomloutoomppartscapc42xuf1v25c4u1--oomlout_oomp_parts--capc-0402-x-uf1-v25-c4u1)
+* [FZOOMPKOOMPPCAPC42XUF1V25C4U1 > oomlout_OOMP_parts : CAPC-0402-X-UF1-V25-C4U1](#fzoompkoomppcapc42xuf1v25c4u1--oomlout_oomp_parts--capc-0402-x-uf1-v25-c4u1)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XUF1V25C4U1 > oomlout_OOMP_parts : CAPC-0402-X-UF1-V25-C4U1
+# FZOOMPKOOMPPCAPC42XUF1V25C4U1 > oomlout_OOMP_parts : CAPC-0402-X-UF1-V25-C4U1
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF1-V25-C4U1
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XUF1V25C4U1
+- Hex ID: FZOOMPKOOMPPCAPC42XUF1V25C4U1
 - Name: oomlout_OOMP_parts : CAPC-0402-X-UF1-V25-C4U1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/CAPC-0402-X-UF1-V25-C4U1/
 - Description: oomlout_OOMP_parts : CAPC-0402-X-UF1-V25-C4U1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF1-V25-C4U1](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF1-V25-C4U1)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XUF1V25C4U1](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XUF1V25C4U1)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPCAPC42XUF1V25C4U1](http://oom.lt/FZOOMPKOOMPPCAPC42XUF1V25C4U1)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|CAPC-0402-X-UF1-V25-C4U1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF1-V25-C4U1|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XUF1V25C4U1|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPCAPC42XUF1V25C4U1|
 |name|name|oomlout_OOMP_parts : CAPC-0402-X-UF1-V25-C4U1|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CAPC-0402-X-UF1-V25-C4U1'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C4U1;PARTL C-JLCC;C52923;MANUF C-XXXX;CL05A105KA5NQNC; Capacitor SMD 0402 (1005 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

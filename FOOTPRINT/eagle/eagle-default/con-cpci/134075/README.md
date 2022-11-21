@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cpci-134075
 - Hex ID: FZECONCPCI13475
 - Name: con-cpci : 134075
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cpci/134075/
 - Description: con-cpci : 134075
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-134075](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-134075)
 - Short Link: [http://oom.lt/FZECONCPCI13475](http://oom.lt/FZECONCPCI13475)

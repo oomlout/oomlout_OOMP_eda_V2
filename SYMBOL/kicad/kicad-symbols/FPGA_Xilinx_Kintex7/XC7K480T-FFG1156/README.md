@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K480T-FFG1156
 - Hex ID: SZKFPGAXILINXKINTEX7XC7K48TFFG1156
 - Name: FPGA_Xilinx_Kintex7 : XC7K480T-FFG1156
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K480T-FFG1156/
 - Description: FPGA_Xilinx_Kintex7 : XC7K480T-FFG1156
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K480T-FFG1156](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K480T-FFG1156)
 - Short Link: [http://oom.lt/SZKFPGAXILINXKINTEX7XC7K48TFFG1156](http://oom.lt/SZKFPGAXILINXKINTEX7XC7K48TFFG1156)

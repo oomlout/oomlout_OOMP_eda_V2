@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOP42
 - Hex ID: FZESMIPCS42
 - Name: smd-ipc : SOP42
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOP42/
 - Description: smd-ipc : SOP42
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP42](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP42)
 - Short Link: [http://oom.lt/FZESMIPCS42](http://oom.lt/FZESMIPCS42)

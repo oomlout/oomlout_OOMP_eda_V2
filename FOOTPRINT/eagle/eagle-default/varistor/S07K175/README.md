@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-S07K175
 - Hex ID: FZEVS7K175
 - Name: varistor : S07K175
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/S07K175/
 - Description: varistor : S07K175
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S07K175](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S07K175)
 - Short Link: [http://oom.lt/FZEVS7K175](http://oom.lt/FZEVS7K175)

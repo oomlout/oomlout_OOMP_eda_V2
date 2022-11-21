@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-PLCC44-SMD-SOCKED
 - Hex ID: FZESMSPECIALPLCC44SMSOCKED
 - Name: smd-special : PLCC44-SMD-SOCKED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/PLCC44-SMD-SOCKED/
 - Description: smd-special : PLCC44-SMD-SOCKED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-PLCC44-SMD-SOCKED](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-PLCC44-SMD-SOCKED)
 - Short Link: [http://oom.lt/FZESMSPECIALPLCC44SMSOCKED](http://oom.lt/FZESMSPECIALPLCC44SMSOCKED)

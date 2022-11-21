@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2895PW
 - Hex ID: SZKREGULATORCONTROLLERUCC2895PW
 - Name: Regulator_Controller : UCC2895PW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC2895PW/
 - Description: Regulator_Controller : UCC2895PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2895PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2895PW)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC2895PW](http://oom.lt/SZKREGULATORCONTROLLERUCC2895PW)

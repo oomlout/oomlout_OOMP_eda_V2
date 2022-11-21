@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-W57B
 - Hex ID: FZELW57B
 - Name: led : W57B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/W57B/
 - Description: led : W57B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-W57B](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-W57B)
 - Short Link: [http://oom.lt/FZELW57B](http://oom.lt/FZELW57B)

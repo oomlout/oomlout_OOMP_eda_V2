@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-H
 - Hex ID: FZSSPARKFUNCNSUAH
 - Name: SparkFun-Connectors : USB-A-H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-A-H/
 - Description: SparkFun-Connectors : USB-A-H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-H](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-H)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSUAH](http://oom.lt/FZSSPARKFUNCNSUAH)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm
 - Hex ID: FZKSOINFINEONPGDSO82739X49EP265X3
 - Name: Package_SO : Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm/
 - Description: Package_SO : Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm)
 - Short Link: [http://oom.lt/FZKSOINFINEONPGDSO82739X49EP265X3](http://oom.lt/FZKSOINFINEONPGDSO82739X49EP265X3)

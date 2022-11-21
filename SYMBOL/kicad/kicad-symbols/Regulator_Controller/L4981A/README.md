@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-L4981A
 - Hex ID: SZKREGULATORCONTROLLERL4981A
 - Name: Regulator_Controller : L4981A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/L4981A/
 - Description: Regulator_Controller : L4981A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L4981A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L4981A)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERL4981A](http://oom.lt/SZKREGULATORCONTROLLERL4981A)

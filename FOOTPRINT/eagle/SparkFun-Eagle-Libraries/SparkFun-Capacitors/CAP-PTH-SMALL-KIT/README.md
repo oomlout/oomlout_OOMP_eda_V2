@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-PTH-SMALL-KIT
 - Hex ID: FZSCCAPPSLLK
 - Name: SparkFun-Capacitors : CAP-PTH-SMALL-KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/CAP-PTH-SMALL-KIT/
 - Description: SparkFun-Capacitors : CAP-PTH-SMALL-KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-PTH-SMALL-KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-PTH-SMALL-KIT)
 - Short Link: [http://oom.lt/FZSCCAPPSLLK](http://oom.lt/FZSCCAPPSLLK)

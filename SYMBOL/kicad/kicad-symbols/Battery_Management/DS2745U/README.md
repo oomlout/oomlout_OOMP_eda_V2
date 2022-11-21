@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-DS2745U
 - Hex ID: SZKBATMANAGEMENTDS2745U
 - Name: Battery_Management : DS2745U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/DS2745U/
 - Description: Battery_Management : DS2745U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-DS2745U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-DS2745U)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTDS2745U](http://oom.lt/SZKBATMANAGEMENTDS2745U)

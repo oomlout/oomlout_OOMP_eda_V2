@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-PFB_S-PQFP-G48
 - Hex ID: FZETEXASPFBSPQFPG48
 - Name: texas : PFB_S-PQFP-G48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/PFB_S-PQFP-G48/
 - Description: texas : PFB_S-PQFP-G48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PFB_S-PQFP-G48](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PFB_S-PQFP-G48)
 - Short Link: [http://oom.lt/FZETEXASPFBSPQFPG48](http://oom.lt/FZETEXASPFBSPQFPG48)

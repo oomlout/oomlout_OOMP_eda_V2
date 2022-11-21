@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT54D
 - Hex ID: FZETRANSISTORSLLSIGNALSOT54D
 - Name: transistor-small-signal : SOT54D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/SOT54D/
 - Description: transistor-small-signal : SOT54D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT54D](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT54D)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALSOT54D](http://oom.lt/FZETRANSISTORSLLSIGNALSOT54D)

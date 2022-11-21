@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-CA4100
 - Hex ID: FZERESISTORPOWERCA41
 - Name: resistor-power : CA4100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/CA4100/
 - Description: resistor-power : CA4100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA4100](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA4100)
 - Short Link: [http://oom.lt/FZERESISTORPOWERCA41](http://oom.lt/FZERESISTORPOWERCA41)

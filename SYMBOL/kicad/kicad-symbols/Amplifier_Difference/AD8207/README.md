@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AD8207
 - Hex ID: SZKAMPLIFIERDIFFERENCEAD827
 - Name: Amplifier_Difference : AD8207
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/AD8207/
 - Description: Amplifier_Difference : AD8207
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AD8207](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AD8207)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCEAD827](http://oom.lt/SZKAMPLIFIERDIFFERENCEAD827)

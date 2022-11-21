@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSENMOTIONINVENSENSEQFN243X3P4 > Sensor_Motion : InvenSense_QFN-24_3x3mm_P0.4mm](#fzksenmotioninvensenseqfn243x3p4--sensor_motion--invensense_qfn-24_3x3mm_p04mm)
+* [FZKSENMOTIONINVENSQFN243X3P4 > Sensor_Motion : InvenSense_QFN-24_3x3mm_P0.4mm](#fzksenmotioninvensqfn243x3p4--sensor_motion--invensense_qfn-24_3x3mm_p04mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSENMOTIONINVENSENSEQFN243X3P4 > Sensor_Motion : InvenSense_QFN-24_3x3mm_P0.4mm
+# FZKSENMOTIONINVENSQFN243X3P4 > Sensor_Motion : InvenSense_QFN-24_3x3mm_P0.4mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Motion-InvenSense_QFN-24_3x3mm_P0.4mm
-- Hex ID: FZKSENMOTIONINVENSENSEQFN243X3P4
+- Hex ID: FZKSENMOTIONINVENSQFN243X3P4
 - Name: Sensor_Motion : InvenSense_QFN-24_3x3mm_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/
 - Description: Sensor_Motion : InvenSense_QFN-24_3x3mm_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Motion-InvenSense_QFN-24_3x3mm_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Motion-InvenSense_QFN-24_3x3mm_P0.4mm)
-- Short Link: [http://oom.lt/FZKSENMOTIONINVENSENSEQFN243X3P4](http://oom.lt/FZKSENMOTIONINVENSENSEQFN243X3P4)
+- Short Link: [http://oom.lt/FZKSENMOTIONINVENSQFN243X3P4](http://oom.lt/FZKSENMOTIONINVENSQFN243X3P4)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Sensor_Motion|
 |OOMP Index|oompIndex|InvenSense_QFN-24_3x3mm_P0.4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Motion-InvenSense_QFN-24_3x3mm_P0.4mm|
-|Hex ID (short code)|hexID|FZKSENMOTIONINVENSENSEQFN243X3P4|
+|Hex ID (short code)|hexID|FZKSENMOTIONINVENSQFN243X3P4|
 |name|name|Sensor_Motion : InvenSense_QFN-24_3x3mm_P0.4mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'InvenSense_QFN-24_3x3mm_P0.4mm'</td><td> 'description'</td></tr><tr><td> '24-Lead Plastic QFN (3mm x 3mm); Pitch 0.4mm; EP 1.7x1.54mm; for InvenSense motion sensors; keepout area marked (Package see</td></tr><tr><td> https</td></tr><tr><td>//store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf; See also https</td></tr><tr><td>//www.invensense.com/wp-content/uploads/2015/02/InvenSense-MEMS-Handling.pdf)'</td><td> 'tags'</td></tr><tr><td> 'QFN 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-24_3x3mm_P0.4mm_EP1.7x1.54mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

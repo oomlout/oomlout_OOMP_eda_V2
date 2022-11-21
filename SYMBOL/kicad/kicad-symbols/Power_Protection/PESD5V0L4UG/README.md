@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-PESD5V0L4UG
 - Hex ID: SZKPOWERPROTECTIONPESD5VL4UG
 - Name: Power_Protection : PESD5V0L4UG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/PESD5V0L4UG/
 - Description: Power_Protection : PESD5V0L4UG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-PESD5V0L4UG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-PESD5V0L4UG)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONPESD5VL4UG](http://oom.lt/SZKPOWERPROTECTIONPESD5VL4UG)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74AUC1G06
 - Hex ID: SZK74XGXX74AUC1G6
 - Name: 74xGxx : 74AUC1G06
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74AUC1G06/
 - Description: 74xGxx : 74AUC1G06
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUC1G06](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUC1G06)
 - Short Link: [http://oom.lt/SZK74XGXX74AUC1G6](http://oom.lt/SZK74XGXX74AUC1G6)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-44X44-336
 - Hex ID: FZESMIPCSQFPS44X44336
 - Name: smd-ipc : SQFP-S-44X44-336
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SQFP-S-44X44-336/
 - Description: smd-ipc : SQFP-S-44X44-336
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-44X44-336](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-44X44-336)
 - Short Link: [http://oom.lt/FZESMIPCSQFPS44X44336](http://oom.lt/FZESMIPCSQFPS44X44336)

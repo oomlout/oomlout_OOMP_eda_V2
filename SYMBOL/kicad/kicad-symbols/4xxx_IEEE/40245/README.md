@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40245
 - Hex ID: SZK4XXXIEEE4245
 - Name: 4xxx_IEEE : 40245
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/40245/
 - Description: 4xxx_IEEE : 40245
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40245](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40245)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4245](http://oom.lt/SZK4XXXIEEE4245)

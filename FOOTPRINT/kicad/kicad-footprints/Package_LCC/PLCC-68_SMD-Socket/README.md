@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-68_SMD-Socket
 - Hex ID: FZKLCCPLCC68SMSO
 - Name: Package_LCC : PLCC-68_SMD-Socket
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-68_SMD-Socket/
 - Description: Package_LCC : PLCC-68_SMD-Socket
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-68_SMD-Socket](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-68_SMD-Socket)
 - Short Link: [http://oom.lt/FZKLCCPLCC68SMSO](http://oom.lt/FZKLCCPLCC68SMSO)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3
 - Hex ID: FZKLLRW762H455P58R3
 - Name: LED_THT : LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3/
 - Description: LED_THT : LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3)
 - Short Link: [http://oom.lt/FZKLLRW762H455P58R3](http://oom.lt/FZKLLRW762H455P58R3)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC1624CS8
 - Hex ID: SZKREGULATORCONTROLLERLTC1624CS8
 - Name: Regulator_Controller : LTC1624CS8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LTC1624CS8/
 - Description: Regulator_Controller : LTC1624CS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC1624CS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC1624CS8)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERLTC1624CS8](http://oom.lt/SZKREGULATORCONTROLLERLTC1624CS8)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5282
 - Hex ID: SZKMCUNXPCOLDFIREMCF5282
 - Name: MCU_NXP_ColdFire : MCF5282
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5282/
 - Description: MCU_NXP_ColdFire : MCF5282
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5282](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5282)
 - Short Link: [http://oom.lt/SZKMCUNXPCOLDFIREMCF5282](http://oom.lt/SZKMCUNXPCOLDFIREMCF5282)

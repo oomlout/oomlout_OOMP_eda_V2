@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-SSOP20D8
 - Hex ID: FZEATMELSS2D8
 - Name: atmel : SSOP20D8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/SSOP20D8/
 - Description: atmel : SSOP20D8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SSOP20D8](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SSOP20D8)
 - Short Link: [http://oom.lt/FZEATMELSS2D8](http://oom.lt/FZEATMELSS2D8)

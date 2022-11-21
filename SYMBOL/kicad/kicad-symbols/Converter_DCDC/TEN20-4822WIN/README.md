@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEN20-4822WIN
 - Hex ID: SZKCONTEN24822WIN
 - Name: Converter_DCDC : TEN20-4822WIN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEN20-4822WIN/
 - Description: Converter_DCDC : TEN20-4822WIN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEN20-4822WIN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEN20-4822WIN)
 - Short Link: [http://oom.lt/SZKCONTEN24822WIN](http://oom.lt/SZKCONTEN24822WIN)

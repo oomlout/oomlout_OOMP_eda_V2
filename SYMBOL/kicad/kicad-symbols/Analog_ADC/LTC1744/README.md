@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1744
 - Hex ID: SZKANALOGADCLTC1744
 - Name: Analog_ADC : LTC1744
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1744/
 - Description: Analog_ADC : LTC1744
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1744](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1744)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC1744](http://oom.lt/SZKANALOGADCLTC1744)

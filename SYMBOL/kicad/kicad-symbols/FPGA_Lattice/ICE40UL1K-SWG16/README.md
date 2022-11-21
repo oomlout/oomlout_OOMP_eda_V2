@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40UL1K-SWG16
 - Hex ID: SZKFPGALATTICEICE4UL1KSWG16
 - Name: FPGA_Lattice : ICE40UL1K-SWG16
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UL1K-SWG16/
 - Description: FPGA_Lattice : ICE40UL1K-SWG16
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40UL1K-SWG16](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40UL1K-SWG16)
 - Short Link: [http://oom.lt/SZKFPGALATTICEICE4UL1KSWG16](http://oom.lt/SZKFPGALATTICEICE4UL1KSWG16)

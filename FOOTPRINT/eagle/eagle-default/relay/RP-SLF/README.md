@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RP-SLF
 - Hex ID: FZERELAYRPSLF
 - Name: relay : RP-SLF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RP-SLF/
 - Description: relay : RP-SLF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RP-SLF](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RP-SLF)
 - Short Link: [http://oom.lt/FZERELAYRPSLF](http://oom.lt/FZERELAYRPSLF)

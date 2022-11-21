@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-BQFP100
 - Hex ID: FZEMSIEMENSBQFP1
 - Name: micro-siemens : BQFP100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/BQFP100/
 - Description: micro-siemens : BQFP100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-BQFP100](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-BQFP100)
 - Short Link: [http://oom.lt/FZEMSIEMENSBQFP1](http://oom.lt/FZEMSIEMENSBQFP1)

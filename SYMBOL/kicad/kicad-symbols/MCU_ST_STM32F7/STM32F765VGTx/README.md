@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F765VGTx
 - Hex ID: SZKMCUSTSTM32F7STM32F765VGTX
 - Name: MCU_ST_STM32F7 : STM32F765VGTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F765VGTx/
 - Description: MCU_ST_STM32F7 : STM32F765VGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F765VGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F765VGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F765VGTX](http://oom.lt/SZKMCUSTSTM32F7STM32F765VGTX)

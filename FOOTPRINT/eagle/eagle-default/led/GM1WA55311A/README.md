@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-GM1WA55311A
 - Hex ID: FZELGM1WA55311A
 - Name: led : GM1WA55311A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/GM1WA55311A/
 - Description: led : GM1WA55311A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-GM1WA55311A](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-GM1WA55311A)
 - Short Link: [http://oom.lt/FZELGM1WA55311A](http://oom.lt/FZELGM1WA55311A)

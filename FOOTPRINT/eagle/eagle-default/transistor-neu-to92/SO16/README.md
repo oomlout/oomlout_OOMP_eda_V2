@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SO16
 - Hex ID: FZETRANSISTORNEUTO92SO16
 - Name: transistor-neu-to92 : SO16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-neu-to92/SO16/
 - Description: transistor-neu-to92 : SO16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SO16](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SO16)
 - Short Link: [http://oom.lt/FZETRANSISTORNEUTO92SO16](http://oom.lt/FZETRANSISTORNEUTO92SO16)

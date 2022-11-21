@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TSSOP20
 - Hex ID: FZATSS2
 - Name: adafruit : TSSOP20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TSSOP20/
 - Description: adafruit : TSSOP20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TSSOP20](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TSSOP20)
 - Short Link: [http://oom.lt/FZATSS2](http://oom.lt/FZATSS2)

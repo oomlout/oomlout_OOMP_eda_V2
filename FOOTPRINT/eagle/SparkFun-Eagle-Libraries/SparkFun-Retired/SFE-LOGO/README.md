@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SFE-LOGO
 - Hex ID: FZSRTSFEL
 - Name: SparkFun-Retired : SFE-LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SFE-LOGO/
 - Description: SparkFun-Retired : SFE-LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SFE-LOGO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SFE-LOGO)
 - Short Link: [http://oom.lt/FZSRTSFEL](http://oom.lt/FZSRTSFEL)

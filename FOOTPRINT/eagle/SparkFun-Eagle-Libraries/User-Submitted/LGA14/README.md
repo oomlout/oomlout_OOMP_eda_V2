@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-LGA14
 - Hex ID: FZSULGA14
 - Name: User-Submitted : LGA14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/User-Submitted/LGA14/
 - Description: User-Submitted : LGA14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-LGA14](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-LGA14)
 - Short Link: [http://oom.lt/FZSULGA14](http://oom.lt/FZSULGA14)

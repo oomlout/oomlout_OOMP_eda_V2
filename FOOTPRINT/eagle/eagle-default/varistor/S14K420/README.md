@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-S14K420
 - Hex ID: FZEVS14K42
 - Name: varistor : S14K420
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/S14K420/
 - Description: varistor : S14K420
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S14K420](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S14K420)
 - Short Link: [http://oom.lt/FZEVS14K42](http://oom.lt/FZEVS14K42)

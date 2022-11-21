@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD542_H2.84mm
 - Hex ID: FZKRFMCIRCUITSCD542H284
 - Name: RF_Mini-Circuits : Mini-Circuits_CD542_H2.84mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/
 - Description: RF_Mini-Circuits : Mini-Circuits_CD542_H2.84mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD542_H2.84mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD542_H2.84mm)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSCD542H284](http://oom.lt/FZKRFMCIRCUITSCD542H284)

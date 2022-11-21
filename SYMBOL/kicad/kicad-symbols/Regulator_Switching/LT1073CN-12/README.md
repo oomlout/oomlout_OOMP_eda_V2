@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGLT173CN12 > Regulator_Switching : LT1073CN-12](#szkregulatorswitchinglt173cn12--regulator_switching--lt1073cn-12)
+* [SZKREGULATORSWINGLT173CN12 > Regulator_Switching : LT1073CN-12](#szkregulatorswinglt173cn12--regulator_switching--lt1073cn-12)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGLT173CN12 > Regulator_Switching : LT1073CN-12
+# SZKREGULATORSWINGLT173CN12 > Regulator_Switching : LT1073CN-12
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1073CN-12
-- Hex ID: SZKREGULATORSWITCHINGLT173CN12
+- Hex ID: SZKREGULATORSWINGLT173CN12
 - Name: Regulator_Switching : LT1073CN-12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT1073CN-12/
 - Description: Regulator_Switching : LT1073CN-12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1073CN-12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1073CN-12)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLT173CN12](http://oom.lt/SZKREGULATORSWITCHINGLT173CN12)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGLT173CN12](http://oom.lt/SZKREGULATORSWINGLT173CN12)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|LT1073CN-12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1073CN-12|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT173CN12|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGLT173CN12|
 |name|name|Regulator_Switching : LT1073CN-12|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LT1073CN-5'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1073CN-12'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1073fa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Micropower DC/DC Converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Micropower DC/DC Converter</td><td> Fixed 12V Output Voltage</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

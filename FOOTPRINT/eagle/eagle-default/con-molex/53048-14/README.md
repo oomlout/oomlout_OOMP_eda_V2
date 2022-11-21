@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-53048-14
 - Hex ID: FZECONMX534814
 - Name: con-molex : 53048-14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/53048-14/
 - Description: con-molex : 53048-14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-53048-14](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-53048-14)
 - Short Link: [http://oom.lt/FZECONMX534814](http://oom.lt/FZECONMX534814)

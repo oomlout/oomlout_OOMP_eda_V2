@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-S2XXEX
 - Hex ID: FZERELAYS2XXEX
 - Name: relay : S2XXEX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/S2XXEX/
 - Description: relay : S2XXEX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-S2XXEX](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-S2XXEX)
 - Short Link: [http://oom.lt/FZERELAYS2XXEX](http://oom.lt/FZERELAYS2XXEX)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-QFN-10-RSE
 - Hex ID: FZSISQFN1RSE
 - Name: SparkFun-IC-Special-Function : QFN-10-RSE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/QFN-10-RSE/
 - Description: SparkFun-IC-Special-Function : QFN-10-RSE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-QFN-10-RSE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-QFN-10-RSE)
 - Short Link: [http://oom.lt/FZSISQFN1RSE](http://oom.lt/FZSISQFN1RSE)

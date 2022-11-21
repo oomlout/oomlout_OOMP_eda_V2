@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-W5KM
 - Hex ID: FZELW5KM
 - Name: led : W5KM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/W5KM/
 - Description: led : W5KM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-W5KM](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-W5KM)
 - Short Link: [http://oom.lt/FZELW5KM](http://oom.lt/FZELW5KM)

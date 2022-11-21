@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-R-20X28-176
 - Hex ID: FZESMIPCSQFPR2X28176
 - Name: smd-ipc : SQFP-R-20X28-176
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SQFP-R-20X28-176/
 - Description: smd-ipc : SQFP-R-20X28-176
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-R-20X28-176](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-R-20X28-176)
 - Short Link: [http://oom.lt/FZESMIPCSQFPR2X28176](http://oom.lt/FZESMIPCSQFPR2X28176)

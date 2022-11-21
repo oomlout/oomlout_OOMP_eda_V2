@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-CT3528
 - Hex ID: FZERCLCT3528
 - Name: rcl : CT3528
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/CT3528/
 - Description: rcl : CT3528
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CT3528](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-CT3528)
 - Short Link: [http://oom.lt/FZERCLCT3528](http://oom.lt/FZERCLCT3528)

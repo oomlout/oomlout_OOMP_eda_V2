@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ESP32_THING
 - Hex ID: FZSBOESP32THING
 - Name: SparkFun-Boards : ESP32_THING
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/ESP32_THING/
 - Description: SparkFun-Boards : ESP32_THING
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ESP32_THING](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ESP32_THING)
 - Short Link: [http://oom.lt/FZSBOESP32THING](http://oom.lt/FZSBOESP32THING)

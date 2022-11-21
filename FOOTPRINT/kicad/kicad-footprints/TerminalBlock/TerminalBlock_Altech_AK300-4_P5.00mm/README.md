@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_Altech_AK300-4_P5.00mm
 - Hex ID: FZKTBTBALTECHAK34P5
 - Name: TerminalBlock : TerminalBlock_Altech_AK300-4_P5.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-4_P5.00mm/
 - Description: TerminalBlock : TerminalBlock_Altech_AK300-4_P5.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_Altech_AK300-4_P5.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_Altech_AK300-4_P5.00mm)
 - Short Link: [http://oom.lt/FZKTBTBALTECHAK34P5](http://oom.lt/FZKTBTBALTECHAK34P5)

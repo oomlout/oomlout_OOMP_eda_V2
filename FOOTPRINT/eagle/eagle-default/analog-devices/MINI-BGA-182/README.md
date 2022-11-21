@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-MINI-BGA-182
 - Hex ID: FZEANALOGDEVICESMBGA182
 - Name: analog-devices : MINI-BGA-182
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/MINI-BGA-182/
 - Description: analog-devices : MINI-BGA-182
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-MINI-BGA-182](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-MINI-BGA-182)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESMBGA182](http://oom.lt/FZEANALOGDEVICESMBGA182)

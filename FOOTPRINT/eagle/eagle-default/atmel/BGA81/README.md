@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-BGA81
 - Hex ID: FZEATMELBGA81
 - Name: atmel : BGA81
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/BGA81/
 - Description: atmel : BGA81
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-BGA81](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-BGA81)
 - Short Link: [http://oom.lt/FZEATMELBGA81](http://oom.lt/FZEATMELBGA81)

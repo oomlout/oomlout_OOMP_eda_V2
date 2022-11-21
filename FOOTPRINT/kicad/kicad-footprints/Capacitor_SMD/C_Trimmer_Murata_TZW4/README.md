@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCAPACITORSMCTRIERMTZW4 > Capacitor_SMD : C_Trimmer_Murata_TZW4](#fzkcapacitorsmctriermtzw4--capacitor_smd--c_trimmer_murata_tzw4)
+* [FZKCCTRIERMTZW4 > Capacitor_SMD : C_Trimmer_Murata_TZW4](#fzkcctriermtzw4--capacitor_smd--c_trimmer_murata_tzw4)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORSMCTRIERMTZW4 > Capacitor_SMD : C_Trimmer_Murata_TZW4
+# FZKCCTRIERMTZW4 > Capacitor_SMD : C_Trimmer_Murata_TZW4
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Murata_TZW4
-- Hex ID: FZKCAPACITORSMCTRIERMTZW4
+- Hex ID: FZKCCTRIERMTZW4
 - Name: Capacitor_SMD : C_Trimmer_Murata_TZW4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Murata_TZW4/
 - Description: Capacitor_SMD : C_Trimmer_Murata_TZW4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Murata_TZW4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Murata_TZW4)
-- Short Link: [http://oom.lt/FZKCAPACITORSMCTRIERMTZW4](http://oom.lt/FZKCAPACITORSMCTRIERMTZW4)
+- Short Link: [http://oom.lt/FZKCCTRIERMTZW4](http://oom.lt/FZKCCTRIERMTZW4)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_SMD|
 |OOMP Index|oompIndex|C_Trimmer_Murata_TZW4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Murata_TZW4|
-|Hex ID (short code)|hexID|FZKCAPACITORSMCTRIERMTZW4|
+|Hex ID (short code)|hexID|FZKCCTRIERMTZW4|
 |name|name|Capacitor_SMD : C_Trimmer_Murata_TZW4|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_Trimmer_Murata_TZW4'</td><td> 'description'</td></tr><tr><td> 'trimmer capacitor SMD horizontal</td><td> http</td></tr><tr><td>//www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb'</td><td> 'tags'</td></tr><tr><td> ' Murata TZW4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_Trimmer_Murata_TZW4.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

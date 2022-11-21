@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-A4952_LY
 - Hex ID: SZKDRIVERMOTORA4952LY
 - Name: Driver_Motor : A4952_LY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/A4952_LY/
 - Description: Driver_Motor : A4952_LY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-A4952_LY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-A4952_LY)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORA4952LY](http://oom.lt/SZKDRIVERMOTORA4952LY)

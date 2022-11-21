@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-S-PDSO-N10
 - Hex ID: FZETEXASSPDSON1
 - Name: texas : S-PDSO-N10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/S-PDSO-N10/
 - Description: texas : S-PDSO-N10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-S-PDSO-N10](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-S-PDSO-N10)
 - Short Link: [http://oom.lt/FZETEXASSPDSON1](http://oom.lt/FZETEXASSPDSON1)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-SMD-4.5X2.0
 - Hex ID: FZSCLRSM45X2
 - Name: SparkFun-Clocks : RESONATOR-SMD-4.5X2.0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/RESONATOR-SMD-4.5X2.0/
 - Description: SparkFun-Clocks : RESONATOR-SMD-4.5X2.0
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-SMD-4.5X2.0](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-SMD-4.5X2.0)
 - Short Link: [http://oom.lt/FZSCLRSM45X2](http://oom.lt/FZSCLRSM45X2)

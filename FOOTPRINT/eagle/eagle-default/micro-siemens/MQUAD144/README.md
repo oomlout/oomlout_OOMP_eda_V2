@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-MQUAD144
 - Hex ID: FZEMSIEMENSMQUAD144
 - Name: micro-siemens : MQUAD144
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/MQUAD144/
 - Description: micro-siemens : MQUAD144
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-MQUAD144](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-MQUAD144)
 - Short Link: [http://oom.lt/FZEMSIEMENSMQUAD144](http://oom.lt/FZEMSIEMENSMQUAD144)

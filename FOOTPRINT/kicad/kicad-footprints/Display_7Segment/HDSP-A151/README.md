@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-A151
 - Hex ID: FZKDI7SHDSPA151
 - Name: Display_7Segment : HDSP-A151
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/HDSP-A151/
 - Description: Display_7Segment : HDSP-A151
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-A151](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-A151)
 - Short Link: [http://oom.lt/FZKDI7SHDSPA151](http://oom.lt/FZKDI7SHDSPA151)

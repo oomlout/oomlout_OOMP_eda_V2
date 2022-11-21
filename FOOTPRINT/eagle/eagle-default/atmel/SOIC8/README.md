@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-SOIC8
 - Hex ID: FZEATMELSOIC8
 - Name: atmel : SOIC8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/SOIC8/
 - Description: atmel : SOIC8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SOIC8](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SOIC8)
 - Short Link: [http://oom.lt/FZEATMELSOIC8](http://oom.lt/FZEATMELSOIC8)

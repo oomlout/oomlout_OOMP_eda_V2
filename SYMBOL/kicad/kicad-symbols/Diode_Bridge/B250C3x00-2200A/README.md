@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-B250C3x00-2200A
 - Hex ID: SZKDIODEBRIDGEB25C3X22A
 - Name: Diode_Bridge : B250C3x00-2200A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B250C3x00-2200A/
 - Description: Diode_Bridge : B250C3x00-2200A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B250C3x00-2200A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B250C3x00-2200A)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEB25C3X22A](http://oom.lt/SZKDIODEBRIDGEB25C3X22A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-QSOP-24_3.9x8.7mm_P0.635mm
 - Hex ID: FZKSOQS2439X87P635
 - Name: Package_SO : QSOP-24_3.9x8.7mm_P0.635mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/QSOP-24_3.9x8.7mm_P0.635mm/
 - Description: Package_SO : QSOP-24_3.9x8.7mm_P0.635mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-QSOP-24_3.9x8.7mm_P0.635mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-QSOP-24_3.9x8.7mm_P0.635mm)
 - Short Link: [http://oom.lt/FZKSOQS2439X87P635](http://oom.lt/FZKSOQS2439X87P635)

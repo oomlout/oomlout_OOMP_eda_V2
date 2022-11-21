@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2985-2.5
 - Hex ID: SZKREGULATORLINEARLP298525
 - Name: Regulator_Linear : LP2985-2.5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2985-2.5/
 - Description: Regulator_Linear : LP2985-2.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2985-2.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2985-2.5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP298525](http://oom.lt/SZKREGULATORLINEARLP298525)

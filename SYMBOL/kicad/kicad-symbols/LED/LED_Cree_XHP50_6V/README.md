@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-LED_Cree_XHP50_6V
 - Hex ID: SZKLLCREEXHP56V
 - Name: LED : LED_Cree_XHP50_6V
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/LED_Cree_XHP50_6V/
 - Description: LED : LED_Cree_XHP50_6V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-LED_Cree_XHP50_6V](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-LED_Cree_XHP50_6V)
 - Short Link: [http://oom.lt/SZKLLCREEXHP56V](http://oom.lt/SZKLLCREEXHP56V)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-DB4
 - Hex ID: SZKDIODEDB4
 - Name: Diode : DB4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/DB4/
 - Description: Diode : DB4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DB4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DB4)
 - Short Link: [http://oom.lt/SZKDIODEDB4](http://oom.lt/SZKDIODEDB4)

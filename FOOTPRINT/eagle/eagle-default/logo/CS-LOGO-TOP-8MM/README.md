@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-CS-LOGO-TOP-8MM
 - Hex ID: FZELCSLTOP8
 - Name: logo : CS-LOGO-TOP-8MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/CS-LOGO-TOP-8MM/
 - Description: logo : CS-LOGO-TOP-8MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CS-LOGO-TOP-8MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CS-LOGO-TOP-8MM)
 - Short Link: [http://oom.lt/FZELCSLTOP8](http://oom.lt/FZELCSLTOP8)

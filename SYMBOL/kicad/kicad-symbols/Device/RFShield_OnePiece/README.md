@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-RFShield_OnePiece
 - Hex ID: SZKDEVICERFSHONEPIECE
 - Name: Device : RFShield_OnePiece
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/RFShield_OnePiece/
 - Description: Device : RFShield_OnePiece
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-RFShield_OnePiece](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-RFShield_OnePiece)
 - Short Link: [http://oom.lt/SZKDEVICERFSHONEPIECE](http://oom.lt/SZKDEVICERFSHONEPIECE)

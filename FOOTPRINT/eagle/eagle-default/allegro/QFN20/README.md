@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-allegro-QFN20
 - Hex ID: FZEALLEGROQFN2
 - Name: allegro : QFN20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/QFN20/
 - Description: allegro : QFN20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-QFN20](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-QFN20)
 - Short Link: [http://oom.lt/FZEALLEGROQFN2](http://oom.lt/FZEALLEGROQFN2)

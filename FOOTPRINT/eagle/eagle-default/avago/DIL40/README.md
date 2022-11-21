@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-avago-DIL40
 - Hex ID: FZEAVAGODIL4
 - Name: avago : DIL40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/avago/DIL40/
 - Description: avago : DIL40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-avago-DIL40](http://oom.lt/FOOTPRINT-eagle-eagle-default-avago-DIL40)
 - Short Link: [http://oom.lt/FZEAVAGODIL4](http://oom.lt/FZEAVAGODIL4)

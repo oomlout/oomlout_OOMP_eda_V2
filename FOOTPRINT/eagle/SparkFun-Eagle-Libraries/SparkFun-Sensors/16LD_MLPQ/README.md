@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-16LD_MLPQ
 - Hex ID: FZSSPARKFUNSENS16LDMLPQ
 - Name: SparkFun-Sensors : 16LD_MLPQ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/16LD_MLPQ/
 - Description: SparkFun-Sensors : 16LD_MLPQ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-16LD_MLPQ](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-16LD_MLPQ)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENS16LDMLPQ](http://oom.lt/FZSSPARKFUNSENS16LDMLPQ)

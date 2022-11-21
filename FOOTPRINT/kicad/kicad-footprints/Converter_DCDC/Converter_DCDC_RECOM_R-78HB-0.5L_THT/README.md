@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R-78HB-0.5L_THT
 - Hex ID: FZKCONCONRECOMR78HB5LTHT
 - Name: Converter_DCDC : Converter_DCDC_RECOM_R-78HB-0.5L_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_RECOM_R-78HB-0.5L_THT/
 - Description: Converter_DCDC : Converter_DCDC_RECOM_R-78HB-0.5L_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R-78HB-0.5L_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R-78HB-0.5L_THT)
 - Short Link: [http://oom.lt/FZKCONCONRECOMR78HB5LTHT](http://oom.lt/FZKCONCONRECOMR78HB5LTHT)

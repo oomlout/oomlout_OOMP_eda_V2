@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF15356-xSP
 - Hex ID: SZKMCUMCHIPPIC16PIC16LF15356XSP
 - Name: MCU_Microchip_PIC16 : PIC16LF15356-xSP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16LF15356-xSP/
 - Description: MCU_Microchip_PIC16 : PIC16LF15356-xSP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF15356-xSP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF15356-xSP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16LF15356XSP](http://oom.lt/SZKMCUMCHIPPIC16PIC16LF15356XSP)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LFCSP-16-4X4
 - Hex ID: FZSSPARKFUNSENSLFCSP164X4
 - Name: SparkFun-Sensors : LFCSP-16-4X4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/LFCSP-16-4X4/
 - Description: SparkFun-Sensors : LFCSP-16-4X4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LFCSP-16-4X4](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LFCSP-16-4X4)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSLFCSP164X4](http://oom.lt/FZSSPARKFUNSENSLFCSP164X4)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPU-CDP1802BCEX
 - Hex ID: SZKCPUCDP182BCEX
 - Name: CPU : CDP1802BCEX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU/CDP1802BCEX/
 - Description: CPU : CDP1802BCEX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU-CDP1802BCEX](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU-CDP1802BCEX)
 - Short Link: [http://oom.lt/SZKCPUCDP182BCEX](http://oom.lt/SZKCPUCDP182BCEX)

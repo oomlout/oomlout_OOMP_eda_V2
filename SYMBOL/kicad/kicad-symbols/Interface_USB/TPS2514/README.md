@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2514
 - Hex ID: SZKINTERFACEUTPS2514
 - Name: Interface_USB : TPS2514
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/TPS2514/
 - Description: Interface_USB : TPS2514
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2514](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2514)
 - Short Link: [http://oom.lt/SZKINTERFACEUTPS2514](http://oom.lt/SZKINTERFACEUTPS2514)

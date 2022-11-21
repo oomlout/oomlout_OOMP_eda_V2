@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3033
 - Hex ID: SZKREFERENCEVOLTAGEREF333
 - Name: Reference_Voltage : REF3033
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF3033/
 - Description: Reference_Voltage : REF3033
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3033](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3033)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF333](http://oom.lt/SZKREFERENCEVOLTAGEREF333)

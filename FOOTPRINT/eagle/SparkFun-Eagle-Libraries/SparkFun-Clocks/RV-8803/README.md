@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RV-8803
 - Hex ID: FZSCLRV883
 - Name: SparkFun-Clocks : RV-8803
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/RV-8803/
 - Description: SparkFun-Clocks : RV-8803
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RV-8803](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RV-8803)
 - Short Link: [http://oom.lt/FZSCLRV883](http://oom.lt/FZSCLRV883)

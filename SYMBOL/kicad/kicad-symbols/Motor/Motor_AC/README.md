@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_AC
 - Hex ID: SZKMOTORMOTORAC
 - Name: Motor : Motor_AC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_AC/
 - Description: Motor : Motor_AC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_AC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_AC)
 - Short Link: [http://oom.lt/SZKMOTORMOTORAC](http://oom.lt/SZKMOTORMOTORAC)

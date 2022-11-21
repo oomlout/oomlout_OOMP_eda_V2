@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SM5100B
 - Hex ID: FZSRFSM51B
 - Name: SparkFun-RF : SM5100B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/SM5100B/
 - Description: SparkFun-RF : SM5100B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SM5100B](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SM5100B)
 - Short Link: [http://oom.lt/FZSRFSM51B](http://oom.lt/FZSRFSM51B)

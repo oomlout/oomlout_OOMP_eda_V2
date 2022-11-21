@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-TSSOP38_R-PDSO-G38-DA
 - Hex ID: FZETEXASTSS38RPDSOG38DA
 - Name: texas : TSSOP38_R-PDSO-G38-DA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/TSSOP38_R-PDSO-G38-DA/
 - Description: texas : TSSOP38_R-PDSO-G38-DA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-TSSOP38_R-PDSO-G38-DA](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-TSSOP38_R-PDSO-G38-DA)
 - Short Link: [http://oom.lt/FZETEXASTSS38RPDSOG38DA](http://oom.lt/FZETEXASTSS38RPDSOG38DA)

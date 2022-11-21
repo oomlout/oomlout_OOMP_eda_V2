@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC78L08_TO92
 - Hex ID: SZKREGULATORLINEARMC78L8TO92
 - Name: Regulator_Linear : MC78L08_TO92
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC78L08_TO92/
 - Description: Regulator_Linear : MC78L08_TO92
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC78L08_TO92](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC78L08_TO92)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMC78L8TO92](http://oom.lt/SZKREGULATORLINEARMC78L8TO92)

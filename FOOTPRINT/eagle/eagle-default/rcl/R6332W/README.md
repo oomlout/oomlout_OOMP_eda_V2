@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-R6332W
 - Hex ID: FZERCLR6332W
 - Name: rcl : R6332W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/R6332W/
 - Description: rcl : R6332W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R6332W](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R6332W)
 - Short Link: [http://oom.lt/FZERCLR6332W](http://oom.lt/FZERCLR6332W)

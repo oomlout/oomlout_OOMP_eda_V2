@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-P594
 - Hex ID: FZEVP594
 - Name: varistor : P594
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/P594/
 - Description: varistor : P594
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-P594](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-P594)
 - Short Link: [http://oom.lt/FZEVP594](http://oom.lt/FZEVP594)

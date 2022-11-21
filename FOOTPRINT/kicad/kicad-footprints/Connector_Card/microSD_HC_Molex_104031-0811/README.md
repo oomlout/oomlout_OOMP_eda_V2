@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Molex_104031-0811
 - Hex ID: FZKCNCARDMSDHCMX1431811
 - Name: Connector_Card : microSD_HC_Molex_104031-0811
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Molex_104031-0811/
 - Description: Connector_Card : microSD_HC_Molex_104031-0811
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Molex_104031-0811](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Molex_104031-0811)
 - Short Link: [http://oom.lt/FZKCNCARDMSDHCMX1431811](http://oom.lt/FZKCNCARDMSDHCMX1431811)

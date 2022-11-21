@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-TSSOP16EXP
 - Hex ID: FZELINEARTECHNOLOGYTSS16EXP
 - Name: linear-technology : TSSOP16EXP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/TSSOP16EXP/
 - Description: linear-technology : TSSOP16EXP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-TSSOP16EXP](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-TSSOP16EXP)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYTSS16EXP](http://oom.lt/FZELINEARTECHNOLOGYTSS16EXP)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-ATTINY85
 - Hex ID: FZSIUATTINY85
 - Name: SparkFun-IC-Microcontroller : ATTINY85
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/ATTINY85/
 - Description: SparkFun-IC-Microcontroller : ATTINY85
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-ATTINY85](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-ATTINY85)
 - Short Link: [http://oom.lt/FZSIUATTINY85](http://oom.lt/FZSIUATTINY85)

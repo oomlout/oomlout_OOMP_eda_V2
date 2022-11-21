@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-A_3216-18W
 - Hex ID: FZERCLA321618W
 - Name: rcl : A_3216-18W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/A_3216-18W/
 - Description: rcl : A_3216-18W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-A_3216-18W](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-A_3216-18W)
 - Short Link: [http://oom.lt/FZERCLA321618W](http://oom.lt/FZERCLA321618W)

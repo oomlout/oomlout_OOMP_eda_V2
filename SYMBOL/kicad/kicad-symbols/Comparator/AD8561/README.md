@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-AD8561
 - Hex ID: SZKCOMPARATORAD8561
 - Name: Comparator : AD8561
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/AD8561/
 - Description: Comparator : AD8561
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-AD8561](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-AD8561)
 - Short Link: [http://oom.lt/SZKCOMPARATORAD8561](http://oom.lt/SZKCOMPARATORAD8561)

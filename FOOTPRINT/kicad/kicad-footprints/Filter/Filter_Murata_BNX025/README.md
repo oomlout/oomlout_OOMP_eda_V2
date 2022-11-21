@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_BNX025
 - Hex ID: FZKFILFILMBNX25
 - Name: Filter : Filter_Murata_BNX025
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_Murata_BNX025/
 - Description: Filter : Filter_Murata_BNX025
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_BNX025](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_BNX025)
 - Short Link: [http://oom.lt/FZKFILFILMBNX25](http://oom.lt/FZKFILFILMBNX25)

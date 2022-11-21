@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2558FD-xSN
 - Hex ID: SZKINTERFACECANLINMCP2558FDXSN
 - Name: Interface_CAN_LIN : MCP2558FD-xSN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2558FD-xSN/
 - Description: Interface_CAN_LIN : MCP2558FD-xSN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2558FD-xSN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2558FD-xSN)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2558FDXSN](http://oom.lt/SZKINTERFACECANLINMCP2558FDXSN)

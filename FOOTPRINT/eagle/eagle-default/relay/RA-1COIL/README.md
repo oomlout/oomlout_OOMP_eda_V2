@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RA-1COIL
 - Hex ID: FZERELAYRA1COIL
 - Name: relay : RA-1COIL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RA-1COIL/
 - Description: relay : RA-1COIL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RA-1COIL](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RA-1COIL)
 - Short Link: [http://oom.lt/FZERELAYRA1COIL](http://oom.lt/FZERELAYRA1COIL)

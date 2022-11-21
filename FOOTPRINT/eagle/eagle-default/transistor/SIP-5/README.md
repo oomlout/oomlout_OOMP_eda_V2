@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-SIP-5
 - Hex ID: FZETRANSISTORSIP5
 - Name: transistor : SIP-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/SIP-5/
 - Description: transistor : SIP-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-SIP-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-SIP-5)
 - Short Link: [http://oom.lt/FZETRANSISTORSIP5](http://oom.lt/FZETRANSISTORSIP5)

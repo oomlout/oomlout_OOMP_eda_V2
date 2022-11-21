@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC1152
 - Hex ID: SZKAMPLIFIEROPERATIONALLTC1152
 - Name: Amplifier_Operational : LTC1152
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC1152/
 - Description: Amplifier_Operational : LTC1152
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC1152](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC1152)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC1152](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC1152)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-quick-10P
 - Hex ID: FZECONAMPQUICK1P
 - Name: con-amp-quick : 10P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-quick/10P/
 - Description: con-amp-quick : 10P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-quick-10P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-quick-10P)
 - Short Link: [http://oom.lt/FZECONAMPQUICK1P](http://oom.lt/FZECONAMPQUICK1P)

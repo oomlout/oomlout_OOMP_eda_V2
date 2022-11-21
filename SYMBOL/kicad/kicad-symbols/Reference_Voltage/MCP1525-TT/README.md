@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1525-TT
 - Hex ID: SZKREFERENCEVOLTAGEMCP1525TT
 - Name: Reference_Voltage : MCP1525-TT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MCP1525-TT/
 - Description: Reference_Voltage : MCP1525-TT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1525-TT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1525-TT)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMCP1525TT](http://oom.lt/SZKREFERENCEVOLTAGEMCP1525TT)

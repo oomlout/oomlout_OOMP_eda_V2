@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_RJHSE5380
 - Hex ID: FZKCNRJRJ45AMPHENOLRJHSE538
 - Name: Connector_RJ : RJ45_Amphenol_RJHSE5380
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJHSE5380/
 - Description: Connector_RJ : RJ45_Amphenol_RJHSE5380
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_RJHSE5380](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_RJHSE5380)
 - Short Link: [http://oom.lt/FZKCNRJRJ45AMPHENOLRJHSE538](http://oom.lt/FZKCNRJRJ45AMPHENOLRJHSE538)

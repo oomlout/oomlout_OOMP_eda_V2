@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-12S
 - Hex ID: SZKCONIRM212S
 - Name: Converter_ACDC : IRM-02-12S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-02-12S/
 - Description: Converter_ACDC : IRM-02-12S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-12S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-12S)
 - Short Link: [http://oom.lt/SZKCONIRM212S](http://oom.lt/SZKCONIRM212S)

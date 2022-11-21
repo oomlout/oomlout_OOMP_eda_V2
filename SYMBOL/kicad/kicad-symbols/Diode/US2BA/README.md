@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-US2BA
 - Hex ID: SZKDIODEUS2BA
 - Name: Diode : US2BA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/US2BA/
 - Description: Diode : US2BA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2BA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2BA)
 - Short Link: [http://oom.lt/SZKDIODEUS2BA](http://oom.lt/SZKDIODEUS2BA)

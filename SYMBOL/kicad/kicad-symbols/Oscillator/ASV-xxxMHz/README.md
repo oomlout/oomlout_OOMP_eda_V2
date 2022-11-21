@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-ASV-xxxMHz
 - Hex ID: SZKOCSASVXXXMHZ
 - Name: Oscillator : ASV-xxxMHz
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/ASV-xxxMHz/
 - Description: Oscillator : ASV-xxxMHz
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASV-xxxMHz](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASV-xxxMHz)
 - Short Link: [http://oom.lt/SZKOCSASVXXXMHZ](http://oom.lt/SZKOCSASVXXXMHZ)

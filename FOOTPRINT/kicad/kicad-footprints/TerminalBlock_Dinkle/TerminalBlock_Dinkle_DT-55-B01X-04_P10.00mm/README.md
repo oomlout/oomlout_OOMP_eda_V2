@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Dinkle-TerminalBlock_Dinkle_DT-55-B01X-04_P10.00mm
 - Hex ID: FZKTBDINKLETBDINKLEDT55B1X4P1
 - Name: TerminalBlock_Dinkle : TerminalBlock_Dinkle_DT-55-B01X-04_P10.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-04_P10.00mm/
 - Description: TerminalBlock_Dinkle : TerminalBlock_Dinkle_DT-55-B01X-04_P10.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Dinkle-TerminalBlock_Dinkle_DT-55-B01X-04_P10.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Dinkle-TerminalBlock_Dinkle_DT-55-B01X-04_P10.00mm)
 - Short Link: [http://oom.lt/FZKTBDINKLETBDINKLEDT55B1X4P1](http://oom.lt/FZKTBDINKLETBDINKLEDT55B1X4P1)

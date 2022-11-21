@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-am29-memory-PLCC32R
 - Hex ID: FZEAM29MEMORYPLCC32R
 - Name: am29-memory : PLCC32R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/am29-memory/PLCC32R/
 - Description: am29-memory : PLCC32R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-PLCC32R](http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-PLCC32R)
 - Short Link: [http://oom.lt/FZEAM29MEMORYPLCC32R](http://oom.lt/FZEAM29MEMORYPLCC32R)

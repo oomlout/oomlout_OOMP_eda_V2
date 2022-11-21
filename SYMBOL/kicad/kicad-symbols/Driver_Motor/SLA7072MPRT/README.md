@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7072MPRT
 - Hex ID: SZKDRIVERMOTORSLA772MPRT
 - Name: Driver_Motor : SLA7072MPRT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/SLA7072MPRT/
 - Description: Driver_Motor : SLA7072MPRT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7072MPRT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7072MPRT)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORSLA772MPRT](http://oom.lt/SZKDRIVERMOTORSLA772MPRT)

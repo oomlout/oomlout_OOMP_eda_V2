@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT_Wurth-L_Wurth_WE-HCFT-3533_LeadDiameter1.8mm
 - Hex ID: FZKINWURTHLWURTHWEHCFT3533LEADDIAMETER18
 - Name: Inductor_THT_Wurth : L_Wurth_WE-HCFT-3533_LeadDiameter1.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT_Wurth/L_Wurth_WE-HCFT-3533_LeadDiameter1.8mm/
 - Description: Inductor_THT_Wurth : L_Wurth_WE-HCFT-3533_LeadDiameter1.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT_Wurth-L_Wurth_WE-HCFT-3533_LeadDiameter1.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT_Wurth-L_Wurth_WE-HCFT-3533_LeadDiameter1.8mm)
 - Short Link: [http://oom.lt/FZKINWURTHLWURTHWEHCFT3533LEADDIAMETER18](http://oom.lt/FZKINWURTHLWURTHWEHCFT3533LEADDIAMETER18)

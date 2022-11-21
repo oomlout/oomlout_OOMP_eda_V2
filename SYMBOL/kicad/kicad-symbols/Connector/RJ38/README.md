@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ38
 - Hex ID: SZKCNRJ38
 - Name: Connector : RJ38
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ38/
 - Description: Connector : RJ38
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ38](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ38)
 - Short Link: [http://oom.lt/SZKCNRJ38](http://oom.lt/SZKCNRJ38)

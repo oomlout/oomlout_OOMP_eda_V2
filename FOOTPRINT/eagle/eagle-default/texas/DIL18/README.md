@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-DIL18
 - Hex ID: FZETEXASDIL18
 - Name: texas : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/DIL18/
 - Description: texas : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DIL18](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DIL18)
 - Short Link: [http://oom.lt/FZETEXASDIL18](http://oom.lt/FZETEXASDIL18)

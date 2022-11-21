@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-AD9851
 - Hex ID: SZKINTERFACEAD9851
 - Name: Interface : AD9851
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/AD9851/
 - Description: Interface : AD9851
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9851](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9851)
 - Short Link: [http://oom.lt/SZKINTERFACEAD9851](http://oom.lt/SZKINTERFACEAD9851)

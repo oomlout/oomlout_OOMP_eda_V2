@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-NF2
 - Hex ID: FZERELAYNF2
 - Name: relay : NF2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/NF2/
 - Description: relay : NF2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-NF2](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-NF2)
 - Short Link: [http://oom.lt/FZERELAYNF2](http://oom.lt/FZERELAYNF2)

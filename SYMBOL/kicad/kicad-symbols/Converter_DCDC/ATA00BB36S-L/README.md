@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ATA00BB36S-L
 - Hex ID: SZKCONATABB36SL
 - Name: Converter_DCDC : ATA00BB36S-L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ATA00BB36S-L/
 - Description: Converter_DCDC : ATA00BB36S-L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ATA00BB36S-L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ATA00BB36S-L)
 - Short Link: [http://oom.lt/SZKCONATABB36SL](http://oom.lt/SZKCONATABB36SL)

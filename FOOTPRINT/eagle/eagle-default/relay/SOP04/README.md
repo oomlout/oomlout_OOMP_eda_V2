@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-SOP04
 - Hex ID: FZERELAYS4
 - Name: relay : SOP04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/SOP04/
 - Description: relay : SOP04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SOP04](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SOP04)
 - Short Link: [http://oom.lt/FZERELAYS4](http://oom.lt/FZERELAYS4)

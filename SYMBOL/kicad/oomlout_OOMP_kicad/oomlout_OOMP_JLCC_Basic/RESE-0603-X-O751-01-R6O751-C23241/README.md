@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO7511R6O751C23241 > oomlout_OOMP_JLCC_Basic : RESE-0603-X-O751-01-R6O751-C23241](#szkicadoomloutoompkicadoomloutoompjlccbasicrese63xo7511r6o751c23241--oomlout_oomp_jlcc_basic--rese-0603-x-o751-01-r6o751-c23241)
+* [SZOOMPKJLCRESE63XO7511R6O751C23241 > oomlout_OOMP_JLCC_Basic : RESE-0603-X-O751-01-R6O751-C23241](#szoompkjlcrese63xo7511r6o751c23241--oomlout_oomp_jlcc_basic--rese-0603-x-o751-01-r6o751-c23241)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO7511R6O751C23241 > oomlout_OOMP_JLCC_Basic : RESE-0603-X-O751-01-R6O751-C23241
+# SZOOMPKJLCRESE63XO7511R6O751C23241 > oomlout_OOMP_JLCC_Basic : RESE-0603-X-O751-01-R6O751-C23241
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O751-01-R6O751-C23241
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO7511R6O751C23241
+- Hex ID: SZOOMPKJLCRESE63XO7511R6O751C23241
 - Name: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O751-01-R6O751-C23241
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-0603-X-O751-01-R6O751-C23241/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O751-01-R6O751-C23241
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O751-01-R6O751-C23241](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O751-01-R6O751-C23241)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO7511R6O751C23241](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO7511R6O751C23241)
+- Short Link: [http://oom.lt/SZOOMPKJLCRESE63XO7511R6O751C23241](http://oom.lt/SZOOMPKJLCRESE63XO7511R6O751C23241)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +31,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_JLCC_Basic|
 |OOMP Index|oompIndex|RESE-0603-X-O751-01-R6O751-C23241|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O751-01-R6O751-C23241|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO7511R6O751C23241|
+|Hex ID (short code)|hexID|SZOOMPKJLCRESE63XO7511R6O751C23241|
 |name|name|oomlout_OOMP_JLCC_Basic : RESE-0603-X-O751-01-R6O751-C23241|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0603-X-O751-01-R6O751-C23241'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0603-X-O751-01-R6O751-C23241'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R6O751'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R6O751;PARTL C-JLCC;C23241;MANUF C-XXXX;0603WAF7500T5E;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

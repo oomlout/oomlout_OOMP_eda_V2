@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC104
 - Hex ID: SZKDIODEBRIDGEVSKBPC14
 - Name: Diode_Bridge : VS-KBPC104
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/VS-KBPC104/
 - Description: Diode_Bridge : VS-KBPC104
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC104](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC104)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEVSKBPC14](http://oom.lt/SZKDIODEBRIDGEVSKBPC14)

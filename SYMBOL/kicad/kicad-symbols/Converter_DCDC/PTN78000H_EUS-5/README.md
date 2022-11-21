@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-PTN78000H_EUS-5
 - Hex ID: SZKCONPTN78HEUS5
 - Name: Converter_DCDC : PTN78000H_EUS-5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78000H_EUS-5/
 - Description: Converter_DCDC : PTN78000H_EUS-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-PTN78000H_EUS-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-PTN78000H_EUS-5)
 - Short Link: [http://oom.lt/SZKCONPTN78HEUS5](http://oom.lt/SZKCONPTN78HEUS5)

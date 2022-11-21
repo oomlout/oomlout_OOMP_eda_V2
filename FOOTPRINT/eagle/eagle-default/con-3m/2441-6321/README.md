@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-3m-2441-6321
 - Hex ID: FZECON3M24416321
 - Name: con-3m : 2441-6321
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-3m/2441-6321/
 - Description: con-3m : 2441-6321
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-2441-6321](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-2441-6321)
 - Short Link: [http://oom.lt/FZECON3M24416321](http://oom.lt/FZECON3M24416321)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSOT1862S > ref-packages : SOT1862S](#fzerefpackagessot1862s--ref-packages--sot1862s)
+* [FZEREFPSSOT1862S > ref-packages : SOT1862S](#fzerefpssot1862s--ref-packages--sot1862s)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSOT1862S > ref-packages : SOT1862S
+# FZEREFPSSOT1862S > ref-packages : SOT1862S
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOT1862S
-- Hex ID: FZEREFPACKAGESSOT1862S
+- Hex ID: FZEREFPSSOT1862S
 - Name: ref-packages : SOT1862S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SOT1862S/
 - Description: ref-packages : SOT1862S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT1862S](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT1862S)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSOT1862S](http://oom.lt/FZEREFPACKAGESSOT1862S)
+- Short Link: [http://oom.lt/FZEREFPSSOT1862S](http://oom.lt/FZEREFPSSOT1862S)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SOT1862S|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SOT1862S|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSOT1862S|
+|Hex ID (short code)|hexID|FZEREFPSSOT1862S|
 |name|name|ref-packages : SOT1862S|
 ||||

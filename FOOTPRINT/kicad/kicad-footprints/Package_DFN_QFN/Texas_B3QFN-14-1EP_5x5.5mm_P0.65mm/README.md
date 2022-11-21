@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm
 - Hex ID: FZKDFNTEXASB3QFN141EP5X55P65
 - Name: Package_DFN_QFN : Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm/
 - Description: Package_DFN_QFN : Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm)
 - Short Link: [http://oom.lt/FZKDFNTEXASB3QFN141EP5X55P65](http://oom.lt/FZKDFNTEXASB3QFN141EP5X55P65)

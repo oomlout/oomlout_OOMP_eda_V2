@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623BNZ
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD623BNZ
 - Name: Amplifier_Instrumentation : AD623BNZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD623BNZ/
 - Description: Amplifier_Instrumentation : AD623BNZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623BNZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623BNZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623BNZ](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623BNZ)

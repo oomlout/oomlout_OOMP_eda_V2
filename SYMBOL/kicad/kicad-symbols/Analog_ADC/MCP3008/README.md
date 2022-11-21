@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3008
 - Hex ID: SZKANALOGADCMCP38
 - Name: Analog_ADC : MCP3008
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3008/
 - Description: Analog_ADC : MCP3008
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3008](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3008)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP38](http://oom.lt/SZKANALOGADCMCP38)

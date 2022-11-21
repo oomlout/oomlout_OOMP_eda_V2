@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-7404
 - Hex ID: SZK74XXIEEE744
 - Name: 74xx_IEEE : 7404
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/7404/
 - Description: 74xx_IEEE : 7404
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7404](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7404)
 - Short Link: [http://oom.lt/SZK74XXIEEE744](http://oom.lt/SZK74XXIEEE744)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-TB5D1MD
 - Hex ID: SZKINTERFACETB5D1MD
 - Name: Interface : TB5D1MD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/TB5D1MD/
 - Description: Interface : TB5D1MD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TB5D1MD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TB5D1MD)
 - Short Link: [http://oom.lt/SZKINTERFACETB5D1MD](http://oom.lt/SZKINTERFACETB5D1MD)

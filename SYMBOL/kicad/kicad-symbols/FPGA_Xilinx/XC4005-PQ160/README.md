@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC4005-PQ160
 - Hex ID: SZKFPGAXILINXXC45PQ16
 - Name: FPGA_Xilinx : XC4005-PQ160
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC4005-PQ160/
 - Description: FPGA_Xilinx : XC4005-PQ160
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC4005-PQ160](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC4005-PQ160)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC45PQ16](http://oom.lt/SZKFPGAXILINXXC45PQ16)

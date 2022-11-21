@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-HPS523
 - Hex ID: FZERESISTORPOWERHPS523
 - Name: resistor-power : HPS523
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/HPS523/
 - Description: resistor-power : HPS523
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-HPS523](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-HPS523)
 - Short Link: [http://oom.lt/FZERESISTORPOWERHPS523](http://oom.lt/FZERESISTORPOWERHPS523)

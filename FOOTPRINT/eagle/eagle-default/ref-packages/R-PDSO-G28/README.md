@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESRPDSOG28 > ref-packages : R-PDSO-G28](#fzerefpackagesrpdsog28--ref-packages--r-pdso-g28)
+* [FZEREFPSRPDSOG28 > ref-packages : R-PDSO-G28](#fzerefpsrpdsog28--ref-packages--r-pdso-g28)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESRPDSOG28 > ref-packages : R-PDSO-G28
+# FZEREFPSRPDSOG28 > ref-packages : R-PDSO-G28
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-R-PDSO-G28
-- Hex ID: FZEREFPACKAGESRPDSOG28
+- Hex ID: FZEREFPSRPDSOG28
 - Name: ref-packages : R-PDSO-G28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/R-PDSO-G28/
 - Description: ref-packages : R-PDSO-G28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-R-PDSO-G28](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-R-PDSO-G28)
-- Short Link: [http://oom.lt/FZEREFPACKAGESRPDSOG28](http://oom.lt/FZEREFPACKAGESRPDSOG28)
+- Short Link: [http://oom.lt/FZEREFPSRPDSOG28](http://oom.lt/FZEREFPSRPDSOG28)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|R-PDSO-G28|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-R-PDSO-G28|
-|Hex ID (short code)|hexID|FZEREFPACKAGESRPDSOG28|
+|Hex ID (short code)|hexID|FZEREFPSRPDSOG28|
 |name|name|ref-packages : R-PDSO-G28|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2542FDxMF
 - Hex ID: SZKINTERFACECANLINMCP2542FDXMF
 - Name: Interface_CAN_LIN : MCP2542FDxMF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2542FDxMF/
 - Description: Interface_CAN_LIN : MCP2542FDxMF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2542FDxMF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2542FDxMF)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2542FDXMF](http://oom.lt/SZKINTERFACECANLINMCP2542FDXMF)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm
 - Hex ID: FZKDFNDFN11EP26X26P5EP13X22
 - Name: Package_DFN_QFN : DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm/
 - Description: Package_DFN_QFN : DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm)
 - Short Link: [http://oom.lt/FZKDFNDFN11EP26X26P5EP13X22](http://oom.lt/FZKDFNDFN11EP26X26P5EP13X22)

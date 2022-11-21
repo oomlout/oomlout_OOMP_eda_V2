@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-78XXL
 - Hex ID: FZSIP78XXL
 - Name: SparkFun-IC-Power : 78XXL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/78XXL/
 - Description: SparkFun-IC-Power : 78XXL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-78XXL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-78XXL)
 - Short Link: [http://oom.lt/FZSIP78XXL](http://oom.lt/FZSIP78XXL)

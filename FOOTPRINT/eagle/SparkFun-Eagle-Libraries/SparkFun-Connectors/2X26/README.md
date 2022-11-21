@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X26
 - Hex ID: FZSSPARKFUNCNS2X26
 - Name: SparkFun-Connectors : 2X26
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/2X26/
 - Description: SparkFun-Connectors : 2X26
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X26](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X26)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS2X26](http://oom.lt/FZSSPARKFUNCNS2X26)

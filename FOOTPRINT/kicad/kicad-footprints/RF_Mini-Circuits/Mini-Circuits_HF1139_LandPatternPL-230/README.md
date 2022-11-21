@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HF1139_LandPatternPL-230
 - Hex ID: FZKRFMCIRCUITSHF1139LANDPATTERNPL23
 - Name: RF_Mini-Circuits : Mini-Circuits_HF1139_LandPatternPL-230
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_HF1139_LandPatternPL-230/
 - Description: RF_Mini-Circuits : Mini-Circuits_HF1139_LandPatternPL-230
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HF1139_LandPatternPL-230](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HF1139_LandPatternPL-230)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSHF1139LANDPATTERNPL23](http://oom.lt/FZKRFMCIRCUITSHF1139LANDPATTERNPL23)

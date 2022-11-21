@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R1206
 - Hex ID: FZAR126
 - Name: adafruit : R1206
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/R1206/
 - Description: adafruit : R1206
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R1206](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R1206)
 - Short Link: [http://oom.lt/FZAR126](http://oom.lt/FZAR126)

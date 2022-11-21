@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS5090-1EJA
 - Hex ID: SZKPOWERMANAGEMENTBTS591EJA
 - Name: Power_Management : BTS5090-1EJA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BTS5090-1EJA/
 - Description: Power_Management : BTS5090-1EJA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS5090-1EJA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS5090-1EJA)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS591EJA](http://oom.lt/SZKPOWERMANAGEMENTBTS591EJA)

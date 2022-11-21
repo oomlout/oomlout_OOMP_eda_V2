@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-209-F_29.36x18.50mm
 - Hex ID: FZKRFSLAIRDTECHNOLOGIESBMIS29F2936X185
 - Name: RF_Shielding : Laird_Technologies_BMI-S-209-F_29.36x18.50mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-209-F_29.36x18.50mm/
 - Description: RF_Shielding : Laird_Technologies_BMI-S-209-F_29.36x18.50mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-209-F_29.36x18.50mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-209-F_29.36x18.50mm)
 - Short Link: [http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS29F2936X185](http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS29F2936X185)

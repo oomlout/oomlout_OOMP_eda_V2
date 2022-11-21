@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1804x-A002xOT
 - Hex ID: SZKREGULATORLINEARMCP184XA2XOT
 - Name: Regulator_Linear : MCP1804x-A002xOT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1804x-A002xOT/
 - Description: Regulator_Linear : MCP1804x-A002xOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1804x-A002xOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1804x-A002xOT)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP184XA2XOT](http://oom.lt/SZKREGULATORLINEARMCP184XA2XOT)

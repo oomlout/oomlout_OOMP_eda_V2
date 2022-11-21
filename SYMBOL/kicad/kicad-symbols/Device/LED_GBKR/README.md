@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_GBKR
 - Hex ID: SZKDEVICELGBKR
 - Name: Device : LED_GBKR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_GBKR/
 - Description: Device : LED_GBKR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GBKR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GBKR)
 - Short Link: [http://oom.lt/SZKDEVICELGBKR](http://oom.lt/SZKDEVICELGBKR)

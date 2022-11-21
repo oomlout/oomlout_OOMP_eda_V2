@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-USB3346
 - Hex ID: SZKINTERFACEUU3346
 - Name: Interface_USB : USB3346
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3346/
 - Description: Interface_USB : USB3346
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3346](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3346)
 - Short Link: [http://oom.lt/SZKINTERFACEUU3346](http://oom.lt/SZKINTERFACEUU3346)

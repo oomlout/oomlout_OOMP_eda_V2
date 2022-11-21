@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO141R12O14C179 > oomlout_OOMP_JLCC_Basic : RESE-1206-X-O104-01-R12O104-C17900](#fzkicadoomloutoompkicadoomloutoompjlccbasicrese126xo141r12o14c179--oomlout_oomp_jlcc_basic--rese-1206-x-o104-01-r12o104-c17900)
+* [FZOOMPKJLCRESE126XO141R12O14C179 > oomlout_OOMP_JLCC_Basic : RESE-1206-X-O104-01-R12O104-C17900](#fzoompkjlcrese126xo141r12o14c179--oomlout_oomp_jlcc_basic--rese-1206-x-o104-01-r12o104-c17900)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO141R12O14C179 > oomlout_OOMP_JLCC_Basic : RESE-1206-X-O104-01-R12O104-C17900
+# FZOOMPKJLCRESE126XO141R12O14C179 > oomlout_OOMP_JLCC_Basic : RESE-1206-X-O104-01-R12O104-C17900
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-1206-X-O104-01-R12O104-C17900
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO141R12O14C179
+- Hex ID: FZOOMPKJLCRESE126XO141R12O14C179
 - Name: oomlout_OOMP_JLCC_Basic : RESE-1206-X-O104-01-R12O104-C17900
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O104-01-R12O104-C17900/
 - Description: oomlout_OOMP_JLCC_Basic : RESE-1206-X-O104-01-R12O104-C17900
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-1206-X-O104-01-R12O104-C17900](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-1206-X-O104-01-R12O104-C17900)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO141R12O14C179](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO141R12O14C179)
+- Short Link: [http://oom.lt/FZOOMPKJLCRESE126XO141R12O14C179](http://oom.lt/FZOOMPKJLCRESE126XO141R12O14C179)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_JLCC_Basic|
 |OOMP Index|oompIndex|RESE-1206-X-O104-01-R12O104-C17900|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-1206-X-O104-01-R12O104-C17900|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO141R12O14C179|
+|Hex ID (short code)|hexID|FZOOMPKJLCRESE126XO141R12O14C179|
 |name|name|oomlout_OOMP_JLCC_Basic : RESE-1206-X-O104-01-R12O104-C17900|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RESE-1206-X-O104-01-R12O104-C17900'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R12O104;PARTL C-JLCC;C17900;MANUF C-XXXX;1206W4F1003T5E; Resistor SMD 1206 (3216 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSLWBHOLE > LilyPad-Wearables : BUTTONHOLE](#fzslwbhole--lilypad-wearables--buttonhole)
+* [FZSLWBH > LilyPad-Wearables : BUTTONHOLE](#fzslwbh--lilypad-wearables--buttonhole)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSLWBHOLE > LilyPad-Wearables : BUTTONHOLE
+# FZSLWBH > LilyPad-Wearables : BUTTONHOLE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-BUTTONHOLE
-- Hex ID: FZSLWBHOLE
+- Hex ID: FZSLWBH
 - Name: LilyPad-Wearables : BUTTONHOLE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/LilyPad-Wearables/BUTTONHOLE/
 - Description: LilyPad-Wearables : BUTTONHOLE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-BUTTONHOLE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-BUTTONHOLE)
-- Short Link: [http://oom.lt/FZSLWBHOLE](http://oom.lt/FZSLWBHOLE)
+- Short Link: [http://oom.lt/FZSLWBH](http://oom.lt/FZSLWBH)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|LilyPad-Wearables|
 |OOMP Index|oompIndex|BUTTONHOLE|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-BUTTONHOLE|
-|Hex ID (short code)|hexID|FZSLWBHOLE|
+|Hex ID (short code)|hexID|FZSLWBH|
 |name|name|LilyPad-Wearables : BUTTONHOLE|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3808N
 - Hex ID: SZKREGULATORCONTROLLERUCC388N
 - Name: Regulator_Controller : UCC3808N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC3808N/
 - Description: Regulator_Controller : UCC3808N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3808N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3808N)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC388N](http://oom.lt/SZKREGULATORCONTROLLERUCC388N)

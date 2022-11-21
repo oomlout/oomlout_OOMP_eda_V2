@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINO-BPLACE
 - Hex ID: FZAARDBPLACE
 - Name: adafruit : ARDUINO-BPLACE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ARDUINO-BPLACE/
 - Description: adafruit : ARDUINO-BPLACE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINO-BPLACE](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINO-BPLACE)
 - Short Link: [http://oom.lt/FZAARDBPLACE](http://oom.lt/FZAARDBPLACE)

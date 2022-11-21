@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6106
 - Hex ID: SZKREFERENCEVOLTAGEMAX616
 - Name: Reference_Voltage : MAX6106
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MAX6106/
 - Description: Reference_Voltage : MAX6106
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6106](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6106)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMAX616](http://oom.lt/SZKREFERENCEVOLTAGEMAX616)

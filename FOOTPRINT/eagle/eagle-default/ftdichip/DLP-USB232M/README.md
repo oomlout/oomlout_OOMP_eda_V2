@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ftdichip-DLP-USB232M
 - Hex ID: FZEFTDICHIPDLPU232M
 - Name: ftdichip : DLP-USB232M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ftdichip/DLP-USB232M/
 - Description: ftdichip : DLP-USB232M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ftdichip-DLP-USB232M](http://oom.lt/FOOTPRINT-eagle-eagle-default-ftdichip-DLP-USB232M)
 - Short Link: [http://oom.lt/FZEFTDICHIPDLPU232M](http://oom.lt/FZEFTDICHIPDLPU232M)

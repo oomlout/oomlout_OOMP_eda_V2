@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-SIP9-P-2.54A
 - Hex ID: FZELINEARSIP9P254A
 - Name: linear : SIP9-P-2.54A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/SIP9-P-2.54A/
 - Description: linear : SIP9-P-2.54A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SIP9-P-2.54A](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SIP9-P-2.54A)
 - Short Link: [http://oom.lt/FZELINEARSIP9P254A](http://oom.lt/FZELINEARSIP9P254A)

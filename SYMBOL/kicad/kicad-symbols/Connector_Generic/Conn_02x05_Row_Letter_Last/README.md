@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNGENERICCONN2X5ROWLETTERLAST > Connector_Generic : Conn_02x05_Row_Letter_Last](#szkcngenericconn2x5rowletterlast--connector_generic--conn_02x05_row_letter_last)
+* [SZKCNGC2X5RLLAST > Connector_Generic : Conn_02x05_Row_Letter_Last](#szkcngc2x5rllast--connector_generic--conn_02x05_row_letter_last)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNGENERICCONN2X5ROWLETTERLAST > Connector_Generic : Conn_02x05_Row_Letter_Last
+# SZKCNGC2X5RLLAST > Connector_Generic : Conn_02x05_Row_Letter_Last
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x05_Row_Letter_Last
-- Hex ID: SZKCNGENERICCONN2X5ROWLETTERLAST
+- Hex ID: SZKCNGC2X5RLLAST
 - Name: Connector_Generic : Conn_02x05_Row_Letter_Last
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x05_Row_Letter_Last/
 - Description: Connector_Generic : Conn_02x05_Row_Letter_Last
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x05_Row_Letter_Last](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x05_Row_Letter_Last)
-- Short Link: [http://oom.lt/SZKCNGENERICCONN2X5ROWLETTERLAST](http://oom.lt/SZKCNGENERICCONN2X5ROWLETTERLAST)
+- Short Link: [http://oom.lt/SZKCNGC2X5RLLAST](http://oom.lt/SZKCNGC2X5RLLAST)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Generic|
 |OOMP Index|oompIndex|Conn_02x05_Row_Letter_Last|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x05_Row_Letter_Last|
-|Hex ID (short code)|hexID|SZKCNGENERICCONN2X5ROWLETTERLAST|
+|Hex ID (short code)|hexID|SZKCNGC2X5RLLAST|
 |name|name|Connector_Generic : Conn_02x05_Row_Letter_Last|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_02x05_Row_Letter_Last'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connector</td><td> double row</td><td> 02x05</td><td> row letter last pin numbering scheme (pin number consists of a letter for the row and a number for the pin index in this row. 1a</td><td> ...</td><td> Na; 1b</td><td> ...</td><td> Nb))</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_2x??_*'</td></tr></table>]|
 ||||

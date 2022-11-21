@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-kicad-kicad-footprints-Motors-Vybronics_VZ30C1T8219732L
 - Hex ID: FZKMOTORSVYBRONICSVZ3C1T8219732L
 - Name: Motors : Vybronics_VZ30C1T8219732L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Motors/Vybronics_VZ30C1T8219732L/
 - Description: Motors : Vybronics_VZ30C1T8219732L
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Motors-Vybronics_VZ30C1T8219732L](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Motors-Vybronics_VZ30C1T8219732L)
 - Short Link: [http://oom.lt/FZKMOTORSVYBRONICSVZ3C1T8219732L](http://oom.lt/FZKMOTORSVYBRONICSVZ3C1T8219732L)

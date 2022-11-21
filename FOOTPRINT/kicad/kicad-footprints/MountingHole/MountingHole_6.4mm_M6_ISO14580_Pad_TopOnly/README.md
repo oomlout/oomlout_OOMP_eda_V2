@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL64M6ISO1458PADTOPONLY > MountingHole : MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly](#fzkholhol64m6iso1458padtoponly--mountinghole--mountinghole_64mm_m6_iso14580_pad_toponly)
+* [FZKHOLHOL64M6ISO1458PTOPONLY > MountingHole : MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly](#fzkholhol64m6iso1458ptoponly--mountinghole--mountinghole_64mm_m6_iso14580_pad_toponly)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL64M6ISO1458PADTOPONLY > MountingHole : MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly
+# FZKHOLHOL64M6ISO1458PTOPONLY > MountingHole : MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly
-- Hex ID: FZKHOLHOL64M6ISO1458PADTOPONLY
+- Hex ID: FZKHOLHOL64M6ISO1458PTOPONLY
 - Name: MountingHole : MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly/
 - Description: MountingHole : MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly)
-- Short Link: [http://oom.lt/FZKHOLHOL64M6ISO1458PADTOPONLY](http://oom.lt/FZKHOLHOL64M6ISO1458PADTOPONLY)
+- Short Link: [http://oom.lt/FZKHOLHOL64M6ISO1458PTOPONLY](http://oom.lt/FZKHOLHOL64M6ISO1458PTOPONLY)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly|
-|Hex ID (short code)|hexID|FZKHOLHOL64M6ISO1458PADTOPONLY|
+|Hex ID (short code)|hexID|FZKHOLHOL64M6ISO1458PTOPONLY|
 |name|name|MountingHole : MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 6.4mm</td><td> M6</td><td> ISO14580'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 6.4mm m6 iso14580'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

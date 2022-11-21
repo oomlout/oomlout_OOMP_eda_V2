@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNMXMXSABRE4671131X3P749HORIZONTALTHERMALVIAS > Connector_Molex : Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal_ThermalVias](#fzkcnmxmxsabre4671131x3p749horizontalthermalvias--connector_molex--molex_sabre_46007-1103_1x03_p749mm_horizontal_thermalvias)
+* [FZKCNMXMXSABRE4671131X3P749HTHV > Connector_Molex : Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal_ThermalVias](#fzkcnmxmxsabre4671131x3p749hthv--connector_molex--molex_sabre_46007-1103_1x03_p749mm_horizontal_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNMXMXSABRE4671131X3P749HORIZONTALTHERMALVIAS > Connector_Molex : Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal_ThermalVias
+# FZKCNMXMXSABRE4671131X3P749HTHV > Connector_Molex : Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal_ThermalVias
-- Hex ID: FZKCNMXMXSABRE4671131X3P749HORIZONTALTHERMALVIAS
+- Hex ID: FZKCNMXMXSABRE4671131X3P749HTHV
 - Name: Connector_Molex : Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal_ThermalVias/
 - Description: Connector_Molex : Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal_ThermalVias)
-- Short Link: [http://oom.lt/FZKCNMXMXSABRE4671131X3P749HORIZONTALTHERMALVIAS](http://oom.lt/FZKCNMXMXSABRE4671131X3P749HORIZONTALTHERMALVIAS)
+- Short Link: [http://oom.lt/FZKCNMXMXSABRE4671131X3P749HTHV](http://oom.lt/FZKCNMXMXSABRE4671131X3P749HTHV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Molex|
 |OOMP Index|oompIndex|Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal_ThermalVias|
-|Hex ID (short code)|hexID|FZKCNMXMXSABRE4671131X3P749HORIZONTALTHERMALVIAS|
+|Hex ID (short code)|hexID|FZKCNMXMXSABRE4671131X3P749HTHV|
 |name|name|Connector_Molex : Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'Molex Sabre Power Connector</td><td> 46007-1103</td><td> With thermal vias in pads</td><td> 3 Pins per row (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/460071105_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex Sabre top entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal_ThermalVias.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

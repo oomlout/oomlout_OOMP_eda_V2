@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CT7343
 - Hex ID: FZACT7343
 - Name: adafruit : CT7343
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CT7343/
 - Description: adafruit : CT7343
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CT7343](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CT7343)
 - Short Link: [http://oom.lt/FZACT7343](http://oom.lt/FZACT7343)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-CP2615-xx-xM
 - Hex ID: SZKINTERFACEUCP2615XXXM
 - Name: Interface_USB : CP2615-xx-xM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CP2615-xx-xM/
 - Description: Interface_USB : CP2615-xx-xM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CP2615-xx-xM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CP2615-xx-xM)
 - Short Link: [http://oom.lt/SZKINTERFACEUCP2615XXXM](http://oom.lt/SZKINTERFACEUCP2615XXXM)

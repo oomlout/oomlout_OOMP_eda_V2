@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Leonardo
 - Hex ID: SZKMCUMOARDLEONARDO
 - Name: MCU_Module : Arduino_Leonardo
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Leonardo/
 - Description: MCU_Module : Arduino_Leonardo
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Leonardo](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Leonardo)
 - Short Link: [http://oom.lt/SZKMCUMOARDLEONARDO](http://oom.lt/SZKMCUMOARDLEONARDO)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-G6D
 - Hex ID: FZERELAYG6D
 - Name: relay : G6D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/G6D/
 - Description: relay : G6D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G6D](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G6D)
 - Short Link: [http://oom.lt/FZERELAYG6D](http://oom.lt/FZERELAYG6D)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-MSO28W
 - Hex ID: FZENATIONALSEMICONDUCTORMSO28W
 - Name: national-semiconductor : MSO28W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/MSO28W/
 - Description: national-semiconductor : MSO28W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-MSO28W](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-MSO28W)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORMSO28W](http://oom.lt/FZENATIONALSEMICONDUCTORMSO28W)

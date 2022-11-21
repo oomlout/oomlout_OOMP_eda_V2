@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKDEVICERPOTENTIOMETERDUALSEPARATE > Device : R_Potentiometer_Dual_Separate](#szkdevicerpotentiometerdualseparate--device--r_potentiometer_dual_separate)
+* [SZKDEVICERPOTDUALSEPARATE > Device : R_Potentiometer_Dual_Separate](#szkdevicerpotdualseparate--device--r_potentiometer_dual_separate)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKDEVICERPOTENTIOMETERDUALSEPARATE > Device : R_Potentiometer_Dual_Separate
+# SZKDEVICERPOTDUALSEPARATE > Device : R_Potentiometer_Dual_Separate
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual_Separate
-- Hex ID: SZKDEVICERPOTENTIOMETERDUALSEPARATE
+- Hex ID: SZKDEVICERPOTDUALSEPARATE
 - Name: Device : R_Potentiometer_Dual_Separate
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer_Dual_Separate/
 - Description: Device : R_Potentiometer_Dual_Separate
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual_Separate](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual_Separate)
-- Short Link: [http://oom.lt/SZKDEVICERPOTENTIOMETERDUALSEPARATE](http://oom.lt/SZKDEVICERPOTENTIOMETERDUALSEPARATE)
+- Short Link: [http://oom.lt/SZKDEVICERPOTDUALSEPARATE](http://oom.lt/SZKDEVICERPOTDUALSEPARATE)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Device|
 |OOMP Index|oompIndex|R_Potentiometer_Dual_Separate|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual_Separate|
-|Hex ID (short code)|hexID|SZKDEVICERPOTENTIOMETERDUALSEPARATE|
+|Hex ID (short code)|hexID|SZKDEVICERPOTDUALSEPARATE|
 |name|name|Device : R_Potentiometer_Dual_Separate|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'RV'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'R_Potentiometer_Dual_Separate'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'resistor variable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual potentiometer</td><td> separate units'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Potentiometer*'</td></tr></table>]|
 ||||

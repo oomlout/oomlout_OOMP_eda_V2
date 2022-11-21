@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-ESD224DQA
 - Hex ID: SZKPOWERPROTECTIONESD224DQA
 - Name: Power_Protection : ESD224DQA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/ESD224DQA/
 - Description: Power_Protection : ESD224DQA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ESD224DQA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ESD224DQA)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONESD224DQA](http://oom.lt/SZKPOWERPROTECTIONESD224DQA)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO252
 - Hex ID: FZATO252
 - Name: adafruit : TO252
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TO252/
 - Description: adafruit : TO252
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO252](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO252)
 - Short Link: [http://oom.lt/FZATO252](http://oom.lt/FZATO252)

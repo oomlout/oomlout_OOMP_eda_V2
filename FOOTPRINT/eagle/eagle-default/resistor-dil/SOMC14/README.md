@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-dil-SOMC14
 - Hex ID: FZERESISTORDILSOMC14
 - Name: resistor-dil : SOMC14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-dil/SOMC14/
 - Description: resistor-dil : SOMC14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-SOMC14](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-dil-SOMC14)
 - Short Link: [http://oom.lt/FZERESISTORDILSOMC14](http://oom.lt/FZERESISTORDILSOMC14)

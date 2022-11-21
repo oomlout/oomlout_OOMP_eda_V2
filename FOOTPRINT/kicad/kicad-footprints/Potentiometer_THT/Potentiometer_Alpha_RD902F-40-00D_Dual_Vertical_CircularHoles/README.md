@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPPOTENTIOMETERALPHARD92F4DDUALVERTICALCIRCULARH > Potentiometer_THT : Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles](#fzkppotentiometeralphard92f4ddualverticalcircularh--potentiometer_tht--potentiometer_alpha_rd902f-40-00d_dual_vertical_circularholes)
+* [FZKPPOTALPHARD92F4DDUALFCIRCULARH > Potentiometer_THT : Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles](#fzkppotalphard92f4ddualfcircularh--potentiometer_tht--potentiometer_alpha_rd902f-40-00d_dual_vertical_circularholes)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPPOTENTIOMETERALPHARD92F4DDUALVERTICALCIRCULARH > Potentiometer_THT : Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles
+# FZKPPOTALPHARD92F4DDUALFCIRCULARH > Potentiometer_THT : Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles
-- Hex ID: FZKPPOTENTIOMETERALPHARD92F4DDUALVERTICALCIRCULARH
+- Hex ID: FZKPPOTALPHARD92F4DDUALFCIRCULARH
 - Name: Potentiometer_THT : Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles/
 - Description: Potentiometer_THT : Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles)
-- Short Link: [http://oom.lt/FZKPPOTENTIOMETERALPHARD92F4DDUALVERTICALCIRCULARH](http://oom.lt/FZKPPOTENTIOMETERALPHARD92F4DDUALVERTICALCIRCULARH)
+- Short Link: [http://oom.lt/FZKPPOTALPHARD92F4DDUALFCIRCULARH](http://oom.lt/FZKPPOTALPHARD92F4DDUALFCIRCULARH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_THT|
 |OOMP Index|oompIndex|Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles|
-|Hex ID (short code)|hexID|FZKPPOTENTIOMETERALPHARD92F4DDUALVERTICALCIRCULARH|
+|Hex ID (short code)|hexID|FZKPPOTALPHARD92F4DDUALFCIRCULARH|
 |name|name|Potentiometer_THT : Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> 9mm</td><td> dual</td><td> http</td></tr><tr><td>//www.taiwanalpha.com.tw/downloads?target=products&id=113'</td><td> 'tags'</td></tr><tr><td> 'potentiometer vertical 9mm dual'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT24M01X
 - Hex ID: SZKMEMORYEEPROMCAT24M1X
 - Name: Memory_EEPROM : CAT24M01X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/CAT24M01X/
 - Description: Memory_EEPROM : CAT24M01X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT24M01X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT24M01X)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMCAT24M1X](http://oom.lt/SZKMEMORYEEPROMCAT24M1X)

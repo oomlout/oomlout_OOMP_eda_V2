@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPCBEDGEBUSAT > Connector_PCBEdge : BUS_AT](#fzkcnpcbedgebusat--connector_pcbedge--bus_at)
+* [FZKCNPEBUSAT > Connector_PCBEdge : BUS_AT](#fzkcnpebusat--connector_pcbedge--bus_at)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPCBEDGEBUSAT > Connector_PCBEdge : BUS_AT
+# FZKCNPEBUSAT > Connector_PCBEdge : BUS_AT
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_AT
-- Hex ID: FZKCNPCBEDGEBUSAT
+- Hex ID: FZKCNPEBUSAT
 - Name: Connector_PCBEdge : BUS_AT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_AT/
 - Description: Connector_PCBEdge : BUS_AT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_AT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_AT)
-- Short Link: [http://oom.lt/FZKCNPCBEDGEBUSAT](http://oom.lt/FZKCNPCBEDGEBUSAT)
+- Short Link: [http://oom.lt/FZKCNPEBUSAT](http://oom.lt/FZKCNPEBUSAT)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PCBEdge|
 |OOMP Index|oompIndex|BUS_AT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_AT|
-|Hex ID (short code)|hexID|FZKCNPCBEDGEBUSAT|
+|Hex ID (short code)|hexID|FZKCNPEBUSAT|
 |name|name|Connector_PCBEdge : BUS_AT|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BUS_AT'</td><td> 'description'</td></tr><tr><td> 'AT ISA 16 bits Bus Edge Connector'</td><td> 'tags'</td></tr><tr><td> 'BUS ISA AT Edge connector'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

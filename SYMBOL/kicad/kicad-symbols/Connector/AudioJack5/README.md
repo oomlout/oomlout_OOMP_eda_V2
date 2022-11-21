@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AudioJack5
 - Hex ID: SZKCNAUDIOJ5
 - Name: Connector : AudioJack5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/AudioJack5/
 - Description: Connector : AudioJack5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack5)
 - Short Link: [http://oom.lt/SZKCNAUDIOJ5](http://oom.lt/SZKCNAUDIOJ5)

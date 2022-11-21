@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_NF_ETAL_1-1_P1200
 - Hex ID: FZKTRTRNFETAL11P12
 - Name: Transformer_THT : Transformer_NF_ETAL_1-1_P1200
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_NF_ETAL_1-1_P1200/
 - Description: Transformer_THT : Transformer_NF_ETAL_1-1_P1200
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_NF_ETAL_1-1_P1200](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_NF_ETAL_1-1_P1200)
 - Short Link: [http://oom.lt/FZKTRTRNFETAL11P12](http://oom.lt/FZKTRTRNFETAL11P12)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT323W_INIFINEON
 - Hex ID: FZETRANSISTORSLLSIGNALSOT323WINIFINEON
 - Name: transistor-small-signal : SOT323W_INIFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/SOT323W_INIFINEON/
 - Description: transistor-small-signal : SOT323W_INIFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT323W_INIFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT323W_INIFINEON)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALSOT323WINIFINEON](http://oom.lt/FZETRANSISTORSLLSIGNALSOT323WINIFINEON)

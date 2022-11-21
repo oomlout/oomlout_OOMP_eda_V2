@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHDILCTS2191 > switch-dil : CTS-219-10](#fzeswitchdilcts2191--switch-dil--cts-219-10)
+* [FZESWDILCTS2191 > switch-dil : CTS-219-10](#fzeswdilcts2191--switch-dil--cts-219-10)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHDILCTS2191 > switch-dil : CTS-219-10
+# FZESWDILCTS2191 > switch-dil : CTS-219-10
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-CTS-219-10
-- Hex ID: FZESWITCHDILCTS2191
+- Hex ID: FZESWDILCTS2191
 - Name: switch-dil : CTS-219-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/CTS-219-10/
 - Description: switch-dil : CTS-219-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-CTS-219-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-CTS-219-10)
-- Short Link: [http://oom.lt/FZESWITCHDILCTS2191](http://oom.lt/FZESWITCHDILCTS2191)
+- Short Link: [http://oom.lt/FZESWDILCTS2191](http://oom.lt/FZESWDILCTS2191)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-dil|
 |OOMP Index|oompIndex|CTS-219-10|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-dil-CTS-219-10|
-|Hex ID (short code)|hexID|FZESWITCHDILCTS2191|
+|Hex ID (short code)|hexID|FZESWDILCTS2191|
 |name|name|switch-dil : CTS-219-10|
 ||||

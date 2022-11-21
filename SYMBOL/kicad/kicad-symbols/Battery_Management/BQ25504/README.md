@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25504
 - Hex ID: SZKBATMANAGEMENTBQ2554
 - Name: Battery_Management : BQ25504
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ25504/
 - Description: Battery_Management : BQ25504
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25504](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25504)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ2554](http://oom.lt/SZKBATMANAGEMENTBQ2554)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-SP3481EP
 - Hex ID: SZKINTERFACEUARTSP3481EP
 - Name: Interface_UART : SP3481EP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/SP3481EP/
 - Description: Interface_UART : SP3481EP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SP3481EP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SP3481EP)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSP3481EP](http://oom.lt/SZKINTERFACEUARTSP3481EP)

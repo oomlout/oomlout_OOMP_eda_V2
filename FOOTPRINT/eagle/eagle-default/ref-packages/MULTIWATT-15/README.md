@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESMULTIWATT15 > ref-packages : MULTIWATT-15](#fzerefpackagesmultiwatt15--ref-packages--multiwatt-15)
+* [FZEREFPSMULTIWATT15 > ref-packages : MULTIWATT-15](#fzerefpsmultiwatt15--ref-packages--multiwatt-15)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESMULTIWATT15 > ref-packages : MULTIWATT-15
+# FZEREFPSMULTIWATT15 > ref-packages : MULTIWATT-15
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-MULTIWATT-15
-- Hex ID: FZEREFPACKAGESMULTIWATT15
+- Hex ID: FZEREFPSMULTIWATT15
 - Name: ref-packages : MULTIWATT-15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/MULTIWATT-15/
 - Description: ref-packages : MULTIWATT-15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MULTIWATT-15](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MULTIWATT-15)
-- Short Link: [http://oom.lt/FZEREFPACKAGESMULTIWATT15](http://oom.lt/FZEREFPACKAGESMULTIWATT15)
+- Short Link: [http://oom.lt/FZEREFPSMULTIWATT15](http://oom.lt/FZEREFPSMULTIWATT15)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|MULTIWATT-15|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-MULTIWATT-15|
-|Hex ID (short code)|hexID|FZEREFPACKAGESMULTIWATT15|
+|Hex ID (short code)|hexID|FZEREFPSMULTIWATT15|
 |name|name|ref-packages : MULTIWATT-15|
 ||||

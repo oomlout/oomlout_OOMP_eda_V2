@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-hitachi-DIL16
 - Hex ID: FZEMEMORYHITACHIDIL16
 - Name: memory-hitachi : DIL16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-hitachi/DIL16/
 - Description: memory-hitachi : DIL16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-hitachi-DIL16](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-hitachi-DIL16)
 - Short Link: [http://oom.lt/FZEMEMORYHITACHIDIL16](http://oom.lt/FZEMEMORYHITACHIDIL16)

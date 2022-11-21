@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-V23127A
 - Hex ID: FZERELAYV23127A
 - Name: relay : V23127A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/V23127A/
 - Description: relay : V23127A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-V23127A](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-V23127A)
 - Short Link: [http://oom.lt/FZERELAYV23127A](http://oom.lt/FZERELAYV23127A)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNSUSOLDERPADS > SparkFun-Connectors : USB-SOLDER-PADS](#fzssparkfuncnsusolderpads--sparkfun-connectors--usb-solder-pads)
+* [FZSSPARKFUNCNSUSOLDERPS > SparkFun-Connectors : USB-SOLDER-PADS](#fzssparkfuncnsusolderps--sparkfun-connectors--usb-solder-pads)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNSUSOLDERPADS > SparkFun-Connectors : USB-SOLDER-PADS
+# FZSSPARKFUNCNSUSOLDERPS > SparkFun-Connectors : USB-SOLDER-PADS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-SOLDER-PADS
-- Hex ID: FZSSPARKFUNCNSUSOLDERPADS
+- Hex ID: FZSSPARKFUNCNSUSOLDERPS
 - Name: SparkFun-Connectors : USB-SOLDER-PADS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-SOLDER-PADS/
 - Description: SparkFun-Connectors : USB-SOLDER-PADS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-SOLDER-PADS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-SOLDER-PADS)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNSUSOLDERPADS](http://oom.lt/FZSSPARKFUNCNSUSOLDERPADS)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNSUSOLDERPS](http://oom.lt/FZSSPARKFUNCNSUSOLDERPS)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|USB-SOLDER-PADS|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-SOLDER-PADS|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNSUSOLDERPADS|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNSUSOLDERPS|
 |name|name|SparkFun-Connectors : USB-SOLDER-PADS|
 ||||

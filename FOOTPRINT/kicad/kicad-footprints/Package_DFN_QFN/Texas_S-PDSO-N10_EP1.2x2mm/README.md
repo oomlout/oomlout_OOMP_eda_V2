@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PDSO-N10_EP1.2x2mm
 - Hex ID: FZKDFNTEXASSPDSON1EP12X2
 - Name: Package_DFN_QFN : Texas_S-PDSO-N10_EP1.2x2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PDSO-N10_EP1.2x2mm/
 - Description: Package_DFN_QFN : Texas_S-PDSO-N10_EP1.2x2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PDSO-N10_EP1.2x2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PDSO-N10_EP1.2x2mm)
 - Short Link: [http://oom.lt/FZKDFNTEXASSPDSON1EP12X2](http://oom.lt/FZKDFNTEXASSPDSON1EP12X2)

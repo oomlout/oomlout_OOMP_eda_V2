@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F411CCUx
 - Hex ID: SZKMCUSTSTM32F4STM32F411CCUX
 - Name: MCU_ST_STM32F4 : STM32F411CCUx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F411CCUx/
 - Description: MCU_ST_STM32F4 : STM32F411CCUx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F411CCUx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F411CCUx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F411CCUX](http://oom.lt/SZKMCUSTSTM32F4STM32F411CCUX)

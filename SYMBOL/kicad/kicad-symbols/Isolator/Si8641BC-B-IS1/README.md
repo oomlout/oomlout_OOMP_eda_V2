@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-Si8641BC-B-IS1
 - Hex ID: SZKISOLATORSI8641BCBIS1
 - Name: Isolator : Si8641BC-B-IS1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/Si8641BC-B-IS1/
 - Description: Isolator : Si8641BC-B-IS1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8641BC-B-IS1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8641BC-B-IS1)
 - Short Link: [http://oom.lt/SZKISOLATORSI8641BCBIS1](http://oom.lt/SZKISOLATORSI8641BCBIS1)

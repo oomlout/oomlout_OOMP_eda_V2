@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-capacitor-wima-C27.5B20
 - Hex ID: FZECAPACITORWIMAC275B2
 - Name: capacitor-wima : C27.5B20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/capacitor-wima/C27.5B20/
 - Description: capacitor-wima : C27.5B20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-capacitor-wima-C27.5B20](http://oom.lt/FOOTPRINT-eagle-eagle-default-capacitor-wima-C27.5B20)
 - Short Link: [http://oom.lt/FZECAPACITORWIMAC275B2](http://oom.lt/FZECAPACITORWIMAC275B2)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-HallGenerator
 - Hex ID: SZKDEVICEHALLGENERATOR
 - Name: Device : HallGenerator
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/HallGenerator/
 - Description: Device : HallGenerator
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-HallGenerator](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-HallGenerator)
 - Short Link: [http://oom.lt/SZKDEVICEHALLGENERATOR](http://oom.lt/SZKDEVICEHALLGENERATOR)

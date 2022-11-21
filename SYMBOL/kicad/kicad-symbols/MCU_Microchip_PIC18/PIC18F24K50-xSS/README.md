@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F24K50-xSS
 - Hex ID: SZKMCUMCHIPPIC18PIC18F24K5XSS
 - Name: MCU_Microchip_PIC18 : PIC18F24K50-xSS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F24K50-xSS/
 - Description: MCU_Microchip_PIC18 : PIC18F24K50-xSS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F24K50-xSS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F24K50-xSS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F24K5XSS](http://oom.lt/SZKMCUMCHIPPIC18PIC18F24K5XSS)

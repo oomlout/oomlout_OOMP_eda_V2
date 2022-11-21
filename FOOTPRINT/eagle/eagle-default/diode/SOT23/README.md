@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOT23
 - Hex ID: FZEDIODESOT23
 - Name: diode : SOT23
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOT23/
 - Description: diode : SOT23
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT23](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT23)
 - Short Link: [http://oom.lt/FZEDIODESOT23](http://oom.lt/FZEDIODESOT23)

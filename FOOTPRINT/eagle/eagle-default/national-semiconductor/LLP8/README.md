@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-LLP8
 - Hex ID: FZENATIONALSEMICONDUCTORLLP8
 - Name: national-semiconductor : LLP8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/LLP8/
 - Description: national-semiconductor : LLP8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-LLP8](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-LLP8)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORLLP8](http://oom.lt/FZENATIONALSEMICONDUCTORLLP8)

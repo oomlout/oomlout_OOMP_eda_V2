@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS716G
 - Hex ID: SZKPOWERMANAGEMENTBTS716G
 - Name: Power_Management : BTS716G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BTS716G/
 - Description: Power_Management : BTS716G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS716G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS716G)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS716G](http://oom.lt/SZKPOWERMANAGEMENTBTS716G)

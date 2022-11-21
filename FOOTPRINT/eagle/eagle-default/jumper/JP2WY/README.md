@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-jumper-JP2WY
 - Hex ID: FZEJJP2WY
 - Name: jumper : JP2WY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/jumper/JP2WY/
 - Description: jumper : JP2WY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-JP2WY](http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-JP2WY)
 - Short Link: [http://oom.lt/FZEJJP2WY](http://oom.lt/FZEJJP2WY)

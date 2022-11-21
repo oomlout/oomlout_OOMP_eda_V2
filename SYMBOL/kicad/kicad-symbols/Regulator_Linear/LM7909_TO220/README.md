@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM7909_TO220
 - Hex ID: SZKREGULATORLINEARLM799TO22
 - Name: Regulator_Linear : LM7909_TO220
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM7909_TO220/
 - Description: Regulator_Linear : LM7909_TO220
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM7909_TO220](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM7909_TO220)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM799TO22](http://oom.lt/SZKREGULATORLINEARLM799TO22)

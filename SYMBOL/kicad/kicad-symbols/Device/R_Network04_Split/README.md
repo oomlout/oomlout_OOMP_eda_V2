@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Network04_Split
 - Hex ID: SZKDEVICERNETWORK4SPLIT
 - Name: Device : R_Network04_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Network04_Split/
 - Description: Device : R_Network04_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network04_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network04_Split)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORK4SPLIT](http://oom.lt/SZKDEVICERNETWORK4SPLIT)

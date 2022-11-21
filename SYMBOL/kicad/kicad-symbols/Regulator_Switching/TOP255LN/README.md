@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGTOP255LN > Regulator_Switching : TOP255LN](#szkregulatorswitchingtop255ln--regulator_switching--top255ln)
+* [SZKREGULATORSWINGTOP255LN > Regulator_Switching : TOP255LN](#szkregulatorswingtop255ln--regulator_switching--top255ln)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGTOP255LN > Regulator_Switching : TOP255LN
+# SZKREGULATORSWINGTOP255LN > Regulator_Switching : TOP255LN
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP255LN
-- Hex ID: SZKREGULATORSWITCHINGTOP255LN
+- Hex ID: SZKREGULATORSWINGTOP255LN
 - Name: Regulator_Switching : TOP255LN
 - Description: Regulator_Switching : TOP255LN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP255LN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP255LN)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTOP255LN](http://oom.lt/SZKREGULATORSWITCHINGTOP255LN)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGTOP255LN](http://oom.lt/SZKREGULATORSWINGTOP255LN)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|TOP255LN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP255LN|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP255LN|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGTOP255LN|
 |name|name|Regulator_Switching : TOP255LN|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TOP255LN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SIP</td></tr><tr><td>PowerIntegrations_eSIP-7F'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Eco Smart Off-Line Switcher</td><td> Extendend Power Range'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TOPSwitch-HX Family</td><td> 57W Output Power'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?eSIP?7F*'</td></tr></table>]|
 ||||

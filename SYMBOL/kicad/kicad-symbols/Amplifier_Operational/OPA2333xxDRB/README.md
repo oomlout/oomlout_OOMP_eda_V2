@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2333xxDRB
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA2333XXDRB
 - Name: Amplifier_Operational : OPA2333xxDRB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2333xxDRB/
 - Description: Amplifier_Operational : OPA2333xxDRB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2333xxDRB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2333xxDRB)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2333XXDRB](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2333XXDRB)

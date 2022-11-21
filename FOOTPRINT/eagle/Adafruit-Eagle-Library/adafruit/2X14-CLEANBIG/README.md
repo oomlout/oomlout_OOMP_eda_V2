@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X14-CLEANBIG
 - Hex ID: FZA2X14CB
 - Name: adafruit : 2X14-CLEANBIG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/2X14-CLEANBIG/
 - Description: adafruit : 2X14-CLEANBIG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X14-CLEANBIG](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X14-CLEANBIG)
 - Short Link: [http://oom.lt/FZA2X14CB](http://oom.lt/FZA2X14CB)

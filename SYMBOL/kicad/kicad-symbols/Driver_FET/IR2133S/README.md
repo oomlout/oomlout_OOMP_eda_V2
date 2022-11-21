@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2133S
 - Hex ID: SZKDRIVERFETIR2133S
 - Name: Driver_FET : IR2133S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2133S/
 - Description: Driver_FET : IR2133S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2133S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2133S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2133S](http://oom.lt/SZKDRIVERFETIR2133S)

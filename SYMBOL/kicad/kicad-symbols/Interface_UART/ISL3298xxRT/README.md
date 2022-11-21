@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3298xxRT
 - Hex ID: SZKINTERFACEUARTISL3298XXRT
 - Name: Interface_UART : ISL3298xxRT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ISL3298xxRT/
 - Description: Interface_UART : ISL3298xxRT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3298xxRT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3298xxRT)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTISL3298XXRT](http://oom.lt/SZKINTERFACEUARTISL3298XXRT)

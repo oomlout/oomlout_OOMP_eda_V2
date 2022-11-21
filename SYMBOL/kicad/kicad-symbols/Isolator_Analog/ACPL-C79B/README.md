@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C79B
 - Hex ID: SZKISOLATORANALOGACPLC79B
 - Name: Isolator_Analog : ACPL-C79B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C79B/
 - Description: Isolator_Analog : ACPL-C79B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C79B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C79B)
 - Short Link: [http://oom.lt/SZKISOLATORANALOGACPLC79B](http://oom.lt/SZKISOLATORANALOGACPLC79B)

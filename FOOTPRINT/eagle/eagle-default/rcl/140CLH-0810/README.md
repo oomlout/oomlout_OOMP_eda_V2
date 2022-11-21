@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-140CLH-0810
 - Hex ID: FZERCL14CLH81
 - Name: rcl : 140CLH-0810
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/140CLH-0810/
 - Description: rcl : 140CLH-0810
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-140CLH-0810](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-140CLH-0810)
 - Short Link: [http://oom.lt/FZERCL14CLH81](http://oom.lt/FZERCL14CLH81)

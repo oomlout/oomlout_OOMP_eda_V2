@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM1411
 - Hex ID: SZKISOLATORADUM1411
 - Name: Isolator : ADuM1411
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ADuM1411/
 - Description: Isolator : ADuM1411
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM1411](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM1411)
 - Short Link: [http://oom.lt/SZKISOLATORADUM1411](http://oom.lt/SZKISOLATORADUM1411)

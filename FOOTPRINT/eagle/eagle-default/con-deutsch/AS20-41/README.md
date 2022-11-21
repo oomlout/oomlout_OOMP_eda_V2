@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-deutsch-AS20-41
 - Hex ID: FZECONDEUTSCHAS241
 - Name: con-deutsch : AS20-41
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-deutsch/AS20-41/
 - Description: con-deutsch : AS20-41
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS20-41](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS20-41)
 - Short Link: [http://oom.lt/FZECONDEUTSCHAS241](http://oom.lt/FZECONDEUTSCHAS241)

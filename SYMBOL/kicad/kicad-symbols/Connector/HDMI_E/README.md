@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-HDMI_E
 - Hex ID: SZKCNHDMIE
 - Name: Connector : HDMI_E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/HDMI_E/
 - Description: Connector : HDMI_E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_E)
 - Short Link: [http://oom.lt/SZKCNHDMIE](http://oom.lt/SZKCNHDMIE)

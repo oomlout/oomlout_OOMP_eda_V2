@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-PLCC-S44
 - Hex ID: FZEALTERAPLCCS44
 - Name: altera : PLCC-S44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/PLCC-S44/
 - Description: altera : PLCC-S44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PLCC-S44](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PLCC-S44)
 - Short Link: [http://oom.lt/FZEALTERAPLCCS44](http://oom.lt/FZEALTERAPLCCS44)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-LTC1100xN8
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONLTC11XN8
 - Name: Amplifier_Instrumentation : LTC1100xN8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/LTC1100xN8/
 - Description: Amplifier_Instrumentation : LTC1100xN8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-LTC1100xN8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-LTC1100xN8)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONLTC11XN8](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONLTC11XN8)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-FL5160MX
 - Hex ID: SZKDRIVERFETFL516MX
 - Name: Driver_FET : FL5160MX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/FL5160MX/
 - Description: Driver_FET : FL5160MX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-FL5160MX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-FL5160MX)
 - Short Link: [http://oom.lt/SZKDRIVERFETFL516MX](http://oom.lt/SZKDRIVERFETFL516MX)

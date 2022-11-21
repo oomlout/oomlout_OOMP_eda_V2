@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-FCC-Logo_48.3x40mm_SilkScreen
 - Hex ID: FZKSZFCCL483X4SILKSCREEN
 - Name: Symbol : FCC-Logo_48.3x40mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/FCC-Logo_48.3x40mm_SilkScreen/
 - Description: Symbol : FCC-Logo_48.3x40mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-FCC-Logo_48.3x40mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-FCC-Logo_48.3x40mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZFCCL483X4SILKSCREEN](http://oom.lt/FZKSZFCCL483X4SILKSCREEN)

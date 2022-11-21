@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2980-ADJ
 - Hex ID: SZKREGULATORLINEARLP298ADJ
 - Name: Regulator_Linear : LP2980-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2980-ADJ/
 - Description: Regulator_Linear : LP2980-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2980-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2980-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP298ADJ](http://oom.lt/SZKREGULATORLINEARLP298ADJ)

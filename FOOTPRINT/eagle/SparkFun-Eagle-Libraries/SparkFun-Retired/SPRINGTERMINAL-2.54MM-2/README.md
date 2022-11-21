@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSRTSPRINGTERMINAL2542 > SparkFun-Retired : SPRINGTERMINAL-2.54MM-2](#fzsrtspringterminal2542--sparkfun-retired--springterminal-254mm-2)
+* [FZSRTSPT2542 > SparkFun-Retired : SPRINGTERMINAL-2.54MM-2](#fzsrtspt2542--sparkfun-retired--springterminal-254mm-2)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSRTSPRINGTERMINAL2542 > SparkFun-Retired : SPRINGTERMINAL-2.54MM-2
+# FZSRTSPT2542 > SparkFun-Retired : SPRINGTERMINAL-2.54MM-2
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SPRINGTERMINAL-2.54MM-2
-- Hex ID: FZSRTSPRINGTERMINAL2542
+- Hex ID: FZSRTSPT2542
 - Name: SparkFun-Retired : SPRINGTERMINAL-2.54MM-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SPRINGTERMINAL-2.54MM-2/
 - Description: SparkFun-Retired : SPRINGTERMINAL-2.54MM-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SPRINGTERMINAL-2.54MM-2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SPRINGTERMINAL-2.54MM-2)
-- Short Link: [http://oom.lt/FZSRTSPRINGTERMINAL2542](http://oom.lt/FZSRTSPRINGTERMINAL2542)
+- Short Link: [http://oom.lt/FZSRTSPT2542](http://oom.lt/FZSRTSPT2542)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Retired|
 |OOMP Index|oompIndex|SPRINGTERMINAL-2.54MM-2|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SPRINGTERMINAL-2.54MM-2|
-|Hex ID (short code)|hexID|FZSRTSPRINGTERMINAL2542|
+|Hex ID (short code)|hexID|FZSRTSPT2542|
 |name|name|SparkFun-Retired : SPRINGTERMINAL-2.54MM-2|
 ||||

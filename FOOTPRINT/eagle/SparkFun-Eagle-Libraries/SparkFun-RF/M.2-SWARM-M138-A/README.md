@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-M.2-SWARM-M138-A
 - Hex ID: FZSRFM2SWARMM138A
 - Name: SparkFun-RF : M.2-SWARM-M138-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/M.2-SWARM-M138-A/
 - Description: SparkFun-RF : M.2-SWARM-M138-A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-M.2-SWARM-M138-A](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-M.2-SWARM-M138-A)
 - Short Link: [http://oom.lt/FZSRFM2SWARMM138A](http://oom.lt/FZSRFM2SWARMM138A)

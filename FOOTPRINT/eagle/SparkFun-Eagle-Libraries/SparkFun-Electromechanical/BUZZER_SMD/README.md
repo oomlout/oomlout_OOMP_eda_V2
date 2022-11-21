@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-BUZZER_SMD
 - Hex ID: FZSEBUZZERSM
 - Name: SparkFun-Electromechanical : BUZZER_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Electromechanical/BUZZER_SMD/
 - Description: SparkFun-Electromechanical : BUZZER_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-BUZZER_SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-BUZZER_SMD)
 - Short Link: [http://oom.lt/FZSEBUZZERSM](http://oom.lt/FZSEBUZZERSM)

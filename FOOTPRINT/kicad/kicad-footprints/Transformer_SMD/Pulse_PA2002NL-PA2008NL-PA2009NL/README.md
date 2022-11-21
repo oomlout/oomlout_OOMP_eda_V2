@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKTRSMPULSEPA22NLPA28NLPA29NL > Transformer_SMD : Pulse_PA2002NL-PA2008NL-PA2009NL](#fzktrsmpulsepa22nlpa28nlpa29nl--transformer_smd--pulse_pa2002nl-pa2008nl-pa2009nl)
+* [FZKTRPULSEPA22NLPA28NLPA29NL > Transformer_SMD : Pulse_PA2002NL-PA2008NL-PA2009NL](#fzktrpulsepa22nlpa28nlpa29nl--transformer_smd--pulse_pa2002nl-pa2008nl-pa2009nl)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTRSMPULSEPA22NLPA28NLPA29NL > Transformer_SMD : Pulse_PA2002NL-PA2008NL-PA2009NL
+# FZKTRPULSEPA22NLPA28NLPA29NL > Transformer_SMD : Pulse_PA2002NL-PA2008NL-PA2009NL
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2002NL-PA2008NL-PA2009NL
-- Hex ID: FZKTRSMPULSEPA22NLPA28NLPA29NL
+- Hex ID: FZKTRPULSEPA22NLPA28NLPA29NL
 - Name: Transformer_SMD : Pulse_PA2002NL-PA2008NL-PA2009NL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA2002NL-PA2008NL-PA2009NL/
 - Description: Transformer_SMD : Pulse_PA2002NL-PA2008NL-PA2009NL
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2002NL-PA2008NL-PA2009NL](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2002NL-PA2008NL-PA2009NL)
-- Short Link: [http://oom.lt/FZKTRSMPULSEPA22NLPA28NLPA29NL](http://oom.lt/FZKTRSMPULSEPA22NLPA28NLPA29NL)
+- Short Link: [http://oom.lt/FZKTRPULSEPA22NLPA28NLPA29NL](http://oom.lt/FZKTRPULSEPA22NLPA28NLPA29NL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Transformer_SMD|
 |OOMP Index|oompIndex|Pulse_PA2002NL-PA2008NL-PA2009NL|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2002NL-PA2008NL-PA2009NL|
-|Hex ID (short code)|hexID|FZKTRSMPULSEPA22NLPA28NLPA29NL|
+|Hex ID (short code)|hexID|FZKTRPULSEPA22NLPA28NLPA29NL|
 |name|name|Transformer_SMD : Pulse_PA2002NL-PA2008NL-PA2009NL|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Pulse_PA2002NL-PA2008NL-PA2009NL'</td><td> 'description'</td></tr><tr><td> 'SMT Gate Drive Transformer</td><td> 1</td></tr><tr><td>1</td></tr><tr><td>1 or 2</td></tr><tr><td>1</td></tr><tr><td>1 or 2.5</td></tr><tr><td>1</td></tr><tr><td>1 or 1</td></tr><tr><td>1</td><td> 9.0x8.6x7.6mm (https</td></tr><tr><td>//productfinder.pulseeng.com/products/datasheets/P663.pdf)'</td><td> 'tags'</td></tr><tr><td> 'pulse pa2002nl pa2008nl pa2009nl p0544nl pa0184nl pa0297nl pa0510nl'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_SMD.3dshapes/Pulse_PA2002NL-PA2008NL-PA2009NL.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

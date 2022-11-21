@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-PT78602
 - Hex ID: FZERELAYPT7862
 - Name: relay : PT78602
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/PT78602/
 - Description: relay : PT78602
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PT78602](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-PT78602)
 - Short Link: [http://oom.lt/FZERELAYPT7862](http://oom.lt/FZERELAYPT7862)

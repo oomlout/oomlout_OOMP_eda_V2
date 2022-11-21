@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_PulseElectronics_PH9455xxx6NL_2
 - Hex ID: FZKINLCOONMODEPULSEELECTRONICSPH9455XXX6NL2
 - Name: Inductor_THT : L_CommonMode_PulseElectronics_PH9455xxx6NL_2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_PulseElectronics_PH9455xxx6NL_2/
 - Description: Inductor_THT : L_CommonMode_PulseElectronics_PH9455xxx6NL_2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_PulseElectronics_PH9455xxx6NL_2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_PulseElectronics_PH9455xxx6NL_2)
 - Short Link: [http://oom.lt/FZKINLCOONMODEPULSEELECTRONICSPH9455XXX6NL2](http://oom.lt/FZKINLCOONMODEPULSEELECTRONICSPH9455XXX6NL2)

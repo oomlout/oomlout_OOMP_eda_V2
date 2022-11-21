@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-ExpressCard
 - Hex ID: SZKCNEXPRESSCARD
 - Name: Connector : ExpressCard
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/ExpressCard/
 - Description: Connector : ExpressCard
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-ExpressCard](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-ExpressCard)
 - Short Link: [http://oom.lt/SZKCNEXPRESSCARD](http://oom.lt/SZKCNEXPRESSCARD)

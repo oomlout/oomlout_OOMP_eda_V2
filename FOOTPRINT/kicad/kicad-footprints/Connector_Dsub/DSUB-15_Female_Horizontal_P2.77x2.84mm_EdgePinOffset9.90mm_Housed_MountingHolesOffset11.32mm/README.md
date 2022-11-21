@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNDSUBDSUB15FEMALEHORIZONTALP277X284EDGEPINOFFSET99HOUSEDHOLSOFFSET1132 > Connector_Dsub : DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm](#fzkcndsubdsub15femalehorizontalp277x284edgepinoffset99housedholsoffset1132--connector_dsub--dsub-15_female_horizontal_p277x284mm_edgepinoffset990mm_housed_mountingholesoffset1132mm)
+* [FZKCNDSUBDSUB15FHP277X284EPO99HHOLSO1132 > Connector_Dsub : DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm](#fzkcndsubdsub15fhp277x284epo99hholso1132--connector_dsub--dsub-15_female_horizontal_p277x284mm_edgepinoffset990mm_housed_mountingholesoffset1132mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNDSUBDSUB15FEMALEHORIZONTALP277X284EDGEPINOFFSET99HOUSEDHOLSOFFSET1132 > Connector_Dsub : DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
+# FZKCNDSUBDSUB15FHP277X284EPO99HHOLSO1132 > Connector_Dsub : DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
-- Hex ID: FZKCNDSUBDSUB15FEMALEHORIZONTALP277X284EDGEPINOFFSET99HOUSEDHOLSOFFSET1132
+- Hex ID: FZKCNDSUBDSUB15FHP277X284EPO99HHOLSO1132
 - Name: Connector_Dsub : DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm/
 - Description: Connector_Dsub : DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm)
-- Short Link: [http://oom.lt/FZKCNDSUBDSUB15FEMALEHORIZONTALP277X284EDGEPINOFFSET99HOUSEDHOLSOFFSET1132](http://oom.lt/FZKCNDSUBDSUB15FEMALEHORIZONTALP277X284EDGEPINOFFSET99HOUSEDHOLSOFFSET1132)
+- Short Link: [http://oom.lt/FZKCNDSUBDSUB15FHP277X284EPO99HHOLSO1132](http://oom.lt/FZKCNDSUBDSUB15FHP277X284EPO99HHOLSO1132)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Dsub|
 |OOMP Index|oompIndex|DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm|
-|Hex ID (short code)|hexID|FZKCNDSUBDSUB15FEMALEHORIZONTALP277X284EDGEPINOFFSET99HOUSEDHOLSOFFSET1132|
+|Hex ID (short code)|hexID|FZKCNDSUBDSUB15FHP277X284EPO99HHOLSO1132|
 |name|name|Connector_Dsub : DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm'</td><td> 'description'</td></tr><tr><td> '15-pin D-Sub connector</td><td> horizontal/angled (90 deg)</td><td> THT-mount</td><td> female</td><td> pitch 2.77x2.84mm</td><td> pin-PCB-offset 9.9mm</td><td> distance of mounting holes 33.3mm</td><td> distance of mounting holes to PCB edge 11.32mm</td><td> see https</td></tr><tr><td>//disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf'</td><td> 'tags'</td></tr><tr><td> '15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Dsub.3dshapes/DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

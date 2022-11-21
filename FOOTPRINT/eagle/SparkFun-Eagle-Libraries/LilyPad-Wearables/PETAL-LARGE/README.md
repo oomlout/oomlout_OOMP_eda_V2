@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSLWPETALL > LilyPad-Wearables : PETAL-LARGE](#fzslwpetall--lilypad-wearables--petal-large)
+* [FZSLWPL > LilyPad-Wearables : PETAL-LARGE](#fzslwpl--lilypad-wearables--petal-large)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSLWPETALL > LilyPad-Wearables : PETAL-LARGE
+# FZSLWPL > LilyPad-Wearables : PETAL-LARGE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-PETAL-LARGE
-- Hex ID: FZSLWPETALL
+- Hex ID: FZSLWPL
 - Name: LilyPad-Wearables : PETAL-LARGE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/LilyPad-Wearables/PETAL-LARGE/
 - Description: LilyPad-Wearables : PETAL-LARGE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-PETAL-LARGE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-PETAL-LARGE)
-- Short Link: [http://oom.lt/FZSLWPETALL](http://oom.lt/FZSLWPETALL)
+- Short Link: [http://oom.lt/FZSLWPL](http://oom.lt/FZSLWPL)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|LilyPad-Wearables|
 |OOMP Index|oompIndex|PETAL-LARGE|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-PETAL-LARGE|
-|Hex ID (short code)|hexID|FZSLWPETALL|
+|Hex ID (short code)|hexID|FZSLWPL|
 |name|name|LilyPad-Wearables : PETAL-LARGE|
 ||||

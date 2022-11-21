@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F303VDTx
 - Hex ID: SZKMCUSTSTM32F3STM32F33VDTX
 - Name: MCU_ST_STM32F3 : STM32F303VDTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F303VDTx/
 - Description: MCU_ST_STM32F3 : STM32F303VDTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F303VDTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F303VDTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F3STM32F33VDTX](http://oom.lt/SZKMCUSTSTM32F3STM32F33VDTX)

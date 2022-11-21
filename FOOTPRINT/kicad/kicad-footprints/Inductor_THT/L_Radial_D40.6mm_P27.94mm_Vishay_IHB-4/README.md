@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4
 - Hex ID: FZKINLRD46P2794VISHAYIHB4
 - Name: Inductor_THT : L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4/
 - Description: Inductor_THT : L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4)
 - Short Link: [http://oom.lt/FZKINLRD46P2794VISHAYIHB4](http://oom.lt/FZKINLRD46P2794VISHAYIHB4)

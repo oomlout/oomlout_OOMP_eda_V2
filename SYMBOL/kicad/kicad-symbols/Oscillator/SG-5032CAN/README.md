@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CAN
 - Hex ID: SZKOCSSG532CAN
 - Name: Oscillator : SG-5032CAN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/SG-5032CAN/
 - Description: Oscillator : SG-5032CAN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CAN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CAN)
 - Short Link: [http://oom.lt/SZKOCSSG532CAN](http://oom.lt/SZKOCSSG532CAN)

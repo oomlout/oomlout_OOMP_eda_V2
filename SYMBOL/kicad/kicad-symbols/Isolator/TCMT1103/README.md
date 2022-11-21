@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TCMT1103
 - Hex ID: SZKISOLATORTCMT113
 - Name: Isolator : TCMT1103
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TCMT1103/
 - Description: Isolator : TCMT1103
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TCMT1103](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TCMT1103)
 - Short Link: [http://oom.lt/SZKISOLATORTCMT113](http://oom.lt/SZKISOLATORTCMT113)

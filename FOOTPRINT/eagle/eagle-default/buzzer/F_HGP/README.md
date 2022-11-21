@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_HGP
 - Hex ID: FZEBUZZERFHGP
 - Name: buzzer : F_HGP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_HGP/
 - Description: buzzer : F_HGP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_HGP](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_HGP)
 - Short Link: [http://oom.lt/FZEBUZZERFHGP](http://oom.lt/FZEBUZZERFHGP)

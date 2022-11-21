@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TT2D6L
 - Hex ID: FZATT2D6L
 - Name: adafruit : TT2D6L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TT2D6L/
 - Description: adafruit : TT2D6L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TT2D6L](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TT2D6L)
 - Short Link: [http://oom.lt/FZATT2D6L](http://oom.lt/FZATT2D6L)

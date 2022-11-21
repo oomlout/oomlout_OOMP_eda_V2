@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR420ARMZ
 - Hex ID: SZKREFERENCEVOLTAGEADR42ARMZ
 - Name: Reference_Voltage : ADR420ARMZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/ADR420ARMZ/
 - Description: Reference_Voltage : ADR420ARMZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR420ARMZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR420ARMZ)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEADR42ARMZ](http://oom.lt/SZKREFERENCEVOLTAGEADR42ARMZ)

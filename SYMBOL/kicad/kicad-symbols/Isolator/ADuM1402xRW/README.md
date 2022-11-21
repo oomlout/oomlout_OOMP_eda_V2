@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM1402xRW
 - Hex ID: SZKISOLATORADUM142XRW
 - Name: Isolator : ADuM1402xRW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ADuM1402xRW/
 - Description: Isolator : ADuM1402xRW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM1402xRW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM1402xRW)
 - Short Link: [http://oom.lt/SZKISOLATORADUM142XRW](http://oom.lt/SZKISOLATORADUM142XRW)

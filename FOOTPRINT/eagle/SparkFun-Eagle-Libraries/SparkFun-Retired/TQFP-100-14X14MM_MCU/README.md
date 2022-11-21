@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TQFP-100-14X14MM_MCU
 - Hex ID: FZSRTTQFP114X14MCU
 - Name: SparkFun-Retired : TQFP-100-14X14MM_MCU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TQFP-100-14X14MM_MCU/
 - Description: SparkFun-Retired : TQFP-100-14X14MM_MCU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TQFP-100-14X14MM_MCU](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TQFP-100-14X14MM_MCU)
 - Short Link: [http://oom.lt/FZSRTTQFP114X14MCU](http://oom.lt/FZSRTTQFP114X14MCU)

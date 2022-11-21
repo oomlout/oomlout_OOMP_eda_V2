@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HDLX2416
 - Hex ID: FZEDIHPHDLX2416
 - Name: display-hp : HDLX2416
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-hp/HDLX2416/
 - Description: display-hp : HDLX2416
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HDLX2416](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HDLX2416)
 - Short Link: [http://oom.lt/FZEDIHPHDLX2416](http://oom.lt/FZEDIHPHDLX2416)

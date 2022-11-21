@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT42
 - Hex ID: SZKDIODEBAT42
 - Name: Diode : BAT42
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAT42/
 - Description: Diode : BAT42
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT42](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT42)
 - Short Link: [http://oom.lt/SZKDIODEBAT42](http://oom.lt/SZKDIODEBAT42)

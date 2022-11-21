@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103C8Tx
 - Hex ID: SZKMCUSTSTM32F1STM32F13C8TX
 - Name: MCU_ST_STM32F1 : STM32F103C8Tx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103C8Tx/
 - Description: MCU_ST_STM32F1 : STM32F103C8Tx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103C8Tx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103C8Tx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F13C8TX](http://oom.lt/SZKMCUSTSTM32F1STM32F13C8TX)

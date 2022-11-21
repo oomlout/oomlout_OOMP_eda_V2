@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-pspice-C
 - Hex ID: SZKPSPICEC
 - Name: pspice : C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/pspice/C/
 - Description: pspice : C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-C](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-C)
 - Short Link: [http://oom.lt/SZKPSPICEC](http://oom.lt/SZKPSPICEC)

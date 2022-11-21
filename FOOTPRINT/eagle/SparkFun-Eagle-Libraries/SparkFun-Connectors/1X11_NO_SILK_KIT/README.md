@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X11_NO_SILK_KIT
 - Hex ID: FZSSPARKFUNCNS1X11NOSILKK
 - Name: SparkFun-Connectors : 1X11_NO_SILK_KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X11_NO_SILK_KIT/
 - Description: SparkFun-Connectors : 1X11_NO_SILK_KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X11_NO_SILK_KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X11_NO_SILK_KIT)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X11NOSILKK](http://oom.lt/FZSSPARKFUNCNS1X11NOSILKK)

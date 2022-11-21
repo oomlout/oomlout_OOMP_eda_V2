@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHTL115L43 > switch : TL1105L-4,3](#fzeswitchtl115l43--switch--tl1105l-43)
+* [FZESWTL115L43 > switch : TL1105L-4,3](#fzeswtl115l43--switch--tl1105l-43)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHTL115L43 > switch : TL1105L-4,3
+# FZESWTL115L43 > switch : TL1105L-4,3
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-TL1105L-4,3
-- Hex ID: FZESWITCHTL115L43
+- Hex ID: FZESWTL115L43
 - Name: switch : TL1105L-4,3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/TL1105L-4,3/
 - Description: switch : TL1105L-4,3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-TL1105L-4,3](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-TL1105L-4,3)
-- Short Link: [http://oom.lt/FZESWITCHTL115L43](http://oom.lt/FZESWITCHTL115L43)
+- Short Link: [http://oom.lt/FZESWTL115L43](http://oom.lt/FZESWTL115L43)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|TL1105L-4,3|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-TL1105L-4,3|
-|Hex ID (short code)|hexID|FZESWITCHTL115L43|
+|Hex ID (short code)|hexID|FZESWTL115L43|
 |name|name|switch : TL1105L-4,3|
 ||||

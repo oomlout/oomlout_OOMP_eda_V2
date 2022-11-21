@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-jumper-30
 - Hex ID: FZEJ3
 - Name: jumper : 30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/jumper/30/
 - Description: jumper : 30
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-30](http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-30)
 - Short Link: [http://oom.lt/FZEJ3](http://oom.lt/FZEJ3)

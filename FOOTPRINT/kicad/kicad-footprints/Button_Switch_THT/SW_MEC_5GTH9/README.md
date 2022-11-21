@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_MEC_5GTH9
 - Hex ID: FZKBSWMEC5GTH9
 - Name: Button_Switch_THT : SW_MEC_5GTH9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_MEC_5GTH9/
 - Description: Button_Switch_THT : SW_MEC_5GTH9
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_MEC_5GTH9](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_MEC_5GTH9)
 - Short Link: [http://oom.lt/FZKBSWMEC5GTH9](http://oom.lt/FZKBSWMEC5GTH9)

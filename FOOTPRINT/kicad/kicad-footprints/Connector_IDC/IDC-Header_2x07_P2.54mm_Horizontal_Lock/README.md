@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNIDCIDCHEADER2X7P254HORIZONTALL > Connector_IDC : IDC-Header_2x07_P2.54mm_Horizontal_Lock](#fzkcnidcidcheader2x7p254horizontall--connector_idc--idc-header_2x07_p254mm_horizontal_lock)
+* [FZKCNIDCIDCH2X7P254HL > Connector_IDC : IDC-Header_2x07_P2.54mm_Horizontal_Lock](#fzkcnidcidch2x7p254hl--connector_idc--idc-header_2x07_p254mm_horizontal_lock)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNIDCIDCHEADER2X7P254HORIZONTALL > Connector_IDC : IDC-Header_2x07_P2.54mm_Horizontal_Lock
+# FZKCNIDCIDCH2X7P254HL > Connector_IDC : IDC-Header_2x07_P2.54mm_Horizontal_Lock
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x07_P2.54mm_Horizontal_Lock
-- Hex ID: FZKCNIDCIDCHEADER2X7P254HORIZONTALL
+- Hex ID: FZKCNIDCIDCH2X7P254HL
 - Name: Connector_IDC : IDC-Header_2x07_P2.54mm_Horizontal_Lock
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x07_P2.54mm_Horizontal_Lock/
 - Description: Connector_IDC : IDC-Header_2x07_P2.54mm_Horizontal_Lock
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x07_P2.54mm_Horizontal_Lock](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x07_P2.54mm_Horizontal_Lock)
-- Short Link: [http://oom.lt/FZKCNIDCIDCHEADER2X7P254HORIZONTALL](http://oom.lt/FZKCNIDCIDCHEADER2X7P254HORIZONTALL)
+- Short Link: [http://oom.lt/FZKCNIDCIDCH2X7P254HL](http://oom.lt/FZKCNIDCIDCH2X7P254HL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_IDC|
 |OOMP Index|oompIndex|IDC-Header_2x07_P2.54mm_Horizontal_Lock|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x07_P2.54mm_Horizontal_Lock|
-|Hex ID (short code)|hexID|FZKCNIDCIDCHEADER2X7P254HORIZONTALL|
+|Hex ID (short code)|hexID|FZKCNIDCIDCH2X7P254HL|
 |name|name|Connector_IDC : IDC-Header_2x07_P2.54mm_Horizontal_Lock|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'IDC-Header_2x07_P2.54mm_Horizontal_Lock'</td><td> 'description'</td></tr><tr><td> 'Connector IDC Locked</td><td> 10 contacts</td><td> compatible header</td></tr><tr><td> PANCON HE10 (Series 50</td><td> (https</td></tr><tr><td>//www.reboul.fr/storage/00003af6.pdf)'</td><td> 'tags'</td></tr><tr><td> 'connector idc locked'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_IDC.3dshapes/IDC-Header_2x07_P2.54mm_Horizontal_Lock.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

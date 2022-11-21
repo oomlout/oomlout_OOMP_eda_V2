@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-LD274
 - Hex ID: SZKLLD274
 - Name: LED : LD274
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/LD274/
 - Description: LED : LD274
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-LD274](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-LD274)
 - Short Link: [http://oom.lt/SZKLLD274](http://oom.lt/SZKLLD274)

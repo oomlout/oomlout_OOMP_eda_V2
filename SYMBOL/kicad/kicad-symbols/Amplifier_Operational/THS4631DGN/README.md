@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-THS4631DGN
 - Hex ID: SZKAMPLIFIEROPERATIONALTHS4631DGN
 - Name: Amplifier_Operational : THS4631DGN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/THS4631DGN/
 - Description: Amplifier_Operational : THS4631DGN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-THS4631DGN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-THS4631DGN)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTHS4631DGN](http://oom.lt/SZKAMPLIFIEROPERATIONALTHS4631DGN)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_RS484
 - Hex ID: FZKBGAXILINXRS484
 - Name: Package_BGA : Xilinx_RS484
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_RS484/
 - Description: Package_BGA : Xilinx_RS484
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_RS484](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_RS484)
 - Short Link: [http://oom.lt/FZKBGAXILINXRS484](http://oom.lt/FZKBGAXILINXRS484)

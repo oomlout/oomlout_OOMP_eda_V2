@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-jumper-JP1
 - Hex ID: FZEJJP1
 - Name: jumper : JP1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/jumper/JP1/
 - Description: jumper : JP1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-JP1](http://oom.lt/FOOTPRINT-eagle-eagle-default-jumper-JP1)
 - Short Link: [http://oom.lt/FZEJJP1](http://oom.lt/FZEJJP1)

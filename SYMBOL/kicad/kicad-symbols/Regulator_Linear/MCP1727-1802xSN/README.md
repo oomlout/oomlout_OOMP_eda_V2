@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1727-1802xSN
 - Hex ID: SZKREGULATORLINEARMCP1727182XSN
 - Name: Regulator_Linear : MCP1727-1802xSN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1727-1802xSN/
 - Description: Regulator_Linear : MCP1727-1802xSN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1727-1802xSN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1727-1802xSN)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP1727182XSN](http://oom.lt/SZKREGULATORLINEARMCP1727182XSN)

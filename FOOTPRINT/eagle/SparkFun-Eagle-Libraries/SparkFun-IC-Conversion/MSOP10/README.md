@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-MSOP10
 - Hex ID: FZSIVMS1
 - Name: SparkFun-IC-Conversion : MSOP10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Conversion/MSOP10/
 - Description: SparkFun-IC-Conversion : MSOP10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-MSOP10](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-MSOP10)
 - Short Link: [http://oom.lt/FZSIVMS1](http://oom.lt/FZSIVMS1)

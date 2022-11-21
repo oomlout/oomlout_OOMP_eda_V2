@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-pspice-DIODE
 - Hex ID: SZKPSPICEDIODE
 - Name: pspice : DIODE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/pspice/DIODE/
 - Description: pspice : DIODE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-DIODE](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-DIODE)
 - Short Link: [http://oom.lt/SZKPSPICEDIODE](http://oom.lt/SZKPSPICEDIODE)

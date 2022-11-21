@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F101RCTx
 - Hex ID: SZKMCUSTSTM32F1STM32F11RCTX
 - Name: MCU_ST_STM32F1 : STM32F101RCTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F101RCTx/
 - Description: MCU_ST_STM32F1 : STM32F101RCTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F101RCTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F101RCTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F11RCTX](http://oom.lt/SZKMCUSTSTM32F1STM32F11RCTX)

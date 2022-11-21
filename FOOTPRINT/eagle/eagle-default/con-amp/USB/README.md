@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-USB
 - Hex ID: FZECONAMPU
 - Name: con-amp : USB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/USB/
 - Description: con-amp : USB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-USB](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-USB)
 - Short Link: [http://oom.lt/FZECONAMPU](http://oom.lt/FZECONAMPU)

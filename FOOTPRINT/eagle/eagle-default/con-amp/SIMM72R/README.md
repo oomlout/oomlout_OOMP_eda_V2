@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-SIMM72R
 - Hex ID: FZECONAMPSI72R
 - Name: con-amp : SIMM72R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/SIMM72R/
 - Description: con-amp : SIMM72R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-SIMM72R](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-SIMM72R)
 - Short Link: [http://oom.lt/FZECONAMPSI72R](http://oom.lt/FZECONAMPSI72R)

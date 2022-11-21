@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP179GRT
 - Hex ID: SZKAMPLIFIEROPERATIONALOP179GRT
 - Name: Amplifier_Operational : OP179GRT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OP179GRT/
 - Description: Amplifier_Operational : OP179GRT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP179GRT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP179GRT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOP179GRT](http://oom.lt/SZKAMPLIFIEROPERATIONALOP179GRT)

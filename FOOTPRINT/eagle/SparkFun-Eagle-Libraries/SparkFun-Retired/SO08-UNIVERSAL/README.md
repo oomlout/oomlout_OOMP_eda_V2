@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO08-UNIVERSAL
 - Hex ID: FZSRTSO8UNIVERSAL
 - Name: SparkFun-Retired : SO08-UNIVERSAL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SO08-UNIVERSAL/
 - Description: SparkFun-Retired : SO08-UNIVERSAL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO08-UNIVERSAL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO08-UNIVERSAL)
 - Short Link: [http://oom.lt/FZSRTSO8UNIVERSAL](http://oom.lt/FZSRTSO8UNIVERSAL)

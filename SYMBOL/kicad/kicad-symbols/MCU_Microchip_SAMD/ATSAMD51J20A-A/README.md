@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD51J20A-A
 - Hex ID: SZKMCUMCHIPSAMDATSAMD51J2AA
 - Name: MCU_Microchip_SAMD : ATSAMD51J20A-A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD51J20A-A/
 - Description: MCU_Microchip_SAMD : ATSAMD51J20A-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD51J20A-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD51J20A-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMD51J2AA](http://oom.lt/SZKMCUMCHIPSAMDATSAMD51J2AA)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-LCC8
 - Hex ID: FZEANALOGDEVICESLCC8
 - Name: analog-devices : LCC8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/LCC8/
 - Description: analog-devices : LCC8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LCC8](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LCC8)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESLCC8](http://oom.lt/FZEANALOGDEVICESLCC8)

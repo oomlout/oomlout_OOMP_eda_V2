@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-32_18.4x8mm_P0.5mm_Reverse
 - Hex ID: FZKSOTSI32184X8P5R
 - Name: Package_SO : TSOP-I-32_18.4x8mm_P0.5mm_Reverse
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-32_18.4x8mm_P0.5mm_Reverse/
 - Description: Package_SO : TSOP-I-32_18.4x8mm_P0.5mm_Reverse
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-32_18.4x8mm_P0.5mm_Reverse](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-32_18.4x8mm_P0.5mm_Reverse)
 - Short Link: [http://oom.lt/FZKSOTSI32184X8P5R](http://oom.lt/FZKSOTSI32184X8P5R)

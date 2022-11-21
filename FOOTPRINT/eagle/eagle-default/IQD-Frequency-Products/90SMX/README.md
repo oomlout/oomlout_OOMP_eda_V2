@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-90SMX
 - Hex ID: FZEIQDFREQUENCYPRODUCTS9SMX
 - Name: IQD-Frequency-Products : 90SMX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/90SMX/
 - Description: IQD-Frequency-Products : 90SMX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-90SMX](http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-90SMX)
 - Short Link: [http://oom.lt/FZEIQDFREQUENCYPRODUCTS9SMX](http://oom.lt/FZEIQDFREQUENCYPRODUCTS9SMX)

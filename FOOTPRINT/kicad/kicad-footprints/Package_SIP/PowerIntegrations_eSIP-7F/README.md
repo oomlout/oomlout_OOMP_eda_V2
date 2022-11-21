@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-PowerIntegrations_eSIP-7F
 - Hex ID: FZKSIPPOWERINTEGRATIONSESIP7F
 - Name: Package_SIP : PowerIntegrations_eSIP-7F
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7F/
 - Description: Package_SIP : PowerIntegrations_eSIP-7F
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-PowerIntegrations_eSIP-7F](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-PowerIntegrations_eSIP-7F)
 - Short Link: [http://oom.lt/FZKSIPPOWERINTEGRATIONSESIP7F](http://oom.lt/FZKSIPPOWERINTEGRATIONSESIP7F)

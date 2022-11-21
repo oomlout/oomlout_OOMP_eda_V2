@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F732VETx
 - Hex ID: SZKMCUSTSTM32F7STM32F732VETX
 - Name: MCU_ST_STM32F7 : STM32F732VETx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F732VETx/
 - Description: MCU_ST_STM32F7 : STM32F732VETx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F732VETx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F732VETx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F732VETX](http://oom.lt/SZKMCUSTSTM32F7STM32F732VETX)

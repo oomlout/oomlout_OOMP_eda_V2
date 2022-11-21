@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIR33402S
 - Hex ID: SZKPOWERMANAGEMENTAUIR3342S
 - Name: Power_Management : AUIR33402S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AUIR33402S/
 - Description: Power_Management : AUIR33402S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIR33402S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIR33402S)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIR3342S](http://oom.lt/SZKPOWERMANAGEMENTAUIR3342S)

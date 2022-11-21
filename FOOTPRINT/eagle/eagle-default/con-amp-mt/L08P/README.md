@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-mt-L08P
 - Hex ID: FZECONAMPMTL8P
 - Name: con-amp-mt : L08P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-mt/L08P/
 - Description: con-amp-mt : L08P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-L08P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-L08P)
 - Short Link: [http://oom.lt/FZECONAMPMTL8P](http://oom.lt/FZECONAMPMTL8P)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA2050
 - Hex ID: SZKAMPLIFIERAUDIOTDA25
 - Name: Amplifier_Audio : TDA2050
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TDA2050/
 - Description: Amplifier_Audio : TDA2050
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA2050](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA2050)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTDA25](http://oom.lt/SZKAMPLIFIERAUDIOTDA25)

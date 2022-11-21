@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Fan_IEC60617
 - Hex ID: SZKMOTORFANIEC6617
 - Name: Motor : Fan_IEC60617
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Fan_IEC60617/
 - Description: Motor : Fan_IEC60617
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Fan_IEC60617](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Fan_IEC60617)
 - Short Link: [http://oom.lt/SZKMOTORFANIEC6617](http://oom.lt/SZKMOTORFANIEC6617)

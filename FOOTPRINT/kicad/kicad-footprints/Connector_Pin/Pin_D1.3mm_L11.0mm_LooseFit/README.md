@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINPIND13L11LOOSEFIT > Connector_Pin : Pin_D1.3mm_L11.0mm_LooseFit](#fzkcnpinpind13l11loosefit--connector_pin--pin_d13mm_l110mm_loosefit)
+* [FZKCNPPD13L11LOOSEFIT > Connector_Pin : Pin_D1.3mm_L11.0mm_LooseFit](#fzkcnppd13l11loosefit--connector_pin--pin_d13mm_l110mm_loosefit)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINPIND13L11LOOSEFIT > Connector_Pin : Pin_D1.3mm_L11.0mm_LooseFit
+# FZKCNPPD13L11LOOSEFIT > Connector_Pin : Pin_D1.3mm_L11.0mm_LooseFit
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.3mm_L11.0mm_LooseFit
-- Hex ID: FZKCNPINPIND13L11LOOSEFIT
+- Hex ID: FZKCNPPD13L11LOOSEFIT
 - Name: Connector_Pin : Pin_D1.3mm_L11.0mm_LooseFit
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/
 - Description: Connector_Pin : Pin_D1.3mm_L11.0mm_LooseFit
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.3mm_L11.0mm_LooseFit](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.3mm_L11.0mm_LooseFit)
-- Short Link: [http://oom.lt/FZKCNPINPIND13L11LOOSEFIT](http://oom.lt/FZKCNPINPIND13L11LOOSEFIT)
+- Short Link: [http://oom.lt/FZKCNPPD13L11LOOSEFIT](http://oom.lt/FZKCNPPD13L11LOOSEFIT)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Pin|
 |OOMP Index|oompIndex|Pin_D1.3mm_L11.0mm_LooseFit|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.3mm_L11.0mm_LooseFit|
-|Hex ID (short code)|hexID|FZKCNPINPIND13L11LOOSEFIT|
+|Hex ID (short code)|hexID|FZKCNPPD13L11LOOSEFIT|
 |name|name|Connector_Pin : Pin_D1.3mm_L11.0mm_LooseFit|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Pin_D1.3mm_L11.0mm_LooseFit'</td><td> 'description'</td></tr><tr><td> 'solder Pin_ diameter 1.3mm</td><td> hole diameter 1.5mm (loose fit)</td><td> length 11.0mm'</td><td> 'tags'</td></tr><tr><td> 'solder Pin_ loose fit'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm_LooseFit.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

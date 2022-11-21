@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESXC27B21 > ref-packages : XC27B21](#fzerefpackagesxc27b21--ref-packages--xc27b21)
+* [FZEREFPSXC27B21 > ref-packages : XC27B21](#fzerefpsxc27b21--ref-packages--xc27b21)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESXC27B21 > ref-packages : XC27B21
+# FZEREFPSXC27B21 > ref-packages : XC27B21
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-XC27B21
-- Hex ID: FZEREFPACKAGESXC27B21
+- Hex ID: FZEREFPSXC27B21
 - Name: ref-packages : XC27B21
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/XC27B21/
 - Description: ref-packages : XC27B21
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-XC27B21](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-XC27B21)
-- Short Link: [http://oom.lt/FZEREFPACKAGESXC27B21](http://oom.lt/FZEREFPACKAGESXC27B21)
+- Short Link: [http://oom.lt/FZEREFPSXC27B21](http://oom.lt/FZEREFPSXC27B21)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|XC27B21|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-XC27B21|
-|Hex ID (short code)|hexID|FZEREFPACKAGESXC27B21|
+|Hex ID (short code)|hexID|FZEREFPSXC27B21|
 |name|name|ref-packages : XC27B21|
 ||||

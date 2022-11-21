@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG3005EJ
 - Hex ID: SZKDIODEPMEG35EJ
 - Name: Diode : PMEG3005EJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG3005EJ/
 - Description: Diode : PMEG3005EJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG3005EJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG3005EJ)
 - Short Link: [http://oom.lt/SZKDIODEPMEG35EJ](http://oom.lt/SZKDIODEPMEG35EJ)

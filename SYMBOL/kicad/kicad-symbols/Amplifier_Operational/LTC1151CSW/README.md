@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC1151CSW
 - Hex ID: SZKAMPLIFIEROPERATIONALLTC1151CSW
 - Name: Amplifier_Operational : LTC1151CSW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC1151CSW/
 - Description: Amplifier_Operational : LTC1151CSW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC1151CSW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC1151CSW)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC1151CSW](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC1151CSW)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-TQFN-16
 - Hex ID: FZSIATQFN16
 - Name: SparkFun-IC-Amplifiers : TQFN-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Amplifiers/TQFN-16/
 - Description: SparkFun-IC-Amplifiers : TQFN-16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-TQFN-16](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-TQFN-16)
 - Short Link: [http://oom.lt/FZSIATQFN16](http://oom.lt/FZSIATQFN16)

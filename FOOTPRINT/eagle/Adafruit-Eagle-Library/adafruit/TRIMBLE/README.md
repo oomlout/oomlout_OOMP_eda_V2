@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TRIMBLE
 - Hex ID: FZATRIMBLE
 - Name: adafruit : TRIMBLE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TRIMBLE/
 - Description: adafruit : TRIMBLE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TRIMBLE](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TRIMBLE)
 - Short Link: [http://oom.lt/FZATRIMBLE](http://oom.lt/FZATRIMBLE)

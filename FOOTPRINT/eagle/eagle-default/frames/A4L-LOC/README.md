@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-frames-A4L-LOC
 - Hex ID: FZEFRAMESA4LLOC
 - Name: frames : A4L-LOC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/frames/A4L-LOC/
 - Description: frames : A4L-LOC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-A4L-LOC](http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-A4L-LOC)
 - Short Link: [http://oom.lt/FZEFRAMESA4LLOC](http://oom.lt/FZEFRAMESA4LLOC)

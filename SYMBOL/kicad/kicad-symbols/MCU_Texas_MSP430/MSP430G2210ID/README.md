@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2210ID
 - Hex ID: SZKMCUTEXASMSP43MSP43G221ID
 - Name: MCU_Texas_MSP430 : MSP430G2210ID
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430G2210ID/
 - Description: MCU_Texas_MSP430 : MSP430G2210ID
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2210ID](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2210ID)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43G221ID](http://oom.lt/SZKMCUTEXASMSP43MSP43G221ID)

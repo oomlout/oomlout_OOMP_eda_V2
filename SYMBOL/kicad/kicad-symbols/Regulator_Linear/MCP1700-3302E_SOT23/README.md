@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1700-3302E_SOT23
 - Hex ID: SZKREGULATORLINEARMCP17332ESOT23
 - Name: Regulator_Linear : MCP1700-3302E_SOT23
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1700-3302E_SOT23/
 - Description: Regulator_Linear : MCP1700-3302E_SOT23
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1700-3302E_SOT23](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1700-3302E_SOT23)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP17332ESOT23](http://oom.lt/SZKREGULATORLINEARMCP17332ESOT23)

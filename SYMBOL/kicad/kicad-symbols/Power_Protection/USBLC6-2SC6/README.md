@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-USBLC6-2SC6
 - Hex ID: SZKPOWERPROTECTIONULC62SC6
 - Name: Power_Protection : USBLC6-2SC6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/USBLC6-2SC6/
 - Description: Power_Protection : USBLC6-2SC6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-USBLC6-2SC6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-USBLC6-2SC6)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONULC62SC6](http://oom.lt/SZKPOWERPROTECTIONULC62SC6)

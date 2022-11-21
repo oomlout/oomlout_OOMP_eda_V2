@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKRESISTORSMR2163METRIC > Resistor_SMD : R_0201_0603Metric](#fzkresistorsmr2163metric--resistor_smd--r_0201_0603metric)
+* [FZKRR2163VA > Resistor_SMD : R_0201_0603Metric](#fzkrr2163va--resistor_smd--r_0201_0603metric)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRESISTORSMR2163METRIC > Resistor_SMD : R_0201_0603Metric
+# FZKRR2163VA > Resistor_SMD : R_0201_0603Metric
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0201_0603Metric
-- Hex ID: FZKRESISTORSMR2163METRIC
+- Hex ID: FZKRR2163VA
 - Name: Resistor_SMD : R_0201_0603Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0201_0603Metric/
 - Description: Resistor_SMD : R_0201_0603Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0201_0603Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0201_0603Metric)
-- Short Link: [http://oom.lt/FZKRESISTORSMR2163METRIC](http://oom.lt/FZKRESISTORSMR2163METRIC)
+- Short Link: [http://oom.lt/FZKRR2163VA](http://oom.lt/FZKRR2163VA)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Resistor_SMD|
 |OOMP Index|oompIndex|R_0201_0603Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0201_0603Metric|
-|Hex ID (short code)|hexID|FZKRESISTORSMR2163METRIC|
+|Hex ID (short code)|hexID|FZKRR2163VA|
 |name|name|Resistor_SMD : R_0201_0603Metric|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_0201_0603Metric'</td><td> 'description'</td></tr><tr><td> 'Resistor SMD 0201 (0603 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> https</td></tr><tr><td>//www.vishay.com/docs/20052/crcw0201e3.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0201_0603Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

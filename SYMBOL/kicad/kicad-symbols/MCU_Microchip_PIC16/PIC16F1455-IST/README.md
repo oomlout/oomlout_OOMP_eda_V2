@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1455-IST
 - Hex ID: SZKMCUMCHIPPIC16PIC16F1455IST
 - Name: MCU_Microchip_PIC16 : PIC16F1455-IST
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1455-IST/
 - Description: MCU_Microchip_PIC16 : PIC16F1455-IST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1455-IST](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1455-IST)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1455IST](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1455IST)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny48-P
 - Hex ID: SZKMCUMCHIPATTINYATTINY48P
 - Name: MCU_Microchip_ATtiny : ATtiny48-P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny48-P/
 - Description: MCU_Microchip_ATtiny : ATtiny48-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny48-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny48-P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY48P](http://oom.lt/SZKMCUMCHIPATTINYATTINY48P)

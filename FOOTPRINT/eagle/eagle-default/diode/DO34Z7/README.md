@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO34Z7
 - Hex ID: FZEDIODEDO34Z7
 - Name: diode : DO34Z7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/DO34Z7/
 - Description: diode : DO34Z7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO34Z7](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO34Z7)
 - Short Link: [http://oom.lt/FZEDIODEDO34Z7](http://oom.lt/FZEDIODEDO34Z7)

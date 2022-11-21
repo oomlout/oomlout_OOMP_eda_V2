@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-AD104
 - Hex ID: FZEANALOGDEVICESAD14
 - Name: analog-devices : AD104
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/AD104/
 - Description: analog-devices : AD104
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-AD104](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-AD104)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESAD14](http://oom.lt/FZEANALOGDEVICESAD14)

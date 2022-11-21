@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Relay-MAX4821xUP
 - Hex ID: SZKDRIVERRELAYMAX4821XUP
 - Name: Driver_Relay : MAX4821xUP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Relay/MAX4821xUP/
 - Description: Driver_Relay : MAX4821xUP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Relay-MAX4821xUP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Relay-MAX4821xUP)
 - Short Link: [http://oom.lt/SZKDRIVERRELAYMAX4821XUP](http://oom.lt/SZKDRIVERRELAYMAX4821XUP)

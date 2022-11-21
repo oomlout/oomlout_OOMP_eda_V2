@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-UDN2954W
 - Hex ID: FZELINEARUDN2954W
 - Name: linear : UDN2954W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/UDN2954W/
 - Description: linear : UDN2954W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-UDN2954W](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-UDN2954W)
 - Short Link: [http://oom.lt/FZELINEARUDN2954W](http://oom.lt/FZELINEARUDN2954W)

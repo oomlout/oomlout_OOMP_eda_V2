@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-CON-PCI
 - Hex ID: FZECONPCCONPCI
 - Name: con-pc : CON-PCI
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc/CON-PCI/
 - Description: con-pc : CON-PCI
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-CON-PCI](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-CON-PCI)
 - Short Link: [http://oom.lt/FZECONPCCONPCI](http://oom.lt/FZECONPCCONPCI)

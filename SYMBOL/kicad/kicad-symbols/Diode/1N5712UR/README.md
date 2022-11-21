@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N5712UR
 - Hex ID: SZKDIODE1N5712UR
 - Name: Diode : 1N5712UR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N5712UR/
 - Description: Diode : 1N5712UR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5712UR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5712UR)
 - Short Link: [http://oom.lt/SZKDIODE1N5712UR](http://oom.lt/SZKDIODE1N5712UR)

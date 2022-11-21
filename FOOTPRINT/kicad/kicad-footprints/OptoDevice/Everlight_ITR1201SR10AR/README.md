@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR1201SR10AR
 - Hex ID: FZKOPEVERLIGHTITR121SR1AR
 - Name: OptoDevice : Everlight_ITR1201SR10AR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR1201SR10AR/
 - Description: OptoDevice : Everlight_ITR1201SR10AR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR1201SR10AR](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR1201SR10AR)
 - Short Link: [http://oom.lt/FZKOPEVERLIGHTITR121SR1AR](http://oom.lt/FZKOPEVERLIGHTITR121SR1AR)

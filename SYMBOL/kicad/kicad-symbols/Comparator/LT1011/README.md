@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LT1011
 - Hex ID: SZKCOMPARATORLT111
 - Name: Comparator : LT1011
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LT1011/
 - Description: Comparator : LT1011
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LT1011](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LT1011)
 - Short Link: [http://oom.lt/SZKCOMPARATORLT111](http://oom.lt/SZKCOMPARATORLT111)

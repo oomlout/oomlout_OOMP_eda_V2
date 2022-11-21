@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSWBPAD2X2SINGLELK > SparkFun-Switches : BUTTONPAD-2X2-SINGLE-LED-KIT](#fzswbpad2x2singlelk--sparkfun-switches--buttonpad-2x2-single-led-kit)
+* [FZSWBP2X2SINGLELK > SparkFun-Switches : BUTTONPAD-2X2-SINGLE-LED-KIT](#fzswbp2x2singlelk--sparkfun-switches--buttonpad-2x2-single-led-kit)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSWBPAD2X2SINGLELK > SparkFun-Switches : BUTTONPAD-2X2-SINGLE-LED-KIT
+# FZSWBP2X2SINGLELK > SparkFun-Switches : BUTTONPAD-2X2-SINGLE-LED-KIT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTONPAD-2X2-SINGLE-LED-KIT
-- Hex ID: FZSWBPAD2X2SINGLELK
+- Hex ID: FZSWBP2X2SINGLELK
 - Name: SparkFun-Switches : BUTTONPAD-2X2-SINGLE-LED-KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/BUTTONPAD-2X2-SINGLE-LED-KIT/
 - Description: SparkFun-Switches : BUTTONPAD-2X2-SINGLE-LED-KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTONPAD-2X2-SINGLE-LED-KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTONPAD-2X2-SINGLE-LED-KIT)
-- Short Link: [http://oom.lt/FZSWBPAD2X2SINGLELK](http://oom.lt/FZSWBPAD2X2SINGLELK)
+- Short Link: [http://oom.lt/FZSWBP2X2SINGLELK](http://oom.lt/FZSWBP2X2SINGLELK)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Switches|
 |OOMP Index|oompIndex|BUTTONPAD-2X2-SINGLE-LED-KIT|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTONPAD-2X2-SINGLE-LED-KIT|
-|Hex ID (short code)|hexID|FZSWBPAD2X2SINGLELK|
+|Hex ID (short code)|hexID|FZSWBP2X2SINGLELK|
 |name|name|SparkFun-Switches : BUTTONPAD-2X2-SINGLE-LED-KIT|
 ||||

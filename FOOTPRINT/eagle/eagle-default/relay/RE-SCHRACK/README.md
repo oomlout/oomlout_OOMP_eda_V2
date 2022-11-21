@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RE-SCHRACK
 - Hex ID: FZERELAYRESCHRACK
 - Name: relay : RE-SCHRACK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RE-SCHRACK/
 - Description: relay : RE-SCHRACK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RE-SCHRACK](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RE-SCHRACK)
 - Short Link: [http://oom.lt/FZERELAYRESCHRACK](http://oom.lt/FZERELAYRESCHRACK)

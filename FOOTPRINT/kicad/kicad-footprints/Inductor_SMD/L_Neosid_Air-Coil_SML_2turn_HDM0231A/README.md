@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLNEOSIDAIRCOILSML2TURNHDM231A > Inductor_SMD : L_Neosid_Air-Coil_SML_2turn_HDM0231A](#fzkinductorsmlneosidaircoilsml2turnhdm231a--inductor_smd--l_neosid_air-coil_sml_2turn_hdm0231a)
+* [FZKINLNEOSIDAIRCOILSML2TURNHDM231A > Inductor_SMD : L_Neosid_Air-Coil_SML_2turn_HDM0231A](#fzkinlneosidaircoilsml2turnhdm231a--inductor_smd--l_neosid_air-coil_sml_2turn_hdm0231a)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLNEOSIDAIRCOILSML2TURNHDM231A > Inductor_SMD : L_Neosid_Air-Coil_SML_2turn_HDM0231A
+# FZKINLNEOSIDAIRCOILSML2TURNHDM231A > Inductor_SMD : L_Neosid_Air-Coil_SML_2turn_HDM0231A
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_2turn_HDM0231A
-- Hex ID: FZKINDUCTORSMLNEOSIDAIRCOILSML2TURNHDM231A
+- Hex ID: FZKINLNEOSIDAIRCOILSML2TURNHDM231A
 - Name: Inductor_SMD : L_Neosid_Air-Coil_SML_2turn_HDM0231A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Air-Coil_SML_2turn_HDM0231A/
 - Description: Inductor_SMD : L_Neosid_Air-Coil_SML_2turn_HDM0231A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_2turn_HDM0231A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_2turn_HDM0231A)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLNEOSIDAIRCOILSML2TURNHDM231A](http://oom.lt/FZKINDUCTORSMLNEOSIDAIRCOILSML2TURNHDM231A)
+- Short Link: [http://oom.lt/FZKINLNEOSIDAIRCOILSML2TURNHDM231A](http://oom.lt/FZKINLNEOSIDAIRCOILSML2TURNHDM231A)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Neosid_Air-Coil_SML_2turn_HDM0231A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_2turn_HDM0231A|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDAIRCOILSML2TURNHDM231A|
+|Hex ID (short code)|hexID|FZKINLNEOSIDAIRCOILSML2TURNHDM231A|
 |name|name|Inductor_SMD : L_Neosid_Air-Coil_SML_2turn_HDM0231A|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_Air-Coil_SML_2turn_HDM0231A'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Air-Coil</td><td> SML</td><td> 2turn</td><td> HDM0231A</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Neosid Air-Coil SML 2turn HDM0231A'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_Air-Coil_SML_2turn_HDM0231A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

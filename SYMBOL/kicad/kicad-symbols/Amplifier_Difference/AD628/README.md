@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AD628
 - Hex ID: SZKAMPLIFIERDIFFERENCEAD628
 - Name: Amplifier_Difference : AD628
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/AD628/
 - Description: Amplifier_Difference : AD628
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AD628](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AD628)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCEAD628](http://oom.lt/SZKAMPLIFIERDIFFERENCEAD628)

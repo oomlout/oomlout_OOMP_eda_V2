@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCAPACITORSMCELEC4X54 > Capacitor_SMD : C_Elec_4x5.4](#fzkcapacitorsmcelec4x54--capacitor_smd--c_elec_4x54)
+* [FZKCCELEC4X54 > Capacitor_SMD : C_Elec_4x5.4](#fzkccelec4x54--capacitor_smd--c_elec_4x54)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORSMCELEC4X54 > Capacitor_SMD : C_Elec_4x5.4
+# FZKCCELEC4X54 > Capacitor_SMD : C_Elec_4x5.4
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Elec_4x5.4
-- Hex ID: FZKCAPACITORSMCELEC4X54
+- Hex ID: FZKCCELEC4X54
 - Name: Capacitor_SMD : C_Elec_4x5.4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Elec_4x5.4/
 - Description: Capacitor_SMD : C_Elec_4x5.4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Elec_4x5.4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Elec_4x5.4)
-- Short Link: [http://oom.lt/FZKCAPACITORSMCELEC4X54](http://oom.lt/FZKCAPACITORSMCELEC4X54)
+- Short Link: [http://oom.lt/FZKCCELEC4X54](http://oom.lt/FZKCCELEC4X54)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_SMD|
 |OOMP Index|oompIndex|C_Elec_4x5.4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Elec_4x5.4|
-|Hex ID (short code)|hexID|FZKCAPACITORSMCELEC4X54|
+|Hex ID (short code)|hexID|FZKCCELEC4X54|
 |name|name|Capacitor_SMD : C_Elec_4x5.4|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_Elec_4x5.4'</td><td> 'description'</td></tr><tr><td> 'SMD capacitor</td><td> aluminum electrolytic nonpolar</td><td> 4.0x5.4mm'</td><td> 'tags'</td></tr><tr><td> 'capacitor electrolyic nonpolar'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_Elec_4x5.4.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

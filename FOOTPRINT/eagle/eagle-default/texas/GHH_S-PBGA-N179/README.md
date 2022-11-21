@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-GHH_S-PBGA-N179
 - Hex ID: FZETEXASGHHSPBGAN179
 - Name: texas : GHH_S-PBGA-N179
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/GHH_S-PBGA-N179/
 - Description: texas : GHH_S-PBGA-N179
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-GHH_S-PBGA-N179](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-GHH_S-PBGA-N179)
 - Short Link: [http://oom.lt/FZETEXASGHHSPBGAN179](http://oom.lt/FZETEXASGHHSPBGAN179)

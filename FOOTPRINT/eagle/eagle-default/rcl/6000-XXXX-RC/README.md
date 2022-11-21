@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-6000-XXXX-RC
 - Hex ID: FZERCL6XXXXRC
 - Name: rcl : 6000-XXXX-RC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/6000-XXXX-RC/
 - Description: rcl : 6000-XXXX-RC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-6000-XXXX-RC](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-6000-XXXX-RC)
 - Short Link: [http://oom.lt/FZERCL6XXXXRC](http://oom.lt/FZERCL6XXXXRC)

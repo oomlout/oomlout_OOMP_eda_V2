@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-PSOP-44_16.9x27.17mm_P1.27mm
 - Hex ID: FZKSOPS44169X2717P127
 - Name: Package_SO : PSOP-44_16.9x27.17mm_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/PSOP-44_16.9x27.17mm_P1.27mm/
 - Description: Package_SO : PSOP-44_16.9x27.17mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-PSOP-44_16.9x27.17mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-PSOP-44_16.9x27.17mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKSOPS44169X2717P127](http://oom.lt/FZKSOPS44169X2717P127)

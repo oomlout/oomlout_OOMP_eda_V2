@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Fan
 - Hex ID: SZKMOTORFAN
 - Name: Motor : Fan
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Fan/
 - Description: Motor : Fan
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Fan](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Fan)
 - Short Link: [http://oom.lt/SZKMOTORFAN](http://oom.lt/SZKMOTORFAN)

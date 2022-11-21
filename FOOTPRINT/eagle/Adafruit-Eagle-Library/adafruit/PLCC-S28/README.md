@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PLCC-S28
 - Hex ID: FZAPLCCS28
 - Name: adafruit : PLCC-S28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PLCC-S28/
 - Description: adafruit : PLCC-S28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PLCC-S28](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PLCC-S28)
 - Short Link: [http://oom.lt/FZAPLCCS28](http://oom.lt/FZAPLCCS28)

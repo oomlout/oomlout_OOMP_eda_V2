@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm
 - Hex ID: FZKHOLHOL27
 - Name: MountingHole : MountingHole_2.7mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.7mm/
 - Description: MountingHole : MountingHole_2.7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm)
 - Short Link: [http://oom.lt/FZKHOLHOL27](http://oom.lt/FZKHOLHOL27)

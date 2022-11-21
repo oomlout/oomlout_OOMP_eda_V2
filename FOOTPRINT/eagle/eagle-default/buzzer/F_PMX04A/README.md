@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_PMX04A
 - Hex ID: FZEBUZZERFPMX4A
 - Name: buzzer : F_PMX04A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_PMX04A/
 - Description: buzzer : F_PMX04A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_PMX04A](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_PMX04A)
 - Short Link: [http://oom.lt/FZEBUZZERFPMX4A](http://oom.lt/FZEBUZZERFPMX4A)

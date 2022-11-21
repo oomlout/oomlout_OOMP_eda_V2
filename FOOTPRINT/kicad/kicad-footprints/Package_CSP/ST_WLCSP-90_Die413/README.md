@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-90_Die413
 - Hex ID: FZKCSPSTWLCSP9DIE413
 - Name: Package_CSP : ST_WLCSP-90_Die413
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-90_Die413/
 - Description: Package_CSP : ST_WLCSP-90_Die413
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-90_Die413](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-90_Die413)
 - Short Link: [http://oom.lt/FZKCSPSTWLCSP9DIE413](http://oom.lt/FZKCSPSTWLCSP9DIE413)

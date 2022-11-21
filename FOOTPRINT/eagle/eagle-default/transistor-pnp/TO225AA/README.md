@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-pnp-TO225AA
 - Hex ID: FZETRANSISTORPNPTO225AA
 - Name: transistor-pnp : TO225AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-pnp/TO225AA/
 - Description: transistor-pnp : TO225AA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO225AA](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-pnp-TO225AA)
 - Short Link: [http://oom.lt/FZETRANSISTORPNPTO225AA](http://oom.lt/FZETRANSISTORPNPTO225AA)

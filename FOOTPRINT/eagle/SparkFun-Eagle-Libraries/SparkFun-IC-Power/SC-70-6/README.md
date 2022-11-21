@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-SC-70-6
 - Hex ID: FZSIPSC76
 - Name: SparkFun-IC-Power : SC-70-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/SC-70-6/
 - Description: SparkFun-IC-Power : SC-70-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-SC-70-6](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-SC-70-6)
 - Short Link: [http://oom.lt/FZSIPSC76](http://oom.lt/FZSIPSC76)

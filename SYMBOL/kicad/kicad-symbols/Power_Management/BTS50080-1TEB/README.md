@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS50080-1TEB
 - Hex ID: SZKPOWERMANAGEMENTBTS581TEB
 - Name: Power_Management : BTS50080-1TEB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50080-1TEB/
 - Description: Power_Management : BTS50080-1TEB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS50080-1TEB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS50080-1TEB)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS581TEB](http://oom.lt/SZKPOWERMANAGEMENTBTS581TEB)

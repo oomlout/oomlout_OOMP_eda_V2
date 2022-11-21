@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-CC56-12GWA
 - Hex ID: FZKDI7SCC5612GWA
 - Name: Display_7Segment : CC56-12GWA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/CC56-12GWA/
 - Description: Display_7Segment : CC56-12GWA
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-CC56-12GWA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-CC56-12GWA)
 - Short Link: [http://oom.lt/FZKDI7SCC5612GWA](http://oom.lt/FZKDI7SCC5612GWA)

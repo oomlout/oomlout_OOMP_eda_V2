@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSONTEXASSPVSONN8THERMALVIAS > Package_SON : Texas_S-PVSON-N8_ThermalVias](#fzksontexasspvsonn8thermalvias--package_son--texas_s-pvson-n8_thermalvias)
+* [FZKSONTEXASSPVSONN8THV > Package_SON : Texas_S-PVSON-N8_ThermalVias](#fzksontexasspvsonn8thv--package_son--texas_s-pvson-n8_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSONTEXASSPVSONN8THERMALVIAS > Package_SON : Texas_S-PVSON-N8_ThermalVias
+# FZKSONTEXASSPVSONN8THV > Package_SON : Texas_S-PVSON-N8_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PVSON-N8_ThermalVias
-- Hex ID: FZKSONTEXASSPVSONN8THERMALVIAS
+- Hex ID: FZKSONTEXASSPVSONN8THV
 - Name: Package_SON : Texas_S-PVSON-N8_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PVSON-N8_ThermalVias/
 - Description: Package_SON : Texas_S-PVSON-N8_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PVSON-N8_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PVSON-N8_ThermalVias)
-- Short Link: [http://oom.lt/FZKSONTEXASSPVSONN8THERMALVIAS](http://oom.lt/FZKSONTEXASSPVSONN8THERMALVIAS)
+- Short Link: [http://oom.lt/FZKSONTEXASSPVSONN8THV](http://oom.lt/FZKSONTEXASSPVSONN8THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_SON|
 |OOMP Index|oompIndex|Texas_S-PVSON-N8_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PVSON-N8_ThermalVias|
-|Hex ID (short code)|hexID|FZKSONTEXASSPVSONN8THERMALVIAS|
+|Hex ID (short code)|hexID|FZKSONTEXASSPVSONN8THV|
 |name|name|Package_SON : Texas_S-PVSON-N8_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_S-PVSON-N8_ThermalVias'</td><td> 'description'</td></tr><tr><td> '8-Lead Plastic VSON</td><td> 3x3mm Body</td><td> 0.65mm Pitch</td><td> S-PVSON-N8</td><td> http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/opa2333.pdf'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.65 S-PVSON-N8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Texas_S-PVSON-N8.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

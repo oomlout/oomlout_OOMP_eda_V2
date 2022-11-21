@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9554PW
 - Hex ID: SZKINTERFACEEXPANSIONTCA9554PW
 - Name: Interface_Expansion : TCA9554PW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9554PW/
 - Description: Interface_Expansion : TCA9554PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9554PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9554PW)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9554PW](http://oom.lt/SZKINTERFACEEXPANSIONTCA9554PW)

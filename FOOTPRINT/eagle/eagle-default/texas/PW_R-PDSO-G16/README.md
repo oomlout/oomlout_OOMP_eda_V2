@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-PW_R-PDSO-G16
 - Hex ID: FZETEXASPWRPDSOG16
 - Name: texas : PW_R-PDSO-G16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/PW_R-PDSO-G16/
 - Description: texas : PW_R-PDSO-G16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PW_R-PDSO-G16](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PW_R-PDSO-G16)
 - Short Link: [http://oom.lt/FZETEXASPWRPDSOG16](http://oom.lt/FZETEXASPWRPDSOG16)

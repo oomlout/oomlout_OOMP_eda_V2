@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45
 - Hex ID: FZKDFNNXPLQFN481EP7X7P5EP35X3516XMASK45X45
 - Name: Package_DFN_QFN : NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45/
 - Description: Package_DFN_QFN : NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45)
 - Short Link: [http://oom.lt/FZKDFNNXPLQFN481EP7X7P5EP35X3516XMASK45X45](http://oom.lt/FZKDFNNXPLQFN481EP7X7P5EP35X3516XMASK45X45)

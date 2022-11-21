@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AVRISP-BOX
 - Hex ID: FZAAVRISPBOX
 - Name: adafruit : AVRISP-BOX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/AVRISP-BOX/
 - Description: adafruit : AVRISP-BOX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AVRISP-BOX](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AVRISP-BOX)
 - Short Link: [http://oom.lt/FZAAVRISPBOX](http://oom.lt/FZAAVRISPBOX)

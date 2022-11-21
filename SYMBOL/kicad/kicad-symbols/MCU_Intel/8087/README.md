@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-8087
 - Hex ID: SZKMCUINTEL887
 - Name: MCU_Intel : 8087
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Intel/8087/
 - Description: MCU_Intel : 8087
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8087](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8087)
 - Short Link: [http://oom.lt/SZKMCUINTEL887](http://oom.lt/SZKMCUINTEL887)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-CE-Logo_16.8x12mm_SilkScreen
 - Hex ID: FZKSZCEL168X12SILKSCREEN
 - Name: Symbol : CE-Logo_16.8x12mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/CE-Logo_16.8x12mm_SilkScreen/
 - Description: Symbol : CE-Logo_16.8x12mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-CE-Logo_16.8x12mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-CE-Logo_16.8x12mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZCEL168X12SILKSCREEN](http://oom.lt/FZKSZCEL168X12SILKSCREEN)

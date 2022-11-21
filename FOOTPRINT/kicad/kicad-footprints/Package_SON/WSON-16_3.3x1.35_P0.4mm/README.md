@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-16_3.3x1.35_P0.4mm
 - Hex ID: FZKSONWSON1633X135P4
 - Name: Package_SON : WSON-16_3.3x1.35_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-16_3.3x1.35_P0.4mm/
 - Description: Package_SON : WSON-16_3.3x1.35_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-16_3.3x1.35_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-16_3.3x1.35_P0.4mm)
 - Short Link: [http://oom.lt/FZKSONWSON1633X135P4](http://oom.lt/FZKSONWSON1633X135P4)

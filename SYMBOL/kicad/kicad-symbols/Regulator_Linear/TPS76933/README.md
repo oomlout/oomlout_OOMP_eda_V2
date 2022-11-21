@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76933
 - Hex ID: SZKREGULATORLINEARTPS76933
 - Name: Regulator_Linear : TPS76933
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS76933/
 - Description: Regulator_Linear : TPS76933
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76933](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76933)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS76933](http://oom.lt/SZKREGULATORLINEARTPS76933)

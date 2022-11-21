@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-DIMSG144
 - Hex ID: FZECONAMPDSG144
 - Name: con-amp : DIMSG144
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/DIMSG144/
 - Description: con-amp : DIMSG144
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-DIMSG144](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-DIMSG144)
 - Short Link: [http://oom.lt/FZECONAMPDSG144](http://oom.lt/FZECONAMPDSG144)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-NGSTOPHO
 - Hex ID: FZEOPTOHONEYWELLNGSTOPHO
 - Name: opto-honeywell : NGSTOPHO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-honeywell/NGSTOPHO/
 - Description: opto-honeywell : NGSTOPHO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-NGSTOPHO](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-honeywell-NGSTOPHO)
 - Short Link: [http://oom.lt/FZEOPTOHONEYWELLNGSTOPHO](http://oom.lt/FZEOPTOHONEYWELLNGSTOPHO)

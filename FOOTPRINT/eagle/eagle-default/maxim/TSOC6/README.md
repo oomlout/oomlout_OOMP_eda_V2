@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-TSOC6
 - Hex ID: FZEMAXIMTSOC6
 - Name: maxim : TSOC6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/TSOC6/
 - Description: maxim : TSOC6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TSOC6](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-TSOC6)
 - Short Link: [http://oom.lt/FZEMAXIMTSOC6](http://oom.lt/FZEMAXIMTSOC6)

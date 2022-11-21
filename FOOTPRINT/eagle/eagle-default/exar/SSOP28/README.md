@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-SSOP28
 - Hex ID: FZEEXARSS28
 - Name: exar : SSOP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/SSOP28/
 - Description: exar : SSOP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SSOP28](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SSOP28)
 - Short Link: [http://oom.lt/FZEEXARSS28](http://oom.lt/FZEEXARSS28)

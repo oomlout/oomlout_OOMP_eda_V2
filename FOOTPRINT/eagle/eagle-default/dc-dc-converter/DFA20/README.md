@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-DFA20
 - Hex ID: FZEDCDCCONVERTERDFA2
 - Name: dc-dc-converter : DFA20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/dc-dc-converter/DFA20/
 - Description: dc-dc-converter : DFA20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-DFA20](http://oom.lt/FOOTPRINT-eagle-eagle-default-dc-dc-converter-DFA20)
 - Short Link: [http://oom.lt/FZEDCDCCONVERTERDFA2](http://oom.lt/FZEDCDCCONVERTERDFA2)

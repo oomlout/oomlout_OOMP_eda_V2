@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-photo-elements-VT300
 - Hex ID: FZEPHOTOELEMENTSVT3
 - Name: photo-elements : VT300
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/photo-elements/VT300/
 - Description: photo-elements : VT300
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-VT300](http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-VT300)
 - Short Link: [http://oom.lt/FZEPHOTOELEMENTSVT3](http://oom.lt/FZEPHOTOELEMENTSVT3)

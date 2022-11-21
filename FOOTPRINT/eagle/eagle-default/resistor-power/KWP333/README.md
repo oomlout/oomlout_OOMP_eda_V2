@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-KWP333
 - Hex ID: FZERESISTORPOWERKWP333
 - Name: resistor-power : KWP333
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/KWP333/
 - Description: resistor-power : KWP333
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-KWP333](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-KWP333)
 - Short Link: [http://oom.lt/FZERESISTORPOWERKWP333](http://oom.lt/FZERESISTORPOWERKWP333)

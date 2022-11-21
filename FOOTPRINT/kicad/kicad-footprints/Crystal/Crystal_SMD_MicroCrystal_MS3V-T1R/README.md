@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_MS3V-T1R
 - Hex ID: FZKXXSMMXMS3VT1R
 - Name: Crystal : Crystal_SMD_MicroCrystal_MS3V-T1R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_MS3V-T1R/
 - Description: Crystal : Crystal_SMD_MicroCrystal_MS3V-T1R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_MS3V-T1R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_MS3V-T1R)
 - Short Link: [http://oom.lt/FZKXXSMMXMS3VT1R](http://oom.lt/FZKXXSMMXMS3VT1R)

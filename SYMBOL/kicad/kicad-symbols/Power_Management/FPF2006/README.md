@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-FPF2006
 - Hex ID: SZKPOWERMANAGEMENTFPF26
 - Name: Power_Management : FPF2006
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/FPF2006/
 - Description: Power_Management : FPF2006
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2006](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2006)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTFPF26](http://oom.lt/SZKPOWERMANAGEMENTFPF26)

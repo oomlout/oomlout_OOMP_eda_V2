@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Noval_G
 - Hex ID: FZKVAVANOVALG
 - Name: Valve : Valve_Noval_G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Noval_G/
 - Description: Valve : Valve_Noval_G
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Noval_G](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Noval_G)
 - Short Link: [http://oom.lt/FZKVAVANOVALG](http://oom.lt/FZKVAVANOVALG)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKTPTPLOOPD25DRILL1LOWPROFILE > TestPoint : TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile](#fzktptploopd25drill1lowprofile--testpoint--testpoint_loop_d250mm_drill10mm_lowprofile)
+* [FZKTPTPLOOPD25DRILL1LOWP > TestPoint : TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile](#fzktptploopd25drill1lowp--testpoint--testpoint_loop_d250mm_drill10mm_lowprofile)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTPTPLOOPD25DRILL1LOWPROFILE > TestPoint : TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile
+# FZKTPTPLOOPD25DRILL1LOWP > TestPoint : TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile
-- Hex ID: FZKTPTPLOOPD25DRILL1LOWPROFILE
+- Hex ID: FZKTPTPLOOPD25DRILL1LOWP
 - Name: TestPoint : TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile/
 - Description: TestPoint : TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile)
-- Short Link: [http://oom.lt/FZKTPTPLOOPD25DRILL1LOWPROFILE](http://oom.lt/FZKTPTPLOOPD25DRILL1LOWPROFILE)
+- Short Link: [http://oom.lt/FZKTPTPLOOPD25DRILL1LOWP](http://oom.lt/FZKTPTPLOOPD25DRILL1LOWP)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|TestPoint|
 |OOMP Index|oompIndex|TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile|
-|Hex ID (short code)|hexID|FZKTPTPLOOPD25DRILL1LOWPROFILE|
+|Hex ID (short code)|hexID|FZKTPTPLOOPD25DRILL1LOWP|
 |name|name|TestPoint : TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile'</td><td> 'description'</td></tr><tr><td> 'low profile wire loop as test point</td><td> loop diameter 2.5mm</td><td> hole diameter 1.0mm'</td><td> 'tags'</td></tr><tr><td> 'test point wire loop bead'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/TestPoint.3dshapes/TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

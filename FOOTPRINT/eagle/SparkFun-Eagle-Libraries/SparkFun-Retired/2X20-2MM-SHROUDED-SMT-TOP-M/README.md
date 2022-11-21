@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X20-2MM-SHROUDED-SMT-TOP-M
 - Hex ID: FZSRT2X22SHTOPM
 - Name: SparkFun-Retired : 2X20-2MM-SHROUDED-SMT-TOP-M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/2X20-2MM-SHROUDED-SMT-TOP-M/
 - Description: SparkFun-Retired : 2X20-2MM-SHROUDED-SMT-TOP-M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X20-2MM-SHROUDED-SMT-TOP-M](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X20-2MM-SHROUDED-SMT-TOP-M)
 - Short Link: [http://oom.lt/FZSRT2X22SHTOPM](http://oom.lt/FZSRT2X22SHTOPM)

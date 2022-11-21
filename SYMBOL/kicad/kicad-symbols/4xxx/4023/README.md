@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-4023
 - Hex ID: SZK4XXX423
 - Name: 4xxx : 4023
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx/4023/
 - Description: 4xxx : 4023
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4023](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4023)
 - Short Link: [http://oom.lt/SZK4XXX423](http://oom.lt/SZK4XXX423)

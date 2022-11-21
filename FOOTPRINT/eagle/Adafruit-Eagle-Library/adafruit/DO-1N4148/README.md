@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO-1N4148
 - Hex ID: FZADO1N4148
 - Name: adafruit : DO-1N4148
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/DO-1N4148/
 - Description: adafruit : DO-1N4148
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO-1N4148](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO-1N4148)
 - Short Link: [http://oom.lt/FZADO1N4148](http://oom.lt/FZADO1N4148)

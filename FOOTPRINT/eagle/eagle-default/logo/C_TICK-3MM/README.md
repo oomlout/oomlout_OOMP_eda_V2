@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-C_TICK-3MM
 - Hex ID: FZELCTICK3
 - Name: logo : C_TICK-3MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/C_TICK-3MM/
 - Description: logo : C_TICK-3MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-C_TICK-3MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-C_TICK-3MM)
 - Short Link: [http://oom.lt/FZELCTICK3](http://oom.lt/FZELCTICK3)

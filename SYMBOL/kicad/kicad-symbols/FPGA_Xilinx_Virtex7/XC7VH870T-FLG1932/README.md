@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VH870T-FLG1932
 - Hex ID: SZKFPGAXILINXVIRTEX7XC7VH87TFLG1932
 - Name: FPGA_Xilinx_Virtex7 : XC7VH870T-FLG1932
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VH870T-FLG1932/
 - Description: FPGA_Xilinx_Virtex7 : XC7VH870T-FLG1932
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VH870T-FLG1932](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VH870T-FLG1932)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VH87TFLG1932](http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VH87TFLG1932)

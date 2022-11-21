@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS160
 - Hex ID: SZK74XXIEEE74LS16
 - Name: 74xx_IEEE : 74LS160
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74LS160/
 - Description: 74xx_IEEE : 74LS160
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS160](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS160)
 - Short Link: [http://oom.lt/SZK74XXIEEE74LS16](http://oom.lt/SZK74XXIEEE74LS16)

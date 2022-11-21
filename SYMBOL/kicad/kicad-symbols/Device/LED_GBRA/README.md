@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_GBRA
 - Hex ID: SZKDEVICELGBRA
 - Name: Device : LED_GBRA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_GBRA/
 - Description: Device : LED_GBRA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GBRA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GBRA)
 - Short Link: [http://oom.lt/SZKDEVICELGBRA](http://oom.lt/SZKDEVICELGBRA)

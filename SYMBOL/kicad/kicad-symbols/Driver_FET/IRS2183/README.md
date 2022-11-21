@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2183
 - Hex ID: SZKDRIVERFETIRS2183
 - Name: Driver_FET : IRS2183
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS2183/
 - Description: Driver_FET : IRS2183
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2183](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2183)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS2183](http://oom.lt/SZKDRIVERFETIRS2183)

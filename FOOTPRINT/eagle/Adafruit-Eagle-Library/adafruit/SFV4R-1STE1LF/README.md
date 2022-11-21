@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SFV4R-1STE1LF
 - Hex ID: FZASFV4R1STE1LF
 - Name: adafruit : SFV4R-1STE1LF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SFV4R-1STE1LF/
 - Description: adafruit : SFV4R-1STE1LF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SFV4R-1STE1LF](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SFV4R-1STE1LF)
 - Short Link: [http://oom.lt/FZASFV4R1STE1LF](http://oom.lt/FZASFV4R1STE1LF)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-EP13B
 - Hex ID: FZETRAFOEP13B
 - Name: trafo : EP13B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/EP13B/
 - Description: trafo : EP13B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EP13B](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EP13B)
 - Short Link: [http://oom.lt/FZETRAFOEP13B](http://oom.lt/FZETRAFOEP13B)

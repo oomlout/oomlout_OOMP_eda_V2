@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-CR75
 - Hex ID: FZSCOCR75
 - Name: SparkFun-Coils : CR75
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/CR75/
 - Description: SparkFun-Coils : CR75
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-CR75](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-CR75)
 - Short Link: [http://oom.lt/FZSCOCR75](http://oom.lt/FZSCOCR75)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-4P2C
 - Hex ID: SZKCN4P2C
 - Name: Connector : 4P2C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/4P2C/
 - Description: Connector : 4P2C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-4P2C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-4P2C)
 - Short Link: [http://oom.lt/SZKCN4P2C](http://oom.lt/SZKCN4P2C)

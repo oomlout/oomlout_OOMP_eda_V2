@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM4558
 - Hex ID: SZKAMPLIFIEROPERATIONALNJM4558
 - Name: Amplifier_Operational : NJM4558
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NJM4558/
 - Description: Amplifier_Operational : NJM4558
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM4558](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM4558)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNJM4558](http://oom.lt/SZKAMPLIFIEROPERATIONALNJM4558)

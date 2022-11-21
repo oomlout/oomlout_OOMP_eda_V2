@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F46K22-xPT
 - Hex ID: SZKMCUMCHIPPIC18PIC18F46K22XPT
 - Name: MCU_Microchip_PIC18 : PIC18F46K22-xPT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F46K22-xPT/
 - Description: MCU_Microchip_PIC18 : PIC18F46K22-xPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F46K22-xPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F46K22-xPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F46K22XPT](http://oom.lt/SZKMCUMCHIPPIC18PIC18F46K22XPT)

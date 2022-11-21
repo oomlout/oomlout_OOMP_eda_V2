@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKLSMLRGBCREEPLCC66X5P21 > LED_SMD : LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm](#fzklsmlrgbcreeplcc66x5p21--led_smd--led_rgb_cree-plcc-6_6x5mm_p21mm)
+* [FZKLLRGBCREEPLCC66X5P21 > LED_SMD : LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm](#fzkllrgbcreeplcc66x5p21--led_smd--led_rgb_cree-plcc-6_6x5mm_p21mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLRGBCREEPLCC66X5P21 > LED_SMD : LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm
+# FZKLLRGBCREEPLCC66X5P21 > LED_SMD : LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm
-- Hex ID: FZKLSMLRGBCREEPLCC66X5P21
+- Hex ID: FZKLLRGBCREEPLCC66X5P21
 - Name: LED_SMD : LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm/
 - Description: LED_SMD : LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm)
-- Short Link: [http://oom.lt/FZKLSMLRGBCREEPLCC66X5P21](http://oom.lt/FZKLSMLRGBCREEPLCC66X5P21)
+- Short Link: [http://oom.lt/FZKLLRGBCREEPLCC66X5P21](http://oom.lt/FZKLLRGBCREEPLCC66X5P21)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm|
-|Hex ID (short code)|hexID|FZKLSMLRGBCREEPLCC66X5P21|
+|Hex ID (short code)|hexID|FZKLLRGBCREEPLCC66X5P21|
 |name|name|LED_SMD : LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.farnell.com/datasheets/2003905.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED RGB PLCC-6 CLP6C-FBK'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

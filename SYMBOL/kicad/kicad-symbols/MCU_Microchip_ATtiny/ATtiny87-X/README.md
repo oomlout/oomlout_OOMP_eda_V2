@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny87-X
 - Hex ID: SZKMCUMCHIPATTINYATTINY87X
 - Name: MCU_Microchip_ATtiny : ATtiny87-X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny87-X/
 - Description: MCU_Microchip_ATtiny : ATtiny87-X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny87-X](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny87-X)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY87X](http://oom.lt/SZKMCUMCHIPATTINYATTINY87X)

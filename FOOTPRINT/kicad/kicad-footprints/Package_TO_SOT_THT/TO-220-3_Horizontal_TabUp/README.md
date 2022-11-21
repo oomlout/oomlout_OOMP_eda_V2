@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOTTO223HORIZONTALTABUP > Package_TO_SOT_THT : TO-220-3_Horizontal_TabUp](#fzksotto223horizontaltabup--package_to_sot_tht--to-220-3_horizontal_tabup)
+* [FZKSOTTO223HTABUP > Package_TO_SOT_THT : TO-220-3_Horizontal_TabUp](#fzksotto223htabup--package_to_sot_tht--to-220-3_horizontal_tabup)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTTO223HORIZONTALTABUP > Package_TO_SOT_THT : TO-220-3_Horizontal_TabUp
+# FZKSOTTO223HTABUP > Package_TO_SOT_THT : TO-220-3_Horizontal_TabUp
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Horizontal_TabUp
-- Hex ID: FZKSOTTO223HORIZONTALTABUP
+- Hex ID: FZKSOTTO223HTABUP
 - Name: Package_TO_SOT_THT : TO-220-3_Horizontal_TabUp
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-3_Horizontal_TabUp/
 - Description: Package_TO_SOT_THT : TO-220-3_Horizontal_TabUp
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Horizontal_TabUp](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Horizontal_TabUp)
-- Short Link: [http://oom.lt/FZKSOTTO223HORIZONTALTABUP](http://oom.lt/FZKSOTTO223HORIZONTALTABUP)
+- Short Link: [http://oom.lt/FZKSOTTO223HTABUP](http://oom.lt/FZKSOTTO223HTABUP)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_THT|
 |OOMP Index|oompIndex|TO-220-3_Horizontal_TabUp|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Horizontal_TabUp|
-|Hex ID (short code)|hexID|FZKSOTTO223HORIZONTALTABUP|
+|Hex ID (short code)|hexID|FZKSOTTO223HTABUP|
 |name|name|Package_TO_SOT_THT : TO-220-3_Horizontal_TabUp|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-220-3_Horizontal_TabUp'</td><td> 'description'</td></tr><tr><td> 'TO-220-3</td><td> Horizontal</td><td> RM 2.54mm</td><td> see https</td></tr><tr><td>//www.vishay.com/docs/66542/to-220-1.pdf'</td><td> 'tags'</td></tr><tr><td> 'TO-220-3 Horizontal RM 2.54mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-220-3_Horizontal_TabUp.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-MO022-20
 - Hex ID: FZESMIPCMO222
 - Name: smd-ipc : MO022-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/MO022-20/
 - Description: smd-ipc : MO022-20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-MO022-20](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-MO022-20)
 - Short Link: [http://oom.lt/FZESMIPCMO222](http://oom.lt/FZESMIPCMO222)

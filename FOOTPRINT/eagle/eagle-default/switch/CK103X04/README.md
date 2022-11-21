@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHCK13X4 > switch : CK103X04](#fzeswitchck13x4--switch--ck103x04)
+* [FZESWCK13X4 > switch : CK103X04](#fzeswck13x4--switch--ck103x04)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHCK13X4 > switch : CK103X04
+# FZESWCK13X4 > switch : CK103X04
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-CK103X04
-- Hex ID: FZESWITCHCK13X4
+- Hex ID: FZESWCK13X4
 - Name: switch : CK103X04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/CK103X04/
 - Description: switch : CK103X04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-CK103X04](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-CK103X04)
-- Short Link: [http://oom.lt/FZESWITCHCK13X4](http://oom.lt/FZESWITCHCK13X4)
+- Short Link: [http://oom.lt/FZESWCK13X4](http://oom.lt/FZESWCK13X4)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|CK103X04|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-CK103X04|
-|Hex ID (short code)|hexID|FZESWITCHCK13X4|
+|Hex ID (short code)|hexID|FZESWCK13X4|
 |name|name|switch : CK103X04|
 ||||

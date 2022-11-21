@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBB33 > oobbOutlines : OOBB-03-03](#fzkicadoomloutoompkicadoobboutlinesoobb33--oobboutlines--oobb-03-03)
+* [FZOOMPKOOBBOOBB33 > oobbOutlines : OOBB-03-03](#fzoompkoobboobb33--oobboutlines--oobb-03-03)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBB33 > oobbOutlines : OOBB-03-03
+# FZOOMPKOOBBOOBB33 > oobbOutlines : OOBB-03-03
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-03-03
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBB33
+- Hex ID: FZOOMPKOOBBOOBB33
 - Name: oobbOutlines : OOBB-03-03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oobbOutlines/OOBB-03-03/
 - Description: oobbOutlines : OOBB-03-03
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-03-03](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-03-03)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBB33](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBB33)
+- Short Link: [http://oom.lt/FZOOMPKOOBBOOBB33](http://oom.lt/FZOOMPKOOBBOOBB33)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oobbOutlines|
 |OOMP Index|oompIndex|OOBB-03-03|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-03-03|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBB33|
+|Hex ID (short code)|hexID|FZOOMPKOOBBOOBB33|
 |name|name|oobbOutlines : OOBB-03-03|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'OOBB-03-03'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

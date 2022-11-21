@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9536PC44
 - Hex ID: SZKCPLDXILINXXC9536PC44
 - Name: CPLD_Xilinx : XC9536PC44
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC9536PC44/
 - Description: CPLD_Xilinx : XC9536PC44
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9536PC44](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9536PC44)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC9536PC44](http://oom.lt/SZKCPLDXILINXXC9536PC44)

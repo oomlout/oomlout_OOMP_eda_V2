@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rohm-SOP8
 - Hex ID: FZEROHMS8
 - Name: rohm : SOP8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rohm/SOP8/
 - Description: rohm : SOP8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rohm-SOP8](http://oom.lt/FOOTPRINT-eagle-eagle-default-rohm-SOP8)
 - Short Link: [http://oom.lt/FZEROHMS8](http://oom.lt/FZEROHMS8)

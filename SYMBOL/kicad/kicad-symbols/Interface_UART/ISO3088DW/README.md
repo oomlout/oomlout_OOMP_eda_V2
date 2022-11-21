@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ISO3088DW
 - Hex ID: SZKINTERFACEUARTISO388DW
 - Name: Interface_UART : ISO3088DW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ISO3088DW/
 - Description: Interface_UART : ISO3088DW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISO3088DW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISO3088DW)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTISO388DW](http://oom.lt/SZKINTERFACEUARTISO388DW)

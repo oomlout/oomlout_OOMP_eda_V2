@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS74401_VQFN
 - Hex ID: SZKREGULATORLINEARTPS7441VQFN
 - Name: Regulator_Linear : TPS74401_VQFN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS74401_VQFN/
 - Description: Regulator_Linear : TPS74401_VQFN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS74401_VQFN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS74401_VQFN)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7441VQFN](http://oom.lt/SZKREGULATORLINEARTPS7441VQFN)

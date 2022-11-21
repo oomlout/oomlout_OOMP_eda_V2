@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-MINI-FLAT-4
 - Hex ID: FZEOPTOCOUPLERMFLAT4
 - Name: optocoupler : MINI-FLAT-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/MINI-FLAT-4/
 - Description: optocoupler : MINI-FLAT-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-MINI-FLAT-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-MINI-FLAT-4)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERMFLAT4](http://oom.lt/FZEOPTOCOUPLERMFLAT4)

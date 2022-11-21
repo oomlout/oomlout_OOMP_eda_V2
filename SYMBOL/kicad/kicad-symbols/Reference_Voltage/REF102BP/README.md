@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102BP
 - Hex ID: SZKREFERENCEVOLTAGEREF12BP
 - Name: Reference_Voltage : REF102BP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF102BP/
 - Description: Reference_Voltage : REF102BP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102BP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102BP)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF12BP](http://oom.lt/SZKREFERENCEVOLTAGEREF12BP)

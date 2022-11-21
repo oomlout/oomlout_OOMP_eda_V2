@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC6578xRGE
 - Hex ID: SZKANALOGDACDAC6578XRGE
 - Name: Analog_DAC : DAC6578xRGE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC6578xRGE/
 - Description: Analog_DAC : DAC6578xRGE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC6578xRGE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC6578xRGE)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC6578XRGE](http://oom.lt/SZKANALOGDACDAC6578XRGE)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-DIL32
 - Hex ID: FZEMAXIMDIL32
 - Name: maxim : DIL32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/DIL32/
 - Description: maxim : DIL32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-DIL32](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-DIL32)
 - Short Link: [http://oom.lt/FZEMAXIMDIL32](http://oom.lt/FZEMAXIMDIL32)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESRQFP34 > ref-packages : RQFP304](#fzerefpackagesrqfp34--ref-packages--rqfp304)
+* [FZEREFPSRQFP34 > ref-packages : RQFP304](#fzerefpsrqfp34--ref-packages--rqfp304)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESRQFP34 > ref-packages : RQFP304
+# FZEREFPSRQFP34 > ref-packages : RQFP304
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-RQFP304
-- Hex ID: FZEREFPACKAGESRQFP34
+- Hex ID: FZEREFPSRQFP34
 - Name: ref-packages : RQFP304
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/RQFP304/
 - Description: ref-packages : RQFP304
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RQFP304](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RQFP304)
-- Short Link: [http://oom.lt/FZEREFPACKAGESRQFP34](http://oom.lt/FZEREFPACKAGESRQFP34)
+- Short Link: [http://oom.lt/FZEREFPSRQFP34](http://oom.lt/FZEREFPSRQFP34)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|RQFP304|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-RQFP304|
-|Hex ID (short code)|hexID|FZEREFPACKAGESRQFP34|
+|Hex ID (short code)|hexID|FZEREFPSRQFP34|
 |name|name|ref-packages : RQFP304|
 ||||

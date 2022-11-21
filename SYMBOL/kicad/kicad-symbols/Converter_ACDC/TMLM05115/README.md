@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM05115
 - Hex ID: SZKCONTMLM5115
 - Name: Converter_ACDC : TMLM05115
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/TMLM05115/
 - Description: Converter_ACDC : TMLM05115
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM05115](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM05115)
 - Short Link: [http://oom.lt/SZKCONTMLM5115](http://oom.lt/SZKCONTMLM5115)

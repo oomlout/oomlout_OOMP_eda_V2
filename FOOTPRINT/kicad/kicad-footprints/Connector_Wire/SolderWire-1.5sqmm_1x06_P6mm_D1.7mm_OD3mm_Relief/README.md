@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNWIRESOLDERWIRE15SQ1X6P6D17OD3RELIEF > Connector_Wire : SolderWire-1.5sqmm_1x06_P6mm_D1.7mm_OD3mm_Relief](#fzkcnwiresolderwire15sq1x6p6d17od3relief--connector_wire--solderwire-15sqmm_1x06_p6mm_d17mm_od3mm_relief)
+* [FZKCNWSOLDERW15SQ1X6P6D17OD3RELIEF > Connector_Wire : SolderWire-1.5sqmm_1x06_P6mm_D1.7mm_OD3mm_Relief](#fzkcnwsolderw15sq1x6p6d17od3relief--connector_wire--solderwire-15sqmm_1x06_p6mm_d17mm_od3mm_relief)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNWIRESOLDERWIRE15SQ1X6P6D17OD3RELIEF > Connector_Wire : SolderWire-1.5sqmm_1x06_P6mm_D1.7mm_OD3mm_Relief
+# FZKCNWSOLDERW15SQ1X6P6D17OD3RELIEF > Connector_Wire : SolderWire-1.5sqmm_1x06_P6mm_D1.7mm_OD3mm_Relief
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-1.5sqmm_1x06_P6mm_D1.7mm_OD3mm_Relief
-- Hex ID: FZKCNWIRESOLDERWIRE15SQ1X6P6D17OD3RELIEF
+- Hex ID: FZKCNWSOLDERW15SQ1X6P6D17OD3RELIEF
 - Name: Connector_Wire : SolderWire-1.5sqmm_1x06_P6mm_D1.7mm_OD3mm_Relief
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x06_P6mm_D1.7mm_OD3mm_Relief/
 - Description: Connector_Wire : SolderWire-1.5sqmm_1x06_P6mm_D1.7mm_OD3mm_Relief
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-1.5sqmm_1x06_P6mm_D1.7mm_OD3mm_Relief](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-1.5sqmm_1x06_P6mm_D1.7mm_OD3mm_Relief)
-- Short Link: [http://oom.lt/FZKCNWIRESOLDERWIRE15SQ1X6P6D17OD3RELIEF](http://oom.lt/FZKCNWIRESOLDERWIRE15SQ1X6P6D17OD3RELIEF)
+- Short Link: [http://oom.lt/FZKCNWSOLDERW15SQ1X6P6D17OD3RELIEF](http://oom.lt/FZKCNWSOLDERW15SQ1X6P6D17OD3RELIEF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Wire|
 |OOMP Index|oompIndex|SolderWire-1.5sqmm_1x06_P6mm_D1.7mm_OD3mm_Relief|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-1.5sqmm_1x06_P6mm_D1.7mm_OD3mm_Relief|
-|Hex ID (short code)|hexID|FZKCNWIRESOLDERWIRE15SQ1X6P6D17OD3RELIEF|
+|Hex ID (short code)|hexID|FZKCNWSOLDERW15SQ1X6P6D17OD3RELIEF|
 |name|name|Connector_Wire : SolderWire-1.5sqmm_1x06_P6mm_D1.7mm_OD3mm_Relief|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SolderWire-1.5sqmm_1x06_P6mm_D1.7mm_OD3mm_Relief'</td><td> 'description'</td></tr><tr><td> 'Soldered wire connection with feed through strain relief</td><td> for 6 times 1.5 mmÂ² wires</td><td> basic insulation</td><td> conductor diameter 1.7mm</td><td> outer diameter 3mm</td><td> size source Multi-Contact FLEXI-E 1.5 (https</td></tr><tr><td>//ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf)</td><td> bend radius 3 times outer diameter</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector wire 1.5sqmm strain-relief'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Wire.3dshapes/SolderWire-1.5sqmm_1x06_P6mm_D1.7mm_OD3mm_Relief.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

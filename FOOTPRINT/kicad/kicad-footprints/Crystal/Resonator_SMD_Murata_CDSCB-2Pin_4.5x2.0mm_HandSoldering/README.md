@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXRSCDSCB2PIN45X2HANDSOLDERING > Crystal : Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering](#fzkxrscdscb2pin45x2handsoldering--crystal--resonator_smd_murata_cdscb-2pin_45x20mm_handsoldering)
+* [FZKXRSCDSCB2P45X2HS > Crystal : Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering](#fzkxrscdscb2p45x2hs--crystal--resonator_smd_murata_cdscb-2pin_45x20mm_handsoldering)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXRSCDSCB2PIN45X2HANDSOLDERING > Crystal : Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering
+# FZKXRSCDSCB2P45X2HS > Crystal : Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering
-- Hex ID: FZKXRSCDSCB2PIN45X2HANDSOLDERING
+- Hex ID: FZKXRSCDSCB2P45X2HS
 - Name: Crystal : Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering/
 - Description: Crystal : Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering)
-- Short Link: [http://oom.lt/FZKXRSCDSCB2PIN45X2HANDSOLDERING](http://oom.lt/FZKXRSCDSCB2PIN45X2HANDSOLDERING)
+- Short Link: [http://oom.lt/FZKXRSCDSCB2P45X2HS](http://oom.lt/FZKXRSCDSCB2P45X2HS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering|
-|Hex ID (short code)|hexID|FZKXRSCDSCB2PIN45X2HANDSOLDERING|
+|Hex ID (short code)|hexID|FZKXRSCDSCB2P45X2HS|
 |name|name|Crystal : Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'SMD Resomator/Filter Murata CDSCB</td><td> http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf</td><td> hand-soldering</td><td> 4.5x2.0mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT ceramic resonator filter filter hand-soldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

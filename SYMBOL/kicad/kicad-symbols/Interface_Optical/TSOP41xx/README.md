@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP41xx
 - Hex ID: SZKINTERFACEOPTICALTS41XX
 - Name: Interface_Optical : TSOP41xx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSOP41xx/
 - Description: Interface_Optical : TSOP41xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP41xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP41xx)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTS41XX](http://oom.lt/SZKINTERFACEOPTICALTS41XX)

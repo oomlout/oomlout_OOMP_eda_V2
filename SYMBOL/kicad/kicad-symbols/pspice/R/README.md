@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-pspice-R
 - Hex ID: SZKPSPICER
 - Name: pspice : R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/pspice/R/
 - Description: pspice : R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-R](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-R)
 - Short Link: [http://oom.lt/SZKPSPICER](http://oom.lt/SZKPSPICER)

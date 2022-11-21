@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Opamp_Quad
 - Hex ID: SZKDEVICEOPAMPQUAD
 - Name: Device : Opamp_Quad
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Opamp_Quad/
 - Description: Device : Opamp_Quad
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Opamp_Quad](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Opamp_Quad)
 - Short Link: [http://oom.lt/SZKDEVICEOPAMPQUAD](http://oom.lt/SZKDEVICEOPAMPQUAD)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO202CH
 - Hex ID: FZETRANSISTORPOWERTO22CH
 - Name: transistor-power : TO202CH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO202CH/
 - Description: transistor-power : TO202CH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO202CH](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO202CH)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO22CH](http://oom.lt/FZETRANSISTORPOWERTO22CH)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSOICW32 > ref-packages : SOICW32](#fzerefpackagessoicw32--ref-packages--soicw32)
+* [FZEREFPSSOICW32 > ref-packages : SOICW32](#fzerefpssoicw32--ref-packages--soicw32)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSOICW32 > ref-packages : SOICW32
+# FZEREFPSSOICW32 > ref-packages : SOICW32
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOICW32
-- Hex ID: FZEREFPACKAGESSOICW32
+- Hex ID: FZEREFPSSOICW32
 - Name: ref-packages : SOICW32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SOICW32/
 - Description: ref-packages : SOICW32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOICW32](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOICW32)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSOICW32](http://oom.lt/FZEREFPACKAGESSOICW32)
+- Short Link: [http://oom.lt/FZEREFPSSOICW32](http://oom.lt/FZEREFPSSOICW32)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SOICW32|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SOICW32|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSOICW32|
+|Hex ID (short code)|hexID|FZEREFPSSOICW32|
 |name|name|ref-packages : SOICW32|
 ||||

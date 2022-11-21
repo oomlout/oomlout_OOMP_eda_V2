@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINO
 - Hex ID: FZAARD
 - Name: adafruit : ARDUINO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ARDUINO/
 - Description: adafruit : ARDUINO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINO](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINO)
 - Short Link: [http://oom.lt/FZAARD](http://oom.lt/FZAARD)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-SM72295MA
 - Hex ID: SZKDRIVERFETSM72295MA
 - Name: Driver_FET : SM72295MA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/SM72295MA/
 - Description: Driver_FET : SM72295MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-SM72295MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-SM72295MA)
 - Short Link: [http://oom.lt/SZKDRIVERFETSM72295MA](http://oom.lt/SZKDRIVERFETSM72295MA)

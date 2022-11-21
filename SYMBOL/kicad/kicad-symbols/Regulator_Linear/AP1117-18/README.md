@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP1117-18
 - Hex ID: SZKREGULATORLINEARAP111718
 - Name: Regulator_Linear : AP1117-18
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP1117-18/
 - Description: Regulator_Linear : AP1117-18
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP1117-18](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP1117-18)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP111718](http://oom.lt/SZKREGULATORLINEARAP111718)

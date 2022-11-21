@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_BelFuse_0ZRE0200FF_L24.9mm_W6.1mm
 - Hex ID: FZKFUFUBELFUZRE2FFL249W61
 - Name: Fuse : Fuse_BelFuse_0ZRE0200FF_L24.9mm_W6.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0200FF_L24.9mm_W6.1mm/
 - Description: Fuse : Fuse_BelFuse_0ZRE0200FF_L24.9mm_W6.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_BelFuse_0ZRE0200FF_L24.9mm_W6.1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_BelFuse_0ZRE0200FF_L24.9mm_W6.1mm)
 - Short Link: [http://oom.lt/FZKFUFUBELFUZRE2FFL249W61](http://oom.lt/FZKFUFUBELFUZRE2FFL249W61)

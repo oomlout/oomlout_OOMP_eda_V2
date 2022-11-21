@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-Z8530
 - Hex ID: SZKINTERFACEUARTZ853
 - Name: Interface_UART : Z8530
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/Z8530/
 - Description: Interface_UART : Z8530
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-Z8530](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-Z8530)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTZ853](http://oom.lt/SZKINTERFACEUARTZ853)

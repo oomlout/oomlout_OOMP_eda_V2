@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-SFH9300
 - Hex ID: FZEOPTOCOUPLERSFH93
 - Name: optocoupler : SFH9300
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/SFH9300/
 - Description: optocoupler : SFH9300
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SFH9300](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SFH9300)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERSFH93](http://oom.lt/FZEOPTOCOUPLERSFH93)

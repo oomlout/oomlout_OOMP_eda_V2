@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-8
 - Hex ID: SZKCNMDIN8
 - Name: Connector : Mini-DIN-8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Mini-DIN-8/
 - Description: Connector : Mini-DIN-8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-8)
 - Short Link: [http://oom.lt/SZKCNMDIN8](http://oom.lt/SZKCNMDIN8)

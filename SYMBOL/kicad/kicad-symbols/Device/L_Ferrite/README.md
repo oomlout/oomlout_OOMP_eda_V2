@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-L_Ferrite
 - Hex ID: SZKDEVICELFERRITE
 - Name: Device : L_Ferrite
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/L_Ferrite/
 - Description: Device : L_Ferrite
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Ferrite](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Ferrite)
 - Short Link: [http://oom.lt/SZKDEVICELFERRITE](http://oom.lt/SZKDEVICELFERRITE)

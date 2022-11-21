@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-VQ100
 - Hex ID: FZEXILINXXCVVQ1
 - Name: xilinx-xcv : VQ100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/VQ100/
 - Description: xilinx-xcv : VQ100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-VQ100](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-VQ100)
 - Short Link: [http://oom.lt/FZEXILINXXCVVQ1](http://oom.lt/FZEXILINXXCVVQ1)

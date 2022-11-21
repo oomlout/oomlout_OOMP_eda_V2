@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trimble-TRIMBLE-LOGO
 - Hex ID: FZETRIMBLETRIMBLEL
 - Name: trimble : TRIMBLE-LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trimble/TRIMBLE-LOGO/
 - Description: trimble : TRIMBLE-LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trimble-TRIMBLE-LOGO](http://oom.lt/FOOTPRINT-eagle-eagle-default-trimble-TRIMBLE-LOGO)
 - Short Link: [http://oom.lt/FZETRIMBLETRIMBLEL](http://oom.lt/FZETRIMBLETRIMBLEL)

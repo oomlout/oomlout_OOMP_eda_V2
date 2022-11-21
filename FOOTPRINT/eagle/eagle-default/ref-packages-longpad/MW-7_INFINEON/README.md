@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADMW7INFINEON > ref-packages-longpad : MW-7_INFINEON](#fzerefpackageslongpadmw7infineon--ref-packages-longpad--mw-7_infineon)
+* [FZEREFPSLPMW7INFINEON > ref-packages-longpad : MW-7_INFINEON](#fzerefpslpmw7infineon--ref-packages-longpad--mw-7_infineon)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADMW7INFINEON > ref-packages-longpad : MW-7_INFINEON
+# FZEREFPSLPMW7INFINEON > ref-packages-longpad : MW-7_INFINEON
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-MW-7_INFINEON
-- Hex ID: FZEREFPACKAGESLONGPADMW7INFINEON
+- Hex ID: FZEREFPSLPMW7INFINEON
 - Name: ref-packages-longpad : MW-7_INFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/MW-7_INFINEON/
 - Description: ref-packages-longpad : MW-7_INFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-MW-7_INFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-MW-7_INFINEON)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADMW7INFINEON](http://oom.lt/FZEREFPACKAGESLONGPADMW7INFINEON)
+- Short Link: [http://oom.lt/FZEREFPSLPMW7INFINEON](http://oom.lt/FZEREFPSLPMW7INFINEON)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|MW-7_INFINEON|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-MW-7_INFINEON|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADMW7INFINEON|
+|Hex ID (short code)|hexID|FZEREFPSLPMW7INFINEON|
 |name|name|ref-packages-longpad : MW-7_INFINEON|
 ||||

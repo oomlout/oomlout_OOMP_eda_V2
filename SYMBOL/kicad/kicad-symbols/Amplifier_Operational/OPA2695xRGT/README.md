@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2695xRGT
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA2695XRGT
 - Name: Amplifier_Operational : OPA2695xRGT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2695xRGT/
 - Description: Amplifier_Operational : OPA2695xRGT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2695xRGT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2695xRGT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2695XRGT](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2695XRGT)

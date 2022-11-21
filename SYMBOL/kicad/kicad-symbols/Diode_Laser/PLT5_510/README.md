@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Laser-PLT5_510
 - Hex ID: SZKDIODELASERPLT551
 - Name: Diode_Laser : PLT5_510
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Laser/PLT5_510/
 - Description: Diode_Laser : PLT5_510
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-PLT5_510](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-PLT5_510)
 - Short Link: [http://oom.lt/SZKDIODELASERPLT551](http://oom.lt/SZKDIODELASERPLT551)

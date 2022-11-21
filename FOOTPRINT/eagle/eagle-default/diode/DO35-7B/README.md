@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO35-7B
 - Hex ID: FZEDIODEDO357B
 - Name: diode : DO35-7B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/DO35-7B/
 - Description: diode : DO35-7B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO35-7B](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO35-7B)
 - Short Link: [http://oom.lt/FZEDIODEDO357B](http://oom.lt/FZEDIODEDO357B)

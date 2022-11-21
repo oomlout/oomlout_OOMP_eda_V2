@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-KCSC02-136
 - Hex ID: FZKDI7SKCSC2136
 - Name: Display_7Segment : KCSC02-136
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/KCSC02-136/
 - Description: Display_7Segment : KCSC02-136
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-KCSC02-136](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-KCSC02-136)
 - Short Link: [http://oom.lt/FZKDI7SKCSC2136](http://oom.lt/FZKDI7SKCSC2136)

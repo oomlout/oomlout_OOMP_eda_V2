@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKLSMLDIALIGHT591 > LED_SMD : LED_Dialight_591](#fzklsmldialight591--led_smd--led_dialight_591)
+* [FZKLLDIALIGHT591 > LED_SMD : LED_Dialight_591](#fzklldialight591--led_smd--led_dialight_591)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLDIALIGHT591 > LED_SMD : LED_Dialight_591
+# FZKLLDIALIGHT591 > LED_SMD : LED_Dialight_591
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Dialight_591
-- Hex ID: FZKLSMLDIALIGHT591
+- Hex ID: FZKLLDIALIGHT591
 - Name: LED_SMD : LED_Dialight_591
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Dialight_591/
 - Description: LED_SMD : LED_Dialight_591
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Dialight_591](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Dialight_591)
-- Short Link: [http://oom.lt/FZKLSMLDIALIGHT591](http://oom.lt/FZKLSMLDIALIGHT591)
+- Short Link: [http://oom.lt/FZKLLDIALIGHT591](http://oom.lt/FZKLLDIALIGHT591)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_Dialight_591|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Dialight_591|
-|Hex ID (short code)|hexID|FZKLSMLDIALIGHT591|
+|Hex ID (short code)|hexID|FZKLLDIALIGHT591|
 |name|name|LED_SMD : LED_Dialight_591|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Dialight_591'</td><td> 'description'</td></tr><tr><td> 'LED SMD 3mm Right Angle series (http</td></tr><tr><td>//www.dialightsignalsandcomponents.com/Assets/Drawings/2D_Drawings_DrawingDetailedSpec/C17354.pdf)'</td><td> 'tags'</td></tr><tr><td> 'LED Dialight 591'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Dialight_591.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

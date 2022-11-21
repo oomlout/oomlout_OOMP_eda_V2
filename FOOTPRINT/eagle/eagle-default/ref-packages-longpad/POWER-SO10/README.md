@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADPOWERSO1 > ref-packages-longpad : POWER-SO10](#fzerefpackageslongpadpowerso1--ref-packages-longpad--power-so10)
+* [FZEREFPSLPPOWERSO1 > ref-packages-longpad : POWER-SO10](#fzerefpslppowerso1--ref-packages-longpad--power-so10)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADPOWERSO1 > ref-packages-longpad : POWER-SO10
+# FZEREFPSLPPOWERSO1 > ref-packages-longpad : POWER-SO10
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-POWER-SO10
-- Hex ID: FZEREFPACKAGESLONGPADPOWERSO1
+- Hex ID: FZEREFPSLPPOWERSO1
 - Name: ref-packages-longpad : POWER-SO10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/POWER-SO10/
 - Description: ref-packages-longpad : POWER-SO10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-POWER-SO10](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-POWER-SO10)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADPOWERSO1](http://oom.lt/FZEREFPACKAGESLONGPADPOWERSO1)
+- Short Link: [http://oom.lt/FZEREFPSLPPOWERSO1](http://oom.lt/FZEREFPSLPPOWERSO1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|POWER-SO10|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-POWER-SO10|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADPOWERSO1|
+|Hex ID (short code)|hexID|FZEREFPSLPPOWERSO1|
 |name|name|ref-packages-longpad : POWER-SO10|
 ||||

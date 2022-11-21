@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-M3516
 - Hex ID: FZERCLM3516
 - Name: rcl : M3516
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/M3516/
 - Description: rcl : M3516
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-M3516](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-M3516)
 - Short Link: [http://oom.lt/FZERCLM3516](http://oom.lt/FZERCLM3516)

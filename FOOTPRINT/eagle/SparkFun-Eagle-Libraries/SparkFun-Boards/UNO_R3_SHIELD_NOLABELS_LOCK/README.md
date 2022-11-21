@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-UNO_R3_SHIELD_NOLABELS_LOCK
 - Hex ID: FZSBOUNOR3SHNOLABELSL
 - Name: SparkFun-Boards : UNO_R3_SHIELD_NOLABELS_LOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/UNO_R3_SHIELD_NOLABELS_LOCK/
 - Description: SparkFun-Boards : UNO_R3_SHIELD_NOLABELS_LOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-UNO_R3_SHIELD_NOLABELS_LOCK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-UNO_R3_SHIELD_NOLABELS_LOCK)
 - Short Link: [http://oom.lt/FZSBOUNOR3SHNOLABELSL](http://oom.lt/FZSBOUNOR3SHNOLABELSL)

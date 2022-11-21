@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3620A
 - Hex ID: FZKDI7SMAN362A
 - Name: Display_7Segment : MAN3620A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN3620A/
 - Description: Display_7Segment : MAN3620A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3620A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3620A)
 - Short Link: [http://oom.lt/FZKDI7SMAN362A](http://oom.lt/FZKDI7SMAN362A)

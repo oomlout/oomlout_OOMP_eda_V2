@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-0402-CAP
 - Hex ID: FZSRT42CAP
 - Name: SparkFun-Retired : 0402-CAP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/0402-CAP/
 - Description: SparkFun-Retired : 0402-CAP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-0402-CAP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-0402-CAP)
 - Short Link: [http://oom.lt/FZSRT42CAP](http://oom.lt/FZSRT42CAP)

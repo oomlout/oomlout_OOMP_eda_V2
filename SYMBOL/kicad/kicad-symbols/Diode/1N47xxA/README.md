@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N47xxA
 - Hex ID: SZKDIODE1N47XXA
 - Name: Diode : 1N47xxA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N47xxA/
 - Description: Diode : 1N47xxA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N47xxA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N47xxA)
 - Short Link: [http://oom.lt/SZKDIODE1N47XXA](http://oom.lt/SZKDIODE1N47XXA)

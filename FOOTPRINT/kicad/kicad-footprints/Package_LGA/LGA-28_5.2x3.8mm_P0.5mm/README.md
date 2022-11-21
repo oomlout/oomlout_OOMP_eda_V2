@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-28_5.2x3.8mm_P0.5mm
 - Hex ID: FZKLGALGA2852X38P5
 - Name: Package_LGA : LGA-28_5.2x3.8mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-28_5.2x3.8mm_P0.5mm/
 - Description: Package_LGA : LGA-28_5.2x3.8mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-28_5.2x3.8mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-28_5.2x3.8mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKLGALGA2852X38P5](http://oom.lt/FZKLGALGA2852X38P5)

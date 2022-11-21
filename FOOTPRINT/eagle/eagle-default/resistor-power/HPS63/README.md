@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-HPS63
 - Hex ID: FZERESISTORPOWERHPS63
 - Name: resistor-power : HPS63
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/HPS63/
 - Description: resistor-power : HPS63
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-HPS63](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-HPS63)
 - Short Link: [http://oom.lt/FZERESISTORPOWERHPS63](http://oom.lt/FZERESISTORPOWERHPS63)

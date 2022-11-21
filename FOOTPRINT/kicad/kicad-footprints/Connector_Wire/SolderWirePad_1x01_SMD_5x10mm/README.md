@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNWIRESOLDERWIREPAD1X1SM5X1 > Connector_Wire : SolderWirePad_1x01_SMD_5x10mm](#fzkcnwiresolderwirepad1x1sm5x1--connector_wire--solderwirepad_1x01_smd_5x10mm)
+* [FZKCNWSOLDERWP1X1SM5X1 > Connector_Wire : SolderWirePad_1x01_SMD_5x10mm](#fzkcnwsolderwp1x1sm5x1--connector_wire--solderwirepad_1x01_smd_5x10mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNWIRESOLDERWIREPAD1X1SM5X1 > Connector_Wire : SolderWirePad_1x01_SMD_5x10mm
+# FZKCNWSOLDERWP1X1SM5X1 > Connector_Wire : SolderWirePad_1x01_SMD_5x10mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWirePad_1x01_SMD_5x10mm
-- Hex ID: FZKCNWIRESOLDERWIREPAD1X1SM5X1
+- Hex ID: FZKCNWSOLDERWP1X1SM5X1
 - Name: Connector_Wire : SolderWirePad_1x01_SMD_5x10mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWirePad_1x01_SMD_5x10mm/
 - Description: Connector_Wire : SolderWirePad_1x01_SMD_5x10mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWirePad_1x01_SMD_5x10mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWirePad_1x01_SMD_5x10mm)
-- Short Link: [http://oom.lt/FZKCNWIRESOLDERWIREPAD1X1SM5X1](http://oom.lt/FZKCNWIRESOLDERWIREPAD1X1SM5X1)
+- Short Link: [http://oom.lt/FZKCNWSOLDERWP1X1SM5X1](http://oom.lt/FZKCNWSOLDERWP1X1SM5X1)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Wire|
 |OOMP Index|oompIndex|SolderWirePad_1x01_SMD_5x10mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWirePad_1x01_SMD_5x10mm|
-|Hex ID (short code)|hexID|FZKCNWIRESOLDERWIREPAD1X1SM5X1|
+|Hex ID (short code)|hexID|FZKCNWSOLDERWP1X1SM5X1|
 |name|name|Connector_Wire : SolderWirePad_1x01_SMD_5x10mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SolderWirePad_1x01_SMD_5x10mm'</td><td> 'description'</td></tr><tr><td> 'Wire Pad</td><td> Square</td><td> SMD Pad</td><td>  5mm x 10mm</td><td>'</td><td> 'tags'</td></tr><tr><td> 'MesurementPoint Square SMDPad 5mmx10mm '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

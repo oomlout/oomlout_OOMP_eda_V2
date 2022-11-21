@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ18
 - Hex ID: SZKCNRJ18
 - Name: Connector : RJ18
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ18/
 - Description: Connector : RJ18
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ18](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ18)
 - Short Link: [http://oom.lt/SZKCNRJ18](http://oom.lt/SZKCNRJ18)

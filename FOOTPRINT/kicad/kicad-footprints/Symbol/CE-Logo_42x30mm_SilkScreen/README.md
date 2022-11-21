@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-CE-Logo_42x30mm_SilkScreen
 - Hex ID: FZKSZCEL42X3SILKSCREEN
 - Name: Symbol : CE-Logo_42x30mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/CE-Logo_42x30mm_SilkScreen/
 - Description: Symbol : CE-Logo_42x30mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-CE-Logo_42x30mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-CE-Logo_42x30mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZCEL42X3SILKSCREEN](http://oom.lt/FZKSZCEL42X3SILKSCREEN)

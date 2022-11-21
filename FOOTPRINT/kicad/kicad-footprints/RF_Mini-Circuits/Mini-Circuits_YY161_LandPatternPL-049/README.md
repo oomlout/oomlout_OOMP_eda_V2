@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_YY161_LandPatternPL-049
 - Hex ID: FZKRFMCIRCUITSYY161LANDPATTERNPL49
 - Name: RF_Mini-Circuits : Mini-Circuits_YY161_LandPatternPL-049
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_YY161_LandPatternPL-049/
 - Description: RF_Mini-Circuits : Mini-Circuits_YY161_LandPatternPL-049
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_YY161_LandPatternPL-049](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_YY161_LandPatternPL-049)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSYY161LANDPATTERNPL49](http://oom.lt/FZKRFMCIRCUITSYY161LANDPATTERNPL49)

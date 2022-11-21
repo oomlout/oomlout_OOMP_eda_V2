@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-CS-2016-LOGO-10MM
 - Hex ID: FZELCS216L1
 - Name: logo : CS-2016-LOGO-10MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/CS-2016-LOGO-10MM/
 - Description: logo : CS-2016-LOGO-10MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CS-2016-LOGO-10MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CS-2016-LOGO-10MM)
 - Short Link: [http://oom.lt/FZELCS216L1](http://oom.lt/FZELCS216L1)

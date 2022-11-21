@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-CHERRY-MX-LED-ISO-ENTER
 - Hex ID: FZSWCHERRYMXLISOENTER
 - Name: SparkFun-Switches : CHERRY-MX-LED-ISO-ENTER
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/CHERRY-MX-LED-ISO-ENTER/
 - Description: SparkFun-Switches : CHERRY-MX-LED-ISO-ENTER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-CHERRY-MX-LED-ISO-ENTER](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-CHERRY-MX-LED-ISO-ENTER)
 - Short Link: [http://oom.lt/FZSWCHERRYMXLISOENTER](http://oom.lt/FZSWCHERRYMXLISOENTER)

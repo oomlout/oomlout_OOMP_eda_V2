@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNSMSDEXTERNALPIN > SparkFun-Connectors : MICROSD-EXTERNALPIN](#fzssparkfuncnsmsdexternalpin--sparkfun-connectors--microsd-externalpin)
+* [FZSSPARKFUNCNSMSDEXTERNALP > SparkFun-Connectors : MICROSD-EXTERNALPIN](#fzssparkfuncnsmsdexternalp--sparkfun-connectors--microsd-externalpin)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNSMSDEXTERNALPIN > SparkFun-Connectors : MICROSD-EXTERNALPIN
+# FZSSPARKFUNCNSMSDEXTERNALP > SparkFun-Connectors : MICROSD-EXTERNALPIN
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICROSD-EXTERNALPIN
-- Hex ID: FZSSPARKFUNCNSMSDEXTERNALPIN
+- Hex ID: FZSSPARKFUNCNSMSDEXTERNALP
 - Name: SparkFun-Connectors : MICROSD-EXTERNALPIN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/MICROSD-EXTERNALPIN/
 - Description: SparkFun-Connectors : MICROSD-EXTERNALPIN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICROSD-EXTERNALPIN](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICROSD-EXTERNALPIN)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNSMSDEXTERNALPIN](http://oom.lt/FZSSPARKFUNCNSMSDEXTERNALPIN)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNSMSDEXTERNALP](http://oom.lt/FZSSPARKFUNCNSMSDEXTERNALP)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|MICROSD-EXTERNALPIN|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICROSD-EXTERNALPIN|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNSMSDEXTERNALPIN|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNSMSDEXTERNALP|
 |name|name|SparkFun-Connectors : MICROSD-EXTERNALPIN|
 ||||

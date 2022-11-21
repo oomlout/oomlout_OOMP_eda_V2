@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-6N136
 - Hex ID: SZKISOLATOR6N136
 - Name: Isolator : 6N136
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/6N136/
 - Description: Isolator : 6N136
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-6N136](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-6N136)
 - Short Link: [http://oom.lt/SZKISOLATOR6N136](http://oom.lt/SZKISOLATOR6N136)

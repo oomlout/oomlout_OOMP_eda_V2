@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-TO3A
 - Hex ID: FZETRANSISTORTO3A
 - Name: transistor : TO3A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/TO3A/
 - Description: transistor : TO3A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO3A](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO3A)
 - Short Link: [http://oom.lt/FZETRANSISTORTO3A](http://oom.lt/FZETRANSISTORTO3A)

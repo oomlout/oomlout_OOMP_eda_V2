@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F756IGKx
 - Hex ID: SZKMCUSTSTM32F7STM32F756IGKX
 - Name: MCU_ST_STM32F7 : STM32F756IGKx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F756IGKx/
 - Description: MCU_ST_STM32F7 : STM32F756IGKx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F756IGKx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F756IGKx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F756IGKX](http://oom.lt/SZKMCUSTSTM32F7STM32F756IGKX)

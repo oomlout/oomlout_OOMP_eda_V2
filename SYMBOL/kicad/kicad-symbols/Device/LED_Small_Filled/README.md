@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_Small_Filled
 - Hex ID: SZKDEVICELSLLFILL
 - Name: Device : LED_Small_Filled
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_Small_Filled/
 - Description: Device : LED_Small_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Small_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Small_Filled)
 - Short Link: [http://oom.lt/SZKDEVICELSLLFILL](http://oom.lt/SZKDEVICELSLLFILL)

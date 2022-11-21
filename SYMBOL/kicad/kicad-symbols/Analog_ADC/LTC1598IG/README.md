@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1598IG
 - Hex ID: SZKANALOGADCLTC1598IG
 - Name: Analog_ADC : LTC1598IG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1598IG/
 - Description: Analog_ADC : LTC1598IG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1598IG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1598IG)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC1598IG](http://oom.lt/SZKANALOGADCLTC1598IG)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-LOGO_10MM
 - Hex ID: FZEALTERAL1
 - Name: altera : LOGO_10MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/LOGO_10MM/
 - Description: altera : LOGO_10MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-LOGO_10MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-LOGO_10MM)
 - Short Link: [http://oom.lt/FZEALTERAL1](http://oom.lt/FZEALTERAL1)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-38-1EP_4x6mm_P0.4mm_EP2.65x4.65mm
 - Hex ID: FZKDFNQFN381EP4X6P4EP265X465
 - Name: Package_DFN_QFN : QFN-38-1EP_4x6mm_P0.4mm_EP2.65x4.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-38-1EP_4x6mm_P0.4mm_EP2.65x4.65mm/
 - Description: Package_DFN_QFN : QFN-38-1EP_4x6mm_P0.4mm_EP2.65x4.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-38-1EP_4x6mm_P0.4mm_EP2.65x4.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-38-1EP_4x6mm_P0.4mm_EP2.65x4.65mm)
 - Short Link: [http://oom.lt/FZKDFNQFN381EP4X6P4EP265X465](http://oom.lt/FZKDFNQFN381EP4X6P4EP265X465)

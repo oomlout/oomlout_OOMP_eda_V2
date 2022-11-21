@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-USON-10_2.5x1.0mm_P0.5mm
 - Hex ID: FZKSONUSON125X1P5
 - Name: Package_SON : USON-10_2.5x1.0mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/USON-10_2.5x1.0mm_P0.5mm/
 - Description: Package_SON : USON-10_2.5x1.0mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-USON-10_2.5x1.0mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-USON-10_2.5x1.0mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKSONUSON125X1P5](http://oom.lt/FZKSONUSON125X1P5)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-LQFP32-7X7
 - Hex ID: FZESTMELECTRONICSLQFP327X7
 - Name: st-microelectronics : LQFP32-7X7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/LQFP32-7X7/
 - Description: st-microelectronics : LQFP32-7X7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-LQFP32-7X7](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-LQFP32-7X7)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSLQFP327X7](http://oom.lt/FZESTMELECTRONICSLQFP327X7)

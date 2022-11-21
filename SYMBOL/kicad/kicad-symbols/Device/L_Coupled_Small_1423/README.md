@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-L_Coupled_Small_1423
 - Hex ID: SZKDEVICELCOUPLSLL1423
 - Name: Device : L_Coupled_Small_1423
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/L_Coupled_Small_1423/
 - Description: Device : L_Coupled_Small_1423
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Coupled_Small_1423](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Coupled_Small_1423)
 - Short Link: [http://oom.lt/SZKDEVICELCOUPLSLL1423](http://oom.lt/SZKDEVICELCOUPLSLL1423)

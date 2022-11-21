@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-DIL24S
 - Hex ID: FZEMOTOROLASENDRIVERDIL24S
 - Name: motorola-sensor-driver : DIL24S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/motorola-sensor-driver/DIL24S/
 - Description: motorola-sensor-driver : DIL24S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-DIL24S](http://oom.lt/FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-DIL24S)
 - Short Link: [http://oom.lt/FZEMOTOROLASENDRIVERDIL24S](http://oom.lt/FZEMOTOROLASENDRIVERDIL24S)

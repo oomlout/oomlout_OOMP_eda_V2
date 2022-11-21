@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-FN405-1-02
 - Hex ID: SZKFILFN4512
 - Name: Filter : FN405-1-02
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/FN405-1-02/
 - Description: Filter : FN405-1-02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-FN405-1-02](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-FN405-1-02)
 - Short Link: [http://oom.lt/SZKFILFN4512](http://oom.lt/SZKFILFN4512)

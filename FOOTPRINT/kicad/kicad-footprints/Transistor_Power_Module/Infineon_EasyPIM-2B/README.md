@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Infineon_EasyPIM-2B
 - Hex ID: FZKTRANSISTORPOWERMOINFINEONEASYPIM2B
 - Name: Transistor_Power_Module : Infineon_EasyPIM-2B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Infineon_EasyPIM-2B/
 - Description: Transistor_Power_Module : Infineon_EasyPIM-2B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Infineon_EasyPIM-2B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Infineon_EasyPIM-2B)
 - Short Link: [http://oom.lt/FZKTRANSISTORPOWERMOINFINEONEASYPIM2B](http://oom.lt/FZKTRANSISTORPOWERMOINFINEONEASYPIM2B)

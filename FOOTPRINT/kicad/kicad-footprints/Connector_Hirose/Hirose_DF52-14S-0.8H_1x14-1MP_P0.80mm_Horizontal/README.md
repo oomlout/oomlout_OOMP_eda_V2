@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNHIROSEHIROSEDF5214S8H1X141MPP8HORIZONTAL > Connector_Hirose : Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal](#fzkcnhirosehirosedf5214s8h1x141mpp8horizontal--connector_hirose--hirose_df52-14s-08h_1x14-1mp_p080mm_horizontal)
+* [FZKCNHIROSEHIROSEDF5214S8H1X141MPP8H > Connector_Hirose : Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal](#fzkcnhirosehirosedf5214s8h1x141mpp8h--connector_hirose--hirose_df52-14s-08h_1x14-1mp_p080mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNHIROSEHIROSEDF5214S8H1X141MPP8HORIZONTAL > Connector_Hirose : Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal
+# FZKCNHIROSEHIROSEDF5214S8H1X141MPP8H > Connector_Hirose : Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal
-- Hex ID: FZKCNHIROSEHIROSEDF5214S8H1X141MPP8HORIZONTAL
+- Hex ID: FZKCNHIROSEHIROSEDF5214S8H1X141MPP8H
 - Name: Connector_Hirose : Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal/
 - Description: Connector_Hirose : Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF5214S8H1X141MPP8HORIZONTAL](http://oom.lt/FZKCNHIROSEHIROSEDF5214S8H1X141MPP8HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF5214S8H1X141MPP8H](http://oom.lt/FZKCNHIROSEHIROSEDF5214S8H1X141MPP8H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Hirose|
 |OOMP Index|oompIndex|Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF5214S8H1X141MPP8HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF5214S8H1X141MPP8H|
 |name|name|Connector_Hirose : Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Hirose  series connector</td><td> DF52-14S-0.8H (https</td></tr><tr><td>//www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Hirose  top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Hirose.3dshapes/Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

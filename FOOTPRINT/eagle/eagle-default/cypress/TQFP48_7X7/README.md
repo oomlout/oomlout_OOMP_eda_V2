@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-TQFP48_7X7
 - Hex ID: FZECYPRESSTQFP487X7
 - Name: cypress : TQFP48_7X7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/TQFP48_7X7/
 - Description: cypress : TQFP48_7X7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-TQFP48_7X7](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-TQFP48_7X7)
 - Short Link: [http://oom.lt/FZECYPRESSTQFP487X7](http://oom.lt/FZECYPRESSTQFP487X7)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2L-0535-1
 - Hex ID: FZAXF2L5351
 - Name: adafruit : XF2L-0535-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/XF2L-0535-1/
 - Description: adafruit : XF2L-0535-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2L-0535-1](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2L-0535-1)
 - Short Link: [http://oom.lt/FZAXF2L5351](http://oom.lt/FZAXF2L5351)

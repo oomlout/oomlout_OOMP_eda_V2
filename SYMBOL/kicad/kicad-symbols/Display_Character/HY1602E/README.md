@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HY1602E
 - Hex ID: SZKDICHARACTERHY162E
 - Name: Display_Character : HY1602E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/HY1602E/
 - Description: Display_Character : HY1602E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HY1602E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HY1602E)
 - Short Link: [http://oom.lt/SZKDICHARACTERHY162E](http://oom.lt/SZKDICHARACTERHY162E)

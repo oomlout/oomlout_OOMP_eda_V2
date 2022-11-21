@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N32_EP2.8x2.8mm
 - Hex ID: FZKDFNTEXASSPWQFNN32EP28X28
 - Name: Package_DFN_QFN : Texas_S-PWQFN-N32_EP2.8x2.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PWQFN-N32_EP2.8x2.8mm/
 - Description: Package_DFN_QFN : Texas_S-PWQFN-N32_EP2.8x2.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N32_EP2.8x2.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N32_EP2.8x2.8mm)
 - Short Link: [http://oom.lt/FZKDFNTEXASSPWQFNN32EP28X28](http://oom.lt/FZKDFNTEXASSPWQFNN32EP28X28)

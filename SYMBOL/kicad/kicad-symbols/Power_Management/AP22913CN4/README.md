@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AP22913CN4
 - Hex ID: SZKPOWERMANAGEMENTAP22913CN4
 - Name: Power_Management : AP22913CN4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AP22913CN4/
 - Description: Power_Management : AP22913CN4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AP22913CN4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AP22913CN4)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAP22913CN4](http://oom.lt/SZKPOWERMANAGEMENTAP22913CN4)

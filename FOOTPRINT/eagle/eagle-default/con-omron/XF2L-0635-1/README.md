@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2L-0635-1
 - Hex ID: FZECONOMRONXF2L6351
 - Name: con-omron : XF2L-0635-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-omron/XF2L-0635-1/
 - Description: con-omron : XF2L-0635-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2L-0635-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2L-0635-1)
 - Short Link: [http://oom.lt/FZECONOMRONXF2L6351](http://oom.lt/FZECONOMRONXF2L6351)

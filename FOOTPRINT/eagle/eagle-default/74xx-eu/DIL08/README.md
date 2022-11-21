@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-eu-DIL08
 - Hex ID: FZE74XXEUDIL8
 - Name: 74xx-eu : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-eu/DIL08/
 - Description: 74xx-eu : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-DIL08)
 - Short Link: [http://oom.lt/FZE74XXEUDIL8](http://oom.lt/FZE74XXEUDIL8)

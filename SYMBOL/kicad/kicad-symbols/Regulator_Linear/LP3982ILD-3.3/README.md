@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982ILD-3.3
 - Hex ID: SZKREGULATORLINEARLP3982ILD33
 - Name: Regulator_Linear : LP3982ILD-3.3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP3982ILD-3.3/
 - Description: Regulator_Linear : LP3982ILD-3.3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982ILD-3.3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982ILD-3.3)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP3982ILD33](http://oom.lt/SZKREGULATORLINEARLP3982ILD33)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-shunt-SMV
 - Hex ID: FZERESISTORSHUNTSMV
 - Name: resistor-shunt : SMV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-shunt/SMV/
 - Description: resistor-shunt : SMV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-SMV](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-SMV)
 - Short Link: [http://oom.lt/FZERESISTORSHUNTSMV](http://oom.lt/FZERESISTORSHUNTSMV)

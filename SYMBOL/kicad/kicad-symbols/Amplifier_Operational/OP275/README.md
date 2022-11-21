@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP275
 - Hex ID: SZKAMPLIFIEROPERATIONALOP275
 - Name: Amplifier_Operational : OP275
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OP275/
 - Description: Amplifier_Operational : OP275
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP275](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP275)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOP275](http://oom.lt/SZKAMPLIFIEROPERATIONALOP275)

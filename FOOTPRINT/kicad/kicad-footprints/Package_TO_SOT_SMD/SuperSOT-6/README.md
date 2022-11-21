@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMSUPERSOT6 > Package_TO_SOT_SMD : SuperSOT-6](#fzkpackagetosotsmsupersot6--package_to_sot_smd--supersot-6)
+* [FZKSOTSUPERSOT6 > Package_TO_SOT_SMD : SuperSOT-6](#fzksotsupersot6--package_to_sot_smd--supersot-6)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMSUPERSOT6 > Package_TO_SOT_SMD : SuperSOT-6
+# FZKSOTSUPERSOT6 > Package_TO_SOT_SMD : SuperSOT-6
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-6
-- Hex ID: FZKPACKAGETOSOTSMSUPERSOT6
+- Hex ID: FZKSOTSUPERSOT6
 - Name: Package_TO_SOT_SMD : SuperSOT-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SuperSOT-6/
 - Description: Package_TO_SOT_SMD : SuperSOT-6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-6)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMSUPERSOT6](http://oom.lt/FZKPACKAGETOSOTSMSUPERSOT6)
+- Short Link: [http://oom.lt/FZKSOTSUPERSOT6](http://oom.lt/FZKSOTSUPERSOT6)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SuperSOT-6|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-6|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSUPERSOT6|
+|Hex ID (short code)|hexID|FZKSOTSUPERSOT6|
 |name|name|Package_TO_SOT_SMD : SuperSOT-6|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SuperSOT-6'</td><td> 'description'</td></tr><tr><td> '6-pin SuperSOT package http</td></tr><tr><td>//www.mouser.com/ds/2/149/FMB5551-889214.pdf'</td><td> 'tags'</td></tr><tr><td> 'SuperSOT-6 SSOT-6'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SuperSOT-6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

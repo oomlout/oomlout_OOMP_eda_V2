@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-KCSC02-107
 - Hex ID: FZKDI7SKCSC217
 - Name: Display_7Segment : KCSC02-107
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/KCSC02-107/
 - Description: Display_7Segment : KCSC02-107
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-KCSC02-107](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-KCSC02-107)
 - Short Link: [http://oom.lt/FZKDI7SKCSC217](http://oom.lt/FZKDI7SKCSC217)

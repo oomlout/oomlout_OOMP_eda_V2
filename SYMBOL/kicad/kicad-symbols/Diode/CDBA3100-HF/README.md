@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-CDBA3100-HF
 - Hex ID: SZKDIODECDBA31HF
 - Name: Diode : CDBA3100-HF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/CDBA3100-HF/
 - Description: Diode : CDBA3100-HF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CDBA3100-HF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CDBA3100-HF)
 - Short Link: [http://oom.lt/SZKDIODECDBA31HF](http://oom.lt/SZKDIODECDBA31HF)

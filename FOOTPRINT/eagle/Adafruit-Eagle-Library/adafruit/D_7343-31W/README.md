@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-D_7343-31W
 - Hex ID: FZAD734331W
 - Name: adafruit : D_7343-31W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/D_7343-31W/
 - Description: adafruit : D_7343-31W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-D_7343-31W](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-D_7343-31W)
 - Short Link: [http://oom.lt/FZAD734331W](http://oom.lt/FZAD734331W)

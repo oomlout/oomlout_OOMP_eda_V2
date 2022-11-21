@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-RoHS-Logo_6mm_SilkScreen
 - Hex ID: FZKSZROHSL6SILKSCREEN
 - Name: Symbol : RoHS-Logo_6mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/RoHS-Logo_6mm_SilkScreen/
 - Description: Symbol : RoHS-Logo_6mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-RoHS-Logo_6mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-RoHS-Logo_6mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZROHSL6SILKSCREEN](http://oom.lt/FZKSZROHSL6SILKSCREEN)

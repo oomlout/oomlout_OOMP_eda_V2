@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-82C55A
 - Hex ID: SZKINTERFACE82C55A
 - Name: Interface : 82C55A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/82C55A/
 - Description: Interface : 82C55A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-82C55A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-82C55A)
 - Short Link: [http://oom.lt/SZKINTERFACE82C55A](http://oom.lt/SZKINTERFACE82C55A)

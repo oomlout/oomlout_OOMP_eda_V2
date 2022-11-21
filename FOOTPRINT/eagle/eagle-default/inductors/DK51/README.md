@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSDK51 > inductors : DK51](#fzeinductorsdk51--inductors--dk51)
+* [FZEINSDK51 > inductors : DK51](#fzeinsdk51--inductors--dk51)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSDK51 > inductors : DK51
+# FZEINSDK51 > inductors : DK51
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-DK51
-- Hex ID: FZEINDUCTORSDK51
+- Hex ID: FZEINSDK51
 - Name: inductors : DK51
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/DK51/
 - Description: inductors : DK51
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-DK51](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-DK51)
-- Short Link: [http://oom.lt/FZEINDUCTORSDK51](http://oom.lt/FZEINDUCTORSDK51)
+- Short Link: [http://oom.lt/FZEINSDK51](http://oom.lt/FZEINSDK51)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|DK51|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-DK51|
-|Hex ID (short code)|hexID|FZEINDUCTORSDK51|
+|Hex ID (short code)|hexID|FZEINSDK51|
 |name|name|inductors : DK51|
 ||||

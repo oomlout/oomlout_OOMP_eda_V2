@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-R2010
 - Hex ID: FZESMIPCR21
 - Name: smd-ipc : R2010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/R2010/
 - Description: smd-ipc : R2010
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R2010](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R2010)
 - Short Link: [http://oom.lt/FZESMIPCR21](http://oom.lt/FZESMIPCR21)

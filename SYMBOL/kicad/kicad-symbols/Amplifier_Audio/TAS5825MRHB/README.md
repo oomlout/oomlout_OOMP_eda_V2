@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TAS5825MRHB
 - Hex ID: SZKAMPLIFIERAUDIOTAS5825MRHB
 - Name: Amplifier_Audio : TAS5825MRHB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TAS5825MRHB/
 - Description: Amplifier_Audio : TAS5825MRHB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TAS5825MRHB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TAS5825MRHB)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTAS5825MRHB](http://oom.lt/SZKAMPLIFIERAUDIOTAS5825MRHB)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKOCSOCSSMFORDAHLDFAS114PIN7X5 > Oscillator : Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm](#fzkocsocssmfordahldfas114pin7x5--oscillator--oscillator_smd_fordahl_dfas11-4pin_70x50mm)
+* [FZKOCSOCSSMFORDAHLDFAS114P7X5 > Oscillator : Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm](#fzkocsocssmfordahldfas114p7x5--oscillator--oscillator_smd_fordahl_dfas11-4pin_70x50mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKOCSOCSSMFORDAHLDFAS114PIN7X5 > Oscillator : Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm
+# FZKOCSOCSSMFORDAHLDFAS114P7X5 > Oscillator : Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm
-- Hex ID: FZKOCSOCSSMFORDAHLDFAS114PIN7X5
+- Hex ID: FZKOCSOCSSMFORDAHLDFAS114P7X5
 - Name: Oscillator : Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm/
 - Description: Oscillator : Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm)
-- Short Link: [http://oom.lt/FZKOCSOCSSMFORDAHLDFAS114PIN7X5](http://oom.lt/FZKOCSOCSSMFORDAHLDFAS114PIN7X5)
+- Short Link: [http://oom.lt/FZKOCSOCSSMFORDAHLDFAS114P7X5](http://oom.lt/FZKOCSOCSSMFORDAHLDFAS114P7X5)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Oscillator|
 |OOMP Index|oompIndex|Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm|
-|Hex ID (short code)|hexID|FZKOCSOCSSMFORDAHLDFAS114PIN7X5|
+|Hex ID (short code)|hexID|FZKOCSOCSSMFORDAHLDFAS114P7X5|
 |name|name|Oscillator : Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm'</td><td> 'description'</td></tr><tr><td> 'Miniature Crystal Clock Oscillator TXCO Fordahl DFA S11-OV/UOV</td><td> http</td></tr><tr><td>//www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf</td><td> 7.0x5.0mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal oscillator'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Oscillator.3dshapes/Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

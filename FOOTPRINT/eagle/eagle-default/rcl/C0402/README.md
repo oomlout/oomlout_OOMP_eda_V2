@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C0402
 - Hex ID: FZERCLC42
 - Name: rcl : C0402
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C0402/
 - Description: rcl : C0402
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C0402](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C0402)
 - Short Link: [http://oom.lt/FZERCLC42](http://oom.lt/FZERCLC42)

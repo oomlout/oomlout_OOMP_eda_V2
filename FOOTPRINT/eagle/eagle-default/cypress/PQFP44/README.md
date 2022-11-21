@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-PQFP44
 - Hex ID: FZECYPRESSPQFP44
 - Name: cypress : PQFP44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/PQFP44/
 - Description: cypress : PQFP44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-PQFP44](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-PQFP44)
 - Short Link: [http://oom.lt/FZECYPRESSPQFP44](http://oom.lt/FZECYPRESSPQFP44)

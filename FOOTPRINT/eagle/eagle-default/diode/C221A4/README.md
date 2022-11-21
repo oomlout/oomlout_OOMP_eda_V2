@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-C221A4
 - Hex ID: FZEDIODEC221A4
 - Name: diode : C221A4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/C221A4/
 - Description: diode : C221A4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C221A4](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C221A4)
 - Short Link: [http://oom.lt/FZEDIODEC221A4](http://oom.lt/FZEDIODEC221A4)

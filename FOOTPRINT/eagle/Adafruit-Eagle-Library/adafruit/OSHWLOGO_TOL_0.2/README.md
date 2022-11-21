@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OSHWLOGO_TOL_0.2
 - Hex ID: FZAOSHWLTOL2
 - Name: adafruit : OSHWLOGO_TOL_0.2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/OSHWLOGO_TOL_0.2/
 - Description: adafruit : OSHWLOGO_TOL_0.2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OSHWLOGO_TOL_0.2](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OSHWLOGO_TOL_0.2)
 - Short Link: [http://oom.lt/FZAOSHWLTOL2](http://oom.lt/FZAOSHWLTOL2)

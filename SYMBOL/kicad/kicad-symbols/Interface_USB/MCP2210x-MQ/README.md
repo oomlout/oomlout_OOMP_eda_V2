@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2210x-MQ
 - Hex ID: SZKINTERFACEUMCP221XMQ
 - Name: Interface_USB : MCP2210x-MQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/MCP2210x-MQ/
 - Description: Interface_USB : MCP2210x-MQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2210x-MQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2210x-MQ)
 - Short Link: [http://oom.lt/SZKINTERFACEUMCP221XMQ](http://oom.lt/SZKINTERFACEUMCP221XMQ)

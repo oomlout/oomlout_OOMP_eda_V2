@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-TITAN_X1_GPS
 - Hex ID: FZSGTITANX1GPS
 - Name: SparkFun-GPS : TITAN_X1_GPS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/TITAN_X1_GPS/
 - Description: SparkFun-GPS : TITAN_X1_GPS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-TITAN_X1_GPS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-TITAN_X1_GPS)
 - Short Link: [http://oom.lt/FZSGTITANX1GPS](http://oom.lt/FZSGTITANX1GPS)

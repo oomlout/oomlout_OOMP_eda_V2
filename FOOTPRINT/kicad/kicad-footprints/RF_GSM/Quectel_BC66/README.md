@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GSM-Quectel_BC66
 - Hex ID: FZKGSMQUECTELBC66
 - Name: RF_GSM : Quectel_BC66
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_GSM/Quectel_BC66/
 - Description: RF_GSM : Quectel_BC66
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GSM-Quectel_BC66](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GSM-Quectel_BC66)
 - Short Link: [http://oom.lt/FZKGSMQUECTELBC66](http://oom.lt/FZKGSMQUECTELBC66)

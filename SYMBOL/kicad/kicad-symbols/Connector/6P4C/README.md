@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-6P4C
 - Hex ID: SZKCN6P4C
 - Name: Connector : 6P4C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/6P4C/
 - Description: Connector : 6P4C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-6P4C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-6P4C)
 - Short Link: [http://oom.lt/SZKCN6P4C](http://oom.lt/SZKCN6P4C)

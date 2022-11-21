@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XUF47DV5C12U47DC29823 > oomlout_OOMP_JLCC_Basic : CAPC-1206-X-UF47D-V50-C12U47D-C29823](#szkicadoomloutoompkicadoomloutoompjlccbasiccapc126xuf47dv5c12u47dc29823--oomlout_oomp_jlcc_basic--capc-1206-x-uf47d-v50-c12u47d-c29823)
+* [SZOOMPKJLCCAPC126XUF47DV5C12U47DC29823 > oomlout_OOMP_JLCC_Basic : CAPC-1206-X-UF47D-V50-C12U47D-C29823](#szoompkjlccapc126xuf47dv5c12u47dc29823--oomlout_oomp_jlcc_basic--capc-1206-x-uf47d-v50-c12u47d-c29823)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XUF47DV5C12U47DC29823 > oomlout_OOMP_JLCC_Basic : CAPC-1206-X-UF47D-V50-C12U47D-C29823
+# SZOOMPKJLCCAPC126XUF47DV5C12U47DC29823 > oomlout_OOMP_JLCC_Basic : CAPC-1206-X-UF47D-V50-C12U47D-C29823
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-UF47D-V50-C12U47D-C29823
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XUF47DV5C12U47DC29823
+- Hex ID: SZOOMPKJLCCAPC126XUF47DV5C12U47DC29823
 - Name: oomlout_OOMP_JLCC_Basic : CAPC-1206-X-UF47D-V50-C12U47D-C29823
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-1206-X-UF47D-V50-C12U47D-C29823/
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-1206-X-UF47D-V50-C12U47D-C29823
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-UF47D-V50-C12U47D-C29823](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-UF47D-V50-C12U47D-C29823)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XUF47DV5C12U47DC29823](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XUF47DV5C12U47DC29823)
+- Short Link: [http://oom.lt/SZOOMPKJLCCAPC126XUF47DV5C12U47DC29823](http://oom.lt/SZOOMPKJLCCAPC126XUF47DV5C12U47DC29823)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +31,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_JLCC_Basic|
 |OOMP Index|oompIndex|CAPC-1206-X-UF47D-V50-C12U47D-C29823|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-UF47D-V50-C12U47D-C29823|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XUF47DV5C12U47DC29823|
+|Hex ID (short code)|hexID|SZOOMPKJLCCAPC126XUF47DV5C12U47DC29823|
 |name|name|oomlout_OOMP_JLCC_Basic : CAPC-1206-X-UF47D-V50-C12U47D-C29823|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-1206-X-UF47D-V50-C12U47D-C29823'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-1206-X-UF47D-V50-C12U47D-C29823'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C12U47D'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C12U47D;PARTL C-JLCC;C29823;MANUF C-XXXX;1206B475K500NT;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

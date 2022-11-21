@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-ER900
 - Hex ID: FZEDIODEER9
 - Name: diode : ER900
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/ER900/
 - Description: diode : ER900
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-ER900](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-ER900)
 - Short Link: [http://oom.lt/FZEDIODEER9](http://oom.lt/FZEDIODEER9)

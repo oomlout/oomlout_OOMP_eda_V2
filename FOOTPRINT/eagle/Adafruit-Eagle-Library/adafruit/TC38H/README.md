@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TC38H
 - Hex ID: FZATC38H
 - Name: adafruit : TC38H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TC38H/
 - Description: adafruit : TC38H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TC38H](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TC38H)
 - Short Link: [http://oom.lt/FZATC38H](http://oom.lt/FZATC38H)

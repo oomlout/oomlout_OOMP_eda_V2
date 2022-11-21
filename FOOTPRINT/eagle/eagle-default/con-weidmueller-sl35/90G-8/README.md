@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-90G-8
 - Hex ID: FZECONWEIDMUELLERSL359G8
 - Name: con-weidmueller-sl35 : 90G-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-weidmueller-sl35/90G-8/
 - Description: con-weidmueller-sl35 : 90G-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-90G-8](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-90G-8)
 - Short Link: [http://oom.lt/FZECONWEIDMUELLERSL359G8](http://oom.lt/FZECONWEIDMUELLERSL359G8)

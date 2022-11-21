@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32G0-STM32G071KxU
 - Hex ID: SZKMCUSTSTM32GSTM32G71KXU
 - Name: MCU_ST_STM32G0 : STM32G071KxU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32G0/STM32G071KxU/
 - Description: MCU_ST_STM32G0 : STM32G071KxU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32G0-STM32G071KxU](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32G0-STM32G071KxU)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32GSTM32G71KXU](http://oom.lt/SZKMCUSTSTM32GSTM32G71KXU)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ45_Abracon_ARJP11A-MASA-B-A-EMU2
 - Hex ID: SZKCNRJ45ABRACONARJP11AMASABAEMU2
 - Name: Connector : RJ45_Abracon_ARJP11A-MASA-B-A-EMU2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2/
 - Description: Connector : RJ45_Abracon_ARJP11A-MASA-B-A-EMU2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ45_Abracon_ARJP11A-MASA-B-A-EMU2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ45_Abracon_ARJP11A-MASA-B-A-EMU2)
 - Short Link: [http://oom.lt/SZKCNRJ45ABRACONARJP11AMASABAEMU2](http://oom.lt/SZKCNRJ45ABRACONARJP11AMASABAEMU2)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SC70
 - Hex ID: FZETRANSISTORSLLSIGNALSC7
 - Name: transistor-small-signal : SC70
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/SC70/
 - Description: transistor-small-signal : SC70
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SC70](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SC70)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALSC7](http://oom.lt/FZETRANSISTORSLLSIGNALSC7)

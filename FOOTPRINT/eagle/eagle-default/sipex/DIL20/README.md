@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-sipex-DIL20
 - Hex ID: FZESIPEXDIL2
 - Name: sipex : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/sipex/DIL20/
 - Description: sipex : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-sipex-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-sipex-DIL20)
 - Short Link: [http://oom.lt/FZESIPEXDIL2](http://oom.lt/FZESIPEXDIL2)

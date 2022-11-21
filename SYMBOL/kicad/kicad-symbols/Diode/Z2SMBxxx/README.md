@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-Z2SMBxxx
 - Hex ID: SZKDIODEZ2SMBXXX
 - Name: Diode : Z2SMBxxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/Z2SMBxxx/
 - Description: Diode : Z2SMBxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Z2SMBxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Z2SMBxxx)
 - Short Link: [http://oom.lt/SZKDIODEZ2SMBXXX](http://oom.lt/SZKDIODEZ2SMBXXX)

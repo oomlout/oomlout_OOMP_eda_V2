@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-conrad-RCA-4-117-01
 - Hex ID: FZECONCONRADRCA41171
 - Name: con-conrad : RCA-4-117-01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-conrad/RCA-4-117-01/
 - Description: con-conrad : RCA-4-117-01
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-conrad-RCA-4-117-01](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-conrad-RCA-4-117-01)
 - Short Link: [http://oom.lt/FZECONCONRADRCA41171](http://oom.lt/FZECONCONRADRCA41171)

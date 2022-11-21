@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-1X01_TURRET
 - Hex ID: FZSRT1X1TURRET
 - Name: SparkFun-Retired : 1X01_TURRET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/1X01_TURRET/
 - Description: SparkFun-Retired : 1X01_TURRET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-1X01_TURRET](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-1X01_TURRET)
 - Short Link: [http://oom.lt/FZSRT1X1TURRET](http://oom.lt/FZSRT1X1TURRET)

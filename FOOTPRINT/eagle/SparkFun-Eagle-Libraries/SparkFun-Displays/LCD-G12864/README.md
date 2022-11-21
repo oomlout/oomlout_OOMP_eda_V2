@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-LCD-G12864
 - Hex ID: FZSSPARKFUNDISLCDG12864
 - Name: SparkFun-Displays : LCD-G12864
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/LCD-G12864/
 - Description: SparkFun-Displays : LCD-G12864
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-LCD-G12864](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-LCD-G12864)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISLCDG12864](http://oom.lt/FZSSPARKFUNDISLCDG12864)

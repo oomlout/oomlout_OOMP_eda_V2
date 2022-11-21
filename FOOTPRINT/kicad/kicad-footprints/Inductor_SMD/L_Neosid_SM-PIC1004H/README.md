@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLNEOSIDSMPIC14H > Inductor_SMD : L_Neosid_SM-PIC1004H](#fzkinductorsmlneosidsmpic14h--inductor_smd--l_neosid_sm-pic1004h)
+* [FZKINLNEOSIDSMPIC14H > Inductor_SMD : L_Neosid_SM-PIC1004H](#fzkinlneosidsmpic14h--inductor_smd--l_neosid_sm-pic1004h)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLNEOSIDSMPIC14H > Inductor_SMD : L_Neosid_SM-PIC1004H
+# FZKINLNEOSIDSMPIC14H > Inductor_SMD : L_Neosid_SM-PIC1004H
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC1004H
-- Hex ID: FZKINDUCTORSMLNEOSIDSMPIC14H
+- Hex ID: FZKINLNEOSIDSMPIC14H
 - Name: Inductor_SMD : L_Neosid_SM-PIC1004H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_SM-PIC1004H/
 - Description: Inductor_SMD : L_Neosid_SM-PIC1004H
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC1004H](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC1004H)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLNEOSIDSMPIC14H](http://oom.lt/FZKINDUCTORSMLNEOSIDSMPIC14H)
+- Short Link: [http://oom.lt/FZKINLNEOSIDSMPIC14H](http://oom.lt/FZKINLNEOSIDSMPIC14H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Neosid_SM-PIC1004H|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC1004H|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDSMPIC14H|
+|Hex ID (short code)|hexID|FZKINLNEOSIDSMPIC14H|
 |name|name|Inductor_SMD : L_Neosid_SM-PIC1004H|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_SM-PIC1004H'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Inductor</td><td> SM-PIC1004H</td><td> Fixed inductor</td><td> SMD</td><td> https</td></tr><tr><td>//neosid.de/import-data/product-pdf/neoFestind_SMPIC1004H.pdf'</td><td> 'tags'</td></tr><tr><td> 'Neosid Inductor SM-PIC1004H Fixed inductor SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_SM-PIC1004H.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

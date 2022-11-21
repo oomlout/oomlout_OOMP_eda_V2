@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO20W
 - Hex ID: FZASO2W
 - Name: adafruit : SO20W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SO20W/
 - Description: adafruit : SO20W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO20W](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO20W)
 - Short Link: [http://oom.lt/FZASO2W](http://oom.lt/FZASO2W)

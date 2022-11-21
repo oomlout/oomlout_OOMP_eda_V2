@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_M4
 - Hex ID: FZKDFETDIRECTFETM4
 - Name: Package_DirectFET : DirectFET_M4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_M4/
 - Description: Package_DirectFET : DirectFET_M4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_M4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_M4)
 - Short Link: [http://oom.lt/FZKDFETDIRECTFETM4](http://oom.lt/FZKDFETDIRECTFETM4)

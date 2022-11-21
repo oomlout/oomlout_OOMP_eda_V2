@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FRIST_LOGO
 - Hex ID: FZSRTFRISTL
 - Name: SparkFun-Retired : FRIST_LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/FRIST_LOGO/
 - Description: SparkFun-Retired : FRIST_LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FRIST_LOGO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-FRIST_LOGO)
 - Short Link: [http://oom.lt/FZSRTFRISTL](http://oom.lt/FZSRTFRISTL)

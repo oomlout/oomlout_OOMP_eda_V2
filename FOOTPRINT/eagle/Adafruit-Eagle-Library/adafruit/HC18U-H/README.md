@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HC18U-H
 - Hex ID: FZAHC18UH
 - Name: adafruit : HC18U-H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HC18U-H/
 - Description: adafruit : HC18U-H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HC18U-H](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HC18U-H)
 - Short Link: [http://oom.lt/FZAHC18UH](http://oom.lt/FZAHC18UH)

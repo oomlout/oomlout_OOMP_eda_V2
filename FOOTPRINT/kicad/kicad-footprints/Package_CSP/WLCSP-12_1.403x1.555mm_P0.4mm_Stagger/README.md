@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-12_1.403x1.555mm_P0.4mm_Stagger
 - Hex ID: FZKCSPWLCSP12143X1555P4STAGGER
 - Name: Package_CSP : WLCSP-12_1.403x1.555mm_P0.4mm_Stagger
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-12_1.403x1.555mm_P0.4mm_Stagger/
 - Description: Package_CSP : WLCSP-12_1.403x1.555mm_P0.4mm_Stagger
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-12_1.403x1.555mm_P0.4mm_Stagger](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-12_1.403x1.555mm_P0.4mm_Stagger)
 - Short Link: [http://oom.lt/FZKCSPWLCSP12143X1555P4STAGGER](http://oom.lt/FZKCSPWLCSP12143X1555P4STAGGER)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLBOURNSSRU843 > Inductor_SMD : L_Bourns-SRU8043](#fzkinductorsmlbournssru843--inductor_smd--l_bourns-sru8043)
+* [FZKINLBOURNSSRU843 > Inductor_SMD : L_Bourns-SRU8043](#fzkinlbournssru843--inductor_smd--l_bourns-sru8043)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLBOURNSSRU843 > Inductor_SMD : L_Bourns-SRU8043
+# FZKINLBOURNSSRU843 > Inductor_SMD : L_Bourns-SRU8043
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU8043
-- Hex ID: FZKINDUCTORSMLBOURNSSRU843
+- Hex ID: FZKINLBOURNSSRU843
 - Name: Inductor_SMD : L_Bourns-SRU8043
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRU8043/
 - Description: Inductor_SMD : L_Bourns-SRU8043
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU8043](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU8043)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLBOURNSSRU843](http://oom.lt/FZKINDUCTORSMLBOURNSSRU843)
+- Short Link: [http://oom.lt/FZKINLBOURNSSRU843](http://oom.lt/FZKINLBOURNSSRU843)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Bourns-SRU8043|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU8043|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRU843|
+|Hex ID (short code)|hexID|FZKINLBOURNSSRU843|
 |name|name|Inductor_SMD : L_Bourns-SRU8043|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Bourns-SRU8043'</td><td> 'description'</td></tr><tr><td> 'Bourns SRU8043 series SMD inductor'</td><td> 'tags'</td></tr><tr><td> 'Bourns SRU8043 SMD inductor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Bourns-SRU8043.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

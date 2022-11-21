@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-ONCORE
 - Hex ID: FZEMMOTOROLAONCORE
 - Name: micro-motorola : ONCORE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/ONCORE/
 - Description: micro-motorola : ONCORE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-ONCORE](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-ONCORE)
 - Short Link: [http://oom.lt/FZEMMOTOROLAONCORE](http://oom.lt/FZEMMOTOROLAONCORE)

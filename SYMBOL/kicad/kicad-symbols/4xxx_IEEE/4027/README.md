@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4027
 - Hex ID: SZK4XXXIEEE427
 - Name: 4xxx_IEEE : 4027
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4027/
 - Description: 4xxx_IEEE : 4027
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4027](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4027)
 - Short Link: [http://oom.lt/SZK4XXXIEEE427](http://oom.lt/SZK4XXXIEEE427)

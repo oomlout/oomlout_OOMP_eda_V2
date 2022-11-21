@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-CS8406
 - Hex ID: SZKAUDIOCS846
 - Name: Audio : CS8406
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/CS8406/
 - Description: Audio : CS8406
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS8406](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS8406)
 - Short Link: [http://oom.lt/SZKAUDIOCS846](http://oom.lt/SZKAUDIOCS846)

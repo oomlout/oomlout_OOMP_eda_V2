@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F746VEHx
 - Hex ID: SZKMCUSTSTM32F7STM32F746VEHX
 - Name: MCU_ST_STM32F7 : STM32F746VEHx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F746VEHx/
 - Description: MCU_ST_STM32F7 : STM32F746VEHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F746VEHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F746VEHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F746VEHX](http://oom.lt/SZKMCUSTSTM32F7STM32F746VEHX)

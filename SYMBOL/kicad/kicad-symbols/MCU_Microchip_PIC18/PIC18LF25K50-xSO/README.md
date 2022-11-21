@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF25K50-xSO
 - Hex ID: SZKMCUMCHIPPIC18PIC18LF25K5XSO
 - Name: MCU_Microchip_PIC18 : PIC18LF25K50-xSO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF25K50-xSO/
 - Description: MCU_Microchip_PIC18 : PIC18LF25K50-xSO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF25K50-xSO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF25K50-xSO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF25K5XSO](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF25K5XSO)

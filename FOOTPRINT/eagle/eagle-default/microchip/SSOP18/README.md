@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-SSOP18
 - Hex ID: FZEMCHIPSS18
 - Name: microchip : SSOP18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/SSOP18/
 - Description: microchip : SSOP18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SSOP18](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SSOP18)
 - Short Link: [http://oom.lt/FZEMCHIPSS18](http://oom.lt/FZEMCHIPSS18)

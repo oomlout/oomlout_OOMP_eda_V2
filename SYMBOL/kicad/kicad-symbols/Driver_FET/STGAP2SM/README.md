@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-STGAP2SM
 - Hex ID: SZKDRIVERFETSTGAP2SM
 - Name: Driver_FET : STGAP2SM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/STGAP2SM/
 - Description: Driver_FET : STGAP2SM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-STGAP2SM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-STGAP2SM)
 - Short Link: [http://oom.lt/SZKDRIVERFETSTGAP2SM](http://oom.lt/SZKDRIVERFETSTGAP2SM)

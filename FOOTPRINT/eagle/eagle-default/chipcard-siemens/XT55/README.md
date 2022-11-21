@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-chipcard-siemens-XT55
 - Hex ID: FZECHIPCARDSIEMENSXT55
 - Name: chipcard-siemens : XT55
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/chipcard-siemens/XT55/
 - Description: chipcard-siemens : XT55
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-chipcard-siemens-XT55](http://oom.lt/FOOTPRINT-eagle-eagle-default-chipcard-siemens-XT55)
 - Short Link: [http://oom.lt/FZECHIPCARDSIEMENSXT55](http://oom.lt/FZECHIPCARDSIEMENSXT55)

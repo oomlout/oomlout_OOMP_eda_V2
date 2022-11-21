@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_SCR_KGA
 - Hex ID: SZKDEVICEQSCRKGA
 - Name: Device : Q_SCR_KGA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_SCR_KGA/
 - Description: Device : Q_SCR_KGA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_SCR_KGA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_SCR_KGA)
 - Short Link: [http://oom.lt/SZKDEVICEQSCRKGA](http://oom.lt/SZKDEVICEQSCRKGA)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_KCA
 - Hex ID: SZKDEVICEDDUALSERIESKCA
 - Name: Device : D_Dual_Series_KCA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Dual_Series_KCA/
 - Description: Device : D_Dual_Series_KCA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_KCA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_KCA)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALSERIESKCA](http://oom.lt/SZKDEVICEDDUALSERIESKCA)

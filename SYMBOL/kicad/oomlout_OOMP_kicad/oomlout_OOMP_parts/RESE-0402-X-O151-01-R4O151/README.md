@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO1511R4O151 > oomlout_OOMP_parts : RESE-0402-X-O151-01-R4O151](#szkicadoomloutoompkicadoomloutoomppartsrese42xo1511r4o151--oomlout_oomp_parts--rese-0402-x-o151-01-r4o151)
+* [SZOOMPKOOMPPRESE42XO1511R4O151 > oomlout_OOMP_parts : RESE-0402-X-O151-01-R4O151](#szoompkoompprese42xo1511r4o151--oomlout_oomp_parts--rese-0402-x-o151-01-r4o151)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO1511R4O151 > oomlout_OOMP_parts : RESE-0402-X-O151-01-R4O151
+# SZOOMPKOOMPPRESE42XO1511R4O151 > oomlout_OOMP_parts : RESE-0402-X-O151-01-R4O151
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O151-01-R4O151
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO1511R4O151
+- Hex ID: SZOOMPKOOMPPRESE42XO1511R4O151
 - Name: oomlout_OOMP_parts : RESE-0402-X-O151-01-R4O151
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O151-01-R4O151/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O151-01-R4O151
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O151-01-R4O151](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O151-01-R4O151)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO1511R4O151](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO1511R4O151)
+- Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO1511R4O151](http://oom.lt/SZOOMPKOOMPPRESE42XO1511R4O151)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +31,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0402-X-O151-01-R4O151|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O151-01-R4O151|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO1511R4O151|
+|Hex ID (short code)|hexID|SZOOMPKOOMPPRESE42XO1511R4O151|
 |name|name|oomlout_OOMP_parts : RESE-0402-X-O151-01-R4O151|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0402-X-O151-01-R4O151'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0402-X-O151-01-R4O151'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R4O151'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4O151;PARTL C-JLCC;C25082;MANUF C-XXXX;0402WGF1500TCE;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM04225
 - Hex ID: SZKCONTMLM4225
 - Name: Converter_ACDC : TMLM04225
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/TMLM04225/
 - Description: Converter_ACDC : TMLM04225
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM04225](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM04225)
 - Short Link: [http://oom.lt/SZKCONTMLM4225](http://oom.lt/SZKCONTMLM4225)

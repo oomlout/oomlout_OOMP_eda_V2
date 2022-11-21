@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E
 - Hex ID: FZKINLRL8W8P5NEOSIDNECPB7E
 - Name: Inductor_THT : L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E/
 - Description: Inductor_THT : L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E)
 - Short Link: [http://oom.lt/FZKINLRL8W8P5NEOSIDNECPB7E](http://oom.lt/FZKINLRL8W8P5NEOSIDNECPB7E)

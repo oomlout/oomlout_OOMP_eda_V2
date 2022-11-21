@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega4809-A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA489A
 - Name: MCU_Microchip_ATmega : ATmega4809-A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega4809-A/
 - Description: MCU_Microchip_ATmega : ATmega4809-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega4809-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega4809-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA489A](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA489A)

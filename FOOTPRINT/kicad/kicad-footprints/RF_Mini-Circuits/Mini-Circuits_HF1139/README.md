@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HF1139
 - Hex ID: FZKRFMCIRCUITSHF1139
 - Name: RF_Mini-Circuits : Mini-Circuits_HF1139
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_HF1139/
 - Description: RF_Mini-Circuits : Mini-Circuits_HF1139
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HF1139](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HF1139)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSHF1139](http://oom.lt/FZKRFMCIRCUITSHF1139)

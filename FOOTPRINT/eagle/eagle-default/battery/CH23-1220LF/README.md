@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-CH23-1220LF
 - Hex ID: FZEBATCH23122LF
 - Name: battery : CH23-1220LF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/CH23-1220LF/
 - Description: battery : CH23-1220LF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-CH23-1220LF](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-CH23-1220LF)
 - Short Link: [http://oom.lt/FZEBATCH23122LF](http://oom.lt/FZEBATCH23122LF)

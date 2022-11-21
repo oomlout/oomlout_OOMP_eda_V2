@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Converter-RF_Attenuator_Susumu_PAT1220
 - Hex ID: FZKRFRFATTENUATORSUSUMUPAT122
 - Name: RF_Converter : RF_Attenuator_Susumu_PAT1220
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Converter/RF_Attenuator_Susumu_PAT1220/
 - Description: RF_Converter : RF_Attenuator_Susumu_PAT1220
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Converter-RF_Attenuator_Susumu_PAT1220](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Converter-RF_Attenuator_Susumu_PAT1220)
 - Short Link: [http://oom.lt/FZKRFRFATTENUATORSUSUMUPAT122](http://oom.lt/FZKRFRFATTENUATORSUSUMUPAT122)

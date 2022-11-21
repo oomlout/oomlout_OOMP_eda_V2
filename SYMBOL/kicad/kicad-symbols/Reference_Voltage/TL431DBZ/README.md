@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL431DBZ
 - Hex ID: SZKREFERENCEVOLTAGETL431DBZ
 - Name: Reference_Voltage : TL431DBZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/TL431DBZ/
 - Description: Reference_Voltage : TL431DBZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL431DBZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL431DBZ)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGETL431DBZ](http://oom.lt/SZKREFERENCEVOLTAGETL431DBZ)

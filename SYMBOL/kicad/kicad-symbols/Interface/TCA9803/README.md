@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-TCA9803
 - Hex ID: SZKINTERFACETCA983
 - Name: Interface : TCA9803
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/TCA9803/
 - Description: Interface : TCA9803
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TCA9803](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TCA9803)
 - Short Link: [http://oom.lt/SZKINTERFACETCA983](http://oom.lt/SZKINTERFACETCA983)

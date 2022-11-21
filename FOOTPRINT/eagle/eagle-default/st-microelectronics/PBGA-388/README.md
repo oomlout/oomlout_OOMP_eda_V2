@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-PBGA-388
 - Hex ID: FZESTMELECTRONICSPBGA388
 - Name: st-microelectronics : PBGA-388
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/PBGA-388/
 - Description: st-microelectronics : PBGA-388
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-PBGA-388](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-PBGA-388)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSPBGA388](http://oom.lt/FZESTMELECTRONICSPBGA388)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-SO28
 - Hex ID: FZEMPHILIPSSO28
 - Name: micro-philips : SO28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/SO28/
 - Description: micro-philips : SO28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-SO28](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-SO28)
 - Short Link: [http://oom.lt/FZEMPHILIPSSO28](http://oom.lt/FZEMPHILIPSSO28)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-+12P
 - Hex ID: SZKPOWER+12P
 - Name: power : +12P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+12P/
 - Description: power : +12P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+12P](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+12P)
 - Short Link: [http://oom.lt/SZKPOWER+12P](http://oom.lt/SZKPOWER+12P)
@@ -38,7 +39,7 @@ Contents
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+12P|
 |Hex ID (short code)|hexID|SZKPOWER+12P|
 |name|name|power : +12P|
-|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '+12P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "+12P"'</td></tr></table>]|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '+12P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'global power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "+12P"'</td></tr></table>]|
 ||||
 
 

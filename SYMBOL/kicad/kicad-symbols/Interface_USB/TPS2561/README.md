@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2561
 - Hex ID: SZKINTERFACEUTPS2561
 - Name: Interface_USB : TPS2561
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/TPS2561/
 - Description: Interface_USB : TPS2561
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2561](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2561)
 - Short Link: [http://oom.lt/SZKINTERFACEUTPS2561](http://oom.lt/SZKINTERFACEUTPS2561)

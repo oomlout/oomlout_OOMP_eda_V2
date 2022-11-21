@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-TO18
 - Hex ID: FZETRANSISTORTO18
 - Name: transistor : TO18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/TO18/
 - Description: transistor : TO18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO18](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO18)
 - Short Link: [http://oom.lt/FZETRANSISTORTO18](http://oom.lt/FZETRANSISTORTO18)

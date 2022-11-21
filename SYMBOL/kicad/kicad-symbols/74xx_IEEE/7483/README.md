@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-7483
 - Hex ID: SZK74XXIEEE7483
 - Name: 74xx_IEEE : 7483
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/7483/
 - Description: 74xx_IEEE : 7483
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7483](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7483)
 - Short Link: [http://oom.lt/SZK74XXIEEE7483](http://oom.lt/SZK74XXIEEE7483)

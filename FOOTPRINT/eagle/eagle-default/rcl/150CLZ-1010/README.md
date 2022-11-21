@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-150CLZ-1010
 - Hex ID: FZERCL15CLZ11
 - Name: rcl : 150CLZ-1010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/150CLZ-1010/
 - Description: rcl : 150CLZ-1010
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-150CLZ-1010](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-150CLZ-1010)
 - Short Link: [http://oom.lt/FZERCL15CLZ11](http://oom.lt/FZERCL15CLZ11)

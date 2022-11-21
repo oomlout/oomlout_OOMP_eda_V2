@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-MX25R3235FZNxx1
 - Hex ID: SZKMEMORYFLASHMX25R3235FZNXX1
 - Name: Memory_Flash : MX25R3235FZNxx1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/MX25R3235FZNxx1/
 - Description: Memory_Flash : MX25R3235FZNxx1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-MX25R3235FZNxx1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-MX25R3235FZNxx1)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHMX25R3235FZNXX1](http://oom.lt/SZKMEMORYFLASHMX25R3235FZNXX1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-LMP8640
 - Hex ID: SZKAMPLIFIERCURRENTLMP864
 - Name: Amplifier_Current : LMP8640
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/LMP8640/
 - Description: Amplifier_Current : LMP8640
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-LMP8640](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-LMP8640)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTLMP864](http://oom.lt/SZKAMPLIFIERCURRENTLMP864)

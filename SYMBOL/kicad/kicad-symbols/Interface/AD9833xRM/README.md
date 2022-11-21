@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-AD9833xRM
 - Hex ID: SZKINTERFACEAD9833XRM
 - Name: Interface : AD9833xRM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/AD9833xRM/
 - Description: Interface : AD9833xRM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9833xRM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9833xRM)
 - Short Link: [http://oom.lt/SZKINTERFACEAD9833XRM](http://oom.lt/SZKINTERFACEAD9833XRM)

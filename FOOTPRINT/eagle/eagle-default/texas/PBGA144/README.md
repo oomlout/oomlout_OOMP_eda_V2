@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-PBGA144
 - Hex ID: FZETEXASPBGA144
 - Name: texas : PBGA144
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/PBGA144/
 - Description: texas : PBGA144
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PBGA144](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PBGA144)
 - Short Link: [http://oom.lt/FZETEXASPBGA144](http://oom.lt/FZETEXASPBGA144)

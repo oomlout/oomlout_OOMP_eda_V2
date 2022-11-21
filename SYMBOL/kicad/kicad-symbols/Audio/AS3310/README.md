@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-AS3310
 - Hex ID: SZKAUDIOAS331
 - Name: Audio : AS3310
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/AS3310/
 - Description: Audio : AS3310
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3310](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3310)
 - Short Link: [http://oom.lt/SZKAUDIOAS331](http://oom.lt/SZKAUDIOAS331)

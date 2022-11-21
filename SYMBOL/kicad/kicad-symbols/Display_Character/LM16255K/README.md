@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-LM16255K
 - Hex ID: SZKDICHARACTERLM16255K
 - Name: Display_Character : LM16255K
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/LM16255K/
 - Description: Display_Character : LM16255K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LM16255K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LM16255K)
 - Short Link: [http://oom.lt/SZKDICHARACTERLM16255K](http://oom.lt/SZKDICHARACTERLM16255K)

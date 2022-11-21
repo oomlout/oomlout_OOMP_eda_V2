@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKRRAXIALDIN411L99D36P762VERTICAL > Resistor_THT : R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical](#fzkrraxialdin411l99d36p762vertical--resistor_tht--r_axial_din0411_l99mm_d36mm_p762mm_vertical)
+* [FZKRRAXIALDIN411L99D36P762F > Resistor_THT : R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical](#fzkrraxialdin411l99d36p762f--resistor_tht--r_axial_din0411_l99mm_d36mm_p762mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRRAXIALDIN411L99D36P762VERTICAL > Resistor_THT : R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical
+# FZKRRAXIALDIN411L99D36P762F > Resistor_THT : R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical
-- Hex ID: FZKRRAXIALDIN411L99D36P762VERTICAL
+- Hex ID: FZKRRAXIALDIN411L99D36P762F
 - Name: Resistor_THT : R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical/
 - Description: Resistor_THT : R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical)
-- Short Link: [http://oom.lt/FZKRRAXIALDIN411L99D36P762VERTICAL](http://oom.lt/FZKRRAXIALDIN411L99D36P762VERTICAL)
+- Short Link: [http://oom.lt/FZKRRAXIALDIN411L99D36P762F](http://oom.lt/FZKRRAXIALDIN411L99D36P762F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Resistor_THT|
 |OOMP Index|oompIndex|R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical|
-|Hex ID (short code)|hexID|FZKRRAXIALDIN411L99D36P762VERTICAL|
+|Hex ID (short code)|hexID|FZKRRAXIALDIN411L99D36P762F|
 |name|name|Resistor_THT : R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Resistor</td><td> Axial_DIN0411 series</td><td> Axial</td><td> Vertical</td><td> pin pitch=7.62mm</td><td> 1W</td><td> length*diameter=9.9*3.6mm^2'</td><td> 'tags'</td></tr><tr><td> 'Resistor Axial_DIN0411 series Axial Vertical pin pitch 7.62mm 1W length 9.9mm diameter 3.6mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_THT.3dshapes/R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

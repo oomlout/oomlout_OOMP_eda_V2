@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-E25-10
 - Hex ID: FZERCLE251
 - Name: rcl : E25-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/E25-10/
 - Description: rcl : E25-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E25-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E25-10)
 - Short Link: [http://oom.lt/FZERCLE251](http://oom.lt/FZERCLE251)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X05_LOCK
 - Hex ID: FZSSPARKFUNCNS1X5L
 - Name: SparkFun-Connectors : 1X05_LOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X05_LOCK/
 - Description: SparkFun-Connectors : 1X05_LOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X05_LOCK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X05_LOCK)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X5L](http://oom.lt/FZSSPARKFUNCNS1X5L)

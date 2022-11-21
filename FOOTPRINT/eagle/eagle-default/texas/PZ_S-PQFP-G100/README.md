@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-PZ_S-PQFP-G100
 - Hex ID: FZETEXASPZSPQFPG1
 - Name: texas : PZ_S-PQFP-G100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/PZ_S-PQFP-G100/
 - Description: texas : PZ_S-PQFP-G100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PZ_S-PQFP-G100](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PZ_S-PQFP-G100)
 - Short Link: [http://oom.lt/FZETEXASPZSPQFPG1](http://oom.lt/FZETEXASPZSPQFPG1)

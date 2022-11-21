@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ANT-2.4GHZ-8.0X1.0MM
 - Hex ID: FZSRFANT24GHZ8X1
 - Name: SparkFun-RF : ANT-2.4GHZ-8.0X1.0MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/ANT-2.4GHZ-8.0X1.0MM/
 - Description: SparkFun-RF : ANT-2.4GHZ-8.0X1.0MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ANT-2.4GHZ-8.0X1.0MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ANT-2.4GHZ-8.0X1.0MM)
 - Short Link: [http://oom.lt/FZSRFANT24GHZ8X1](http://oom.lt/FZSRFANT24GHZ8X1)

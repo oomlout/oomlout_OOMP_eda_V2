@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc104-ATS30Q
 - Hex ID: FZECONPC14ATS3Q
 - Name: con-pc104 : ATS30Q
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc104/ATS30Q/
 - Description: con-pc104 : ATS30Q
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc104-ATS30Q](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc104-ATS30Q)
 - Short Link: [http://oom.lt/FZECONPC14ATS3Q](http://oom.lt/FZECONPC14ATS3Q)

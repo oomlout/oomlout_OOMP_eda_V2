@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAV21
 - Hex ID: SZKDIODEBAV21
 - Name: Diode : BAV21
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAV21/
 - Description: Diode : BAV21
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV21](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV21)
 - Short Link: [http://oom.lt/SZKDIODEBAV21](http://oom.lt/SZKDIODEBAV21)

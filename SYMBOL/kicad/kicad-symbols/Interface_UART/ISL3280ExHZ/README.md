@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3280ExHZ
 - Hex ID: SZKINTERFACEUARTISL328EXHZ
 - Name: Interface_UART : ISL3280ExHZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ISL3280ExHZ/
 - Description: Interface_UART : ISL3280ExHZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3280ExHZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3280ExHZ)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTISL328EXHZ](http://oom.lt/SZKINTERFACEUARTISL328EXHZ)

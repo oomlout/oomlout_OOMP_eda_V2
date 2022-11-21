@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS443P
 - Hex ID: SZKPOWERMANAGEMENTBTS443P
 - Name: Power_Management : BTS443P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BTS443P/
 - Description: Power_Management : BTS443P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS443P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS443P)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS443P](http://oom.lt/SZKPOWERMANAGEMENTBTS443P)

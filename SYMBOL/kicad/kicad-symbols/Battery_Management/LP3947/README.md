@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LP3947
 - Hex ID: SZKBATMANAGEMENTLP3947
 - Name: Battery_Management : LP3947
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LP3947/
 - Description: Battery_Management : LP3947
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LP3947](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LP3947)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLP3947](http://oom.lt/SZKBATMANAGEMENTLP3947)

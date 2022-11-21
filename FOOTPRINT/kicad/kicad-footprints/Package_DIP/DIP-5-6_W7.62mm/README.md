@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIPDIP56W762 > Package_DIP : DIP-5-6_W7.62mm](#fzkdipdip56w762--package_dip--dip-5-6_w762mm)
+* [FZKDD56W762 > Package_DIP : DIP-5-6_W7.62mm](#fzkdd56w762--package_dip--dip-5-6_w762mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIPDIP56W762 > Package_DIP : DIP-5-6_W7.62mm
+# FZKDD56W762 > Package_DIP : DIP-5-6_W7.62mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-5-6_W7.62mm
-- Hex ID: FZKDIPDIP56W762
+- Hex ID: FZKDD56W762
 - Name: Package_DIP : DIP-5-6_W7.62mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-5-6_W7.62mm/
 - Description: Package_DIP : DIP-5-6_W7.62mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-5-6_W7.62mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-5-6_W7.62mm)
-- Short Link: [http://oom.lt/FZKDIPDIP56W762](http://oom.lt/FZKDIPDIP56W762)
+- Short Link: [http://oom.lt/FZKDD56W762](http://oom.lt/FZKDD56W762)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DIP|
 |OOMP Index|oompIndex|DIP-5-6_W7.62mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-5-6_W7.62mm|
-|Hex ID (short code)|hexID|FZKDIPDIP56W762|
+|Hex ID (short code)|hexID|FZKDD56W762|
 |name|name|Package_DIP : DIP-5-6_W7.62mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-5-6_W7.62mm'</td><td> 'description'</td></tr><tr><td> '5-lead though-hole mounted DIP package</td><td> row spacing 7.62 mm (300 mils)'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 7.62mm 300mil'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-5-6_W7.62mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-Knowles_LGA-5_3.5x2.65mm
 - Hex ID: FZKSENAUDIOKNOWLESLGA535X265
 - Name: Sensor_Audio : Knowles_LGA-5_3.5x2.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/Knowles_LGA-5_3.5x2.65mm/
 - Description: Sensor_Audio : Knowles_LGA-5_3.5x2.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-Knowles_LGA-5_3.5x2.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-Knowles_LGA-5_3.5x2.65mm)
 - Short Link: [http://oom.lt/FZKSENAUDIOKNOWLESLGA535X265](http://oom.lt/FZKSENAUDIOKNOWLESLGA535X265)

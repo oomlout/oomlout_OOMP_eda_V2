@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-L4532P
 - Hex ID: FZERCLL4532P
 - Name: rcl : L4532P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/L4532P/
 - Description: rcl : L4532P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L4532P](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-L4532P)
 - Short Link: [http://oom.lt/FZERCLL4532P](http://oom.lt/FZERCLL4532P)

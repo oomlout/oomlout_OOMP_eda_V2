@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-MINI_MELF-0204R
 - Hex ID: FZERCL24R
 - Name: rcl : MINI_MELF-0204R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/MINI_MELF-0204R/
 - Description: rcl : MINI_MELF-0204R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-MINI_MELF-0204R](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-MINI_MELF-0204R)
 - Short Link: [http://oom.lt/FZERCL24R](http://oom.lt/FZERCL24R)

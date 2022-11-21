@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-FUSE3
 - Hex ID: FZESPECIALFU3
 - Name: special : FUSE3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/FUSE3/
 - Description: special : FUSE3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-FUSE3](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-FUSE3)
 - Short Link: [http://oom.lt/FZESPECIALFU3](http://oom.lt/FZESPECIALFU3)

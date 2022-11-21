@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-1007
 - Hex ID: FZSC17
 - Name: SparkFun-Capacitors : 1007
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/1007/
 - Description: SparkFun-Capacitors : 1007
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-1007](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-1007)
 - Short Link: [http://oom.lt/FZSC17](http://oom.lt/FZSC17)

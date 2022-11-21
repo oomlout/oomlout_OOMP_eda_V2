@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-196
 - Hex ID: FZESMIPCCQFP196
 - Name: smd-ipc : CQFP-196
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/CQFP-196/
 - Description: smd-ipc : CQFP-196
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-196](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-196)
 - Short Link: [http://oom.lt/FZESMIPCCQFP196](http://oom.lt/FZESMIPCCQFP196)

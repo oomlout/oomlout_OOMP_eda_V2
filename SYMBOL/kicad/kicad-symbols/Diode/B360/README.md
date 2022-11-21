@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-B360
 - Hex ID: SZKDIODEB36
 - Name: Diode : B360
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/B360/
 - Description: Diode : B360
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B360](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B360)
 - Short Link: [http://oom.lt/SZKDIODEB36](http://oom.lt/SZKDIODEB36)

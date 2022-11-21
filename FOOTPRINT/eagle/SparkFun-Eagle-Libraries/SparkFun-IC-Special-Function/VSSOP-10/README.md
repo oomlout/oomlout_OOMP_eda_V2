@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-VSSOP-10
 - Hex ID: FZSISVSS1
 - Name: SparkFun-IC-Special-Function : VSSOP-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/VSSOP-10/
 - Description: SparkFun-IC-Special-Function : VSSOP-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-VSSOP-10](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-VSSOP-10)
 - Short Link: [http://oom.lt/FZSISVSS1](http://oom.lt/FZSISVSS1)

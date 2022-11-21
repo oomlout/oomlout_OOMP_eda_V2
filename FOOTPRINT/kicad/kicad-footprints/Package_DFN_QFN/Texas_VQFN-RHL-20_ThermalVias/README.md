@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNTEXASVQFNRHL2THERMALVIAS > Package_DFN_QFN : Texas_VQFN-RHL-20_ThermalVias](#fzkdfntexasvqfnrhl2thermalvias--package_dfn_qfn--texas_vqfn-rhl-20_thermalvias)
+* [FZKDFNTEXASVQFNRHL2THV > Package_DFN_QFN : Texas_VQFN-RHL-20_ThermalVias](#fzkdfntexasvqfnrhl2thv--package_dfn_qfn--texas_vqfn-rhl-20_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNTEXASVQFNRHL2THERMALVIAS > Package_DFN_QFN : Texas_VQFN-RHL-20_ThermalVias
+# FZKDFNTEXASVQFNRHL2THV > Package_DFN_QFN : Texas_VQFN-RHL-20_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_VQFN-RHL-20_ThermalVias
-- Hex ID: FZKDFNTEXASVQFNRHL2THERMALVIAS
+- Hex ID: FZKDFNTEXASVQFNRHL2THV
 - Name: Package_DFN_QFN : Texas_VQFN-RHL-20_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_VQFN-RHL-20_ThermalVias/
 - Description: Package_DFN_QFN : Texas_VQFN-RHL-20_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_VQFN-RHL-20_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_VQFN-RHL-20_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNTEXASVQFNRHL2THERMALVIAS](http://oom.lt/FZKDFNTEXASVQFNRHL2THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNTEXASVQFNRHL2THV](http://oom.lt/FZKDFNTEXASVQFNRHL2THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|Texas_VQFN-RHL-20_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_VQFN-RHL-20_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNTEXASVQFNRHL2THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNTEXASVQFNRHL2THV|
 |name|name|Package_DFN_QFN : Texas_VQFN-RHL-20_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_VQFN-RHL-20_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/bq51050b.pdf'</td><td> 'tags'</td></tr><tr><td> 'RHL0020A'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Texas_VQFN-RHL-20_ThermalVias.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

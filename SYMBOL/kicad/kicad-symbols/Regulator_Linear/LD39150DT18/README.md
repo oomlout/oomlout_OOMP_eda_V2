@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD39150DT18
 - Hex ID: SZKREGULATORLINEARLD3915DT18
 - Name: Regulator_Linear : LD39150DT18
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD39150DT18/
 - Description: Regulator_Linear : LD39150DT18
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD39150DT18](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD39150DT18)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLD3915DT18](http://oom.lt/SZKREGULATORLINEARLD3915DT18)

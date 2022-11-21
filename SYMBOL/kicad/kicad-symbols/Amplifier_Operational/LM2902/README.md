@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM2902
 - Hex ID: SZKAMPLIFIEROPERATIONALLM292
 - Name: Amplifier_Operational : LM2902
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM2902/
 - Description: Amplifier_Operational : LM2902
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM2902](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM2902)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM292](http://oom.lt/SZKAMPLIFIEROPERATIONALLM292)

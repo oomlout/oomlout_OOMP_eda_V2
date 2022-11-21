@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X08
 - Hex ID: FZSSPARKFUNCNS1X8
 - Name: SparkFun-Connectors : 1X08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X08/
 - Description: SparkFun-Connectors : 1X08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X08](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X08)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X8](http://oom.lt/FZSSPARKFUNCNS1X8)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-CA4090
 - Hex ID: FZERESISTORPOWERCA49
 - Name: resistor-power : CA4090
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/CA4090/
 - Description: resistor-power : CA4090
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA4090](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA4090)
 - Short Link: [http://oom.lt/FZERESISTORPOWERCA49](http://oom.lt/FZERESISTORPOWERCA49)

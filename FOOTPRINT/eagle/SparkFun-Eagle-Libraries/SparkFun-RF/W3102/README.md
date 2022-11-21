@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-W3102
 - Hex ID: FZSRFW312
 - Name: SparkFun-RF : W3102
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/W3102/
 - Description: SparkFun-RF : W3102
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-W3102](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-W3102)
 - Short Link: [http://oom.lt/FZSRFW312](http://oom.lt/FZSRFW312)

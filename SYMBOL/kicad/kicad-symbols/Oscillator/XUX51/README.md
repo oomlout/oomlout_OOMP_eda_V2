@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-XUX51
 - Hex ID: SZKOCSXUX51
 - Name: Oscillator : XUX51
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/XUX51/
 - Description: Oscillator : XUX51
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-XUX51](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-XUX51)
 - Short Link: [http://oom.lt/SZKOCSXUX51](http://oom.lt/SZKOCSXUX51)

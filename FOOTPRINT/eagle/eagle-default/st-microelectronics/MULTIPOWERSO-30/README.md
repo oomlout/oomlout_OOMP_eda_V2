@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-MULTIPOWERSO-30
 - Hex ID: FZESTMELECTRONICSMULTIPOWERSO3
 - Name: st-microelectronics : MULTIPOWERSO-30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/MULTIPOWERSO-30/
 - Description: st-microelectronics : MULTIPOWERSO-30
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-MULTIPOWERSO-30](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-MULTIPOWERSO-30)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSMULTIPOWERSO3](http://oom.lt/FZESTMELECTRONICSMULTIPOWERSO3)

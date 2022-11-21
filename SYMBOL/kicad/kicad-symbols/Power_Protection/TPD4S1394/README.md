@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4S1394
 - Hex ID: SZKPOWERPROTECTIONTPD4S1394
 - Name: Power_Protection : TPD4S1394
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD4S1394/
 - Description: Power_Protection : TPD4S1394
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4S1394](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4S1394)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTPD4S1394](http://oom.lt/SZKPOWERPROTECTIONTPD4S1394)

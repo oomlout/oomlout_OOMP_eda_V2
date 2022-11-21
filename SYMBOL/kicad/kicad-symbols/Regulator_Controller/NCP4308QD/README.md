@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308QD
 - Hex ID: SZKREGULATORCONTROLLERNCP438QD
 - Name: Regulator_Controller : NCP4308QD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP4308QD/
 - Description: Regulator_Controller : NCP4308QD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308QD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308QD)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP438QD](http://oom.lt/SZKREGULATORCONTROLLERNCP438QD)

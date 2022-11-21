@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-STUSB4500QTR
 - Hex ID: SZKINTERFACEUSTU45QTR
 - Name: Interface_USB : STUSB4500QTR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/STUSB4500QTR/
 - Description: Interface_USB : STUSB4500QTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-STUSB4500QTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-STUSB4500QTR)
 - Short Link: [http://oom.lt/SZKINTERFACEUSTU45QTR](http://oom.lt/SZKINTERFACEUSTU45QTR)

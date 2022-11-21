@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_Wuerth_WE-CMB-M
 - Hex ID: FZKINLCOONMODEWUERTHWECMBM
 - Name: Inductor_THT : L_CommonMode_Wuerth_WE-CMB-M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-M/
 - Description: Inductor_THT : L_CommonMode_Wuerth_WE-CMB-M
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_Wuerth_WE-CMB-M](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_Wuerth_WE-CMB-M)
 - Short Link: [http://oom.lt/FZKINLCOONMODEWUERTHWECMBM](http://oom.lt/FZKINLCOONMODEWUERTHWECMBM)

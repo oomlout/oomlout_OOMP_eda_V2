@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MICRO-SIDELED
 - Hex ID: FZAMSDL
 - Name: adafruit : MICRO-SIDELED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/MICRO-SIDELED/
 - Description: adafruit : MICRO-SIDELED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MICRO-SIDELED](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MICRO-SIDELED)
 - Short Link: [http://oom.lt/FZAMSDL](http://oom.lt/FZAMSDL)

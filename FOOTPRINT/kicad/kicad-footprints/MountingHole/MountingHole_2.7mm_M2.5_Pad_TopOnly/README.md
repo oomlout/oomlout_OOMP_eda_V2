@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL27M25PADTOPONLY > MountingHole : MountingHole_2.7mm_M2.5_Pad_TopOnly](#fzkholhol27m25padtoponly--mountinghole--mountinghole_27mm_m25_pad_toponly)
+* [FZKHOLHOL27M25PTOPONLY > MountingHole : MountingHole_2.7mm_M2.5_Pad_TopOnly](#fzkholhol27m25ptoponly--mountinghole--mountinghole_27mm_m25_pad_toponly)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL27M25PADTOPONLY > MountingHole : MountingHole_2.7mm_M2.5_Pad_TopOnly
+# FZKHOLHOL27M25PTOPONLY > MountingHole : MountingHole_2.7mm_M2.5_Pad_TopOnly
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_Pad_TopOnly
-- Hex ID: FZKHOLHOL27M25PADTOPONLY
+- Hex ID: FZKHOLHOL27M25PTOPONLY
 - Name: MountingHole : MountingHole_2.7mm_M2.5_Pad_TopOnly
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.7mm_M2.5_Pad_TopOnly/
 - Description: MountingHole : MountingHole_2.7mm_M2.5_Pad_TopOnly
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_Pad_TopOnly](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_Pad_TopOnly)
-- Short Link: [http://oom.lt/FZKHOLHOL27M25PADTOPONLY](http://oom.lt/FZKHOLHOL27M25PADTOPONLY)
+- Short Link: [http://oom.lt/FZKHOLHOL27M25PTOPONLY](http://oom.lt/FZKHOLHOL27M25PTOPONLY)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_2.7mm_M2.5_Pad_TopOnly|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_Pad_TopOnly|
-|Hex ID (short code)|hexID|FZKHOLHOL27M25PADTOPONLY|
+|Hex ID (short code)|hexID|FZKHOLHOL27M25PTOPONLY|
 |name|name|MountingHole : MountingHole_2.7mm_M2.5_Pad_TopOnly|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_2.7mm_M2.5_Pad_TopOnly'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 2.7mm</td><td> M2.5'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 2.7mm m2.5'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

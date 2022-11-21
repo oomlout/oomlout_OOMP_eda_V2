@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESTO39 > ref-packages : TO39](#fzerefpackagesto39--ref-packages--to39)
+* [FZEREFPSTO39 > ref-packages : TO39](#fzerefpsto39--ref-packages--to39)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESTO39 > ref-packages : TO39
+# FZEREFPSTO39 > ref-packages : TO39
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO39
-- Hex ID: FZEREFPACKAGESTO39
+- Hex ID: FZEREFPSTO39
 - Name: ref-packages : TO39
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/TO39/
 - Description: ref-packages : TO39
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO39](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO39)
-- Short Link: [http://oom.lt/FZEREFPACKAGESTO39](http://oom.lt/FZEREFPACKAGESTO39)
+- Short Link: [http://oom.lt/FZEREFPSTO39](http://oom.lt/FZEREFPSTO39)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|TO39|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-TO39|
-|Hex ID (short code)|hexID|FZEREFPACKAGESTO39|
+|Hex ID (short code)|hexID|FZEREFPSTO39|
 |name|name|ref-packages : TO39|
 ||||

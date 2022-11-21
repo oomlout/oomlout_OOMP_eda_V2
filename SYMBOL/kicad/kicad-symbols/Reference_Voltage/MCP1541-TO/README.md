@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1541-TO
 - Hex ID: SZKREFERENCEVOLTAGEMCP1541TO
 - Name: Reference_Voltage : MCP1541-TO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MCP1541-TO/
 - Description: Reference_Voltage : MCP1541-TO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1541-TO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1541-TO)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMCP1541TO](http://oom.lt/SZKREFERENCEVOLTAGEMCP1541TO)

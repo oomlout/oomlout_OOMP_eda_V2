@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TRIMPOT_TC33
 - Hex ID: FZSRTTRIMPOTTC33
 - Name: SparkFun-Retired : TRIMPOT_TC33
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TRIMPOT_TC33/
 - Description: SparkFun-Retired : TRIMPOT_TC33
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TRIMPOT_TC33](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TRIMPOT_TC33)
 - Short Link: [http://oom.lt/FZSRTTRIMPOTTC33](http://oom.lt/FZSRTTRIMPOTTC33)

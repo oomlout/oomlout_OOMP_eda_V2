@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCSPLFCSPWD11EP3X3P5EP164X238THERMALVIAS > Package_CSP : LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias](#fzkcsplfcspwd11ep3x3p5ep164x238thermalvias--package_csp--lfcsp-wd-10-1ep_3x3mm_p05mm_ep164x238mm_thermalvias)
+* [FZKCSPLFCSPWD11EP3X3P5EP164X238THV > Package_CSP : LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias](#fzkcsplfcspwd11ep3x3p5ep164x238thv--package_csp--lfcsp-wd-10-1ep_3x3mm_p05mm_ep164x238mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCSPLFCSPWD11EP3X3P5EP164X238THERMALVIAS > Package_CSP : LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias
+# FZKCSPLFCSPWD11EP3X3P5EP164X238THV > Package_CSP : LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias
-- Hex ID: FZKCSPLFCSPWD11EP3X3P5EP164X238THERMALVIAS
+- Hex ID: FZKCSPLFCSPWD11EP3X3P5EP164X238THV
 - Name: Package_CSP : LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias/
 - Description: Package_CSP : LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKCSPLFCSPWD11EP3X3P5EP164X238THERMALVIAS](http://oom.lt/FZKCSPLFCSPWD11EP3X3P5EP164X238THERMALVIAS)
+- Short Link: [http://oom.lt/FZKCSPLFCSPWD11EP3X3P5EP164X238THV](http://oom.lt/FZKCSPLFCSPWD11EP3X3P5EP164X238THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_CSP|
 |OOMP Index|oompIndex|LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKCSPLFCSPWD11EP3X3P5EP164X238THERMALVIAS|
+|Hex ID (short code)|hexID|FZKCSPLFCSPWD11EP3X3P5EP164X238THV|
 |name|name|Package_CSP : LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'LFCSP-WD</td><td> 10 Pin (https</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-10/CP_10_9.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LFCSP-WD NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

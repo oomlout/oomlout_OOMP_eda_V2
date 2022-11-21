@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fuse-19559
 - Hex ID: FZEFU19559
 - Name: fuse : 19559
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fuse/19559/
 - Description: fuse : 19559
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-19559](http://oom.lt/FOOTPRINT-eagle-eagle-default-fuse-19559)
 - Short Link: [http://oom.lt/FZEFU19559](http://oom.lt/FZEFU19559)

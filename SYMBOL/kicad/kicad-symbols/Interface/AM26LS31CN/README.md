@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-AM26LS31CN
 - Hex ID: SZKINTERFACEAM26LS31CN
 - Name: Interface : AM26LS31CN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/AM26LS31CN/
 - Description: Interface : AM26LS31CN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AM26LS31CN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AM26LS31CN)
 - Short Link: [http://oom.lt/SZKINTERFACEAM26LS31CN](http://oom.lt/SZKINTERFACEAM26LS31CN)

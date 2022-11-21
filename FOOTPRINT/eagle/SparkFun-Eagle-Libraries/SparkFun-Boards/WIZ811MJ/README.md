@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-WIZ811MJ
 - Hex ID: FZSBOWIZ811MJ
 - Name: SparkFun-Boards : WIZ811MJ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/WIZ811MJ/
 - Description: SparkFun-Boards : WIZ811MJ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-WIZ811MJ](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-WIZ811MJ)
 - Short Link: [http://oom.lt/FZSBOWIZ811MJ](http://oom.lt/FZSBOWIZ811MJ)

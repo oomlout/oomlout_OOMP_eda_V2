@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA196xDGK
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA196XDGK
 - Name: Amplifier_Operational : OPA196xDGK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA196xDGK/
 - Description: Amplifier_Operational : OPA196xDGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA196xDGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA196xDGK)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA196XDGK](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA196XDGK)

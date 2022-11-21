@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-CHIPLED-6
 - Hex ID: FZSSPARKFUNSENSCHIPL6
 - Name: SparkFun-Sensors : CHIPLED-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/CHIPLED-6/
 - Description: SparkFun-Sensors : CHIPLED-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-CHIPLED-6](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-CHIPLED-6)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSCHIPL6](http://oom.lt/FZSSPARKFUNSENSCHIPL6)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-P-BGA-388-2
 - Hex ID: FZEMSIEMENSPBGA3882
 - Name: micro-siemens : P-BGA-388-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/P-BGA-388-2/
 - Description: micro-siemens : P-BGA-388-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-P-BGA-388-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-P-BGA-388-2)
 - Short Link: [http://oom.lt/FZEMSIEMENSPBGA3882](http://oom.lt/FZEMSIEMENSPBGA3882)

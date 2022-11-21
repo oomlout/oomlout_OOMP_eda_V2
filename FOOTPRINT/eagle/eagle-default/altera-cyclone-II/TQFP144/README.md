@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-cyclone-II-TQFP144
 - Hex ID: FZEALTERACYCLONEIITQFP144
 - Name: altera-cyclone-II : TQFP144
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera-cyclone-II/TQFP144/
 - Description: altera-cyclone-II : TQFP144
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-cyclone-II-TQFP144](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-cyclone-II-TQFP144)
 - Short Link: [http://oom.lt/FZEALTERACYCLONEIITQFP144](http://oom.lt/FZEALTERACYCLONEIITQFP144)

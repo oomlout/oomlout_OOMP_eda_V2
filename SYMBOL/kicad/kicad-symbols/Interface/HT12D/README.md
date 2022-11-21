@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-HT12D
 - Hex ID: SZKINTERFACEHT12D
 - Name: Interface : HT12D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/HT12D/
 - Description: Interface : HT12D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-HT12D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-HT12D)
 - Short Link: [http://oom.lt/SZKINTERFACEHT12D](http://oom.lt/SZKINTERFACEHT12D)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TEMT6000
 - Hex ID: FZSSPARKFUNSENSTEMT6
 - Name: SparkFun-Sensors : TEMT6000
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/TEMT6000/
 - Description: SparkFun-Sensors : TEMT6000
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TEMT6000](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TEMT6000)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSTEMT6](http://oom.lt/FZSSPARKFUNSENSTEMT6)

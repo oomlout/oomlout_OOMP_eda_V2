@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-RM6-8A
 - Hex ID: FZETRAFOSIEMENSRM68A
 - Name: trafo-siemens : RM6-8A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo-siemens/RM6-8A/
 - Description: trafo-siemens : RM6-8A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM6-8A](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM6-8A)
 - Short Link: [http://oom.lt/FZETRAFOSIEMENSRM68A](http://oom.lt/FZETRAFOSIEMENSRM68A)

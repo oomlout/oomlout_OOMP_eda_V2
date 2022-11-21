@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103T4Ux
 - Hex ID: SZKMCUSTSTM32F1STM32F13T4UX
 - Name: MCU_ST_STM32F1 : STM32F103T4Ux
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103T4Ux/
 - Description: MCU_ST_STM32F1 : STM32F103T4Ux
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103T4Ux](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103T4Ux)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F13T4UX](http://oom.lt/SZKMCUSTSTM32F1STM32F13T4UX)

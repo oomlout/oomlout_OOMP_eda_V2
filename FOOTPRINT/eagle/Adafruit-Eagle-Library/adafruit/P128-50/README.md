@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P128-50
 - Hex ID: FZAP1285
 - Name: adafruit : P128-50
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/P128-50/
 - Description: adafruit : P128-50
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P128-50](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P128-50)
 - Short Link: [http://oom.lt/FZAP1285](http://oom.lt/FZAP1285)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-SOH28-SNAPHAT
 - Hex ID: FZEMEMORYSOH28SNAPHAT
 - Name: memory : SOH28-SNAPHAT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory/SOH28-SNAPHAT/
 - Description: memory : SOH28-SNAPHAT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-SOH28-SNAPHAT](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-SOH28-SNAPHAT)
 - Short Link: [http://oom.lt/FZEMEMORYSOH28SNAPHAT](http://oom.lt/FZEMEMORYSOH28SNAPHAT)

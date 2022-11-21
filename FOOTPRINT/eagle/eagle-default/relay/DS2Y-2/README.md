@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-DS2Y-2
 - Hex ID: FZERELAYDS2Y2
 - Name: relay : DS2Y-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/DS2Y-2/
 - Description: relay : DS2Y-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-DS2Y-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-DS2Y-2)
 - Short Link: [http://oom.lt/FZERELAYDS2Y2](http://oom.lt/FZERELAYDS2Y2)

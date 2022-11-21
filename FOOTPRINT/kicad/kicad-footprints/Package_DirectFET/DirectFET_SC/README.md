@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SC
 - Hex ID: FZKDFETDIRECTFETSC
 - Name: Package_DirectFET : DirectFET_SC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_SC/
 - Description: Package_DirectFET : DirectFET_SC
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SC)
 - Short Link: [http://oom.lt/FZKDFETDIRECTFETSC](http://oom.lt/FZKDFETDIRECTFETSC)

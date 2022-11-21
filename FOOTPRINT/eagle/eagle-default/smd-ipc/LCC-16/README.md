@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-16
 - Hex ID: FZESMIPCLCC16
 - Name: smd-ipc : LCC-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/LCC-16/
 - Description: smd-ipc : LCC-16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-16](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-16)
 - Short Link: [http://oom.lt/FZESMIPCLCC16](http://oom.lt/FZESMIPCLCC16)

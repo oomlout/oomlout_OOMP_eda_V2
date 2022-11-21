@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX872
 - Hex ID: SZKREFERENCEVOLTAGEMAX872
 - Name: Reference_Voltage : MAX872
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MAX872/
 - Description: Reference_Voltage : MAX872
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX872](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX872)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMAX872](http://oom.lt/SZKREFERENCEVOLTAGEMAX872)

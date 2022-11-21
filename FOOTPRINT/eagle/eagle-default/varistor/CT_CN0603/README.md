@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-CT_CN0603
 - Hex ID: FZEVCTCN63
 - Name: varistor : CT_CN0603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/CT_CN0603/
 - Description: varistor : CT_CN0603
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-CT_CN0603](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-CT_CN0603)
 - Short Link: [http://oom.lt/FZEVCTCN63](http://oom.lt/FZEVCTCN63)

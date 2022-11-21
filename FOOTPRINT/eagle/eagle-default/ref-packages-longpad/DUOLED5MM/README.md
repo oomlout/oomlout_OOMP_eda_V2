@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADDUOL5 > ref-packages-longpad : DUOLED5MM](#fzerefpackageslongpadduol5--ref-packages-longpad--duoled5mm)
+* [FZEREFPSLPDUOL5 > ref-packages-longpad : DUOLED5MM](#fzerefpslpduol5--ref-packages-longpad--duoled5mm)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADDUOL5 > ref-packages-longpad : DUOLED5MM
+# FZEREFPSLPDUOL5 > ref-packages-longpad : DUOLED5MM
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-DUOLED5MM
-- Hex ID: FZEREFPACKAGESLONGPADDUOL5
+- Hex ID: FZEREFPSLPDUOL5
 - Name: ref-packages-longpad : DUOLED5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/DUOLED5MM/
 - Description: ref-packages-longpad : DUOLED5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-DUOLED5MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-DUOLED5MM)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADDUOL5](http://oom.lt/FZEREFPACKAGESLONGPADDUOL5)
+- Short Link: [http://oom.lt/FZEREFPSLPDUOL5](http://oom.lt/FZEREFPSLPDUOL5)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|DUOLED5MM|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-DUOLED5MM|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADDUOL5|
+|Hex ID (short code)|hexID|FZEREFPSLPDUOL5|
 |name|name|ref-packages-longpad : DUOLED5MM|
 ||||

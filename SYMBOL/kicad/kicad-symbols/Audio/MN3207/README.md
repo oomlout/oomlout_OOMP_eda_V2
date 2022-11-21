@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-MN3207
 - Hex ID: SZKAUDIOMN327
 - Name: Audio : MN3207
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/MN3207/
 - Description: Audio : MN3207
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-MN3207](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-MN3207)
 - Short Link: [http://oom.lt/SZKAUDIOMN327](http://oom.lt/SZKAUDIOMN327)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG4010CEH
 - Hex ID: SZKDIODEPMEG41CEH
 - Name: Diode : PMEG4010CEH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG4010CEH/
 - Description: Diode : PMEG4010CEH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG4010CEH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG4010CEH)
 - Short Link: [http://oom.lt/SZKDIODEPMEG41CEH](http://oom.lt/SZKDIODEPMEG41CEH)

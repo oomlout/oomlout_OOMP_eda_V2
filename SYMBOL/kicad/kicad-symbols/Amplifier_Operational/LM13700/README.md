@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM13700
 - Hex ID: SZKAMPLIFIEROPERATIONALLM137
 - Name: Amplifier_Operational : LM13700
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM13700/
 - Description: Amplifier_Operational : LM13700
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM13700](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM13700)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM137](http://oom.lt/SZKAMPLIFIEROPERATIONALLM137)

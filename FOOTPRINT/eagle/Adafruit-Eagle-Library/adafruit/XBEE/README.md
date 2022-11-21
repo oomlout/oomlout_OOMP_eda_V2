@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XBEE
 - Hex ID: FZAXBEE
 - Name: adafruit : XBEE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/XBEE/
 - Description: adafruit : XBEE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XBEE](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XBEE)
 - Short Link: [http://oom.lt/FZAXBEE](http://oom.lt/FZAXBEE)

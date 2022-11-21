@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microphon-F9745AP
 - Hex ID: FZEMPHONF9745AP
 - Name: microphon : F9745AP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microphon/F9745AP/
 - Description: microphon : F9745AP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-F9745AP](http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-F9745AP)
 - Short Link: [http://oom.lt/FZEMPHONF9745AP](http://oom.lt/FZEMPHONF9745AP)

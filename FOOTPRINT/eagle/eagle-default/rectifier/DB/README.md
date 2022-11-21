@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-DB
 - Hex ID: FZERECTIFIERDB
 - Name: rectifier : DB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/DB/
 - Description: rectifier : DB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-DB](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-DB)
 - Short Link: [http://oom.lt/FZERECTIFIERDB](http://oom.lt/FZERECTIFIERDB)

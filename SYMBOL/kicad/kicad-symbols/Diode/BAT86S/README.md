@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT86S
 - Hex ID: SZKDIODEBAT86S
 - Name: Diode : BAT86S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAT86S/
 - Description: Diode : BAT86S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT86S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT86S)
 - Short Link: [http://oom.lt/SZKDIODEBAT86S](http://oom.lt/SZKDIODEBAT86S)

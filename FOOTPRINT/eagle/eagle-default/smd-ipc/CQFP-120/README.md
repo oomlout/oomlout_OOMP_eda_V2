@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-120
 - Hex ID: FZESMIPCCQFP12
 - Name: smd-ipc : CQFP-120
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/CQFP-120/
 - Description: smd-ipc : CQFP-120
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-120](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CQFP-120)
 - Short Link: [http://oom.lt/FZESMIPCCQFP12](http://oom.lt/FZESMIPCCQFP12)

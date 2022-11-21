@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-triac-TO220DLK
 - Hex ID: FZETRIACTO22DLK
 - Name: triac : TO220DLK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/triac/TO220DLK/
 - Description: triac : TO220DLK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TO220DLK](http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TO220DLK)
 - Short Link: [http://oom.lt/FZETRIACTO22DLK](http://oom.lt/FZETRIACTO22DLK)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM380N
 - Hex ID: SZKAMPLIFIERAUDIOLM38N
 - Name: Amplifier_Audio : LM380N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/LM380N/
 - Description: Amplifier_Audio : LM380N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM380N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM380N)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM38N](http://oom.lt/SZKAMPLIFIERAUDIOLM38N)

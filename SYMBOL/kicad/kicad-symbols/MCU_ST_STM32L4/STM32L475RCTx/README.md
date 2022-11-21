@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L475RCTx
 - Hex ID: SZKMCUSTSTM32L4STM32L475RCTX
 - Name: MCU_ST_STM32L4 : STM32L475RCTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L475RCTx/
 - Description: MCU_ST_STM32L4 : STM32L475RCTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L475RCTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L475RCTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L475RCTX](http://oom.lt/SZKMCUSTSTM32L4STM32L475RCTX)

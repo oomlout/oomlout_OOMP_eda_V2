@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-S20K1000
 - Hex ID: FZEVS2K1
 - Name: varistor : S20K1000
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/S20K1000/
 - Description: varistor : S20K1000
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S20K1000](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S20K1000)
 - Short Link: [http://oom.lt/FZEVS2K1](http://oom.lt/FZEVS2K1)

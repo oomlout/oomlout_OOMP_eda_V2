@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F358CCTx
 - Hex ID: SZKMCUSTSTM32F3STM32F358CCTX
 - Name: MCU_ST_STM32F3 : STM32F358CCTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F358CCTx/
 - Description: MCU_ST_STM32F3 : STM32F358CCTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F358CCTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F358CCTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F3STM32F358CCTX](http://oom.lt/SZKMCUSTSTM32F3STM32F358CCTX)

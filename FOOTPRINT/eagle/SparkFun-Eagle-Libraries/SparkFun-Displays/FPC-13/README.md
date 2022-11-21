@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-FPC-13
 - Hex ID: FZSSPARKFUNDISFPC13
 - Name: SparkFun-Displays : FPC-13
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/FPC-13/
 - Description: SparkFun-Displays : FPC-13
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-FPC-13](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-FPC-13)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISFPC13](http://oom.lt/FZSSPARKFUNDISFPC13)

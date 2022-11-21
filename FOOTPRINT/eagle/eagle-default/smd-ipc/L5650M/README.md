@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-L5650M
 - Hex ID: FZESMIPCL565M
 - Name: smd-ipc : L5650M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/L5650M/
 - Description: smd-ipc : L5650M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L5650M](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L5650M)
 - Short Link: [http://oom.lt/FZESMIPCL565M](http://oom.lt/FZESMIPCL565M)

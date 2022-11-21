@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-S2JTR
 - Hex ID: SZKDIODES2JTR
 - Name: Diode : S2JTR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/S2JTR/
 - Description: Diode : S2JTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-S2JTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-S2JTR)
 - Short Link: [http://oom.lt/SZKDIODES2JTR](http://oom.lt/SZKDIODES2JTR)

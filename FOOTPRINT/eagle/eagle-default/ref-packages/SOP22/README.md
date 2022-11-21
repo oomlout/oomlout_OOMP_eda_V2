@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESS22 > ref-packages : SOP22](#fzerefpackagess22--ref-packages--sop22)
+* [FZEREFPSS22 > ref-packages : SOP22](#fzerefpss22--ref-packages--sop22)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESS22 > ref-packages : SOP22
+# FZEREFPSS22 > ref-packages : SOP22
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOP22
-- Hex ID: FZEREFPACKAGESS22
+- Hex ID: FZEREFPSS22
 - Name: ref-packages : SOP22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SOP22/
 - Description: ref-packages : SOP22
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOP22](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOP22)
-- Short Link: [http://oom.lt/FZEREFPACKAGESS22](http://oom.lt/FZEREFPACKAGESS22)
+- Short Link: [http://oom.lt/FZEREFPSS22](http://oom.lt/FZEREFPSS22)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SOP22|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SOP22|
-|Hex ID (short code)|hexID|FZEREFPACKAGESS22|
+|Hex ID (short code)|hexID|FZEREFPSS22|
 |name|name|ref-packages : SOP22|
 ||||

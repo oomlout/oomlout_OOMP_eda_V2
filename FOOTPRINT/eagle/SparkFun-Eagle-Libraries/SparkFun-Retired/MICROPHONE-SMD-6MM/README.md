@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MICROPHONE-SMD-6MM
 - Hex ID: FZSRTMPHONESM6
 - Name: SparkFun-Retired : MICROPHONE-SMD-6MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/MICROPHONE-SMD-6MM/
 - Description: SparkFun-Retired : MICROPHONE-SMD-6MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MICROPHONE-SMD-6MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MICROPHONE-SMD-6MM)
 - Short Link: [http://oom.lt/FZSRTMPHONESM6](http://oom.lt/FZSRTMPHONESM6)

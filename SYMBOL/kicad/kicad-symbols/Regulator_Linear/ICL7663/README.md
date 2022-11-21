@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-ICL7663
 - Hex ID: SZKREGULATORLINEARICL7663
 - Name: Regulator_Linear : ICL7663
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ICL7663/
 - Description: Regulator_Linear : ICL7663
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ICL7663](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ICL7663)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARICL7663](http://oom.lt/SZKREGULATORLINEARICL7663)

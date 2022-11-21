@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-RTL8211EG-VB-CG
 - Hex ID: SZKINTERFACEETHERNETRTL8211EGVBCG
 - Name: Interface_Ethernet : RTL8211EG-VB-CG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/RTL8211EG-VB-CG/
 - Description: Interface_Ethernet : RTL8211EG-VB-CG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-RTL8211EG-VB-CG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-RTL8211EG-VB-CG)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETRTL8211EGVBCG](http://oom.lt/SZKINTERFACEETHERNETRTL8211EGVBCG)

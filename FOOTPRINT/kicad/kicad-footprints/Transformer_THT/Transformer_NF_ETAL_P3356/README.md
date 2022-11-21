@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_NF_ETAL_P3356
 - Hex ID: FZKTRTRNFETALP3356
 - Name: Transformer_THT : Transformer_NF_ETAL_P3356
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_NF_ETAL_P3356/
 - Description: Transformer_THT : Transformer_NF_ETAL_P3356
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_NF_ETAL_P3356](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_NF_ETAL_P3356)
 - Short Link: [http://oom.lt/FZKTRTRNFETALP3356](http://oom.lt/FZKTRTRNFETALP3356)

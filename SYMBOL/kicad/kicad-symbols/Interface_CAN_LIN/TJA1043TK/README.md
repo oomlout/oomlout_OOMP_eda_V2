@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1043TK
 - Hex ID: SZKINTERFACECANLINTJA143TK
 - Name: Interface_CAN_LIN : TJA1043TK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1043TK/
 - Description: Interface_CAN_LIN : TJA1043TK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1043TK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1043TK)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTJA143TK](http://oom.lt/SZKINTERFACECANLINTJA143TK)

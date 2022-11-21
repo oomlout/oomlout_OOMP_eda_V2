@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO214BA
 - Hex ID: FZEDIODEDO214BA
 - Name: diode : DO214BA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/DO214BA/
 - Description: diode : DO214BA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO214BA](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO214BA)
 - Short Link: [http://oom.lt/FZEDIODEDO214BA](http://oom.lt/FZEDIODEDO214BA)

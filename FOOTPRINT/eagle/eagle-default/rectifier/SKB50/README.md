@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-SKB50
 - Hex ID: FZERECTIFIERSKB5
 - Name: rectifier : SKB50
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/SKB50/
 - Description: rectifier : SKB50
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-SKB50](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-SKB50)
 - Short Link: [http://oom.lt/FZERECTIFIERSKB5](http://oom.lt/FZERECTIFIERSKB5)

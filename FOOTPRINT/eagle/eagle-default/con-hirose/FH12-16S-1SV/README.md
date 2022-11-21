@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirose-FH12-16S-1SV
 - Hex ID: FZECONHIROSEFH1216S1SV
 - Name: con-hirose : FH12-16S-1SV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirose/FH12-16S-1SV/
 - Description: con-hirose : FH12-16S-1SV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-FH12-16S-1SV](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-FH12-16S-1SV)
 - Short Link: [http://oom.lt/FZECONHIROSEFH1216S1SV](http://oom.lt/FZECONHIROSEFH1216S1SV)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SCD80_INFINEON
 - Hex ID: FZEDIODESCD8INFINEON
 - Name: diode : SCD80_INFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SCD80_INFINEON/
 - Description: diode : SCD80_INFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SCD80_INFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SCD80_INFINEON)
 - Short Link: [http://oom.lt/FZEDIODESCD8INFINEON](http://oom.lt/FZEDIODESCD8INFINEON)

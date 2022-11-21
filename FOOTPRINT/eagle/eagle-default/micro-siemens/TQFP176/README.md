@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-TQFP176
 - Hex ID: FZEMSIEMENSTQFP176
 - Name: micro-siemens : TQFP176
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/TQFP176/
 - Description: micro-siemens : TQFP176
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-TQFP176](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-TQFP176)
 - Short Link: [http://oom.lt/FZEMSIEMENSTQFP176](http://oom.lt/FZEMSIEMENSTQFP176)

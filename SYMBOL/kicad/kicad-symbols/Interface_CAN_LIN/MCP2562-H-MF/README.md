@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2562-H-MF
 - Hex ID: SZKINTERFACECANLINMCP2562HMF
 - Name: Interface_CAN_LIN : MCP2562-H-MF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2562-H-MF/
 - Description: Interface_CAN_LIN : MCP2562-H-MF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2562-H-MF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2562-H-MF)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2562HMF](http://oom.lt/SZKINTERFACECANLINMCP2562HMF)

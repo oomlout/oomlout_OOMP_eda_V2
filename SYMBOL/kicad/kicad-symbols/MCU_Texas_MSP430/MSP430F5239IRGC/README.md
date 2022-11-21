@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5239IRGC
 - Hex ID: SZKMCUTEXASMSP43MSP43F5239IRGC
 - Name: MCU_Texas_MSP430 : MSP430F5239IRGC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F5239IRGC/
 - Description: MCU_Texas_MSP430 : MSP430F5239IRGC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5239IRGC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5239IRGC)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F5239IRGC](http://oom.lt/SZKMCUTEXASMSP43MSP43F5239IRGC)

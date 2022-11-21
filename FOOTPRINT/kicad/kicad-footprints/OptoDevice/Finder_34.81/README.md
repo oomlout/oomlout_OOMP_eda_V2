@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Finder_34.81
 - Hex ID: FZKOPFINDER3481
 - Name: OptoDevice : Finder_34.81
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Finder_34.81/
 - Description: OptoDevice : Finder_34.81
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Finder_34.81](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Finder_34.81)
 - Short Link: [http://oom.lt/FZKOPFINDER3481](http://oom.lt/FZKOPFINDER3481)

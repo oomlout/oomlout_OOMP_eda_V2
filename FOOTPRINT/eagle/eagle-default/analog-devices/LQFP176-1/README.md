@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-LQFP176-1
 - Hex ID: FZEANALOGDEVICESLQFP1761
 - Name: analog-devices : LQFP176-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/LQFP176-1/
 - Description: analog-devices : LQFP176-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LQFP176-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-LQFP176-1)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESLQFP1761](http://oom.lt/FZEANALOGDEVICESLQFP1761)

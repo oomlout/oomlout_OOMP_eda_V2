@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DB28x-xSP
 - Hex ID: SZKMCUMCHIPAVRDXAVR128DB28XXSP
 - Name: MCU_Microchip_AVR_Dx : AVR128DB28x-xSP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR128DB28x-xSP/
 - Description: MCU_Microchip_AVR_Dx : AVR128DB28x-xSP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DB28x-xSP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DB28x-xSP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR128DB28XXSP](http://oom.lt/SZKMCUMCHIPAVRDXAVR128DB28XXSP)

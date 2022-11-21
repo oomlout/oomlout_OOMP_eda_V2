@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-us-DIL28-6
 - Hex ID: FZE74XXUSDIL286
 - Name: 74xx-us : DIL28-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-us/DIL28-6/
 - Description: 74xx-us : DIL28-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-us-DIL28-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-us-DIL28-6)
 - Short Link: [http://oom.lt/FZE74XXUSDIL286](http://oom.lt/FZE74XXUSDIL286)

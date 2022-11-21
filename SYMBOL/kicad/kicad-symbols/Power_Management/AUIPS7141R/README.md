@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7141R
 - Hex ID: SZKPOWERMANAGEMENTAUIPS7141R
 - Name: Power_Management : AUIPS7141R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS7141R/
 - Description: Power_Management : AUIPS7141R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7141R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7141R)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIPS7141R](http://oom.lt/SZKPOWERMANAGEMENTAUIPS7141R)

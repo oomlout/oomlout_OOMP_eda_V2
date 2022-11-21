@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx-CD74AC238
 - Hex ID: SZK74XXCD74AC238
 - Name: 74xx : CD74AC238
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/CD74AC238/
 - Description: 74xx : CD74AC238
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-CD74AC238](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-CD74AC238)
 - Short Link: [http://oom.lt/SZK74XXCD74AC238](http://oom.lt/SZK74XXCD74AC238)

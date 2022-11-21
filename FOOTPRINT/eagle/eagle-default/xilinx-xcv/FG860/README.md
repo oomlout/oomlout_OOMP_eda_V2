@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG860
 - Hex ID: FZEXILINXXCVFG86
 - Name: xilinx-xcv : FG860
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/FG860/
 - Description: xilinx-xcv : FG860
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG860](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG860)
 - Short Link: [http://oom.lt/FZEXILINXXCVFG86](http://oom.lt/FZEXILINXXCVFG86)

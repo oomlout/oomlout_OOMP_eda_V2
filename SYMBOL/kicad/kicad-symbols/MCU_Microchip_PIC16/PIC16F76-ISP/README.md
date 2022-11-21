@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F76-ISP
 - Hex ID: SZKMCUMCHIPPIC16PIC16F76ISP
 - Name: MCU_Microchip_PIC16 : PIC16F76-ISP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F76-ISP/
 - Description: MCU_Microchip_PIC16 : PIC16F76-ISP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F76-ISP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F76-ISP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F76ISP](http://oom.lt/SZKMCUMCHIPPIC16PIC16F76ISP)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-F126Z12
 - Hex ID: FZEDIODEF126Z12
 - Name: diode : F126Z12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/F126Z12/
 - Description: diode : F126Z12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-F126Z12](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-F126Z12)
 - Short Link: [http://oom.lt/FZEDIODEF126Z12](http://oom.lt/FZEDIODEF126Z12)

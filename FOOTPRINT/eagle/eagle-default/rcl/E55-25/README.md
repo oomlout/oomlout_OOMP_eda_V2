@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-E55-25
 - Hex ID: FZERCLE5525
 - Name: rcl : E55-25
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/E55-25/
 - Description: rcl : E55-25
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E55-25](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E55-25)
 - Short Link: [http://oom.lt/FZERCLE5525](http://oom.lt/FZERCLE5525)

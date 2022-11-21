@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZETESTPADB127 > testpad : B1,27](#fzetestpadb127--testpad--b127)
+* [FZETESTPB127 > testpad : B1,27](#fzetestpb127--testpad--b127)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZETESTPADB127 > testpad : B1,27
+# FZETESTPB127 > testpad : B1,27
 
 - ID: FOOTPRINT-eagle-eagle-default-testpad-B1,27
-- Hex ID: FZETESTPADB127
+- Hex ID: FZETESTPB127
 - Name: testpad : B1,27
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/testpad/B1,27/
 - Description: testpad : B1,27
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-testpad-B1,27](http://oom.lt/FOOTPRINT-eagle-eagle-default-testpad-B1,27)
-- Short Link: [http://oom.lt/FZETESTPADB127](http://oom.lt/FZETESTPADB127)
+- Short Link: [http://oom.lt/FZETESTPB127](http://oom.lt/FZETESTPB127)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|testpad|
 |OOMP Index|oompIndex|B1,27|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-testpad-B1,27|
-|Hex ID (short code)|hexID|FZETESTPADB127|
+|Hex ID (short code)|hexID|FZETESTPB127|
 |name|name|testpad : B1,27|
 ||||

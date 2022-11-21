@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trimble-1216
 - Hex ID: FZETRIMBLE1216
 - Name: trimble : 1216
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trimble/1216/
 - Description: trimble : 1216
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trimble-1216](http://oom.lt/FOOTPRINT-eagle-eagle-default-trimble-1216)
 - Short Link: [http://oom.lt/FZETRIMBLE1216](http://oom.lt/FZETRIMBLE1216)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-Nidec_Copal_SH-7010C
 - Hex ID: FZKBNIDECCOPALSH71C
 - Name: Button_Switch_THT : Nidec_Copal_SH-7010C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/Nidec_Copal_SH-7010C/
 - Description: Button_Switch_THT : Nidec_Copal_SH-7010C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-Nidec_Copal_SH-7010C](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-Nidec_Copal_SH-7010C)
 - Short Link: [http://oom.lt/FZKBNIDECCOPALSH71C](http://oom.lt/FZKBNIDECCOPALSH71C)

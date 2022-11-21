@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-CC56-12GWA
 - Hex ID: SZKDICHARACTERCC5612GWA
 - Name: Display_Character : CC56-12GWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/CC56-12GWA/
 - Description: Display_Character : CC56-12GWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CC56-12GWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CC56-12GWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERCC5612GWA](http://oom.lt/SZKDICHARACTERCC5612GWA)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA1760
 - Hex ID: FZEALTERASTRATIXIVFBGA176
 - Name: altera-stratix-iv : FBGA1760
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera-stratix-iv/FBGA1760/
 - Description: altera-stratix-iv : FBGA1760
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA1760](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA1760)
 - Short Link: [http://oom.lt/FZEALTERASTRATIXIVFBGA176](http://oom.lt/FZEALTERASTRATIXIVFBGA176)

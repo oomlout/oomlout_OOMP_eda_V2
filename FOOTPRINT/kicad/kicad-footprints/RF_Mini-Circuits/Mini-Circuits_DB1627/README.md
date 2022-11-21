@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_DB1627
 - Hex ID: FZKRFMCIRCUITSDB1627
 - Name: RF_Mini-Circuits : Mini-Circuits_DB1627
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_DB1627/
 - Description: RF_Mini-Circuits : Mini-Circuits_DB1627
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_DB1627](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_DB1627)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSDB1627](http://oom.lt/FZKRFMCIRCUITSDB1627)

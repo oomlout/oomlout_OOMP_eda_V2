@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Tunnel_Filled
 - Hex ID: SZKDEVICEDTUNNELFILL
 - Name: Device : D_Tunnel_Filled
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Tunnel_Filled/
 - Description: Device : D_Tunnel_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Tunnel_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Tunnel_Filled)
 - Short Link: [http://oom.lt/SZKDEVICEDTUNNELFILL](http://oom.lt/SZKDEVICEDTUNNELFILL)

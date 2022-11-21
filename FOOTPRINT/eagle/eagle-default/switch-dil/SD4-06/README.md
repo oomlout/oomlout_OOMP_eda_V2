@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHDILSD46 > switch-dil : SD4-06](#fzeswitchdilsd46--switch-dil--sd4-06)
+* [FZESWDILSD46 > switch-dil : SD4-06](#fzeswdilsd46--switch-dil--sd4-06)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHDILSD46 > switch-dil : SD4-06
+# FZESWDILSD46 > switch-dil : SD4-06
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-SD4-06
-- Hex ID: FZESWITCHDILSD46
+- Hex ID: FZESWDILSD46
 - Name: switch-dil : SD4-06
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/SD4-06/
 - Description: switch-dil : SD4-06
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-SD4-06](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-SD4-06)
-- Short Link: [http://oom.lt/FZESWITCHDILSD46](http://oom.lt/FZESWITCHDILSD46)
+- Short Link: [http://oom.lt/FZESWDILSD46](http://oom.lt/FZESWDILSD46)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-dil|
 |OOMP Index|oompIndex|SD4-06|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-dil-SD4-06|
-|Hex ID (short code)|hexID|FZESWITCHDILSD46|
+|Hex ID (short code)|hexID|FZESWDILSD46|
 |name|name|switch-dil : SD4-06|
 ||||

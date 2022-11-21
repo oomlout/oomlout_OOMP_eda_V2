@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-10_3x3mm_P0.5mm
 - Hex ID: FZKSOMS13X3P5
 - Name: Package_SO : MSOP-10_3x3mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-10_3x3mm_P0.5mm/
 - Description: Package_SO : MSOP-10_3x3mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-10_3x3mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-10_3x3mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKSOMS13X3P5](http://oom.lt/FZKSOMS13X3P5)

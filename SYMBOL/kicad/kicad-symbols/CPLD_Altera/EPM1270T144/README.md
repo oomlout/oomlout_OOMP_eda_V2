@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM1270T144
 - Hex ID: SZKCPLDALTERAEPM127T144
 - Name: CPLD_Altera : EPM1270T144
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM1270T144/
 - Description: CPLD_Altera : EPM1270T144
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM1270T144](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM1270T144)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEPM127T144](http://oom.lt/SZKCPLDALTERAEPM127T144)

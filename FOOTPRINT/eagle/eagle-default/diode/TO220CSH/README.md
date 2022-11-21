@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-TO220CSH
 - Hex ID: FZEDIODETO22CSH
 - Name: diode : TO220CSH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/TO220CSH/
 - Description: diode : TO220CSH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO220CSH](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO220CSH)
 - Short Link: [http://oom.lt/FZEDIODETO22CSH](http://oom.lt/FZEDIODETO22CSH)

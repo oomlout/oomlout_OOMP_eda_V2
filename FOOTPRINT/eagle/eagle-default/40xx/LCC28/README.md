@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-40xx-LCC28
 - Hex ID: FZE4XXLCC28
 - Name: 40xx : LCC28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/LCC28/
 - Description: 40xx : LCC28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-40xx-LCC28](http://oom.lt/FOOTPRINT-eagle-eagle-default-40xx-LCC28)
 - Short Link: [http://oom.lt/FZE4XXLCC28](http://oom.lt/FZE4XXLCC28)

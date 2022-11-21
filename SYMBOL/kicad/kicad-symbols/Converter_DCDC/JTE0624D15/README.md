@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTE0624D15
 - Hex ID: SZKCONJTE624D15
 - Name: Converter_DCDC : JTE0624D15
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/JTE0624D15/
 - Description: Converter_DCDC : JTE0624D15
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTE0624D15](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTE0624D15)
 - Short Link: [http://oom.lt/SZKCONJTE624D15](http://oom.lt/SZKCONJTE624D15)

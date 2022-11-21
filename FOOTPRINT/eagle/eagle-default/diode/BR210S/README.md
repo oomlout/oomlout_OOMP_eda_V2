@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-BR210S
 - Hex ID: FZEDIODEBR21S
 - Name: diode : BR210S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/BR210S/
 - Description: diode : BR210S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-BR210S](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-BR210S)
 - Short Link: [http://oom.lt/FZEDIODEBR21S](http://oom.lt/FZEDIODEBR21S)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_RF1157_RF1158
 - Hex ID: FZKBGAXILINXRF1157RF1158
 - Name: Package_BGA : Xilinx_RF1157_RF1158
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_RF1157_RF1158/
 - Description: Package_BGA : Xilinx_RF1157_RF1158
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_RF1157_RF1158](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_RF1157_RF1158)
 - Short Link: [http://oom.lt/FZKBGAXILINXRF1157RF1158](http://oom.lt/FZKBGAXILINXRF1157RF1158)

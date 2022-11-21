@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N5821
 - Hex ID: SZKDIODE1N5821
 - Name: Diode : 1N5821
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N5821/
 - Description: Diode : 1N5821
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5821](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5821)
 - Short Link: [http://oom.lt/SZKDIODE1N5821](http://oom.lt/SZKDIODE1N5821)

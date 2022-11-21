@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIPSMIP4W953 > Package_DIP : SMDIP-4_W9.53mm](#fzkdipsmip4w953--package_dip--smdip-4_w953mm)
+* [FZKDSMIP4W953 > Package_DIP : SMDIP-4_W9.53mm](#fzkdsmip4w953--package_dip--smdip-4_w953mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIPSMIP4W953 > Package_DIP : SMDIP-4_W9.53mm
+# FZKDSMIP4W953 > Package_DIP : SMDIP-4_W9.53mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-4_W9.53mm
-- Hex ID: FZKDIPSMIP4W953
+- Hex ID: FZKDSMIP4W953
 - Name: Package_DIP : SMDIP-4_W9.53mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-4_W9.53mm/
 - Description: Package_DIP : SMDIP-4_W9.53mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-4_W9.53mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-4_W9.53mm)
-- Short Link: [http://oom.lt/FZKDIPSMIP4W953](http://oom.lt/FZKDIPSMIP4W953)
+- Short Link: [http://oom.lt/FZKDSMIP4W953](http://oom.lt/FZKDSMIP4W953)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DIP|
 |OOMP Index|oompIndex|SMDIP-4_W9.53mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-4_W9.53mm|
-|Hex ID (short code)|hexID|FZKDIPSMIP4W953|
+|Hex ID (short code)|hexID|FZKDSMIP4W953|
 |name|name|Package_DIP : SMDIP-4_W9.53mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMDIP-4_W9.53mm'</td><td> 'description'</td></tr><tr><td> '4-lead surface-mounted (SMD) DIP package</td><td> row spacing 9.53 mm (375 mils)'</td><td> 'tags'</td></tr><tr><td> 'SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/SMDIP-4_W9.53mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

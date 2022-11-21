@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOCOM1399 > digikey-footprints : RF_Module_COM-13909](#fzkicaddigikeykicadlibrarydigikeyfootprintsrfmocom1399--digikey-footprints--rf_module_com-13909)
+* [FZDIGIDIGIKEYFOOTPRINTSRFMOCOM1399 > digikey-footprints : RF_Module_COM-13909](#fzdigidigikeyfootprintsrfmocom1399--digikey-footprints--rf_module_com-13909)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOCOM1399 > digikey-footprints : RF_Module_COM-13909
+# FZDIGIDIGIKEYFOOTPRINTSRFMOCOM1399 > digikey-footprints : RF_Module_COM-13909
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_COM-13909
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOCOM1399
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFMOCOM1399
 - Name: digikey-footprints : RF_Module_COM-13909
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Module_COM-13909/
 - Description: digikey-footprints : RF_Module_COM-13909
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_COM-13909](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_COM-13909)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOCOM1399](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOCOM1399)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMOCOM1399](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFMOCOM1399)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|RF_Module_COM-13909|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_COM-13909|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOCOM1399|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSRFMOCOM1399|
 |name|name|digikey-footprints : RF_Module_COM-13909|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RF_Module_COM-13909'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//cdn.sparkfun.com/datasheets/Wireless/General/RFM69HCW-V1.1.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

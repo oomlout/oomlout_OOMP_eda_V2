@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-12BH412
 - Hex ID: FZA12BH412
 - Name: adafruit : 12BH412
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/12BH412/
 - Description: adafruit : 12BH412
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-12BH412](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-12BH412)
 - Short Link: [http://oom.lt/FZA12BH412](http://oom.lt/FZA12BH412)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LT3652EDD
 - Hex ID: SZKBATMANAGEMENTLT3652EDD
 - Name: Battery_Management : LT3652EDD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LT3652EDD/
 - Description: Battery_Management : LT3652EDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LT3652EDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LT3652EDD)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLT3652EDD](http://oom.lt/SZKBATMANAGEMENTLT3652EDD)

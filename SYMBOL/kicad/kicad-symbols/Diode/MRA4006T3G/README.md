@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MRA4006T3G
 - Hex ID: SZKDIODEMRA46T3G
 - Name: Diode : MRA4006T3G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MRA4006T3G/
 - Description: Diode : MRA4006T3G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MRA4006T3G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MRA4006T3G)
 - Short Link: [http://oom.lt/SZKDIODEMRA46T3G](http://oom.lt/SZKDIODEMRA46T3G)

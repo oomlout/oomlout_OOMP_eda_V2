@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-8088_Min_Mode
 - Hex ID: SZKMCUINTEL888MINMODE
 - Name: MCU_Intel : 8088_Min_Mode
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Intel/8088_Min_Mode/
 - Description: MCU_Intel : 8088_Min_Mode
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8088_Min_Mode](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8088_Min_Mode)
 - Short Link: [http://oom.lt/SZKMCUINTEL888MINMODE](http://oom.lt/SZKMCUINTEL888MINMODE)

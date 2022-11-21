@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920T-5.0_TO263
 - Hex ID: SZKREGULATORLINEARSPX292T5TO263
 - Name: Regulator_Linear : SPX2920T-5.0_TO263
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/SPX2920T-5.0_TO263/
 - Description: Regulator_Linear : SPX2920T-5.0_TO263
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920T-5.0_TO263](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920T-5.0_TO263)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARSPX292T5TO263](http://oom.lt/SZKREGULATORLINEARSPX292T5TO263)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-BQ24392
 - Hex ID: SZKINTERFACEUBQ24392
 - Name: Interface_USB : BQ24392
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/BQ24392/
 - Description: Interface_USB : BQ24392
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-BQ24392](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-BQ24392)
 - Short Link: [http://oom.lt/SZKINTERFACEUBQ24392](http://oom.lt/SZKINTERFACEUBQ24392)

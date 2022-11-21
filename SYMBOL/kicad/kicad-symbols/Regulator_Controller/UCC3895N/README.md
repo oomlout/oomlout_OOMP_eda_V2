@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3895N
 - Hex ID: SZKREGULATORCONTROLLERUCC3895N
 - Name: Regulator_Controller : UCC3895N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC3895N/
 - Description: Regulator_Controller : UCC3895N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3895N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3895N)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC3895N](http://oom.lt/SZKREGULATORCONTROLLERUCC3895N)

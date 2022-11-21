@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v3.x
 - Hex ID: SZKMCUMOARDNANOV3X
 - Name: MCU_Module : Arduino_Nano_v3.x
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_v3.x/
 - Description: MCU_Module : Arduino_Nano_v3.x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v3.x](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v3.x)
 - Short Link: [http://oom.lt/SZKMCUMOARDNANOV3X](http://oom.lt/SZKMCUMOARDNANOV3X)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-LED2X5
 - Hex ID: FZELL2X5
 - Name: led : LED2X5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/LED2X5/
 - Description: led : LED2X5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LED2X5](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LED2X5)
 - Short Link: [http://oom.lt/FZELL2X5](http://oom.lt/FZELL2X5)

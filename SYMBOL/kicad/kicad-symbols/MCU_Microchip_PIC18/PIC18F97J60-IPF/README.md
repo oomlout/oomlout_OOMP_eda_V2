@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F97J60-IPF
 - Hex ID: SZKMCUMCHIPPIC18PIC18F97J6IPF
 - Name: MCU_Microchip_PIC18 : PIC18F97J60-IPF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F97J60-IPF/
 - Description: MCU_Microchip_PIC18 : PIC18F97J60-IPF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F97J60-IPF](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F97J60-IPF)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F97J6IPF](http://oom.lt/SZKMCUMCHIPPIC18PIC18F97J6IPF)

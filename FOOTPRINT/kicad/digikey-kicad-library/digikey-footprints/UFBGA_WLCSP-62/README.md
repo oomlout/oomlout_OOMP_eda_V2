@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFBGAWLCSP62 > digikey-footprints : UFBGA_WLCSP-62](#fzkicaddigikeykicadlibrarydigikeyfootprintsufbgawlcsp62--digikey-footprints--ufbga_wlcsp-62)
+* [FZDIGIDIGIKEYFOOTPRINTSUFBGAWLCSP62 > digikey-footprints : UFBGA_WLCSP-62](#fzdigidigikeyfootprintsufbgawlcsp62--digikey-footprints--ufbga_wlcsp-62)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFBGAWLCSP62 > digikey-footprints : UFBGA_WLCSP-62
+# FZDIGIDIGIKEYFOOTPRINTSUFBGAWLCSP62 > digikey-footprints : UFBGA_WLCSP-62
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFBGA_WLCSP-62
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFBGAWLCSP62
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSUFBGAWLCSP62
 - Name: digikey-footprints : UFBGA_WLCSP-62
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UFBGA_WLCSP-62/
 - Description: digikey-footprints : UFBGA_WLCSP-62
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFBGA_WLCSP-62](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFBGA_WLCSP-62)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFBGAWLCSP62](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFBGAWLCSP62)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUFBGAWLCSP62](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUFBGAWLCSP62)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|UFBGA_WLCSP-62|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFBGA_WLCSP-62|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFBGAWLCSP62|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSUFBGAWLCSP62|
 |name|name|digikey-footprints : UFBGA_WLCSP-62|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UFBGA_WLCSP-62'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nordicsemi.com/eng/nordic/download_resource/62726/14/67410332/13358'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

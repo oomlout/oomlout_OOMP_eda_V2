@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DS_TOUCH_CONNECTOR
 - Hex ID: FZSSPARKFUNCNSDSTOUCHCN
 - Name: SparkFun-Connectors : DS_TOUCH_CONNECTOR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/DS_TOUCH_CONNECTOR/
 - Description: SparkFun-Connectors : DS_TOUCH_CONNECTOR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DS_TOUCH_CONNECTOR](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DS_TOUCH_CONNECTOR)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSDSTOUCHCN](http://oom.lt/FZSSPARKFUNCNSDSTOUCHCN)

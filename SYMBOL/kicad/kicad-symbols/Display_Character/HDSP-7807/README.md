@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7807
 - Hex ID: SZKDICHARACTERHDSP787
 - Name: Display_Character : HDSP-7807
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/HDSP-7807/
 - Description: Display_Character : HDSP-7807
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7807](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7807)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSP787](http://oom.lt/SZKDICHARACTERHDSP787)

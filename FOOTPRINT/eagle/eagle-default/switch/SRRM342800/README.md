@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHSRRM3428 > switch : SRRM342800](#fzeswitchsrrm3428--switch--srrm342800)
+* [FZESWSRRM3428 > switch : SRRM342800](#fzeswsrrm3428--switch--srrm342800)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHSRRM3428 > switch : SRRM342800
+# FZESWSRRM3428 > switch : SRRM342800
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-SRRM342800
-- Hex ID: FZESWITCHSRRM3428
+- Hex ID: FZESWSRRM3428
 - Name: switch : SRRM342800
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/SRRM342800/
 - Description: switch : SRRM342800
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM342800](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-SRRM342800)
-- Short Link: [http://oom.lt/FZESWITCHSRRM3428](http://oom.lt/FZESWITCHSRRM3428)
+- Short Link: [http://oom.lt/FZESWSRRM3428](http://oom.lt/FZESWSRRM3428)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|SRRM342800|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-SRRM342800|
-|Hex ID (short code)|hexID|FZESWITCHSRRM3428|
+|Hex ID (short code)|hexID|FZESWSRRM3428|
 |name|name|switch : SRRM342800|
 ||||

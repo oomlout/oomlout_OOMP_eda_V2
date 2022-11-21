@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RP63
 - Hex ID: FZERELAYRP63
 - Name: relay : RP63
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RP63/
 - Description: relay : RP63
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RP63](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RP63)
 - Short Link: [http://oom.lt/FZERELAYRP63](http://oom.lt/FZERELAYRP63)

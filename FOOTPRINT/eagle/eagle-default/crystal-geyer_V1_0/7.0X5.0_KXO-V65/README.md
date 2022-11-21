@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-7.0X5.0_KXO-V65
 - Hex ID: FZEXGEYERV17X5KXOV65
 - Name: crystal-geyer_V1_0 : 7.0X5.0_KXO-V65
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal-geyer_V1_0/7.0X5.0_KXO-V65/
 - Description: crystal-geyer_V1_0 : 7.0X5.0_KXO-V65
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-7.0X5.0_KXO-V65](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-7.0X5.0_KXO-V65)
 - Short Link: [http://oom.lt/FZEXGEYERV17X5KXOV65](http://oom.lt/FZEXGEYERV17X5KXOV65)

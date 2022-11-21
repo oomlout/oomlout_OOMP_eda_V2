@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR > digikey-footprints : USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR](#fzkicaddigikeykicadlibrarydigikeyfootprintsumbmaleuj2mibh4str--digikey-footprints--usb_micro_b_male_uj2-mibh-4-smt-tr)
+* [FZDIGIDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR > digikey-footprints : USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR](#fzdigidigikeyfootprintsumbmaleuj2mibh4str--digikey-footprints--usb_micro_b_male_uj2-mibh-4-smt-tr)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR > digikey-footprints : USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR
+# FZDIGIDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR > digikey-footprints : USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR
 - Name: digikey-footprints : USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/
 - Description: digikey-footprints : USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR|
 |name|name|digikey-footprints : USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

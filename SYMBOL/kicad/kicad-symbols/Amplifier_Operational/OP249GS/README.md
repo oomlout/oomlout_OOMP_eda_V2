@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP249GS
 - Hex ID: SZKAMPLIFIEROPERATIONALOP249GS
 - Name: Amplifier_Operational : OP249GS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OP249GS/
 - Description: Amplifier_Operational : OP249GS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP249GS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP249GS)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOP249GS](http://oom.lt/SZKAMPLIFIEROPERATIONALOP249GS)

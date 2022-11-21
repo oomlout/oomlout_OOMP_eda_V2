@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-allegro-DFN10-3X3
 - Hex ID: FZEALLEGRODFN13X3
 - Name: allegro : DFN10-3X3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/DFN10-3X3/
 - Description: allegro : DFN10-3X3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-DFN10-3X3](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-DFN10-3X3)
 - Short Link: [http://oom.lt/FZEALLEGRODFN13X3](http://oom.lt/FZEALLEGRODFN13X3)

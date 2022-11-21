@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-PROG
 - Hex ID: FZSBUPROG
 - Name: SparkFun-Buzzard : PROG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/PROG/
 - Description: SparkFun-Buzzard : PROG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-PROG](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-PROG)
 - Short Link: [http://oom.lt/FZSBUPROG](http://oom.lt/FZSBUPROG)

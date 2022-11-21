@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-FSMR
 - Hex ID: FZERELAYFSMR
 - Name: relay : FSMR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/FSMR/
 - Description: relay : FSMR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-FSMR](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-FSMR)
 - Short Link: [http://oom.lt/FZERELAYFSMR](http://oom.lt/FZERELAYFSMR)

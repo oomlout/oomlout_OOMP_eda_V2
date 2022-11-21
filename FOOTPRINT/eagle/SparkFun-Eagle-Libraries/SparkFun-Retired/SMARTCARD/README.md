@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SMARTCARD
 - Hex ID: FZSRTSRTCARD
 - Name: SparkFun-Retired : SMARTCARD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SMARTCARD/
 - Description: SparkFun-Retired : SMARTCARD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SMARTCARD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SMARTCARD)
 - Short Link: [http://oom.lt/FZSRTSRTCARD](http://oom.lt/FZSRTSRTCARD)

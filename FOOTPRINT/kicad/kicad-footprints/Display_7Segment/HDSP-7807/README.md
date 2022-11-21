@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-7807
 - Hex ID: FZKDI7SHDSP787
 - Name: Display_7Segment : HDSP-7807
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/HDSP-7807/
 - Description: Display_7Segment : HDSP-7807
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-7807](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-7807)
 - Short Link: [http://oom.lt/FZKDI7SHDSP787](http://oom.lt/FZKDI7SHDSP787)

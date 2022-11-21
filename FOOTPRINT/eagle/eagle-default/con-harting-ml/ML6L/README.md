@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-harting-ml-ML6L
 - Hex ID: FZECONHARTINGMLML6L
 - Name: con-harting-ml : ML6L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-harting-ml/ML6L/
 - Description: con-harting-ml : ML6L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-ml-ML6L](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-harting-ml-ML6L)
 - Short Link: [http://oom.lt/FZECONHARTINGMLML6L](http://oom.lt/FZECONHARTINGMLML6L)

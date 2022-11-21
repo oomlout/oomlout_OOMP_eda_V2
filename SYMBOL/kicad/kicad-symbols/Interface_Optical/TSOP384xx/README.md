@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP384xx
 - Hex ID: SZKINTERFACEOPTICALTS384XX
 - Name: Interface_Optical : TSOP384xx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSOP384xx/
 - Description: Interface_Optical : TSOP384xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP384xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP384xx)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTS384XX](http://oom.lt/SZKINTERFACEOPTICALTS384XX)

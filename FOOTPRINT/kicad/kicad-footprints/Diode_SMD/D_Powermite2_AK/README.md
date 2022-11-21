@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIODESMDPOWERMITE2AK > Diode_SMD : D_Powermite2_AK](#fzkdiodesmdpowermite2ak--diode_smd--d_powermite2_ak)
+* [FZKDDPOWERMITE2AK > Diode_SMD : D_Powermite2_AK](#fzkddpowermite2ak--diode_smd--d_powermite2_ak)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIODESMDPOWERMITE2AK > Diode_SMD : D_Powermite2_AK
+# FZKDDPOWERMITE2AK > Diode_SMD : D_Powermite2_AK
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite2_AK
-- Hex ID: FZKDIODESMDPOWERMITE2AK
+- Hex ID: FZKDDPOWERMITE2AK
 - Name: Diode_SMD : D_Powermite2_AK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_Powermite2_AK/
 - Description: Diode_SMD : D_Powermite2_AK
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite2_AK](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite2_AK)
-- Short Link: [http://oom.lt/FZKDIODESMDPOWERMITE2AK](http://oom.lt/FZKDIODESMDPOWERMITE2AK)
+- Short Link: [http://oom.lt/FZKDDPOWERMITE2AK](http://oom.lt/FZKDDPOWERMITE2AK)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Diode_SMD|
 |OOMP Index|oompIndex|D_Powermite2_AK|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite2_AK|
-|Hex ID (short code)|hexID|FZKDIODESMDPOWERMITE2AK|
+|Hex ID (short code)|hexID|FZKDDPOWERMITE2AK|
 |name|name|Diode_SMD : D_Powermite2_AK|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_Powermite2_AK'</td><td> 'description'</td></tr><tr><td> 'Microsemi Powermite 2 SMD power package (https</td></tr><tr><td>//www.microsemi.com/packaging-information/partpackage/details?pid=5341)'</td><td> 'tags'</td></tr><tr><td> 'PowerMite2'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_Powermite2_AK.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

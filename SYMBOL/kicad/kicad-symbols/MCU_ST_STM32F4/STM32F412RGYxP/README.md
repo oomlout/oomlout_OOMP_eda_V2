@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F412RGYxP
 - Hex ID: SZKMCUSTSTM32F4STM32F412RGYXP
 - Name: MCU_ST_STM32F4 : STM32F412RGYxP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F412RGYxP/
 - Description: MCU_ST_STM32F4 : STM32F412RGYxP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F412RGYxP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F412RGYxP)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F412RGYXP](http://oom.lt/SZKMCUSTSTM32F4STM32F412RGYXP)

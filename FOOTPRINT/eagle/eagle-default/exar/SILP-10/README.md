@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-exar-SILP-10
 - Hex ID: FZEEXARSILP1
 - Name: exar : SILP-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/exar/SILP-10/
 - Description: exar : SILP-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SILP-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-exar-SILP-10)
 - Short Link: [http://oom.lt/FZEEXARSILP1](http://oom.lt/FZEEXARSILP1)

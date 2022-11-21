@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP1212_LandPatternPL-176
 - Hex ID: FZKRFMCIRCUITSGP1212LANDPATTERNPL176
 - Name: RF_Mini-Circuits : Mini-Circuits_GP1212_LandPatternPL-176
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_GP1212_LandPatternPL-176/
 - Description: RF_Mini-Circuits : Mini-Circuits_GP1212_LandPatternPL-176
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP1212_LandPatternPL-176](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP1212_LandPatternPL-176)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSGP1212LANDPATTERNPL176](http://oom.lt/FZKRFMCIRCUITSGP1212LANDPATTERNPL176)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCCPAXIALL55D32P6HORIZONTAL > Capacitor_THT : CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal](#fzkccpaxiall55d32p6horizontal--capacitor_tht--cp_axial_l550mm_d320mm_p6000mm_horizontal)
+* [FZKCCPAXIALL55D32P6H > Capacitor_THT : CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal](#fzkccpaxiall55d32p6h--capacitor_tht--cp_axial_l550mm_d320mm_p6000mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCCPAXIALL55D32P6HORIZONTAL > Capacitor_THT : CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal
+# FZKCCPAXIALL55D32P6H > Capacitor_THT : CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal
-- Hex ID: FZKCCPAXIALL55D32P6HORIZONTAL
+- Hex ID: FZKCCPAXIALL55D32P6H
 - Name: Capacitor_THT : CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal/
 - Description: Capacitor_THT : CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal)
-- Short Link: [http://oom.lt/FZKCCPAXIALL55D32P6HORIZONTAL](http://oom.lt/FZKCCPAXIALL55D32P6HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCCPAXIALL55D32P6H](http://oom.lt/FZKCCPAXIALL55D32P6H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_THT|
 |OOMP Index|oompIndex|CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal|
-|Hex ID (short code)|hexID|FZKCCPAXIALL55D32P6HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCCPAXIALL55D32P6H|
 |name|name|Capacitor_THT : CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'CP</td><td> Axial series</td><td> Axial</td><td> Horizontal</td><td> pin pitch=60mm</td><td> </td><td> length*diameter=55*32.0mm^2</td><td> Electrolytic Capacitor</td><td> </td><td> http</td></tr><tr><td>//www.vishay.com/docs/42037/53d.pdf'</td><td> 'tags'</td></tr><tr><td> 'CP Axial series Axial Horizontal pin pitch 60mm  length 55mm diameter 32.0mm Electrolytic Capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_THT.3dshapes/CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

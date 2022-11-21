@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MM0064GPL028x-ML
 - Hex ID: SZKMCUMCHIPPIC32PIC3264GPL28XML
 - Name: MCU_Microchip_PIC32 : PIC32MM0064GPL028x-ML
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MM0064GPL028x-ML/
 - Description: MCU_Microchip_PIC32 : PIC32MM0064GPL028x-ML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MM0064GPL028x-ML](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MM0064GPL028x-ML)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC3264GPL28XML](http://oom.lt/SZKMCUMCHIPPIC32PIC3264GPL28XML)

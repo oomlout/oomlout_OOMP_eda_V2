@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOT363_PHILIPS
 - Hex ID: FZSDSSOT363PHILIPS
 - Name: SparkFun-DiscreteSemi : SOT363_PHILIPS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SOT363_PHILIPS/
 - Description: SparkFun-DiscreteSemi : SOT363_PHILIPS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOT363_PHILIPS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOT363_PHILIPS)
 - Short Link: [http://oom.lt/FZSDSSOT363PHILIPS](http://oom.lt/FZSDSSOT363PHILIPS)

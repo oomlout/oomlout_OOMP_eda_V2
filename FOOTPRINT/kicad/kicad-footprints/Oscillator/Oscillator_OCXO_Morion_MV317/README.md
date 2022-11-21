@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_OCXO_Morion_MV317
 - Hex ID: FZKOCSOCSOCXOMORIONMV317
 - Name: Oscillator : Oscillator_OCXO_Morion_MV317
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_OCXO_Morion_MV317/
 - Description: Oscillator : Oscillator_OCXO_Morion_MV317
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_OCXO_Morion_MV317](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_OCXO_Morion_MV317)
 - Short Link: [http://oom.lt/FZKOCSOCSOCXOMORIONMV317](http://oom.lt/FZKOCSOCSOCXOMORIONMV317)

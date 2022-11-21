@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PS603
 - Hex ID: FZAPS63
 - Name: adafruit : PS603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/PS603/
 - Description: adafruit : PS603
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PS603](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PS603)
 - Short Link: [http://oom.lt/FZAPS63](http://oom.lt/FZAPS63)

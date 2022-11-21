@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-L4035M
 - Hex ID: FZESMIPCL435M
 - Name: smd-ipc : L4035M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/L4035M/
 - Description: smd-ipc : L4035M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L4035M](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-L4035M)
 - Short Link: [http://oom.lt/FZESMIPCL435M](http://oom.lt/FZESMIPCL435M)

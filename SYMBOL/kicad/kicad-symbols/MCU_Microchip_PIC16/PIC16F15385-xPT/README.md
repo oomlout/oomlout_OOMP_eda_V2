@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F15385-xPT
 - Hex ID: SZKMCUMCHIPPIC16PIC16F15385XPT
 - Name: MCU_Microchip_PIC16 : PIC16F15385-xPT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F15385-xPT/
 - Description: MCU_Microchip_PIC16 : PIC16F15385-xPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F15385-xPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F15385-xPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F15385XPT](http://oom.lt/SZKMCUMCHIPPIC16PIC16F15385XPT)

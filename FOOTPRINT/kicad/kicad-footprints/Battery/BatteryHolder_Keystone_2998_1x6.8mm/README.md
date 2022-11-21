@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBATBATHOLDERKEYSTONE29981X68 > Battery : BatteryHolder_Keystone_2998_1x6.8mm](#fzkbatbatholderkeystone29981x68--battery--batteryholder_keystone_2998_1x68mm)
+* [FZKBATBATHKEYSTONE29981X68 > Battery : BatteryHolder_Keystone_2998_1x6.8mm](#fzkbatbathkeystone29981x68--battery--batteryholder_keystone_2998_1x68mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBATBATHOLDERKEYSTONE29981X68 > Battery : BatteryHolder_Keystone_2998_1x6.8mm
+# FZKBATBATHKEYSTONE29981X68 > Battery : BatteryHolder_Keystone_2998_1x6.8mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2998_1x6.8mm
-- Hex ID: FZKBATBATHOLDERKEYSTONE29981X68
+- Hex ID: FZKBATBATHKEYSTONE29981X68
 - Name: Battery : BatteryHolder_Keystone_2998_1x6.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2998_1x6.8mm/
 - Description: Battery : BatteryHolder_Keystone_2998_1x6.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2998_1x6.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2998_1x6.8mm)
-- Short Link: [http://oom.lt/FZKBATBATHOLDERKEYSTONE29981X68](http://oom.lt/FZKBATBATHOLDERKEYSTONE29981X68)
+- Short Link: [http://oom.lt/FZKBATBATHKEYSTONE29981X68](http://oom.lt/FZKBATBATHKEYSTONE29981X68)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Battery|
 |OOMP Index|oompIndex|BatteryHolder_Keystone_2998_1x6.8mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2998_1x6.8mm|
-|Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE29981X68|
+|Hex ID (short code)|hexID|FZKBATBATHKEYSTONE29981X68|
 |name|name|Battery : BatteryHolder_Keystone_2998_1x6.8mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_Keystone_2998_1x6.8mm'</td><td> 'description'</td></tr><tr><td> 'www.keyelco.com/product-pdf.cfm?p=763'</td><td> 'tags'</td></tr><tr><td> 'Keystone type 2998 battery holder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_Keystone_2998_1x6.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

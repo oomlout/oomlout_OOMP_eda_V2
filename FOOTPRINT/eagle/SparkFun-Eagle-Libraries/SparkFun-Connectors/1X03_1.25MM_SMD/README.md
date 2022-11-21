@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03_1.25MM_SMD
 - Hex ID: FZSSPARKFUNCNS1X3125SM
 - Name: SparkFun-Connectors : 1X03_1.25MM_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X03_1.25MM_SMD/
 - Description: SparkFun-Connectors : 1X03_1.25MM_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03_1.25MM_SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03_1.25MM_SMD)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X3125SM](http://oom.lt/FZSSPARKFUNCNS1X3125SM)

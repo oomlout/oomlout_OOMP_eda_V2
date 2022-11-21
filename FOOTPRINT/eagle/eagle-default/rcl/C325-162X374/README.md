@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C325-162X374
 - Hex ID: FZERCLC325162X374
 - Name: rcl : C325-162X374
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C325-162X374/
 - Description: rcl : C325-162X374
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C325-162X374](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C325-162X374)
 - Short Link: [http://oom.lt/FZERCLC325162X374](http://oom.lt/FZERCLC325162X374)

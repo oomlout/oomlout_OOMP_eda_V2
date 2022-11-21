@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_RF900
 - Hex ID: FZKBGAXILINXRF9
 - Name: Package_BGA : Xilinx_RF900
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_RF900/
 - Description: Package_BGA : Xilinx_RF900
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_RF900](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_RF900)
 - Short Link: [http://oom.lt/FZKBGAXILINXRF9](http://oom.lt/FZKBGAXILINXRF9)

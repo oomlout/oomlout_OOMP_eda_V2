@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-Comchip_CDSV6-4148-G
 - Hex ID: SZKDIODECOMCHIPCDSV64148G
 - Name: Diode : Comchip_CDSV6-4148-G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/Comchip_CDSV6-4148-G/
 - Description: Diode : Comchip_CDSV6-4148-G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Comchip_CDSV6-4148-G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Comchip_CDSV6-4148-G)
 - Short Link: [http://oom.lt/SZKDIODECOMCHIPCDSV64148G](http://oom.lt/SZKDIODECOMCHIPCDSV64148G)

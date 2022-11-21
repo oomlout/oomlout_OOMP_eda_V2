@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-LOGO-CONTROLLER_BIT
 - Hex ID: FZSALCONTROLLERBIT
 - Name: SparkFun-Aesthetics : LOGO-CONTROLLER_BIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/LOGO-CONTROLLER_BIT/
 - Description: SparkFun-Aesthetics : LOGO-CONTROLLER_BIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-LOGO-CONTROLLER_BIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-LOGO-CONTROLLER_BIT)
 - Short Link: [http://oom.lt/FZSALCONTROLLERBIT](http://oom.lt/FZSALCONTROLLERBIT)

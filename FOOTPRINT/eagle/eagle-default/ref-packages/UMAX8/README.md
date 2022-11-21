@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESUMAX8 > ref-packages : UMAX8](#fzerefpackagesumax8--ref-packages--umax8)
+* [FZEREFPSUMAX8 > ref-packages : UMAX8](#fzerefpsumax8--ref-packages--umax8)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESUMAX8 > ref-packages : UMAX8
+# FZEREFPSUMAX8 > ref-packages : UMAX8
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-UMAX8
-- Hex ID: FZEREFPACKAGESUMAX8
+- Hex ID: FZEREFPSUMAX8
 - Name: ref-packages : UMAX8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/UMAX8/
 - Description: ref-packages : UMAX8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-UMAX8](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-UMAX8)
-- Short Link: [http://oom.lt/FZEREFPACKAGESUMAX8](http://oom.lt/FZEREFPACKAGESUMAX8)
+- Short Link: [http://oom.lt/FZEREFPSUMAX8](http://oom.lt/FZEREFPSUMAX8)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|UMAX8|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-UMAX8|
-|Hex ID (short code)|hexID|FZEREFPACKAGESUMAX8|
+|Hex ID (short code)|hexID|FZEREFPSUMAX8|
 |name|name|ref-packages : UMAX8|
 ||||

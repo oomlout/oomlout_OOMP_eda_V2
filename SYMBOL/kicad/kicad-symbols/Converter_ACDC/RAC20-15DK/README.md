@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC20-15DK
 - Hex ID: SZKCONRAC215DK
 - Name: Converter_ACDC : RAC20-15DK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC20-15DK/
 - Description: Converter_ACDC : RAC20-15DK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC20-15DK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC20-15DK)
 - Short Link: [http://oom.lt/SZKCONRAC215DK](http://oom.lt/SZKCONRAC215DK)

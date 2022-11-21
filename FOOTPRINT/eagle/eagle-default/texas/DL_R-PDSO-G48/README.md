@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-DL_R-PDSO-G48
 - Hex ID: FZETEXASDLRPDSOG48
 - Name: texas : DL_R-PDSO-G48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/DL_R-PDSO-G48/
 - Description: texas : DL_R-PDSO-G48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DL_R-PDSO-G48](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DL_R-PDSO-G48)
 - Short Link: [http://oom.lt/FZETEXASDLRPDSOG48](http://oom.lt/FZETEXASDLRPDSOG48)

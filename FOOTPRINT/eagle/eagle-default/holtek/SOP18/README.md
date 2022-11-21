@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-holtek-SOP18
 - Hex ID: FZEHOLTEKS18
 - Name: holtek : SOP18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/holtek/SOP18/
 - Description: holtek : SOP18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-holtek-SOP18](http://oom.lt/FOOTPRINT-eagle-eagle-default-holtek-SOP18)
 - Short Link: [http://oom.lt/FZEHOLTEKS18](http://oom.lt/FZEHOLTEKS18)

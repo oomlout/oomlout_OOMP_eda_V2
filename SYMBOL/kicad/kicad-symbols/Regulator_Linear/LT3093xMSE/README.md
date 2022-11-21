@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3093xMSE
 - Hex ID: SZKREGULATORLINEARLT393XMSE
 - Name: Regulator_Linear : LT3093xMSE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3093xMSE/
 - Description: Regulator_Linear : LT3093xMSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3093xMSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3093xMSE)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT393XMSE](http://oom.lt/SZKREGULATORLINEARLT393XMSE)

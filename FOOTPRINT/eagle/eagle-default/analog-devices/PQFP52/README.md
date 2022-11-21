@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-PQFP52
 - Hex ID: FZEANALOGDEVICESPQFP52
 - Name: analog-devices : PQFP52
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/PQFP52/
 - Description: analog-devices : PQFP52
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PQFP52](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-PQFP52)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESPQFP52](http://oom.lt/FZEANALOGDEVICESPQFP52)

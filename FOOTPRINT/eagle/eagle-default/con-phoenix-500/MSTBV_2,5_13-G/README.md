@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-500-MSTBV_2,5_13-G
 - Hex ID: FZECONPHOENIX5MSTBV2513G
 - Name: con-phoenix-500 : MSTBV_2,5_13-G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-500/MSTBV_2,5_13-G/
 - Description: con-phoenix-500 : MSTBV_2,5_13-G
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-500-MSTBV_2,5_13-G](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-500-MSTBV_2,5_13-G)
 - Short Link: [http://oom.lt/FZECONPHOENIX5MSTBV2513G](http://oom.lt/FZECONPHOENIX5MSTBV2513G)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-MLF32
 - Hex ID: FZSIUMLF32
 - Name: SparkFun-IC-Microcontroller : MLF32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/MLF32/
 - Description: SparkFun-IC-Microcontroller : MLF32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-MLF32](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-MLF32)
 - Short Link: [http://oom.lt/FZSIUMLF32](http://oom.lt/FZSIUMLF32)

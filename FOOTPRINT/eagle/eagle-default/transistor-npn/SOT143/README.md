@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-npn-SOT143
 - Hex ID: FZETRANSISTORNPNSOT143
 - Name: transistor-npn : SOT143
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-npn/SOT143/
 - Description: transistor-npn : SOT143
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-SOT143](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-SOT143)
 - Short Link: [http://oom.lt/FZETRANSISTORNPNSOT143](http://oom.lt/FZETRANSISTORNPNSOT143)

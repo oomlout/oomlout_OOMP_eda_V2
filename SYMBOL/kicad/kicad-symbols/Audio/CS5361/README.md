@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-CS5361
 - Hex ID: SZKAUDIOCS5361
 - Name: Audio : CS5361
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/CS5361/
 - Description: Audio : CS5361
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS5361](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS5361)
 - Short Link: [http://oom.lt/SZKAUDIOCS5361](http://oom.lt/SZKAUDIOCS5361)

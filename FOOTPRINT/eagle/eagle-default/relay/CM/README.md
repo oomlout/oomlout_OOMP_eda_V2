@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-CM
 - Hex ID: FZERELAYCM
 - Name: relay : CM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/CM/
 - Description: relay : CM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CM](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-CM)
 - Short Link: [http://oom.lt/FZERELAYCM](http://oom.lt/FZERELAYCM)

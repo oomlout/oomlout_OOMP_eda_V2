@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-DIMI100L
 - Hex ID: FZECONAMPDI1L
 - Name: con-amp : DIMI100L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/DIMI100L/
 - Description: con-amp : DIMI100L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-DIMI100L](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-DIMI100L)
 - Short Link: [http://oom.lt/FZECONAMPDI1L](http://oom.lt/FZECONAMPDI1L)

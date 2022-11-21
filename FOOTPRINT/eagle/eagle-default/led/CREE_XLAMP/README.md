@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-CREE_XLAMP
 - Hex ID: FZELCREEXLAMP
 - Name: led : CREE_XLAMP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/CREE_XLAMP/
 - Description: led : CREE_XLAMP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-CREE_XLAMP](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-CREE_XLAMP)
 - Short Link: [http://oom.lt/FZELCREEXLAMP](http://oom.lt/FZELCREEXLAMP)

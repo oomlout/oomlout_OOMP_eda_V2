@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SA39-11GWA
 - Hex ID: SZKDICHARACTERSA3911GWA
 - Name: Display_Character : SA39-11GWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/SA39-11GWA/
 - Description: Display_Character : SA39-11GWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA39-11GWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA39-11GWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSA3911GWA](http://oom.lt/SZKDICHARACTERSA3911GWA)

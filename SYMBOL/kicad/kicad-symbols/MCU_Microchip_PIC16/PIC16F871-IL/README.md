@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F871-IL
 - Hex ID: SZKMCUMCHIPPIC16PIC16F871IL
 - Name: MCU_Microchip_PIC16 : PIC16F871-IL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F871-IL/
 - Description: MCU_Microchip_PIC16 : PIC16F871-IL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F871-IL](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F871-IL)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F871IL](http://oom.lt/SZKMCUMCHIPPIC16PIC16F871IL)

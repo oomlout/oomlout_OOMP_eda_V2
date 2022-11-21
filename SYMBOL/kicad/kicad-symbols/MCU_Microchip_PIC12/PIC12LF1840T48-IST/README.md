@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1840T48-IST
 - Hex ID: SZKMCUMCHIPPIC12PIC12LF184T48IST
 - Name: MCU_Microchip_PIC12 : PIC12LF1840T48-IST
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12LF1840T48-IST/
 - Description: MCU_Microchip_PIC12 : PIC12LF1840T48-IST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1840T48-IST](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1840T48-IST)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12LF184T48IST](http://oom.lt/SZKMCUMCHIPPIC12PIC12LF184T48IST)

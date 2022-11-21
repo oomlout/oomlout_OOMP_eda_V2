@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W3.9mm_H1.9mm
 - Hex ID: FZKLLRW39H19
 - Name: LED_THT : LED_Rectangular_W3.9mm_H1.9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_Rectangular_W3.9mm_H1.9mm/
 - Description: LED_THT : LED_Rectangular_W3.9mm_H1.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W3.9mm_H1.9mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W3.9mm_H1.9mm)
 - Short Link: [http://oom.lt/FZKLLRW39H19](http://oom.lt/FZKLLRW39H19)

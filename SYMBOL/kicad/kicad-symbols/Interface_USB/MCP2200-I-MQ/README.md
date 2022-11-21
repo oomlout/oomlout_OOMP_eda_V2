@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2200-I-MQ
 - Hex ID: SZKINTERFACEUMCP22IMQ
 - Name: Interface_USB : MCP2200-I-MQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/MCP2200-I-MQ/
 - Description: Interface_USB : MCP2200-I-MQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2200-I-MQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2200-I-MQ)
 - Short Link: [http://oom.lt/SZKINTERFACEUMCP22IMQ](http://oom.lt/SZKINTERFACEUMCP22IMQ)

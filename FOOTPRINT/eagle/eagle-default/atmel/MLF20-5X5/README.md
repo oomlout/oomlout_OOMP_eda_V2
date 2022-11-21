@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-MLF20-5X5
 - Hex ID: FZEATMELMLF25X5
 - Name: atmel : MLF20-5X5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/MLF20-5X5/
 - Description: atmel : MLF20-5X5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-MLF20-5X5](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-MLF20-5X5)
 - Short Link: [http://oom.lt/FZEATMELMLF25X5](http://oom.lt/FZEATMELMLF25X5)

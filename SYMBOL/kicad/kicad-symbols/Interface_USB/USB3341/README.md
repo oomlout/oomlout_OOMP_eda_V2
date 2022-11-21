@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-USB3341
 - Hex ID: SZKINTERFACEUU3341
 - Name: Interface_USB : USB3341
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3341/
 - Description: Interface_USB : USB3341
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3341](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3341)
 - Short Link: [http://oom.lt/SZKINTERFACEUU3341](http://oom.lt/SZKINTERFACEUU3341)

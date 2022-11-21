@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8429ARZ
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD8429ARZ
 - Name: Amplifier_Instrumentation : AD8429ARZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD8429ARZ/
 - Description: Amplifier_Instrumentation : AD8429ARZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8429ARZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8429ARZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8429ARZ](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8429ARZ)

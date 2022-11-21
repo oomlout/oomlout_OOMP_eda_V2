@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-US2JA
 - Hex ID: SZKDIODEUS2JA
 - Name: Diode : US2JA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/US2JA/
 - Description: Diode : US2JA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2JA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2JA)
 - Short Link: [http://oom.lt/SZKDIODEUS2JA](http://oom.lt/SZKDIODEUS2JA)

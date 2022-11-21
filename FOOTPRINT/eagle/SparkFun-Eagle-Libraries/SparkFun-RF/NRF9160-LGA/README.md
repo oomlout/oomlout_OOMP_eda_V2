@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-NRF9160-LGA
 - Hex ID: FZSRFNRF916LGA
 - Name: SparkFun-RF : NRF9160-LGA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/NRF9160-LGA/
 - Description: SparkFun-RF : NRF9160-LGA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-NRF9160-LGA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-NRF9160-LGA)
 - Short Link: [http://oom.lt/FZSRFNRF916LGA](http://oom.lt/FZSRFNRF916LGA)

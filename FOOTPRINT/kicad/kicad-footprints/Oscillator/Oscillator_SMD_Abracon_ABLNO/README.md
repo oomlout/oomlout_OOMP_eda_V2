@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ABLNO
 - Hex ID: FZKOCSOCSSMABRACONABLNO
 - Name: Oscillator : Oscillator_SMD_Abracon_ABLNO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ABLNO/
 - Description: Oscillator : Oscillator_SMD_Abracon_ABLNO
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ABLNO](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ABLNO)
 - Short Link: [http://oom.lt/FZKOCSOCSSMABRACONABLNO](http://oom.lt/FZKOCSOCSSMABRACONABLNO)

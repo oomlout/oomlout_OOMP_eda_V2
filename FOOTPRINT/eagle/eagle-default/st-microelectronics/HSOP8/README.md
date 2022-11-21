@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-HSOP8
 - Hex ID: FZESTMELECTRONICSHS8
 - Name: st-microelectronics : HSOP8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/HSOP8/
 - Description: st-microelectronics : HSOP8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-HSOP8](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-HSOP8)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSHS8](http://oom.lt/FZESTMELECTRONICSHS8)

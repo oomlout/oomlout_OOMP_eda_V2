@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-BEL_P
 - Hex ID: FZEBATBELP
 - Name: battery : BEL_P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/BEL_P/
 - Description: battery : BEL_P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-BEL_P](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-BEL_P)
 - Short Link: [http://oom.lt/FZEBATBELP](http://oom.lt/FZEBATBELP)

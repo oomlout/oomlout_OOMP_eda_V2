@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E_7260-38W
 - Hex ID: FZAE72638W
 - Name: adafruit : E_7260-38W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E_7260-38W/
 - Description: adafruit : E_7260-38W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E_7260-38W](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E_7260-38W)
 - Short Link: [http://oom.lt/FZAE72638W](http://oom.lt/FZAE72638W)

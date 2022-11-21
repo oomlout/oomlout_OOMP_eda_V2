@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS6142D
 - Hex ID: SZKPOWERMANAGEMENTBTS6142D
 - Name: Power_Management : BTS6142D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/BTS6142D/
 - Description: Power_Management : BTS6142D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS6142D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS6142D)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS6142D](http://oom.lt/SZKPOWERMANAGEMENTBTS6142D)

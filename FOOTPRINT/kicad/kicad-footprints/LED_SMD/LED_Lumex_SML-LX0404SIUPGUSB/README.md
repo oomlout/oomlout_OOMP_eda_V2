@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKLSMLLUMEXSMLLX44SIUPGU > LED_SMD : LED_Lumex_SML-LX0404SIUPGUSB](#fzklsmllumexsmllx44siupgu--led_smd--led_lumex_sml-lx0404siupgusb)
+* [FZKLLLUMEXSMLLX44SIUPGU > LED_SMD : LED_Lumex_SML-LX0404SIUPGUSB](#fzklllumexsmllx44siupgu--led_smd--led_lumex_sml-lx0404siupgusb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLLUMEXSMLLX44SIUPGU > LED_SMD : LED_Lumex_SML-LX0404SIUPGUSB
+# FZKLLLUMEXSMLLX44SIUPGU > LED_SMD : LED_Lumex_SML-LX0404SIUPGUSB
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0404SIUPGUSB
-- Hex ID: FZKLSMLLUMEXSMLLX44SIUPGU
+- Hex ID: FZKLLLUMEXSMLLX44SIUPGU
 - Name: LED_SMD : LED_Lumex_SML-LX0404SIUPGUSB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/
 - Description: LED_SMD : LED_Lumex_SML-LX0404SIUPGUSB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0404SIUPGUSB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0404SIUPGUSB)
-- Short Link: [http://oom.lt/FZKLSMLLUMEXSMLLX44SIUPGU](http://oom.lt/FZKLSMLLUMEXSMLLX44SIUPGU)
+- Short Link: [http://oom.lt/FZKLLLUMEXSMLLX44SIUPGU](http://oom.lt/FZKLLLUMEXSMLLX44SIUPGU)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_Lumex_SML-LX0404SIUPGUSB|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0404SIUPGUSB|
-|Hex ID (short code)|hexID|FZKLSMLLUMEXSMLLX44SIUPGU|
+|Hex ID (short code)|hexID|FZKLLLUMEXSMLLX44SIUPGU|
 |name|name|LED_SMD : LED_Lumex_SML-LX0404SIUPGUSB|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Lumex_SML-LX0404SIUPGUSB'</td><td> 'description'</td></tr><tr><td> 'Lumex RGB LED</td><td> clear</td><td> SMD</td><td> https</td></tr><tr><td>//www.lumex.com/spec/SML-LX0404SIUPGUSB.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED RGB'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Lumex_SML-LX0404SIUPGUSB.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

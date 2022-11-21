@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-v-reg-TO3_78
 - Hex ID: FZEVREGTO378
 - Name: v-reg : TO3_78
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/v-reg/TO3_78/
 - Description: v-reg : TO3_78
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO3_78](http://oom.lt/FOOTPRINT-eagle-eagle-default-v-reg-TO3_78)
 - Short Link: [http://oom.lt/FZEVREGTO378](http://oom.lt/FZEVREGTO378)

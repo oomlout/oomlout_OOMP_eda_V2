@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RKL2
 - Hex ID: FZERELAYRKL2
 - Name: relay : RKL2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RKL2/
 - Description: relay : RKL2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RKL2](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RKL2)
 - Short Link: [http://oom.lt/FZERELAYRKL2](http://oom.lt/FZERELAYRKL2)

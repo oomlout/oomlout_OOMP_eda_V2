@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3232
 - Hex ID: SZKINTERFACEUARTMAX3232
 - Name: Interface_UART : MAX3232
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/MAX3232/
 - Description: Interface_UART : MAX3232
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3232](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3232)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX3232](http://oom.lt/SZKINTERFACEUARTMAX3232)

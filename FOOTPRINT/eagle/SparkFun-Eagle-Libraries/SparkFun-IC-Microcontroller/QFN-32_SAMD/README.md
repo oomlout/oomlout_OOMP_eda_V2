@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-32_SAMD
 - Hex ID: FZSIUQFN32SAMD
 - Name: SparkFun-IC-Microcontroller : QFN-32_SAMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-32_SAMD/
 - Description: SparkFun-IC-Microcontroller : QFN-32_SAMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-32_SAMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-32_SAMD)
 - Short Link: [http://oom.lt/FZSIUQFN32SAMD](http://oom.lt/FZSIUQFN32SAMD)

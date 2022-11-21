@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-SZNUP2105L
 - Hex ID: SZKPOWERPROTECTIONSZNUP215L
 - Name: Power_Protection : SZNUP2105L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/SZNUP2105L/
 - Description: Power_Protection : SZNUP2105L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SZNUP2105L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SZNUP2105L)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONSZNUP215L](http://oom.lt/SZKPOWERPROTECTIONSZNUP215L)

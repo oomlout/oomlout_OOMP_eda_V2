@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA551P
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA551P
 - Name: Amplifier_Operational : OPA551P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA551P/
 - Description: Amplifier_Operational : OPA551P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA551P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA551P)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA551P](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA551P)

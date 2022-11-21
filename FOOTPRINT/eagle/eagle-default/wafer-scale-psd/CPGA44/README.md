@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-wafer-scale-psd-CPGA44
 - Hex ID: FZEWAFERSCALEPSDCPGA44
 - Name: wafer-scale-psd : CPGA44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/wafer-scale-psd/CPGA44/
 - Description: wafer-scale-psd : CPGA44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-wafer-scale-psd-CPGA44](http://oom.lt/FOOTPRINT-eagle-eagle-default-wafer-scale-psd-CPGA44)
 - Short Link: [http://oom.lt/FZEWAFERSCALEPSDCPGA44](http://oom.lt/FZEWAFERSCALEPSDCPGA44)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN32-5X5MM
 - Hex ID: FZSRFQFN325X5
 - Name: SparkFun-RF : QFN32-5X5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/QFN32-5X5MM/
 - Description: SparkFun-RF : QFN32-5X5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN32-5X5MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN32-5X5MM)
 - Short Link: [http://oom.lt/FZSRFQFN325X5](http://oom.lt/FZSRFQFN325X5)

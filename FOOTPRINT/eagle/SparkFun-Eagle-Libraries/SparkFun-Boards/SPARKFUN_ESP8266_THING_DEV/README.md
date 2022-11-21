@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_ESP8266_THING_DEV
 - Hex ID: FZSBOSPARKFUNESP8266THINGDEV
 - Name: SparkFun-Boards : SPARKFUN_ESP8266_THING_DEV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SPARKFUN_ESP8266_THING_DEV/
 - Description: SparkFun-Boards : SPARKFUN_ESP8266_THING_DEV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_ESP8266_THING_DEV](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_ESP8266_THING_DEV)
 - Short Link: [http://oom.lt/FZSBOSPARKFUNESP8266THINGDEV](http://oom.lt/FZSBOSPARKFUNESP8266THINGDEV)

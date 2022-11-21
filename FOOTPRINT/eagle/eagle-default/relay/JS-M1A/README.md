@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-JS-M1A
 - Hex ID: FZERELAYJSM1A
 - Name: relay : JS-M1A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/JS-M1A/
 - Description: relay : JS-M1A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-JS-M1A](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-JS-M1A)
 - Short Link: [http://oom.lt/FZERELAYJSM1A](http://oom.lt/FZERELAYJSM1A)

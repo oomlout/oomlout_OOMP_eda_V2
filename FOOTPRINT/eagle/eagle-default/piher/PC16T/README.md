@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-piher-PC16T
 - Hex ID: FZEPIHERPC16T
 - Name: piher : PC16T
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/piher/PC16T/
 - Description: piher : PC16T
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-piher-PC16T](http://oom.lt/FOOTPRINT-eagle-eagle-default-piher-PC16T)
 - Short Link: [http://oom.lt/FZEPIHERPC16T](http://oom.lt/FZEPIHERPC16T)

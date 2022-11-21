@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-FLEX_SENSOR
 - Hex ID: FZSRFLEXSEN
 - Name: SparkFun-Resistors : FLEX_SENSOR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/FLEX_SENSOR/
 - Description: SparkFun-Resistors : FLEX_SENSOR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-FLEX_SENSOR](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-FLEX_SENSOR)
 - Short Link: [http://oom.lt/FZSRFLEXSEN](http://oom.lt/FZSRFLEXSEN)

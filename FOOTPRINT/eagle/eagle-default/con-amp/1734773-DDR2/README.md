@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-1734773-DDR2
 - Hex ID: FZECONAMP1734773DDR2
 - Name: con-amp : 1734773-DDR2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/1734773-DDR2/
 - Description: con-amp : 1734773-DDR2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-1734773-DDR2](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-1734773-DDR2)
 - Short Link: [http://oom.lt/FZECONAMP1734773DDR2](http://oom.lt/FZECONAMP1734773DDR2)

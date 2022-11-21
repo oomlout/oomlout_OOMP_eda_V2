@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-FK209
 - Hex ID: FZEHFK29
 - Name: heatsink : FK209
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/FK209/
 - Description: heatsink : FK209
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-FK209](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-FK209)
 - Short Link: [http://oom.lt/FZEHFK29](http://oom.lt/FZEHFK29)

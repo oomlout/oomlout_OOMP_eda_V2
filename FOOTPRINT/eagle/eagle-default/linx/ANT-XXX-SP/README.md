@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linx-ANT-XXX-SP
 - Hex ID: FZELINXANTXXXSP
 - Name: linx : ANT-XXX-SP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linx/ANT-XXX-SP/
 - Description: linx : ANT-XXX-SP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linx-ANT-XXX-SP](http://oom.lt/FOOTPRINT-eagle-eagle-default-linx-ANT-XXX-SP)
 - Short Link: [http://oom.lt/FZELINXANTXXXSP](http://oom.lt/FZELINXANTXXXSP)

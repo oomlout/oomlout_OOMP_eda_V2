@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F446MEYx
 - Hex ID: SZKMCUSTSTM32F4STM32F446MEYX
 - Name: MCU_ST_STM32F4 : STM32F446MEYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F446MEYx/
 - Description: MCU_ST_STM32F4 : STM32F446MEYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F446MEYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F446MEYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F446MEYX](http://oom.lt/SZKMCUSTSTM32F4STM32F446MEYX)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINSO127PINSO1X38P127VERTICALSMPIN1RIGHT > Connector_PinSocket_1.27mm : PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Right](#fzkcnpinso127pinso1x38p127verticalsmpin1right--connector_pinsocket_127mm--pinsocket_1x38_p127mm_vertical_smd_pin1right)
+* [FZKCNPSO127PSO1X38P127FSMP1R > Connector_PinSocket_1.27mm : PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Right](#fzkcnpso127pso1x38p127fsmp1r--connector_pinsocket_127mm--pinsocket_1x38_p127mm_vertical_smd_pin1right)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINSO127PINSO1X38P127VERTICALSMPIN1RIGHT > Connector_PinSocket_1.27mm : PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Right
+# FZKCNPSO127PSO1X38P127FSMP1R > Connector_PinSocket_1.27mm : PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Right
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Right
-- Hex ID: FZKCNPINSO127PINSO1X38P127VERTICALSMPIN1RIGHT
+- Hex ID: FZKCNPSO127PSO1X38P127FSMP1R
 - Name: Connector_PinSocket_1.27mm : PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Right
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Right/
 - Description: Connector_PinSocket_1.27mm : PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Right
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Right](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Right)
-- Short Link: [http://oom.lt/FZKCNPINSO127PINSO1X38P127VERTICALSMPIN1RIGHT](http://oom.lt/FZKCNPINSO127PINSO1X38P127VERTICALSMPIN1RIGHT)
+- Short Link: [http://oom.lt/FZKCNPSO127PSO1X38P127FSMP1R](http://oom.lt/FZKCNPSO127PSO1X38P127FSMP1R)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinSocket_1.27mm|
 |OOMP Index|oompIndex|PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Right|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Right|
-|Hex ID (short code)|hexID|FZKCNPINSO127PINSO1X38P127VERTICALSMPIN1RIGHT|
+|Hex ID (short code)|hexID|FZKCNPSO127PSO1X38P127FSMP1R|
 |name|name|Connector_PinSocket_1.27mm : PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Right|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Right'</td><td> 'description'</td></tr><tr><td> 'surface-mounted straight socket strip</td><td> 1x38</td><td> 1.27mm pitch</td><td> single row</td><td> style 2 (pin 1 right) (https</td></tr><tr><td>//gct.co/pdfjs/web/viewer.html?file=/Files/Drawings/BD075.pdf&t=1511594726925)</td><td> script generated'</td><td> 'tags'</td></tr><tr><td> 'Surface mounted socket strip SMD 1x38 1.27mm single row style2 pin1 right'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinSocket_1.27mm.3dshapes/PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Right.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

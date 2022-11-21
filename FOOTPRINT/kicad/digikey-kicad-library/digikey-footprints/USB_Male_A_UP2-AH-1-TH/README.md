@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMALEAUP2AH1TH > digikey-footprints : USB_Male_A_UP2-AH-1-TH](#fzkicaddigikeykicadlibrarydigikeyfootprintsumaleaup2ah1th--digikey-footprints--usb_male_a_up2-ah-1-th)
+* [FZDIGIDIGIKEYFOOTPRINTSUMALEAUP2AH1TH > digikey-footprints : USB_Male_A_UP2-AH-1-TH](#fzdigidigikeyfootprintsumaleaup2ah1th--digikey-footprints--usb_male_a_up2-ah-1-th)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMALEAUP2AH1TH > digikey-footprints : USB_Male_A_UP2-AH-1-TH
+# FZDIGIDIGIKEYFOOTPRINTSUMALEAUP2AH1TH > digikey-footprints : USB_Male_A_UP2-AH-1-TH
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Male_A_UP2-AH-1-TH
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMALEAUP2AH1TH
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSUMALEAUP2AH1TH
 - Name: digikey-footprints : USB_Male_A_UP2-AH-1-TH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Male_A_UP2-AH-1-TH/
 - Description: digikey-footprints : USB_Male_A_UP2-AH-1-TH
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Male_A_UP2-AH-1-TH](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Male_A_UP2-AH-1-TH)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMALEAUP2AH1TH](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMALEAUP2AH1TH)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMALEAUP2AH1TH](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSUMALEAUP2AH1TH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|USB_Male_A_UP2-AH-1-TH|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Male_A_UP2-AH-1-TH|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMALEAUP2AH1TH|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSUMALEAUP2AH1TH|
 |name|name|digikey-footprints : USB_Male_A_UP2-AH-1-TH|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Male_A_UP2-AH-1-TH'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cui.com/product/resource/up2-ah-th.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM385M-ADJ
 - Hex ID: SZKREFERENCEVOLTAGELM385MADJ
 - Name: Reference_Voltage : LM385M-ADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LM385M-ADJ/
 - Description: Reference_Voltage : LM385M-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM385M-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM385M-ADJ)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM385MADJ](http://oom.lt/SZKREFERENCEVOLTAGELM385MADJ)

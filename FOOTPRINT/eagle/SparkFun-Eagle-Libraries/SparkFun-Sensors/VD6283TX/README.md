@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VD6283TX
 - Hex ID: FZSSPARKFUNSENSVD6283TX
 - Name: SparkFun-Sensors : VD6283TX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/VD6283TX/
 - Description: SparkFun-Sensors : VD6283TX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VD6283TX](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VD6283TX)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSVD6283TX](http://oom.lt/FZSSPARKFUNSENSVD6283TX)

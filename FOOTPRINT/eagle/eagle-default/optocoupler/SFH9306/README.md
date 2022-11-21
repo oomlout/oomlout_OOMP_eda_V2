@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-SFH9306
 - Hex ID: FZEOPTOCOUPLERSFH936
 - Name: optocoupler : SFH9306
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/SFH9306/
 - Description: optocoupler : SFH9306
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SFH9306](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SFH9306)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERSFH936](http://oom.lt/FZEOPTOCOUPLERSFH936)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-1X02_PP_HOLES_ONLY
 - Hex ID: FZSRT1X2PPHONLY
 - Name: SparkFun-Retired : 1X02_PP_HOLES_ONLY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/1X02_PP_HOLES_ONLY/
 - Description: SparkFun-Retired : 1X02_PP_HOLES_ONLY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-1X02_PP_HOLES_ONLY](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-1X02_PP_HOLES_ONLY)
 - Short Link: [http://oom.lt/FZSRT1X2PPHONLY](http://oom.lt/FZSRT1X2PPHONLY)

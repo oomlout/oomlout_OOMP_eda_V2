@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SCT598_INFINEON
 - Hex ID: FZETRANSISTORSLLSIGNALSCT598INFINEON
 - Name: transistor-small-signal : SCT598_INFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/SCT598_INFINEON/
 - Description: transistor-small-signal : SCT598_INFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SCT598_INFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SCT598_INFINEON)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALSCT598INFINEON](http://oom.lt/FZETRANSISTORSLLSIGNALSCT598INFINEON)

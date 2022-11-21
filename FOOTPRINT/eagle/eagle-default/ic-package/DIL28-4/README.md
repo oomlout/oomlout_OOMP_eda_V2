@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEICPACKAGEDIL284 > ic-package : DIL28-4](#fzeicpackagedil284--ic-package--dil28-4)
+* [FZEICPDIL284 > ic-package : DIL28-4](#fzeicpdil284--ic-package--dil28-4)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEICPACKAGEDIL284 > ic-package : DIL28-4
+# FZEICPDIL284 > ic-package : DIL28-4
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-DIL28-4
-- Hex ID: FZEICPACKAGEDIL284
+- Hex ID: FZEICPDIL284
 - Name: ic-package : DIL28-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ic-package/DIL28-4/
 - Description: ic-package : DIL28-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-DIL28-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-DIL28-4)
-- Short Link: [http://oom.lt/FZEICPACKAGEDIL284](http://oom.lt/FZEICPACKAGEDIL284)
+- Short Link: [http://oom.lt/FZEICPDIL284](http://oom.lt/FZEICPDIL284)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ic-package|
 |OOMP Index|oompIndex|DIL28-4|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ic-package-DIL28-4|
-|Hex ID (short code)|hexID|FZEICPACKAGEDIL284|
+|Hex ID (short code)|hexID|FZEICPDIL284|
 |name|name|ic-package : DIL28-4|
 ||||

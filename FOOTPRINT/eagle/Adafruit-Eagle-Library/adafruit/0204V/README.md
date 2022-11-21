@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0204V
 - Hex ID: FZA24V
 - Name: adafruit : 0204V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0204V/
 - Description: adafruit : 0204V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0204V](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0204V)
 - Short Link: [http://oom.lt/FZA24V](http://oom.lt/FZA24V)

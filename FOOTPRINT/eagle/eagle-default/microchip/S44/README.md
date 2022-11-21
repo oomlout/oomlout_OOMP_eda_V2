@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-S44
 - Hex ID: FZEMCHIPS44
 - Name: microchip : S44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/S44/
 - Description: microchip : S44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-S44](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-S44)
 - Short Link: [http://oom.lt/FZEMCHIPS44](http://oom.lt/FZEMCHIPS44)

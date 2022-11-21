@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SC74_INFINEON
 - Hex ID: FZETRANSISTORSLLSIGNALSC74INFINEON
 - Name: transistor-small-signal : SC74_INFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/SC74_INFINEON/
 - Description: transistor-small-signal : SC74_INFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SC74_INFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SC74_INFINEON)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALSC74INFINEON](http://oom.lt/FZETRANSISTORSLLSIGNALSC74INFINEON)

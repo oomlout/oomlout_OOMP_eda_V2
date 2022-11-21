@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT240XQ
 - Hex ID: SZKINTERFACEUFT24XQ
 - Name: Interface_USB : FT240XQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FT240XQ/
 - Description: Interface_USB : FT240XQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT240XQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT240XQ)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT24XQ](http://oom.lt/SZKINTERFACEUFT24XQ)

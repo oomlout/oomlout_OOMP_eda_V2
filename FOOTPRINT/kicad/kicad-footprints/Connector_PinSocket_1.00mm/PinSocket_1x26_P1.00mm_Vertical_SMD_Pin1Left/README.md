@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINSO1PINSO1X26P1VERTICALSMPIN1LEFT > Connector_PinSocket_1.00mm : PinSocket_1x26_P1.00mm_Vertical_SMD_Pin1Left](#fzkcnpinso1pinso1x26p1verticalsmpin1left--connector_pinsocket_100mm--pinsocket_1x26_p100mm_vertical_smd_pin1left)
+* [FZKCNPSO1PSO1X26P1FSMP1L > Connector_PinSocket_1.00mm : PinSocket_1x26_P1.00mm_Vertical_SMD_Pin1Left](#fzkcnpso1pso1x26p1fsmp1l--connector_pinsocket_100mm--pinsocket_1x26_p100mm_vertical_smd_pin1left)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINSO1PINSO1X26P1VERTICALSMPIN1LEFT > Connector_PinSocket_1.00mm : PinSocket_1x26_P1.00mm_Vertical_SMD_Pin1Left
+# FZKCNPSO1PSO1X26P1FSMP1L > Connector_PinSocket_1.00mm : PinSocket_1x26_P1.00mm_Vertical_SMD_Pin1Left
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.00mm-PinSocket_1x26_P1.00mm_Vertical_SMD_Pin1Left
-- Hex ID: FZKCNPINSO1PINSO1X26P1VERTICALSMPIN1LEFT
+- Hex ID: FZKCNPSO1PSO1X26P1FSMP1L
 - Name: Connector_PinSocket_1.00mm : PinSocket_1x26_P1.00mm_Vertical_SMD_Pin1Left
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x26_P1.00mm_Vertical_SMD_Pin1Left/
 - Description: Connector_PinSocket_1.00mm : PinSocket_1x26_P1.00mm_Vertical_SMD_Pin1Left
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.00mm-PinSocket_1x26_P1.00mm_Vertical_SMD_Pin1Left](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.00mm-PinSocket_1x26_P1.00mm_Vertical_SMD_Pin1Left)
-- Short Link: [http://oom.lt/FZKCNPINSO1PINSO1X26P1VERTICALSMPIN1LEFT](http://oom.lt/FZKCNPINSO1PINSO1X26P1VERTICALSMPIN1LEFT)
+- Short Link: [http://oom.lt/FZKCNPSO1PSO1X26P1FSMP1L](http://oom.lt/FZKCNPSO1PSO1X26P1FSMP1L)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinSocket_1.00mm|
 |OOMP Index|oompIndex|PinSocket_1x26_P1.00mm_Vertical_SMD_Pin1Left|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.00mm-PinSocket_1x26_P1.00mm_Vertical_SMD_Pin1Left|
-|Hex ID (short code)|hexID|FZKCNPINSO1PINSO1X26P1VERTICALSMPIN1LEFT|
+|Hex ID (short code)|hexID|FZKCNPSO1PSO1X26P1FSMP1L|
 |name|name|Connector_PinSocket_1.00mm : PinSocket_1x26_P1.00mm_Vertical_SMD_Pin1Left|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinSocket_1x26_P1.00mm_Vertical_SMD_Pin1Left'</td><td> 'description'</td></tr><tr><td> 'surface-mounted straight socket strip</td><td> 1x26</td><td> 1.00mm pitch</td><td> single row</td><td> style 1 (pin 1 left) (https</td></tr><tr><td>//gct.co/files/drawings/bc070.pdf)</td><td> script generated'</td><td> 'tags'</td></tr><tr><td> 'Surface mounted socket strip SMD 1x26 1.00mm single row style1 pin1 left'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinSocket_1.00mm.3dshapes/PinSocket_1x26_P1.00mm_Vertical_SMD_Pin1Left.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

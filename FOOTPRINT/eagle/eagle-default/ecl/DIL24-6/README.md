@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ecl-DIL24-6
 - Hex ID: FZEECLDIL246
 - Name: ecl : DIL24-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ecl/DIL24-6/
 - Description: ecl : DIL24-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ecl-DIL24-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-ecl-DIL24-6)
 - Short Link: [http://oom.lt/FZEECLDIL246](http://oom.lt/FZEECLDIL246)

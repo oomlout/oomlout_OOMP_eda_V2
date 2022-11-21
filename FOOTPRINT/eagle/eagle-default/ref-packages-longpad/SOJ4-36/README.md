@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSOJ436 > ref-packages-longpad : SOJ4-36](#fzerefpackageslongpadsoj436--ref-packages-longpad--soj4-36)
+* [FZEREFPSLPSOJ436 > ref-packages-longpad : SOJ4-36](#fzerefpslpsoj436--ref-packages-longpad--soj4-36)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSOJ436 > ref-packages-longpad : SOJ4-36
+# FZEREFPSLPSOJ436 > ref-packages-longpad : SOJ4-36
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOJ4-36
-- Hex ID: FZEREFPACKAGESLONGPADSOJ436
+- Hex ID: FZEREFPSLPSOJ436
 - Name: ref-packages-longpad : SOJ4-36
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SOJ4-36/
 - Description: ref-packages-longpad : SOJ4-36
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOJ4-36](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOJ4-36)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSOJ436](http://oom.lt/FZEREFPACKAGESLONGPADSOJ436)
+- Short Link: [http://oom.lt/FZEREFPSLPSOJ436](http://oom.lt/FZEREFPSLPSOJ436)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SOJ4-36|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOJ4-36|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSOJ436|
+|Hex ID (short code)|hexID|FZEREFPSLPSOJ436|
 |name|name|ref-packages-longpad : SOJ4-36|
 ||||

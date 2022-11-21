@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-MC-406
 - Hex ID: FZEXMC46
 - Name: crystal : MC-406
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/MC-406/
 - Description: crystal : MC-406
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-MC-406](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-MC-406)
 - Short Link: [http://oom.lt/FZEXMC46](http://oom.lt/FZEXMC46)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microphon-F9767AL
 - Hex ID: FZEMPHONF9767AL
 - Name: microphon : F9767AL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microphon/F9767AL/
 - Description: microphon : F9767AL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-F9767AL](http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-F9767AL)
 - Short Link: [http://oom.lt/FZEMPHONF9767AL](http://oom.lt/FZEMPHONF9767AL)

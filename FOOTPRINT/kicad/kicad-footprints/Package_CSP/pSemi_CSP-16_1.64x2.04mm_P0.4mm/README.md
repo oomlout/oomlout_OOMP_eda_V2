@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-pSemi_CSP-16_1.64x2.04mm_P0.4mm
 - Hex ID: FZKCSPPSEMICSP16164X24P4
 - Name: Package_CSP : pSemi_CSP-16_1.64x2.04mm_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/pSemi_CSP-16_1.64x2.04mm_P0.4mm/
 - Description: Package_CSP : pSemi_CSP-16_1.64x2.04mm_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-pSemi_CSP-16_1.64x2.04mm_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-pSemi_CSP-16_1.64x2.04mm_P0.4mm)
 - Short Link: [http://oom.lt/FZKCSPPSEMICSP16164X24P4](http://oom.lt/FZKCSPPSEMICSP16164X24P4)

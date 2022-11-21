@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKLSML21525METRIC > LED_SMD : LED_2010_5025Metric](#fzklsml21525metric--led_smd--led_2010_5025metric)
+* [FZKLL21525VA > LED_SMD : LED_2010_5025Metric](#fzkll21525va--led_smd--led_2010_5025metric)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSML21525METRIC > LED_SMD : LED_2010_5025Metric
+# FZKLL21525VA > LED_SMD : LED_2010_5025Metric
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_2010_5025Metric
-- Hex ID: FZKLSML21525METRIC
+- Hex ID: FZKLL21525VA
 - Name: LED_SMD : LED_2010_5025Metric
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_2010_5025Metric/
 - Description: LED_SMD : LED_2010_5025Metric
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_2010_5025Metric](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_2010_5025Metric)
-- Short Link: [http://oom.lt/FZKLSML21525METRIC](http://oom.lt/FZKLSML21525METRIC)
+- Short Link: [http://oom.lt/FZKLL21525VA](http://oom.lt/FZKLL21525VA)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_2010_5025Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_2010_5025Metric|
-|Hex ID (short code)|hexID|FZKLSML21525METRIC|
+|Hex ID (short code)|hexID|FZKLL21525VA|
 |name|name|LED_SMD : LED_2010_5025Metric|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_2010_5025Metric'</td><td> 'description'</td></tr><tr><td> 'LED SMD 2010 (5025 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> http</td></tr><tr><td>//www.tortai-tech.com/upload/download/2011102023233369053.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'LED'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_2010_5025Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

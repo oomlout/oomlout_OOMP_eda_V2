@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Crystal_Small
 - Hex ID: SZKDEVICEXSLL
 - Name: Device : Crystal_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Crystal_Small/
 - Description: Device : Crystal_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Crystal_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Crystal_Small)
 - Short Link: [http://oom.lt/SZKDEVICEXSLL](http://oom.lt/SZKDEVICEXSLL)

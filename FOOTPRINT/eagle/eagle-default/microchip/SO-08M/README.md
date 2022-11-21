@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-SO-08M
 - Hex ID: FZEMCHIPSO8M
 - Name: microchip : SO-08M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/SO-08M/
 - Description: microchip : SO-08M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SO-08M](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SO-08M)
 - Short Link: [http://oom.lt/FZEMCHIPSO8M](http://oom.lt/FZEMCHIPSO8M)

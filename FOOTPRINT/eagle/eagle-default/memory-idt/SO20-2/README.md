@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-SO20-2
 - Hex ID: FZEMEMORYIDTSO22
 - Name: memory-idt : SO20-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/SO20-2/
 - Description: memory-idt : SO20-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-SO20-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-SO20-2)
 - Short Link: [http://oom.lt/FZEMEMORYIDTSO22](http://oom.lt/FZEMEMORYIDTSO22)

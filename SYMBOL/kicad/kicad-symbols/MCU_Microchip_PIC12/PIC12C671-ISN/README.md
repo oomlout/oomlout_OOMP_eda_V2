@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C671-ISN
 - Hex ID: SZKMCUMCHIPPIC12PIC12C671ISN
 - Name: MCU_Microchip_PIC12 : PIC12C671-ISN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12C671-ISN/
 - Description: MCU_Microchip_PIC12 : PIC12C671-ISN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C671-ISN](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C671-ISN)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12C671ISN](http://oom.lt/SZKMCUMCHIPPIC12PIC12C671ISN)

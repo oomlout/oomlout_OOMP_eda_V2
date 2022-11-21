@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-ITS716G
 - Hex ID: SZKDRIVERFETITS716G
 - Name: Driver_FET : ITS716G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/ITS716G/
 - Description: Driver_FET : ITS716G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ITS716G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ITS716G)
 - Short Link: [http://oom.lt/SZKDRIVERFETITS716G](http://oom.lt/SZKDRIVERFETITS716G)

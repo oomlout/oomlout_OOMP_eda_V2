@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO49921R8O4992 > oomlout_OOMP_parts : RESE-0805-X-O4992-01-R8O4992](#fzkicadoomloutoompkicadoomloutoomppartsrese85xo49921r8o4992--oomlout_oomp_parts--rese-0805-x-o4992-01-r8o4992)
+* [FZOOMPKOOMPPRESE85XO49921R8O4992 > oomlout_OOMP_parts : RESE-0805-X-O4992-01-R8O4992](#fzoompkoompprese85xo49921r8o4992--oomlout_oomp_parts--rese-0805-x-o4992-01-r8o4992)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO49921R8O4992 > oomlout_OOMP_parts : RESE-0805-X-O4992-01-R8O4992
+# FZOOMPKOOMPPRESE85XO49921R8O4992 > oomlout_OOMP_parts : RESE-0805-X-O4992-01-R8O4992
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O4992-01-R8O4992
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO49921R8O4992
+- Hex ID: FZOOMPKOOMPPRESE85XO49921R8O4992
 - Name: oomlout_OOMP_parts : RESE-0805-X-O4992-01-R8O4992
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O4992-01-R8O4992/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O4992-01-R8O4992
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O4992-01-R8O4992](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O4992-01-R8O4992)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO49921R8O4992](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO49921R8O4992)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO49921R8O4992](http://oom.lt/FZOOMPKOOMPPRESE85XO49921R8O4992)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0805-X-O4992-01-R8O4992|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O4992-01-R8O4992|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO49921R8O4992|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPRESE85XO49921R8O4992|
 |name|name|oomlout_OOMP_parts : RESE-0805-X-O4992-01-R8O4992|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RESE-0805-X-O4992-01-R8O4992'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R8O4992;PARTL C-JLCC;C17719;MANUF C-XXXX;0805W8F4992T5E; Resistor SMD 0805 (2012 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

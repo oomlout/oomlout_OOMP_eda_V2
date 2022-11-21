@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADTSOC6 > ref-packages-longpad : TSOC6](#fzerefpackageslongpadtsoc6--ref-packages-longpad--tsoc6)
+* [FZEREFPSLPTSOC6 > ref-packages-longpad : TSOC6](#fzerefpslptsoc6--ref-packages-longpad--tsoc6)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADTSOC6 > ref-packages-longpad : TSOC6
+# FZEREFPSLPTSOC6 > ref-packages-longpad : TSOC6
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TSOC6
-- Hex ID: FZEREFPACKAGESLONGPADTSOC6
+- Hex ID: FZEREFPSLPTSOC6
 - Name: ref-packages-longpad : TSOC6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/TSOC6/
 - Description: ref-packages-longpad : TSOC6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TSOC6](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TSOC6)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADTSOC6](http://oom.lt/FZEREFPACKAGESLONGPADTSOC6)
+- Short Link: [http://oom.lt/FZEREFPSLPTSOC6](http://oom.lt/FZEREFPSLPTSOC6)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|TSOC6|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TSOC6|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADTSOC6|
+|Hex ID (short code)|hexID|FZEREFPSLPTSOC6|
 |name|name|ref-packages-longpad : TSOC6|
 ||||

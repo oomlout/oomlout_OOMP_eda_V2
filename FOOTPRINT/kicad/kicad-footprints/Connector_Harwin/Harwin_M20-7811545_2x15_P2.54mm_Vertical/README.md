@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNHARWINHARWINM278115452X15P254VERTICAL > Connector_Harwin : Harwin_M20-7811545_2x15_P2.54mm_Vertical](#fzkcnharwinharwinm278115452x15p254vertical--connector_harwin--harwin_m20-7811545_2x15_p254mm_vertical)
+* [FZKCNHARWINHARWINM278115452X15P254F > Connector_Harwin : Harwin_M20-7811545_2x15_P2.54mm_Vertical](#fzkcnharwinharwinm278115452x15p254f--connector_harwin--harwin_m20-7811545_2x15_p254mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNHARWINHARWINM278115452X15P254VERTICAL > Connector_Harwin : Harwin_M20-7811545_2x15_P2.54mm_Vertical
+# FZKCNHARWINHARWINM278115452X15P254F > Connector_Harwin : Harwin_M20-7811545_2x15_P2.54mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-7811545_2x15_P2.54mm_Vertical
-- Hex ID: FZKCNHARWINHARWINM278115452X15P254VERTICAL
+- Hex ID: FZKCNHARWINHARWINM278115452X15P254F
 - Name: Connector_Harwin : Harwin_M20-7811545_2x15_P2.54mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_M20-7811545_2x15_P2.54mm_Vertical/
 - Description: Connector_Harwin : Harwin_M20-7811545_2x15_P2.54mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-7811545_2x15_P2.54mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-7811545_2x15_P2.54mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNHARWINHARWINM278115452X15P254VERTICAL](http://oom.lt/FZKCNHARWINHARWINM278115452X15P254VERTICAL)
+- Short Link: [http://oom.lt/FZKCNHARWINHARWINM278115452X15P254F](http://oom.lt/FZKCNHARWINHARWINM278115452X15P254F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Harwin|
 |OOMP Index|oompIndex|Harwin_M20-7811545_2x15_P2.54mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-7811545_2x15_P2.54mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNHARWINHARWINM278115452X15P254VERTICAL|
+|Hex ID (short code)|hexID|FZKCNHARWINHARWINM278115452X15P254F|
 |name|name|Connector_Harwin : Harwin_M20-7811545_2x15_P2.54mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Harwin_M20-7811545_2x15_P2.54mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector</td><td> M20-7811545</td><td> 15 Pins per row (https</td></tr><tr><td>//cdn.harwin.com/pdfs/M20-781.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Harwin M20 side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Harwin.3dshapes/Harwin_M20-7811545_2x15_P2.54mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

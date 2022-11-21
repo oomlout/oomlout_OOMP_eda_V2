@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGLT861 > Regulator_Switching : LT8610](#szkregulatorswitchinglt861--regulator_switching--lt8610)
+* [SZKREGULATORSWINGLT861 > Regulator_Switching : LT8610](#szkregulatorswinglt861--regulator_switching--lt8610)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGLT861 > Regulator_Switching : LT8610
+# SZKREGULATORSWINGLT861 > Regulator_Switching : LT8610
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8610
-- Hex ID: SZKREGULATORSWITCHINGLT861
+- Hex ID: SZKREGULATORSWINGLT861
 - Name: Regulator_Switching : LT8610
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT8610/
 - Description: Regulator_Switching : LT8610
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8610](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8610)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLT861](http://oom.lt/SZKREGULATORSWITCHINGLT861)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGLT861](http://oom.lt/SZKREGULATORSWINGLT861)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|LT8610|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8610|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT861|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGLT861|
 |name|name|Regulator_Switching : LT8610|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT8610'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>LTC_MSOP-16-1EP_3x4mm_P0.5mm_EP2.15x3.26mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/8610fa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'high efficiency speed synchronous monolithic buck step-down switching regulator 42V 2.5A'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '42V</td><td> 2.5A Synchronous Step-Down Regulator with 2.5uA Quiescent Current</td><td> MSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LTC*MSOP*16*1EP*3x4mm*P0.5mm*EP2.15x3.26mm*'</td></tr></table>]|
 ||||

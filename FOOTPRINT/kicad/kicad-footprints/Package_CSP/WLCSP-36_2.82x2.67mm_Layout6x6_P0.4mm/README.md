@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm
 - Hex ID: FZKCSPWLCSP36282X267LAYOUT6X6P4
 - Name: Package_CSP : WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm/
 - Description: Package_CSP : WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm)
 - Short Link: [http://oom.lt/FZKCSPWLCSP36282X267LAYOUT6X6P4](http://oom.lt/FZKCSPWLCSP36282X267LAYOUT6X6P4)

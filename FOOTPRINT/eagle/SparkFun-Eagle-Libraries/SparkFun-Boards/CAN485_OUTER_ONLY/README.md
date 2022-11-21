@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-CAN485_OUTER_ONLY
 - Hex ID: FZSBOCAN485OUTERONLY
 - Name: SparkFun-Boards : CAN485_OUTER_ONLY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/CAN485_OUTER_ONLY/
 - Description: SparkFun-Boards : CAN485_OUTER_ONLY
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-CAN485_OUTER_ONLY](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-CAN485_OUTER_ONLY)
 - Short Link: [http://oom.lt/FZSBOCAN485OUTERONLY](http://oom.lt/FZSBOCAN485OUTERONLY)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-mc68000-DIL64
 - Hex ID: FZEMMC68DIL64
 - Name: micro-mc68000 : DIL64
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-mc68000/DIL64/
 - Description: micro-mc68000 : DIL64
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-mc68000-DIL64](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-mc68000-DIL64)
 - Short Link: [http://oom.lt/FZEMMC68DIL64](http://oom.lt/FZEMMC68DIL64)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F648A-IP
 - Hex ID: SZKMCUMCHIPPIC16PIC16F648AIP
 - Name: MCU_Microchip_PIC16 : PIC16F648A-IP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F648A-IP/
 - Description: MCU_Microchip_PIC16 : PIC16F648A-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F648A-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F648A-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F648AIP](http://oom.lt/SZKMCUMCHIPPIC16PIC16F648AIP)

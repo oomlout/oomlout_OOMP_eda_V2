@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-PQFP160
 - Hex ID: FZEALTERAPQFP16
 - Name: altera : PQFP160
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/PQFP160/
 - Description: altera : PQFP160
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PQFP160](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PQFP160)
 - Short Link: [http://oom.lt/FZEALTERAPQFP16](http://oom.lt/FZEALTERAPQFP16)

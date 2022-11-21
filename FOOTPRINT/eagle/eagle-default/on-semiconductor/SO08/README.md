@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-on-semiconductor-SO08
 - Hex ID: FZEONSEMICONDUCTORSO8
 - Name: on-semiconductor : SO08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/on-semiconductor/SO08/
 - Description: on-semiconductor : SO08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-SO08](http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-SO08)
 - Short Link: [http://oom.lt/FZEONSEMICONDUCTORSO8](http://oom.lt/FZEONSEMICONDUCTORSO8)

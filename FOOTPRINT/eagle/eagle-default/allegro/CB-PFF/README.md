@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-allegro-CB-PFF
 - Hex ID: FZEALLEGROCBPFF
 - Name: allegro : CB-PFF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/CB-PFF/
 - Description: allegro : CB-PFF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-CB-PFF](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-CB-PFF)
 - Short Link: [http://oom.lt/FZEALLEGROCBPFF](http://oom.lt/FZEALLEGROCBPFF)

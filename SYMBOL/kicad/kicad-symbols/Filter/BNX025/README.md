@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-BNX025
 - Hex ID: SZKFILBNX25
 - Name: Filter : BNX025
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/BNX025/
 - Description: Filter : BNX025
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-BNX025](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-BNX025)
 - Short Link: [http://oom.lt/SZKFILBNX25](http://oom.lt/SZKFILBNX25)

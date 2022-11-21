@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F334K8Ux
 - Hex ID: SZKMCUSTSTM32F3STM32F334K8UX
 - Name: MCU_ST_STM32F3 : STM32F334K8Ux
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F334K8Ux/
 - Description: MCU_ST_STM32F3 : STM32F334K8Ux
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F334K8Ux](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F334K8Ux)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F3STM32F334K8UX](http://oom.lt/SZKMCUSTSTM32F3STM32F334K8UX)

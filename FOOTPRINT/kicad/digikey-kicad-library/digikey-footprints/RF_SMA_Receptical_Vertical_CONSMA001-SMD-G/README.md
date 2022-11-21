@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFSRECEPTICALVERTICALCONS1SMG > digikey-footprints : RF_SMA_Receptical_Vertical_CONSMA001-SMD-G](#fzkicaddigikeykicadlibrarydigikeyfootprintsrfsrecepticalverticalcons1smg--digikey-footprints--rf_sma_receptical_vertical_consma001-smd-g)
+* [FZDIGIDIGIKEYFOOTPRINTSRFSRECEPTICALFCONS1SMG > digikey-footprints : RF_SMA_Receptical_Vertical_CONSMA001-SMD-G](#fzdigidigikeyfootprintsrfsrecepticalfcons1smg--digikey-footprints--rf_sma_receptical_vertical_consma001-smd-g)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFSRECEPTICALVERTICALCONS1SMG > digikey-footprints : RF_SMA_Receptical_Vertical_CONSMA001-SMD-G
+# FZDIGIDIGIKEYFOOTPRINTSRFSRECEPTICALFCONS1SMG > digikey-footprints : RF_SMA_Receptical_Vertical_CONSMA001-SMD-G
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_Receptical_Vertical_CONSMA001-SMD-G
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFSRECEPTICALVERTICALCONS1SMG
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSRFSRECEPTICALFCONS1SMG
 - Name: digikey-footprints : RF_SMA_Receptical_Vertical_CONSMA001-SMD-G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_SMA_Receptical_Vertical_CONSMA001-SMD-G/
 - Description: digikey-footprints : RF_SMA_Receptical_Vertical_CONSMA001-SMD-G
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_Receptical_Vertical_CONSMA001-SMD-G](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_Receptical_Vertical_CONSMA001-SMD-G)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFSRECEPTICALVERTICALCONS1SMG](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFSRECEPTICALVERTICALCONS1SMG)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFSRECEPTICALFCONS1SMG](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRFSRECEPTICALFCONS1SMG)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|RF_SMA_Receptical_Vertical_CONSMA001-SMD-G|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_Receptical_Vertical_CONSMA001-SMD-G|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFSRECEPTICALVERTICALCONS1SMG|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSRFSRECEPTICALFCONS1SMG|
 |name|name|digikey-footprints : RF_SMA_Receptical_Vertical_CONSMA001-SMD-G|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RF_SMA_Receptical_Vertical_CONSMA001-SMD-G'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

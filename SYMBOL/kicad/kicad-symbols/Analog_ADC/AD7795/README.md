@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7795
 - Hex ID: SZKANALOGADCAD7795
 - Name: Analog_ADC : AD7795
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7795/
 - Description: Analog_ADC : AD7795
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7795](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7795)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7795](http://oom.lt/SZKANALOGADCAD7795)

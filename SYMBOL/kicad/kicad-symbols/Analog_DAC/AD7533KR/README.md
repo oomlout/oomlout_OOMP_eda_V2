@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7533KR
 - Hex ID: SZKANALOGDACAD7533KR
 - Name: Analog_DAC : AD7533KR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7533KR/
 - Description: Analog_DAC : AD7533KR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7533KR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7533KR)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7533KR](http://oom.lt/SZKANALOGDACAD7533KR)

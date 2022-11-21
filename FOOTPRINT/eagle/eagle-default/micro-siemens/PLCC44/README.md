@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-PLCC44
 - Hex ID: FZEMSIEMENSPLCC44
 - Name: micro-siemens : PLCC44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/PLCC44/
 - Description: micro-siemens : PLCC44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PLCC44](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-PLCC44)
 - Short Link: [http://oom.lt/FZEMSIEMENSPLCC44](http://oom.lt/FZEMSIEMENSPLCC44)

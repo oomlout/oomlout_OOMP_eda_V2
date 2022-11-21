@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ID-12_LOCK
 - Hex ID: FZSRFID12L
 - Name: SparkFun-RF : ID-12_LOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/ID-12_LOCK/
 - Description: SparkFun-RF : ID-12_LOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ID-12_LOCK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ID-12_LOCK)
 - Short Link: [http://oom.lt/FZSRFID12L](http://oom.lt/FZSRFID12L)

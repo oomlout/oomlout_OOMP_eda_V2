@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SM6T10A
 - Hex ID: SZKDIODESM6T1A
 - Name: Diode : SM6T10A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM6T10A/
 - Description: Diode : SM6T10A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T10A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T10A)
 - Short Link: [http://oom.lt/SZKDIODESM6T1A](http://oom.lt/SZKDIODESM6T1A)

@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO6831R4O683 > oomlout_OOMP_parts : RESE-0402-X-O683-01-R4O683](#szkicadoomloutoompkicadoomloutoomppartsrese42xo6831r4o683--oomlout_oomp_parts--rese-0402-x-o683-01-r4o683)
+* [SZOOMPKOOMPPRESE42XO6831R4O683 > oomlout_OOMP_parts : RESE-0402-X-O683-01-R4O683](#szoompkoompprese42xo6831r4o683--oomlout_oomp_parts--rese-0402-x-o683-01-r4o683)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO6831R4O683 > oomlout_OOMP_parts : RESE-0402-X-O683-01-R4O683
+# SZOOMPKOOMPPRESE42XO6831R4O683 > oomlout_OOMP_parts : RESE-0402-X-O683-01-R4O683
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O683-01-R4O683
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO6831R4O683
+- Hex ID: SZOOMPKOOMPPRESE42XO6831R4O683
 - Name: oomlout_OOMP_parts : RESE-0402-X-O683-01-R4O683
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O683-01-R4O683/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O683-01-R4O683
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O683-01-R4O683](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O683-01-R4O683)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO6831R4O683](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO6831R4O683)
+- Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO6831R4O683](http://oom.lt/SZOOMPKOOMPPRESE42XO6831R4O683)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +31,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0402-X-O683-01-R4O683|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O683-01-R4O683|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO6831R4O683|
+|Hex ID (short code)|hexID|SZOOMPKOOMPPRESE42XO6831R4O683|
 |name|name|oomlout_OOMP_parts : RESE-0402-X-O683-01-R4O683|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0402-X-O683-01-R4O683'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0402-X-O683-01-R4O683'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R4O683'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4O683;PARTL C-JLCC;C36871;MANUF C-XXXX;0402WGF6802TCE;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

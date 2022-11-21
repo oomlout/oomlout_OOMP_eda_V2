@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ir-SO08
 - Hex ID: FZEIRSO8
 - Name: ir : SO08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ir/SO08/
 - Description: ir : SO08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ir-SO08](http://oom.lt/FOOTPRINT-eagle-eagle-default-ir-SO08)
 - Short Link: [http://oom.lt/FZEIRSO8](http://oom.lt/FZEIRSO8)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2405S-HR
 - Hex ID: SZKCONITX245SHR
 - Name: Converter_DCDC : ITX2405S-HR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2405S-HR/
 - Description: Converter_DCDC : ITX2405S-HR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2405S-HR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2405S-HR)
 - Short Link: [http://oom.lt/SZKCONITX245SHR](http://oom.lt/SZKCONITX245SHR)

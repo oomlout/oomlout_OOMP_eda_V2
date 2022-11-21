@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPPOTENTIOMETERALPSRK9LSINGLEVERTICAL > Potentiometer_THT : Potentiometer_Alps_RK09L_Single_Vertical](#fzkppotentiometeralpsrk9lsinglevertical--potentiometer_tht--potentiometer_alps_rk09l_single_vertical)
+* [FZKPPOTALPSRK9LSINGLEF > Potentiometer_THT : Potentiometer_Alps_RK09L_Single_Vertical](#fzkppotalpsrk9lsinglef--potentiometer_tht--potentiometer_alps_rk09l_single_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPPOTENTIOMETERALPSRK9LSINGLEVERTICAL > Potentiometer_THT : Potentiometer_Alps_RK09L_Single_Vertical
+# FZKPPOTALPSRK9LSINGLEF > Potentiometer_THT : Potentiometer_Alps_RK09L_Single_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK09L_Single_Vertical
-- Hex ID: FZKPPOTENTIOMETERALPSRK9LSINGLEVERTICAL
+- Hex ID: FZKPPOTALPSRK9LSINGLEF
 - Name: Potentiometer_THT : Potentiometer_Alps_RK09L_Single_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK09L_Single_Vertical/
 - Description: Potentiometer_THT : Potentiometer_Alps_RK09L_Single_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK09L_Single_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK09L_Single_Vertical)
-- Short Link: [http://oom.lt/FZKPPOTENTIOMETERALPSRK9LSINGLEVERTICAL](http://oom.lt/FZKPPOTENTIOMETERALPSRK9LSINGLEVERTICAL)
+- Short Link: [http://oom.lt/FZKPPOTALPSRK9LSINGLEF](http://oom.lt/FZKPPOTALPSRK9LSINGLEF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_THT|
 |OOMP Index|oompIndex|Potentiometer_Alps_RK09L_Single_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK09L_Single_Vertical|
-|Hex ID (short code)|hexID|FZKPPOTENTIOMETERALPSRK9LSINGLEVERTICAL|
+|Hex ID (short code)|hexID|FZKPPOTALPSRK9LSINGLEF|
 |name|name|Potentiometer_THT : Potentiometer_Alps_RK09L_Single_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Alps_RK09L_Single_Vertical'</td><td> 'description'</td></tr><tr><td> ' 1140A5L 114001E 1140A2U 114001T Potentiometer</td><td> vertical</td><td> Alps RK09L Single</td><td> https</td></tr><tr><td>//tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical Alps RK09L Single'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK09L_Single_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

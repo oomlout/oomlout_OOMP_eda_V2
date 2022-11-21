@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-16450
 - Hex ID: SZKINTERFACEUART1645
 - Name: Interface_UART : 16450
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/16450/
 - Description: Interface_UART : 16450
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-16450](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-16450)
 - Short Link: [http://oom.lt/SZKINTERFACEUART1645](http://oom.lt/SZKINTERFACEUART1645)

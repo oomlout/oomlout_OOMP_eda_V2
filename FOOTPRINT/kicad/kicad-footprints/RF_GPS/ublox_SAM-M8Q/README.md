@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_SAM-M8Q
 - Hex ID: FZKGPSUBLOXSAMM8Q
 - Name: RF_GPS : ublox_SAM-M8Q
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_SAM-M8Q/
 - Description: RF_GPS : ublox_SAM-M8Q
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_SAM-M8Q](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_SAM-M8Q)
 - Short Link: [http://oom.lt/FZKGPSUBLOXSAMM8Q](http://oom.lt/FZKGPSUBLOXSAMM8Q)

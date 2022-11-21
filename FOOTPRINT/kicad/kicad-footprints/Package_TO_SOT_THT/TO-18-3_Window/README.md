@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-3_Window
 - Hex ID: FZKSOTTO183WINDOW
 - Name: Package_TO_SOT_THT : TO-18-3_Window
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-18-3_Window/
 - Description: Package_TO_SOT_THT : TO-18-3_Window
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-3_Window](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-3_Window)
 - Short Link: [http://oom.lt/FZKSOTTO183WINDOW](http://oom.lt/FZKSOTTO183WINDOW)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIMCVR42A
 - Hex ID: FZERCLRTRIMCVR42A
 - Name: rcl : RTRIMCVR42A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/RTRIMCVR42A/
 - Description: rcl : RTRIMCVR42A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIMCVR42A](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIMCVR42A)
 - Short Link: [http://oom.lt/FZERCLRTRIMCVR42A](http://oom.lt/FZERCLRTRIMCVR42A)

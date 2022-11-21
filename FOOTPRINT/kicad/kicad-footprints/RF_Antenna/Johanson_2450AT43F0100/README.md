@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Johanson_2450AT43F0100
 - Hex ID: FZKRFJOHANSON245AT43F1
 - Name: RF_Antenna : Johanson_2450AT43F0100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Johanson_2450AT43F0100/
 - Description: RF_Antenna : Johanson_2450AT43F0100
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Johanson_2450AT43F0100](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Johanson_2450AT43F0100)
 - Short Link: [http://oom.lt/FZKRFJOHANSON245AT43F1](http://oom.lt/FZKRFJOHANSON245AT43F1)

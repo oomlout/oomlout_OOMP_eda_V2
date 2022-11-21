@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKXXSM634PIN6X35 > Crystal : Crystal_SMD_0603-4Pin_6.0x3.5mm](#fzkxxsm634pin6x35--crystal--crystal_smd_0603-4pin_60x35mm)
+* [FZKXXSM634P6X35 > Crystal : Crystal_SMD_0603-4Pin_6.0x3.5mm](#fzkxxsm634p6x35--crystal--crystal_smd_0603-4pin_60x35mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKXXSM634PIN6X35 > Crystal : Crystal_SMD_0603-4Pin_6.0x3.5mm
+# FZKXXSM634P6X35 > Crystal : Crystal_SMD_0603-4Pin_6.0x3.5mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_0603-4Pin_6.0x3.5mm
-- Hex ID: FZKXXSM634PIN6X35
+- Hex ID: FZKXXSM634P6X35
 - Name: Crystal : Crystal_SMD_0603-4Pin_6.0x3.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_0603-4Pin_6.0x3.5mm/
 - Description: Crystal : Crystal_SMD_0603-4Pin_6.0x3.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_0603-4Pin_6.0x3.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_0603-4Pin_6.0x3.5mm)
-- Short Link: [http://oom.lt/FZKXXSM634PIN6X35](http://oom.lt/FZKXXSM634PIN6X35)
+- Short Link: [http://oom.lt/FZKXXSM634P6X35](http://oom.lt/FZKXXSM634P6X35)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Crystal|
 |OOMP Index|oompIndex|Crystal_SMD_0603-4Pin_6.0x3.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_0603-4Pin_6.0x3.5mm|
-|Hex ID (short code)|hexID|FZKXXSM634PIN6X35|
+|Hex ID (short code)|hexID|FZKXXSM634P6X35|
 |name|name|Crystal : Crystal_SMD_0603-4Pin_6.0x3.5mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_0603-4Pin_6.0x3.5mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal SERIES SMD0603/4 http</td></tr><tr><td>//www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-4.pdf</td><td> 6.0x3.5mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_0603-4Pin_6.0x3.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

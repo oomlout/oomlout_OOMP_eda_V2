@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm
 - Hex ID: FZKBGAFUJITSUWLP15228X392LAYOUT3X5P4
 - Name: Package_BGA : Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm/
 - Description: Package_BGA : Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm)
 - Short Link: [http://oom.lt/FZKBGAFUJITSUWLP15228X392LAYOUT3X5P4](http://oom.lt/FZKBGAFUJITSUWLP15228X392LAYOUT3X5P4)

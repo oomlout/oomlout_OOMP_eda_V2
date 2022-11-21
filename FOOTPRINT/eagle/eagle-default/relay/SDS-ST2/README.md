@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-SDS-ST2
 - Hex ID: FZERELAYSDSST2
 - Name: relay : SDS-ST2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/SDS-ST2/
 - Description: relay : SDS-ST2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SDS-ST2](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SDS-ST2)
 - Short Link: [http://oom.lt/FZERELAYSDSST2](http://oom.lt/FZERELAYSDSST2)

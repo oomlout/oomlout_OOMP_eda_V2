@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ISL83491
 - Hex ID: SZKINTERFACEUARTISL83491
 - Name: Interface_UART : ISL83491
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ISL83491/
 - Description: Interface_UART : ISL83491
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISL83491](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISL83491)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTISL83491](http://oom.lt/SZKINTERFACEUARTISL83491)

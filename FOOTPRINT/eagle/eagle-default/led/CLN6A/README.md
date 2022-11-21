@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-CLN6A
 - Hex ID: FZELCLN6A
 - Name: led : CLN6A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/CLN6A/
 - Description: led : CLN6A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-CLN6A](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-CLN6A)
 - Short Link: [http://oom.lt/FZELCLN6A](http://oom.lt/FZELCLN6A)

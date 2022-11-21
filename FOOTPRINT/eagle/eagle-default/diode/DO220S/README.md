@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO220S
 - Hex ID: FZEDIODEDO22S
 - Name: diode : DO220S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/DO220S/
 - Description: diode : DO220S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO220S](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO220S)
 - Short Link: [http://oom.lt/FZEDIODEDO22S](http://oom.lt/FZEDIODEDO22S)

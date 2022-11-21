@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-PT-10S
 - Hex ID: FZERCLPT1S
 - Name: rcl : PT-10S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/PT-10S/
 - Description: rcl : PT-10S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-PT-10S](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-PT-10S)
 - Short Link: [http://oom.lt/FZERCLPT1S](http://oom.lt/FZERCLPT1S)

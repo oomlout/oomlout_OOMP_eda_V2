@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S207C8
 - Hex ID: SZKMCUSTSTM8STM8S27C8
 - Name: MCU_ST_STM8 : STM8S207C8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8S207C8/
 - Description: MCU_ST_STM8 : STM8S207C8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S207C8](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S207C8)
 - Short Link: [http://oom.lt/SZKMCUSTSTM8STM8S27C8](http://oom.lt/SZKMCUSTSTM8STM8S27C8)

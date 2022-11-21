@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-MNS-2
 - Hex ID: FZERESISTORPOWERMNS2
 - Name: resistor-power : MNS-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/MNS-2/
 - Description: resistor-power : MNS-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-MNS-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-MNS-2)
 - Short Link: [http://oom.lt/FZERESISTORPOWERMNS2](http://oom.lt/FZERESISTORPOWERMNS2)

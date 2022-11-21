@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-AD1853
 - Hex ID: SZKAUDIOAD1853
 - Name: Audio : AD1853
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/AD1853/
 - Description: Audio : AD1853
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AD1853](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AD1853)
 - Short Link: [http://oom.lt/SZKAUDIOAD1853](http://oom.lt/SZKAUDIOAD1853)

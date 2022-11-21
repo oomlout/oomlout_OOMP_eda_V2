@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51050BYFP
 - Hex ID: SZKBATMANAGEMENTBQ515BYFP
 - Name: Battery_Management : BQ51050BYFP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51050BYFP/
 - Description: Battery_Management : BQ51050BYFP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51050BYFP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51050BYFP)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ515BYFP](http://oom.lt/SZKBATMANAGEMENTBQ515BYFP)

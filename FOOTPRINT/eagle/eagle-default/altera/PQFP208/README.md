@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-PQFP208
 - Hex ID: FZEALTERAPQFP28
 - Name: altera : PQFP208
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/PQFP208/
 - Description: altera : PQFP208
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PQFP208](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-PQFP208)
 - Short Link: [http://oom.lt/FZEALTERAPQFP28](http://oom.lt/FZEALTERAPQFP28)

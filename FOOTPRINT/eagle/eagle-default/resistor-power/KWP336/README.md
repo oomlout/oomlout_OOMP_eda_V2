@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-KWP336
 - Hex ID: FZERESISTORPOWERKWP336
 - Name: resistor-power : KWP336
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/KWP336/
 - Description: resistor-power : KWP336
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-KWP336](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-KWP336)
 - Short Link: [http://oom.lt/FZERESISTORPOWERKWP336](http://oom.lt/FZERESISTORPOWERKWP336)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L38.0mm_W6.4mm_P45.72mm
 - Hex ID: FZKRRAXIALPOWERL38W64P4572
 - Name: Resistor_THT : R_Axial_Power_L38.0mm_W6.4mm_P45.72mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L38.0mm_W6.4mm_P45.72mm/
 - Description: Resistor_THT : R_Axial_Power_L38.0mm_W6.4mm_P45.72mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L38.0mm_W6.4mm_P45.72mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L38.0mm_W6.4mm_P45.72mm)
 - Short Link: [http://oom.lt/FZKRRAXIALPOWERL38W64P4572](http://oom.lt/FZKRRAXIALPOWERL38W64P4572)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega64A1-C
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA64A1C
 - Name: MCU_Microchip_ATmega : ATxmega64A1-C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATxmega64A1-C/
 - Description: MCU_Microchip_ATmega : ATxmega64A1-C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega64A1-C](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega64A1-C)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA64A1C](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA64A1C)

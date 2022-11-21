@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKRESISTORSMR28167142METRICPAD32X445HANDSOLDER > Resistor_SMD : R_2816_7142Metric_Pad3.20x4.45mm_HandSolder](#fzkresistorsmr28167142metricpad32x445handsolder--resistor_smd--r_2816_7142metric_pad320x445mm_handsolder)
+* [FZKRR28167142VAP32X445HSOLDER > Resistor_SMD : R_2816_7142Metric_Pad3.20x4.45mm_HandSolder](#fzkrr28167142vap32x445hsolder--resistor_smd--r_2816_7142metric_pad320x445mm_handsolder)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRESISTORSMR28167142METRICPAD32X445HANDSOLDER > Resistor_SMD : R_2816_7142Metric_Pad3.20x4.45mm_HandSolder
+# FZKRR28167142VAP32X445HSOLDER > Resistor_SMD : R_2816_7142Metric_Pad3.20x4.45mm_HandSolder
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2816_7142Metric_Pad3.20x4.45mm_HandSolder
-- Hex ID: FZKRESISTORSMR28167142METRICPAD32X445HANDSOLDER
+- Hex ID: FZKRR28167142VAP32X445HSOLDER
 - Name: Resistor_SMD : R_2816_7142Metric_Pad3.20x4.45mm_HandSolder
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_2816_7142Metric_Pad3.20x4.45mm_HandSolder/
 - Description: Resistor_SMD : R_2816_7142Metric_Pad3.20x4.45mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2816_7142Metric_Pad3.20x4.45mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2816_7142Metric_Pad3.20x4.45mm_HandSolder)
-- Short Link: [http://oom.lt/FZKRESISTORSMR28167142METRICPAD32X445HANDSOLDER](http://oom.lt/FZKRESISTORSMR28167142METRICPAD32X445HANDSOLDER)
+- Short Link: [http://oom.lt/FZKRR28167142VAP32X445HSOLDER](http://oom.lt/FZKRR28167142VAP32X445HSOLDER)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Resistor_SMD|
 |OOMP Index|oompIndex|R_2816_7142Metric_Pad3.20x4.45mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2816_7142Metric_Pad3.20x4.45mm_HandSolder|
-|Hex ID (short code)|hexID|FZKRESISTORSMR28167142METRICPAD32X445HANDSOLDER|
+|Hex ID (short code)|hexID|FZKRR28167142VAP32X445HSOLDER|
 |name|name|Resistor_SMD : R_2816_7142Metric_Pad3.20x4.45mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_2816_7142Metric_Pad3.20x4.45mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Resistor SMD 2816 (7142 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal with elongated pad for handsoldering. (Body size from</td></tr><tr><td> https</td></tr><tr><td>//www.vishay.com/docs/30100/wsl.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_2816_7142Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

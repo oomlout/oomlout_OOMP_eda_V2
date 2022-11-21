@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-silabs-MLP20
 - Hex ID: FZESILABSMLP2
 - Name: silabs : MLP20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/silabs/MLP20/
 - Description: silabs : MLP20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-silabs-MLP20](http://oom.lt/FOOTPRINT-eagle-eagle-default-silabs-MLP20)
 - Short Link: [http://oom.lt/FZESILABSMLP2](http://oom.lt/FZESILABSMLP2)

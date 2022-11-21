@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LZR181
 - Hex ID: FZALZR181
 - Name: adafruit : LZR181
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/LZR181/
 - Description: adafruit : LZR181
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LZR181](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LZR181)
 - Short Link: [http://oom.lt/FZALZR181](http://oom.lt/FZALZR181)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKTRANSISTORPOWERMOLITTELFUPACKAGEHXN2 > Transistor_Power_Module : Littelfuse_Package_H_XN2MM](#fzktransistorpowermolittelfupackagehxn2--transistor_power_module--littelfuse_package_h_xn2mm)
+* [FZKTRANSISTORPOWERMOLITTELFUPHXN2 > Transistor_Power_Module : Littelfuse_Package_H_XN2MM](#fzktransistorpowermolittelfuphxn2--transistor_power_module--littelfuse_package_h_xn2mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTRANSISTORPOWERMOLITTELFUPACKAGEHXN2 > Transistor_Power_Module : Littelfuse_Package_H_XN2MM
+# FZKTRANSISTORPOWERMOLITTELFUPHXN2 > Transistor_Power_Module : Littelfuse_Package_H_XN2MM
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Littelfuse_Package_H_XN2MM
-- Hex ID: FZKTRANSISTORPOWERMOLITTELFUPACKAGEHXN2
+- Hex ID: FZKTRANSISTORPOWERMOLITTELFUPHXN2
 - Name: Transistor_Power_Module : Littelfuse_Package_H_XN2MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Littelfuse_Package_H_XN2MM/
 - Description: Transistor_Power_Module : Littelfuse_Package_H_XN2MM
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Littelfuse_Package_H_XN2MM](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Littelfuse_Package_H_XN2MM)
-- Short Link: [http://oom.lt/FZKTRANSISTORPOWERMOLITTELFUPACKAGEHXN2](http://oom.lt/FZKTRANSISTORPOWERMOLITTELFUPACKAGEHXN2)
+- Short Link: [http://oom.lt/FZKTRANSISTORPOWERMOLITTELFUPHXN2](http://oom.lt/FZKTRANSISTORPOWERMOLITTELFUPHXN2)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Transistor_Power_Module|
 |OOMP Index|oompIndex|Littelfuse_Package_H_XN2MM|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Littelfuse_Package_H_XN2MM|
-|Hex ID (short code)|hexID|FZKTRANSISTORPOWERMOLITTELFUPACKAGEHXN2|
+|Hex ID (short code)|hexID|FZKTRANSISTORPOWERMOLITTELFUPHXN2|
 |name|name|Transistor_Power_Module : Littelfuse_Package_H_XN2MM|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Littelfuse_Package_H_XN2MM'</td><td> 'description'</td></tr><tr><td> '28-lead TH</td><td> Package H</td><td> same as Infineon_AG-ECONO2</td><td> https</td></tr><tr><td>//www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1225h_xn2mm_datasheet.pdf.pdf'</td><td> 'tags'</td></tr><tr><td> 'igbt diode module'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transistor_Power_Module.3dshapes/Littelfuse_Package_H_XN2MM.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

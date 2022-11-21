@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX485T-FFG1927
 - Hex ID: SZKFPGAXILINXVIRTEX7XC7VX485TFFG1927
 - Name: FPGA_Xilinx_Virtex7 : XC7VX485T-FFG1927
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX485T-FFG1927/
 - Description: FPGA_Xilinx_Virtex7 : XC7VX485T-FFG1927
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX485T-FFG1927](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX485T-FFG1927)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VX485TFFG1927](http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VX485TFFG1927)

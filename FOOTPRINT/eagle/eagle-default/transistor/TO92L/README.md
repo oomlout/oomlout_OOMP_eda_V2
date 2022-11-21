@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-TO92L
 - Hex ID: FZETRANSISTORTO92L
 - Name: transistor : TO92L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/TO92L/
 - Description: transistor : TO92L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO92L](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO92L)
 - Short Link: [http://oom.lt/FZETRANSISTORTO92L](http://oom.lt/FZETRANSISTORTO92L)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-TSOT23-6_DDC
 - Hex ID: FZETEXASTSOT236DDC
 - Name: texas : TSOT23-6_DDC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/TSOT23-6_DDC/
 - Description: texas : TSOT23-6_DDC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-TSOT23-6_DDC](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-TSOT23-6_DDC)
 - Short Link: [http://oom.lt/FZETEXASTSOT236DDC](http://oom.lt/FZETEXASTSOT236DDC)

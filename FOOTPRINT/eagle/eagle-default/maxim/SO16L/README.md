@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-SO16L
 - Hex ID: FZEMAXIMSO16L
 - Name: maxim : SO16L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/SO16L/
 - Description: maxim : SO16L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SO16L](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SO16L)
 - Short Link: [http://oom.lt/FZEMAXIMSO16L](http://oom.lt/FZEMAXIMSO16L)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC8W53 > digikey-footprints : SOIC-8_W5.3mm](#fzkicaddigikeykicadlibrarydigikeyfootprintssoic8w53--digikey-footprints--soic-8_w53mm)
+* [FZDIGIDIGIKEYFOOTPRINTSSOIC8W53 > digikey-footprints : SOIC-8_W5.3mm](#fzdigidigikeyfootprintssoic8w53--digikey-footprints--soic-8_w53mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC8W53 > digikey-footprints : SOIC-8_W5.3mm
+# FZDIGIDIGIKEYFOOTPRINTSSOIC8W53 > digikey-footprints : SOIC-8_W5.3mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8_W5.3mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC8W53
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSOIC8W53
 - Name: digikey-footprints : SOIC-8_W5.3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-8_W5.3mm/
 - Description: digikey-footprints : SOIC-8_W5.3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8_W5.3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8_W5.3mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC8W53](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC8W53)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC8W53](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSOIC8W53)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SOIC-8_W5.3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8_W5.3mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC8W53|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSOIC8W53|
 |name|name|digikey-footprints : SOIC-8_W5.3mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOIC-8_W5.3mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

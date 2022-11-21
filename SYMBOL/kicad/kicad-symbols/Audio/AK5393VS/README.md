@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-AK5393VS
 - Hex ID: SZKAUDIOAK5393VS
 - Name: Audio : AK5393VS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/AK5393VS/
 - Description: Audio : AK5393VS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK5393VS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK5393VS)
 - Short Link: [http://oom.lt/SZKAUDIOAK5393VS](http://oom.lt/SZKAUDIOAK5393VS)

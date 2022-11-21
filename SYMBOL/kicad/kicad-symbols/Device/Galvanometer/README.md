@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Galvanometer
 - Hex ID: SZKDEVICEGALVANOMETER
 - Name: Device : Galvanometer
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Galvanometer/
 - Description: Device : Galvanometer
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Galvanometer](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Galvanometer)
 - Short Link: [http://oom.lt/SZKDEVICEGALVANOMETER](http://oom.lt/SZKDEVICEGALVANOMETER)

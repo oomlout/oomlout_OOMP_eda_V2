@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-CLV1L-FKB
 - Hex ID: SZKLCLV1LFKB
 - Name: LED : CLV1L-FKB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/CLV1L-FKB/
 - Description: LED : CLV1L-FKB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-CLV1L-FKB](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-CLV1L-FKB)
 - Short Link: [http://oom.lt/SZKLCLV1LFKB](http://oom.lt/SZKLCLV1LFKB)

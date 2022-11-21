@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-TD1205
 - Hex ID: FZKRFMOTD125
 - Name: RF_Module : TD1205
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/TD1205/
 - Description: RF_Module : TD1205
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-TD1205](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-TD1205)
 - Short Link: [http://oom.lt/FZKRFMOTD125](http://oom.lt/FZKRFMOTD125)

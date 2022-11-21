@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNDSUBDSUB37MALEHORIZONTALP277X284EDGEPINOFFSET94 > Connector_Dsub : DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm](#fzkcndsubdsub37malehorizontalp277x284edgepinoffset94--connector_dsub--dsub-37_male_horizontal_p277x284mm_edgepinoffset940mm)
+* [FZKCNDSUBDSUB37MALEHP277X284EPO94 > Connector_Dsub : DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm](#fzkcndsubdsub37malehp277x284epo94--connector_dsub--dsub-37_male_horizontal_p277x284mm_edgepinoffset940mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNDSUBDSUB37MALEHORIZONTALP277X284EDGEPINOFFSET94 > Connector_Dsub : DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
+# FZKCNDSUBDSUB37MALEHP277X284EPO94 > Connector_Dsub : DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
-- Hex ID: FZKCNDSUBDSUB37MALEHORIZONTALP277X284EDGEPINOFFSET94
+- Hex ID: FZKCNDSUBDSUB37MALEHP277X284EPO94
 - Name: Connector_Dsub : DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm/
 - Description: Connector_Dsub : DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm)
-- Short Link: [http://oom.lt/FZKCNDSUBDSUB37MALEHORIZONTALP277X284EDGEPINOFFSET94](http://oom.lt/FZKCNDSUBDSUB37MALEHORIZONTALP277X284EDGEPINOFFSET94)
+- Short Link: [http://oom.lt/FZKCNDSUBDSUB37MALEHP277X284EPO94](http://oom.lt/FZKCNDSUBDSUB37MALEHP277X284EPO94)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Dsub|
 |OOMP Index|oompIndex|DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm|
-|Hex ID (short code)|hexID|FZKCNDSUBDSUB37MALEHORIZONTALP277X284EDGEPINOFFSET94|
+|Hex ID (short code)|hexID|FZKCNDSUBDSUB37MALEHP277X284EPO94|
 |name|name|Connector_Dsub : DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm'</td><td> 'description'</td></tr><tr><td> '37-pin D-Sub connector</td><td> horizontal/angled (90 deg)</td><td> THT-mount</td><td> male</td><td> pitch 2.77x2.84mm</td><td> pin-PCB-offset 9.4mm</td><td> see http</td></tr><tr><td>//docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf'</td><td> 'tags'</td></tr><tr><td> '37-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.4mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Dsub.3dshapes/DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

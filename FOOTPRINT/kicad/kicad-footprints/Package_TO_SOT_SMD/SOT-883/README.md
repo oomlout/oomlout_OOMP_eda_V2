@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMSOT883 > Package_TO_SOT_SMD : SOT-883](#fzkpackagetosotsmsot883--package_to_sot_smd--sot-883)
+* [FZKSOTSOT883 > Package_TO_SOT_SMD : SOT-883](#fzksotsot883--package_to_sot_smd--sot-883)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMSOT883 > Package_TO_SOT_SMD : SOT-883
+# FZKSOTSOT883 > Package_TO_SOT_SMD : SOT-883
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-883
-- Hex ID: FZKPACKAGETOSOTSMSOT883
+- Hex ID: FZKSOTSOT883
 - Name: Package_TO_SOT_SMD : SOT-883
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-883/
 - Description: Package_TO_SOT_SMD : SOT-883
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-883](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-883)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMSOT883](http://oom.lt/FZKPACKAGETOSOTSMSOT883)
+- Short Link: [http://oom.lt/FZKSOTSOT883](http://oom.lt/FZKSOTSOT883)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SOT-883|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-883|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT883|
+|Hex ID (short code)|hexID|FZKSOTSOT883|
 |name|name|Package_TO_SOT_SMD : SOT-883|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-883'</td><td> 'description'</td></tr><tr><td> 'SOT-883</td><td> https</td></tr><tr><td>//assets.nexperia.com/documents/outline-drawing/SOT883.pdf'</td><td> 'tags'</td></tr><tr><td> 'SOT-883'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-883.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

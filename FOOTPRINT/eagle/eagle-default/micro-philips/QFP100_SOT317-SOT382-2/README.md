@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-QFP100_SOT317-SOT382-2
 - Hex ID: FZEMPHILIPSQFP1SOT317SOT3822
 - Name: micro-philips : QFP100_SOT317-SOT382-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/QFP100_SOT317-SOT382-2/
 - Description: micro-philips : QFP100_SOT317-SOT382-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-QFP100_SOT317-SOT382-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-QFP100_SOT317-SOT382-2)
 - Short Link: [http://oom.lt/FZEMPHILIPSQFP1SOT317SOT3822](http://oom.lt/FZEMPHILIPSQFP1SOT317SOT3822)

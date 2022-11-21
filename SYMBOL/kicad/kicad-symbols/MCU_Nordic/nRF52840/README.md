@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52840
 - Hex ID: SZKMCUNORDICNRF5284
 - Name: MCU_Nordic : nRF52840
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF52840/
 - Description: MCU_Nordic : nRF52840
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52840](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52840)
 - Short Link: [http://oom.lt/SZKMCUNORDICNRF5284](http://oom.lt/SZKMCUNORDICNRF5284)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-CT7343
 - Hex ID: FZESMIPCCT7343
 - Name: smd-ipc : CT7343
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/CT7343/
 - Description: smd-ipc : CT7343
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CT7343](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CT7343)
 - Short Link: [http://oom.lt/FZESMIPCCT7343](http://oom.lt/FZESMIPCCT7343)

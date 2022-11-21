@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_BAGR
 - Hex ID: SZKDEVICELBAGR
 - Name: Device : LED_BAGR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_BAGR/
 - Description: Device : LED_BAGR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BAGR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BAGR)
 - Short Link: [http://oom.lt/SZKDEVICELBAGR](http://oom.lt/SZKDEVICELBAGR)

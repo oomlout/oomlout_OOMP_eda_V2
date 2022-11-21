@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-EL817
 - Hex ID: SZKISOLATOREL817
 - Name: Isolator : EL817
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/EL817/
 - Description: Isolator : EL817
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-EL817](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-EL817)
 - Short Link: [http://oom.lt/SZKISOLATOREL817](http://oom.lt/SZKISOLATOREL817)

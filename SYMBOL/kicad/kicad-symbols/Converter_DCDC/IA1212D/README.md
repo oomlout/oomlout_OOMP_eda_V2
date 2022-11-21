@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA1212D
 - Hex ID: SZKCONIA1212D
 - Name: Converter_DCDC : IA1212D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IA1212D/
 - Description: Converter_DCDC : IA1212D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA1212D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA1212D)
 - Short Link: [http://oom.lt/SZKCONIA1212D](http://oom.lt/SZKCONIA1212D)

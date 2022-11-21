@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F442-IPT
 - Hex ID: SZKMCUMCHIPPIC18PIC18F442IPT
 - Name: MCU_Microchip_PIC18 : PIC18F442-IPT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18F442-IPT/
 - Description: MCU_Microchip_PIC18 : PIC18F442-IPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F442-IPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F442-IPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F442IPT](http://oom.lt/SZKMCUMCHIPPIC18PIC18F442IPT)

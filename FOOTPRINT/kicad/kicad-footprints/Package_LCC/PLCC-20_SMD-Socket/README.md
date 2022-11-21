@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-20_SMD-Socket
 - Hex ID: FZKLCCPLCC2SMSO
 - Name: Package_LCC : PLCC-20_SMD-Socket
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-20_SMD-Socket/
 - Description: Package_LCC : PLCC-20_SMD-Socket
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-20_SMD-Socket](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-20_SMD-Socket)
 - Short Link: [http://oom.lt/FZKLCCPLCC2SMSO](http://oom.lt/FZKLCCPLCC2SMSO)

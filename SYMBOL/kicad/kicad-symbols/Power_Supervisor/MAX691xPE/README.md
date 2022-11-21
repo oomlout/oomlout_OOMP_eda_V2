@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX691xPE
 - Hex ID: SZKPOWERSUPERVISORMAX691XPE
 - Name: Power_Supervisor : MAX691xPE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX691xPE/
 - Description: Power_Supervisor : MAX691xPE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX691xPE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX691xPE)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMAX691XPE](http://oom.lt/SZKPOWERSUPERVISORMAX691XPE)

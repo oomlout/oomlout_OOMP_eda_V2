@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-HC49GW
 - Hex ID: FZEXHC49GW
 - Name: crystal : HC49GW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/HC49GW/
 - Description: crystal : HC49GW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-HC49GW](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-HC49GW)
 - Short Link: [http://oom.lt/FZEXHC49GW](http://oom.lt/FZEXHC49GW)

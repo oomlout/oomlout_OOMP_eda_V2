@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP7361C-15E
 - Hex ID: SZKREGULATORLINEARAP7361C15E
 - Name: Regulator_Linear : AP7361C-15E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP7361C-15E/
 - Description: Regulator_Linear : AP7361C-15E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP7361C-15E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP7361C-15E)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP7361C15E](http://oom.lt/SZKREGULATORLINEARAP7361C15E)

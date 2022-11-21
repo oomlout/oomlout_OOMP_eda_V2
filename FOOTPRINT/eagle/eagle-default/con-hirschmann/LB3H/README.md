@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-LB3H
 - Hex ID: FZECONHIRSCHMANNLB3H
 - Name: con-hirschmann : LB3H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirschmann/LB3H/
 - Description: con-hirschmann : LB3H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-LB3H](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-LB3H)
 - Short Link: [http://oom.lt/FZECONHIRSCHMANNLB3H](http://oom.lt/FZECONHIRSCHMANNLB3H)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-MSF10
 - Hex ID: FZECONLUMBERGMSF1
 - Name: con-lumberg : MSF10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/MSF10/
 - Description: con-lumberg : MSF10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MSF10](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MSF10)
 - Short Link: [http://oom.lt/FZECONLUMBERGMSF1](http://oom.lt/FZECONLUMBERGMSF1)

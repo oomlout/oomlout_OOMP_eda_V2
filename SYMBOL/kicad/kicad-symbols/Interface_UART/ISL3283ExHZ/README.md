@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3283ExHZ
 - Hex ID: SZKINTERFACEUARTISL3283EXHZ
 - Name: Interface_UART : ISL3283ExHZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ISL3283ExHZ/
 - Description: Interface_UART : ISL3283ExHZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3283ExHZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3283ExHZ)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTISL3283EXHZ](http://oom.lt/SZKINTERFACEUARTISL3283EXHZ)

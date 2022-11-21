@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP-WROVER-32
 - Hex ID: FZSRFESPWROVER32
 - Name: SparkFun-RF : ESP-WROVER-32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/ESP-WROVER-32/
 - Description: SparkFun-RF : ESP-WROVER-32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP-WROVER-32](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ESP-WROVER-32)
 - Short Link: [http://oom.lt/FZSRFESPWROVER32](http://oom.lt/FZSRFESPWROVER32)

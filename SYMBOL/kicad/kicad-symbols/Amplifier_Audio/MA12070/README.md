@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MA12070
 - Hex ID: SZKAMPLIFIERAUDIOMA127
 - Name: Amplifier_Audio : MA12070
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/MA12070/
 - Description: Amplifier_Audio : MA12070
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MA12070](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MA12070)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOMA127](http://oom.lt/SZKAMPLIFIERAUDIOMA127)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC081C021CIMM
 - Hex ID: SZKANALOGADCADC81C21CI
 - Name: Analog_ADC : ADC081C021CIMM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC081C021CIMM/
 - Description: Analog_ADC : ADC081C021CIMM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC081C021CIMM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC081C021CIMM)
 - Short Link: [http://oom.lt/SZKANALOGADCADC81C21CI](http://oom.lt/SZKANALOGADCADC81C21CI)

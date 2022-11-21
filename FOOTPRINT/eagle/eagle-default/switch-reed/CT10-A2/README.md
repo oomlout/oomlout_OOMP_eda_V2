@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHREEDCT1A2 > switch-reed : CT10-A2](#fzeswitchreedct1a2--switch-reed--ct10-a2)
+* [FZESWREEDCT1A2 > switch-reed : CT10-A2](#fzeswreedct1a2--switch-reed--ct10-a2)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHREEDCT1A2 > switch-reed : CT10-A2
+# FZESWREEDCT1A2 > switch-reed : CT10-A2
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-reed-CT10-A2
-- Hex ID: FZESWITCHREEDCT1A2
+- Hex ID: FZESWREEDCT1A2
 - Name: switch-reed : CT10-A2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-reed/CT10-A2/
 - Description: switch-reed : CT10-A2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-reed-CT10-A2](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-reed-CT10-A2)
-- Short Link: [http://oom.lt/FZESWITCHREEDCT1A2](http://oom.lt/FZESWITCHREEDCT1A2)
+- Short Link: [http://oom.lt/FZESWREEDCT1A2](http://oom.lt/FZESWREEDCT1A2)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-reed|
 |OOMP Index|oompIndex|CT10-A2|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-reed-CT10-A2|
-|Hex ID (short code)|hexID|FZESWITCHREEDCT1A2|
+|Hex ID (short code)|hexID|FZESWREEDCT1A2|
 |name|name|switch-reed : CT10-A2|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Pulse_W3011
 - Hex ID: FZKRFPULSEW311
 - Name: RF_Antenna : Pulse_W3011
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Pulse_W3011/
 - Description: RF_Antenna : Pulse_W3011
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Pulse_W3011](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Pulse_W3011)
 - Short Link: [http://oom.lt/FZKRFPULSEW311](http://oom.lt/FZKRFPULSEW311)

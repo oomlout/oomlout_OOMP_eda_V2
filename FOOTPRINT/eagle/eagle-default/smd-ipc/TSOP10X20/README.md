@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-TSOP10X20
 - Hex ID: FZESMIPCTS1X2
 - Name: smd-ipc : TSOP10X20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/TSOP10X20/
 - Description: smd-ipc : TSOP10X20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TSOP10X20](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-TSOP10X20)
 - Short Link: [http://oom.lt/FZESMIPCTS1X2](http://oom.lt/FZESMIPCTS1X2)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Filter-1FP45-0R
 - Hex ID: SZKFIL1FP45R
 - Name: Filter : 1FP45-0R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/1FP45-0R/
 - Description: Filter : 1FP45-0R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-1FP45-0R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-1FP45-0R)
 - Short Link: [http://oom.lt/SZKFIL1FP45R](http://oom.lt/SZKFIL1FP45R)

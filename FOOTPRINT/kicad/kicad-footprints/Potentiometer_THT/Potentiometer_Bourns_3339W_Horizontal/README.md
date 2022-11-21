@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPPOTENTIOMETERBOURNS3339WHORIZONTAL > Potentiometer_THT : Potentiometer_Bourns_3339W_Horizontal](#fzkppotentiometerbourns3339whorizontal--potentiometer_tht--potentiometer_bourns_3339w_horizontal)
+* [FZKPPOTBOURNS3339WH > Potentiometer_THT : Potentiometer_Bourns_3339W_Horizontal](#fzkppotbourns3339wh--potentiometer_tht--potentiometer_bourns_3339w_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPPOTENTIOMETERBOURNS3339WHORIZONTAL > Potentiometer_THT : Potentiometer_Bourns_3339W_Horizontal
+# FZKPPOTBOURNS3339WH > Potentiometer_THT : Potentiometer_Bourns_3339W_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3339W_Horizontal
-- Hex ID: FZKPPOTENTIOMETERBOURNS3339WHORIZONTAL
+- Hex ID: FZKPPOTBOURNS3339WH
 - Name: Potentiometer_THT : Potentiometer_Bourns_3339W_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3339W_Horizontal/
 - Description: Potentiometer_THT : Potentiometer_Bourns_3339W_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3339W_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3339W_Horizontal)
-- Short Link: [http://oom.lt/FZKPPOTENTIOMETERBOURNS3339WHORIZONTAL](http://oom.lt/FZKPPOTENTIOMETERBOURNS3339WHORIZONTAL)
+- Short Link: [http://oom.lt/FZKPPOTBOURNS3339WH](http://oom.lt/FZKPPOTBOURNS3339WH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_THT|
 |OOMP Index|oompIndex|Potentiometer_Bourns_3339W_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3339W_Horizontal|
-|Hex ID (short code)|hexID|FZKPPOTENTIOMETERBOURNS3339WHORIZONTAL|
+|Hex ID (short code)|hexID|FZKPPOTBOURNS3339WH|
 |name|name|Potentiometer_THT : Potentiometer_Bourns_3339W_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_3339W_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> horizontal</td><td> Bourns 3339W</td><td> http</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/3339.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer horizontal Bourns 3339W'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3339W_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

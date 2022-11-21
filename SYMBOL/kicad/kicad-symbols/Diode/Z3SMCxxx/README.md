@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-Z3SMCxxx
 - Hex ID: SZKDIODEZ3SMCXXX
 - Name: Diode : Z3SMCxxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/Z3SMCxxx/
 - Description: Diode : Z3SMCxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Z3SMCxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Z3SMCxxx)
 - Short Link: [http://oom.lt/SZKDIODEZ3SMCXXX](http://oom.lt/SZKDIODEZ3SMCXXX)

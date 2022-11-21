@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ12_Amphenol_54601
 - Hex ID: FZKCNRJRJ12AMPHENOL5461
 - Name: Connector_RJ : RJ12_Amphenol_54601
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ12_Amphenol_54601/
 - Description: Connector_RJ : RJ12_Amphenol_54601
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ12_Amphenol_54601](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ12_Amphenol_54601)
 - Short Link: [http://oom.lt/FZKCNRJRJ12AMPHENOL5461](http://oom.lt/FZKCNRJRJ12AMPHENOL5461)

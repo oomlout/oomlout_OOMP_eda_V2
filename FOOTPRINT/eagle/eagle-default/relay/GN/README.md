@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-GN
 - Hex ID: FZERELAYGN
 - Name: relay : GN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/GN/
 - Description: relay : GN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-GN](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-GN)
 - Short Link: [http://oom.lt/FZERELAYGN](http://oom.lt/FZERELAYGN)

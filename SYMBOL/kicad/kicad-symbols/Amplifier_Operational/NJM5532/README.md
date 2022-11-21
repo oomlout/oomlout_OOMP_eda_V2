@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM5532
 - Hex ID: SZKAMPLIFIEROPERATIONALNJM5532
 - Name: Amplifier_Operational : NJM5532
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NJM5532/
 - Description: Amplifier_Operational : NJM5532
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM5532](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM5532)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNJM5532](http://oom.lt/SZKAMPLIFIEROPERATIONALNJM5532)

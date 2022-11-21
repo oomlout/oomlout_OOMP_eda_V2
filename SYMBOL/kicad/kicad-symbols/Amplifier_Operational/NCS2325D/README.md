@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS2325D
 - Hex ID: SZKAMPLIFIEROPERATIONALNCS2325D
 - Name: Amplifier_Operational : NCS2325D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NCS2325D/
 - Description: Amplifier_Operational : NCS2325D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS2325D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS2325D)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNCS2325D](http://oom.lt/SZKAMPLIFIEROPERATIONALNCS2325D)

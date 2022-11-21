@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Schrack-RT1-FormC_RM3.5mm
 - Hex ID: FZKRELRELAYSPDTSCHRACKRT1FORMCRM35
 - Name: Relay_THT : Relay_SPDT_Schrack-RT1-FormC_RM3.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPDT_Schrack-RT1-FormC_RM3.5mm/
 - Description: Relay_THT : Relay_SPDT_Schrack-RT1-FormC_RM3.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Schrack-RT1-FormC_RM3.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Schrack-RT1-FormC_RM3.5mm)
 - Short Link: [http://oom.lt/FZKRELRELAYSPDTSCHRACKRT1FORMCRM35](http://oom.lt/FZKRELRELAYSPDTSCHRACKRT1FORMCRM35)

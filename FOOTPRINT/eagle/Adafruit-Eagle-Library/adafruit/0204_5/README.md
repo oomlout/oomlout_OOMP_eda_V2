@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0204_5
 - Hex ID: FZA245
 - Name: adafruit : 0204_5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0204_5/
 - Description: adafruit : 0204_5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0204_5](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0204_5)
 - Short Link: [http://oom.lt/FZA245](http://oom.lt/FZA245)

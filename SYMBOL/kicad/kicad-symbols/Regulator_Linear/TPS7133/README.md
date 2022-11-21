@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7133
 - Hex ID: SZKREGULATORLINEARTPS7133
 - Name: Regulator_Linear : TPS7133
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS7133/
 - Description: Regulator_Linear : TPS7133
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7133](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7133)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7133](http://oom.lt/SZKREGULATORLINEARTPS7133)

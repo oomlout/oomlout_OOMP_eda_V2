@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002CE
 - Hex ID: SZKOCSSG82CE
 - Name: Oscillator : SG-8002CE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/SG-8002CE/
 - Description: Oscillator : SG-8002CE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002CE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002CE)
 - Short Link: [http://oom.lt/SZKOCSSG82CE](http://oom.lt/SZKOCSSG82CE)

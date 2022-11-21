@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ANDROID-ELECTRIC_SHEEP_LOGO_SMALL
 - Hex ID: FZSRTANDROIDELECTRICSHEEPLSLL
 - Name: SparkFun-Retired : ANDROID-ELECTRIC_SHEEP_LOGO_SMALL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/ANDROID-ELECTRIC_SHEEP_LOGO_SMALL/
 - Description: SparkFun-Retired : ANDROID-ELECTRIC_SHEEP_LOGO_SMALL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ANDROID-ELECTRIC_SHEEP_LOGO_SMALL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-ANDROID-ELECTRIC_SHEEP_LOGO_SMALL)
 - Short Link: [http://oom.lt/FZSRTANDROIDELECTRICSHEEPLSLL](http://oom.lt/FZSRTANDROIDELECTRICSHEEPLSLL)

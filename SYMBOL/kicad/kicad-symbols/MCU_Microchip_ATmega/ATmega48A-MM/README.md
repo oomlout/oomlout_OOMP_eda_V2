@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega48A-MM
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA48A
 - Name: MCU_Microchip_ATmega : ATmega48A-MM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega48A-MM/
 - Description: MCU_Microchip_ATmega : ATmega48A-MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega48A-MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega48A-MM)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA48A](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA48A)

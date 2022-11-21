@@ -5,27 +5,21 @@
 Contents
 ========
 
-* [FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCONTACTMC1512GF581X12P58HORIZONTALTHREADEDFLANGE > Connector_Phoenix_MC_HighVoltage : PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange](#fzkcnphoenixmchighvoltagephoenixcontactmc1512gf581x12p58horizontalthreadedflange--connector_phoenix_mc_highvoltage--phoenixcontact_mc_15_12-gf-508_1x12_p508mm_horizontal_threadedflange)
-	* [Images](#images)
+* [FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCTMC1512GF581X12P58HTHF > Connector_Phoenix_MC_HighVoltage : PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange](#fzkcnphoenixmchighvoltagephoenixctmc1512gf581x12p58hthf--connector_phoenix_mc_highvoltage--phoenixcontact_mc_15_12-gf-508_1x12_p508mm_horizontal_threadedflange)
 	* [Tags](#tags)
   
-![][im]
-# FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCONTACTMC1512GF581X12P58HORIZONTALTHREADEDFLANGE > Connector_Phoenix_MC_HighVoltage : PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange
+NO IMAGE  
+# FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCTMC1512GF581X12P58HTHF > Connector_Phoenix_MC_HighVoltage : PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC_HighVoltage-PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange
-- Hex ID: FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCONTACTMC1512GF581X12P58HORIZONTALTHREADEDFLANGE
+- Hex ID: FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCTMC1512GF581X12P58HTHF
 - Name: Connector_Phoenix_MC_HighVoltage : PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange/
 - Description: Connector_Phoenix_MC_HighVoltage : PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC_HighVoltage-PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC_HighVoltage-PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange)
-- Short Link: [http://oom.lt/FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCONTACTMC1512GF581X12P58HORIZONTALTHREADEDFLANGE](http://oom.lt/FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCONTACTMC1512GF581X12P58HORIZONTALTHREADEDFLANGE)
-
-## Images
+- Short Link: [http://oom.lt/FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCTMC1512GF581X12P58HTHF](http://oom.lt/FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCTMC1512GF581X12P58HTHF)
   
-
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange/kicadPcb3dBack.png)|
-| :---: | :---: | :---: | :---: |
-|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange/kicadPcb3d.png)||||
-
+NO IMAGES  
 ## Tags
   
 
@@ -37,11 +31,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Phoenix_MC_HighVoltage|
 |OOMP Index|oompIndex|PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC_HighVoltage-PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange|
-|Hex ID (short code)|hexID|FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCONTACTMC1512GF581X12P58HORIZONTALTHREADEDFLANGE|
+|Hex ID (short code)|hexID|FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCTMC1512GF581X12P58HTHF|
 |name|name|Connector_Phoenix_MC_HighVoltage : PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PhoenixContact_MC_1</td><td>5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange'</td><td> 'description'</td></tr><tr><td> 'Generic Phoenix Contact connector footprint for</td></tr><tr><td> MC_1</td><td>5/12-GF-5.08; number of pins</td></tr><tr><td> 12; pin pitch</td></tr><tr><td> 5.08mm; Angled; threaded flange \|\| order number</td></tr><tr><td> 1847563 8A 320V'</td><td> 'tags'</td></tr><tr><td> 'phoenix_contact connector MC_01x12_GF_5.08mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Phoenix_MC_HighVoltage.3dshapes/PhoenixContact_MC_1</td><td>5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
-
-
-
-[im]: kicadPcb3d_450.png

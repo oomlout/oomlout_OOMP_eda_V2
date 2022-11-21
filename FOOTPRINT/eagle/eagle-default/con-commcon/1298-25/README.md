@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-commcon-1298-25
 - Hex ID: FZECONCOCON129825
 - Name: con-commcon : 1298-25
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-commcon/1298-25/
 - Description: con-commcon : 1298-25
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-commcon-1298-25](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-commcon-1298-25)
 - Short Link: [http://oom.lt/FZECONCOCON129825](http://oom.lt/FZECONCOCON129825)

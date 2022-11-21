@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7906
 - Hex ID: SZKREGULATORLINEARMC796
 - Name: Regulator_Linear : MC7906
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MC7906/
 - Description: Regulator_Linear : MC7906
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7906](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7906)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMC796](http://oom.lt/SZKREGULATORLINEARMC796)

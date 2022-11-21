@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25601
 - Hex ID: SZKBATMANAGEMENTBQ2561
 - Name: Battery_Management : BQ25601
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ25601/
 - Description: Battery_Management : BQ25601
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25601](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25601)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ2561](http://oom.lt/SZKBATMANAGEMENTBQ2561)

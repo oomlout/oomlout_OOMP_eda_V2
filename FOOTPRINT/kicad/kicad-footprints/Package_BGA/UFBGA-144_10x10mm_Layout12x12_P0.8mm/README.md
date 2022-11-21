@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-144_10x10mm_Layout12x12_P0.8mm
 - Hex ID: FZKBGAUFBGA1441X1LAYOUT12X12P8
 - Name: Package_BGA : UFBGA-144_10x10mm_Layout12x12_P0.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/UFBGA-144_10x10mm_Layout12x12_P0.8mm/
 - Description: Package_BGA : UFBGA-144_10x10mm_Layout12x12_P0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-144_10x10mm_Layout12x12_P0.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-144_10x10mm_Layout12x12_P0.8mm)
 - Short Link: [http://oom.lt/FZKBGAUFBGA1441X1LAYOUT12X12P8](http://oom.lt/FZKBGAUFBGA1441X1LAYOUT12X12P8)

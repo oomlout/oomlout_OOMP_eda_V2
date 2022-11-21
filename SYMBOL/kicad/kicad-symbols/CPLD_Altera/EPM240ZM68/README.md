@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM240ZM68
 - Hex ID: SZKCPLDALTERAEPM24ZM68
 - Name: CPLD_Altera : EPM240ZM68
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM240ZM68/
 - Description: CPLD_Altera : EPM240ZM68
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM240ZM68](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM240ZM68)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEPM24ZM68](http://oom.lt/SZKCPLDALTERAEPM24ZM68)

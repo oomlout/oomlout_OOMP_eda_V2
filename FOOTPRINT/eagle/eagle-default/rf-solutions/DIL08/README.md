@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rf-solutions-DIL08
 - Hex ID: FZERFSOLUTIONSDIL8
 - Name: rf-solutions : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rf-solutions/DIL08/
 - Description: rf-solutions : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rf-solutions-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-rf-solutions-DIL08)
 - Short Link: [http://oom.lt/FZERFSOLUTIONSDIL8](http://oom.lt/FZERFSOLUTIONSDIL8)

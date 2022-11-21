@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-G6RW
 - Hex ID: FZERELAYG6RW
 - Name: relay : G6RW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/G6RW/
 - Description: relay : G6RW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G6RW](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G6RW)
 - Short Link: [http://oom.lt/FZERELAYG6RW](http://oom.lt/FZERELAYG6RW)

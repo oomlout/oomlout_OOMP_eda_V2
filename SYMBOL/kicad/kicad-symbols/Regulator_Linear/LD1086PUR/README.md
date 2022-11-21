@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086PUR
 - Hex ID: SZKREGULATORLINEARLD186PUR
 - Name: Regulator_Linear : LD1086PUR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1086PUR/
 - Description: Regulator_Linear : LD1086PUR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086PUR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086PUR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLD186PUR](http://oom.lt/SZKREGULATORLINEARLD186PUR)

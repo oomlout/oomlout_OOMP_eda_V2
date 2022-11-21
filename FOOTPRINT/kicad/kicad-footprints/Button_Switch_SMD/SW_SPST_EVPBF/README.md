@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBSWITCHSMSWSPSTEVPBF > Button_Switch_SMD : SW_SPST_EVPBF](#fzkbswitchsmswspstevpbf--button_switch_smd--sw_spst_evpbf)
+* [FZKBSWSPSTEVPBF > Button_Switch_SMD : SW_SPST_EVPBF](#fzkbswspstevpbf--button_switch_smd--sw_spst_evpbf)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWITCHSMSWSPSTEVPBF > Button_Switch_SMD : SW_SPST_EVPBF
+# FZKBSWSPSTEVPBF > Button_Switch_SMD : SW_SPST_EVPBF
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_EVPBF
-- Hex ID: FZKBSWITCHSMSWSPSTEVPBF
+- Hex ID: FZKBSWSPSTEVPBF
 - Name: Button_Switch_SMD : SW_SPST_EVPBF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_EVPBF/
 - Description: Button_Switch_SMD : SW_SPST_EVPBF
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_EVPBF](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_EVPBF)
-- Short Link: [http://oom.lt/FZKBSWITCHSMSWSPSTEVPBF](http://oom.lt/FZKBSWITCHSMSWSPSTEVPBF)
+- Short Link: [http://oom.lt/FZKBSWSPSTEVPBF](http://oom.lt/FZKBSWSPSTEVPBF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_SMD|
 |OOMP Index|oompIndex|SW_SPST_EVPBF|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_EVPBF|
-|Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTEVPBF|
+|Hex ID (short code)|hexID|FZKBSWSPSTEVPBF|
 |name|name|Button_Switch_SMD : SW_SPST_EVPBF|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPST_EVPBF'</td><td> 'description'</td></tr><tr><td> 'Light Touch Switch'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPST_EVPBF.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

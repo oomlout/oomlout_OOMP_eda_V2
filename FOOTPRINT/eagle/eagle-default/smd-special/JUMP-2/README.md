@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-special-JUMP-2
 - Hex ID: FZESMSPECIALJUMP2
 - Name: smd-special : JUMP-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-special/JUMP-2/
 - Description: smd-special : JUMP-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-JUMP-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-special-JUMP-2)
 - Short Link: [http://oom.lt/FZESMSPECIALJUMP2](http://oom.lt/FZESMSPECIALJUMP2)

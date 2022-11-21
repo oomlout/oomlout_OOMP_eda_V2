@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-chipcard-siemens-M20-SMD
 - Hex ID: FZECHIPCARDSIEMENSM2SM
 - Name: chipcard-siemens : M20-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/chipcard-siemens/M20-SMD/
 - Description: chipcard-siemens : M20-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-chipcard-siemens-M20-SMD](http://oom.lt/FOOTPRINT-eagle-eagle-default-chipcard-siemens-M20-SMD)
 - Short Link: [http://oom.lt/FZECHIPCARDSIEMENSM2SM](http://oom.lt/FZECHIPCARDSIEMENSM2SM)

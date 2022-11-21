@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EB30D
 - Hex ID: FZAEB3D
 - Name: adafruit : EB30D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/EB30D/
 - Description: adafruit : EB30D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EB30D](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-EB30D)
 - Short Link: [http://oom.lt/FZAEB3D](http://oom.lt/FZAEB3D)

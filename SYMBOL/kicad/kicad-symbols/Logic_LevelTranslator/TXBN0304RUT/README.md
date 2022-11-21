@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXBN0304RUT
 - Hex ID: SZKLOGICLEVELTRANSLATORTXBN34RUT
 - Name: Logic_LevelTranslator : TXBN0304RUT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXBN0304RUT/
 - Description: Logic_LevelTranslator : TXBN0304RUT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXBN0304RUT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXBN0304RUT)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXBN34RUT](http://oom.lt/SZKLOGICLEVELTRANSLATORTXBN34RUT)

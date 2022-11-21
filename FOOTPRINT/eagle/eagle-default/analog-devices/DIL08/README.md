@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-DIL08
 - Hex ID: FZEANALOGDEVICESDIL8
 - Name: analog-devices : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/DIL08/
 - Description: analog-devices : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-DIL08)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESDIL8](http://oom.lt/FZEANALOGDEVICESDIL8)

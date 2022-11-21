@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-NEC_Molded_7x4x9mm
 - Hex ID: FZKSOTNECMOLDED7X4X9
 - Name: Package_TO_SOT_THT : NEC_Molded_7x4x9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/NEC_Molded_7x4x9mm/
 - Description: Package_TO_SOT_THT : NEC_Molded_7x4x9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-NEC_Molded_7x4x9mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-NEC_Molded_7x4x9mm)
 - Short Link: [http://oom.lt/FZKSOTNECMOLDED7X4X9](http://oom.lt/FZKSOTNECMOLDED7X4X9)

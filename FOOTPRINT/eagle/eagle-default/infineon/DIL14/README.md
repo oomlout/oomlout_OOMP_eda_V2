@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-DIL14
 - Hex ID: FZEINFINEONDIL14
 - Name: infineon : DIL14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon/DIL14/
 - Description: infineon : DIL14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-DIL14](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-DIL14)
 - Short Link: [http://oom.lt/FZEINFINEONDIL14](http://oom.lt/FZEINFINEONDIL14)

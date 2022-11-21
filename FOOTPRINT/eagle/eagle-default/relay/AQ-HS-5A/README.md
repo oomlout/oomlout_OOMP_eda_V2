@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-AQ-HS-5A
 - Hex ID: FZERELAYAQHS5A
 - Name: relay : AQ-HS-5A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/AQ-HS-5A/
 - Description: relay : AQ-HS-5A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQ-HS-5A](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQ-HS-5A)
 - Short Link: [http://oom.lt/FZERELAYAQHS5A](http://oom.lt/FZERELAYAQHS5A)

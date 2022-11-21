@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-COPERNICUS
 - Hex ID: FZSGCOPERNICUS
 - Name: SparkFun-GPS : COPERNICUS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/COPERNICUS/
 - Description: SparkFun-GPS : COPERNICUS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-COPERNICUS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-COPERNICUS)
 - Short Link: [http://oom.lt/FZSGCOPERNICUS](http://oom.lt/FZSGCOPERNICUS)

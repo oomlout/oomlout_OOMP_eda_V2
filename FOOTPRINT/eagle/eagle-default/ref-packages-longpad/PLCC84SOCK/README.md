@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADPLCC84SOCK > ref-packages-longpad : PLCC84SOCK](#fzerefpackageslongpadplcc84sock--ref-packages-longpad--plcc84sock)
+* [FZEREFPSLPPLCC84SOCK > ref-packages-longpad : PLCC84SOCK](#fzerefpslpplcc84sock--ref-packages-longpad--plcc84sock)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADPLCC84SOCK > ref-packages-longpad : PLCC84SOCK
+# FZEREFPSLPPLCC84SOCK > ref-packages-longpad : PLCC84SOCK
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PLCC84SOCK
-- Hex ID: FZEREFPACKAGESLONGPADPLCC84SOCK
+- Hex ID: FZEREFPSLPPLCC84SOCK
 - Name: ref-packages-longpad : PLCC84SOCK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/PLCC84SOCK/
 - Description: ref-packages-longpad : PLCC84SOCK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PLCC84SOCK](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PLCC84SOCK)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADPLCC84SOCK](http://oom.lt/FZEREFPACKAGESLONGPADPLCC84SOCK)
+- Short Link: [http://oom.lt/FZEREFPSLPPLCC84SOCK](http://oom.lt/FZEREFPSLPPLCC84SOCK)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|PLCC84SOCK|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PLCC84SOCK|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADPLCC84SOCK|
+|Hex ID (short code)|hexID|FZEREFPSLPPLCC84SOCK|
 |name|name|ref-packages-longpad : PLCC84SOCK|
 ||||

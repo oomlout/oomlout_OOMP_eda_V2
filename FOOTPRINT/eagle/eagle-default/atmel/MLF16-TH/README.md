@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-MLF16-TH
 - Hex ID: FZEATMELMLF16TH
 - Name: atmel : MLF16-TH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/MLF16-TH/
 - Description: atmel : MLF16-TH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-MLF16-TH](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-MLF16-TH)
 - Short Link: [http://oom.lt/FZEATMELMLF16TH](http://oom.lt/FZEATMELMLF16TH)

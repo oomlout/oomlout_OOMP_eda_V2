@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-LCD-8X2
 - Hex ID: FZSSPARKFUNDISLCD8X2
 - Name: SparkFun-Displays : LCD-8X2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/LCD-8X2/
 - Description: SparkFun-Displays : LCD-8X2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-LCD-8X2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-LCD-8X2)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISLCD8X2](http://oom.lt/FZSSPARKFUNDISLCD8X2)

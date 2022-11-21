@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm
 - Hex ID: FZKDFNDFN121EP4X4P5EP266X338
 - Name: Package_DFN_QFN : DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm/
 - Description: Package_DFN_QFN : DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm)
 - Short Link: [http://oom.lt/FZKDFNDFN121EP4X4P5EP266X338](http://oom.lt/FZKDFNDFN121EP4X4P5EP266X338)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6V67EMS
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP6V67EMS
 - Name: Amplifier_Operational : MCP6V67EMS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6V67EMS/
 - Description: Amplifier_Operational : MCP6V67EMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6V67EMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6V67EMS)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6V67EMS](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6V67EMS)

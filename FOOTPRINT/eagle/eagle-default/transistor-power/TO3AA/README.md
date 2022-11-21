@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO3AA
 - Hex ID: FZETRANSISTORPOWERTO3AA
 - Name: transistor-power : TO3AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO3AA/
 - Description: transistor-power : TO3AA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO3AA](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO3AA)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO3AA](http://oom.lt/FZETRANSISTORPOWERTO3AA)

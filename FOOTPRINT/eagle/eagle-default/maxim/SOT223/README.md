@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-maxim-SOT223
 - Hex ID: FZEMAXIMSOT223
 - Name: maxim : SOT223
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/maxim/SOT223/
 - Description: maxim : SOT223
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SOT223](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-SOT223)
 - Short Link: [http://oom.lt/FZEMAXIMSOT223](http://oom.lt/FZEMAXIMSOT223)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-jack-SPC4077
 - Hex ID: FZECONJSPC477
 - Name: con-jack : SPC4077
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jack/SPC4077/
 - Description: con-jack : SPC4077
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jack-SPC4077](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jack-SPC4077)
 - Short Link: [http://oom.lt/FZECONJSPC477](http://oom.lt/FZECONJSPC477)

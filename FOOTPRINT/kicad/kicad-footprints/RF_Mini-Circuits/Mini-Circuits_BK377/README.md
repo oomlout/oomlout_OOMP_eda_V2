@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_BK377
 - Hex ID: FZKRFMCIRCUITSBK377
 - Name: RF_Mini-Circuits : Mini-Circuits_BK377
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_BK377/
 - Description: RF_Mini-Circuits : Mini-Circuits_BK377
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_BK377](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_BK377)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSBK377](http://oom.lt/FZKRFMCIRCUITSBK377)

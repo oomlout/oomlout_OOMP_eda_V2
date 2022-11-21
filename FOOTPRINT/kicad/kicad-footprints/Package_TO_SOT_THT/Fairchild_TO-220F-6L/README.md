@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-Fairchild_TO-220F-6L
 - Hex ID: FZKSOTFAIRCHILDTO22F6L
 - Name: Package_TO_SOT_THT : Fairchild_TO-220F-6L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/Fairchild_TO-220F-6L/
 - Description: Package_TO_SOT_THT : Fairchild_TO-220F-6L
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-Fairchild_TO-220F-6L](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-Fairchild_TO-220F-6L)
 - Short Link: [http://oom.lt/FZKSOTFAIRCHILDTO22F6L](http://oom.lt/FZKSOTFAIRCHILDTO22F6L)

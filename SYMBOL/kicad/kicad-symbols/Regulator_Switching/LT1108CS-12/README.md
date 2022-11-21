@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGLT118CS12 > Regulator_Switching : LT1108CS-12](#szkregulatorswitchinglt118cs12--regulator_switching--lt1108cs-12)
+* [SZKREGULATORSWINGLT118CS12 > Regulator_Switching : LT1108CS-12](#szkregulatorswinglt118cs12--regulator_switching--lt1108cs-12)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGLT118CS12 > Regulator_Switching : LT1108CS-12
+# SZKREGULATORSWINGLT118CS12 > Regulator_Switching : LT1108CS-12
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1108CS-12
-- Hex ID: SZKREGULATORSWITCHINGLT118CS12
+- Hex ID: SZKREGULATORSWINGLT118CS12
 - Name: Regulator_Switching : LT1108CS-12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LT1108CS-12/
 - Description: Regulator_Switching : LT1108CS-12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1108CS-12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1108CS-12)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLT118CS12](http://oom.lt/SZKREGULATORSWITCHINGLT118CS12)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGLT118CS12](http://oom.lt/SZKREGULATORSWINGLT118CS12)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|LT1108CS-12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1108CS-12|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT118CS12|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGLT118CS12|
 |name|name|Regulator_Switching : LT1108CS-12|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LT1073CS-5'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1108CS-12'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/lt1108.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switching buck boost converter step-down step-up'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Micropower DC-DC converter</td><td> step-up or step-down operation</td><td> 2V-30Vin</td><td> fixed 12V output voltage</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Matias_2.75u
 - Hex ID: FZKBSWMATIAS275U
 - Name: Button_Switch_Keyboard : SW_Matias_2.75u
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Matias_2.75u/
 - Description: Button_Switch_Keyboard : SW_Matias_2.75u
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Matias_2.75u](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Matias_2.75u)
 - Short Link: [http://oom.lt/FZKBSWMATIAS275U](http://oom.lt/FZKBSWMATIAS275U)

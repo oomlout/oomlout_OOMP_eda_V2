@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-VFSOP-8
 - Hex ID: FZAVFS8
 - Name: adafruit : VFSOP-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/VFSOP-8/
 - Description: adafruit : VFSOP-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-VFSOP-8](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-VFSOP-8)
 - Short Link: [http://oom.lt/FZAVFS8](http://oom.lt/FZAVFS8)

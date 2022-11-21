@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L91RT-ESN
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP6L91RTESN
 - Name: Amplifier_Operational : MCP6L91RT-ESN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L91RT-ESN/
 - Description: Amplifier_Operational : MCP6L91RT-ESN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L91RT-ESN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L91RT-ESN)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L91RTESN](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L91RTESN)

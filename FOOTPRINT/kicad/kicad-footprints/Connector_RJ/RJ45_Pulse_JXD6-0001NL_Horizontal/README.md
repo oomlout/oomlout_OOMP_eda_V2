@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNRJRJ45PULSEJXD61NLHORIZONTAL > Connector_RJ : RJ45_Pulse_JXD6-0001NL_Horizontal](#fzkcnrjrj45pulsejxd61nlhorizontal--connector_rj--rj45_pulse_jxd6-0001nl_horizontal)
+* [FZKCNRJRJ45PULSEJXD61NLH > Connector_RJ : RJ45_Pulse_JXD6-0001NL_Horizontal](#fzkcnrjrj45pulsejxd61nlh--connector_rj--rj45_pulse_jxd6-0001nl_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNRJRJ45PULSEJXD61NLHORIZONTAL > Connector_RJ : RJ45_Pulse_JXD6-0001NL_Horizontal
+# FZKCNRJRJ45PULSEJXD61NLH > Connector_RJ : RJ45_Pulse_JXD6-0001NL_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Pulse_JXD6-0001NL_Horizontal
-- Hex ID: FZKCNRJRJ45PULSEJXD61NLHORIZONTAL
+- Hex ID: FZKCNRJRJ45PULSEJXD61NLH
 - Name: Connector_RJ : RJ45_Pulse_JXD6-0001NL_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Pulse_JXD6-0001NL_Horizontal/
 - Description: Connector_RJ : RJ45_Pulse_JXD6-0001NL_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Pulse_JXD6-0001NL_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Pulse_JXD6-0001NL_Horizontal)
-- Short Link: [http://oom.lt/FZKCNRJRJ45PULSEJXD61NLHORIZONTAL](http://oom.lt/FZKCNRJRJ45PULSEJXD61NLHORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNRJRJ45PULSEJXD61NLH](http://oom.lt/FZKCNRJRJ45PULSEJXD61NLH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_RJ|
 |OOMP Index|oompIndex|RJ45_Pulse_JXD6-0001NL_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Pulse_JXD6-0001NL_Horizontal|
-|Hex ID (short code)|hexID|FZKCNRJRJ45PULSEJXD61NLHORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNRJRJ45PULSEJXD61NLH|
 |name|name|Connector_RJ : RJ45_Pulse_JXD6-0001NL_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RJ45_Pulse_JXD6-0001NL_Horizontal'</td><td> 'description'</td></tr><tr><td> 'RJ45 ethernet transformer with magnetics (https</td></tr><tr><td>//productfinder.pulseeng.com/doc_type/WEB301/doc_num/JXD6-0001NL/doc_part/JXD6-0001NL.pdf)'</td><td> 'tags'</td></tr><tr><td> 'ethernet 8p8c transformer magjack'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_RJ.3dshapes/RJ45_Pulse_JXD6-0001NL_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-USB_A
 - Hex ID: SZKCNUA
 - Name: Connector : USB_A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/USB_A/
 - Description: Connector : USB_A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_A)
 - Short Link: [http://oom.lt/SZKCNUA](http://oom.lt/SZKCNUA)

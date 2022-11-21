@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNS1X5SMVERTICALCOMBO > SparkFun-Connectors : 1X05_SMD_VERTICAL_COMBO](#fzssparkfuncns1x5smverticalcombo--sparkfun-connectors--1x05_smd_vertical_combo)
+* [FZSSPARKFUNCNS1X5SMFCOMBO > SparkFun-Connectors : 1X05_SMD_VERTICAL_COMBO](#fzssparkfuncns1x5smfcombo--sparkfun-connectors--1x05_smd_vertical_combo)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNS1X5SMVERTICALCOMBO > SparkFun-Connectors : 1X05_SMD_VERTICAL_COMBO
+# FZSSPARKFUNCNS1X5SMFCOMBO > SparkFun-Connectors : 1X05_SMD_VERTICAL_COMBO
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X05_SMD_VERTICAL_COMBO
-- Hex ID: FZSSPARKFUNCNS1X5SMVERTICALCOMBO
+- Hex ID: FZSSPARKFUNCNS1X5SMFCOMBO
 - Name: SparkFun-Connectors : 1X05_SMD_VERTICAL_COMBO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X05_SMD_VERTICAL_COMBO/
 - Description: SparkFun-Connectors : 1X05_SMD_VERTICAL_COMBO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X05_SMD_VERTICAL_COMBO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X05_SMD_VERTICAL_COMBO)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNS1X5SMVERTICALCOMBO](http://oom.lt/FZSSPARKFUNCNS1X5SMVERTICALCOMBO)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNS1X5SMFCOMBO](http://oom.lt/FZSSPARKFUNCNS1X5SMFCOMBO)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|1X05_SMD_VERTICAL_COMBO|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X05_SMD_VERTICAL_COMBO|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNS1X5SMVERTICALCOMBO|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNS1X5SMFCOMBO|
 |name|name|SparkFun-Connectors : 1X05_SMD_VERTICAL_COMBO|
 ||||

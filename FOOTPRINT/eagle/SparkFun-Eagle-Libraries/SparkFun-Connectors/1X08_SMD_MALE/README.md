@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X08_SMD_MALE
 - Hex ID: FZSSPARKFUNCNS1X8SMMALE
 - Name: SparkFun-Connectors : 1X08_SMD_MALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X08_SMD_MALE/
 - Description: SparkFun-Connectors : 1X08_SMD_MALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X08_SMD_MALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X08_SMD_MALE)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X8SMMALE](http://oom.lt/FZSSPARKFUNCNS1X8SMMALE)

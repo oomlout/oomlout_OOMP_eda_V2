@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-OSC-SMD-5X3
 - Hex ID: FZSCLXOSCSM5X3
 - Name: SparkFun-Clocks : CRYSTAL-OSC-SMD-5X3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/CRYSTAL-OSC-SMD-5X3/
 - Description: SparkFun-Clocks : CRYSTAL-OSC-SMD-5X3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-OSC-SMD-5X3](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-OSC-SMD-5X3)
 - Short Link: [http://oom.lt/FZSCLXOSCSM5X3](http://oom.lt/FZSCLXOSCSM5X3)

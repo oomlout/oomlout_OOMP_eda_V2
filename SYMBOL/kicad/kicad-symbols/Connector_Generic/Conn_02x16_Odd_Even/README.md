@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNGENERICCONN2X16ODDEVEN > Connector_Generic : Conn_02x16_Odd_Even](#szkcngenericconn2x16oddeven--connector_generic--conn_02x16_odd_even)
+* [SZKCNGC2X16ODDEVEN > Connector_Generic : Conn_02x16_Odd_Even](#szkcngc2x16oddeven--connector_generic--conn_02x16_odd_even)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNGENERICCONN2X16ODDEVEN > Connector_Generic : Conn_02x16_Odd_Even
+# SZKCNGC2X16ODDEVEN > Connector_Generic : Conn_02x16_Odd_Even
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x16_Odd_Even
-- Hex ID: SZKCNGENERICCONN2X16ODDEVEN
+- Hex ID: SZKCNGC2X16ODDEVEN
 - Name: Connector_Generic : Conn_02x16_Odd_Even
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x16_Odd_Even/
 - Description: Connector_Generic : Conn_02x16_Odd_Even
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x16_Odd_Even](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x16_Odd_Even)
-- Short Link: [http://oom.lt/SZKCNGENERICCONN2X16ODDEVEN](http://oom.lt/SZKCNGENERICCONN2X16ODDEVEN)
+- Short Link: [http://oom.lt/SZKCNGC2X16ODDEVEN](http://oom.lt/SZKCNGC2X16ODDEVEN)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Generic|
 |OOMP Index|oompIndex|Conn_02x16_Odd_Even|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x16_Odd_Even|
-|Hex ID (short code)|hexID|SZKCNGENERICCONN2X16ODDEVEN|
+|Hex ID (short code)|hexID|SZKCNGC2X16ODDEVEN|
 |name|name|Connector_Generic : Conn_02x16_Odd_Even|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_02x16_Odd_Even'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connector</td><td> double row</td><td> 02x16</td><td> odd/even pin numbering scheme (row 1 odd numbers</td><td> row 2 even numbers)</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_2x??_*'</td></tr></table>]|
 ||||

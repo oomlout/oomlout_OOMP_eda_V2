@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-TQFP100-12X12
 - Hex ID: FZEMCHIPTQFP112X12
 - Name: microchip : TQFP100-12X12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/TQFP100-12X12/
 - Description: microchip : TQFP100-12X12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-TQFP100-12X12](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-TQFP100-12X12)
 - Short Link: [http://oom.lt/FZEMCHIPTQFP112X12](http://oom.lt/FZEMCHIPTQFP112X12)

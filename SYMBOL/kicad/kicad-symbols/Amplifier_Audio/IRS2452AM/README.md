@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2452AM
 - Hex ID: SZKAMPLIFIERAUDIOIRS2452AM
 - Name: Amplifier_Audio : IRS2452AM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2452AM/
 - Description: Amplifier_Audio : IRS2452AM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2452AM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2452AM)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIRS2452AM](http://oom.lt/SZKAMPLIFIERAUDIOIRS2452AM)

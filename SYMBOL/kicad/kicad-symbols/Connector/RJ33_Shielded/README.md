@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ33_Shielded
 - Hex ID: SZKCNRJ33SHED
 - Name: Connector : RJ33_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ33_Shielded/
 - Description: Connector : RJ33_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ33_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ33_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ33SHED](http://oom.lt/SZKCNRJ33SHED)

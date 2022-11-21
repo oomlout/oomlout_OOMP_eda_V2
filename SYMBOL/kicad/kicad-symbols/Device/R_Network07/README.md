@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Network07
 - Hex ID: SZKDEVICERNETWORK7
 - Name: Device : R_Network07
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Network07/
 - Description: Device : R_Network07
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network07](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network07)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORK7](http://oom.lt/SZKDEVICERNETWORK7)

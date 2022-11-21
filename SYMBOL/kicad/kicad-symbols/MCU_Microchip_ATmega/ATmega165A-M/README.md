@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega165A-M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA165AM
 - Name: MCU_Microchip_ATmega : ATmega165A-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega165A-M/
 - Description: MCU_Microchip_ATmega : ATmega165A-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega165A-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega165A-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA165AM](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA165AM)

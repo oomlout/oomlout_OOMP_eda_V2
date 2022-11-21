@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-power-GND2
 - Hex ID: SZKPOWERGND2
 - Name: power : GND2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/GND2/
 - Description: power : GND2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GND2](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GND2)
 - Short Link: [http://oom.lt/SZKPOWERGND2](http://oom.lt/SZKPOWERGND2)
@@ -38,7 +39,7 @@ Contents
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-GND2|
 |Hex ID (short code)|hexID|SZKPOWERGND2|
 |name|name|power : GND2|
-|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GND2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "GND2" </td><td> ground'</td></tr></table>]|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GND2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'global power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "GND2" </td><td> ground'</td></tr></table>]|
 ||||
 
 

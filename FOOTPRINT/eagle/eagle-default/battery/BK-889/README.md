@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-BK-889
 - Hex ID: FZEBATBK889
 - Name: battery : BK-889
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/BK-889/
 - Description: battery : BK-889
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-BK-889](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-BK-889)
 - Short Link: [http://oom.lt/FZEBATBK889](http://oom.lt/FZEBATBK889)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC802-xSP
 - Hex ID: SZKDSPMCHIPDSPIC33DSPIC33FJ64MC82XSP
 - Name: DSP_Microchip_DSPIC33 : DSPIC33FJ64MC802-xSP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64MC802-xSP/
 - Description: DSP_Microchip_DSPIC33 : DSPIC33FJ64MC802-xSP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC802-xSP](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC802-xSP)
 - Short Link: [http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64MC82XSP](http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64MC82XSP)

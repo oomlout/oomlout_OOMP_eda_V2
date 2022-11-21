@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-QFP80_SOT496-1
 - Hex ID: FZEMPHILIPSQFP8SOT4961
 - Name: micro-philips : QFP80_SOT496-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/QFP80_SOT496-1/
 - Description: micro-philips : QFP80_SOT496-1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-QFP80_SOT496-1](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-QFP80_SOT496-1)
 - Short Link: [http://oom.lt/FZEMPHILIPSQFP8SOT4961](http://oom.lt/FZEMPHILIPSQFP8SOT4961)

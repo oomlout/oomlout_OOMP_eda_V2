@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_STC-IRC15W207S-35x-SOP16
 - Hex ID: SZKMCUSTCIRC15W27S35XS16
 - Name: MCU_STC : IRC15W207S-35x-SOP16
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_STC/IRC15W207S-35x-SOP16/
 - Description: MCU_STC : IRC15W207S-35x-SOP16
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_STC-IRC15W207S-35x-SOP16](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_STC-IRC15W207S-35x-SOP16)
 - Short Link: [http://oom.lt/SZKMCUSTCIRC15W27S35XS16](http://oom.lt/SZKMCUSTCIRC15W27S35XS16)

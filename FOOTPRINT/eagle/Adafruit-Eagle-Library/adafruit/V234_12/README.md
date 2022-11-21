@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-V234_12
 - Hex ID: FZAV23412
 - Name: adafruit : V234_12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/V234_12/
 - Description: adafruit : V234_12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-V234_12](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-V234_12)
 - Short Link: [http://oom.lt/FZAV23412](http://oom.lt/FZAV23412)

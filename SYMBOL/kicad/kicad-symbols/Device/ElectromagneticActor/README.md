@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-ElectromagneticActor
 - Hex ID: SZKDEVICEELECTROMAGNETICACTOR
 - Name: Device : ElectromagneticActor
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/ElectromagneticActor/
 - Description: Device : ElectromagneticActor
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-ElectromagneticActor](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-ElectromagneticActor)
 - Short Link: [http://oom.lt/SZKDEVICEELECTROMAGNETICACTOR](http://oom.lt/SZKDEVICEELECTROMAGNETICACTOR)

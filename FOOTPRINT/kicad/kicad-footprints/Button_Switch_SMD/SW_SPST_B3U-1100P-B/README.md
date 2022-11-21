@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBSWITCHSMSWSPSTB3U11PB > Button_Switch_SMD : SW_SPST_B3U-1100P-B](#fzkbswitchsmswspstb3u11pb--button_switch_smd--sw_spst_b3u-1100p-b)
+* [FZKBSWSPSTB3U11PB > Button_Switch_SMD : SW_SPST_B3U-1100P-B](#fzkbswspstb3u11pb--button_switch_smd--sw_spst_b3u-1100p-b)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWITCHSMSWSPSTB3U11PB > Button_Switch_SMD : SW_SPST_B3U-1100P-B
+# FZKBSWSPSTB3U11PB > Button_Switch_SMD : SW_SPST_B3U-1100P-B
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3U-1100P-B
-- Hex ID: FZKBSWITCHSMSWSPSTB3U11PB
+- Hex ID: FZKBSWSPSTB3U11PB
 - Name: Button_Switch_SMD : SW_SPST_B3U-1100P-B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_B3U-1100P-B/
 - Description: Button_Switch_SMD : SW_SPST_B3U-1100P-B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3U-1100P-B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3U-1100P-B)
-- Short Link: [http://oom.lt/FZKBSWITCHSMSWSPSTB3U11PB](http://oom.lt/FZKBSWITCHSMSWSPSTB3U11PB)
+- Short Link: [http://oom.lt/FZKBSWSPSTB3U11PB](http://oom.lt/FZKBSWSPSTB3U11PB)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_SMD|
 |OOMP Index|oompIndex|SW_SPST_B3U-1100P-B|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3U-1100P-B|
-|Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTB3U11PB|
+|Hex ID (short code)|hexID|FZKBSWSPSTB3U11PB|
 |name|name|Button_Switch_SMD : SW_SPST_B3U-1100P-B|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPST_B3U-1100P-B'</td><td> 'description'</td></tr><tr><td> 'Ultra-small-sized Tactile Switch with High Contact Reliability</td><td> Top-actuated Model</td><td> with Ground Terminal</td><td> with Boss'</td><td> 'tags'</td></tr><tr><td> 'Tactile Switch'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPST_B3U-1100P-B.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

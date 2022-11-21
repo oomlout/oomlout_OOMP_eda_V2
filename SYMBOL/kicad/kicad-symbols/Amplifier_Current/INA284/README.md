@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA284
 - Hex ID: SZKAMPLIFIERCURRENTINA284
 - Name: Amplifier_Current : INA284
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA284/
 - Description: Amplifier_Current : INA284
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA284](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA284)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTINA284](http://oom.lt/SZKAMPLIFIERCURRENTINA284)

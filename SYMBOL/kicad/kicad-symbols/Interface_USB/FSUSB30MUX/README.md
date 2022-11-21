@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FSUSB30MUX
 - Hex ID: SZKINTERFACEUFSU3MUX
 - Name: Interface_USB : FSUSB30MUX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FSUSB30MUX/
 - Description: Interface_USB : FSUSB30MUX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FSUSB30MUX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FSUSB30MUX)
 - Short Link: [http://oom.lt/SZKINTERFACEUFSU3MUX](http://oom.lt/SZKINTERFACEUFSU3MUX)

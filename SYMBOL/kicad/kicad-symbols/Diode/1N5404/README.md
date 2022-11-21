@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N5404
 - Hex ID: SZKDIODE1N544
 - Name: Diode : 1N5404
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N5404/
 - Description: Diode : 1N5404
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5404](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5404)
 - Short Link: [http://oom.lt/SZKDIODE1N544](http://oom.lt/SZKDIODE1N544)

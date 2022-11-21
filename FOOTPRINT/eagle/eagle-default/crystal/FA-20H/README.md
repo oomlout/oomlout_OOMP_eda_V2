@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-FA-20H
 - Hex ID: FZEXFA2H
 - Name: crystal : FA-20H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/FA-20H/
 - Description: crystal : FA-20H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-FA-20H](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-FA-20H)
 - Short Link: [http://oom.lt/FZEXFA2H](http://oom.lt/FZEXFA2H)

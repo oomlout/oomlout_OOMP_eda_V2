@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-AC03
 - Hex ID: FZERESISTORPOWERAC3
 - Name: resistor-power : AC03
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/AC03/
 - Description: resistor-power : AC03
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-AC03](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-AC03)
 - Short Link: [http://oom.lt/FZERESISTORPOWERAC3](http://oom.lt/FZERESISTORPOWERAC3)

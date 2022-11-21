@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224LR-1
 - Hex ID: SZKANALOGDACAD7224LR1
 - Name: Analog_DAC : AD7224LR-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7224LR-1/
 - Description: Analog_DAC : AD7224LR-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224LR-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224LR-1)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7224LR1](http://oom.lt/SZKANALOGDACAD7224LR1)

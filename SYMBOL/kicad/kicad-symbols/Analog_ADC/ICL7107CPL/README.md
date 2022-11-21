@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ICL7107CPL
 - Hex ID: SZKANALOGADCICL717CPL
 - Name: Analog_ADC : ICL7107CPL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ICL7107CPL/
 - Description: Analog_ADC : ICL7107CPL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ICL7107CPL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ICL7107CPL)
 - Short Link: [http://oom.lt/SZKANALOGADCICL717CPL](http://oom.lt/SZKANALOGADCICL717CPL)

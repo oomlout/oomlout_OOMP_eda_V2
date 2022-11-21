@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADUBGA562 > ref-packages-longpad : UBGA56-2](#fzerefpackageslongpadubga562--ref-packages-longpad--ubga56-2)
+* [FZEREFPSLPUBGA562 > ref-packages-longpad : UBGA56-2](#fzerefpslpubga562--ref-packages-longpad--ubga56-2)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADUBGA562 > ref-packages-longpad : UBGA56-2
+# FZEREFPSLPUBGA562 > ref-packages-longpad : UBGA56-2
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-UBGA56-2
-- Hex ID: FZEREFPACKAGESLONGPADUBGA562
+- Hex ID: FZEREFPSLPUBGA562
 - Name: ref-packages-longpad : UBGA56-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/UBGA56-2/
 - Description: ref-packages-longpad : UBGA56-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-UBGA56-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-UBGA56-2)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADUBGA562](http://oom.lt/FZEREFPACKAGESLONGPADUBGA562)
+- Short Link: [http://oom.lt/FZEREFPSLPUBGA562](http://oom.lt/FZEREFPSLPUBGA562)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|UBGA56-2|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-UBGA56-2|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADUBGA562|
+|Hex ID (short code)|hexID|FZEREFPSLPUBGA562|
 |name|name|ref-packages-longpad : UBGA56-2|
 ||||

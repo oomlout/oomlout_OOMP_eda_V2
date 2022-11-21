@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-8_3.95x5.21x3.27mm_P1.27mm
 - Hex ID: FZKSOSS8395X521X327P127
 - Name: Package_SO : SSOP-8_3.95x5.21x3.27mm_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-8_3.95x5.21x3.27mm_P1.27mm/
 - Description: Package_SO : SSOP-8_3.95x5.21x3.27mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-8_3.95x5.21x3.27mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-8_3.95x5.21x3.27mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKSOSS8395X521X327P127](http://oom.lt/FZKSOSS8395X521X327P127)

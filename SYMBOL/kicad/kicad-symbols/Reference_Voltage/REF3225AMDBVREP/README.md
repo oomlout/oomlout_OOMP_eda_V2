@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3225AMDBVREP
 - Hex ID: SZKREFERENCEVOLTAGEREF3225AMDBVREP
 - Name: Reference_Voltage : REF3225AMDBVREP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF3225AMDBVREP/
 - Description: Reference_Voltage : REF3225AMDBVREP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3225AMDBVREP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3225AMDBVREP)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF3225AMDBVREP](http://oom.lt/SZKREFERENCEVOLTAGEREF3225AMDBVREP)

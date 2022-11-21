@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-AXIAL-2.0
 - Hex ID: FZSRA2
 - Name: SparkFun-Resistors : AXIAL-2.0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/AXIAL-2.0/
 - Description: SparkFun-Resistors : AXIAL-2.0
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-AXIAL-2.0](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-AXIAL-2.0)
 - Short Link: [http://oom.lt/FZSRA2](http://oom.lt/FZSRA2)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ICL7106CPL
 - Hex ID: SZKANALOGADCICL716CPL
 - Name: Analog_ADC : ICL7106CPL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ICL7106CPL/
 - Description: Analog_ADC : ICL7106CPL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ICL7106CPL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ICL7106CPL)
 - Short Link: [http://oom.lt/SZKANALOGADCICL716CPL](http://oom.lt/SZKANALOGADCICL716CPL)

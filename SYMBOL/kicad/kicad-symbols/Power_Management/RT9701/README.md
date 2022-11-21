@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-RT9701
 - Hex ID: SZKPOWERMANAGEMENTRT971
 - Name: Power_Management : RT9701
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/RT9701/
 - Description: Power_Management : RT9701
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-RT9701](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-RT9701)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTRT971](http://oom.lt/SZKPOWERMANAGEMENTRT971)

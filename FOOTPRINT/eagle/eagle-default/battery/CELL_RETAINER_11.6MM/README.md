@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-CELL_RETAINER_11.6MM
 - Hex ID: FZEBATCELLRETAINER116
 - Name: battery : CELL_RETAINER_11.6MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/CELL_RETAINER_11.6MM/
 - Description: battery : CELL_RETAINER_11.6MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-CELL_RETAINER_11.6MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-CELL_RETAINER_11.6MM)
 - Short Link: [http://oom.lt/FZEBATCELLRETAINER116](http://oom.lt/FZEBATCELLRETAINER116)

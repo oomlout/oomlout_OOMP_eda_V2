@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega192A3-A
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA192A3A
 - Name: MCU_Microchip_ATmega : ATxmega192A3-A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATxmega192A3-A/
 - Description: MCU_Microchip_ATmega : ATxmega192A3-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega192A3-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega192A3-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA192A3A](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA192A3A)

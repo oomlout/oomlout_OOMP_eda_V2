@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL37PADVIA > MountingHole : MountingHole_3.7mm_Pad_Via](#fzkholhol37padvia--mountinghole--mountinghole_37mm_pad_via)
+* [FZKHOLHOL37PVIA > MountingHole : MountingHole_3.7mm_Pad_Via](#fzkholhol37pvia--mountinghole--mountinghole_37mm_pad_via)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL37PADVIA > MountingHole : MountingHole_3.7mm_Pad_Via
+# FZKHOLHOL37PVIA > MountingHole : MountingHole_3.7mm_Pad_Via
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.7mm_Pad_Via
-- Hex ID: FZKHOLHOL37PADVIA
+- Hex ID: FZKHOLHOL37PVIA
 - Name: MountingHole : MountingHole_3.7mm_Pad_Via
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.7mm_Pad_Via/
 - Description: MountingHole : MountingHole_3.7mm_Pad_Via
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.7mm_Pad_Via](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.7mm_Pad_Via)
-- Short Link: [http://oom.lt/FZKHOLHOL37PADVIA](http://oom.lt/FZKHOLHOL37PADVIA)
+- Short Link: [http://oom.lt/FZKHOLHOL37PVIA](http://oom.lt/FZKHOLHOL37PVIA)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_3.7mm_Pad_Via|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.7mm_Pad_Via|
-|Hex ID (short code)|hexID|FZKHOLHOL37PADVIA|
+|Hex ID (short code)|hexID|FZKHOLHOL37PVIA|
 |name|name|MountingHole : MountingHole_3.7mm_Pad_Via|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_3.7mm_Pad_Via'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 3.7mm'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 3.7mm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microphon-F6027AP
 - Hex ID: FZEMPHONF627AP
 - Name: microphon : F6027AP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microphon/F6027AP/
 - Description: microphon : F6027AP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-F6027AP](http://oom.lt/FOOTPRINT-eagle-eagle-default-microphon-F6027AP)
 - Short Link: [http://oom.lt/FZEMPHONF627AP](http://oom.lt/FZEMPHONF627AP)

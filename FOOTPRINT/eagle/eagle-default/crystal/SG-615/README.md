@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-SG-615
 - Hex ID: FZEXSG615
 - Name: crystal : SG-615
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/SG-615/
 - Description: crystal : SG-615
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-SG-615](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-SG-615)
 - Short Link: [http://oom.lt/FZEXSG615](http://oom.lt/FZEXSG615)

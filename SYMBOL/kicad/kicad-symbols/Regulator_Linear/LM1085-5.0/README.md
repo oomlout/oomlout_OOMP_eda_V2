@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM1085-5.0
 - Hex ID: SZKREGULATORLINEARLM1855
 - Name: Regulator_Linear : LM1085-5.0
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LM1085-5.0/
 - Description: Regulator_Linear : LM1085-5.0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM1085-5.0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM1085-5.0)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM1855](http://oom.lt/SZKREGULATORLINEARLM1855)

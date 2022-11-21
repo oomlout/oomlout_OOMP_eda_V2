@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKTPTPTHTPAD3X3DRILL15 > TestPoint : TestPoint_THTPad_3.0x3.0mm_Drill1.5mm](#fzktptpthtpad3x3drill15--testpoint--testpoint_thtpad_30x30mm_drill15mm)
+* [FZKTPTPTHTP3X3DRILL15 > TestPoint : TestPoint_THTPad_3.0x3.0mm_Drill1.5mm](#fzktptpthtp3x3drill15--testpoint--testpoint_thtpad_30x30mm_drill15mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTPTPTHTPAD3X3DRILL15 > TestPoint : TestPoint_THTPad_3.0x3.0mm_Drill1.5mm
+# FZKTPTPTHTP3X3DRILL15 > TestPoint : TestPoint_THTPad_3.0x3.0mm_Drill1.5mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_3.0x3.0mm_Drill1.5mm
-- Hex ID: FZKTPTPTHTPAD3X3DRILL15
+- Hex ID: FZKTPTPTHTP3X3DRILL15
 - Name: TestPoint : TestPoint_THTPad_3.0x3.0mm_Drill1.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_THTPad_3.0x3.0mm_Drill1.5mm/
 - Description: TestPoint : TestPoint_THTPad_3.0x3.0mm_Drill1.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_3.0x3.0mm_Drill1.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_3.0x3.0mm_Drill1.5mm)
-- Short Link: [http://oom.lt/FZKTPTPTHTPAD3X3DRILL15](http://oom.lt/FZKTPTPTHTPAD3X3DRILL15)
+- Short Link: [http://oom.lt/FZKTPTPTHTP3X3DRILL15](http://oom.lt/FZKTPTPTHTP3X3DRILL15)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|TestPoint|
 |OOMP Index|oompIndex|TestPoint_THTPad_3.0x3.0mm_Drill1.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_3.0x3.0mm_Drill1.5mm|
-|Hex ID (short code)|hexID|FZKTPTPTHTPAD3X3DRILL15|
+|Hex ID (short code)|hexID|FZKTPTPTHTP3X3DRILL15|
 |name|name|TestPoint : TestPoint_THTPad_3.0x3.0mm_Drill1.5mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TestPoint_THTPad_3.0x3.0mm_Drill1.5mm'</td><td> 'description'</td></tr><tr><td> 'THT rectangular pad as test Point</td><td> square 3.0mm side length</td><td> hole diameter 1.5mm'</td><td> 'tags'</td></tr><tr><td> 'test point THT pad rectangle square'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ARTEMIS_REDBOARD_SILK
 - Hex ID: FZSBOARTEMISREDBOARDSILK
 - Name: SparkFun-Boards : ARTEMIS_REDBOARD_SILK
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/ARTEMIS_REDBOARD_SILK/
 - Description: SparkFun-Boards : ARTEMIS_REDBOARD_SILK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ARTEMIS_REDBOARD_SILK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ARTEMIS_REDBOARD_SILK)
 - Short Link: [http://oom.lt/FZSBOARTEMISREDBOARDSILK](http://oom.lt/FZSBOARTEMISREDBOARDSILK)

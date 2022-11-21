@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-APA-106-F5
 - Hex ID: SZKLAPA16F5
 - Name: LED : APA-106-F5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/APA-106-F5/
 - Description: LED : APA-106-F5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-APA-106-F5](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-APA-106-F5)
 - Short Link: [http://oom.lt/SZKLAPA16F5](http://oom.lt/SZKLAPA16F5)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-Z84C20
 - Hex ID: SZKINTERFACEZ84C2
 - Name: Interface : Z84C20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/Z84C20/
 - Description: Interface : Z84C20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-Z84C20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-Z84C20)
 - Short Link: [http://oom.lt/SZKINTERFACEZ84C2](http://oom.lt/SZKINTERFACEZ84C2)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-U.FL
 - Hex ID: FZAUFL
 - Name: adafruit : U.FL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/U.FL/
 - Description: adafruit : U.FL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-U.FL](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-U.FL)
 - Short Link: [http://oom.lt/FZAUFL](http://oom.lt/FZAUFL)

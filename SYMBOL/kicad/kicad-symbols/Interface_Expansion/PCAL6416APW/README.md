@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCAL6416APW
 - Hex ID: SZKINTERFACEEXPANSIONPCAL6416APW
 - Name: Interface_Expansion : PCAL6416APW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCAL6416APW/
 - Description: Interface_Expansion : PCAL6416APW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCAL6416APW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCAL6416APW)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCAL6416APW](http://oom.lt/SZKINTERFACEEXPANSIONPCAL6416APW)

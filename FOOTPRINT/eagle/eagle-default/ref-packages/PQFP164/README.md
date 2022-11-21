@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPQFP164 > ref-packages : PQFP164](#fzerefpackagespqfp164--ref-packages--pqfp164)
+* [FZEREFPSPQFP164 > ref-packages : PQFP164](#fzerefpspqfp164--ref-packages--pqfp164)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPQFP164 > ref-packages : PQFP164
+# FZEREFPSPQFP164 > ref-packages : PQFP164
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-PQFP164
-- Hex ID: FZEREFPACKAGESPQFP164
+- Hex ID: FZEREFPSPQFP164
 - Name: ref-packages : PQFP164
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/PQFP164/
 - Description: ref-packages : PQFP164
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PQFP164](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PQFP164)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPQFP164](http://oom.lt/FZEREFPACKAGESPQFP164)
+- Short Link: [http://oom.lt/FZEREFPSPQFP164](http://oom.lt/FZEREFPSPQFP164)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|PQFP164|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-PQFP164|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPQFP164|
+|Hex ID (short code)|hexID|FZEREFPSPQFP164|
 |name|name|ref-packages : PQFP164|
 ||||

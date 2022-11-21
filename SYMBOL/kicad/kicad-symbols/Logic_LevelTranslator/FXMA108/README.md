@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-FXMA108
 - Hex ID: SZKLOGICLEVELTRANSLATORFXMA18
 - Name: Logic_LevelTranslator : FXMA108
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/FXMA108/
 - Description: Logic_LevelTranslator : FXMA108
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-FXMA108](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-FXMA108)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORFXMA18](http://oom.lt/SZKLOGICLEVELTRANSLATORFXMA18)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-TO218S
 - Hex ID: FZEDIODETO218S
 - Name: diode : TO218S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/TO218S/
 - Description: diode : TO218S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO218S](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-TO218S)
 - Short Link: [http://oom.lt/FZEDIODETO218S](http://oom.lt/FZEDIODETO218S)

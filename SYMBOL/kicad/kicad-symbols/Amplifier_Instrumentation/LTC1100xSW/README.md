@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-LTC1100xSW
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONLTC11XSW
 - Name: Amplifier_Instrumentation : LTC1100xSW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/LTC1100xSW/
 - Description: Amplifier_Instrumentation : LTC1100xSW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-LTC1100xSW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-LTC1100xSW)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONLTC11XSW](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONLTC11XSW)

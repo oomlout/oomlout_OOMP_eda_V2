@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_ABGR
 - Hex ID: SZKDEVICELABGR
 - Name: Device : LED_ABGR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_ABGR/
 - Description: Device : LED_ABGR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_ABGR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_ABGR)
 - Short Link: [http://oom.lt/SZKDEVICELABGR](http://oom.lt/SZKDEVICELABGR)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-R2512W
 - Hex ID: FZESMIPCR2512W
 - Name: smd-ipc : R2512W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/R2512W/
 - Description: smd-ipc : R2512W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R2512W](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R2512W)
 - Short Link: [http://oom.lt/FZESMIPCR2512W](http://oom.lt/FZESMIPCR2512W)

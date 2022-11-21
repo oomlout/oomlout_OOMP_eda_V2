@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MRA4003T3G
 - Hex ID: SZKDIODEMRA43T3G
 - Name: Diode : MRA4003T3G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MRA4003T3G/
 - Description: Diode : MRA4003T3G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MRA4003T3G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MRA4003T3G)
 - Short Link: [http://oom.lt/SZKDIODEMRA43T3G](http://oom.lt/SZKDIODEMRA43T3G)

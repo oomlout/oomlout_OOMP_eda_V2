@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24090DGQ
 - Hex ID: SZKBATMANAGEMENTBQ249DGQ
 - Name: Battery_Management : BQ24090DGQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ24090DGQ/
 - Description: Battery_Management : BQ24090DGQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24090DGQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24090DGQ)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ249DGQ](http://oom.lt/SZKBATMANAGEMENTBQ249DGQ)

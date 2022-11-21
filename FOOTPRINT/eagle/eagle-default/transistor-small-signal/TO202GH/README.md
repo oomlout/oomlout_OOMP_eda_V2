@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO202GH
 - Hex ID: FZETRANSISTORSLLSIGNALTO22GH
 - Name: transistor-small-signal : TO202GH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/TO202GH/
 - Description: transistor-small-signal : TO202GH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO202GH](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO202GH)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALTO22GH](http://oom.lt/FZETRANSISTORSLLSIGNALTO22GH)

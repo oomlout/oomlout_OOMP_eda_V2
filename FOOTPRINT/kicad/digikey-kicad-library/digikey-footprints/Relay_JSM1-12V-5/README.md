@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELAYJSM112V5 > digikey-footprints : Relay_JSM1-12V-5](#fzkicaddigikeykicadlibrarydigikeyfootprintsrelayjsm112v5--digikey-footprints--relay_jsm1-12v-5)
+* [FZDIGIDIGIKEYFOOTPRINTSRELAYJSM112V5 > digikey-footprints : Relay_JSM1-12V-5](#fzdigidigikeyfootprintsrelayjsm112v5--digikey-footprints--relay_jsm1-12v-5)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELAYJSM112V5 > digikey-footprints : Relay_JSM1-12V-5
+# FZDIGIDIGIKEYFOOTPRINTSRELAYJSM112V5 > digikey-footprints : Relay_JSM1-12V-5
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_JSM1-12V-5
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELAYJSM112V5
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSRELAYJSM112V5
 - Name: digikey-footprints : Relay_JSM1-12V-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Relay_JSM1-12V-5/
 - Description: digikey-footprints : Relay_JSM1-12V-5
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_JSM1-12V-5](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_JSM1-12V-5)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELAYJSM112V5](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELAYJSM112V5)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRELAYJSM112V5](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSRELAYJSM112V5)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Relay_JSM1-12V-5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_JSM1-12V-5|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELAYJSM112V5|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSRELAYJSM112V5|
 |name|name|digikey-footprints : Relay_JSM1-12V-5|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_JSM1-12V-5'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

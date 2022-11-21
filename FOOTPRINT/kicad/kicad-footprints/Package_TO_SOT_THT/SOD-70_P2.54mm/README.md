@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SOD-70_P2.54mm
 - Hex ID: FZKSOTSOD7P254
 - Name: Package_TO_SOT_THT : SOD-70_P2.54mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/SOD-70_P2.54mm/
 - Description: Package_TO_SOT_THT : SOD-70_P2.54mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SOD-70_P2.54mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SOD-70_P2.54mm)
 - Short Link: [http://oom.lt/FZKSOTSOD7P254](http://oom.lt/FZKSOTSOD7P254)

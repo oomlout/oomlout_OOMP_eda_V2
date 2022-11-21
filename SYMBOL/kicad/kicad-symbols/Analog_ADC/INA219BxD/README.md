@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-INA219BxD
 - Hex ID: SZKANALOGADCINA219BXD
 - Name: Analog_ADC : INA219BxD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/INA219BxD/
 - Description: Analog_ADC : INA219BxD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-INA219BxD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-INA219BxD)
 - Short Link: [http://oom.lt/SZKANALOGADCINA219BXD](http://oom.lt/SZKANALOGADCINA219BXD)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOTSIPAKVERTICAL > Package_TO_SOT_THT : SIPAK_Vertical](#fzksotsipakvertical--package_to_sot_tht--sipak_vertical)
+* [FZKSOTSIPAKF > Package_TO_SOT_THT : SIPAK_Vertical](#fzksotsipakf--package_to_sot_tht--sipak_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTSIPAKVERTICAL > Package_TO_SOT_THT : SIPAK_Vertical
+# FZKSOTSIPAKF > Package_TO_SOT_THT : SIPAK_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SIPAK_Vertical
-- Hex ID: FZKSOTSIPAKVERTICAL
+- Hex ID: FZKSOTSIPAKF
 - Name: Package_TO_SOT_THT : SIPAK_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/SIPAK_Vertical/
 - Description: Package_TO_SOT_THT : SIPAK_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SIPAK_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SIPAK_Vertical)
-- Short Link: [http://oom.lt/FZKSOTSIPAKVERTICAL](http://oom.lt/FZKSOTSIPAKVERTICAL)
+- Short Link: [http://oom.lt/FZKSOTSIPAKF](http://oom.lt/FZKSOTSIPAKF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_THT|
 |OOMP Index|oompIndex|SIPAK_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SIPAK_Vertical|
-|Hex ID (short code)|hexID|FZKSOTSIPAKVERTICAL|
+|Hex ID (short code)|hexID|FZKSOTSIPAKF|
 |name|name|Package_TO_SOT_THT : SIPAK_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SIPAK_Vertical'</td><td> 'description'</td></tr><tr><td> 'SIPAK</td><td> Vertical</td><td> RM 2.286mm'</td><td> 'tags'</td></tr><tr><td> 'SIPAK Vertical RM 2.286mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/SIPAK_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG2010BER
 - Hex ID: SZKDIODEPMEG21BER
 - Name: Diode : PMEG2010BER
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG2010BER/
 - Description: Diode : PMEG2010BER
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG2010BER](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG2010BER)
 - Short Link: [http://oom.lt/SZKDIODEPMEG21BER](http://oom.lt/SZKDIODEPMEG21BER)

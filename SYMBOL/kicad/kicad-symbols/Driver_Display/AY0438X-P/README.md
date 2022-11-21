@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Display-AY0438X-P
 - Hex ID: SZKDRIVERDIAY438XP
 - Name: Driver_Display : AY0438X-P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Display/AY0438X-P/
 - Description: Driver_Display : AY0438X-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-AY0438X-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-AY0438X-P)
 - Short Link: [http://oom.lt/SZKDRIVERDIAY438XP](http://oom.lt/SZKDRIVERDIAY438XP)

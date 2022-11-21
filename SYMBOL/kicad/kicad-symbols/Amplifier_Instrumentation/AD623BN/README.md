@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623BN
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD623BN
 - Name: Amplifier_Instrumentation : AD623BN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD623BN/
 - Description: Amplifier_Instrumentation : AD623BN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623BN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623BN)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623BN](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623BN)

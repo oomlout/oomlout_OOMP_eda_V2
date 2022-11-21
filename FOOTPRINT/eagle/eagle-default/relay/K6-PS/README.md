@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-K6-PS
 - Hex ID: FZERELAYK6PS
 - Name: relay : K6-PS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/K6-PS/
 - Description: relay : K6-PS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-K6-PS](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-K6-PS)
 - Short Link: [http://oom.lt/FZERELAYK6PS](http://oom.lt/FZERELAYK6PS)

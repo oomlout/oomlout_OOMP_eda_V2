@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3808DBV
 - Hex ID: SZKPOWERSUPERVISORTPS388DBV
 - Name: Power_Supervisor : TPS3808DBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TPS3808DBV/
 - Description: Power_Supervisor : TPS3808DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3808DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3808DBV)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTPS388DBV](http://oom.lt/SZKPOWERSUPERVISORTPS388DBV)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-EX256-TQ100
 - Hex ID: SZKFPGAMSEMIEX256TQ1
 - Name: FPGA_Microsemi : EX256-TQ100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/EX256-TQ100/
 - Description: FPGA_Microsemi : EX256-TQ100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-EX256-TQ100](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-EX256-TQ100)
 - Short Link: [http://oom.lt/SZKFPGAMSEMIEX256TQ1](http://oom.lt/SZKFPGAMSEMIEX256TQ1)

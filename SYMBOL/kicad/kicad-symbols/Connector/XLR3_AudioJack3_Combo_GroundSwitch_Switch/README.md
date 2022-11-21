@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNXLR3AUDIOJ3COMBOGROUNDSWITCHSWITCH > Connector : XLR3_AudioJack3_Combo_GroundSwitch_Switch](#szkcnxlr3audioj3combogroundswitchswitch--connector--xlr3_audiojack3_combo_groundswitch_switch)
+* [SZKCNXLR3AUDIOJ3COMBOGROUNDSWSW > Connector : XLR3_AudioJack3_Combo_GroundSwitch_Switch](#szkcnxlr3audioj3combogroundswsw--connector--xlr3_audiojack3_combo_groundswitch_switch)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNXLR3AUDIOJ3COMBOGROUNDSWITCHSWITCH > Connector : XLR3_AudioJack3_Combo_GroundSwitch_Switch
+# SZKCNXLR3AUDIOJ3COMBOGROUNDSWSW > Connector : XLR3_AudioJack3_Combo_GroundSwitch_Switch
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack3_Combo_GroundSwitch_Switch
-- Hex ID: SZKCNXLR3AUDIOJ3COMBOGROUNDSWITCHSWITCH
+- Hex ID: SZKCNXLR3AUDIOJ3COMBOGROUNDSWSW
 - Name: Connector : XLR3_AudioJack3_Combo_GroundSwitch_Switch
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/XLR3_AudioJack3_Combo_GroundSwitch_Switch/
 - Description: Connector : XLR3_AudioJack3_Combo_GroundSwitch_Switch
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack3_Combo_GroundSwitch_Switch](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack3_Combo_GroundSwitch_Switch)
-- Short Link: [http://oom.lt/SZKCNXLR3AUDIOJ3COMBOGROUNDSWITCHSWITCH](http://oom.lt/SZKCNXLR3AUDIOJ3COMBOGROUNDSWITCHSWITCH)
+- Short Link: [http://oom.lt/SZKCNXLR3AUDIOJ3COMBOGROUNDSWSW](http://oom.lt/SZKCNXLR3AUDIOJ3COMBOGROUNDSWSW)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector|
 |OOMP Index|oompIndex|XLR3_AudioJack3_Combo_GroundSwitch_Switch|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack3_Combo_GroundSwitch_Switch|
-|Hex ID (short code)|hexID|SZKCNXLR3AUDIOJ3COMBOGROUNDSWITCHSWITCH|
+|Hex ID (short code)|hexID|SZKCNXLR3AUDIOJ3COMBOGROUNDSWSW|
 |name|name|Connector : XLR3_AudioJack3_Combo_GroundSwitch_Switch|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XLR3_AudioJack3_Combo_GroundSwitch_Switch'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'xlr connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XLR (Male or Female) and Audio Jack (Stereo / TRS</td><td> Switched Poles (Normalling)) Combo Connector</td><td> Discrete Switched Ground Pin'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Jack*XLR*6.35mm*'</td></tr></table>]|
 ||||

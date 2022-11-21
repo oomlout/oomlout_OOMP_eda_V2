@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector-DTF13-12Px
 - Hex ID: FZKCNDTF1312PX
 - Name: Connector : DTF13-12Px
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/DTF13-12Px/
 - Description: Connector : DTF13-12Px
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-DTF13-12Px](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector-DTF13-12Px)
 - Short Link: [http://oom.lt/FZKCNDTF1312PX](http://oom.lt/FZKCNDTF1312PX)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Zener
 - Hex ID: SZKDEVICEDZENER
 - Name: Device : D_Zener
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Zener/
 - Description: Device : D_Zener
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener)
 - Short Link: [http://oom.lt/SZKDEVICEDZENER](http://oom.lt/SZKDEVICEDZENER)

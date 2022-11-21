@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RT-C_O12A5
 - Hex ID: FZERELAYRTCO12A5
 - Name: relay : RT-C_O12A5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RT-C_O12A5/
 - Description: relay : RT-C_O12A5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RT-C_O12A5](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RT-C_O12A5)
 - Short Link: [http://oom.lt/FZERELAYRTCO12A5](http://oom.lt/FZERELAYRTCO12A5)

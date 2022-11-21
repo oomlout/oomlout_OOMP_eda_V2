@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-plxtech-PBGA256
 - Hex ID: FZEPLXTECHPBGA256
 - Name: plxtech : PBGA256
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/plxtech/PBGA256/
 - Description: plxtech : PBGA256
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-plxtech-PBGA256](http://oom.lt/FOOTPRINT-eagle-eagle-default-plxtech-PBGA256)
 - Short Link: [http://oom.lt/FZEPLXTECHPBGA256](http://oom.lt/FZEPLXTECHPBGA256)

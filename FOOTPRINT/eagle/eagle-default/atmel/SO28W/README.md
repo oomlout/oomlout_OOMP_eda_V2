@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-SO28W
 - Hex ID: FZEATMELSO28W
 - Name: atmel : SO28W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/SO28W/
 - Description: atmel : SO28W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SO28W](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-SO28W)
 - Short Link: [http://oom.lt/FZEATMELSO28W](http://oom.lt/FZEATMELSO28W)

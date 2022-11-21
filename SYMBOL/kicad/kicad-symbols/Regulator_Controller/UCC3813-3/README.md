@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3813-3
 - Hex ID: SZKREGULATORCONTROLLERUCC38133
 - Name: Regulator_Controller : UCC3813-3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC3813-3/
 - Description: Regulator_Controller : UCC3813-3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3813-3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3813-3)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC38133](http://oom.lt/SZKREGULATORCONTROLLERUCC38133)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-T5403
 - Hex ID: FZSSPARKFUNSENST543
 - Name: SparkFun-Sensors : T5403
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/T5403/
 - Description: SparkFun-Sensors : T5403
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-T5403](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-T5403)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENST543](http://oom.lt/FZSSPARKFUNSENST543)

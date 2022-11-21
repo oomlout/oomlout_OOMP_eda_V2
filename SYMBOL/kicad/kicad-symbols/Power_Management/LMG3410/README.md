@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LMG3410
 - Hex ID: SZKPOWERMANAGEMENTLMG341
 - Name: Power_Management : LMG3410
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LMG3410/
 - Description: Power_Management : LMG3410
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LMG3410](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LMG3410)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLMG341](http://oom.lt/SZKPOWERMANAGEMENTLMG341)

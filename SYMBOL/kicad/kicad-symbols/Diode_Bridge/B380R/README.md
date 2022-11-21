@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-B380R
 - Hex ID: SZKDIODEBRIDGEB38R
 - Name: Diode_Bridge : B380R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/B380R/
 - Description: Diode_Bridge : B380R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B380R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B380R)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEB38R](http://oom.lt/SZKDIODEBRIDGEB38R)

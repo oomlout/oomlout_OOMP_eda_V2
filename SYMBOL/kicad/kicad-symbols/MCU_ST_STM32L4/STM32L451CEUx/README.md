@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L451CEUx
 - Hex ID: SZKMCUSTSTM32L4STM32L451CEUX
 - Name: MCU_ST_STM32L4 : STM32L451CEUx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L451CEUx/
 - Description: MCU_ST_STM32L4 : STM32L451CEUx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L451CEUx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L451CEUx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L451CEUX](http://oom.lt/SZKMCUSTSTM32L4STM32L451CEUX)

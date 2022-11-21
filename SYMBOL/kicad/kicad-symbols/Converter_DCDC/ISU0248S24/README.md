@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ISU0248S24
 - Hex ID: SZKCONISU248S24
 - Name: Converter_DCDC : ISU0248S24
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ISU0248S24/
 - Description: Converter_DCDC : ISU0248S24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ISU0248S24](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ISU0248S24)
 - Short Link: [http://oom.lt/SZKCONISU248S24](http://oom.lt/SZKCONISU248S24)

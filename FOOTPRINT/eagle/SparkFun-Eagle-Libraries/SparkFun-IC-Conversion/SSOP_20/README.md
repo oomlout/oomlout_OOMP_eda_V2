@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-SSOP_20
 - Hex ID: FZSIVSS2
 - Name: SparkFun-IC-Conversion : SSOP_20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Conversion/SSOP_20/
 - Description: SparkFun-IC-Conversion : SSOP_20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-SSOP_20](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-SSOP_20)
 - Short Link: [http://oom.lt/FZSIVSS2](http://oom.lt/FZSIVSS2)

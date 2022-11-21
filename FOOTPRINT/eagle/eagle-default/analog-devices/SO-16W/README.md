@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-SO-16W
 - Hex ID: FZEANALOGDEVICESSO16W
 - Name: analog-devices : SO-16W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/SO-16W/
 - Description: analog-devices : SO-16W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO-16W](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO-16W)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESSO16W](http://oom.lt/FZEANALOGDEVICESSO16W)

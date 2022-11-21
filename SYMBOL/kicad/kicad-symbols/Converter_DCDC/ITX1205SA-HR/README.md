@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1205SA-HR
 - Hex ID: SZKCONITX125SAHR
 - Name: Converter_DCDC : ITX1205SA-HR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1205SA-HR/
 - Description: Converter_DCDC : ITX1205SA-HR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1205SA-HR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1205SA-HR)
 - Short Link: [http://oom.lt/SZKCONITX125SAHR](http://oom.lt/SZKCONITX125SAHR)

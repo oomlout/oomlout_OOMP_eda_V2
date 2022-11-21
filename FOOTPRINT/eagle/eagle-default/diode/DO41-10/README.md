@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO41-10
 - Hex ID: FZEDIODEDO411
 - Name: diode : DO41-10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/DO41-10/
 - Description: diode : DO41-10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO41-10](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-DO41-10)
 - Short Link: [http://oom.lt/FZEDIODEDO411](http://oom.lt/FZEDIODEDO411)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_7.5x8mm_Copper
 - Hex ID: FZKSZOSHWL75X8C
 - Name: Symbol : OSHW-Logo_7.5x8mm_Copper
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_7.5x8mm_Copper/
 - Description: Symbol : OSHW-Logo_7.5x8mm_Copper
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_7.5x8mm_Copper](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_7.5x8mm_Copper)
 - Short Link: [http://oom.lt/FZKSZOSHWL75X8C](http://oom.lt/FZKSZOSHWL75X8C)

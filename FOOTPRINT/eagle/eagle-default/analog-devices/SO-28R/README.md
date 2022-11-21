@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-SO-28R
 - Hex ID: FZEANALOGDEVICESSO28R
 - Name: analog-devices : SO-28R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/SO-28R/
 - Description: analog-devices : SO-28R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO-28R](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-SO-28R)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESSO28R](http://oom.lt/FZEANALOGDEVICESSO28R)

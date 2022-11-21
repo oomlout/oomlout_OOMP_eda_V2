@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BL-M12A881UR
 - Hex ID: FZASBLM12A881UR
 - Name: adafruit : SEGMENT_BL-M12A881UR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SEGMENT_BL-M12A881UR/
 - Description: adafruit : SEGMENT_BL-M12A881UR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BL-M12A881UR](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BL-M12A881UR)
 - Short Link: [http://oom.lt/FZASBLM12A881UR](http://oom.lt/FZASBLM12A881UR)

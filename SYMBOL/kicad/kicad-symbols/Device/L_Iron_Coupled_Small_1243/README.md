@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-L_Iron_Coupled_Small_1243
 - Hex ID: SZKDEVICELIRONCOUPLSLL1243
 - Name: Device : L_Iron_Coupled_Small_1243
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/L_Iron_Coupled_Small_1243/
 - Description: Device : L_Iron_Coupled_Small_1243
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Iron_Coupled_Small_1243](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Iron_Coupled_Small_1243)
 - Short Link: [http://oom.lt/SZKDEVICELIRONCOUPLSLL1243](http://oom.lt/SZKDEVICELIRONCOUPLSLL1243)

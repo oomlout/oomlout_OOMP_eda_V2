@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-F50380
 - Hex ID: FZELF538
 - Name: led : F50380
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/F50380/
 - Description: led : F50380
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-F50380](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-F50380)
 - Short Link: [http://oom.lt/FZELF538](http://oom.lt/FZELF538)

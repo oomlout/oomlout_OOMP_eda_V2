@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-DIGI-B
 - Hex ID: FZESPECIALDIGIB
 - Name: special : DIGI-B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/DIGI-B/
 - Description: special : DIGI-B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DIGI-B](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-DIGI-B)
 - Short Link: [http://oom.lt/FZESPECIALDIGIB](http://oom.lt/FZESPECIALDIGIB)

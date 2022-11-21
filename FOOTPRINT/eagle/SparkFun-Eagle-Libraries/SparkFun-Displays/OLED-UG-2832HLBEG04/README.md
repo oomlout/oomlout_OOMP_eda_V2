@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OLED-UG-2832HLBEG04
 - Hex ID: FZSSPARKFUNDISOLUG2832HLBEG4
 - Name: SparkFun-Displays : OLED-UG-2832HLBEG04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/OLED-UG-2832HLBEG04/
 - Description: SparkFun-Displays : OLED-UG-2832HLBEG04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OLED-UG-2832HLBEG04](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OLED-UG-2832HLBEG04)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISOLUG2832HLBEG4](http://oom.lt/FZSSPARKFUNDISOLUG2832HLBEG4)

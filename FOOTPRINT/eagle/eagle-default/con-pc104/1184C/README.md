@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc104-1184C
 - Hex ID: FZECONPC141184C
 - Name: con-pc104 : 1184C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc104/1184C/
 - Description: con-pc104 : 1184C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc104-1184C](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc104-1184C)
 - Short Link: [http://oom.lt/FZECONPC141184C](http://oom.lt/FZECONPC141184C)

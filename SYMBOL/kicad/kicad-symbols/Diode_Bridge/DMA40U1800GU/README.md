@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-DMA40U1800GU
 - Hex ID: SZKDIODEBRIDGEDMA4U18GU
 - Name: Diode_Bridge : DMA40U1800GU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DMA40U1800GU/
 - Description: Diode_Bridge : DMA40U1800GU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DMA40U1800GU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DMA40U1800GU)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEDMA4U18GU](http://oom.lt/SZKDIODEBRIDGEDMA4U18GU)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BA243
 - Hex ID: SZKDIODEBA243
 - Name: Diode : BA243
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BA243/
 - Description: Diode : BA243
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA243](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA243)
 - Short Link: [http://oom.lt/SZKDIODEBA243](http://oom.lt/SZKDIODEBA243)

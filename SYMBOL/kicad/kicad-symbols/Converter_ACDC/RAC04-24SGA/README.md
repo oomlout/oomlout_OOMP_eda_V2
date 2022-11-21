@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-24SGA
 - Hex ID: SZKCONRAC424SGA
 - Name: Converter_ACDC : RAC04-24SGA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC04-24SGA/
 - Description: Converter_ACDC : RAC04-24SGA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-24SGA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-24SGA)
 - Short Link: [http://oom.lt/SZKCONRAC424SGA](http://oom.lt/SZKCONRAC424SGA)

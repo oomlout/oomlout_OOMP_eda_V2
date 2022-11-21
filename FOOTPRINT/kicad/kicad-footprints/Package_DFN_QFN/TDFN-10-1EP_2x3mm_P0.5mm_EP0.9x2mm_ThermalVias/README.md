@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNTDFN11EP2X3P5EP9X2THERMALVIAS > Package_DFN_QFN : TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias](#fzkdfntdfn11ep2x3p5ep9x2thermalvias--package_dfn_qfn--tdfn-10-1ep_2x3mm_p05mm_ep09x2mm_thermalvias)
+* [FZKDFNTDFN11EP2X3P5EP9X2THV > Package_DFN_QFN : TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias](#fzkdfntdfn11ep2x3p5ep9x2thv--package_dfn_qfn--tdfn-10-1ep_2x3mm_p05mm_ep09x2mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNTDFN11EP2X3P5EP9X2THERMALVIAS > Package_DFN_QFN : TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias
+# FZKDFNTDFN11EP2X3P5EP9X2THV > Package_DFN_QFN : TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias
-- Hex ID: FZKDFNTDFN11EP2X3P5EP9X2THERMALVIAS
+- Hex ID: FZKDFNTDFN11EP2X3P5EP9X2THV
 - Name: Package_DFN_QFN : TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias/
 - Description: Package_DFN_QFN : TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNTDFN11EP2X3P5EP9X2THERMALVIAS](http://oom.lt/FZKDFNTDFN11EP2X3P5EP9X2THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNTDFN11EP2X3P5EP9X2THV](http://oom.lt/FZKDFNTDFN11EP2X3P5EP9X2THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNTDFN11EP2X3P5EP9X2THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNTDFN11EP2X3P5EP9X2THV|
 |name|name|Package_DFN_QFN : TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'TDFN</td><td> 10 Pin (https</td></tr><tr><td>//pdfserv.maximintegrated.com/package_dwgs/21-0429.PDF)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'TDFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBBBASE > oobbOutlines : OOBB-BASE](#fzkicadoomloutoompkicadoobboutlinesoobbbase--oobboutlines--oobb-base)
+* [FZOOMPKOOBBOOBBBASE > oobbOutlines : OOBB-BASE](#fzoompkoobboobbbase--oobboutlines--oobb-base)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBBBASE > oobbOutlines : OOBB-BASE
+# FZOOMPKOOBBOOBBBASE > oobbOutlines : OOBB-BASE
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-BASE
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBBBASE
+- Hex ID: FZOOMPKOOBBOOBBBASE
 - Name: oobbOutlines : OOBB-BASE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oobbOutlines/OOBB-BASE/
 - Description: oobbOutlines : OOBB-BASE
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-BASE](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-BASE)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBBBASE](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBBBASE)
+- Short Link: [http://oom.lt/FZOOMPKOOBBOOBBBASE](http://oom.lt/FZOOMPKOOBBOOBBBASE)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oobbOutlines|
 |OOMP Index|oompIndex|OOBB-BASE|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-BASE|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBBBASE|
+|Hex ID (short code)|hexID|FZOOMPKOOBBOOBBBASE|
 |name|name|oobbOutlines : OOBB-BASE|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'OOBB-BASE'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

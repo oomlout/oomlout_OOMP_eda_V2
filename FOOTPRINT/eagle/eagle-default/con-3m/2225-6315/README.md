@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-3m-2225-6315
 - Hex ID: FZECON3M22256315
 - Name: con-3m : 2225-6315
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-3m/2225-6315/
 - Description: con-3m : 2225-6315
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-2225-6315](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-2225-6315)
 - Short Link: [http://oom.lt/FZECON3M22256315](http://oom.lt/FZECON3M22256315)

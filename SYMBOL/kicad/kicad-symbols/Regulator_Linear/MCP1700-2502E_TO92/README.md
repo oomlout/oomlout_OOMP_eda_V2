@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1700-2502E_TO92
 - Hex ID: SZKREGULATORLINEARMCP17252ETO92
 - Name: Regulator_Linear : MCP1700-2502E_TO92
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1700-2502E_TO92/
 - Description: Regulator_Linear : MCP1700-2502E_TO92
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1700-2502E_TO92](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1700-2502E_TO92)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP17252ETO92](http://oom.lt/SZKREGULATORLINEARMCP17252ETO92)

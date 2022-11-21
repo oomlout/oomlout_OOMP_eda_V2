@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DIN5-RA-PTH
 - Hex ID: FZSSPARKFUNCNSDIN5RAP
 - Name: SparkFun-Connectors : DIN5-RA-PTH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/DIN5-RA-PTH/
 - Description: SparkFun-Connectors : DIN5-RA-PTH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DIN5-RA-PTH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DIN5-RA-PTH)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSDIN5RAP](http://oom.lt/FZSSPARKFUNCNSDIN5RAP)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-allegro-SO-16DW
 - Hex ID: FZEALLEGROSO16DW
 - Name: allegro : SO-16DW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SO-16DW/
 - Description: allegro : SO-16DW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SO-16DW](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SO-16DW)
 - Short Link: [http://oom.lt/FZEALLEGROSO16DW](http://oom.lt/FZEALLEGROSO16DW)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SYKWA
 - Hex ID: SZKDICHARACTERDA411SYKWA
 - Name: Display_Character : DA04-11SYKWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/DA04-11SYKWA/
 - Description: Display_Character : DA04-11SYKWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SYKWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SYKWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDA411SYKWA](http://oom.lt/SZKDICHARACTERDA411SYKWA)

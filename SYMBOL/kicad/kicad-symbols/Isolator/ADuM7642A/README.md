@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM7642A
 - Hex ID: SZKISOLATORADUM7642A
 - Name: Isolator : ADuM7642A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ADuM7642A/
 - Description: Isolator : ADuM7642A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM7642A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM7642A)
 - Short Link: [http://oom.lt/SZKISOLATORADUM7642A](http://oom.lt/SZKISOLATORADUM7642A)

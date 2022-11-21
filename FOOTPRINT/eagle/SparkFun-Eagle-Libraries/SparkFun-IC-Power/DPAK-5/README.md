@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-DPAK-5
 - Hex ID: FZSIPDPAK5
 - Name: SparkFun-IC-Power : DPAK-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/DPAK-5/
 - Description: SparkFun-IC-Power : DPAK-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-DPAK-5](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-DPAK-5)
 - Short Link: [http://oom.lt/FZSIPDPAK5](http://oom.lt/FZSIPDPAK5)

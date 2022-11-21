@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-SK6812
 - Hex ID: SZKLSK6812
 - Name: LED : SK6812
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SK6812/
 - Description: LED : SK6812
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SK6812](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SK6812)
 - Short Link: [http://oom.lt/SZKLSK6812](http://oom.lt/SZKLSK6812)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-TFT660
 - Hex ID: SZKOCSTFT66
 - Name: Oscillator : TFT660
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/TFT660/
 - Description: Oscillator : TFT660
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-TFT660](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-TFT660)
 - Short Link: [http://oom.lt/SZKOCSTFT66](http://oom.lt/SZKOCSTFT66)

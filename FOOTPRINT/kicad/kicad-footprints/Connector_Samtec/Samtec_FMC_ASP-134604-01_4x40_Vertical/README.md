@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNSAMTECSAMTECFMCASP1346414X4VERTICAL > Connector_Samtec : Samtec_FMC_ASP-134604-01_4x40_Vertical](#fzkcnsamtecsamtecfmcasp1346414x4vertical--connector_samtec--samtec_fmc_asp-134604-01_4x40_vertical)
+* [FZKCNSAMTECSAMTECFMCASP1346414X4F > Connector_Samtec : Samtec_FMC_ASP-134604-01_4x40_Vertical](#fzkcnsamtecsamtecfmcasp1346414x4f--connector_samtec--samtec_fmc_asp-134604-01_4x40_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNSAMTECSAMTECFMCASP1346414X4VERTICAL > Connector_Samtec : Samtec_FMC_ASP-134604-01_4x40_Vertical
+# FZKCNSAMTECSAMTECFMCASP1346414X4F > Connector_Samtec : Samtec_FMC_ASP-134604-01_4x40_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_FMC_ASP-134604-01_4x40_Vertical
-- Hex ID: FZKCNSAMTECSAMTECFMCASP1346414X4VERTICAL
+- Hex ID: FZKCNSAMTECSAMTECFMCASP1346414X4F
 - Name: Connector_Samtec : Samtec_FMC_ASP-134604-01_4x40_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_FMC_ASP-134604-01_4x40_Vertical/
 - Description: Connector_Samtec : Samtec_FMC_ASP-134604-01_4x40_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_FMC_ASP-134604-01_4x40_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_FMC_ASP-134604-01_4x40_Vertical)
-- Short Link: [http://oom.lt/FZKCNSAMTECSAMTECFMCASP1346414X4VERTICAL](http://oom.lt/FZKCNSAMTECSAMTECFMCASP1346414X4VERTICAL)
+- Short Link: [http://oom.lt/FZKCNSAMTECSAMTECFMCASP1346414X4F](http://oom.lt/FZKCNSAMTECSAMTECFMCASP1346414X4F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Samtec|
 |OOMP Index|oompIndex|Samtec_FMC_ASP-134604-01_4x40_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_FMC_ASP-134604-01_4x40_Vertical|
-|Hex ID (short code)|hexID|FZKCNSAMTECSAMTECFMCASP1346414X4VERTICAL|
+|Hex ID (short code)|hexID|FZKCNSAMTECSAMTECFMCASP1346414X4F|
 |name|name|Connector_Samtec : Samtec_FMC_ASP-134604-01_4x40_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Samtec_FMC_ASP-134604-01_4x40_Vertical'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//suddendocs.samtec.com/prints/asp-134604-01-mkt.pdf'</td><td> 'tags'</td></tr><tr><td> 'FMC LPC VITA '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Samtec.3dshapes/Samtec_FMC_ASP-134604-01_4x40_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

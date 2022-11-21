@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F207IEHx
 - Hex ID: SZKMCUSTSTM32F2STM32F27IEHX
 - Name: MCU_ST_STM32F2 : STM32F207IEHx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F207IEHx/
 - Description: MCU_ST_STM32F2 : STM32F207IEHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F207IEHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F207IEHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F2STM32F27IEHX](http://oom.lt/SZKMCUSTSTM32F2STM32F27IEHX)

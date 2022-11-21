@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm
 - Hex ID: FZKDFNVDFN81EP2X2P5EP9X17
 - Name: Package_DFN_QFN : VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm/
 - Description: Package_DFN_QFN : VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm)
 - Short Link: [http://oom.lt/FZKDFNVDFN81EP2X2P5EP9X17](http://oom.lt/FZKDFNVDFN81EP2X2P5EP9X17)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-GAS_SENSOR
 - Hex ID: FZSSPARKFUNSENSGASSEN
 - Name: SparkFun-Sensors : GAS_SENSOR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/GAS_SENSOR/
 - Description: SparkFun-Sensors : GAS_SENSOR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-GAS_SENSOR](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-GAS_SENSOR)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSGASSEN](http://oom.lt/FZSSPARKFUNSENSGASSEN)

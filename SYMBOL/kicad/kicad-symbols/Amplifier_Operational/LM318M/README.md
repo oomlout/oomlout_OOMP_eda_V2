@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM318M
 - Hex ID: SZKAMPLIFIEROPERATIONALLM318M
 - Name: Amplifier_Operational : LM318M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM318M/
 - Description: Amplifier_Operational : LM318M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM318M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM318M)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM318M](http://oom.lt/SZKAMPLIFIEROPERATIONALLM318M)

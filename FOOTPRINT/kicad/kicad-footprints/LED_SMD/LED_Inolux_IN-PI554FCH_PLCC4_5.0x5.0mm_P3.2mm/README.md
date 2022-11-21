@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKLSMLINOLUXINPI554FCHPLCC45X5P32 > LED_SMD : LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm](#fzklsmlinoluxinpi554fchplcc45x5p32--led_smd--led_inolux_in-pi554fch_plcc4_50x50mm_p32mm)
+* [FZKLLINOLUXINPI554FCHPLCC45X5P32 > LED_SMD : LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm](#fzkllinoluxinpi554fchplcc45x5p32--led_smd--led_inolux_in-pi554fch_plcc4_50x50mm_p32mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLINOLUXINPI554FCHPLCC45X5P32 > LED_SMD : LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm
+# FZKLLINOLUXINPI554FCHPLCC45X5P32 > LED_SMD : LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm
-- Hex ID: FZKLSMLINOLUXINPI554FCHPLCC45X5P32
+- Hex ID: FZKLLINOLUXINPI554FCHPLCC45X5P32
 - Name: LED_SMD : LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm/
 - Description: LED_SMD : LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm)
-- Short Link: [http://oom.lt/FZKLSMLINOLUXINPI554FCHPLCC45X5P32](http://oom.lt/FZKLSMLINOLUXINPI554FCHPLCC45X5P32)
+- Short Link: [http://oom.lt/FZKLLINOLUXINPI554FCHPLCC45X5P32](http://oom.lt/FZKLLINOLUXINPI554FCHPLCC45X5P32)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm|
-|Hex ID (short code)|hexID|FZKLSMLINOLUXINPI554FCHPLCC45X5P32|
+|Hex ID (short code)|hexID|FZKLLINOLUXINPI554FCHPLCC45X5P32|
 |name|name|LED_SMD : LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf'</td><td> 'tags'</td></tr><tr><td> 'RGB LED NeoPixel addressable'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

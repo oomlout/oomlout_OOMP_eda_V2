@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-AYF331335
 - Hex ID: FZSSPARKFUNDISAYF331335
 - Name: SparkFun-Displays : AYF331335
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/AYF331335/
 - Description: SparkFun-Displays : AYF331335
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-AYF331335](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-AYF331335)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISAYF331335](http://oom.lt/FZSSPARKFUNDISAYF331335)

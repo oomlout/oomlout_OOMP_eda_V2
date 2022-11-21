@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TPS22810DRV
 - Hex ID: SZKPOWERMANAGEMENTTPS2281DRV
 - Name: Power_Management : TPS22810DRV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/TPS22810DRV/
 - Description: Power_Management : TPS22810DRV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS22810DRV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS22810DRV)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTPS2281DRV](http://oom.lt/SZKPOWERMANAGEMENTTPS2281DRV)

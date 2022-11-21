@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847RTE
 - Hex ID: SZKDRIVERMOTORDRV8847RTE
 - Name: Driver_Motor : DRV8847RTE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8847RTE/
 - Description: Driver_Motor : DRV8847RTE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847RTE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847RTE)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV8847RTE](http://oom.lt/SZKDRIVERMOTORDRV8847RTE)

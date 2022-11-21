@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C5D50065D
 - Hex ID: SZKDIODEC5D565D
 - Name: Diode : C5D50065D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C5D50065D/
 - Description: Diode : C5D50065D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C5D50065D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C5D50065D)
 - Short Link: [http://oom.lt/SZKDIODEC5D565D](http://oom.lt/SZKDIODEC5D565D)

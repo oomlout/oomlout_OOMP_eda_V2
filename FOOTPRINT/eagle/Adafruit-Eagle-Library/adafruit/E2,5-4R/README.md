@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E2,5-4R
 - Hex ID: FZAE254R
 - Name: adafruit : E2,5-4R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E2,5-4R/
 - Description: adafruit : E2,5-4R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E2,5-4R](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E2,5-4R)
 - Short Link: [http://oom.lt/FZAE254R](http://oom.lt/FZAE254R)

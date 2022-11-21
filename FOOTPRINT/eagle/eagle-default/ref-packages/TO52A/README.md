@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESTO52A > ref-packages : TO52A](#fzerefpackagesto52a--ref-packages--to52a)
+* [FZEREFPSTO52A > ref-packages : TO52A](#fzerefpsto52a--ref-packages--to52a)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESTO52A > ref-packages : TO52A
+# FZEREFPSTO52A > ref-packages : TO52A
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO52A
-- Hex ID: FZEREFPACKAGESTO52A
+- Hex ID: FZEREFPSTO52A
 - Name: ref-packages : TO52A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/TO52A/
 - Description: ref-packages : TO52A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO52A](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-TO52A)
-- Short Link: [http://oom.lt/FZEREFPACKAGESTO52A](http://oom.lt/FZEREFPACKAGESTO52A)
+- Short Link: [http://oom.lt/FZEREFPSTO52A](http://oom.lt/FZEREFPSTO52A)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|TO52A|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-TO52A|
-|Hex ID (short code)|hexID|FZEREFPACKAGESTO52A|
+|Hex ID (short code)|hexID|FZEREFPSTO52A|
 |name|name|ref-packages : TO52A|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-WSC6927
 - Hex ID: FZERCLWSC6927
 - Name: rcl : WSC6927
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/WSC6927/
 - Description: rcl : WSC6927
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-WSC6927](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-WSC6927)
 - Short Link: [http://oom.lt/FZERCLWSC6927](http://oom.lt/FZERCLWSC6927)

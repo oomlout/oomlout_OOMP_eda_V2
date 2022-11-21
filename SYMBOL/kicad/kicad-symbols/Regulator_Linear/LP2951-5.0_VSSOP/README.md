@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2951-5.0_VSSOP
 - Hex ID: SZKREGULATORLINEARLP29515VSS
 - Name: Regulator_Linear : LP2951-5.0_VSSOP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2951-5.0_VSSOP/
 - Description: Regulator_Linear : LP2951-5.0_VSSOP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2951-5.0_VSSOP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2951-5.0_VSSOP)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP29515VSS](http://oom.lt/SZKREGULATORLINEARLP29515VSS)

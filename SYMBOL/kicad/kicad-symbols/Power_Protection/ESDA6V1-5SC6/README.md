@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-ESDA6V1-5SC6
 - Hex ID: SZKPOWERPROTECTIONESDA6V15SC6
 - Name: Power_Protection : ESDA6V1-5SC6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/ESDA6V1-5SC6/
 - Description: Power_Protection : ESDA6V1-5SC6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ESDA6V1-5SC6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ESDA6V1-5SC6)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONESDA6V15SC6](http://oom.lt/SZKPOWERPROTECTIONESDA6V15SC6)

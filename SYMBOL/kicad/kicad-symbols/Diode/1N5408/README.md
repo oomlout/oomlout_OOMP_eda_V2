@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N5408
 - Hex ID: SZKDIODE1N548
 - Name: Diode : 1N5408
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N5408/
 - Description: Diode : 1N5408
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5408](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5408)
 - Short Link: [http://oom.lt/SZKDIODE1N548](http://oom.lt/SZKDIODE1N548)

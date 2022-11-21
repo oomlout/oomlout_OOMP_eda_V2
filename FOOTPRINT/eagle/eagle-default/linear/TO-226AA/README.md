@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-TO-226AA
 - Hex ID: FZELINEARTO226AA
 - Name: linear : TO-226AA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/TO-226AA/
 - Description: linear : TO-226AA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO-226AA](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO-226AA)
 - Short Link: [http://oom.lt/FZELINEARTO226AA](http://oom.lt/FZELINEARTO226AA)

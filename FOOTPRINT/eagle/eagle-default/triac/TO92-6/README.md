@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-triac-TO92-6
 - Hex ID: FZETRIACTO926
 - Name: triac : TO92-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/triac/TO92-6/
 - Description: triac : TO92-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TO92-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TO92-6)
 - Short Link: [http://oom.lt/FZETRIACTO926](http://oom.lt/FZETRIACTO926)

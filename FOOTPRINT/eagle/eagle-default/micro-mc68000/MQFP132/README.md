@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-mc68000-MQFP132
 - Hex ID: FZEMMC68MQFP132
 - Name: micro-mc68000 : MQFP132
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-mc68000/MQFP132/
 - Description: micro-mc68000 : MQFP132
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-mc68000-MQFP132](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-mc68000-MQFP132)
 - Short Link: [http://oom.lt/FZEMMC68MQFP132](http://oom.lt/FZEMMC68MQFP132)

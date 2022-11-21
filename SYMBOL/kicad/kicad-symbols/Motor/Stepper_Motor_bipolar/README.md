@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Stepper_Motor_bipolar
 - Hex ID: SZKMOTORSTEPPERMOTORBIPOLAR
 - Name: Motor : Stepper_Motor_bipolar
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Stepper_Motor_bipolar/
 - Description: Motor : Stepper_Motor_bipolar
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Stepper_Motor_bipolar](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Stepper_Motor_bipolar)
 - Short Link: [http://oom.lt/SZKMOTORSTEPPERMOTORBIPOLAR](http://oom.lt/SZKMOTORSTEPPERMOTORBIPOLAR)

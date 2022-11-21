@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-IW221
 - Hex ID: FZETRANSISTORPOWERIW221
 - Name: transistor-power : IW221
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/IW221/
 - Description: transistor-power : IW221
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-IW221](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-IW221)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERIW221](http://oom.lt/FZETRANSISTORPOWERIW221)

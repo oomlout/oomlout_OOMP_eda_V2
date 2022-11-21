@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-fifo-DIL18
 - Hex ID: FZEFIFODIL18
 - Name: fifo : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/fifo/DIL18/
 - Description: fifo : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fifo-DIL18](http://oom.lt/FOOTPRINT-eagle-eagle-default-fifo-DIL18)
 - Short Link: [http://oom.lt/FZEFIFODIL18](http://oom.lt/FZEFIFODIL18)

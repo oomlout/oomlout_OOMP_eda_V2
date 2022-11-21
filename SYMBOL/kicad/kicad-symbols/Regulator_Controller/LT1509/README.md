@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-LT1509
 - Hex ID: SZKREGULATORCONTROLLERLT159
 - Name: Regulator_Controller : LT1509
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/LT1509/
 - Description: Regulator_Controller : LT1509
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LT1509](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LT1509)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERLT159](http://oom.lt/SZKREGULATORCONTROLLERLT159)

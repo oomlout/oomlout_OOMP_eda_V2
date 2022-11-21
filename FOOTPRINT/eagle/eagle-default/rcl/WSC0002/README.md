@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-WSC0002
 - Hex ID: FZERCLWSC2
 - Name: rcl : WSC0002
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/WSC0002/
 - Description: rcl : WSC0002
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-WSC0002](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-WSC0002)
 - Short Link: [http://oom.lt/FZERCLWSC2](http://oom.lt/FZERCLWSC2)

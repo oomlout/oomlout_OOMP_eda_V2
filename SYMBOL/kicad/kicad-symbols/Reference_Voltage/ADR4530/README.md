@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR4530
 - Hex ID: SZKREFERENCEVOLTAGEADR453
 - Name: Reference_Voltage : ADR4530
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/ADR4530/
 - Description: Reference_Voltage : ADR4530
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR4530](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR4530)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEADR453](http://oom.lt/SZKREFERENCEVOLTAGEADR453)

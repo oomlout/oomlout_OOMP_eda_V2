@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKTPTPTHTPADD15DRILL7 > TestPoint : TestPoint_THTPad_D1.5mm_Drill0.7mm](#fzktptpthtpadd15drill7--testpoint--testpoint_thtpad_d15mm_drill07mm)
+* [FZKTPTPTHTPD15DRILL7 > TestPoint : TestPoint_THTPad_D1.5mm_Drill0.7mm](#fzktptpthtpd15drill7--testpoint--testpoint_thtpad_d15mm_drill07mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTPTPTHTPADD15DRILL7 > TestPoint : TestPoint_THTPad_D1.5mm_Drill0.7mm
+# FZKTPTPTHTPD15DRILL7 > TestPoint : TestPoint_THTPad_D1.5mm_Drill0.7mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_D1.5mm_Drill0.7mm
-- Hex ID: FZKTPTPTHTPADD15DRILL7
+- Hex ID: FZKTPTPTHTPD15DRILL7
 - Name: TestPoint : TestPoint_THTPad_D1.5mm_Drill0.7mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_THTPad_D1.5mm_Drill0.7mm/
 - Description: TestPoint : TestPoint_THTPad_D1.5mm_Drill0.7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_D1.5mm_Drill0.7mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_D1.5mm_Drill0.7mm)
-- Short Link: [http://oom.lt/FZKTPTPTHTPADD15DRILL7](http://oom.lt/FZKTPTPTHTPADD15DRILL7)
+- Short Link: [http://oom.lt/FZKTPTPTHTPD15DRILL7](http://oom.lt/FZKTPTPTHTPD15DRILL7)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|TestPoint|
 |OOMP Index|oompIndex|TestPoint_THTPad_D1.5mm_Drill0.7mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_D1.5mm_Drill0.7mm|
-|Hex ID (short code)|hexID|FZKTPTPTHTPADD15DRILL7|
+|Hex ID (short code)|hexID|FZKTPTPTHTPD15DRILL7|
 |name|name|TestPoint : TestPoint_THTPad_D1.5mm_Drill0.7mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TestPoint_THTPad_D1.5mm_Drill0.7mm'</td><td> 'description'</td></tr><tr><td> 'THT pad as test Point</td><td> diameter 1.5mm</td><td> hole diameter 0.7mm'</td><td> 'tags'</td></tr><tr><td> 'test point THT pad'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

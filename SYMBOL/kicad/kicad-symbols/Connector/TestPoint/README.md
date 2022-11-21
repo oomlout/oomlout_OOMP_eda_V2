@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-TestPoint
 - Hex ID: SZKCNTP
 - Name: Connector : TestPoint
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/TestPoint/
 - Description: Connector : TestPoint
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint)
 - Short Link: [http://oom.lt/SZKCNTP](http://oom.lt/SZKCNTP)

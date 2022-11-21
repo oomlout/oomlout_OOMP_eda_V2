@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-ESD9B3.3ST5G
 - Hex ID: SZKDIODEESD9B33ST5G
 - Name: Diode : ESD9B3.3ST5G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/ESD9B3.3ST5G/
 - Description: Diode : ESD9B3.3ST5G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-ESD9B3.3ST5G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-ESD9B3.3ST5G)
 - Short Link: [http://oom.lt/SZKDIODEESD9B33ST5G](http://oom.lt/SZKDIODEESD9B33ST5G)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1018IDGS
 - Hex ID: SZKANALOGADCADS118IDGS
 - Name: Analog_ADC : ADS1018IDGS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1018IDGS/
 - Description: Analog_ADC : ADS1018IDGS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1018IDGS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1018IDGS)
 - Short Link: [http://oom.lt/SZKANALOGADCADS118IDGS](http://oom.lt/SZKANALOGADCADS118IDGS)

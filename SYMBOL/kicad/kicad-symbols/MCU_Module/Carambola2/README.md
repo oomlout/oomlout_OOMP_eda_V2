@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Carambola2
 - Hex ID: SZKMCUMOCARAMBOLA2
 - Name: MCU_Module : Carambola2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Carambola2/
 - Description: MCU_Module : Carambola2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Carambola2](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Carambola2)
 - Short Link: [http://oom.lt/SZKMCUMOCARAMBOLA2](http://oom.lt/SZKMCUMOCARAMBOLA2)

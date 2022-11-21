@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HTSSOP20DAP
 - Hex ID: FZAHTSS2DAP
 - Name: adafruit : HTSSOP20DAP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HTSSOP20DAP/
 - Description: adafruit : HTSSOP20DAP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HTSSOP20DAP](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HTSSOP20DAP)
 - Short Link: [http://oom.lt/FZAHTSS2DAP](http://oom.lt/FZAHTSS2DAP)

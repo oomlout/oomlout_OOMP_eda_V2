@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBSWTHTACTILEOMRONB3F1XX > Button_Switch_THT : SW_TH_Tactile_Omron_B3F-10xx](#fzkbswthtactileomronb3f1xx--button_switch_tht--sw_th_tactile_omron_b3f-10xx)
+* [FZKBSWTHTOMRONB3F1XX > Button_Switch_THT : SW_TH_Tactile_Omron_B3F-10xx](#fzkbswthtomronb3f1xx--button_switch_tht--sw_th_tactile_omron_b3f-10xx)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWTHTACTILEOMRONB3F1XX > Button_Switch_THT : SW_TH_Tactile_Omron_B3F-10xx
+# FZKBSWTHTOMRONB3F1XX > Button_Switch_THT : SW_TH_Tactile_Omron_B3F-10xx
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_TH_Tactile_Omron_B3F-10xx
-- Hex ID: FZKBSWTHTACTILEOMRONB3F1XX
+- Hex ID: FZKBSWTHTOMRONB3F1XX
 - Name: Button_Switch_THT : SW_TH_Tactile_Omron_B3F-10xx
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_TH_Tactile_Omron_B3F-10xx/
 - Description: Button_Switch_THT : SW_TH_Tactile_Omron_B3F-10xx
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_TH_Tactile_Omron_B3F-10xx](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_TH_Tactile_Omron_B3F-10xx)
-- Short Link: [http://oom.lt/FZKBSWTHTACTILEOMRONB3F1XX](http://oom.lt/FZKBSWTHTACTILEOMRONB3F1XX)
+- Short Link: [http://oom.lt/FZKBSWTHTOMRONB3F1XX](http://oom.lt/FZKBSWTHTOMRONB3F1XX)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_THT|
 |OOMP Index|oompIndex|SW_TH_Tactile_Omron_B3F-10xx|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_TH_Tactile_Omron_B3F-10xx|
-|Hex ID (short code)|hexID|FZKBSWTHTACTILEOMRONB3F1XX|
+|Hex ID (short code)|hexID|FZKBSWTHTOMRONB3F1XX|
 |name|name|Button_Switch_THT : SW_TH_Tactile_Omron_B3F-10xx|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_TH_Tactile_Omron_B3F-10xx'</td><td> 'description'</td></tr><tr><td> 'SW_TH_Tactile_Omron_B3F-10xx_https</td></tr><tr><td>//www.omron.com/ecb/products/pdf/en-b3f.pdf'</td><td> 'tags'</td></tr><tr><td> 'Omron B3F-10xx'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_TH_Tactile_Omron_B3F-10xx.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

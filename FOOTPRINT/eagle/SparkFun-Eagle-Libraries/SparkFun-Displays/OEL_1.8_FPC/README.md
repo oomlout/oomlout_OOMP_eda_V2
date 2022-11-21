@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OEL_1.8_FPC
 - Hex ID: FZSSPARKFUNDISOEL18FPC
 - Name: SparkFun-Displays : OEL_1.8_FPC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/OEL_1.8_FPC/
 - Description: SparkFun-Displays : OEL_1.8_FPC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OEL_1.8_FPC](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OEL_1.8_FPC)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISOEL18FPC](http://oom.lt/FZSSPARKFUNDISOEL18FPC)

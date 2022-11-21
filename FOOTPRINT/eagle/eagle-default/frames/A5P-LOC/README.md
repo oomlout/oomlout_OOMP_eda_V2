@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-frames-A5P-LOC
 - Hex ID: FZEFRAMESA5PLOC
 - Name: frames : A5P-LOC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/frames/A5P-LOC/
 - Description: frames : A5P-LOC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-A5P-LOC](http://oom.lt/FOOTPRINT-eagle-eagle-default-frames-A5P-LOC)
 - Short Link: [http://oom.lt/FZEFRAMESA5PLOC](http://oom.lt/FZEFRAMESA5PLOC)

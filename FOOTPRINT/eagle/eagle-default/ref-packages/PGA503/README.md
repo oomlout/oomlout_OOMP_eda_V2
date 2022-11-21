@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPGA53 > ref-packages : PGA503](#fzerefpackagespga53--ref-packages--pga503)
+* [FZEREFPSPGA53 > ref-packages : PGA503](#fzerefpspga53--ref-packages--pga503)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPGA53 > ref-packages : PGA503
+# FZEREFPSPGA53 > ref-packages : PGA503
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-PGA503
-- Hex ID: FZEREFPACKAGESPGA53
+- Hex ID: FZEREFPSPGA53
 - Name: ref-packages : PGA503
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/PGA503/
 - Description: ref-packages : PGA503
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PGA503](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PGA503)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPGA53](http://oom.lt/FZEREFPACKAGESPGA53)
+- Short Link: [http://oom.lt/FZEREFPSPGA53](http://oom.lt/FZEREFPSPGA53)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|PGA503|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-PGA503|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPGA53|
+|Hex ID (short code)|hexID|FZEREFPSPGA53|
 |name|name|ref-packages : PGA503|
 ||||

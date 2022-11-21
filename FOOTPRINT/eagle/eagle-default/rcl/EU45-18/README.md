@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-EU45-18
 - Hex ID: FZERCLEU4518
 - Name: rcl : EU45-18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/EU45-18/
 - Description: rcl : EU45-18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-EU45-18](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-EU45-18)
 - Short Link: [http://oom.lt/FZERCLEU4518](http://oom.lt/FZERCLEU4518)

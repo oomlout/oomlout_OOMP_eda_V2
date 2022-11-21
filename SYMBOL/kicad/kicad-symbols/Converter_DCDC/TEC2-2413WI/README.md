@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEC2-2413WI
 - Hex ID: SZKCONTEC22413WI
 - Name: Converter_DCDC : TEC2-2413WI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEC2-2413WI/
 - Description: Converter_DCDC : TEC2-2413WI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEC2-2413WI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEC2-2413WI)
 - Short Link: [http://oom.lt/SZKCONTEC22413WI](http://oom.lt/SZKCONTEC22413WI)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT363_INFINEON
 - Hex ID: FZETRANSISTORSLLSIGNALSOT363INFINEON
 - Name: transistor-small-signal : SOT363_INFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/SOT363_INFINEON/
 - Description: transistor-small-signal : SOT363_INFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT363_INFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT363_INFINEON)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALSOT363INFINEON](http://oom.lt/FZETRANSISTORSLLSIGNALSOT363INFINEON)

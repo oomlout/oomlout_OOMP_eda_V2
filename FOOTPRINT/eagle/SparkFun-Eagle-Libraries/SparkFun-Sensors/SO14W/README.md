@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SO14W
 - Hex ID: FZSSPARKFUNSENSSO14W
 - Name: SparkFun-Sensors : SO14W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/SO14W/
 - Description: SparkFun-Sensors : SO14W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SO14W](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SO14W)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSSO14W](http://oom.lt/FZSSPARKFUNSENSSO14W)

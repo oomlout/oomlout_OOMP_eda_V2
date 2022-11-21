@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-SK129
 - Hex ID: FZEHSK129
 - Name: heatsink : SK129
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/heatsink/SK129/
 - Description: heatsink : SK129
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK129](http://oom.lt/FOOTPRINT-eagle-eagle-default-heatsink-SK129)
 - Short Link: [http://oom.lt/FZEHSK129](http://oom.lt/FZEHSK129)

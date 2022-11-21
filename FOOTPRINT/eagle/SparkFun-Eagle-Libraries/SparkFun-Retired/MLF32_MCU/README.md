@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MLF32_MCU
 - Hex ID: FZSRTMLF32MCU
 - Name: SparkFun-Retired : MLF32_MCU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/MLF32_MCU/
 - Description: SparkFun-Retired : MLF32_MCU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MLF32_MCU](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MLF32_MCU)
 - Short Link: [http://oom.lt/FZSRTMLF32MCU](http://oom.lt/FZSRTMLF32MCU)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_VCCLite_5381H5_6.35x6.35mm
 - Hex ID: FZKLLVCCLITE5381H5635X635
 - Name: LED_THT : LED_VCCLite_5381H5_6.35x6.35mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_VCCLite_5381H5_6.35x6.35mm/
 - Description: LED_THT : LED_VCCLite_5381H5_6.35x6.35mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_VCCLite_5381H5_6.35x6.35mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_VCCLite_5381H5_6.35x6.35mm)
 - Short Link: [http://oom.lt/FZKLLVCCLITE5381H5635X635](http://oom.lt/FZKLLVCCLITE5381H5635X635)

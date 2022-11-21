@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBURRBROWNSS28DL > burr-brown : SSOP28DL](#fzeburrbrownss28dl--burr-brown--ssop28dl)
+* [FZEBURRBRNSS28DL > burr-brown : SSOP28DL](#fzeburrbrnss28dl--burr-brown--ssop28dl)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBURRBROWNSS28DL > burr-brown : SSOP28DL
+# FZEBURRBRNSS28DL > burr-brown : SSOP28DL
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-SSOP28DL
-- Hex ID: FZEBURRBROWNSS28DL
+- Hex ID: FZEBURRBRNSS28DL
 - Name: burr-brown : SSOP28DL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/burr-brown/SSOP28DL/
 - Description: burr-brown : SSOP28DL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-SSOP28DL](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-SSOP28DL)
-- Short Link: [http://oom.lt/FZEBURRBROWNSS28DL](http://oom.lt/FZEBURRBROWNSS28DL)
+- Short Link: [http://oom.lt/FZEBURRBRNSS28DL](http://oom.lt/FZEBURRBRNSS28DL)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|burr-brown|
 |OOMP Index|oompIndex|SSOP28DL|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-burr-brown-SSOP28DL|
-|Hex ID (short code)|hexID|FZEBURRBROWNSS28DL|
+|Hex ID (short code)|hexID|FZEBURRBRNSS28DL|
 |name|name|burr-brown : SSOP28DL|
 ||||
 

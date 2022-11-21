@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SUN
 - Hex ID: FZASUN
 - Name: adafruit : SUN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SUN/
 - Description: adafruit : SUN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SUN](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SUN)
 - Short Link: [http://oom.lt/FZASUN](http://oom.lt/FZASUN)

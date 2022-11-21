@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHITTRT112 > switch : ITT-RT112](#fzeswitchittrt112--switch--itt-rt112)
+* [FZESWITTRT112 > switch : ITT-RT112](#fzeswittrt112--switch--itt-rt112)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHITTRT112 > switch : ITT-RT112
+# FZESWITTRT112 > switch : ITT-RT112
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-ITT-RT112
-- Hex ID: FZESWITCHITTRT112
+- Hex ID: FZESWITTRT112
 - Name: switch : ITT-RT112
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/ITT-RT112/
 - Description: switch : ITT-RT112
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ITT-RT112](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-ITT-RT112)
-- Short Link: [http://oom.lt/FZESWITCHITTRT112](http://oom.lt/FZESWITCHITTRT112)
+- Short Link: [http://oom.lt/FZESWITTRT112](http://oom.lt/FZESWITTRT112)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|ITT-RT112|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-ITT-RT112|
-|Hex ID (short code)|hexID|FZESWITCHITTRT112|
+|Hex ID (short code)|hexID|FZESWITTRT112|
 |name|name|switch : ITT-RT112|
 ||||

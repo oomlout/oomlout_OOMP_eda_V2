@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF256
 - Hex ID: SZKAMPLIFIEROPERATIONALLF256
 - Name: Amplifier_Operational : LF256
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LF256/
 - Description: Amplifier_Operational : LF256
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF256](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF256)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLF256](http://oom.lt/SZKAMPLIFIEROPERATIONALLF256)

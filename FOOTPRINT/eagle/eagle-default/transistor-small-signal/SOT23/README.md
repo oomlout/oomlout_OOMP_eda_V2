@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT23
 - Hex ID: FZETRANSISTORSLLSIGNALSOT23
 - Name: transistor-small-signal : SOT23
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/SOT23/
 - Description: transistor-small-signal : SOT23
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT23](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT23)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALSOT23](http://oom.lt/FZETRANSISTORSLLSIGNALSOT23)

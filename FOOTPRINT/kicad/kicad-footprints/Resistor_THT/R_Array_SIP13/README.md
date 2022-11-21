@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP13
 - Hex ID: FZKRRARRAYSIP13
 - Name: Resistor_THT : R_Array_SIP13
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Array_SIP13/
 - Description: Resistor_THT : R_Array_SIP13
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP13](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP13)
 - Short Link: [http://oom.lt/FZKRRARRAYSIP13](http://oom.lt/FZKRRARRAYSIP13)

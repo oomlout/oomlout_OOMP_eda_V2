@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNUMEGA1 > oomlout_OOMP_modules : MODULE-CONN-USB-MEGA-01](#fzkicadoomloutoompkicadoomloutoompmosmoconnumega1--oomlout_oomp_modules--module-conn-usb-mega-01)
+* [FZOOMPKOOMPMMOCUMEGA1 > oomlout_OOMP_modules : MODULE-CONN-USB-MEGA-01](#fzoompkoompmmocumega1--oomlout_oomp_modules--module-conn-usb-mega-01)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNUMEGA1 > oomlout_OOMP_modules : MODULE-CONN-USB-MEGA-01
+# FZOOMPKOOMPMMOCUMEGA1 > oomlout_OOMP_modules : MODULE-CONN-USB-MEGA-01
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-USB-MEGA-01
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNUMEGA1
+- Hex ID: FZOOMPKOOMPMMOCUMEGA1
 - Name: oomlout_OOMP_modules : MODULE-CONN-USB-MEGA-01
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_modules/MODULE-CONN-USB-MEGA-01/
 - Description: oomlout_OOMP_modules : MODULE-CONN-USB-MEGA-01
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-USB-MEGA-01](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-USB-MEGA-01)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNUMEGA1](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNUMEGA1)
+- Short Link: [http://oom.lt/FZOOMPKOOMPMMOCUMEGA1](http://oom.lt/FZOOMPKOOMPMMOCUMEGA1)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_modules|
 |OOMP Index|oompIndex|MODULE-CONN-USB-MEGA-01|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-USB-MEGA-01|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNUMEGA1|
+|Hex ID (short code)|hexID|FZOOMPKOOMPMMOCUMEGA1|
 |name|name|oomlout_OOMP_modules : MODULE-CONN-USB-MEGA-01|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MODULE-CONN-USB-MEGA-01'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

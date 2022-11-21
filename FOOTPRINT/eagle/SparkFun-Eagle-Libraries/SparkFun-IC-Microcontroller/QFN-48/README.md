@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-48
 - Hex ID: FZSIUQFN48
 - Name: SparkFun-IC-Microcontroller : QFN-48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-48/
 - Description: SparkFun-IC-Microcontroller : QFN-48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-48](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-48)
 - Short Link: [http://oom.lt/FZSIUQFN48](http://oom.lt/FZSIUQFN48)

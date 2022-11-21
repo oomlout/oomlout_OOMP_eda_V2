@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC6SLX25T-BG484
 - Hex ID: SZKFPGAXILINXXC6SLX25TBG484
 - Name: FPGA_Xilinx : XC6SLX25T-BG484
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC6SLX25T-BG484/
 - Description: FPGA_Xilinx : XC6SLX25T-BG484
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC6SLX25T-BG484](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC6SLX25T-BG484)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC6SLX25TBG484](http://oom.lt/SZKFPGAXILINXXC6SLX25TBG484)

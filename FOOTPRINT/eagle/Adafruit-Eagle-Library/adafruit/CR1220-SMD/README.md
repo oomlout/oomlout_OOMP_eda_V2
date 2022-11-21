@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CR1220-SMD
 - Hex ID: FZACR122SM
 - Name: adafruit : CR1220-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CR1220-SMD/
 - Description: adafruit : CR1220-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CR1220-SMD](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CR1220-SMD)
 - Short Link: [http://oom.lt/FZACR122SM](http://oom.lt/FZACR122SM)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN03S
 - Hex ID: FZECONYAMAICHIMDIN3S
 - Name: con-yamaichi : MDIN03S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-yamaichi/MDIN03S/
 - Description: con-yamaichi : MDIN03S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN03S](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN03S)
 - Short Link: [http://oom.lt/FZECONYAMAICHIMDIN3S](http://oom.lt/FZECONYAMAICHIMDIN3S)

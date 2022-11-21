@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644V-10M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA644V1M
 - Name: MCU_Microchip_ATmega : ATmega644V-10M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega644V-10M/
 - Description: MCU_Microchip_ATmega : ATmega644V-10M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644V-10M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644V-10M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA644V1M](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA644V1M)

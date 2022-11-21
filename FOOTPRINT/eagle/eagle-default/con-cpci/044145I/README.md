@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cpci-044145I
 - Hex ID: FZECONCPCI44145I
 - Name: con-cpci : 044145I
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cpci/044145I/
 - Description: con-cpci : 044145I
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-044145I](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cpci-044145I)
 - Short Link: [http://oom.lt/FZECONCPCI44145I](http://oom.lt/FZECONCPCI44145I)

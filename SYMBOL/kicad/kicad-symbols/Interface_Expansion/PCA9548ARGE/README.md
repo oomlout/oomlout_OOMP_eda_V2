@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9548ARGE
 - Hex ID: SZKINTERFACEEXPANSIONPCA9548ARGE
 - Name: Interface_Expansion : PCA9548ARGE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCA9548ARGE/
 - Description: Interface_Expansion : PCA9548ARGE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9548ARGE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9548ARGE)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9548ARGE](http://oom.lt/SZKINTERFACEEXPANSIONPCA9548ARGE)

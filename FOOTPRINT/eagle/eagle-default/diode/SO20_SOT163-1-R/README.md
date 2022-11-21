@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SO20_SOT163-1-R
 - Hex ID: FZEDIODESO2SOT1631R
 - Name: diode : SO20_SOT163-1-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SO20_SOT163-1-R/
 - Description: diode : SO20_SOT163-1-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SO20_SOT163-1-R](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SO20_SOT163-1-R)
 - Short Link: [http://oom.lt/FZEDIODESO2SOT1631R](http://oom.lt/FZEDIODESO2SOT1631R)

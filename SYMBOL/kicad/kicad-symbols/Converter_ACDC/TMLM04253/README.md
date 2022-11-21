@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM04253
 - Hex ID: SZKCONTMLM4253
 - Name: Converter_ACDC : TMLM04253
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/TMLM04253/
 - Description: Converter_ACDC : TMLM04253
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM04253](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM04253)
 - Short Link: [http://oom.lt/SZKCONTMLM4253](http://oom.lt/SZKCONTMLM4253)

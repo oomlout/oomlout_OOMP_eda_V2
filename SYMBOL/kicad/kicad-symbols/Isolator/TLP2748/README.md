@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP2748
 - Hex ID: SZKISOLATORTLP2748
 - Name: Isolator : TLP2748
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TLP2748/
 - Description: Isolator : TLP2748
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2748](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2748)
 - Short Link: [http://oom.lt/SZKISOLATORTLP2748](http://oom.lt/SZKISOLATORTLP2748)

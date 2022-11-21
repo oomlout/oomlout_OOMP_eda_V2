@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Mini_P
 - Hex ID: FZKVAVAMP
 - Name: Valve : Valve_Mini_P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Mini_P/
 - Description: Valve : Valve_Mini_P
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Mini_P](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Mini_P)
 - Short Link: [http://oom.lt/FZKVAVAMP](http://oom.lt/FZKVAVAMP)

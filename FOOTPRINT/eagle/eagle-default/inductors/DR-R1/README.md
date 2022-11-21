@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSDRR1 > inductors : DR-R1](#fzeinductorsdrr1--inductors--dr-r1)
+* [FZEINSDRR1 > inductors : DR-R1](#fzeinsdrr1--inductors--dr-r1)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSDRR1 > inductors : DR-R1
+# FZEINSDRR1 > inductors : DR-R1
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-DR-R1
-- Hex ID: FZEINDUCTORSDRR1
+- Hex ID: FZEINSDRR1
 - Name: inductors : DR-R1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/DR-R1/
 - Description: inductors : DR-R1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-DR-R1](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-DR-R1)
-- Short Link: [http://oom.lt/FZEINDUCTORSDRR1](http://oom.lt/FZEINDUCTORSDRR1)
+- Short Link: [http://oom.lt/FZEINSDRR1](http://oom.lt/FZEINSDRR1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|DR-R1|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-DR-R1|
-|Hex ID (short code)|hexID|FZEINDUCTORSDRR1|
+|Hex ID (short code)|hexID|FZEINSDRR1|
 |name|name|inductors : DR-R1|
 ||||

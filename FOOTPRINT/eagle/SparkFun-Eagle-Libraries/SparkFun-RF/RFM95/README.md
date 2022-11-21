@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RFM95
 - Hex ID: FZSRFRFM95
 - Name: SparkFun-RF : RFM95
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/RFM95/
 - Description: SparkFun-RF : RFM95
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RFM95](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RFM95)
 - Short Link: [http://oom.lt/FZSRFRFM95](http://oom.lt/FZSRFRFM95)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MOLEX-1X6-RA
 - Hex ID: FZSSPARKFUNCNSMX1X6RA
 - Name: SparkFun-Connectors : MOLEX-1X6-RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/MOLEX-1X6-RA/
 - Description: SparkFun-Connectors : MOLEX-1X6-RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MOLEX-1X6-RA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MOLEX-1X6-RA)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSMX1X6RA](http://oom.lt/FZSSPARKFUNCNSMX1X6RA)

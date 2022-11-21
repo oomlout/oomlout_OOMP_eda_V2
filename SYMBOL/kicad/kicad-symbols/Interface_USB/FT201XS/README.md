@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT201XS
 - Hex ID: SZKINTERFACEUFT21XS
 - Name: Interface_USB : FT201XS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FT201XS/
 - Description: Interface_USB : FT201XS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT201XS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT201XS)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT21XS](http://oom.lt/SZKINTERFACEUFT21XS)

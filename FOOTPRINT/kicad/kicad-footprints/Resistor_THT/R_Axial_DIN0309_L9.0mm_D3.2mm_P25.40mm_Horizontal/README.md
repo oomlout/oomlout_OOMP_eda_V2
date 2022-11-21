@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKRRAXIALDIN39L9D32P254HORIZONTAL > Resistor_THT : R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal](#fzkrraxialdin39l9d32p254horizontal--resistor_tht--r_axial_din0309_l90mm_d32mm_p2540mm_horizontal)
+* [FZKRRAXIALDIN39L9D32P254H > Resistor_THT : R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal](#fzkrraxialdin39l9d32p254h--resistor_tht--r_axial_din0309_l90mm_d32mm_p2540mm_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRRAXIALDIN39L9D32P254HORIZONTAL > Resistor_THT : R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal
+# FZKRRAXIALDIN39L9D32P254H > Resistor_THT : R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal
-- Hex ID: FZKRRAXIALDIN39L9D32P254HORIZONTAL
+- Hex ID: FZKRRAXIALDIN39L9D32P254H
 - Name: Resistor_THT : R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal/
 - Description: Resistor_THT : R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal)
-- Short Link: [http://oom.lt/FZKRRAXIALDIN39L9D32P254HORIZONTAL](http://oom.lt/FZKRRAXIALDIN39L9D32P254HORIZONTAL)
+- Short Link: [http://oom.lt/FZKRRAXIALDIN39L9D32P254H](http://oom.lt/FZKRRAXIALDIN39L9D32P254H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Resistor_THT|
 |OOMP Index|oompIndex|R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal|
-|Hex ID (short code)|hexID|FZKRRAXIALDIN39L9D32P254HORIZONTAL|
+|Hex ID (short code)|hexID|FZKRRAXIALDIN39L9D32P254H|
 |name|name|Resistor_THT : R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Resistor</td><td> Axial_DIN0309 series</td><td> Axial</td><td> Horizontal</td><td> pin pitch=25.4mm</td><td> 0.5W = 1/2W</td><td> length*diameter=9*3.2mm^2</td><td> http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf'</td><td> 'tags'</td></tr><tr><td> 'Resistor Axial_DIN0309 series Axial Horizontal pin pitch 25.4mm 0.5W = 1/2W length 9mm diameter 3.2mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P25.40mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

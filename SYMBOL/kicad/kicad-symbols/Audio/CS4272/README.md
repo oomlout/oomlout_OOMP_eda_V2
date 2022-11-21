@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-CS4272
 - Hex ID: SZKAUDIOCS4272
 - Name: Audio : CS4272
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/CS4272/
 - Description: Audio : CS4272
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4272](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4272)
 - Short Link: [http://oom.lt/SZKAUDIOCS4272](http://oom.lt/SZKAUDIOCS4272)

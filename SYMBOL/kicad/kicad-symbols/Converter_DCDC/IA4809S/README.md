@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA4809S
 - Hex ID: SZKCONIA489S
 - Name: Converter_DCDC : IA4809S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IA4809S/
 - Description: Converter_DCDC : IA4809S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA4809S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA4809S)
 - Short Link: [http://oom.lt/SZKCONIA489S](http://oom.lt/SZKCONIA489S)

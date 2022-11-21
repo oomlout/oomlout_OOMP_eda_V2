@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-DUOLED-A-3MM
 - Hex ID: FZELDUOLA3
 - Name: led : DUOLED-A-3MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/DUOLED-A-3MM/
 - Description: led : DUOLED-A-3MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-DUOLED-A-3MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-DUOLED-A-3MM)
 - Short Link: [http://oom.lt/FZELDUOLA3](http://oom.lt/FZELDUOLA3)

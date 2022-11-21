@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSB82535 > inductors : B825-35](#fzeinductorsb82535--inductors--b825-35)
+* [FZEINSB82535 > inductors : B825-35](#fzeinsb82535--inductors--b825-35)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSB82535 > inductors : B825-35
+# FZEINSB82535 > inductors : B825-35
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-B825-35
-- Hex ID: FZEINDUCTORSB82535
+- Hex ID: FZEINSB82535
 - Name: inductors : B825-35
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/B825-35/
 - Description: inductors : B825-35
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-B825-35](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-B825-35)
-- Short Link: [http://oom.lt/FZEINDUCTORSB82535](http://oom.lt/FZEINDUCTORSB82535)
+- Short Link: [http://oom.lt/FZEINSB82535](http://oom.lt/FZEINSB82535)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|B825-35|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-B825-35|
-|Hex ID (short code)|hexID|FZEINDUCTORSB82535|
+|Hex ID (short code)|hexID|FZEINSB82535|
 |name|name|inductors : B825-35|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSSR-3.3mm_H7mm_SnapRivet_9776070960
 - Hex ID: FZKMONMONWASMSSR33H7SNAPRIVET9776796
 - Name: Mounting_Wuerth : Mounting_Wuerth_WA-SMSSR-3.3mm_H7mm_SnapRivet_9776070960
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H7mm_SnapRivet_9776070960/
 - Description: Mounting_Wuerth : Mounting_Wuerth_WA-SMSSR-3.3mm_H7mm_SnapRivet_9776070960
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSSR-3.3mm_H7mm_SnapRivet_9776070960](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSSR-3.3mm_H7mm_SnapRivet_9776070960)
 - Short Link: [http://oom.lt/FZKMONMONWASMSSR33H7SNAPRIVET9776796](http://oom.lt/FZKMONMONWASMSSR33H7SNAPRIVET9776796)

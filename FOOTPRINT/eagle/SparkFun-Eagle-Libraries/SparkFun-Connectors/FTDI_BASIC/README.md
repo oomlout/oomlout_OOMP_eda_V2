@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FTDI_BASIC
 - Hex ID: FZSSPARKFUNCNSFTDIBASIC
 - Name: SparkFun-Connectors : FTDI_BASIC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/FTDI_BASIC/
 - Description: SparkFun-Connectors : FTDI_BASIC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FTDI_BASIC](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FTDI_BASIC)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSFTDIBASIC](http://oom.lt/FZSSPARKFUNCNSFTDIBASIC)

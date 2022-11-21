@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-AQ-B
 - Hex ID: FZERELAYAQB
 - Name: relay : AQ-B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/AQ-B/
 - Description: relay : AQ-B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQ-B](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-AQ-B)
 - Short Link: [http://oom.lt/FZERELAYAQB](http://oom.lt/FZERELAYAQB)

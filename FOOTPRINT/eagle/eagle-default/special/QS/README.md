@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-QS
 - Hex ID: FZESPECIALQS
 - Name: special : QS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/QS/
 - Description: special : QS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-QS](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-QS)
 - Short Link: [http://oom.lt/FZESPECIALQS](http://oom.lt/FZESPECIALQS)

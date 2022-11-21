@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LED3MM
 - Hex ID: FZAL3
 - Name: adafruit : LED3MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/LED3MM/
 - Description: adafruit : LED3MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LED3MM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LED3MM)
 - Short Link: [http://oom.lt/FZAL3](http://oom.lt/FZAL3)

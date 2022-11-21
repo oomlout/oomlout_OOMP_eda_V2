@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-DFN-6-2X2
 - Hex ID: FZSSPARKFUNSENSDFN62X2
 - Name: SparkFun-Sensors : DFN-6-2X2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/DFN-6-2X2/
 - Description: SparkFun-Sensors : DFN-6-2X2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-DFN-6-2X2](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-DFN-6-2X2)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSDFN62X2](http://oom.lt/FZSSPARKFUNSENSDFN62X2)

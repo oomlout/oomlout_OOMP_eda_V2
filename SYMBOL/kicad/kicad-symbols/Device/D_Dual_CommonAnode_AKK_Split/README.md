@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_AKK_Split
 - Hex ID: SZKDEVICEDDUALCOONANODEAKKSPLIT
 - Name: Device : D_Dual_CommonAnode_AKK_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonAnode_AKK_Split/
 - Description: Device : D_Dual_CommonAnode_AKK_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_AKK_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_AKK_Split)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALCOONANODEAKKSPLIT](http://oom.lt/SZKDEVICEDDUALCOONANODEAKKSPLIT)

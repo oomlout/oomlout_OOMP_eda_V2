@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG676
 - Hex ID: FZEXILINXXCVFG676
 - Name: xilinx-xcv : FG676
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/FG676/
 - Description: xilinx-xcv : FG676
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG676](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG676)
 - Short Link: [http://oom.lt/FZEXILINXXCVFG676](http://oom.lt/FZEXILINXXCVFG676)

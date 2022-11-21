@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA1517
 - Hex ID: FZEALTERASTRATIXIVFBGA1517
 - Name: altera-stratix-iv : FBGA1517
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera-stratix-iv/FBGA1517/
 - Description: altera-stratix-iv : FBGA1517
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA1517](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA1517)
 - Short Link: [http://oom.lt/FZEALTERASTRATIXIVFBGA1517](http://oom.lt/FZEALTERASTRATIXIVFBGA1517)

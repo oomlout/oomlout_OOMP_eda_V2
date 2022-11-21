@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BPW34
 - Hex ID: FZSSPARKFUNSENSBPW34
 - Name: SparkFun-Sensors : BPW34
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/BPW34/
 - Description: SparkFun-Sensors : BPW34
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BPW34](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BPW34)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSBPW34](http://oom.lt/FZSSPARKFUNSENSBPW34)

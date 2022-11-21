@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F1822-IP
 - Hex ID: SZKMCUMCHIPPIC12PIC12F1822IP
 - Name: MCU_Microchip_PIC12 : PIC12F1822-IP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12F1822-IP/
 - Description: MCU_Microchip_PIC12 : PIC12F1822-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F1822-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F1822-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12F1822IP](http://oom.lt/SZKMCUMCHIPPIC12PIC12F1822IP)

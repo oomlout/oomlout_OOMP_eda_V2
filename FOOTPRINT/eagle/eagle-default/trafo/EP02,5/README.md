@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-EP02,5
 - Hex ID: FZETRAFOEP25
 - Name: trafo : EP02,5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/EP02,5/
 - Description: trafo : EP02,5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EP02,5](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-EP02,5)
 - Short Link: [http://oom.lt/FZETRAFOEP25](http://oom.lt/FZETRAFOEP25)

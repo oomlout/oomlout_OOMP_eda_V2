@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LDK130PU12R_DFN6
 - Hex ID: SZKREGULATORLINEARLDK13PU12RDFN6
 - Name: Regulator_Linear : LDK130PU12R_DFN6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LDK130PU12R_DFN6/
 - Description: Regulator_Linear : LDK130PU12R_DFN6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LDK130PU12R_DFN6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LDK130PU12R_DFN6)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLDK13PU12RDFN6](http://oom.lt/SZKREGULATORLINEARLDK13PU12RDFN6)

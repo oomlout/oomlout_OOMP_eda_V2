@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN50P300X300X86-17N
 - Hex ID: FZSRFQFN5P3X3X8617N
 - Name: SparkFun-RF : QFN50P300X300X86-17N
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/QFN50P300X300X86-17N/
 - Description: SparkFun-RF : QFN50P300X300X86-17N
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN50P300X300X86-17N](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN50P300X300X86-17N)
 - Short Link: [http://oom.lt/FZSRFQFN5P3X3X8617N](http://oom.lt/FZSRFQFN5P3X3X8617N)

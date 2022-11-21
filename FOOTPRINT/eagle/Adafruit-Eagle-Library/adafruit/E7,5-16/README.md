@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E7,5-16
 - Hex ID: FZAE7516
 - Name: adafruit : E7,5-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E7,5-16/
 - Description: adafruit : E7,5-16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E7,5-16](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E7,5-16)
 - Short Link: [http://oom.lt/FZAE7516](http://oom.lt/FZAE7516)

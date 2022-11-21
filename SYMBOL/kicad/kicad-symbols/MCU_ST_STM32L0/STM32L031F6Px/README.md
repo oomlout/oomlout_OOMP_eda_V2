@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L031F6Px
 - Hex ID: SZKMCUSTSTM32LSTM32L31F6PX
 - Name: MCU_ST_STM32L0 : STM32L031F6Px
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L031F6Px/
 - Description: MCU_ST_STM32L0 : STM32L031F6Px
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L031F6Px](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L031F6Px)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32LSTM32L31F6PX](http://oom.lt/SZKMCUSTSTM32LSTM32L31F6PX)

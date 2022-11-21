@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZX384xxxx
 - Hex ID: SZKDIODEBZX384XXXX
 - Name: Diode : BZX384xxxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BZX384xxxx/
 - Description: Diode : BZX384xxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZX384xxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZX384xxxx)
 - Short Link: [http://oom.lt/SZKDIODEBZX384XXXX](http://oom.lt/SZKDIODEBZX384XXXX)

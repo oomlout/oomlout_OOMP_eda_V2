@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-TOP3
 - Hex ID: FZETRANSISTORTOP3
 - Name: transistor : TOP3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/TOP3/
 - Description: transistor : TOP3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TOP3](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TOP3)
 - Short Link: [http://oom.lt/FZETRANSISTORTOP3](http://oom.lt/FZETRANSISTORTOP3)

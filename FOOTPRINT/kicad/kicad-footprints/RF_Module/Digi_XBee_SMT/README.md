@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Digi_XBee_SMT
 - Hex ID: FZKRFMODIGIXBEES
 - Name: RF_Module : Digi_XBee_SMT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/Digi_XBee_SMT/
 - Description: RF_Module : Digi_XBee_SMT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Digi_XBee_SMT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Digi_XBee_SMT)
 - Short Link: [http://oom.lt/FZKRFMODIGIXBEES](http://oom.lt/FZKRFMODIGIXBEES)

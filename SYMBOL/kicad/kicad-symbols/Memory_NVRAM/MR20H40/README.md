@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MR20H40
 - Hex ID: SZKMEMORYNVRAMMR2H4
 - Name: Memory_NVRAM : MR20H40
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MR20H40/
 - Description: Memory_NVRAM : MR20H40
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MR20H40](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MR20H40)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMMR2H4](http://oom.lt/SZKMEMORYNVRAMMR2H4)

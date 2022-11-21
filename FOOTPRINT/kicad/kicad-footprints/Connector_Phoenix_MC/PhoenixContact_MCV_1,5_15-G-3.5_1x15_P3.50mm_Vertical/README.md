@@ -5,27 +5,21 @@
 Contents
 ========
 
-* [FZKCNPHOENIXMCPHOENIXCONTACTMCV1515G351X15P35VERTICAL > Connector_Phoenix_MC : PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical](#fzkcnphoenixmcphoenixcontactmcv1515g351x15p35vertical--connector_phoenix_mc--phoenixcontact_mcv_15_15-g-35_1x15_p350mm_vertical)
-	* [Images](#images)
+* [FZKCNPHOENIXMCPHOENIXCTMCV1515G351X15P35F > Connector_Phoenix_MC : PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical](#fzkcnphoenixmcphoenixctmcv1515g351x15p35f--connector_phoenix_mc--phoenixcontact_mcv_15_15-g-35_1x15_p350mm_vertical)
 	* [Tags](#tags)
   
-![][im]
-# FZKCNPHOENIXMCPHOENIXCONTACTMCV1515G351X15P35VERTICAL > Connector_Phoenix_MC : PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical
+NO IMAGE  
+# FZKCNPHOENIXMCPHOENIXCTMCV1515G351X15P35F > Connector_Phoenix_MC : PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical
-- Hex ID: FZKCNPHOENIXMCPHOENIXCONTACTMCV1515G351X15P35VERTICAL
+- Hex ID: FZKCNPHOENIXMCPHOENIXCTMCV1515G351X15P35F
 - Name: Connector_Phoenix_MC : PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical/
 - Description: Connector_Phoenix_MC : PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNPHOENIXMCPHOENIXCONTACTMCV1515G351X15P35VERTICAL](http://oom.lt/FZKCNPHOENIXMCPHOENIXCONTACTMCV1515G351X15P35VERTICAL)
-
-## Images
+- Short Link: [http://oom.lt/FZKCNPHOENIXMCPHOENIXCTMCV1515G351X15P35F](http://oom.lt/FZKCNPHOENIXMCPHOENIXCTMCV1515G351X15P35F)
   
-
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical/kicadPcb3dBack.png)|
-| :---: | :---: | :---: | :---: |
-|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical/kicadPcb3d.png)||||
-
+NO IMAGES  
 ## Tags
   
 
@@ -37,11 +31,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Phoenix_MC|
 |OOMP Index|oompIndex|PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNPHOENIXMCPHOENIXCONTACTMCV1515G351X15P35VERTICAL|
+|Hex ID (short code)|hexID|FZKCNPHOENIXMCPHOENIXCTMCV1515G351X15P35F|
 |name|name|Connector_Phoenix_MC : PhoenixContact_MCV_1,5_15-G-3.5_1x15_P3.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PhoenixContact_MCV_1</td><td>5_15-G-3.5_1x15_P3.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Generic Phoenix Contact connector footprint for</td></tr><tr><td> MCV_1</td><td>5/15-G-3.5; number of pins</td></tr><tr><td> 15; pin pitch</td></tr><tr><td> 3.50mm; Vertical \|\| order number</td></tr><tr><td> 1843732 8A 160V'</td><td> 'tags'</td></tr><tr><td> 'phoenix_contact connector MCV_01x15_G_3.5mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Phoenix_MC.3dshapes/PhoenixContact_MCV_1</td><td>5_15-G-3.5_1x15_P3.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
-
-
-
-[im]: kicadPcb3d_450.png

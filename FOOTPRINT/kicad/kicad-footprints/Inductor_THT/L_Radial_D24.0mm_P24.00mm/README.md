@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D24.0mm_P24.00mm
 - Hex ID: FZKINLRD24P24
 - Name: Inductor_THT : L_Radial_D24.0mm_P24.00mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.0mm_P24.00mm/
 - Description: Inductor_THT : L_Radial_D24.0mm_P24.00mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D24.0mm_P24.00mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D24.0mm_P24.00mm)
 - Short Link: [http://oom.lt/FZKINLRD24P24](http://oom.lt/FZKINLRD24P24)

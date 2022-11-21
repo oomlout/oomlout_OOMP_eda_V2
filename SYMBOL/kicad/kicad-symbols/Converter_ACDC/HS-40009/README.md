@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40009
 - Hex ID: SZKCONHS49
 - Name: Converter_ACDC : HS-40009
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/HS-40009/
 - Description: Converter_ACDC : HS-40009
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40009](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40009)
 - Short Link: [http://oom.lt/SZKCONHS49](http://oom.lt/SZKCONHS49)

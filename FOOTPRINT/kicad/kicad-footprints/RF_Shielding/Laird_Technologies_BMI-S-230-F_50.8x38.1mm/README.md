@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-230-F_50.8x38.1mm
 - Hex ID: FZKRFSLAIRDTECHNOLOGIESBMIS23F58X381
 - Name: RF_Shielding : Laird_Technologies_BMI-S-230-F_50.8x38.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-230-F_50.8x38.1mm/
 - Description: RF_Shielding : Laird_Technologies_BMI-S-230-F_50.8x38.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-230-F_50.8x38.1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-230-F_50.8x38.1mm)
 - Short Link: [http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS23F58X381](http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS23F58X381)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1526-IMR
 - Hex ID: SZKMCUMCHIPPIC16PIC16F1526IMR
 - Name: MCU_Microchip_PIC16 : PIC16F1526-IMR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F1526-IMR/
 - Description: MCU_Microchip_PIC16 : PIC16F1526-IMR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1526-IMR](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1526-IMR)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1526IMR](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1526IMR)

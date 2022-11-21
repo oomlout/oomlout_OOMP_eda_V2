@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-10-1EP_4x3mm_P0.5mm_EP2.2x2mm
 - Hex ID: FZKSONWSON11EP4X3P5EP22X2
 - Name: Package_SON : WSON-10-1EP_4x3mm_P0.5mm_EP2.2x2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-10-1EP_4x3mm_P0.5mm_EP2.2x2mm/
 - Description: Package_SON : WSON-10-1EP_4x3mm_P0.5mm_EP2.2x2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-10-1EP_4x3mm_P0.5mm_EP2.2x2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-10-1EP_4x3mm_P0.5mm_EP2.2x2mm)
 - Short Link: [http://oom.lt/FZKSONWSON11EP4X3P5EP22X2](http://oom.lt/FZKSONWSON11EP4X3P5EP22X2)

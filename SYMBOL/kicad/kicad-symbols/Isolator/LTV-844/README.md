@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-LTV-844
 - Hex ID: SZKISOLATORLTV844
 - Name: Isolator : LTV-844
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/LTV-844/
 - Description: Isolator : LTV-844
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-844](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-844)
 - Short Link: [http://oom.lt/SZKISOLATORLTV844](http://oom.lt/SZKISOLATORLTV844)

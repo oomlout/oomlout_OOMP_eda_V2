@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1212SA
 - Hex ID: SZKCONITX1212SA
 - Name: Converter_DCDC : ITX1212SA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX1212SA/
 - Description: Converter_DCDC : ITX1212SA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1212SA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1212SA)
 - Short Link: [http://oom.lt/SZKCONITX1212SA](http://oom.lt/SZKCONITX1212SA)

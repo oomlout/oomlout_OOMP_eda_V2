@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-MULTIWATT15
 - Hex ID: FZSISMULTIWATT15
 - Name: SparkFun-IC-Special-Function : MULTIWATT15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/MULTIWATT15/
 - Description: SparkFun-IC-Special-Function : MULTIWATT15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-MULTIWATT15](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-MULTIWATT15)
 - Short Link: [http://oom.lt/FZSISMULTIWATT15](http://oom.lt/FZSISMULTIWATT15)

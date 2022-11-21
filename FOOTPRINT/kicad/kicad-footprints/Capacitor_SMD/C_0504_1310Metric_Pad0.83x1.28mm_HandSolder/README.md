@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCAPACITORSMC54131METRICPAD83X128HANDSOLDER > Capacitor_SMD : C_0504_1310Metric_Pad0.83x1.28mm_HandSolder](#fzkcapacitorsmc54131metricpad83x128handsolder--capacitor_smd--c_0504_1310metric_pad083x128mm_handsolder)
+* [FZKCC54131VAP83X128HSOLDER > Capacitor_SMD : C_0504_1310Metric_Pad0.83x1.28mm_HandSolder](#fzkcc54131vap83x128hsolder--capacitor_smd--c_0504_1310metric_pad083x128mm_handsolder)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCAPACITORSMC54131METRICPAD83X128HANDSOLDER > Capacitor_SMD : C_0504_1310Metric_Pad0.83x1.28mm_HandSolder
+# FZKCC54131VAP83X128HSOLDER > Capacitor_SMD : C_0504_1310Metric_Pad0.83x1.28mm_HandSolder
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0504_1310Metric_Pad0.83x1.28mm_HandSolder
-- Hex ID: FZKCAPACITORSMC54131METRICPAD83X128HANDSOLDER
+- Hex ID: FZKCC54131VAP83X128HSOLDER
 - Name: Capacitor_SMD : C_0504_1310Metric_Pad0.83x1.28mm_HandSolder
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0504_1310Metric_Pad0.83x1.28mm_HandSolder/
 - Description: Capacitor_SMD : C_0504_1310Metric_Pad0.83x1.28mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0504_1310Metric_Pad0.83x1.28mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0504_1310Metric_Pad0.83x1.28mm_HandSolder)
-- Short Link: [http://oom.lt/FZKCAPACITORSMC54131METRICPAD83X128HANDSOLDER](http://oom.lt/FZKCAPACITORSMC54131METRICPAD83X128HANDSOLDER)
+- Short Link: [http://oom.lt/FZKCC54131VAP83X128HSOLDER](http://oom.lt/FZKCC54131VAP83X128HSOLDER)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Capacitor_SMD|
 |OOMP Index|oompIndex|C_0504_1310Metric_Pad0.83x1.28mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0504_1310Metric_Pad0.83x1.28mm_HandSolder|
-|Hex ID (short code)|hexID|FZKCAPACITORSMC54131METRICPAD83X128HANDSOLDER|
+|Hex ID (short code)|hexID|FZKCC54131VAP83X128HSOLDER|
 |name|name|Capacitor_SMD : C_0504_1310Metric_Pad0.83x1.28mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_0504_1310Metric_Pad0.83x1.28mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Capacitor SMD 0504 (1310 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal with elongated pad for handsoldering. (Body size source</td></tr><tr><td> IPC-SM-782 page 76</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_0504_1310Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNGENERICSHEDCONN1X14SHED > Connector_Generic_Shielded : Conn_01x14_Shielded](#szkcngenericshedconn1x14shed--connector_generic_shielded--conn_01x14_shielded)
+* [SZKCNGSHEDC1X14SHED > Connector_Generic_Shielded : Conn_01x14_Shielded](#szkcngshedc1x14shed--connector_generic_shielded--conn_01x14_shielded)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNGENERICSHEDCONN1X14SHED > Connector_Generic_Shielded : Conn_01x14_Shielded
+# SZKCNGSHEDC1X14SHED > Connector_Generic_Shielded : Conn_01x14_Shielded
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_01x14_Shielded
-- Hex ID: SZKCNGENERICSHEDCONN1X14SHED
+- Hex ID: SZKCNGSHEDC1X14SHED
 - Name: Connector_Generic_Shielded : Conn_01x14_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_01x14_Shielded/
 - Description: Connector_Generic_Shielded : Conn_01x14_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_01x14_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_01x14_Shielded)
-- Short Link: [http://oom.lt/SZKCNGENERICSHEDCONN1X14SHED](http://oom.lt/SZKCNGENERICSHEDCONN1X14SHED)
+- Short Link: [http://oom.lt/SZKCNGSHEDC1X14SHED](http://oom.lt/SZKCNGSHEDC1X14SHED)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Generic_Shielded|
 |OOMP Index|oompIndex|Conn_01x14_Shielded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_01x14_Shielded|
-|Hex ID (short code)|hexID|SZKCNGENERICSHEDCONN1X14SHED|
+|Hex ID (short code)|hexID|SZKCNGSHEDC1X14SHED|
 |name|name|Connector_Generic_Shielded : Conn_01x14_Shielded|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_01x14_Shielded'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic shielded connector</td><td> single row</td><td> 01x14</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??-1SH*'</td></tr></table>]|
 ||||

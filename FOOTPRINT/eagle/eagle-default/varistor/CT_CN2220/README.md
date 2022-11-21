@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-CT_CN2220
 - Hex ID: FZEVCTCN222
 - Name: varistor : CT_CN2220
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/CT_CN2220/
 - Description: varistor : CT_CN2220
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-CT_CN2220](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-CT_CN2220)
 - Short Link: [http://oom.lt/FZEVCTCN222](http://oom.lt/FZEVCTCN222)

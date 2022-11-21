@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP32-WROOM-32
 - Hex ID: FZKRFMOESP32WROOM32
 - Name: RF_Module : ESP32-WROOM-32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/ESP32-WROOM-32/
 - Description: RF_Module : ESP32-WROOM-32
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP32-WROOM-32](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP32-WROOM-32)
 - Short Link: [http://oom.lt/FZKRFMOESP32WROOM32](http://oom.lt/FZKRFMOESP32WROOM32)

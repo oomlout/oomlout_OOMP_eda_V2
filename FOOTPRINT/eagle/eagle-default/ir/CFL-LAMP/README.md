@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ir-CFL-LAMP
 - Hex ID: FZEIRCFLLAMP
 - Name: ir : CFL-LAMP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ir/CFL-LAMP/
 - Description: ir : CFL-LAMP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ir-CFL-LAMP](http://oom.lt/FOOTPRINT-eagle-eagle-default-ir-CFL-LAMP)
 - Short Link: [http://oom.lt/FZEIRCFLLAMP](http://oom.lt/FZEIRCFLLAMP)

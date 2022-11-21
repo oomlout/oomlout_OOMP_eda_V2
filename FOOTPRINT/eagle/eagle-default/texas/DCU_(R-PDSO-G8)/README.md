@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-DCU_(R-PDSO-G8)
 - Hex ID: FZETEXASDCU(RPDSOG8)
 - Name: texas : DCU_(R-PDSO-G8)
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/DCU_(R-PDSO-G8)/
 - Description: texas : DCU_(R-PDSO-G8)
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DCU_(R-PDSO-G8)](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DCU_(R-PDSO-G8))
 - Short Link: [http://oom.lt/FZETEXASDCU(RPDSOG8)](http://oom.lt/FZETEXASDCU(RPDSOG8))

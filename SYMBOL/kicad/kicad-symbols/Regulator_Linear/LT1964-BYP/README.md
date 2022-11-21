@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1964-BYP
 - Hex ID: SZKREGULATORLINEARLT1964BYP
 - Name: Regulator_Linear : LT1964-BYP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1964-BYP/
 - Description: Regulator_Linear : LT1964-BYP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1964-BYP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1964-BYP)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1964BYP](http://oom.lt/SZKREGULATORLINEARLT1964BYP)

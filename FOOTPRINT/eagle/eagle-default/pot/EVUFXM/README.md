@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-EVUFXM
 - Hex ID: FZEPOTEVUFXM
 - Name: pot : EVUFXM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/EVUFXM/
 - Description: pot : EVUFXM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-EVUFXM](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-EVUFXM)
 - Short Link: [http://oom.lt/FZEPOTEVUFXM](http://oom.lt/FZEPOTEVUFXM)

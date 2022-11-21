@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega8535L-8P
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA8535L8P
 - Name: MCU_Microchip_ATmega : ATmega8535L-8P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega8535L-8P/
 - Description: MCU_Microchip_ATmega : ATmega8535L-8P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega8535L-8P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega8535L-8P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA8535L8P](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA8535L8P)

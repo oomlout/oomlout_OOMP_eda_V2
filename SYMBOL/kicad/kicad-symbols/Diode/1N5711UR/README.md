@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N5711UR
 - Hex ID: SZKDIODE1N5711UR
 - Name: Diode : 1N5711UR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N5711UR/
 - Description: Diode : 1N5711UR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5711UR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5711UR)
 - Short Link: [http://oom.lt/SZKDIODE1N5711UR](http://oom.lt/SZKDIODE1N5711UR)

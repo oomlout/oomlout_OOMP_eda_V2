@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-UQFN40ML5X5MM
 - Hex ID: FZEMCHIPUQFN4ML5X5
 - Name: microchip : UQFN40ML5X5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/UQFN40ML5X5MM/
 - Description: microchip : UQFN40ML5X5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-UQFN40ML5X5MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-UQFN40ML5X5MM)
 - Short Link: [http://oom.lt/FZEMCHIPUQFN4ML5X5](http://oom.lt/FZEMCHIPUQFN4ML5X5)

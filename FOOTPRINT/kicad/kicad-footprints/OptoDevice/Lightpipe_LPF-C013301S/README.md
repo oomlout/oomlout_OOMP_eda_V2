@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_LPF-C013301S
 - Hex ID: FZKOPLIGHTPIPELPFC1331S
 - Name: OptoDevice : Lightpipe_LPF-C013301S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Lightpipe_LPF-C013301S/
 - Description: OptoDevice : Lightpipe_LPF-C013301S
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_LPF-C013301S](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_LPF-C013301S)
 - Short Link: [http://oom.lt/FZKOPLIGHTPIPELPFC1331S](http://oom.lt/FZKOPLIGHTPIPELPFC1331S)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-PowerSymbols-2PT_GND_TIE
 - Hex ID: FZSSPARKFUNPOWERSYS2PTGNDTIE
 - Name: SparkFun-PowerSymbols : 2PT_GND_TIE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-PowerSymbols/2PT_GND_TIE/
 - Description: SparkFun-PowerSymbols : 2PT_GND_TIE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-PowerSymbols-2PT_GND_TIE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-PowerSymbols-2PT_GND_TIE)
 - Short Link: [http://oom.lt/FZSSPARKFUNPOWERSYS2PTGNDTIE](http://oom.lt/FZSSPARKFUNPOWERSYS2PTGNDTIE)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-822031-4
 - Hex ID: FZECONAMP822314
 - Name: con-amp : 822031-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/822031-4/
 - Description: con-amp : 822031-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-822031-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-822031-4)
 - Short Link: [http://oom.lt/FZECONAMP822314](http://oom.lt/FZECONAMP822314)

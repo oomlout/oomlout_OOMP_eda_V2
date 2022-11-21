@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_20MM_4LEGS
 - Hex ID: FZSBBC24LEGS
 - Name: SparkFun-Batteries : BATTCON_20MM_4LEGS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_20MM_4LEGS/
 - Description: SparkFun-Batteries : BATTCON_20MM_4LEGS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_20MM_4LEGS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_20MM_4LEGS)
 - Short Link: [http://oom.lt/FZSBBC24LEGS](http://oom.lt/FZSBBC24LEGS)

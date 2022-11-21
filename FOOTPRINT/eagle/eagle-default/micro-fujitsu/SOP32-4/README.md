@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-SOP32-4
 - Hex ID: FZEMFUJITSUS324
 - Name: micro-fujitsu : SOP32-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-fujitsu/SOP32-4/
 - Description: micro-fujitsu : SOP32-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-SOP32-4](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-fujitsu-SOP32-4)
 - Short Link: [http://oom.lt/FZEMFUJITSUS324](http://oom.lt/FZEMFUJITSUS324)

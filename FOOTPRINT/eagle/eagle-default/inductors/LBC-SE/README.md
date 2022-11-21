@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEINDUCTORSLBCSE > inductors : LBC-SE](#fzeinductorslbcse--inductors--lbc-se)
+* [FZEINSLBCSE > inductors : LBC-SE](#fzeinslbcse--inductors--lbc-se)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEINDUCTORSLBCSE > inductors : LBC-SE
+# FZEINSLBCSE > inductors : LBC-SE
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-LBC-SE
-- Hex ID: FZEINDUCTORSLBCSE
+- Hex ID: FZEINSLBCSE
 - Name: inductors : LBC-SE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/inductors/LBC-SE/
 - Description: inductors : LBC-SE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-LBC-SE](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-LBC-SE)
-- Short Link: [http://oom.lt/FZEINDUCTORSLBCSE](http://oom.lt/FZEINDUCTORSLBCSE)
+- Short Link: [http://oom.lt/FZEINSLBCSE](http://oom.lt/FZEINSLBCSE)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|inductors|
 |OOMP Index|oompIndex|LBC-SE|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-inductors-LBC-SE|
-|Hex ID (short code)|hexID|FZEINDUCTORSLBCSE|
+|Hex ID (short code)|hexID|FZEINSLBCSE|
 |name|name|inductors : LBC-SE|
 ||||

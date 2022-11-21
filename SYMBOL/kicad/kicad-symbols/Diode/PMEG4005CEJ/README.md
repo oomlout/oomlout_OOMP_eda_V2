@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG4005CEJ
 - Hex ID: SZKDIODEPMEG45CEJ
 - Name: Diode : PMEG4005CEJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG4005CEJ/
 - Description: Diode : PMEG4005CEJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG4005CEJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG4005CEJ)
 - Short Link: [http://oom.lt/SZKDIODEPMEG45CEJ](http://oom.lt/SZKDIODEPMEG45CEJ)

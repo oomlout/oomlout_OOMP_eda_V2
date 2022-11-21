@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PWSON-N10
 - Hex ID: FZKSONTEXASSPWSONN1
 - Name: Package_SON : Texas_S-PWSON-N10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PWSON-N10/
 - Description: Package_SON : Texas_S-PWSON-N10
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PWSON-N10](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PWSON-N10)
 - Short Link: [http://oom.lt/FZKSONTEXASSPWSONN1](http://oom.lt/FZKSONTEXASSPWSONN1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73133DBV
 - Hex ID: SZKREGULATORLINEARTPS73133DBV
 - Name: Regulator_Linear : TPS73133DBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS73133DBV/
 - Description: Regulator_Linear : TPS73133DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73133DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73133DBV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS73133DBV](http://oom.lt/SZKREGULATORLINEARTPS73133DBV)

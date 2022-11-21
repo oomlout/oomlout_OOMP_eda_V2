@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAS40-04
 - Hex ID: SZKDIODEBAS44
 - Name: Diode : BAS40-04
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAS40-04/
 - Description: Diode : BAS40-04
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS40-04](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS40-04)
 - Short Link: [http://oom.lt/SZKDIODEBAS44](http://oom.lt/SZKDIODEBAS44)

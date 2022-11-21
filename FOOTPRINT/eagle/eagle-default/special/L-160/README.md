@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-L-160
 - Hex ID: FZESPECIALL16
 - Name: special : L-160
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/L-160/
 - Description: special : L-160
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-L-160](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-L-160)
 - Short Link: [http://oom.lt/FZESPECIALL16](http://oom.lt/FZESPECIALL16)

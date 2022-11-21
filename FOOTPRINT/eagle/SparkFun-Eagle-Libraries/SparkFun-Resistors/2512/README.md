@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-2512
 - Hex ID: FZSR2512
 - Name: SparkFun-Resistors : 2512
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/2512/
 - Description: SparkFun-Resistors : 2512
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-2512](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-2512)
 - Short Link: [http://oom.lt/FZSR2512](http://oom.lt/FZSR2512)

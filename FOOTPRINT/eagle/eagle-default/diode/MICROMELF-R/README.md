@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-MICROMELF-R
 - Hex ID: FZEDIODEELFR
 - Name: diode : MICROMELF-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/MICROMELF-R/
 - Description: diode : MICROMELF-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-MICROMELF-R](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-MICROMELF-R)
 - Short Link: [http://oom.lt/FZEDIODEELFR](http://oom.lt/FZEDIODEELFR)

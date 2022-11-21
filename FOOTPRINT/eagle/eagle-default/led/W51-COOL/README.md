@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-W51-COOL
 - Hex ID: FZELW51COOL
 - Name: led : W51-COOL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/W51-COOL/
 - Description: led : W51-COOL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-W51-COOL](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-W51-COOL)
 - Short Link: [http://oom.lt/FZELW51COOL](http://oom.lt/FZELW51COOL)

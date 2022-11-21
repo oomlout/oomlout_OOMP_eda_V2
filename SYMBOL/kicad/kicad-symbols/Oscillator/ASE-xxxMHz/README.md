@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-ASE-xxxMHz
 - Hex ID: SZKOCSASEXXXMHZ
 - Name: Oscillator : ASE-xxxMHz
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/ASE-xxxMHz/
 - Description: Oscillator : ASE-xxxMHz
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASE-xxxMHz](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASE-xxxMHz)
 - Short Link: [http://oom.lt/SZKOCSASEXXXMHZ](http://oom.lt/SZKOCSASEXXXMHZ)

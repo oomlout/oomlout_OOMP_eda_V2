@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-FL02-08
 - Hex ID: FZETRAFOFL28
 - Name: trafo : FL02-08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/FL02-08/
 - Description: trafo : FL02-08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FL02-08](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FL02-08)
 - Short Link: [http://oom.lt/FZETRAFOFL28](http://oom.lt/FZETRAFOFL28)

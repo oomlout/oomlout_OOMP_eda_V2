@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-A3P125-VQG100
 - Hex ID: SZKFPGAMSEMIA3P125VQG1
 - Name: FPGA_Microsemi : A3P125-VQG100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/A3P125-VQG100/
 - Description: FPGA_Microsemi : A3P125-VQG100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-A3P125-VQG100](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-A3P125-VQG100)
 - Short Link: [http://oom.lt/SZKFPGAMSEMIA3P125VQG1](http://oom.lt/SZKFPGAMSEMIA3P125VQG1)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Kemet_EC2
 - Hex ID: FZKRELRELAYDPDTKEMETEC2
 - Name: Relay_THT : Relay_DPDT_Kemet_EC2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Kemet_EC2/
 - Description: Relay_THT : Relay_DPDT_Kemet_EC2
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Kemet_EC2](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Kemet_EC2)
 - Short Link: [http://oom.lt/FZKRELRELAYDPDTKEMETEC2](http://oom.lt/FZKRELRELAYDPDTKEMETEC2)

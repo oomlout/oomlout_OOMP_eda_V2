@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_THD_15-xxxxWIN_THT
 - Hex ID: FZKCONCONTRACOTHD15XXXXWINTHT
 - Name: Converter_DCDC : Converter_DCDC_TRACO_THD_15-xxxxWIN_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_THD_15-xxxxWIN_THT/
 - Description: Converter_DCDC : Converter_DCDC_TRACO_THD_15-xxxxWIN_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_THD_15-xxxxWIN_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_THD_15-xxxxWIN_THT)
 - Short Link: [http://oom.lt/FZKCONCONTRACOTHD15XXXXWINTHT](http://oom.lt/FZKCONCONTRACOTHD15XXXXWINTHT)

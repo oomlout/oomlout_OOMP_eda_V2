@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-deutsch-AS16-08
 - Hex ID: FZECONDEUTSCHAS168
 - Name: con-deutsch : AS16-08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-deutsch/AS16-08/
 - Description: con-deutsch : AS16-08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS16-08](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS16-08)
 - Short Link: [http://oom.lt/FZECONDEUTSCHAS168](http://oom.lt/FZECONDEUTSCHAS168)

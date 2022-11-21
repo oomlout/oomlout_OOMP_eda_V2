@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-AD9837
 - Hex ID: FZSISAD9837
 - Name: SparkFun-IC-Special-Function : AD9837
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/AD9837/
 - Description: SparkFun-IC-Special-Function : AD9837
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-AD9837](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-AD9837)
 - Short Link: [http://oom.lt/FZSISAD9837](http://oom.lt/FZSISAD9837)

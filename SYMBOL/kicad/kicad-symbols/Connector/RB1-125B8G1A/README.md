@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RB1-125B8G1A
 - Hex ID: SZKCNRB1125B8G1A
 - Name: Connector : RB1-125B8G1A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RB1-125B8G1A/
 - Description: Connector : RB1-125B8G1A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RB1-125B8G1A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RB1-125B8G1A)
 - Short Link: [http://oom.lt/SZKCNRB1125B8G1A](http://oom.lt/SZKCNRB1125B8G1A)

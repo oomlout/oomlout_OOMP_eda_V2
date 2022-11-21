@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-LAL04KB
 - Hex ID: FZERCLLAL4KB
 - Name: rcl : LAL04KB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/LAL04KB/
 - Description: rcl : LAL04KB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-LAL04KB](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-LAL04KB)
 - Short Link: [http://oom.lt/FZERCLLAL4KB](http://oom.lt/FZERCLLAL4KB)

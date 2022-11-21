@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-EB30D
 - Hex ID: FZERCLEB3D
 - Name: rcl : EB30D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/EB30D/
 - Description: rcl : EB30D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-EB30D](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-EB30D)
 - Short Link: [http://oom.lt/FZERCLEB3D](http://oom.lt/FZERCLEB3D)

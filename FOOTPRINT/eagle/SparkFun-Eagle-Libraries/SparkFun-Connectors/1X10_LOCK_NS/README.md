@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X10_LOCK_NS
 - Hex ID: FZSSPARKFUNCNS1X1LNS
 - Name: SparkFun-Connectors : 1X10_LOCK_NS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X10_LOCK_NS/
 - Description: SparkFun-Connectors : 1X10_LOCK_NS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X10_LOCK_NS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X10_LOCK_NS)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X1LNS](http://oom.lt/FZSSPARKFUNCNS1X1LNS)

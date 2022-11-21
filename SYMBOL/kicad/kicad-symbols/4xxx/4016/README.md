@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-4016
 - Hex ID: SZK4XXX416
 - Name: 4xxx : 4016
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx/4016/
 - Description: 4xxx : 4016
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4016](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4016)
 - Short Link: [http://oom.lt/SZK4XXX416](http://oom.lt/SZK4XXX416)

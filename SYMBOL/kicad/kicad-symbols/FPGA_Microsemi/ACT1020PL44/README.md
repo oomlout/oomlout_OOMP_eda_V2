@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1020PL44
 - Hex ID: SZKFPGAMSEMIACT12PL44
 - Name: FPGA_Microsemi : ACT1020PL44
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1020PL44/
 - Description: FPGA_Microsemi : ACT1020PL44
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1020PL44](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1020PL44)
 - Short Link: [http://oom.lt/SZKFPGAMSEMIACT12PL44](http://oom.lt/SZKFPGAMSEMIACT12PL44)

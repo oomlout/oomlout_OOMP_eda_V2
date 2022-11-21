@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SM420561N
 - Hex ID: SZKDICHARACTERSM42561N
 - Name: Display_Character : SM420561N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/SM420561N/
 - Description: Display_Character : SM420561N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SM420561N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SM420561N)
 - Short Link: [http://oom.lt/SZKDICHARACTERSM42561N](http://oom.lt/SZKDICHARACTERSM42561N)

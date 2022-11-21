@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN08K
 - Hex ID: FZECONYAMAICHIMDIN8K
 - Name: con-yamaichi : MDIN08K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-yamaichi/MDIN08K/
 - Description: con-yamaichi : MDIN08K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN08K](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN08K)
 - Short Link: [http://oom.lt/FZECONYAMAICHIMDIN8K](http://oom.lt/FZECONYAMAICHIMDIN8K)

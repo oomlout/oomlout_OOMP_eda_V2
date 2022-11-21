@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AS13704
 - Hex ID: SZKAMPLIFIEROPERATIONALAS1374
 - Name: Amplifier_Operational : AS13704
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/AS13704/
 - Description: Amplifier_Operational : AS13704
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AS13704](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AS13704)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALAS1374](http://oom.lt/SZKAMPLIFIEROPERATIONALAS1374)

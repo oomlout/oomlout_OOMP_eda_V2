@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-sram-TSOP1-28-R
 - Hex ID: FZEMEMORYSRAMTS128R
 - Name: memory-sram : TSOP1-28-R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-sram/TSOP1-28-R/
 - Description: memory-sram : TSOP1-28-R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-TSOP1-28-R](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-TSOP1-28-R)
 - Short Link: [http://oom.lt/FZEMEMORYSRAMTS128R](http://oom.lt/FZEMEMORYSRAMTS128R)

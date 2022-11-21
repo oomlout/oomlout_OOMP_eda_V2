@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP32S40F
 - Hex ID: SZKINTERFACEOPTICALTS32S4F
 - Name: Interface_Optical : TSOP32S40F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSOP32S40F/
 - Description: Interface_Optical : TSOP32S40F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP32S40F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP32S40F)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTS32S4F](http://oom.lt/SZKINTERFACEOPTICALTS32S4F)

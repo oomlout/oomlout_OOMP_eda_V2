@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ARDUINO_R3_NO_HOLES
 - Hex ID: FZSBOARDR3NOH
 - Name: SparkFun-Boards : ARDUINO_R3_NO_HOLES
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/ARDUINO_R3_NO_HOLES/
 - Description: SparkFun-Boards : ARDUINO_R3_NO_HOLES
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ARDUINO_R3_NO_HOLES](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ARDUINO_R3_NO_HOLES)
 - Short Link: [http://oom.lt/FZSBOARDR3NOH](http://oom.lt/FZSBOARDR3NOH)

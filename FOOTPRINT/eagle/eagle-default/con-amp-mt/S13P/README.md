@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-mt-S13P
 - Hex ID: FZECONAMPMTS13P
 - Name: con-amp-mt : S13P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-mt/S13P/
 - Description: con-amp-mt : S13P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-S13P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-S13P)
 - Short Link: [http://oom.lt/FZECONAMPMTS13P](http://oom.lt/FZECONAMPMTS13P)

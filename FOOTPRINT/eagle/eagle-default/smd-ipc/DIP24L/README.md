@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESMIPCDIP24L > smd-ipc : DIP24L](#fzesmipcdip24l--smd-ipc--dip24l)
+* [FZESMIPCD24L > smd-ipc : DIP24L](#fzesmipcd24l--smd-ipc--dip24l)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESMIPCDIP24L > smd-ipc : DIP24L
+# FZESMIPCD24L > smd-ipc : DIP24L
 
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-DIP24L
-- Hex ID: FZESMIPCDIP24L
+- Hex ID: FZESMIPCD24L
 - Name: smd-ipc : DIP24L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/DIP24L/
 - Description: smd-ipc : DIP24L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-DIP24L](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-DIP24L)
-- Short Link: [http://oom.lt/FZESMIPCDIP24L](http://oom.lt/FZESMIPCDIP24L)
+- Short Link: [http://oom.lt/FZESMIPCD24L](http://oom.lt/FZESMIPCD24L)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|smd-ipc|
 |OOMP Index|oompIndex|DIP24L|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-smd-ipc-DIP24L|
-|Hex ID (short code)|hexID|FZESMIPCDIP24L|
+|Hex ID (short code)|hexID|FZESMIPCD24L|
 |name|name|smd-ipc : DIP24L|
 ||||

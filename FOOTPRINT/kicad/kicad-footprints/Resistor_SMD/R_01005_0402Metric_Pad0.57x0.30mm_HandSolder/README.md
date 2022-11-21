@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKRESISTORSMR1542METRICPAD57X3HANDSOLDER > Resistor_SMD : R_01005_0402Metric_Pad0.57x0.30mm_HandSolder](#fzkresistorsmr1542metricpad57x3handsolder--resistor_smd--r_01005_0402metric_pad057x030mm_handsolder)
+* [FZKRR1542VAP57X3HSOLDER > Resistor_SMD : R_01005_0402Metric_Pad0.57x0.30mm_HandSolder](#fzkrr1542vap57x3hsolder--resistor_smd--r_01005_0402metric_pad057x030mm_handsolder)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKRESISTORSMR1542METRICPAD57X3HANDSOLDER > Resistor_SMD : R_01005_0402Metric_Pad0.57x0.30mm_HandSolder
+# FZKRR1542VAP57X3HSOLDER > Resistor_SMD : R_01005_0402Metric_Pad0.57x0.30mm_HandSolder
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_01005_0402Metric_Pad0.57x0.30mm_HandSolder
-- Hex ID: FZKRESISTORSMR1542METRICPAD57X3HANDSOLDER
+- Hex ID: FZKRR1542VAP57X3HSOLDER
 - Name: Resistor_SMD : R_01005_0402Metric_Pad0.57x0.30mm_HandSolder
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_01005_0402Metric_Pad0.57x0.30mm_HandSolder/
 - Description: Resistor_SMD : R_01005_0402Metric_Pad0.57x0.30mm_HandSolder
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_01005_0402Metric_Pad0.57x0.30mm_HandSolder](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_01005_0402Metric_Pad0.57x0.30mm_HandSolder)
-- Short Link: [http://oom.lt/FZKRESISTORSMR1542METRICPAD57X3HANDSOLDER](http://oom.lt/FZKRESISTORSMR1542METRICPAD57X3HANDSOLDER)
+- Short Link: [http://oom.lt/FZKRR1542VAP57X3HSOLDER](http://oom.lt/FZKRR1542VAP57X3HSOLDER)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Resistor_SMD|
 |OOMP Index|oompIndex|R_01005_0402Metric_Pad0.57x0.30mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_01005_0402Metric_Pad0.57x0.30mm_HandSolder|
-|Hex ID (short code)|hexID|FZKRESISTORSMR1542METRICPAD57X3HANDSOLDER|
+|Hex ID (short code)|hexID|FZKRR1542VAP57X3HSOLDER|
 |name|name|Resistor_SMD : R_01005_0402Metric_Pad0.57x0.30mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_01005_0402Metric_Pad0.57x0.30mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Resistor SMD 01005 (0402 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal with elongated pad for handsoldering. (Body size source</td></tr><tr><td> http</td></tr><tr><td>//www.vishay.com/docs/20056/crcw01005e3.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_01005_0402Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

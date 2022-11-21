@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-wafer-scale-psd-TQFP44
 - Hex ID: FZEWAFERSCALEPSDTQFP44
 - Name: wafer-scale-psd : TQFP44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/wafer-scale-psd/TQFP44/
 - Description: wafer-scale-psd : TQFP44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-wafer-scale-psd-TQFP44](http://oom.lt/FOOTPRINT-eagle-eagle-default-wafer-scale-psd-TQFP44)
 - Short Link: [http://oom.lt/FZEWAFERSCALEPSDTQFP44](http://oom.lt/FZEWAFERSCALEPSDTQFP44)

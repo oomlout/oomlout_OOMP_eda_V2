@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNQFN241EP3X4P4EP165X265THERMALVIAS > Package_DFN_QFN : QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm_ThermalVias](#fzkdfnqfn241ep3x4p4ep165x265thermalvias--package_dfn_qfn--qfn-24-1ep_3x4mm_p04mm_ep165x265mm_thermalvias)
+* [FZKDFNQFN241EP3X4P4EP165X265THV > Package_DFN_QFN : QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm_ThermalVias](#fzkdfnqfn241ep3x4p4ep165x265thv--package_dfn_qfn--qfn-24-1ep_3x4mm_p04mm_ep165x265mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNQFN241EP3X4P4EP165X265THERMALVIAS > Package_DFN_QFN : QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm_ThermalVias
+# FZKDFNQFN241EP3X4P4EP165X265THV > Package_DFN_QFN : QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm_ThermalVias
-- Hex ID: FZKDFNQFN241EP3X4P4EP165X265THERMALVIAS
+- Hex ID: FZKDFNQFN241EP3X4P4EP165X265THV
 - Name: Package_DFN_QFN : QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm_ThermalVias/
 - Description: Package_DFN_QFN : QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNQFN241EP3X4P4EP165X265THERMALVIAS](http://oom.lt/FZKDFNQFN241EP3X4P4EP165X265THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNQFN241EP3X4P4EP165X265THV](http://oom.lt/FZKDFNQFN241EP3X4P4EP165X265THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNQFN241EP3X4P4EP165X265THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNQFN241EP3X4P4EP165X265THV|
 |name|name|Package_DFN_QFN : QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 24 Pin (http</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_20_05-08-1742.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

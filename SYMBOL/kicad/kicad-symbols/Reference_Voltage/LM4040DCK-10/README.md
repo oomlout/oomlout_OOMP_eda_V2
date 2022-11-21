@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040DCK-10
 - Hex ID: SZKREFERENCEVOLTAGELM44DCK1
 - Name: Reference_Voltage : LM4040DCK-10
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LM4040DCK-10/
 - Description: Reference_Voltage : LM4040DCK-10
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040DCK-10](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040DCK-10)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM44DCK1](http://oom.lt/SZKREFERENCEVOLTAGELM44DCK1)

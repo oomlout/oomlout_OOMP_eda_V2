@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Earth_Protective_Small
 - Hex ID: SZKGRAPHICSYMEARTHPROTECTIVESLL
 - Name: Graphic : SYM_Earth_Protective_Small
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Earth_Protective_Small/
 - Description: Graphic : SYM_Earth_Protective_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Earth_Protective_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Earth_Protective_Small)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMEARTHPROTECTIVESLL](http://oom.lt/SZKGRAPHICSYMEARTHPROTECTIVESLL)

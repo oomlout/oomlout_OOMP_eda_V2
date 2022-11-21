@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-champ-36V
 - Hex ID: FZECONAMPCHAMP36V
 - Name: con-amp-champ : 36V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-champ/36V/
 - Description: con-amp-champ : 36V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-champ-36V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-champ-36V)
 - Short Link: [http://oom.lt/FZECONAMPCHAMP36V](http://oom.lt/FZECONAMPCHAMP36V)

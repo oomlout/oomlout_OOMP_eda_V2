@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNBARRELJBARRELJCLIFFFC681465SSHORIZONTAL > Connector_BarrelJack : BarrelJack_CLIFF_FC681465S_SMT_Horizontal](#fzkcnbarreljbarreljclifffc681465sshorizontal--connector_barreljack--barreljack_cliff_fc681465s_smt_horizontal)
+* [FZKCNBARRELJBARRELJCLIFFFC681465SSH > Connector_BarrelJack : BarrelJack_CLIFF_FC681465S_SMT_Horizontal](#fzkcnbarreljbarreljclifffc681465ssh--connector_barreljack--barreljack_cliff_fc681465s_smt_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNBARRELJBARRELJCLIFFFC681465SSHORIZONTAL > Connector_BarrelJack : BarrelJack_CLIFF_FC681465S_SMT_Horizontal
+# FZKCNBARRELJBARRELJCLIFFFC681465SSH > Connector_BarrelJack : BarrelJack_CLIFF_FC681465S_SMT_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CLIFF_FC681465S_SMT_Horizontal
-- Hex ID: FZKCNBARRELJBARRELJCLIFFFC681465SSHORIZONTAL
+- Hex ID: FZKCNBARRELJBARRELJCLIFFFC681465SSH
 - Name: Connector_BarrelJack : BarrelJack_CLIFF_FC681465S_SMT_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_CLIFF_FC681465S_SMT_Horizontal/
 - Description: Connector_BarrelJack : BarrelJack_CLIFF_FC681465S_SMT_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CLIFF_FC681465S_SMT_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CLIFF_FC681465S_SMT_Horizontal)
-- Short Link: [http://oom.lt/FZKCNBARRELJBARRELJCLIFFFC681465SSHORIZONTAL](http://oom.lt/FZKCNBARRELJBARRELJCLIFFFC681465SSHORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNBARRELJBARRELJCLIFFFC681465SSH](http://oom.lt/FZKCNBARRELJBARRELJCLIFFFC681465SSH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_BarrelJack|
 |OOMP Index|oompIndex|BarrelJack_CLIFF_FC681465S_SMT_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CLIFF_FC681465S_SMT_Horizontal|
-|Hex ID (short code)|hexID|FZKCNBARRELJBARRELJCLIFFFC681465SSHORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNBARRELJBARRELJCLIFFFC681465SSH|
 |name|name|Connector_BarrelJack : BarrelJack_CLIFF_FC681465S_SMT_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BarrelJack_CLIFF_FC681465S_SMT_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Surface-mount DC Barrel Jack</td><td> https</td></tr><tr><td>//www.cliffuk.co.uk/products/dcconnectors/FC681465S.pdf'</td><td> 'tags'</td></tr><tr><td> 'Power Jack SMT'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_BarrelJack.3dshapes/BarrelJack_CLIFF_FC681465S_SMT_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

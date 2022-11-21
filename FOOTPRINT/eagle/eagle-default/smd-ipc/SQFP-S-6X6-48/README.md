@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-6X6-48
 - Hex ID: FZESMIPCSQFPS6X648
 - Name: smd-ipc : SQFP-S-6X6-48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SQFP-S-6X6-48/
 - Description: smd-ipc : SQFP-S-6X6-48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-6X6-48](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-6X6-48)
 - Short Link: [http://oom.lt/FZESMIPCSQFPS6X648](http://oom.lt/FZESMIPCSQFPS6X648)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNAUDIOJ635NEUTRIKNSJ12HLHORIZONTAL > Connector_Audio : Jack_6.35mm_Neutrik_NSJ12HL_Horizontal](#fzkcnaudioj635neutriknsj12hlhorizontal--connector_audio--jack_635mm_neutrik_nsj12hl_horizontal)
+* [FZKCNAUDIOJ635NEUTRIKNSJ12HLH > Connector_Audio : Jack_6.35mm_Neutrik_NSJ12HL_Horizontal](#fzkcnaudioj635neutriknsj12hlh--connector_audio--jack_635mm_neutrik_nsj12hl_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJ635NEUTRIKNSJ12HLHORIZONTAL > Connector_Audio : Jack_6.35mm_Neutrik_NSJ12HL_Horizontal
+# FZKCNAUDIOJ635NEUTRIKNSJ12HLH > Connector_Audio : Jack_6.35mm_Neutrik_NSJ12HL_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NSJ12HL_Horizontal
-- Hex ID: FZKCNAUDIOJ635NEUTRIKNSJ12HLHORIZONTAL
+- Hex ID: FZKCNAUDIOJ635NEUTRIKNSJ12HLH
 - Name: Connector_Audio : Jack_6.35mm_Neutrik_NSJ12HL_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NSJ12HL_Horizontal/
 - Description: Connector_Audio : Jack_6.35mm_Neutrik_NSJ12HL_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NSJ12HL_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NSJ12HL_Horizontal)
-- Short Link: [http://oom.lt/FZKCNAUDIOJ635NEUTRIKNSJ12HLHORIZONTAL](http://oom.lt/FZKCNAUDIOJ635NEUTRIKNSJ12HLHORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJ635NEUTRIKNSJ12HLH](http://oom.lt/FZKCNAUDIOJ635NEUTRIKNSJ12HLH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_6.35mm_Neutrik_NSJ12HL_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NSJ12HL_Horizontal|
-|Hex ID (short code)|hexID|FZKCNAUDIOJ635NEUTRIKNSJ12HLHORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJ635NEUTRIKNSJ12HLH|
 |name|name|Connector_Audio : Jack_6.35mm_Neutrik_NSJ12HL_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_6.35mm_Neutrik_NSJ12HL_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Stacking Jacks</td><td> Stereo dual jack</td><td> quick fix nose</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nsj12hl'</td><td> 'tags'</td></tr><tr><td> 'neutrik jack stacking'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NSJ12HL_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

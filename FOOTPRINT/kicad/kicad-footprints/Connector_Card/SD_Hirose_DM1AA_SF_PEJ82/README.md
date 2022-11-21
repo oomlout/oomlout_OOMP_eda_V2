@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Hirose_DM1AA_SF_PEJ82
 - Hex ID: FZKCNCARDSDHIROSEDM1AASFPEJ82
 - Name: Connector_Card : SD_Hirose_DM1AA_SF_PEJ82
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Hirose_DM1AA_SF_PEJ82/
 - Description: Connector_Card : SD_Hirose_DM1AA_SF_PEJ82
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Hirose_DM1AA_SF_PEJ82](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Hirose_DM1AA_SF_PEJ82)
 - Short Link: [http://oom.lt/FZKCNCARDSDHIROSEDM1AASFPEJ82](http://oom.lt/FZKCNCARDSDHIROSEDM1AASFPEJ82)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-CUS
 - Hex ID: FZETEXASCUS
 - Name: texas : CUS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/CUS/
 - Description: texas : CUS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-CUS](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-CUS)
 - Short Link: [http://oom.lt/FZETEXASCUS](http://oom.lt/FZETEXASCUS)

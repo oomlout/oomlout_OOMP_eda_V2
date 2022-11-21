@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BA282
 - Hex ID: SZKDIODEBA282
 - Name: Diode : BA282
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BA282/
 - Description: Diode : BA282
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA282](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA282)
 - Short Link: [http://oom.lt/SZKDIODEBA282](http://oom.lt/SZKDIODEBA282)

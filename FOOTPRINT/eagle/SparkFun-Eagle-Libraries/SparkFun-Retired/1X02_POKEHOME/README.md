@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-1X02_POKEHOME
 - Hex ID: FZSRT1X2POKEHOME
 - Name: SparkFun-Retired : 1X02_POKEHOME
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/1X02_POKEHOME/
 - Description: SparkFun-Retired : 1X02_POKEHOME
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-1X02_POKEHOME](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-1X02_POKEHOME)
 - Short Link: [http://oom.lt/FZSRT1X2POKEHOME](http://oom.lt/FZSRT1X2POKEHOME)

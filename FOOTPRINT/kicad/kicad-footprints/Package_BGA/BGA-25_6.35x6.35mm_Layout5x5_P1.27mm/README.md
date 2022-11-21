@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-25_6.35x6.35mm_Layout5x5_P1.27mm
 - Hex ID: FZKBGABGA25635X635LAYOUT5X5P127
 - Name: Package_BGA : BGA-25_6.35x6.35mm_Layout5x5_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-25_6.35x6.35mm_Layout5x5_P1.27mm/
 - Description: Package_BGA : BGA-25_6.35x6.35mm_Layout5x5_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-25_6.35x6.35mm_Layout5x5_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-25_6.35x6.35mm_Layout5x5_P1.27mm)
 - Short Link: [http://oom.lt/FZKBGABGA25635X635LAYOUT5X5P127](http://oom.lt/FZKBGABGA25635X635LAYOUT5X5P127)

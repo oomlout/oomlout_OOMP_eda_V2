@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microwave-QFN16
 - Hex ID: FZEMWAVEQFN16
 - Name: microwave : QFN16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microwave/QFN16/
 - Description: microwave : QFN16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microwave-QFN16](http://oom.lt/FOOTPRINT-eagle-eagle-default-microwave-QFN16)
 - Short Link: [http://oom.lt/FZEMWAVEQFN16](http://oom.lt/FZEMWAVEQFN16)

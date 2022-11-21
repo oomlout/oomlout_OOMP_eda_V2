@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HP5082_
 - Hex ID: FZEDIHPHP582
 - Name: display-hp : HP5082_
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-hp/HP5082_/
 - Description: display-hp : HP5082_
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HP5082_](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HP5082_)
 - Short Link: [http://oom.lt/FZEDIHPHP582](http://oom.lt/FZEDIHPHP582)

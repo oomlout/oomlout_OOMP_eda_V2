@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-AB9V
 - Hex ID: FZEBATAB9V
 - Name: battery : AB9V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/AB9V/
 - Description: battery : AB9V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-AB9V](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-AB9V)
 - Short Link: [http://oom.lt/FZEBATAB9V](http://oom.lt/FZEBATAB9V)

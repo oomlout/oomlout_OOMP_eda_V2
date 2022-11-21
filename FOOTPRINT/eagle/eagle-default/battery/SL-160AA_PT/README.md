@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-battery-SL-160AA_PT
 - Hex ID: FZEBATSL16AAPT
 - Name: battery : SL-160AA_PT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/battery/SL-160AA_PT/
 - Description: battery : SL-160AA_PT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-SL-160AA_PT](http://oom.lt/FOOTPRINT-eagle-eagle-default-battery-SL-160AA_PT)
 - Short Link: [http://oom.lt/FZEBATSL16AAPT](http://oom.lt/FZEBATSL16AAPT)

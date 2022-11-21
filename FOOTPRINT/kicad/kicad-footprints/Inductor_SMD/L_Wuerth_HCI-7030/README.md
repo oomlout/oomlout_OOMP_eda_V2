@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLWUERTHHCI73 > Inductor_SMD : L_Wuerth_HCI-7030](#fzkinductorsmlwuerthhci73--inductor_smd--l_wuerth_hci-7030)
+* [FZKINLWUERTHHCI73 > Inductor_SMD : L_Wuerth_HCI-7030](#fzkinlwuerthhci73--inductor_smd--l_wuerth_hci-7030)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLWUERTHHCI73 > Inductor_SMD : L_Wuerth_HCI-7030
+# FZKINLWUERTHHCI73 > Inductor_SMD : L_Wuerth_HCI-7030
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-7030
-- Hex ID: FZKINDUCTORSMLWUERTHHCI73
+- Hex ID: FZKINLWUERTHHCI73
 - Name: Inductor_SMD : L_Wuerth_HCI-7030
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCI-7030/
 - Description: Inductor_SMD : L_Wuerth_HCI-7030
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-7030](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-7030)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLWUERTHHCI73](http://oom.lt/FZKINDUCTORSMLWUERTHHCI73)
+- Short Link: [http://oom.lt/FZKINLWUERTHHCI73](http://oom.lt/FZKINLWUERTHHCI73)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Wuerth_HCI-7030|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-7030|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHHCI73|
+|Hex ID (short code)|hexID|FZKINLWUERTHHCI73|
 |name|name|Inductor_SMD : L_Wuerth_HCI-7030|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_HCI-7030'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Wuerth Elektronik</td><td> Wuerth_HCI-7030</td><td> 6.9mmx6.9mm'</td><td> 'tags'</td></tr><tr><td> 'inductor Wuerth hci smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_HCI-7030.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

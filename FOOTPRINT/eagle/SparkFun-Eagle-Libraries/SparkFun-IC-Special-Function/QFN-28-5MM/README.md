@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-QFN-28-5MM
 - Hex ID: FZSISQFN285
 - Name: SparkFun-IC-Special-Function : QFN-28-5MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/QFN-28-5MM/
 - Description: SparkFun-IC-Special-Function : QFN-28-5MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-QFN-28-5MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-QFN-28-5MM)
 - Short Link: [http://oom.lt/FZSISQFN285](http://oom.lt/FZSISQFN285)

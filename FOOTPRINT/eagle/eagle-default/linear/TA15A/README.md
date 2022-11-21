@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-TA15A
 - Hex ID: FZELINEARTA15A
 - Name: linear : TA15A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/TA15A/
 - Description: linear : TA15A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TA15A](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TA15A)
 - Short Link: [http://oom.lt/FZELINEARTA15A](http://oom.lt/FZELINEARTA15A)

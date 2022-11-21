@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-kycon-KLDVX-0202-A
 - Hex ID: FZECONKYCONKLDVX22A
 - Name: con-kycon : KLDVX-0202-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-kycon/KLDVX-0202-A/
 - Description: con-kycon : KLDVX-0202-A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-kycon-KLDVX-0202-A](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-kycon-KLDVX-0202-A)
 - Short Link: [http://oom.lt/FZECONKYCONKLDVX22A](http://oom.lt/FZECONKYCONKLDVX22A)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirose-FH21-26S-1DS
 - Hex ID: FZECONHIROSEFH2126S1DS
 - Name: con-hirose : FH21-26S-1DS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirose/FH21-26S-1DS/
 - Description: con-hirose : FH21-26S-1DS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-FH21-26S-1DS](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirose-FH21-26S-1DS)
 - Short Link: [http://oom.lt/FZECONHIROSEFH2126S1DS](http://oom.lt/FZECONHIROSEFH2126S1DS)

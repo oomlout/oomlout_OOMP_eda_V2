@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-idt-BGA240
 - Hex ID: FZEMEMORYIDTBGA24
 - Name: memory-idt : BGA240
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-idt/BGA240/
 - Description: memory-idt : BGA240
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-BGA240](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-idt-BGA240)
 - Short Link: [http://oom.lt/FZEMEMORYIDTBGA24](http://oom.lt/FZEMEMORYIDTBGA24)

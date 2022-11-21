@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TPIC6595
 - Hex ID: SZKINTERFACEEXPANSIONTPIC6595
 - Name: Interface_Expansion : TPIC6595
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TPIC6595/
 - Description: Interface_Expansion : TPIC6595
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TPIC6595](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TPIC6595)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTPIC6595](http://oom.lt/SZKINTERFACEEXPANSIONTPIC6595)

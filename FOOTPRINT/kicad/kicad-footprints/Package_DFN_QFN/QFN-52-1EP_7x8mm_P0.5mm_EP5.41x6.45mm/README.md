@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm
 - Hex ID: FZKDFNQFN521EP7X8P5EP541X645
 - Name: Package_DFN_QFN : QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm/
 - Description: Package_DFN_QFN : QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm)
 - Short Link: [http://oom.lt/FZKDFNQFN521EP7X8P5EP541X645](http://oom.lt/FZKDFNQFN521EP7X8P5EP541X645)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-CH340G
 - Hex ID: SZKINTERFACEUCH34G
 - Name: Interface_USB : CH340G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CH340G/
 - Description: Interface_USB : CH340G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CH340G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CH340G)
 - Short Link: [http://oom.lt/SZKINTERFACEUCH34G](http://oom.lt/SZKINTERFACEUCH34G)

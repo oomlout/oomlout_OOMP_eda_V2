@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESSOT346W > ref-packages : SOT346-W](#fzerefpackagessot346w--ref-packages--sot346-w)
+* [FZEREFPSSOT346W > ref-packages : SOT346-W](#fzerefpssot346w--ref-packages--sot346-w)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESSOT346W > ref-packages : SOT346-W
+# FZEREFPSSOT346W > ref-packages : SOT346-W
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOT346-W
-- Hex ID: FZEREFPACKAGESSOT346W
+- Hex ID: FZEREFPSSOT346W
 - Name: ref-packages : SOT346-W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/SOT346-W/
 - Description: ref-packages : SOT346-W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT346-W](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-SOT346-W)
-- Short Link: [http://oom.lt/FZEREFPACKAGESSOT346W](http://oom.lt/FZEREFPACKAGESSOT346W)
+- Short Link: [http://oom.lt/FZEREFPSSOT346W](http://oom.lt/FZEREFPSSOT346W)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|SOT346-W|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-SOT346-W|
-|Hex ID (short code)|hexID|FZEREFPACKAGESSOT346W|
+|Hex ID (short code)|hexID|FZEREFPSSOT346W|
 |name|name|ref-packages : SOT346-W|
 ||||

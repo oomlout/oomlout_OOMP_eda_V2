@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-freescale-QFP160
 - Hex ID: FZEFREESCALEQFP16
 - Name: freescale : QFP160
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/freescale/QFP160/
 - Description: freescale : QFP160
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-QFP160](http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-QFP160)
 - Short Link: [http://oom.lt/FZEFREESCALEQFP16](http://oom.lt/FZEFREESCALEQFP16)

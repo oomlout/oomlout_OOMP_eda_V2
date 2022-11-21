@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Driver_LED-DRV2510-Q1
 - Hex ID: SZKDRIVERLDRV251Q1
 - Name: Driver_LED : DRV2510-Q1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_LED/DRV2510-Q1/
 - Description: Driver_LED : DRV2510-Q1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_LED-DRV2510-Q1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_LED-DRV2510-Q1)
 - Short Link: [http://oom.lt/SZKDRIVERLDRV251Q1](http://oom.lt/SZKDRIVERLDRV251Q1)

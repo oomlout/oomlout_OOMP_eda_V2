@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Filled
 - Hex ID: SZKDEVICEDFILL
 - Name: Device : D_Filled
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Filled/
 - Description: Device : D_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Filled)
 - Short Link: [http://oom.lt/SZKDEVICEDFILL](http://oom.lt/SZKDEVICEDFILL)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM3488ExR
 - Hex ID: SZKINTERFACEUARTADM3488EXR
 - Name: Interface_UART : ADM3488ExR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/ADM3488ExR/
 - Description: Interface_UART : ADM3488ExR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM3488ExR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM3488ExR)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM3488EXR](http://oom.lt/SZKINTERFACEUARTADM3488EXR)

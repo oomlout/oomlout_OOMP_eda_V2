@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-HVQFN40
 - Hex ID: FZEMPHILIPSHVQFN4
 - Name: micro-philips : HVQFN40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/HVQFN40/
 - Description: micro-philips : HVQFN40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-HVQFN40](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-HVQFN40)
 - Short Link: [http://oom.lt/FZEMPHILIPSHVQFN4](http://oom.lt/FZEMPHILIPSHVQFN4)

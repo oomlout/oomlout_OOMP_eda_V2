@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1009F
 - Hex ID: SZKAMPLIFIERCURRENTZXCT19F
 - Name: Amplifier_Current : ZXCT1009F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/ZXCT1009F/
 - Description: Amplifier_Current : ZXCT1009F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1009F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1009F)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTZXCT19F](http://oom.lt/SZKAMPLIFIERCURRENTZXCT19F)

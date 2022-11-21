@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-SP0505BAJT
 - Hex ID: SZKPOWERPROTECTIONSP55BAJT
 - Name: Power_Protection : SP0505BAJT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/SP0505BAJT/
 - Description: Power_Protection : SP0505BAJT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SP0505BAJT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SP0505BAJT)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONSP55BAJT](http://oom.lt/SZKPOWERPROTECTIONSP55BAJT)

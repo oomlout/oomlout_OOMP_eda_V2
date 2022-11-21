@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Radiation_Filled
 - Hex ID: SZKDEVICEDRADIATIONFILL
 - Name: Device : D_Radiation_Filled
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Radiation_Filled/
 - Description: Device : D_Radiation_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Radiation_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Radiation_Filled)
 - Short Link: [http://oom.lt/SZKDEVICEDRADIATIONFILL](http://oom.lt/SZKDEVICEDRADIATIONFILL)

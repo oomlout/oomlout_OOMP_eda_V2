@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT2232D
 - Hex ID: SZKINTERFACEUFT2232D
 - Name: Interface_USB : FT2232D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FT2232D/
 - Description: Interface_USB : FT2232D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT2232D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT2232D)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT2232D](http://oom.lt/SZKINTERFACEUFT2232D)

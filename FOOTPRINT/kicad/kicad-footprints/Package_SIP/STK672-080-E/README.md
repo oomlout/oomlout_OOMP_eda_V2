@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-STK672-080-E
 - Hex ID: FZKSIPSTK6728E
 - Name: Package_SIP : STK672-080-E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/STK672-080-E/
 - Description: Package_SIP : STK672-080-E
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-STK672-080-E](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-STK672-080-E)
 - Short Link: [http://oom.lt/FZKSIPSTK6728E](http://oom.lt/FZKSIPSTK6728E)

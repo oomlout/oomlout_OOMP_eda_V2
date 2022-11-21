@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SNAP-MALE
 - Hex ID: FZSSPARKFUNCNSSNAPMALE
 - Name: SparkFun-Connectors : SNAP-MALE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/SNAP-MALE/
 - Description: SparkFun-Connectors : SNAP-MALE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SNAP-MALE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SNAP-MALE)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSSNAPMALE](http://oom.lt/FZSSPARKFUNCNSSNAPMALE)

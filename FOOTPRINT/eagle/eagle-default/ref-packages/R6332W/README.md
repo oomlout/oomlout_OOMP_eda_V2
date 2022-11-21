@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESR6332W > ref-packages : R6332W](#fzerefpackagesr6332w--ref-packages--r6332w)
+* [FZEREFPSR6332W > ref-packages : R6332W](#fzerefpsr6332w--ref-packages--r6332w)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESR6332W > ref-packages : R6332W
+# FZEREFPSR6332W > ref-packages : R6332W
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-R6332W
-- Hex ID: FZEREFPACKAGESR6332W
+- Hex ID: FZEREFPSR6332W
 - Name: ref-packages : R6332W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/R6332W/
 - Description: ref-packages : R6332W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-R6332W](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-R6332W)
-- Short Link: [http://oom.lt/FZEREFPACKAGESR6332W](http://oom.lt/FZEREFPACKAGESR6332W)
+- Short Link: [http://oom.lt/FZEREFPSR6332W](http://oom.lt/FZEREFPSR6332W)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|R6332W|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-R6332W|
-|Hex ID (short code)|hexID|FZEREFPACKAGESR6332W|
+|Hex ID (short code)|hexID|FZEREFPSR6332W|
 |name|name|ref-packages : R6332W|
 ||||

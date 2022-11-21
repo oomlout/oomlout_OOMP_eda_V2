@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-jae-JAE_TX24-50R-LT-H1E
 - Hex ID: FZECONJAEJAETX245RLTH1E
 - Name: con-jae : JAE_TX24-50R-LT-H1E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jae/JAE_TX24-50R-LT-H1E/
 - Description: con-jae : JAE_TX24-50R-LT-H1E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jae-JAE_TX24-50R-LT-H1E](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jae-JAE_TX24-50R-LT-H1E)
 - Short Link: [http://oom.lt/FZECONJAEJAETX245RLTH1E](http://oom.lt/FZECONJAEJAETX245RLTH1E)

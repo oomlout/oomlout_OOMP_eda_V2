@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ32_Shielded
 - Hex ID: SZKCNRJ32SHED
 - Name: Connector : RJ32_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ32_Shielded/
 - Description: Connector : RJ32_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ32_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ32_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ32SHED](http://oom.lt/SZKCNRJ32SHED)

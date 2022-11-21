@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-DFN12
 - Hex ID: FZELINEARTECHNOLOGYDFN12
 - Name: linear-technology : DFN12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/DFN12/
 - Description: linear-technology : DFN12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-DFN12](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-DFN12)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYDFN12](http://oom.lt/FZELINEARTECHNOLOGYDFN12)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-B340
 - Hex ID: SZKDIODEB34
 - Name: Diode : B340
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/B340/
 - Description: Diode : B340
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B340](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B340)
 - Short Link: [http://oom.lt/SZKDIODEB34](http://oom.lt/SZKDIODEB34)

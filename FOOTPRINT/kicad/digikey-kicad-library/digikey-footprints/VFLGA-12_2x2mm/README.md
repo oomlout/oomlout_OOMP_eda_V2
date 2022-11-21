@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFLGA122X2 > digikey-footprints : VFLGA-12_2x2mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsvflga122x2--digikey-footprints--vflga-12_2x2mm)
+* [FZDIGIDIGIKEYFOOTPRINTSVFLGA122X2 > digikey-footprints : VFLGA-12_2x2mm](#fzdigidigikeyfootprintsvflga122x2--digikey-footprints--vflga-12_2x2mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFLGA122X2 > digikey-footprints : VFLGA-12_2x2mm
+# FZDIGIDIGIKEYFOOTPRINTSVFLGA122X2 > digikey-footprints : VFLGA-12_2x2mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFLGA-12_2x2mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFLGA122X2
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSVFLGA122X2
 - Name: digikey-footprints : VFLGA-12_2x2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VFLGA-12_2x2mm/
 - Description: digikey-footprints : VFLGA-12_2x2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFLGA-12_2x2mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFLGA-12_2x2mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFLGA122X2](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFLGA122X2)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVFLGA122X2](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVFLGA122X2)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|VFLGA-12_2x2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFLGA-12_2x2mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFLGA122X2|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSVFLGA122X2|
 |name|name|digikey-footprints : VFLGA-12_2x2mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VFLGA-12_2x2mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/54/2a/85/76/e3/97/42/18/DM00075867.pdf/files/DM00075867.pdf/jcr</td></tr><tr><td>content/translations/en.DM00075867.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

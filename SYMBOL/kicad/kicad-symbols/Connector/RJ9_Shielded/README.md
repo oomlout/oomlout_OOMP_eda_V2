@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ9_Shielded
 - Hex ID: SZKCNRJ9SHED
 - Name: Connector : RJ9_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ9_Shielded/
 - Description: Connector : RJ9_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ9_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ9_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ9SHED](http://oom.lt/SZKCNRJ9SHED)

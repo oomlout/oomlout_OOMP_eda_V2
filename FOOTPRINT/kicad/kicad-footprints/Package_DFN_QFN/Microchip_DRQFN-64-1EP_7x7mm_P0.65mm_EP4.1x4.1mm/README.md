@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm
 - Hex ID: FZKDFNMCHIPDRQFN641EP7X7P65EP41X41
 - Name: Package_DFN_QFN : Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm/
 - Description: Package_DFN_QFN : Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm)
 - Short Link: [http://oom.lt/FZKDFNMCHIPDRQFN641EP7X7P65EP41X41](http://oom.lt/FZKDFNMCHIPDRQFN641EP7X7P65EP41X41)

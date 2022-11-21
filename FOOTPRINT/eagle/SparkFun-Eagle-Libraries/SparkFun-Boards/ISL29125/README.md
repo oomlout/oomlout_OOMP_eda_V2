@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ISL29125
 - Hex ID: FZSBOISL29125
 - Name: SparkFun-Boards : ISL29125
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/ISL29125/
 - Description: SparkFun-Boards : ISL29125
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ISL29125](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ISL29125)
 - Short Link: [http://oom.lt/FZSBOISL29125](http://oom.lt/FZSBOISL29125)

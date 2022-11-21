@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18324-xSL
 - Hex ID: SZKMCUMCHIPPIC16PIC16F18324XSL
 - Name: MCU_Microchip_PIC16 : PIC16F18324-xSL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F18324-xSL/
 - Description: MCU_Microchip_PIC16 : PIC16F18324-xSL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18324-xSL](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18324-xSL)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F18324XSL](http://oom.lt/SZKMCUMCHIPPIC16PIC16F18324XSL)

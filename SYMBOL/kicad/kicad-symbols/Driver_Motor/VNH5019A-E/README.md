@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-VNH5019A-E
 - Hex ID: SZKDRIVERMOTORVNH519AE
 - Name: Driver_Motor : VNH5019A-E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/VNH5019A-E/
 - Description: Driver_Motor : VNH5019A-E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-VNH5019A-E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-VNH5019A-E)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORVNH519AE](http://oom.lt/SZKDRIVERMOTORVNH519AE)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_SiPM
 - Hex ID: SZKDEVICEDSIPM
 - Name: Device : D_SiPM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_SiPM/
 - Description: Device : D_SiPM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_SiPM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_SiPM)
 - Short Link: [http://oom.lt/SZKDEVICEDSIPM](http://oom.lt/SZKDEVICEDSIPM)

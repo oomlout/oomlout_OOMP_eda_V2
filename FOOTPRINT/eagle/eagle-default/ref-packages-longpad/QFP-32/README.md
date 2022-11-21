@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADQFP32 > ref-packages-longpad : QFP-32](#fzerefpackageslongpadqfp32--ref-packages-longpad--qfp-32)
+* [FZEREFPSLPQFP32 > ref-packages-longpad : QFP-32](#fzerefpslpqfp32--ref-packages-longpad--qfp-32)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADQFP32 > ref-packages-longpad : QFP-32
+# FZEREFPSLPQFP32 > ref-packages-longpad : QFP-32
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QFP-32
-- Hex ID: FZEREFPACKAGESLONGPADQFP32
+- Hex ID: FZEREFPSLPQFP32
 - Name: ref-packages-longpad : QFP-32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/QFP-32/
 - Description: ref-packages-longpad : QFP-32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QFP-32](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QFP-32)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADQFP32](http://oom.lt/FZEREFPACKAGESLONGPADQFP32)
+- Short Link: [http://oom.lt/FZEREFPSLPQFP32](http://oom.lt/FZEREFPSLPQFP32)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|QFP-32|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QFP-32|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADQFP32|
+|Hex ID (short code)|hexID|FZEREFPSLPQFP32|
 |name|name|ref-packages-longpad : QFP-32|
 ||||

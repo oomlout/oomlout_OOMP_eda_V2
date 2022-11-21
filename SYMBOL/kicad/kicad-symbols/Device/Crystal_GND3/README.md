@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Crystal_GND3
 - Hex ID: SZKDEVICEXGND3
 - Name: Device : Crystal_GND3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Crystal_GND3/
 - Description: Device : Crystal_GND3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Crystal_GND3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Crystal_GND3)
 - Short Link: [http://oom.lt/SZKDEVICEXGND3](http://oom.lt/SZKDEVICEXGND3)

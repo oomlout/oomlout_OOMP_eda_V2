@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-SC75_INFINEON
 - Hex ID: FZETRANSISTORFETSC75INFINEON
 - Name: transistor-fet : SC75_INFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/SC75_INFINEON/
 - Description: transistor-fet : SC75_INFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-SC75_INFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-SC75_INFINEON)
 - Short Link: [http://oom.lt/FZETRANSISTORFETSC75INFINEON](http://oom.lt/FZETRANSISTORFETSC75INFINEON)

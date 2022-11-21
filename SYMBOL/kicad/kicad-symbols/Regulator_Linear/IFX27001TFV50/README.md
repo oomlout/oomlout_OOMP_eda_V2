@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-IFX27001TFV50
 - Hex ID: SZKREGULATORLINEARIFX271TFV5
 - Name: Regulator_Linear : IFX27001TFV50
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/IFX27001TFV50/
 - Description: Regulator_Linear : IFX27001TFV50
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-IFX27001TFV50](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-IFX27001TFV50)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARIFX271TFV5](http://oom.lt/SZKREGULATORLINEARIFX271TFV5)

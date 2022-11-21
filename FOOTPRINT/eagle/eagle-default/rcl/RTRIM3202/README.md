@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIM3202
 - Hex ID: FZERCLRTRIM322
 - Name: rcl : RTRIM3202
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/RTRIM3202/
 - Description: rcl : RTRIM3202
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM3202](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-RTRIM3202)
 - Short Link: [http://oom.lt/FZERCLRTRIM322](http://oom.lt/FZERCLRTRIM322)

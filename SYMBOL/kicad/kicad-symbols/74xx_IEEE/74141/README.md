@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74141
 - Hex ID: SZK74XXIEEE74141
 - Name: 74xx_IEEE : 74141
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74141/
 - Description: 74xx_IEEE : 74141
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74141](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74141)
 - Short Link: [http://oom.lt/SZK74XXIEEE74141](http://oom.lt/SZK74XXIEEE74141)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TSOP48
 - Hex ID: FZSRTTS48
 - Name: SparkFun-Retired : TSOP48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/TSOP48/
 - Description: SparkFun-Retired : TSOP48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TSOP48](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TSOP48)
 - Short Link: [http://oom.lt/FZSRTTS48](http://oom.lt/FZSRTTS48)

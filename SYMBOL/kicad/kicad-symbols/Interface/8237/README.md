@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-8237
 - Hex ID: SZKINTERFACE8237
 - Name: Interface : 8237
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/8237/
 - Description: Interface : 8237
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-8237](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-8237)
 - Short Link: [http://oom.lt/SZKINTERFACE8237](http://oom.lt/SZKINTERFACE8237)

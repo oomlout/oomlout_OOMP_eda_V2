@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINHEADER2PINHEADER1X11P2VERTICALSMPIN1LEFT > Connector_PinHeader_2.00mm : PinHeader_1x11_P2.00mm_Vertical_SMD_Pin1Left](#fzkcnpinheader2pinheader1x11p2verticalsmpin1left--connector_pinheader_200mm--pinheader_1x11_p200mm_vertical_smd_pin1left)
+* [FZKCNPH2PH1X11P2FSMP1L > Connector_PinHeader_2.00mm : PinHeader_1x11_P2.00mm_Vertical_SMD_Pin1Left](#fzkcnph2ph1x11p2fsmp1l--connector_pinheader_200mm--pinheader_1x11_p200mm_vertical_smd_pin1left)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINHEADER2PINHEADER1X11P2VERTICALSMPIN1LEFT > Connector_PinHeader_2.00mm : PinHeader_1x11_P2.00mm_Vertical_SMD_Pin1Left
+# FZKCNPH2PH1X11P2FSMP1L > Connector_PinHeader_2.00mm : PinHeader_1x11_P2.00mm_Vertical_SMD_Pin1Left
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.00mm-PinHeader_1x11_P2.00mm_Vertical_SMD_Pin1Left
-- Hex ID: FZKCNPINHEADER2PINHEADER1X11P2VERTICALSMPIN1LEFT
+- Hex ID: FZKCNPH2PH1X11P2FSMP1L
 - Name: Connector_PinHeader_2.00mm : PinHeader_1x11_P2.00mm_Vertical_SMD_Pin1Left
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_1x11_P2.00mm_Vertical_SMD_Pin1Left/
 - Description: Connector_PinHeader_2.00mm : PinHeader_1x11_P2.00mm_Vertical_SMD_Pin1Left
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.00mm-PinHeader_1x11_P2.00mm_Vertical_SMD_Pin1Left](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.00mm-PinHeader_1x11_P2.00mm_Vertical_SMD_Pin1Left)
-- Short Link: [http://oom.lt/FZKCNPINHEADER2PINHEADER1X11P2VERTICALSMPIN1LEFT](http://oom.lt/FZKCNPINHEADER2PINHEADER1X11P2VERTICALSMPIN1LEFT)
+- Short Link: [http://oom.lt/FZKCNPH2PH1X11P2FSMP1L](http://oom.lt/FZKCNPH2PH1X11P2FSMP1L)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_PinHeader_2.00mm|
 |OOMP Index|oompIndex|PinHeader_1x11_P2.00mm_Vertical_SMD_Pin1Left|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.00mm-PinHeader_1x11_P2.00mm_Vertical_SMD_Pin1Left|
-|Hex ID (short code)|hexID|FZKCNPINHEADER2PINHEADER1X11P2VERTICALSMPIN1LEFT|
+|Hex ID (short code)|hexID|FZKCNPH2PH1X11P2FSMP1L|
 |name|name|Connector_PinHeader_2.00mm : PinHeader_1x11_P2.00mm_Vertical_SMD_Pin1Left|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_1x11_P2.00mm_Vertical_SMD_Pin1Left'</td><td> 'description'</td></tr><tr><td> 'surface-mounted straight pin header</td><td> 1x11</td><td> 2.00mm pitch</td><td> single row</td><td> style 1 (pin 1 left)'</td><td> 'tags'</td></tr><tr><td> 'Surface mounted pin header SMD 1x11 2.00mm single row style1 pin1 left'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinHeader_2.00mm.3dshapes/PinHeader_1x11_P2.00mm_Vertical_SMD_Pin1Left.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

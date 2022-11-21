@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-hitachi-QFP256-28X28
 - Hex ID: FZEMHITACHIQFP25628X28
 - Name: micro-hitachi : QFP256-28X28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-hitachi/QFP256-28X28/
 - Description: micro-hitachi : QFP256-28X28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-hitachi-QFP256-28X28](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-hitachi-QFP256-28X28)
 - Short Link: [http://oom.lt/FZEMHITACHIQFP25628X28](http://oom.lt/FZEMHITACHIQFP25628X28)

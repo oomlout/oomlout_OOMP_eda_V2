@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-cyclone-II-FBGA896
 - Hex ID: FZEALTERACYCLONEIIFBGA896
 - Name: altera-cyclone-II : FBGA896
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera-cyclone-II/FBGA896/
 - Description: altera-cyclone-II : FBGA896
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-cyclone-II-FBGA896](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-cyclone-II-FBGA896)
 - Short Link: [http://oom.lt/FZEALTERACYCLONEIIFBGA896](http://oom.lt/FZEALTERACYCLONEIIFBGA896)

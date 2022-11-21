@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-PS8802-1
 - Hex ID: SZKISOLATORPS8821
 - Name: Isolator : PS8802-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/PS8802-1/
 - Description: Isolator : PS8802-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PS8802-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PS8802-1)
 - Short Link: [http://oom.lt/SZKISOLATORPS8821](http://oom.lt/SZKISOLATORPS8821)

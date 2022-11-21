@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7206
 - Hex ID: SZKMEMORYRAMIDT726
 - Name: Memory_RAM : IDT7206
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT7206/
 - Description: Memory_RAM : IDT7206
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7206](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7206)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIDT726](http://oom.lt/SZKMEMORYRAMIDT726)

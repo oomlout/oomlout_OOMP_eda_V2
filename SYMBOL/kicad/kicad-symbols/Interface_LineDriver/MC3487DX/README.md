@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_LineDriver-MC3487DX
 - Hex ID: SZKINTERFACELINEDRIVERMC3487DX
 - Name: Interface_LineDriver : MC3487DX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/MC3487DX/
 - Description: Interface_LineDriver : MC3487DX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-MC3487DX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-MC3487DX)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVERMC3487DX](http://oom.lt/SZKINTERFACELINEDRIVERMC3487DX)

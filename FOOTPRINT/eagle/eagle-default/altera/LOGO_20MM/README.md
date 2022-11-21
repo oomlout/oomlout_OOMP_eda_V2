@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-LOGO_20MM
 - Hex ID: FZEALTERAL2
 - Name: altera : LOGO_20MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/LOGO_20MM/
 - Description: altera : LOGO_20MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-LOGO_20MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-LOGO_20MM)
 - Short Link: [http://oom.lt/FZEALTERAL2](http://oom.lt/FZEALTERAL2)

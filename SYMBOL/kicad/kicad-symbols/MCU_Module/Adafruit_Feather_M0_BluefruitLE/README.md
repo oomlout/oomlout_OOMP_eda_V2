@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_BluefruitLE
 - Hex ID: SZKMCUMOADAFEATHERMBLUEFRUITLE
 - Name: MCU_Module : Adafruit_Feather_M0_BluefruitLE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_BluefruitLE/
 - Description: MCU_Module : Adafruit_Feather_M0_BluefruitLE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_BluefruitLE](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_BluefruitLE)
 - Short Link: [http://oom.lt/SZKMCUMOADAFEATHERMBLUEFRUITLE](http://oom.lt/SZKMCUMOADAFEATHERMBLUEFRUITLE)

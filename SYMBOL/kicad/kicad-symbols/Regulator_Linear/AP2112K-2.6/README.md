@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2112K-2.6
 - Hex ID: SZKREGULATORLINEARAP2112K26
 - Name: Regulator_Linear : AP2112K-2.6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP2112K-2.6/
 - Description: Regulator_Linear : AP2112K-2.6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2112K-2.6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2112K-2.6)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP2112K26](http://oom.lt/SZKREGULATORLINEARAP2112K26)

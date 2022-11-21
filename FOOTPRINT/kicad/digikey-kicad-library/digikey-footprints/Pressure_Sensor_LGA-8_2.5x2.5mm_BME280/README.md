@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPRESSURESENLGA825X25BME28 > digikey-footprints : Pressure_Sensor_LGA-8_2.5x2.5mm_BME280](#fzkicaddigikeykicadlibrarydigikeyfootprintspressuresenlga825x25bme28--digikey-footprints--pressure_sensor_lga-8_25x25mm_bme280)
+* [FZDIGIDIGIKEYFOOTPRINTSPRESSURESENLGA825X25BME28 > digikey-footprints : Pressure_Sensor_LGA-8_2.5x2.5mm_BME280](#fzdigidigikeyfootprintspressuresenlga825x25bme28--digikey-footprints--pressure_sensor_lga-8_25x25mm_bme280)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPRESSURESENLGA825X25BME28 > digikey-footprints : Pressure_Sensor_LGA-8_2.5x2.5mm_BME280
+# FZDIGIDIGIKEYFOOTPRINTSPRESSURESENLGA825X25BME28 > digikey-footprints : Pressure_Sensor_LGA-8_2.5x2.5mm_BME280
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Pressure_Sensor_LGA-8_2.5x2.5mm_BME280
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPRESSURESENLGA825X25BME28
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPRESSURESENLGA825X25BME28
 - Name: digikey-footprints : Pressure_Sensor_LGA-8_2.5x2.5mm_BME280
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Pressure_Sensor_LGA-8_2.5x2.5mm_BME280/
 - Description: digikey-footprints : Pressure_Sensor_LGA-8_2.5x2.5mm_BME280
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Pressure_Sensor_LGA-8_2.5x2.5mm_BME280](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Pressure_Sensor_LGA-8_2.5x2.5mm_BME280)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPRESSURESENLGA825X25BME28](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPRESSURESENLGA825X25BME28)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPRESSURESENLGA825X25BME28](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPRESSURESENLGA825X25BME28)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Pressure_Sensor_LGA-8_2.5x2.5mm_BME280|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Pressure_Sensor_LGA-8_2.5x2.5mm_BME280|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPRESSURESENLGA825X25BME28|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPRESSURESENLGA825X25BME28|
 |name|name|digikey-footprints : Pressure_Sensor_LGA-8_2.5x2.5mm_BME280|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Pressure_Sensor_LGA-8_2.5x2.5mm_BME280'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

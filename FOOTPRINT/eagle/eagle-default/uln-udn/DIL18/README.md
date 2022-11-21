@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-uln-udn-DIL18
 - Hex ID: FZEULNUDNDIL18
 - Name: uln-udn : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/uln-udn/DIL18/
 - Description: uln-udn : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-uln-udn-DIL18](http://oom.lt/FOOTPRINT-eagle-eagle-default-uln-udn-DIL18)
 - Short Link: [http://oom.lt/FZEULNUDNDIL18](http://oom.lt/FZEULNUDNDIL18)

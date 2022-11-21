@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSC75INFINEON > ref-packages-longpad : SC75_INFINEON](#fzerefpackageslongpadsc75infineon--ref-packages-longpad--sc75_infineon)
+* [FZEREFPSLPSC75INFINEON > ref-packages-longpad : SC75_INFINEON](#fzerefpslpsc75infineon--ref-packages-longpad--sc75_infineon)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSC75INFINEON > ref-packages-longpad : SC75_INFINEON
+# FZEREFPSLPSC75INFINEON > ref-packages-longpad : SC75_INFINEON
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SC75_INFINEON
-- Hex ID: FZEREFPACKAGESLONGPADSC75INFINEON
+- Hex ID: FZEREFPSLPSC75INFINEON
 - Name: ref-packages-longpad : SC75_INFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SC75_INFINEON/
 - Description: ref-packages-longpad : SC75_INFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SC75_INFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SC75_INFINEON)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSC75INFINEON](http://oom.lt/FZEREFPACKAGESLONGPADSC75INFINEON)
+- Short Link: [http://oom.lt/FZEREFPSLPSC75INFINEON](http://oom.lt/FZEREFPSLPSC75INFINEON)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SC75_INFINEON|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SC75_INFINEON|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSC75INFINEON|
+|Hex ID (short code)|hexID|FZEREFPSLPSC75INFINEON|
 |name|name|ref-packages-longpad : SC75_INFINEON|
 ||||

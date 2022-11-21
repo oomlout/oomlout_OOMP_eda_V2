@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA4340EA
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA434EA
 - Name: Amplifier_Operational : OPA4340EA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA4340EA/
 - Description: Amplifier_Operational : OPA4340EA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA4340EA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA4340EA)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA434EA](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA434EA)

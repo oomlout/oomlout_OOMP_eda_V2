@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-CE_20MM
 - Hex ID: FZELCE2
 - Name: logo : CE_20MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/CE_20MM/
 - Description: logo : CE_20MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CE_20MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-CE_20MM)
 - Short Link: [http://oom.lt/FZELCE2](http://oom.lt/FZELCE2)

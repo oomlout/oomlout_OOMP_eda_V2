@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-MS421R_IV03E
 - Hex ID: FZSBMS421RIV3E
 - Name: SparkFun-Batteries : MS421R_IV03E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/MS421R_IV03E/
 - Description: SparkFun-Batteries : MS421R_IV03E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-MS421R_IV03E](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-MS421R_IV03E)
 - Short Link: [http://oom.lt/FZSBMS421RIV3E](http://oom.lt/FZSBMS421RIV3E)

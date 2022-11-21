@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-trans-siemens-SFH225
 - Hex ID: FZEOPTOTRANSSIEMENSSFH225
 - Name: opto-trans-siemens : SFH225
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-trans-siemens/SFH225/
 - Description: opto-trans-siemens : SFH225
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-SFH225](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-SFH225)
 - Short Link: [http://oom.lt/FZEOPTOTRANSSIEMENSSFH225](http://oom.lt/FZEOPTOTRANSSIEMENSSFH225)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAV302
 - Hex ID: SZKDIODEBAV32
 - Name: Diode : BAV302
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAV302/
 - Description: Diode : BAV302
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV302](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV302)
 - Short Link: [http://oom.lt/SZKDIODEBAV32](http://oom.lt/SZKDIODEBAV32)

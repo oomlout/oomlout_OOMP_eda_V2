@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C0805K
 - Hex ID: FZAC85K
 - Name: adafruit : C0805K
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C0805K/
 - Description: adafruit : C0805K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C0805K](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C0805K)
 - Short Link: [http://oom.lt/FZAC85K](http://oom.lt/FZAC85K)

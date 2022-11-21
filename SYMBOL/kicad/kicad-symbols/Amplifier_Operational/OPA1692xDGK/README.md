@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA1692xDGK
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA1692XDGK
 - Name: Amplifier_Operational : OPA1692xDGK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA1692xDGK/
 - Description: Amplifier_Operational : OPA1692xDGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA1692xDGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA1692xDGK)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA1692XDGK](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA1692XDGK)

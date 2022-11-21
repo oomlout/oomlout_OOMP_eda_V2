@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DIN-5_180degree
 - Hex ID: SZKCNDIN518DEGREE
 - Name: Connector : DIN-5_180degree
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DIN-5_180degree/
 - Description: Connector : DIN-5_180degree
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN-5_180degree](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN-5_180degree)
 - Short Link: [http://oom.lt/SZKCNDIN518DEGREE](http://oom.lt/SZKCNDIN518DEGREE)

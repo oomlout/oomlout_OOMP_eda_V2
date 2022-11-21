@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-QFPN-28
 - Hex ID: FZESTMELECTRONICSQFPN28
 - Name: st-microelectronics : QFPN-28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/QFPN-28/
 - Description: st-microelectronics : QFPN-28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-QFPN-28](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-QFPN-28)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSQFPN28](http://oom.lt/FZESTMELECTRONICSQFPN28)

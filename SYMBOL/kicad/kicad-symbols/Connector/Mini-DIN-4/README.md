@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-4
 - Hex ID: SZKCNMDIN4
 - Name: Connector : Mini-DIN-4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Mini-DIN-4/
 - Description: Connector : Mini-DIN-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-4)
 - Short Link: [http://oom.lt/SZKCNMDIN4](http://oom.lt/SZKCNMDIN4)

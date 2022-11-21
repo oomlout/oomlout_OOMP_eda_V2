@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4030-4.096
 - Hex ID: SZKREFERENCEVOLTAGELM43496
 - Name: Reference_Voltage : LM4030-4.096
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LM4030-4.096/
 - Description: Reference_Voltage : LM4030-4.096
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4030-4.096](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4030-4.096)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM43496](http://oom.lt/SZKREFERENCEVOLTAGELM43496)

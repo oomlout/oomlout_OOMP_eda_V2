@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0309V
 - Hex ID: FZA39V
 - Name: adafruit : 0309V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0309V/
 - Description: adafruit : 0309V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0309V](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0309V)
 - Short Link: [http://oom.lt/FZA39V](http://oom.lt/FZA39V)

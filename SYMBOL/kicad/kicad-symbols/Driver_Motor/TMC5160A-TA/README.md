@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC5160A-TA
 - Hex ID: SZKDRIVERMOTORTMC516ATA
 - Name: Driver_Motor : TMC5160A-TA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC5160A-TA/
 - Description: Driver_Motor : TMC5160A-TA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC5160A-TA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC5160A-TA)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORTMC516ATA](http://oom.lt/SZKDRIVERMOTORTMC516ATA)

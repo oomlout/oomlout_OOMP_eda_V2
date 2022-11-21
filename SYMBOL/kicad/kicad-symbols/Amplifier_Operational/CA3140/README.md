@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-CA3140
 - Hex ID: SZKAMPLIFIEROPERATIONALCA314
 - Name: Amplifier_Operational : CA3140
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/CA3140/
 - Description: Amplifier_Operational : CA3140
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-CA3140](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-CA3140)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALCA314](http://oom.lt/SZKAMPLIFIEROPERATIONALCA314)

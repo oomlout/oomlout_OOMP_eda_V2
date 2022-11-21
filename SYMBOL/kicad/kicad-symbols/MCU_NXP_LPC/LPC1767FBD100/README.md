@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1767FBD100
 - Hex ID: SZKMCUNXPLPCLPC1767FBD1
 - Name: MCU_NXP_LPC : LPC1767FBD100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1767FBD100/
 - Description: MCU_NXP_LPC : LPC1767FBD100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1767FBD100](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1767FBD100)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC1767FBD1](http://oom.lt/SZKMCUNXPLPCLPC1767FBD1)

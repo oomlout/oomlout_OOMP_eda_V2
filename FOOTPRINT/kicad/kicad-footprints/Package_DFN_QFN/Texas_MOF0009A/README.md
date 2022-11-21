@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_MOF0009A
 - Hex ID: FZKDFNTEXASMOF9A
 - Name: Package_DFN_QFN : Texas_MOF0009A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_MOF0009A/
 - Description: Package_DFN_QFN : Texas_MOF0009A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_MOF0009A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_MOF0009A)
 - Short Link: [http://oom.lt/FZKDFNTEXASMOF9A](http://oom.lt/FZKDFNTEXASMOF9A)

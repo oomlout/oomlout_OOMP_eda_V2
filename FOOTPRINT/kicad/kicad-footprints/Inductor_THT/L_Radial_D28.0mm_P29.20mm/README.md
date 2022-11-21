@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D28.0mm_P29.20mm
 - Hex ID: FZKINLRD28P292
 - Name: Inductor_THT : L_Radial_D28.0mm_P29.20mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D28.0mm_P29.20mm/
 - Description: Inductor_THT : L_Radial_D28.0mm_P29.20mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D28.0mm_P29.20mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D28.0mm_P29.20mm)
 - Short Link: [http://oom.lt/FZKINLRD28P292](http://oom.lt/FZKINLRD28P292)

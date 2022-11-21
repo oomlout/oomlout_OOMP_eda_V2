@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-PLCC4-TOPLED-RG
 - Hex ID: FZELPLCC4TOPLRG
 - Name: led : PLCC4-TOPLED-RG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/PLCC4-TOPLED-RG/
 - Description: led : PLCC4-TOPLED-RG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-PLCC4-TOPLED-RG](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-PLCC4-TOPLED-RG)
 - Short Link: [http://oom.lt/FZELPLCC4TOPLRG](http://oom.lt/FZELPLCC4TOPLRG)

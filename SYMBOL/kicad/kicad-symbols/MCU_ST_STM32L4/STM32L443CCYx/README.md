@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L443CCYx
 - Hex ID: SZKMCUSTSTM32L4STM32L443CCYX
 - Name: MCU_ST_STM32L4 : STM32L443CCYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L443CCYx/
 - Description: MCU_ST_STM32L4 : STM32L443CCYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L443CCYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L443CCYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L443CCYX](http://oom.lt/SZKMCUSTSTM32L4STM32L443CCYX)

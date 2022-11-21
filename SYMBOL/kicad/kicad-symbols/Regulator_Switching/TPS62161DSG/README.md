@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGTPS62161DSG > Regulator_Switching : TPS62161DSG](#szkregulatorswitchingtps62161dsg--regulator_switching--tps62161dsg)
+* [SZKREGULATORSWINGTPS62161DSG > Regulator_Switching : TPS62161DSG](#szkregulatorswingtps62161dsg--regulator_switching--tps62161dsg)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGTPS62161DSG > Regulator_Switching : TPS62161DSG
+# SZKREGULATORSWINGTPS62161DSG > Regulator_Switching : TPS62161DSG
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62161DSG
-- Hex ID: SZKREGULATORSWITCHINGTPS62161DSG
+- Hex ID: SZKREGULATORSWINGTPS62161DSG
 - Name: Regulator_Switching : TPS62161DSG
 - Description: Regulator_Switching : TPS62161DSG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62161DSG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62161DSG)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS62161DSG](http://oom.lt/SZKREGULATORSWITCHINGTPS62161DSG)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGTPS62161DSG](http://oom.lt/SZKREGULATORSWINGTPS62161DSG)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|TPS62161DSG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62161DSG|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS62161DSG|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGTPS62161DSG|
 |name|name|Regulator_Switching : TPS62161DSG|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TPS62170DSG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS62161DSG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps62160.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'step-down dc-dc buck regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Step-Down Converter with DCS-Control</td><td> fixed 1.8V output</td><td> 3-17V input voltage</td><td> WSON-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WSON*EP*2x2mm*P0.5mm*'</td></tr></table>]|
 ||||

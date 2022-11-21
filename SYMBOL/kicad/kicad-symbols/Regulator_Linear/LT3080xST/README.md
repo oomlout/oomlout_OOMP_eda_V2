@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3080xST
 - Hex ID: SZKREGULATORLINEARLT38XST
 - Name: Regulator_Linear : LT3080xST
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3080xST/
 - Description: Regulator_Linear : LT3080xST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3080xST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3080xST)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT38XST](http://oom.lt/SZKREGULATORLINEARLT38XST)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-CA0001
 - Hex ID: FZERESISTORPOWERCA1
 - Name: resistor-power : CA0001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/CA0001/
 - Description: resistor-power : CA0001
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA0001](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA0001)
 - Short Link: [http://oom.lt/FZERESISTORPOWERCA1](http://oom.lt/FZERESISTORPOWERCA1)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-36W
 - Hex ID: FZEINFINEONPGDSO36W
 - Name: infineon : PG-DSO-36W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/infineon/PG-DSO-36W/
 - Description: infineon : PG-DSO-36W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-36W](http://oom.lt/FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-36W)
 - Short Link: [http://oom.lt/FZEINFINEONPGDSO36W](http://oom.lt/FZEINFINEONPGDSO36W)

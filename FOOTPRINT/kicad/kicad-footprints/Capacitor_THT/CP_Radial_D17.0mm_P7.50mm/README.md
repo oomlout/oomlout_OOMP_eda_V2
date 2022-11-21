@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D17.0mm_P7.50mm
 - Hex ID: FZKCCPRD17P75
 - Name: Capacitor_THT : CP_Radial_D17.0mm_P7.50mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D17.0mm_P7.50mm/
 - Description: Capacitor_THT : CP_Radial_D17.0mm_P7.50mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D17.0mm_P7.50mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D17.0mm_P7.50mm)
 - Short Link: [http://oom.lt/FZKCCPRD17P75](http://oom.lt/FZKCCPRD17P75)

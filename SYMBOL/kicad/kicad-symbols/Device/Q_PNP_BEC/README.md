@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_PNP_BEC
 - Hex ID: SZKDEVICEQPNPBEC
 - Name: Device : Q_PNP_BEC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_BEC/
 - Description: Device : Q_PNP_BEC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PNP_BEC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PNP_BEC)
 - Short Link: [http://oom.lt/SZKDEVICEQPNPBEC](http://oom.lt/SZKDEVICEQPNPBEC)

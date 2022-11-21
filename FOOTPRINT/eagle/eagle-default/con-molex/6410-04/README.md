@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-6410-04
 - Hex ID: FZECONMX6414
 - Name: con-molex : 6410-04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/6410-04/
 - Description: con-molex : 6410-04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-6410-04](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-6410-04)
 - Short Link: [http://oom.lt/FZECONMX6414](http://oom.lt/FZECONMX6414)

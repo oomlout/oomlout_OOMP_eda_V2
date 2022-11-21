@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG650
 - Hex ID: FZKFUFUBOURNSMFRG65
 - Name: Fuse : Fuse_Bourns_MF-RG650
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-RG650/
 - Description: Fuse : Fuse_Bourns_MF-RG650
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG650](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG650)
 - Short Link: [http://oom.lt/FZKFUFUBOURNSMFRG65](http://oom.lt/FZKFUFUBOURNSMFRG65)

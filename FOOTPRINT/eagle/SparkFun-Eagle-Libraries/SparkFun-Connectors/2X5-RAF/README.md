@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X5-RAF
 - Hex ID: FZSSPARKFUNCNS2X5RAF
 - Name: SparkFun-Connectors : 2X5-RAF
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/2X5-RAF/
 - Description: SparkFun-Connectors : 2X5-RAF
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X5-RAF](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X5-RAF)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS2X5RAF](http://oom.lt/FZSSPARKFUNCNS2X5RAF)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_19.0x19.0x6.8mm_P12.7mm
 - Hex ID: FZKDDIODEBRIDGE19X19X68P127
 - Name: Diode_THT : Diode_Bridge_19.0x19.0x6.8mm_P12.7mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_19.0x19.0x6.8mm_P12.7mm/
 - Description: Diode_THT : Diode_Bridge_19.0x19.0x6.8mm_P12.7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_19.0x19.0x6.8mm_P12.7mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_19.0x19.0x6.8mm_P12.7mm)
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGE19X19X68P127](http://oom.lt/FZKDDIODEBRIDGE19X19X68P127)

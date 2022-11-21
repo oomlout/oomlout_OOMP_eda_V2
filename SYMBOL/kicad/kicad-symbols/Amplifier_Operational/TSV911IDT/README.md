@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV911IDT
 - Hex ID: SZKAMPLIFIEROPERATIONALTSV911IDT
 - Name: Amplifier_Operational : TSV911IDT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV911IDT/
 - Description: Amplifier_Operational : TSV911IDT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV911IDT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV911IDT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTSV911IDT](http://oom.lt/SZKAMPLIFIEROPERATIONALTSV911IDT)

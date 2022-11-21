@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FE1.1s
 - Hex ID: SZKINTERFACEUFE11S
 - Name: Interface_USB : FE1.1s
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FE1.1s/
 - Description: Interface_USB : FE1.1s
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FE1.1s](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FE1.1s)
 - Short Link: [http://oom.lt/SZKINTERFACEUFE11S](http://oom.lt/SZKINTERFACEUFE11S)

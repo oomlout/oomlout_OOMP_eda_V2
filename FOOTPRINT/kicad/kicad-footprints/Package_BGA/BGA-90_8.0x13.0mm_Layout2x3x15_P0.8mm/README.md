@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm
 - Hex ID: FZKBGABGA98X13LAYOUT2X3X15P8
 - Name: Package_BGA : BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm/
 - Description: Package_BGA : BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm)
 - Short Link: [http://oom.lt/FZKBGABGA98X13LAYOUT2X3X15P8](http://oom.lt/FZKBGABGA98X13LAYOUT2X3X15P8)

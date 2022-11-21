@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm
 - Hex ID: FZKCSPLFCSP161EP3X3P5EP1854X1854
 - Name: Package_CSP : LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm/
 - Description: Package_CSP : LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm)
 - Short Link: [http://oom.lt/FZKCSPLFCSP161EP3X3P5EP1854X1854](http://oom.lt/FZKCSPLFCSP161EP3X3P5EP1854X1854)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-TO220-51
 - Hex ID: FZELINEARTO2251
 - Name: linear : TO220-51
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/TO220-51/
 - Description: linear : TO220-51
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO220-51](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TO220-51)
 - Short Link: [http://oom.lt/FZELINEARTO2251](http://oom.lt/FZELINEARTO2251)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L10.3mm_W5.0mm_P7.50mm_MKS4
 - Hex ID: FZKCCRECTL13W5P75MKS4
 - Name: Capacitor_THT : C_Rect_L10.3mm_W5.0mm_P7.50mm_MKS4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L10.3mm_W5.0mm_P7.50mm_MKS4/
 - Description: Capacitor_THT : C_Rect_L10.3mm_W5.0mm_P7.50mm_MKS4
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L10.3mm_W5.0mm_P7.50mm_MKS4](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L10.3mm_W5.0mm_P7.50mm_MKS4)
 - Short Link: [http://oom.lt/FZKCCRECTL13W5P75MKS4](http://oom.lt/FZKCCRECTL13W5P75MKS4)

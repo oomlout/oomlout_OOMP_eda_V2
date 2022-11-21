@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-7-SEGMENT-4DIGIT_LONGPADS_FOR_POGOBED
 - Hex ID: FZSRT7S4DIGITLFORPOGOBED
 - Name: SparkFun-Retired : 7-SEGMENT-4DIGIT_LONGPADS_FOR_POGOBED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/7-SEGMENT-4DIGIT_LONGPADS_FOR_POGOBED/
 - Description: SparkFun-Retired : 7-SEGMENT-4DIGIT_LONGPADS_FOR_POGOBED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-7-SEGMENT-4DIGIT_LONGPADS_FOR_POGOBED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-7-SEGMENT-4DIGIT_LONGPADS_FOR_POGOBED)
 - Short Link: [http://oom.lt/FZSRT7S4DIGITLFORPOGOBED](http://oom.lt/FZSRT7S4DIGITLFORPOGOBED)

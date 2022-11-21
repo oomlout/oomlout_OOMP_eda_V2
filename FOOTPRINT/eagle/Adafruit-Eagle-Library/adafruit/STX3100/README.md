@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STX3100
 - Hex ID: FZASTX31
 - Name: adafruit : STX3100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/STX3100/
 - Description: adafruit : STX3100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STX3100](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STX3100)
 - Short Link: [http://oom.lt/FZASTX31](http://oom.lt/FZASTX31)

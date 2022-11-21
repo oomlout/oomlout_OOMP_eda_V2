@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CSGA225
 - Hex ID: FZKBGAXILINXCSGA225
 - Name: Package_BGA : Xilinx_CSGA225
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_CSGA225/
 - Description: Package_BGA : Xilinx_CSGA225
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CSGA225](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CSGA225)
 - Short Link: [http://oom.lt/FZKBGAXILINXCSGA225](http://oom.lt/FZKBGAXILINXCSGA225)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-molex-70543-11
 - Hex ID: FZECONMX754311
 - Name: con-molex : 70543-11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-molex/70543-11/
 - Description: con-molex : 70543-11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-70543-11](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-molex-70543-11)
 - Short Link: [http://oom.lt/FZECONMX754311](http://oom.lt/FZECONMX754311)

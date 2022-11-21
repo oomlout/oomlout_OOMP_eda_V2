@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-ABS4
 - Hex ID: SZKDIODEBRIDGEABS4
 - Name: Diode_Bridge : ABS4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/ABS4/
 - Description: Diode_Bridge : ABS4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-ABS4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-ABS4)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEABS4](http://oom.lt/SZKDIODEBRIDGEABS4)

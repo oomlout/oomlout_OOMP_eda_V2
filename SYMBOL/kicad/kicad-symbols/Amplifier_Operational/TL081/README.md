@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TL081
 - Hex ID: SZKAMPLIFIEROPERATIONALTL81
 - Name: Amplifier_Operational : TL081
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TL081/
 - Description: Amplifier_Operational : TL081
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TL081](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TL081)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTL81](http://oom.lt/SZKAMPLIFIEROPERATIONALTL81)

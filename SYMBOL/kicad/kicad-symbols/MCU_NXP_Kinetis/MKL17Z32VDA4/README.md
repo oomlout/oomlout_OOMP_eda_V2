@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL17Z32VDA4
 - Hex ID: SZKMCUNXPKINETISMKL17Z32VDA4
 - Name: MCU_NXP_Kinetis : MKL17Z32VDA4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL17Z32VDA4/
 - Description: MCU_NXP_Kinetis : MKL17Z32VDA4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL17Z32VDA4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL17Z32VDA4)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL17Z32VDA4](http://oom.lt/SZKMCUNXPKINETISMKL17Z32VDA4)

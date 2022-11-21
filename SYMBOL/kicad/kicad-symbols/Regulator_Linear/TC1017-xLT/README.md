@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1017-xLT
 - Hex ID: SZKREGULATORLINEARTC117XLT
 - Name: Regulator_Linear : TC1017-xLT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1017-xLT/
 - Description: Regulator_Linear : TC1017-xLT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1017-xLT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1017-xLT)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC117XLT](http://oom.lt/SZKREGULATORLINEARTC117XLT)

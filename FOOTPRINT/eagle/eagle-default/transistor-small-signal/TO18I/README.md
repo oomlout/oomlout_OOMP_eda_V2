@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO18I
 - Hex ID: FZETRANSISTORSLLSIGNALTO18I
 - Name: transistor-small-signal : TO18I
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/TO18I/
 - Description: transistor-small-signal : TO18I
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO18I](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO18I)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALTO18I](http://oom.lt/FZETRANSISTORSLLSIGNALTO18I)

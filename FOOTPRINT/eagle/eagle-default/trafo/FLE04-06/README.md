@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-FLE04-06
 - Hex ID: FZETRAFOFLE46
 - Name: trafo : FLE04-06
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/FLE04-06/
 - Description: trafo : FLE04-06
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FLE04-06](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-FLE04-06)
 - Short Link: [http://oom.lt/FZETRAFOFLE46](http://oom.lt/FZETRAFOFLE46)

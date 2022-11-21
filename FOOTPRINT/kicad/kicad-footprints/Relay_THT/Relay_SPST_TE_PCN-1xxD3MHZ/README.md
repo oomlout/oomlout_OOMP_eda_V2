@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_TE_PCN-1xxD3MHZ
 - Hex ID: FZKRELRELAYSPSTTEPCN1XXD3MHZ
 - Name: Relay_THT : Relay_SPST_TE_PCN-1xxD3MHZ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_TE_PCN-1xxD3MHZ/
 - Description: Relay_THT : Relay_SPST_TE_PCN-1xxD3MHZ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_TE_PCN-1xxD3MHZ](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_TE_PCN-1xxD3MHZ)
 - Short Link: [http://oom.lt/FZKRELRELAYSPSTTEPCN1XXD3MHZ](http://oom.lt/FZKRELRELAYSPSTTEPCN1XXD3MHZ)

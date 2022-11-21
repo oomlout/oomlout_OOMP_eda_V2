@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-ST_Morpho_Connector_144_STLink
 - Hex ID: FZKMOSTMORPHOCN144STLINK
 - Name: Module : ST_Morpho_Connector_144_STLink
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/ST_Morpho_Connector_144_STLink/
 - Description: Module : ST_Morpho_Connector_144_STLink
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-ST_Morpho_Connector_144_STLink](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Module-ST_Morpho_Connector_144_STLink)
 - Short Link: [http://oom.lt/FZKMOSTMORPHOCN144STLINK](http://oom.lt/FZKMOSTMORPHOCN144STLINK)

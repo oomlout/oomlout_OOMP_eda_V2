@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-MW-4R_INFINEON
 - Hex ID: FZETRANSISTORSLLSIGNALMW4RINFINEON
 - Name: transistor-small-signal : MW-4R_INFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/MW-4R_INFINEON/
 - Description: transistor-small-signal : MW-4R_INFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-MW-4R_INFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-MW-4R_INFINEON)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALMW4RINFINEON](http://oom.lt/FZETRANSISTORSLLSIGNALMW4RINFINEON)

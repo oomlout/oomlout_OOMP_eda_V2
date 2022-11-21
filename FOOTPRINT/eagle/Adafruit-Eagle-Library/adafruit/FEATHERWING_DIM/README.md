@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FEATHERWING_DIM
 - Hex ID: FZAFWD
 - Name: adafruit : FEATHERWING_DIM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/FEATHERWING_DIM/
 - Description: adafruit : FEATHERWING_DIM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FEATHERWING_DIM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FEATHERWING_DIM)
 - Short Link: [http://oom.lt/FZAFWD](http://oom.lt/FZAFWD)

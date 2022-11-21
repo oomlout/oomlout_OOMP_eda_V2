@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN164V130A24LS
 - Hex ID: SZKPOWERPROTECTIONZEN164V13A24LS
 - Name: Power_Protection : ZEN164V130A24LS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/ZEN164V130A24LS/
 - Description: Power_Protection : ZEN164V130A24LS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN164V130A24LS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN164V130A24LS)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONZEN164V13A24LS](http://oom.lt/SZKPOWERPROTECTIONZEN164V13A24LS)

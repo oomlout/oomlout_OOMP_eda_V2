@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N5819WS
 - Hex ID: SZKDIODE1N5819WS
 - Name: Diode : 1N5819WS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N5819WS/
 - Description: Diode : 1N5819WS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5819WS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5819WS)
 - Short Link: [http://oom.lt/SZKDIODE1N5819WS](http://oom.lt/SZKDIODE1N5819WS)

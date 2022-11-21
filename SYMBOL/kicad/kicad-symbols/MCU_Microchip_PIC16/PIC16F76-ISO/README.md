@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F76-ISO
 - Hex ID: SZKMCUMCHIPPIC16PIC16F76ISO
 - Name: MCU_Microchip_PIC16 : PIC16F76-ISO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F76-ISO/
 - Description: MCU_Microchip_PIC16 : PIC16F76-ISO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F76-ISO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F76-ISO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F76ISO](http://oom.lt/SZKMCUMCHIPPIC16PIC16F76ISO)

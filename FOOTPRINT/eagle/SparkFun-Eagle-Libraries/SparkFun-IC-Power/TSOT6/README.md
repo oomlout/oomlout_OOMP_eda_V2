@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-TSOT6
 - Hex ID: FZSIPTSOT6
 - Name: SparkFun-IC-Power : TSOT6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Power/TSOT6/
 - Description: SparkFun-IC-Power : TSOT6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-TSOT6](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-TSOT6)
 - Short Link: [http://oom.lt/FZSIPTSOT6](http://oom.lt/FZSIPTSOT6)

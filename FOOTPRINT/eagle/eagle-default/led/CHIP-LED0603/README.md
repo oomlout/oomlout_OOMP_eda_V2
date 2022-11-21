@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-CHIP-LED0603
 - Hex ID: FZELCHIPL63
 - Name: led : CHIP-LED0603
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/CHIP-LED0603/
 - Description: led : CHIP-LED0603
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-CHIP-LED0603](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-CHIP-LED0603)
 - Short Link: [http://oom.lt/FZELCHIPL63](http://oom.lt/FZELCHIPL63)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-jst-S4B-ZR
 - Hex ID: FZECONJSTS4BZR
 - Name: con-jst : S4B-ZR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-jst/S4B-ZR/
 - Description: con-jst : S4B-ZR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jst-S4B-ZR](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-jst-S4B-ZR)
 - Short Link: [http://oom.lt/FZECONJSTS4BZR](http://oom.lt/FZECONJSTS4BZR)

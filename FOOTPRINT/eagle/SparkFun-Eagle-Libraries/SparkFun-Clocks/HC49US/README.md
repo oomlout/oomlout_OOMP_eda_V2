@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-HC49US
 - Hex ID: FZSCLHC49US
 - Name: SparkFun-Clocks : HC49US
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/HC49US/
 - Description: SparkFun-Clocks : HC49US
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-HC49US](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-HC49US)
 - Short Link: [http://oom.lt/FZSCLHC49US](http://oom.lt/FZSCLHC49US)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS685
 - Hex ID: SZK74XXIEEE74LS685
 - Name: 74xx_IEEE : 74LS685
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74LS685/
 - Description: 74xx_IEEE : 74LS685
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS685](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS685)
 - Short Link: [http://oom.lt/SZK74XXIEEE74LS685](http://oom.lt/SZK74XXIEEE74LS685)

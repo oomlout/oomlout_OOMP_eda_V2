@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKLLRW5H23PINS > LED_THT : LED_Rectangular_W5.0mm_H2.0mm-3Pins](#fzkllrw5h23pins--led_tht--led_rectangular_w50mm_h20mm-3pins)
+* [FZKLLRW5H23PS > LED_THT : LED_Rectangular_W5.0mm_H2.0mm-3Pins](#fzkllrw5h23ps--led_tht--led_rectangular_w50mm_h20mm-3pins)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLLRW5H23PINS > LED_THT : LED_Rectangular_W5.0mm_H2.0mm-3Pins
+# FZKLLRW5H23PS > LED_THT : LED_Rectangular_W5.0mm_H2.0mm-3Pins
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W5.0mm_H2.0mm-3Pins
-- Hex ID: FZKLLRW5H23PINS
+- Hex ID: FZKLLRW5H23PS
 - Name: LED_THT : LED_Rectangular_W5.0mm_H2.0mm-3Pins
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_Rectangular_W5.0mm_H2.0mm-3Pins/
 - Description: LED_THT : LED_Rectangular_W5.0mm_H2.0mm-3Pins
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W5.0mm_H2.0mm-3Pins](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W5.0mm_H2.0mm-3Pins)
-- Short Link: [http://oom.lt/FZKLLRW5H23PINS](http://oom.lt/FZKLLRW5H23PINS)
+- Short Link: [http://oom.lt/FZKLLRW5H23PS](http://oom.lt/FZKLLRW5H23PS)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|LED_THT|
 |OOMP Index|oompIndex|LED_Rectangular_W5.0mm_H2.0mm-3Pins|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W5.0mm_H2.0mm-3Pins|
-|Hex ID (short code)|hexID|FZKLLRW5H23PINS|
+|Hex ID (short code)|hexID|FZKLLRW5H23PS|
 |name|name|LED_THT : LED_Rectangular_W5.0mm_H2.0mm-3Pins|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Rectangular_W5.0mm_H2.0mm-3Pins'</td><td> 'description'</td></tr><tr><td> 'LED_Rectangular</td><td> Rectangular</td><td>  Rectangular size 5.0x2.0mm^2</td><td> 3 pins</td><td> http</td></tr><tr><td>//www.kingbright.com/attachments/file/psearch/000/00/00/L-169XCGDK(Ver.9B).pdf'</td><td> 'tags'</td></tr><tr><td> 'LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 3 pins'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_THT.3dshapes/LED_Rectangular_W5.0mm_H2.0mm-3Pins.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90PWM1-16S
 - Hex ID: SZKMCUMCHIPAVRAT9PWM116S
 - Name: MCU_Microchip_AVR : AT90PWM1-16S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR/AT90PWM1-16S/
 - Description: MCU_Microchip_AVR : AT90PWM1-16S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90PWM1-16S](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90PWM1-16S)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRAT9PWM116S](http://oom.lt/SZKMCUMCHIPAVRAT9PWM116S)

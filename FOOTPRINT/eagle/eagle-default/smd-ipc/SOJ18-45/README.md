@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ18-45
 - Hex ID: FZESMIPCSOJ1845
 - Name: smd-ipc : SOJ18-45
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOJ18-45/
 - Description: smd-ipc : SOJ18-45
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ18-45](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ18-45)
 - Short Link: [http://oom.lt/FZESMIPCSOJ1845](http://oom.lt/FZESMIPCSOJ1845)

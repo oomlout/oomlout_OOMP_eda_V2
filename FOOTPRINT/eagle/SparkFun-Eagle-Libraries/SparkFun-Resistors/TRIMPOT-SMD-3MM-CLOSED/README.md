@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-TRIMPOT-SMD-3MM-CLOSED
 - Hex ID: FZSRTRIMPOTSM3CLOSED
 - Name: SparkFun-Resistors : TRIMPOT-SMD-3MM-CLOSED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/TRIMPOT-SMD-3MM-CLOSED/
 - Description: SparkFun-Resistors : TRIMPOT-SMD-3MM-CLOSED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-TRIMPOT-SMD-3MM-CLOSED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-TRIMPOT-SMD-3MM-CLOSED)
 - Short Link: [http://oom.lt/FZSRTRIMPOTSM3CLOSED](http://oom.lt/FZSRTRIMPOTSM3CLOSED)

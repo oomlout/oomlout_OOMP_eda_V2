@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-RWM5X26
 - Hex ID: FZERESISTORPOWERRWM5X26
 - Name: resistor-power : RWM5X26
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/RWM5X26/
 - Description: resistor-power : RWM5X26
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RWM5X26](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-RWM5X26)
 - Short Link: [http://oom.lt/FZERESISTORPOWERRWM5X26](http://oom.lt/FZERESISTORPOWERRWM5X26)

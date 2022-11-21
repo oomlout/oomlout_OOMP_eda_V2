@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOT54A
 - Hex ID: FZEDIODESOT54A
 - Name: diode : SOT54A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOT54A/
 - Description: diode : SOT54A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT54A](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT54A)
 - Short Link: [http://oom.lt/FZEDIODESOT54A](http://oom.lt/FZEDIODESOT54A)

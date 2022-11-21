@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-DIL20
 - Hex ID: FZEATMELDIL2
 - Name: atmel : DIL20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/DIL20/
 - Description: atmel : DIL20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-DIL20](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-DIL20)
 - Short Link: [http://oom.lt/FZEATMELDIL2](http://oom.lt/FZEATMELDIL2)

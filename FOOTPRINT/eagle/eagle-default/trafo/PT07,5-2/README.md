@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-PT07,5-2
 - Hex ID: FZETRAFOPT752
 - Name: trafo : PT07,5-2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/PT07,5-2/
 - Description: trafo : PT07,5-2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-PT07,5-2](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-PT07,5-2)
 - Short Link: [http://oom.lt/FZETRAFOPT752](http://oom.lt/FZETRAFOPT752)

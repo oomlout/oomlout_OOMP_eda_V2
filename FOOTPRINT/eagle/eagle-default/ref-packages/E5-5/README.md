@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESE55 > ref-packages : E5-5](#fzerefpackagese55--ref-packages--e5-5)
+* [FZEREFPSE55 > ref-packages : E5-5](#fzerefpse55--ref-packages--e5-5)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESE55 > ref-packages : E5-5
+# FZEREFPSE55 > ref-packages : E5-5
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-E5-5
-- Hex ID: FZEREFPACKAGESE55
+- Hex ID: FZEREFPSE55
 - Name: ref-packages : E5-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/E5-5/
 - Description: ref-packages : E5-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-E5-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-E5-5)
-- Short Link: [http://oom.lt/FZEREFPACKAGESE55](http://oom.lt/FZEREFPACKAGESE55)
+- Short Link: [http://oom.lt/FZEREFPSE55](http://oom.lt/FZEREFPSE55)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|E5-5|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-E5-5|
-|Hex ID (short code)|hexID|FZEREFPACKAGESE55|
+|Hex ID (short code)|hexID|FZEREFPSE55|
 |name|name|ref-packages : E5-5|
 ||||

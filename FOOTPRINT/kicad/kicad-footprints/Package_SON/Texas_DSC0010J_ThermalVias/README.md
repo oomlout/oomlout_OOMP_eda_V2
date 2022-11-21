@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSONTEXASDSC1JTHERMALVIAS > Package_SON : Texas_DSC0010J_ThermalVias](#fzksontexasdsc1jthermalvias--package_son--texas_dsc0010j_thermalvias)
+* [FZKSONTEXASDSC1JTHV > Package_SON : Texas_DSC0010J_ThermalVias](#fzksontexasdsc1jthv--package_son--texas_dsc0010j_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSONTEXASDSC1JTHERMALVIAS > Package_SON : Texas_DSC0010J_ThermalVias
+# FZKSONTEXASDSC1JTHV > Package_SON : Texas_DSC0010J_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DSC0010J_ThermalVias
-- Hex ID: FZKSONTEXASDSC1JTHERMALVIAS
+- Hex ID: FZKSONTEXASDSC1JTHV
 - Name: Package_SON : Texas_DSC0010J_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_DSC0010J_ThermalVias/
 - Description: Package_SON : Texas_DSC0010J_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DSC0010J_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DSC0010J_ThermalVias)
-- Short Link: [http://oom.lt/FZKSONTEXASDSC1JTHERMALVIAS](http://oom.lt/FZKSONTEXASDSC1JTHERMALVIAS)
+- Short Link: [http://oom.lt/FZKSONTEXASDSC1JTHV](http://oom.lt/FZKSONTEXASDSC1JTHV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_SON|
 |OOMP Index|oompIndex|Texas_DSC0010J_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DSC0010J_ThermalVias|
-|Hex ID (short code)|hexID|FZKSONTEXASDSC1JTHERMALVIAS|
+|Hex ID (short code)|hexID|FZKSONTEXASDSC1JTHV|
 |name|name|Package_SON : Texas_DSC0010J_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_DSC0010J_ThermalVias'</td><td> 'description'</td></tr><tr><td> '3x3mm Body</td><td> 0.5mm Pitch</td><td> DSC0010J</td><td> WSON</td><td> http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps61201.pdf'</td><td> 'tags'</td></tr><tr><td> '0.5 DSC0010J WSON'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Texas_S-DSC0010J.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

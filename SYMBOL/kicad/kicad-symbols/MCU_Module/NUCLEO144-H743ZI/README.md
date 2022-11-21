@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-H743ZI
 - Hex ID: SZKMCUMONUCLEO144H743ZI
 - Name: MCU_Module : NUCLEO144-H743ZI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-H743ZI/
 - Description: MCU_Module : NUCLEO144-H743ZI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-H743ZI](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-H743ZI)
 - Short Link: [http://oom.lt/SZKMCUMONUCLEO144H743ZI](http://oom.lt/SZKMCUMONUCLEO144H743ZI)

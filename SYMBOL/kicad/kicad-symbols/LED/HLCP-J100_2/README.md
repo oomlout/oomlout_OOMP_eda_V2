@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-HLCP-J100_2
 - Hex ID: SZKLHLCPJ12
 - Name: LED : HLCP-J100_2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/HLCP-J100_2/
 - Description: LED : HLCP-J100_2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-HLCP-J100_2](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-HLCP-J100_2)
 - Short Link: [http://oom.lt/SZKLHLCPJ12](http://oom.lt/SZKLHLCPJ12)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCSGAUGE1TYPE2CTOP > Calibration_Scale : Gauge_100mm_Type2_CopperTop](#fzkcsgauge1type2ctop--calibration_scale--gauge_100mm_type2_coppertop)
+* [FZKCSGAUGE1T2CTOP > Calibration_Scale : Gauge_100mm_Type2_CopperTop](#fzkcsgauge1t2ctop--calibration_scale--gauge_100mm_type2_coppertop)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCSGAUGE1TYPE2CTOP > Calibration_Scale : Gauge_100mm_Type2_CopperTop
+# FZKCSGAUGE1T2CTOP > Calibration_Scale : Gauge_100mm_Type2_CopperTop
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_100mm_Type2_CopperTop
-- Hex ID: FZKCSGAUGE1TYPE2CTOP
+- Hex ID: FZKCSGAUGE1T2CTOP
 - Name: Calibration_Scale : Gauge_100mm_Type2_CopperTop
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_100mm_Type2_CopperTop/
 - Description: Calibration_Scale : Gauge_100mm_Type2_CopperTop
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_100mm_Type2_CopperTop](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_100mm_Type2_CopperTop)
-- Short Link: [http://oom.lt/FZKCSGAUGE1TYPE2CTOP](http://oom.lt/FZKCSGAUGE1TYPE2CTOP)
+- Short Link: [http://oom.lt/FZKCSGAUGE1T2CTOP](http://oom.lt/FZKCSGAUGE1T2CTOP)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Calibration_Scale|
 |OOMP Index|oompIndex|Gauge_100mm_Type2_CopperTop|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_100mm_Type2_CopperTop|
-|Hex ID (short code)|hexID|FZKCSGAUGE1TYPE2CTOP|
+|Hex ID (short code)|hexID|FZKCSGAUGE1T2CTOP|
 |name|name|Calibration_Scale : Gauge_100mm_Type2_CopperTop|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Gauge_100mm_Type2_CopperTop'</td><td> 'description'</td></tr><tr><td> 'Gauge</td><td> Massstab</td><td> 100mm</td><td> CopperTop</td><td> Type 2</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Gauge Massstab 100mm  CopperTop Type 2'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

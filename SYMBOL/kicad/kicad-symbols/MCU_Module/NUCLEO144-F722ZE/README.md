@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F722ZE
 - Hex ID: SZKMCUMONUCLEO144F722ZE
 - Name: MCU_Module : NUCLEO144-F722ZE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F722ZE/
 - Description: MCU_Module : NUCLEO144-F722ZE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F722ZE](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F722ZE)
 - Short Link: [http://oom.lt/SZKMCUMONUCLEO144F722ZE](http://oom.lt/SZKMCUMONUCLEO144F722ZE)

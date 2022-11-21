@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-ESPLORA_SHIELD
 - Hex ID: FZSUESPLORASH
 - Name: User-Submitted : ESPLORA_SHIELD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/User-Submitted/ESPLORA_SHIELD/
 - Description: User-Submitted : ESPLORA_SHIELD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-ESPLORA_SHIELD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-ESPLORA_SHIELD)
 - Short Link: [http://oom.lt/FZSUESPLORASH](http://oom.lt/FZSUESPLORASH)

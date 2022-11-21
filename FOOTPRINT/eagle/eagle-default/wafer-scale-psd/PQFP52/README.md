@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-wafer-scale-psd-PQFP52
 - Hex ID: FZEWAFERSCALEPSDPQFP52
 - Name: wafer-scale-psd : PQFP52
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/wafer-scale-psd/PQFP52/
 - Description: wafer-scale-psd : PQFP52
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-wafer-scale-psd-PQFP52](http://oom.lt/FOOTPRINT-eagle-eagle-default-wafer-scale-psd-PQFP52)
 - Short Link: [http://oom.lt/FZEWAFERSCALEPSDPQFP52](http://oom.lt/FZEWAFERSCALEPSDPQFP52)

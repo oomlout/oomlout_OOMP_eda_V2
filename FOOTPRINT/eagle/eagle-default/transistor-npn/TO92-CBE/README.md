@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-npn-TO92-CBE
 - Hex ID: FZETRANSISTORNPNTO92CBE
 - Name: transistor-npn : TO92-CBE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-npn/TO92-CBE/
 - Description: transistor-npn : TO92-CBE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-TO92-CBE](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-TO92-CBE)
 - Short Link: [http://oom.lt/FZETRANSISTORNPNTO92CBE](http://oom.lt/FZETRANSISTORNPNTO92CBE)

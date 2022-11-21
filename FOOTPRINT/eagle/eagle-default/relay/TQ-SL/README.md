@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-TQ-SL
 - Hex ID: FZERELAYTQSL
 - Name: relay : TQ-SL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/TQ-SL/
 - Description: relay : TQ-SL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TQ-SL](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-TQ-SL)
 - Short Link: [http://oom.lt/FZERELAYTQSL](http://oom.lt/FZERELAYTQSL)

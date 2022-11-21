@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHTQFP114X14 > digikey-footprints : HTQFP-100_14x14mm](#fzkicaddigikeykicadlibrarydigikeyfootprintshtqfp114x14--digikey-footprints--htqfp-100_14x14mm)
+* [FZDIGIDIGIKEYFOOTPRINTSHTQFP114X14 > digikey-footprints : HTQFP-100_14x14mm](#fzdigidigikeyfootprintshtqfp114x14--digikey-footprints--htqfp-100_14x14mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHTQFP114X14 > digikey-footprints : HTQFP-100_14x14mm
+# FZDIGIDIGIKEYFOOTPRINTSHTQFP114X14 > digikey-footprints : HTQFP-100_14x14mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HTQFP-100_14x14mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHTQFP114X14
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSHTQFP114X14
 - Name: digikey-footprints : HTQFP-100_14x14mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HTQFP-100_14x14mm/
 - Description: digikey-footprints : HTQFP-100_14x14mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HTQFP-100_14x14mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HTQFP-100_14x14mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHTQFP114X14](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHTQFP114X14)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHTQFP114X14](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSHTQFP114X14)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|HTQFP-100_14x14mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HTQFP-100_14x14mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHTQFP114X14|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSHTQFP114X14|
 |name|name|digikey-footprints : HTQFP-100_14x14mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HTQFP-100_14x14mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

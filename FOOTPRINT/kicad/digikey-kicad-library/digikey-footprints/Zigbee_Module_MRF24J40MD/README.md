@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MD > digikey-footprints : Zigbee_Module_MRF24J40MD](#fzkicaddigikeykicadlibrarydigikeyfootprintszigbeemomrf24j4md--digikey-footprints--zigbee_module_mrf24j40md)
+* [FZDIGIDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MD > digikey-footprints : Zigbee_Module_MRF24J40MD](#fzdigidigikeyfootprintszigbeemomrf24j4md--digikey-footprints--zigbee_module_mrf24j40md)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MD > digikey-footprints : Zigbee_Module_MRF24J40MD
+# FZDIGIDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MD > digikey-footprints : Zigbee_Module_MRF24J40MD
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Zigbee_Module_MRF24J40MD
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MD
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MD
 - Name: digikey-footprints : Zigbee_Module_MRF24J40MD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Zigbee_Module_MRF24J40MD/
 - Description: digikey-footprints : Zigbee_Module_MRF24J40MD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Zigbee_Module_MRF24J40MD](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Zigbee_Module_MRF24J40MD)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MD](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MD)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MD](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MD)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Zigbee_Module_MRF24J40MD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Zigbee_Module_MRF24J40MD|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MD|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MD|
 |name|name|digikey-footprints : Zigbee_Module_MRF24J40MD|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Zigbee_Module_MRF24J40MD'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

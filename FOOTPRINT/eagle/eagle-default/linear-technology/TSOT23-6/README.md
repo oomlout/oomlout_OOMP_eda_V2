@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-TSOT23-6
 - Hex ID: FZELINEARTECHNOLOGYTSOT236
 - Name: linear-technology : TSOT23-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/TSOT23-6/
 - Description: linear-technology : TSOT23-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-TSOT23-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-TSOT23-6)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYTSOT236](http://oom.lt/FZELINEARTECHNOLOGYTSOT236)

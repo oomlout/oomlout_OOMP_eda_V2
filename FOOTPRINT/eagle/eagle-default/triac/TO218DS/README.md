@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-triac-TO218DS
 - Hex ID: FZETRIACTO218DS
 - Name: triac : TO218DS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/triac/TO218DS/
 - Description: triac : TO218DS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TO218DS](http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-TO218DS)
 - Short Link: [http://oom.lt/FZETRIACTO218DS](http://oom.lt/FZETRIACTO218DS)

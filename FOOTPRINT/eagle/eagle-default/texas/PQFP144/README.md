@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-PQFP144
 - Hex ID: FZETEXASPQFP144
 - Name: texas : PQFP144
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/PQFP144/
 - Description: texas : PQFP144
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PQFP144](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-PQFP144)
 - Short Link: [http://oom.lt/FZETEXASPQFP144](http://oom.lt/FZETEXASPQFP144)

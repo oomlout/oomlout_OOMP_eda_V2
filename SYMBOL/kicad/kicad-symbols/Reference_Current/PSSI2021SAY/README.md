@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Current-PSSI2021SAY
 - Hex ID: SZKREFERENCECURRENTPSSI221SAY
 - Name: Reference_Current : PSSI2021SAY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Current/PSSI2021SAY/
 - Description: Reference_Current : PSSI2021SAY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-PSSI2021SAY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-PSSI2021SAY)
 - Short Link: [http://oom.lt/SZKREFERENCECURRENTPSSI221SAY](http://oom.lt/SZKREFERENCECURRENTPSSI221SAY)

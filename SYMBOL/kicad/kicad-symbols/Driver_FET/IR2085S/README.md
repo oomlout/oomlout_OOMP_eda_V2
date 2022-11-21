@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2085S
 - Hex ID: SZKDRIVERFETIR285S
 - Name: Driver_FET : IR2085S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR2085S/
 - Description: Driver_FET : IR2085S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2085S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2085S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR285S](http://oom.lt/SZKDRIVERFETIR285S)

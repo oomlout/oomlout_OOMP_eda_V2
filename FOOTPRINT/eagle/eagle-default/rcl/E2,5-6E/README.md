@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-E2,5-6E
 - Hex ID: FZERCLE256E
 - Name: rcl : E2,5-6E
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/E2,5-6E/
 - Description: rcl : E2,5-6E
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E2,5-6E](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E2,5-6E)
 - Short Link: [http://oom.lt/FZERCLE256E](http://oom.lt/FZERCLE256E)

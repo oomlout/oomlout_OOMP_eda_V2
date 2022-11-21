@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_LineDriver-EL7242C
 - Hex ID: SZKINTERFACELINEDRIVEREL7242C
 - Name: Interface_LineDriver : EL7242C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_LineDriver/EL7242C/
 - Description: Interface_LineDriver : EL7242C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-EL7242C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-EL7242C)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVEREL7242C](http://oom.lt/SZKINTERFACELINEDRIVEREL7242C)

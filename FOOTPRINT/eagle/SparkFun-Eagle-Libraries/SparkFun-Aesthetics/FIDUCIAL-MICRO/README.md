@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIDUCIAL-MICRO
 - Hex ID: FZSAFIDM
 - Name: SparkFun-Aesthetics : FIDUCIAL-MICRO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FIDUCIAL-MICRO/
 - Description: SparkFun-Aesthetics : FIDUCIAL-MICRO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIDUCIAL-MICRO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIDUCIAL-MICRO)
 - Short Link: [http://oom.lt/FZSAFIDM](http://oom.lt/FZSAFIDM)

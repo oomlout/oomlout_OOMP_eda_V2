@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-WSC4527
 - Hex ID: FZERCLWSC4527
 - Name: rcl : WSC4527
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/WSC4527/
 - Description: rcl : WSC4527
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-WSC4527](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-WSC4527)
 - Short Link: [http://oom.lt/FZERCLWSC4527](http://oom.lt/FZERCLWSC4527)

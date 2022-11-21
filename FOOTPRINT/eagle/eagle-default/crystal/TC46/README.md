@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-crystal-TC46
 - Hex ID: FZEXTC46
 - Name: crystal : TC46
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/crystal/TC46/
 - Description: crystal : TC46
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-TC46](http://oom.lt/FOOTPRINT-eagle-eagle-default-crystal-TC46)
 - Short Link: [http://oom.lt/FZEXTC46](http://oom.lt/FZEXTC46)

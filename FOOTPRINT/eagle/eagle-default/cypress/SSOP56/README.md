@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-SSOP56
 - Hex ID: FZECYPRESSSS56
 - Name: cypress : SSOP56
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/SSOP56/
 - Description: cypress : SSOP56
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SSOP56](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SSOP56)
 - Short Link: [http://oom.lt/FZECYPRESSSS56](http://oom.lt/FZECYPRESSSS56)

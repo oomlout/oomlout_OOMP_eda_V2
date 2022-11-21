@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR423ARMZ
 - Hex ID: SZKREFERENCEVOLTAGEADR423ARMZ
 - Name: Reference_Voltage : ADR423ARMZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/ADR423ARMZ/
 - Description: Reference_Voltage : ADR423ARMZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR423ARMZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR423ARMZ)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEADR423ARMZ](http://oom.lt/SZKREFERENCEVOLTAGEADR423ARMZ)

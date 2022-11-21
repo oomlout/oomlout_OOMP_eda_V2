@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-deutsch-AS10-35
 - Hex ID: FZECONDEUTSCHAS135
 - Name: con-deutsch : AS10-35
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-deutsch/AS10-35/
 - Description: con-deutsch : AS10-35
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS10-35](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS10-35)
 - Short Link: [http://oom.lt/FZECONDEUTSCHAS135](http://oom.lt/FZECONDEUTSCHAS135)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC1220E
 - Hex ID: SZKANALOGDACDAC122E
 - Name: Analog_DAC : DAC1220E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC1220E/
 - Description: Analog_DAC : DAC1220E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC1220E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC1220E)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC122E](http://oom.lt/SZKANALOGDACDAC122E)

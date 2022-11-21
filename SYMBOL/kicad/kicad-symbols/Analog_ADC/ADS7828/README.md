@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7828
 - Hex ID: SZKANALOGADCADS7828
 - Name: Analog_ADC : ADS7828
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7828/
 - Description: Analog_ADC : ADS7828
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7828](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7828)
 - Short Link: [http://oom.lt/SZKANALOGADCADS7828](http://oom.lt/SZKANALOGADCADS7828)

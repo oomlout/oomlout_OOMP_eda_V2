@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74HC805
 - Hex ID: SZK74XXIEEE74HC85
 - Name: 74xx_IEEE : 74HC805
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74HC805/
 - Description: 74xx_IEEE : 74HC805
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74HC805](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74HC805)
 - Short Link: [http://oom.lt/SZK74XXIEEE74HC85](http://oom.lt/SZK74XXIEEE74HC85)

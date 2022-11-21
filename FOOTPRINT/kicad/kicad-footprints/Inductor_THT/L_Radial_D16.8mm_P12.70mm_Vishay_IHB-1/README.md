@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D16.8mm_P12.70mm_Vishay_IHB-1
 - Hex ID: FZKINLRD168P127VISHAYIHB1
 - Name: Inductor_THT : L_Radial_D16.8mm_P12.70mm_Vishay_IHB-1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D16.8mm_P12.70mm_Vishay_IHB-1/
 - Description: Inductor_THT : L_Radial_D16.8mm_P12.70mm_Vishay_IHB-1
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D16.8mm_P12.70mm_Vishay_IHB-1](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D16.8mm_P12.70mm_Vishay_IHB-1)
 - Short Link: [http://oom.lt/FZKINLRD168P127VISHAYIHB1](http://oom.lt/FZKINLRD168P127VISHAYIHB1)

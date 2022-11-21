@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-99-8
 - Hex ID: FZKSOTTO998
 - Name: Package_TO_SOT_THT : TO-99-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-99-8/
 - Description: Package_TO_SOT_THT : TO-99-8
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-99-8](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-99-8)
 - Short Link: [http://oom.lt/FZKSOTTO998](http://oom.lt/FZKSOTTO998)

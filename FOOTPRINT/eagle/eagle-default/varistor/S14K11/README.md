@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-S14K11
 - Hex ID: FZEVS14K11
 - Name: varistor : S14K11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/S14K11/
 - Description: varistor : S14K11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S14K11](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S14K11)
 - Short Link: [http://oom.lt/FZEVS14K11](http://oom.lt/FZEVS14K11)

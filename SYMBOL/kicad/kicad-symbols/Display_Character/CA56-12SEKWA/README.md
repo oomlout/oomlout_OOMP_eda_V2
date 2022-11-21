@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SEKWA
 - Hex ID: SZKDICHARACTERCA5612SEKWA
 - Name: Display_Character : CA56-12SEKWA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/CA56-12SEKWA/
 - Description: Display_Character : CA56-12SEKWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SEKWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SEKWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERCA5612SEKWA](http://oom.lt/SZKDICHARACTERCA5612SEKWA)

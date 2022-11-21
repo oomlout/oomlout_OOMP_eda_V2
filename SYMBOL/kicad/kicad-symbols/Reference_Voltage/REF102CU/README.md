@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102CU
 - Hex ID: SZKREFERENCEVOLTAGEREF12CU
 - Name: Reference_Voltage : REF102CU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF102CU/
 - Description: Reference_Voltage : REF102CU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102CU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102CU)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF12CU](http://oom.lt/SZKREFERENCEVOLTAGEREF12CU)

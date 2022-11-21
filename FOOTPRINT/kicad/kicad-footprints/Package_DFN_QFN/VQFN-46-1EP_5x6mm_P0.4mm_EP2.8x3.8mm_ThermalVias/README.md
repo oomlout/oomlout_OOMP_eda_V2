@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDFNVQFN461EP5X6P4EP28X38THERMALVIAS > Package_DFN_QFN : VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias](#fzkdfnvqfn461ep5x6p4ep28x38thermalvias--package_dfn_qfn--vqfn-46-1ep_5x6mm_p04mm_ep28x38mm_thermalvias)
+* [FZKDFNVQFN461EP5X6P4EP28X38THV > Package_DFN_QFN : VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias](#fzkdfnvqfn461ep5x6p4ep28x38thv--package_dfn_qfn--vqfn-46-1ep_5x6mm_p04mm_ep28x38mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDFNVQFN461EP5X6P4EP28X38THERMALVIAS > Package_DFN_QFN : VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias
+# FZKDFNVQFN461EP5X6P4EP28X38THV > Package_DFN_QFN : VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias
-- Hex ID: FZKDFNVQFN461EP5X6P4EP28X38THERMALVIAS
+- Hex ID: FZKDFNVQFN461EP5X6P4EP28X38THV
 - Name: Package_DFN_QFN : VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias/
 - Description: Package_DFN_QFN : VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKDFNVQFN461EP5X6P4EP28X38THERMALVIAS](http://oom.lt/FZKDFNVQFN461EP5X6P4EP28X38THERMALVIAS)
+- Short Link: [http://oom.lt/FZKDFNVQFN461EP5X6P4EP28X38THV](http://oom.lt/FZKDFNVQFN461EP5X6P4EP28X38THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DFN_QFN|
 |OOMP Index|oompIndex|VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKDFNVQFN461EP5X6P4EP28X38THERMALVIAS|
+|Hex ID (short code)|hexID|FZKDFNVQFN461EP5X6P4EP28X38THV|
 |name|name|Package_DFN_QFN : VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'VQFN</td><td> 46 Pin (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lp5036.pdf#page=59)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'VQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

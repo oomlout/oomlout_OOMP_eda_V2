@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-PUIAudio_SMT_0825_S_4_R
 - Hex ID: FZKBZPUIAUDIOS825S4R
 - Name: Buzzer_Beeper : PUIAudio_SMT_0825_S_4_R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/PUIAudio_SMT_0825_S_4_R/
 - Description: Buzzer_Beeper : PUIAudio_SMT_0825_S_4_R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-PUIAudio_SMT_0825_S_4_R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-PUIAudio_SMT_0825_S_4_R)
 - Short Link: [http://oom.lt/FZKBZPUIAUDIOS825S4R](http://oom.lt/FZKBZPUIAUDIOS825S4R)

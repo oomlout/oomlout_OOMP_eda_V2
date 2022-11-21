@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESOLPADMCS1B > solpad : MCS10B](#fzesolpadmcs1b--solpad--mcs10b)
+* [FZESOLPMCS1B > solpad : MCS10B](#fzesolpmcs1b--solpad--mcs10b)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESOLPADMCS1B > solpad : MCS10B
+# FZESOLPMCS1B > solpad : MCS10B
 
 - ID: FOOTPRINT-eagle-eagle-default-solpad-MCS10B
-- Hex ID: FZESOLPADMCS1B
+- Hex ID: FZESOLPMCS1B
 - Name: solpad : MCS10B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/solpad/MCS10B/
 - Description: solpad : MCS10B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-solpad-MCS10B](http://oom.lt/FOOTPRINT-eagle-eagle-default-solpad-MCS10B)
-- Short Link: [http://oom.lt/FZESOLPADMCS1B](http://oom.lt/FZESOLPADMCS1B)
+- Short Link: [http://oom.lt/FZESOLPMCS1B](http://oom.lt/FZESOLPMCS1B)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|solpad|
 |OOMP Index|oompIndex|MCS10B|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-solpad-MCS10B|
-|Hex ID (short code)|hexID|FZESOLPADMCS1B|
+|Hex ID (short code)|hexID|FZESOLPMCS1B|
 |name|name|solpad : MCS10B|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-VNH2SP30
 - Hex ID: FZSISVNH2SP3
 - Name: SparkFun-IC-Special-Function : VNH2SP30
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/VNH2SP30/
 - Description: SparkFun-IC-Special-Function : VNH2SP30
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-VNH2SP30](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-VNH2SP30)
 - Short Link: [http://oom.lt/FZSISVNH2SP3](http://oom.lt/FZSISVNH2SP3)

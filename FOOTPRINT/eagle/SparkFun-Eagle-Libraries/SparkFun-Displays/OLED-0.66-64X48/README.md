@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OLED-0.66-64X48
 - Hex ID: FZSSPARKFUNDISOL6664X48
 - Name: SparkFun-Displays : OLED-0.66-64X48
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays/OLED-0.66-64X48/
 - Description: SparkFun-Displays : OLED-0.66-64X48
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OLED-0.66-64X48](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OLED-0.66-64X48)
 - Short Link: [http://oom.lt/FZSSPARKFUNDISOL6664X48](http://oom.lt/FZSSPARKFUNDISOL6664X48)

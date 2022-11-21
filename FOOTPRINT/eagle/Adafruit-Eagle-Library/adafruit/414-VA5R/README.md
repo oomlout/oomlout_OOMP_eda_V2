@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-414-VA5R
 - Hex ID: FZA414VA5R
 - Name: adafruit : 414-VA5R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/414-VA5R/
 - Description: adafruit : 414-VA5R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-414-VA5R](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-414-VA5R)
 - Short Link: [http://oom.lt/FZA414VA5R](http://oom.lt/FZA414VA5R)

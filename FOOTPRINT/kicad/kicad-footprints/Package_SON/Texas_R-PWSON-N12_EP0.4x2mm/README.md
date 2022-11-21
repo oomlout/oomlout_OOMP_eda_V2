@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_R-PWSON-N12_EP0.4x2mm
 - Hex ID: FZKSONTEXASRPWSONN12EP4X2
 - Name: Package_SON : Texas_R-PWSON-N12_EP0.4x2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_R-PWSON-N12_EP0.4x2mm/
 - Description: Package_SON : Texas_R-PWSON-N12_EP0.4x2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_R-PWSON-N12_EP0.4x2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_R-PWSON-N12_EP0.4x2mm)
 - Short Link: [http://oom.lt/FZKSONTEXASRPWSONN12EP4X2](http://oom.lt/FZKSONTEXASRPWSONN12EP4X2)

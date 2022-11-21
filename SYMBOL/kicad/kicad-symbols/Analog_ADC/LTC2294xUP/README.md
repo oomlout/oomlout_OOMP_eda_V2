@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2294xUP
 - Hex ID: SZKANALOGADCLTC2294XUP
 - Name: Analog_ADC : LTC2294xUP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2294xUP/
 - Description: Analog_ADC : LTC2294xUP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2294xUP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2294xUP)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC2294XUP](http://oom.lt/SZKANALOGADCLTC2294XUP)

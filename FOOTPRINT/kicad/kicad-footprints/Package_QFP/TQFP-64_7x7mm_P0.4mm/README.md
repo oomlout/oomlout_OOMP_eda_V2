@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-64_7x7mm_P0.4mm
 - Hex ID: FZKQFPTQFP647X7P4
 - Name: Package_QFP : TQFP-64_7x7mm_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/TQFP-64_7x7mm_P0.4mm/
 - Description: Package_QFP : TQFP-64_7x7mm_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-64_7x7mm_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-64_7x7mm_P0.4mm)
 - Short Link: [http://oom.lt/FZKQFPTQFP647X7P4](http://oom.lt/FZKQFPTQFP647X7P4)

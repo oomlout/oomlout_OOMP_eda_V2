@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-SOT89
 - Hex ID: FZSUSOT89
 - Name: User-Submitted : SOT89
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/User-Submitted/SOT89/
 - Description: User-Submitted : SOT89
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-SOT89](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-User-Submitted-SOT89)
 - Short Link: [http://oom.lt/FZSUSOT89](http://oom.lt/FZSUSOT89)

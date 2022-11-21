@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0805-THM
 - Hex ID: FZA85T
 - Name: adafruit : 0805-THM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/0805-THM/
 - Description: adafruit : 0805-THM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0805-THM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0805-THM)
 - Short Link: [http://oom.lt/FZA85T](http://oom.lt/FZA85T)

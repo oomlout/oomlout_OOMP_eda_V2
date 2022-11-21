@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-dil-28PL
 - Hex ID: FZECONDIL28PL
 - Name: con-dil : 28PL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-dil/28PL/
 - Description: con-dil : 28PL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-28PL](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-28PL)
 - Short Link: [http://oom.lt/FZECONDIL28PL](http://oom.lt/FZECONDIL28PL)

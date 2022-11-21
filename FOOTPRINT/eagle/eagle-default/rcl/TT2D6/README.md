@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-TT2D6
 - Hex ID: FZERCLTT2D6
 - Name: rcl : TT2D6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/TT2D6/
 - Description: rcl : TT2D6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TT2D6](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-TT2D6)
 - Short Link: [http://oom.lt/FZERCLTT2D6](http://oom.lt/FZERCLTT2D6)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO262-V
 - Hex ID: FZETRANSISTORPOWERTO262V
 - Name: transistor-power : TO262-V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO262-V/
 - Description: transistor-power : TO262-V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO262-V](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO262-V)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO262V](http://oom.lt/FZETRANSISTORPOWERTO262V)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP7384-50V
 - Hex ID: SZKREGULATORLINEARAP73845V
 - Name: Regulator_Linear : AP7384-50V
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP7384-50V/
 - Description: Regulator_Linear : AP7384-50V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP7384-50V](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP7384-50V)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP73845V](http://oom.lt/SZKREGULATORLINEARAP73845V)

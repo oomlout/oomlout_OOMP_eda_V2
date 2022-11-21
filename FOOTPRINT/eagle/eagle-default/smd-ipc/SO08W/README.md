@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SO08W
 - Hex ID: FZESMIPCSO8W
 - Name: smd-ipc : SO08W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SO08W/
 - Description: smd-ipc : SO08W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SO08W](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SO08W)
 - Short Link: [http://oom.lt/FZESMIPCSO8W](http://oom.lt/FZESMIPCSO8W)

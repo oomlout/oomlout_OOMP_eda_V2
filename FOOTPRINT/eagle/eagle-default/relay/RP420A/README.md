@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RP420A
 - Hex ID: FZERELAYRP42A
 - Name: relay : RP420A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RP420A/
 - Description: relay : RP420A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RP420A](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RP420A)
 - Short Link: [http://oom.lt/FZERELAYRP42A](http://oom.lt/FZERELAYRP42A)

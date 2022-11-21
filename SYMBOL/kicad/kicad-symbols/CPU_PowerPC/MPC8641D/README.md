@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPU_PowerPC-MPC8641D
 - Hex ID: SZKCPUPOWERPCMPC8641D
 - Name: CPU_PowerPC : MPC8641D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_PowerPC/MPC8641D/
 - Description: CPU_PowerPC : MPC8641D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_PowerPC-MPC8641D](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_PowerPC-MPC8641D)
 - Short Link: [http://oom.lt/SZKCPUPOWERPCMPC8641D](http://oom.lt/SZKCPUPOWERPCMPC8641D)

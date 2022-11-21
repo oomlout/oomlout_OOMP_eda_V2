@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DB9
 - Hex ID: FZSSPARKFUNCNSDB9
 - Name: SparkFun-Connectors : DB9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/DB9/
 - Description: SparkFun-Connectors : DB9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DB9](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DB9)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSDB9](http://oom.lt/FZSSPARKFUNCNSDB9)

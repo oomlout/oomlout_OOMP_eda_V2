@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-DIL18
 - Hex ID: FZSISDIL18
 - Name: SparkFun-IC-Special-Function : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/DIL18/
 - Description: SparkFun-IC-Special-Function : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-DIL18](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-DIL18)
 - Short Link: [http://oom.lt/FZSISDIL18](http://oom.lt/FZSISDIL18)

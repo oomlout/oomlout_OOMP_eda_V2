@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1461DxS8-2.5
 - Hex ID: SZKREFERENCEVOLTAGELT1461DXS825
 - Name: Reference_Voltage : LT1461DxS8-2.5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LT1461DxS8-2.5/
 - Description: Reference_Voltage : LT1461DxS8-2.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1461DxS8-2.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1461DxS8-2.5)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELT1461DXS825](http://oom.lt/SZKREFERENCEVOLTAGELT1461DXS825)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-75ALS176
 - Hex ID: FZETEXAS75ALS176
 - Name: texas : 75ALS176
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/75ALS176/
 - Description: texas : 75ALS176
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-75ALS176](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-75ALS176)
 - Short Link: [http://oom.lt/FZETEXAS75ALS176](http://oom.lt/FZETEXAS75ALS176)

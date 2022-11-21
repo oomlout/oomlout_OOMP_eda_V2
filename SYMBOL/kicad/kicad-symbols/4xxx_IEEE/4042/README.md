@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4042
 - Hex ID: SZK4XXXIEEE442
 - Name: 4xxx_IEEE : 4042
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4042/
 - Description: 4xxx_IEEE : 4042
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4042](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4042)
 - Short Link: [http://oom.lt/SZK4XXXIEEE442](http://oom.lt/SZK4XXXIEEE442)

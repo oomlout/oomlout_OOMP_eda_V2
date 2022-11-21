@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G80
 - Hex ID: SZK74XGXX74AUC2G8
 - Name: 74xGxx : 74AUC2G80
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74AUC2G80/
 - Description: 74xGxx : 74AUC2G80
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G80](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G80)
 - Short Link: [http://oom.lt/SZK74XGXX74AUC2G8](http://oom.lt/SZK74XGXX74AUC2G8)

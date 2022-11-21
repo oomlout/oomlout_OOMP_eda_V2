@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Micro_SD_Card
 - Hex ID: SZKCNMSDCARD
 - Name: Connector : Micro_SD_Card
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Micro_SD_Card/
 - Description: Connector : Micro_SD_Card
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Micro_SD_Card](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Micro_SD_Card)
 - Short Link: [http://oom.lt/SZKCNMSDCARD](http://oom.lt/SZKCNMSDCARD)

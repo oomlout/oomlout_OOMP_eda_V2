@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-DIL24-6
 - Hex ID: FZEMPHILIPSDIL246
 - Name: micro-philips : DIL24-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/DIL24-6/
 - Description: micro-philips : DIL24-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-DIL24-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-DIL24-6)
 - Short Link: [http://oom.lt/FZEMPHILIPSDIL246](http://oom.lt/FZEMPHILIPSDIL246)

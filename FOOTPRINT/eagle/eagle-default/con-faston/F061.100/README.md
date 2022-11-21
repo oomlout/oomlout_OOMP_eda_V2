@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-faston-F061.100
 - Hex ID: FZECONFASTONF611
 - Name: con-faston : F061.100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-faston/F061.100/
 - Description: con-faston : F061.100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-faston-F061.100](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-faston-F061.100)
 - Short Link: [http://oom.lt/FZECONFASTONF611](http://oom.lt/FZECONFASTONF611)

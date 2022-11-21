@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Pack04_SIP_Split
 - Hex ID: SZKDEVICERPACK4SIPSPLIT
 - Name: Device : R_Pack04_SIP_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/R_Pack04_SIP_Split/
 - Description: Device : R_Pack04_SIP_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack04_SIP_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack04_SIP_Split)
 - Short Link: [http://oom.lt/SZKDEVICERPACK4SIPSPLIT](http://oom.lt/SZKDEVICERPACK4SIPSPLIT)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SB
 - Hex ID: FZKDFETDIRECTFETSB
 - Name: Package_DirectFET : DirectFET_SB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_SB/
 - Description: Package_DirectFET : DirectFET_SB
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SB](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SB)
 - Short Link: [http://oom.lt/FZKDFETDIRECTFETSB](http://oom.lt/FZKDFETDIRECTFETSB)

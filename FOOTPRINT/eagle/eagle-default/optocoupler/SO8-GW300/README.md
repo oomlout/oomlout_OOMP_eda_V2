@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-SO8-GW300
 - Hex ID: FZEOPTOCOUPLERSO8GW3
 - Name: optocoupler : SO8-GW300
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/SO8-GW300/
 - Description: optocoupler : SO8-GW300
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SO8-GW300](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-SO8-GW300)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERSO8GW3](http://oom.lt/FZEOPTOCOUPLERSO8GW3)

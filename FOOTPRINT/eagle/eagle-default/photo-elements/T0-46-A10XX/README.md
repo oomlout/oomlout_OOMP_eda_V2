@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-photo-elements-T0-46-A10XX
 - Hex ID: FZEPHOTOELEMENTST46A1XX
 - Name: photo-elements : T0-46-A10XX
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/photo-elements/T0-46-A10XX/
 - Description: photo-elements : T0-46-A10XX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-T0-46-A10XX](http://oom.lt/FOOTPRINT-eagle-eagle-default-photo-elements-T0-46-A10XX)
 - Short Link: [http://oom.lt/FZEPHOTOELEMENTST46A1XX](http://oom.lt/FZEPHOTOELEMENTST46A1XX)

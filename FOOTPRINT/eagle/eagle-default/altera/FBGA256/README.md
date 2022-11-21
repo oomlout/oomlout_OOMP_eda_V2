@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-FBGA256
 - Hex ID: FZEALTERAFBGA256
 - Name: altera : FBGA256
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/FBGA256/
 - Description: altera : FBGA256
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-FBGA256](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-FBGA256)
 - Short Link: [http://oom.lt/FZEALTERAFBGA256](http://oom.lt/FZEALTERAFBGA256)

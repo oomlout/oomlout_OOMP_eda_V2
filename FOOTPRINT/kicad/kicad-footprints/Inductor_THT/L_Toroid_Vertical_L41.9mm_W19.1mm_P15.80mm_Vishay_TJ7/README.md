@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINLTOROIDVERTICALL419W191P158VISHAYTJ7 > Inductor_THT : L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7](#fzkinltoroidverticall419w191p158vishaytj7--inductor_tht--l_toroid_vertical_l419mm_w191mm_p1580mm_vishay_tj7)
+* [FZKINLTFL419W191P158VISHAYTJ7 > Inductor_THT : L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7](#fzkinltfl419w191p158vishaytj7--inductor_tht--l_toroid_vertical_l419mm_w191mm_p1580mm_vishay_tj7)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINLTOROIDVERTICALL419W191P158VISHAYTJ7 > Inductor_THT : L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7
+# FZKINLTFL419W191P158VISHAYTJ7 > Inductor_THT : L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7
-- Hex ID: FZKINLTOROIDVERTICALL419W191P158VISHAYTJ7
+- Hex ID: FZKINLTFL419W191P158VISHAYTJ7
 - Name: Inductor_THT : L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7/
 - Description: Inductor_THT : L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7)
-- Short Link: [http://oom.lt/FZKINLTOROIDVERTICALL419W191P158VISHAYTJ7](http://oom.lt/FZKINLTOROIDVERTICALL419W191P158VISHAYTJ7)
+- Short Link: [http://oom.lt/FZKINLTFL419W191P158VISHAYTJ7](http://oom.lt/FZKINLTFL419W191P158VISHAYTJ7)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_THT|
 |OOMP Index|oompIndex|L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7|
-|Hex ID (short code)|hexID|FZKINLTOROIDVERTICALL419W191P158VISHAYTJ7|
+|Hex ID (short code)|hexID|FZKINLTFL419W191P158VISHAYTJ7|
 |name|name|Inductor_THT : L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7'</td><td> 'description'</td></tr><tr><td> 'L_Toroid</td><td> Vertical series</td><td> Radial</td><td> pin pitch=15.80mm</td><td> </td><td> length*width=41.9*19.1mm^2</td><td> Vishay</td><td> TJ7</td><td> http</td></tr><tr><td>//www.vishay.com/docs/34079/tj.pdf'</td><td> 'tags'</td></tr><tr><td> 'L_Toroid Vertical series Radial pin pitch 15.80mm  length 41.9mm width 19.1mm Vishay TJ7'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

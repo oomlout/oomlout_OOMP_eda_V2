@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC121C081CIMK
 - Hex ID: SZKANALOGDACDAC121C81CIMK
 - Name: Analog_DAC : DAC121C081CIMK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC121C081CIMK/
 - Description: Analog_DAC : DAC121C081CIMK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC121C081CIMK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC121C081CIMK)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC121C81CIMK](http://oom.lt/SZKANALOGDACDAC121C81CIMK)

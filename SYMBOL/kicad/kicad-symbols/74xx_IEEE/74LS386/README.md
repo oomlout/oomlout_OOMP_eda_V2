@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS386
 - Hex ID: SZK74XXIEEE74LS386
 - Name: 74xx_IEEE : 74LS386
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74LS386/
 - Description: 74xx_IEEE : 74LS386
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS386](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS386)
 - Short Link: [http://oom.lt/SZK74XXIEEE74LS386](http://oom.lt/SZK74XXIEEE74LS386)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Haptic-DRV2510-Q1
 - Hex ID: SZKDRIVERHAPTICDRV251Q1
 - Name: Driver_Haptic : DRV2510-Q1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Haptic/DRV2510-Q1/
 - Description: Driver_Haptic : DRV2510-Q1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Haptic-DRV2510-Q1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Haptic-DRV2510-Q1)
 - Short Link: [http://oom.lt/SZKDRIVERHAPTICDRV251Q1](http://oom.lt/SZKDRIVERHAPTICDRV251Q1)

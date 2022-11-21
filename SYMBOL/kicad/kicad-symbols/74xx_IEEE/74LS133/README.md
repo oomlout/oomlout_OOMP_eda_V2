@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS133
 - Hex ID: SZK74XXIEEE74LS133
 - Name: 74xx_IEEE : 74LS133
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74LS133/
 - Description: 74xx_IEEE : 74LS133
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS133](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS133)
 - Short Link: [http://oom.lt/SZK74XXIEEE74LS133](http://oom.lt/SZK74XXIEEE74LS133)

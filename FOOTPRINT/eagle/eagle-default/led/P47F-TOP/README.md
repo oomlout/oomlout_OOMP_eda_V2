@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-P47F-TOP
 - Hex ID: FZELP47FTOP
 - Name: led : P47F-TOP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/P47F-TOP/
 - Description: led : P47F-TOP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-P47F-TOP](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-P47F-TOP)
 - Short Link: [http://oom.lt/FZELP47FTOP](http://oom.lt/FZELP47FTOP)

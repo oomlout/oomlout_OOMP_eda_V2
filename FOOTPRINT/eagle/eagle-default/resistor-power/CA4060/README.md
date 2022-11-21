@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-power-CA4060
 - Hex ID: FZERESISTORPOWERCA46
 - Name: resistor-power : CA4060
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-power/CA4060/
 - Description: resistor-power : CA4060
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA4060](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-power-CA4060)
 - Short Link: [http://oom.lt/FZERESISTORPOWERCA46](http://oom.lt/FZERESISTORPOWERCA46)

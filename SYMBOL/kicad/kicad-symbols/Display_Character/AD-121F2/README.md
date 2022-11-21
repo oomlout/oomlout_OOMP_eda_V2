@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-AD-121F2
 - Hex ID: SZKDICHARACTERAD121F2
 - Name: Display_Character : AD-121F2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/AD-121F2/
 - Description: Display_Character : AD-121F2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-AD-121F2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-AD-121F2)
 - Short Link: [http://oom.lt/SZKDICHARACTERAD121F2](http://oom.lt/SZKDICHARACTERAD121F2)

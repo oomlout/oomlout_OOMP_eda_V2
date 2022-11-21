@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SC70
 - Hex ID: FZSSPARKFUNSENSSC7
 - Name: SparkFun-Sensors : SC70
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/SC70/
 - Description: SparkFun-Sensors : SC70
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SC70](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SC70)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSSC7](http://oom.lt/FZSSPARKFUNSENSSC7)

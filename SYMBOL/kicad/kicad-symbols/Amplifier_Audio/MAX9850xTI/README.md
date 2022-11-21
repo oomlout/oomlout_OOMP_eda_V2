@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9850xTI
 - Hex ID: SZKAMPLIFIERAUDIOMAX985XTI
 - Name: Amplifier_Audio : MAX9850xTI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/MAX9850xTI/
 - Description: Amplifier_Audio : MAX9850xTI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9850xTI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9850xTI)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOMAX985XTI](http://oom.lt/SZKAMPLIFIERAUDIOMAX985XTI)

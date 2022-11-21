@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TC26V
 - Hex ID: FZATC26V
 - Name: adafruit : TC26V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TC26V/
 - Description: adafruit : TC26V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TC26V](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TC26V)
 - Short Link: [http://oom.lt/FZATC26V](http://oom.lt/FZATC26V)

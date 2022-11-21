@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-MBGA100
 - Hex ID: FZEALTERAMBGA1
 - Name: altera : MBGA100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/MBGA100/
 - Description: altera : MBGA100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-MBGA100](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-MBGA100)
 - Short Link: [http://oom.lt/FZEALTERAMBGA1](http://oom.lt/FZEALTERAMBGA1)

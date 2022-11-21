@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7208
 - Hex ID: SZKMEMORYRAMIDT728
 - Name: Memory_RAM : IDT7208
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/IDT7208/
 - Description: Memory_RAM : IDT7208
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7208](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7208)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIDT728](http://oom.lt/SZKMEMORYRAMIDT728)

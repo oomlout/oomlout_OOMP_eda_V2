@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-PCI_BRD
 - Hex ID: FZECONPCPCIBRD
 - Name: con-pc : PCI_BRD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc/PCI_BRD/
 - Description: con-pc : PCI_BRD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-PCI_BRD](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-PCI_BRD)
 - Short Link: [http://oom.lt/FZECONPCPCIBRD](http://oom.lt/FZECONPCPCIBRD)

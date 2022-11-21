@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8620
 - Hex ID: SZKAMPLIFIEROPERATIONALAD862
 - Name: Amplifier_Operational : AD8620
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/AD8620/
 - Description: Amplifier_Operational : AD8620
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8620](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8620)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALAD862](http://oom.lt/SZKAMPLIFIEROPERATIONALAD862)

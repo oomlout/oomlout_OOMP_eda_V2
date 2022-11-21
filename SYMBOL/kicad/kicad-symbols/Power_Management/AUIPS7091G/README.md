@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7091G
 - Hex ID: SZKPOWERMANAGEMENTAUIPS791G
 - Name: Power_Management : AUIPS7091G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS7091G/
 - Description: Power_Management : AUIPS7091G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7091G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7091G)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIPS791G](http://oom.lt/SZKPOWERMANAGEMENTAUIPS791G)

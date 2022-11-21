@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-dil-IC40PL
 - Hex ID: FZECONDILIC4PL
 - Name: con-dil : IC40PL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-dil/IC40PL/
 - Description: con-dil : IC40PL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-IC40PL](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-IC40PL)
 - Short Link: [http://oom.lt/FZECONDILIC4PL](http://oom.lt/FZECONDILIC4PL)

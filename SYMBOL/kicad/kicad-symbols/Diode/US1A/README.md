@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-US1A
 - Hex ID: SZKDIODEUS1A
 - Name: Diode : US1A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/US1A/
 - Description: Diode : US1A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US1A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US1A)
 - Short Link: [http://oom.lt/SZKDIODEUS1A](http://oom.lt/SZKDIODEUS1A)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F410RBIx
 - Hex ID: SZKMCUSTSTM32F4STM32F41RBIX
 - Name: MCU_ST_STM32F4 : STM32F410RBIx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F410RBIx/
 - Description: MCU_ST_STM32F4 : STM32F410RBIx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F410RBIx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F410RBIx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F41RBIX](http://oom.lt/SZKMCUSTSTM32F4STM32F41RBIX)

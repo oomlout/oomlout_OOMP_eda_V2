@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-IEEE1394
 - Hex ID: FZECONYAMAICHIIEEE1394
 - Name: con-yamaichi : IEEE1394
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-yamaichi/IEEE1394/
 - Description: con-yamaichi : IEEE1394
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-IEEE1394](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-IEEE1394)
 - Short Link: [http://oom.lt/FZECONYAMAICHIIEEE1394](http://oom.lt/FZECONYAMAICHIIEEE1394)

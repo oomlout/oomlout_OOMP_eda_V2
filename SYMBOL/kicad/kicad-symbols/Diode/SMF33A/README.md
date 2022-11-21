@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF33A
 - Hex ID: SZKDIODESMF33A
 - Name: Diode : SMF33A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SMF33A/
 - Description: Diode : SMF33A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF33A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF33A)
 - Short Link: [http://oom.lt/SZKDIODESMF33A](http://oom.lt/SZKDIODESMF33A)

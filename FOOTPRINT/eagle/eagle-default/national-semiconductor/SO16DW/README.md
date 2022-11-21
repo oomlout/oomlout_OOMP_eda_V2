@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-SO16DW
 - Hex ID: FZENATIONALSEMICONDUCTORSO16DW
 - Name: national-semiconductor : SO16DW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/national-semiconductor/SO16DW/
 - Description: national-semiconductor : SO16DW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-SO16DW](http://oom.lt/FOOTPRINT-eagle-eagle-default-national-semiconductor-SO16DW)
 - Short Link: [http://oom.lt/FZENATIONALSEMICONDUCTORSO16DW](http://oom.lt/FZENATIONALSEMICONDUCTORSO16DW)

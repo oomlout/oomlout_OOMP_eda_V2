@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Memristor
 - Hex ID: SZKDEVICEMEMRISTOR
 - Name: Device : Memristor
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Memristor/
 - Description: Device : Memristor
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Memristor](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Memristor)
 - Short Link: [http://oom.lt/SZKDEVICEMEMRISTOR](http://oom.lt/SZKDEVICEMEMRISTOR)

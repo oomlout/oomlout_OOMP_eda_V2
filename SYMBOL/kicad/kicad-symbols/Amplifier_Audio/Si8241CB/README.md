@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-Si8241CB
 - Hex ID: SZKAMPLIFIERAUDIOSI8241CB
 - Name: Amplifier_Audio : Si8241CB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/Si8241CB/
 - Description: Amplifier_Audio : Si8241CB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-Si8241CB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-Si8241CB)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOSI8241CB](http://oom.lt/SZKAMPLIFIERAUDIOSI8241CB)

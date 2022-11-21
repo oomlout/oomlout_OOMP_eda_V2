@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-LS022C
 - Hex ID: FZEDILCDLS22C
 - Name: display-lcd : LS022C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-lcd/LS022C/
 - Description: display-lcd : LS022C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-LS022C](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-LS022C)
 - Short Link: [http://oom.lt/FZEDILCDLS22C](http://oom.lt/FZEDILCDLS22C)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QSOP-24_3.9x8.7mm_P0.635mm
 - Hex ID: FZKSENCURRENTALLEGROQS2439X87P635
 - Name: Sensor_Current : Allegro_QSOP-24_3.9x8.7mm_P0.635mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/
 - Description: Sensor_Current : Allegro_QSOP-24_3.9x8.7mm_P0.635mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QSOP-24_3.9x8.7mm_P0.635mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QSOP-24_3.9x8.7mm_P0.635mm)
 - Short Link: [http://oom.lt/FZKSENCURRENTALLEGROQS2439X87P635](http://oom.lt/FZKSENCURRENTALLEGROQS2439X87P635)

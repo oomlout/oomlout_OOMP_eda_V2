@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO161R4O16 > oomlout_OOMP_parts : RESE-0402-X-O106-01-R4O106](#szkicadoomloutoompkicadoomloutoomppartsrese42xo161r4o16--oomlout_oomp_parts--rese-0402-x-o106-01-r4o106)
+* [SZOOMPKOOMPPRESE42XO161R4O16 > oomlout_OOMP_parts : RESE-0402-X-O106-01-R4O106](#szoompkoompprese42xo161r4o16--oomlout_oomp_parts--rese-0402-x-o106-01-r4o106)
 	* [Tags](#tags)
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO161R4O16 > oomlout_OOMP_parts : RESE-0402-X-O106-01-R4O106
+# SZOOMPKOOMPPRESE42XO161R4O16 > oomlout_OOMP_parts : RESE-0402-X-O106-01-R4O106
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O106-01-R4O106
-- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO161R4O16
+- Hex ID: SZOOMPKOOMPPRESE42XO161R4O16
 - Name: oomlout_OOMP_parts : RESE-0402-X-O106-01-R4O106
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0402-X-O106-01-R4O106/
 - Description: oomlout_OOMP_parts : RESE-0402-X-O106-01-R4O106
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O106-01-R4O106](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O106-01-R4O106)
-- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO161R4O16](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO161R4O16)
+- Short Link: [http://oom.lt/SZOOMPKOOMPPRESE42XO161R4O16](http://oom.lt/SZOOMPKOOMPPRESE42XO161R4O16)
   
 NO IMAGES  
 ## Tags
@@ -30,7 +31,7 @@ NO IMAGES
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0402-X-O106-01-R4O106|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O106-01-R4O106|
-|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO161R4O16|
+|Hex ID (short code)|hexID|SZOOMPKOOMPPRESE42XO161R4O16|
 |name|name|oomlout_OOMP_parts : RESE-0402-X-O106-01-R4O106|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0402-X-O106-01-R4O106'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0402-X-O106-01-R4O106'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R4O106'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4O106;PARTL C-JLCC;C26082;MANUF C-XXXX;0402WGF1005TCE;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

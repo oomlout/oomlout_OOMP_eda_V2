@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Maple_Mini
 - Hex ID: SZKMCUMOMAPLEM
 - Name: MCU_Module : Maple_Mini
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Maple_Mini/
 - Description: MCU_Module : Maple_Mini
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Maple_Mini](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Maple_Mini)
 - Short Link: [http://oom.lt/SZKMCUMOMAPLEM](http://oom.lt/SZKMCUMOMAPLEM)

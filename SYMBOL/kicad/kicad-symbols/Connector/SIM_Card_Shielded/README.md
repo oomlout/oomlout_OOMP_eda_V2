@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-SIM_Card_Shielded
 - Hex ID: SZKCNSIMCARDSHED
 - Name: Connector : SIM_Card_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/SIM_Card_Shielded/
 - Description: Connector : SIM_Card_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SIM_Card_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SIM_Card_Shielded)
 - Short Link: [http://oom.lt/SZKCNSIMCARDSHED](http://oom.lt/SZKCNSIMCARDSHED)

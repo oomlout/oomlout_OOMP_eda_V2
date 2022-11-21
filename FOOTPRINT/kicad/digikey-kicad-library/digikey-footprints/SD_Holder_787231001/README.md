@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSDHOLDER7872311 > digikey-footprints : SD_Holder_787231001](#fzkicaddigikeykicadlibrarydigikeyfootprintssdholder7872311--digikey-footprints--sd_holder_787231001)
+* [FZDIGIDIGIKEYFOOTPRINTSSDH7872311 > digikey-footprints : SD_Holder_787231001](#fzdigidigikeyfootprintssdh7872311--digikey-footprints--sd_holder_787231001)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSDHOLDER7872311 > digikey-footprints : SD_Holder_787231001
+# FZDIGIDIGIKEYFOOTPRINTSSDH7872311 > digikey-footprints : SD_Holder_787231001
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SD_Holder_787231001
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSDHOLDER7872311
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSSDH7872311
 - Name: digikey-footprints : SD_Holder_787231001
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SD_Holder_787231001/
 - Description: digikey-footprints : SD_Holder_787231001
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SD_Holder_787231001](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SD_Holder_787231001)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSDHOLDER7872311](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSDHOLDER7872311)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSDH7872311](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSSDH7872311)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|SD_Holder_787231001|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SD_Holder_787231001|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSDHOLDER7872311|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSSDH7872311|
 |name|name|digikey-footprints : SD_Holder_787231001|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SD_Holder_787231001'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

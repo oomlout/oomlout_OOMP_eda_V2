@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-HTSSOP32
 - Hex ID: FZSISHTSS32
 - Name: SparkFun-IC-Special-Function : HTSSOP32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/HTSSOP32/
 - Description: SparkFun-IC-Special-Function : HTSSOP32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-HTSSOP32](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-HTSSOP32)
 - Short Link: [http://oom.lt/FZSISHTSS32](http://oom.lt/FZSISHTSS32)

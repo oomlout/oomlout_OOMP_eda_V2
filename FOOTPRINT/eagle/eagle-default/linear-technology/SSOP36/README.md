@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-SSOP36
 - Hex ID: FZELINEARTECHNOLOGYSS36
 - Name: linear-technology : SSOP36
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear-technology/SSOP36/
 - Description: linear-technology : SSOP36
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-SSOP36](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-technology-SSOP36)
 - Short Link: [http://oom.lt/FZELINEARTECHNOLOGYSS36](http://oom.lt/FZELINEARTECHNOLOGYSS36)

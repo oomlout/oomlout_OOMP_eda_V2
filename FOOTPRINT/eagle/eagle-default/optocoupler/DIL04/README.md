@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-optocoupler-DIL04
 - Hex ID: FZEOPTOCOUPLERDIL4
 - Name: optocoupler : DIL04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/optocoupler/DIL04/
 - Description: optocoupler : DIL04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-DIL04](http://oom.lt/FOOTPRINT-eagle-eagle-default-optocoupler-DIL04)
 - Short Link: [http://oom.lt/FZEOPTOCOUPLERDIL4](http://oom.lt/FZEOPTOCOUPLERDIL4)

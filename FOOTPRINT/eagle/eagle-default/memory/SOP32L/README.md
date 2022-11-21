@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-SOP32L
 - Hex ID: FZEMEMORYS32L
 - Name: memory : SOP32L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory/SOP32L/
 - Description: memory : SOP32L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-SOP32L](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-SOP32L)
 - Short Link: [http://oom.lt/FZEMEMORYS32L](http://oom.lt/FZEMEMORYS32L)

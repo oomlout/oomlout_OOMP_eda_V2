@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4E02B04DQA
 - Hex ID: SZKPOWERPROTECTIONTPD4E2B4DQA
 - Name: Power_Protection : TPD4E02B04DQA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD4E02B04DQA/
 - Description: Power_Protection : TPD4E02B04DQA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4E02B04DQA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4E02B04DQA)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTPD4E2B4DQA](http://oom.lt/SZKPOWERPROTECTIONTPD4E2B4DQA)

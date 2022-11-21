@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-microchip-SSOP28
 - Hex ID: FZEMCHIPSS28
 - Name: microchip : SSOP28
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/microchip/SSOP28/
 - Description: microchip : SSOP28
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SSOP28](http://oom.lt/FOOTPRINT-eagle-eagle-default-microchip-SSOP28)
 - Short Link: [http://oom.lt/FZEMCHIPSS28](http://oom.lt/FZEMCHIPSS28)

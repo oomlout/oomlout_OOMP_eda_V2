@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ11
 - Hex ID: SZKCNRJ11
 - Name: Connector : RJ11
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ11/
 - Description: Connector : RJ11
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ11](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ11)
 - Short Link: [http://oom.lt/SZKCNRJ11](http://oom.lt/SZKCNRJ11)

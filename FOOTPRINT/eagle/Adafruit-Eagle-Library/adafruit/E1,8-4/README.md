@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E1,8-4
 - Hex ID: FZAE184
 - Name: adafruit : E1,8-4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E1,8-4/
 - Description: adafruit : E1,8-4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E1,8-4](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E1,8-4)
 - Short Link: [http://oom.lt/FZAE184](http://oom.lt/FZAE184)

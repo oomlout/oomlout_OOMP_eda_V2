@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-AXIAL-0.1-KIT
 - Hex ID: FZSRA1K
 - Name: SparkFun-Resistors : AXIAL-0.1-KIT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/AXIAL-0.1-KIT/
 - Description: SparkFun-Resistors : AXIAL-0.1-KIT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-AXIAL-0.1-KIT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-AXIAL-0.1-KIT)
 - Short Link: [http://oom.lt/FZSRA1K](http://oom.lt/FZSRA1K)

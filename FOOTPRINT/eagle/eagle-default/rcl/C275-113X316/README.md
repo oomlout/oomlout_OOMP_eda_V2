@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C275-113X316
 - Hex ID: FZERCLC275113X316
 - Name: rcl : C275-113X316
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C275-113X316/
 - Description: rcl : C275-113X316
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C275-113X316](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C275-113X316)
 - Short Link: [http://oom.lt/FZERCLC275113X316](http://oom.lt/FZERCLC275113X316)

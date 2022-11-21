@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X12
 - Hex ID: FZSRT2X12
 - Name: SparkFun-Retired : 2X12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/2X12/
 - Description: SparkFun-Retired : 2X12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X12](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-2X12)
 - Short Link: [http://oom.lt/FZSRT2X12](http://oom.lt/FZSRT2X12)

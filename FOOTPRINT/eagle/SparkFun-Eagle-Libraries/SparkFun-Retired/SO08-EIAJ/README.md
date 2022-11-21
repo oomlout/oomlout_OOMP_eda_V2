@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO08-EIAJ
 - Hex ID: FZSRTSO8EIAJ
 - Name: SparkFun-Retired : SO08-EIAJ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SO08-EIAJ/
 - Description: SparkFun-Retired : SO08-EIAJ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO08-EIAJ](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO08-EIAJ)
 - Short Link: [http://oom.lt/FZSRTSO8EIAJ](http://oom.lt/FZSRTSO8EIAJ)

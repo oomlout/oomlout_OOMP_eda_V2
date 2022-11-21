@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOHTSS21EP44X65P65EP34X65MASK296X296THERMALVIAS > Package_SO : HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias](#fzksohtss21ep44x65p65ep34x65mask296x296thermalvias--package_so--htssop-20-1ep_44x65mm_p065mm_ep34x65mm_mask296x296mm_thermalvias)
+* [FZKSOHTSS21EP44X65P65EP34X65MASK296X296THV > Package_SO : HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias](#fzksohtss21ep44x65p65ep34x65mask296x296thv--package_so--htssop-20-1ep_44x65mm_p065mm_ep34x65mm_mask296x296mm_thermalvias)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOHTSS21EP44X65P65EP34X65MASK296X296THERMALVIAS > Package_SO : HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias
+# FZKSOHTSS21EP44X65P65EP34X65MASK296X296THV > Package_SO : HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias
-- Hex ID: FZKSOHTSS21EP44X65P65EP34X65MASK296X296THERMALVIAS
+- Hex ID: FZKSOHTSS21EP44X65P65EP34X65MASK296X296THV
 - Name: Package_SO : HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias/
 - Description: Package_SO : HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias)
-- Short Link: [http://oom.lt/FZKSOHTSS21EP44X65P65EP34X65MASK296X296THERMALVIAS](http://oom.lt/FZKSOHTSS21EP44X65P65EP34X65MASK296X296THERMALVIAS)
+- Short Link: [http://oom.lt/FZKSOHTSS21EP44X65P65EP34X65MASK296X296THV](http://oom.lt/FZKSOHTSS21EP44X65P65EP34X65MASK296X296THV)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_SO|
 |OOMP Index|oompIndex|HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias|
-|Hex ID (short code)|hexID|FZKSOHTSS21EP44X65P65EP34X65MASK296X296THERMALVIAS|
+|Hex ID (short code)|hexID|FZKSOHTSS21EP44X65P65EP34X65MASK296X296THV|
 |name|name|Package_SO : HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'HTSSOP</td><td> 20 Pin (https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps2663.pdf#page=49)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'HTSSOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

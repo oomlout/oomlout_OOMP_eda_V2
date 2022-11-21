@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VFX100T-FF1136
 - Hex ID: SZKFPGAXILINXVIRTEX5XC5VFX1TFF1136
 - Name: FPGA_Xilinx_Virtex5 : XC5VFX100T-FF1136
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex5/XC5VFX100T-FF1136/
 - Description: FPGA_Xilinx_Virtex5 : XC5VFX100T-FF1136
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VFX100T-FF1136](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VFX100T-FF1136)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VFX1TFF1136](http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VFX1TFF1136)

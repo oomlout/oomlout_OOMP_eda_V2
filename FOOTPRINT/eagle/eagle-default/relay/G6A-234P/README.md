@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-G6A-234P
 - Hex ID: FZERELAYG6A234P
 - Name: relay : G6A-234P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/G6A-234P/
 - Description: relay : G6A-234P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G6A-234P](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-G6A-234P)
 - Short Link: [http://oom.lt/FZERELAYG6A234P](http://oom.lt/FZERELAYG6A234P)

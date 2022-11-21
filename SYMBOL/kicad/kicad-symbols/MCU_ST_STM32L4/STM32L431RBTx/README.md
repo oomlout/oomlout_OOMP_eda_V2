@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L431RBTx
 - Hex ID: SZKMCUSTSTM32L4STM32L431RBTX
 - Name: MCU_ST_STM32L4 : STM32L431RBTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L431RBTx/
 - Description: MCU_ST_STM32L4 : STM32L431RBTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L431RBTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L431RBTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L431RBTX](http://oom.lt/SZKMCUSTSTM32L4STM32L431RBTX)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365DDB-1
 - Hex ID: SZKPOWERMANAGEMENTLTC4365DDB1
 - Name: Power_Management : LTC4365DDB-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4365DDB-1/
 - Description: Power_Management : LTC4365DDB-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365DDB-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365DDB-1)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4365DDB1](http://oom.lt/SZKPOWERMANAGEMENTLTC4365DDB1)

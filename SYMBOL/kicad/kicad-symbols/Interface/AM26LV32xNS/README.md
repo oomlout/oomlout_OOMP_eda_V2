@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-AM26LV32xNS
 - Hex ID: SZKINTERFACEAM26LV32XNS
 - Name: Interface : AM26LV32xNS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/AM26LV32xNS/
 - Description: Interface : AM26LV32xNS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AM26LV32xNS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AM26LV32xNS)
 - Short Link: [http://oom.lt/SZKINTERFACEAM26LV32XNS](http://oom.lt/SZKINTERFACEAM26LV32XNS)

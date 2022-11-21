@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-WEEE-Logo_4.2x6mm_SilkScreen
 - Hex ID: FZKSZWEEEL42X6SILKSCREEN
 - Name: Symbol : WEEE-Logo_4.2x6mm_SilkScreen
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/WEEE-Logo_4.2x6mm_SilkScreen/
 - Description: Symbol : WEEE-Logo_4.2x6mm_SilkScreen
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-WEEE-Logo_4.2x6mm_SilkScreen](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-WEEE-Logo_4.2x6mm_SilkScreen)
 - Short Link: [http://oom.lt/FZKSZWEEEL42X6SILKSCREEN](http://oom.lt/FZKSZWEEEL42X6SILKSCREEN)

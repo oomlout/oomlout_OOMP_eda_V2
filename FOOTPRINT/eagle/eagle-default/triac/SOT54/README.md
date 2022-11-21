@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-triac-SOT54
 - Hex ID: FZETRIACSOT54
 - Name: triac : SOT54
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/triac/SOT54/
 - Description: triac : SOT54
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-SOT54](http://oom.lt/FOOTPRINT-eagle-eagle-default-triac-SOT54)
 - Short Link: [http://oom.lt/FZETRIACSOT54](http://oom.lt/FZETRIACSOT54)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Schrack-RP-II-1-FormA_RM5mm
 - Hex ID: FZKRELRELAYSPSTSCHRACKRPII1FORMARM5
 - Name: Relay_THT : Relay_SPST_Schrack-RP-II-1-FormA_RM5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RP-II-1-FormA_RM5mm/
 - Description: Relay_THT : Relay_SPST_Schrack-RP-II-1-FormA_RM5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Schrack-RP-II-1-FormA_RM5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Schrack-RP-II-1-FormA_RM5mm)
 - Short Link: [http://oom.lt/FZKRELRELAYSPSTSCHRACKRPII1FORMARM5](http://oom.lt/FZKRELRELAYSPSTSCHRACKRPII1FORMARM5)

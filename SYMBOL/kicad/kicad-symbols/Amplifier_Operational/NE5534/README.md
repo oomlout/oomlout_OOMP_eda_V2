@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NE5534
 - Hex ID: SZKAMPLIFIEROPERATIONALNE5534
 - Name: Amplifier_Operational : NE5534
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NE5534/
 - Description: Amplifier_Operational : NE5534
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NE5534](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NE5534)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNE5534](http://oom.lt/SZKAMPLIFIEROPERATIONALNE5534)

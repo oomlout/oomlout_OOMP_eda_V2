@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F412ZGJx
 - Hex ID: SZKMCUSTSTM32F4STM32F412ZGJX
 - Name: MCU_ST_STM32F4 : STM32F412ZGJx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F412ZGJx/
 - Description: MCU_ST_STM32F4 : STM32F412ZGJx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F412ZGJx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F412ZGJx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F412ZGJX](http://oom.lt/SZKMCUSTSTM32F4STM32F412ZGJX)

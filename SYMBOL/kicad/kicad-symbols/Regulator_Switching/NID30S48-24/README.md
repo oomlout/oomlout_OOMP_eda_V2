@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [SZKREGULATORSWITCHINGNID3S4824 > Regulator_Switching : NID30S48-24](#szkregulatorswitchingnid3s4824--regulator_switching--nid30s48-24)
+* [SZKREGULATORSWINGNID3S4824 > Regulator_Switching : NID30S48-24](#szkregulatorswingnid3s4824--regulator_switching--nid30s48-24)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKREGULATORSWITCHINGNID3S4824 > Regulator_Switching : NID30S48-24
+# SZKREGULATORSWINGNID3S4824 > Regulator_Switching : NID30S48-24
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NID30S48-24
-- Hex ID: SZKREGULATORSWITCHINGNID3S4824
+- Hex ID: SZKREGULATORSWINGNID3S4824
 - Name: Regulator_Switching : NID30S48-24
 - Description: Regulator_Switching : NID30S48-24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NID30S48-24](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NID30S48-24)
-- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGNID3S4824](http://oom.lt/SZKREGULATORSWITCHINGNID3S4824)
+- Short Link: [http://oom.lt/SZKREGULATORSWINGNID3S4824](http://oom.lt/SZKREGULATORSWINGNID3S4824)
 
 ## Images
   
@@ -36,7 +36,7 @@ Contents
 |OOMP Description|oompDesc|Regulator_Switching|
 |OOMP Index|oompIndex|NID30S48-24|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-NID30S48-24|
-|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGNID3S4824|
+|Hex ID (short code)|hexID|SZKREGULATORSWINGNID3S4824|
 |name|name|Regulator_Switching : NID30S48-24|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NID30S24-05'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NID30S48-24'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_MeanWell_NID30_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.meanwell.com/webapp/product/search.aspx?prod=nid30'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Step-Down Converter Module DC/DC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.25A/30W Step Down Converter Module</td><td> fixed 24V Output Voltage</td><td> 250kHz</td><td> 30-53V Input Voltage'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*DCDC*MeanWell*NID30*THT*'</td></tr></table>]|
 ||||

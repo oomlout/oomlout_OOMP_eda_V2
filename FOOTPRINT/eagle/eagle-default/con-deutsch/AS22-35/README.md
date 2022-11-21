@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-deutsch-AS22-35
 - Hex ID: FZECONDEUTSCHAS2235
 - Name: con-deutsch : AS22-35
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-deutsch/AS22-35/
 - Description: con-deutsch : AS22-35
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS22-35](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS22-35)
 - Short Link: [http://oom.lt/FZECONDEUTSCHAS2235](http://oom.lt/FZECONDEUTSCHAS2235)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_7S
 - Hex ID: FZKSENCURRENTAKMCQ7S
 - Name: Sensor_Current : AKM_CQ_7S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_7S/
 - Description: Sensor_Current : AKM_CQ_7S
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_7S](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_7S)
 - Short Link: [http://oom.lt/FZKSENCURRENTAKMCQ7S](http://oom.lt/FZKSENCURRENTAKMCQ7S)

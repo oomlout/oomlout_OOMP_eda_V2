@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9557D
 - Hex ID: SZKINTERFACEEXPANSIONPCA9557D
 - Name: Interface_Expansion : PCA9557D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCA9557D/
 - Description: Interface_Expansion : PCA9557D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9557D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9557D)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9557D](http://oom.lt/SZKINTERFACEEXPANSIONPCA9557D)

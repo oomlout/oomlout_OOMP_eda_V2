@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-coax-BU-SMB-G
 - Hex ID: FZECONCOAXBUSMBG
 - Name: con-coax : BU-SMB-G
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-coax/BU-SMB-G/
 - Description: con-coax : BU-SMB-G
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-BU-SMB-G](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-coax-BU-SMB-G)
 - Short Link: [http://oom.lt/FZECONCOAXBUSMBG](http://oom.lt/FZECONCOAXBUSMBG)

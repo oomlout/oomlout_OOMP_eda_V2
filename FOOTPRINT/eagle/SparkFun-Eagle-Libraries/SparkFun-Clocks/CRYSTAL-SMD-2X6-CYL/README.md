@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-2X6-CYL
 - Hex ID: FZSCLXSM2X6CYL
 - Name: SparkFun-Clocks : CRYSTAL-SMD-2X6-CYL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Clocks/CRYSTAL-SMD-2X6-CYL/
 - Description: SparkFun-Clocks : CRYSTAL-SMD-2X6-CYL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-2X6-CYL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-2X6-CYL)
 - Short Link: [http://oom.lt/FZSCLXSM2X6CYL](http://oom.lt/FZSCLXSM2X6CYL)

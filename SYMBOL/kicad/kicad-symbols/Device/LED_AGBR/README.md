@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_AGBR
 - Hex ID: SZKDEVICELAGBR
 - Name: Device : LED_AGBR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_AGBR/
 - Description: Device : LED_AGBR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_AGBR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_AGBR)
 - Short Link: [http://oom.lt/SZKDEVICELAGBR](http://oom.lt/SZKDEVICELAGBR)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-256_28x28mm_P0.4mm
 - Hex ID: FZKQFPPQFP25628X28P4
 - Name: Package_QFP : PQFP-256_28x28mm_P0.4mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/PQFP-256_28x28mm_P0.4mm/
 - Description: Package_QFP : PQFP-256_28x28mm_P0.4mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-256_28x28mm_P0.4mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-256_28x28mm_P0.4mm)
 - Short Link: [http://oom.lt/FZKQFPPQFP25628X28P4](http://oom.lt/FZKQFPPQFP25628X28P4)

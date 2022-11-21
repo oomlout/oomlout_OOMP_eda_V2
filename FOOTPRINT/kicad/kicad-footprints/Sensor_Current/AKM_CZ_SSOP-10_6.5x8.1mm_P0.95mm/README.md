@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm
 - Hex ID: FZKSENCURRENTAKMCZSS165X81P95
 - Name: Sensor_Current : AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/
 - Description: Sensor_Current : AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm)
 - Short Link: [http://oom.lt/FZKSENCURRENTAKMCZSS165X81P95](http://oom.lt/FZKSENCURRENTAKMCZSS165X81P95)

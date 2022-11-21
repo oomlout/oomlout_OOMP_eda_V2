@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S150PQ208
 - Hex ID: SZKFPGAXILINXXC2S15PQ28
 - Name: FPGA_Xilinx : XC2S150PQ208
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S150PQ208/
 - Description: FPGA_Xilinx : XC2S150PQ208
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S150PQ208](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S150PQ208)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC2S15PQ28](http://oom.lt/SZKFPGAXILINXXC2S15PQ28)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-MICSMD04
 - Hex ID: FZECONLUMBERGMICSM4
 - Name: con-lumberg : MICSMD04
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/MICSMD04/
 - Description: con-lumberg : MICSMD04
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MICSMD04](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MICSMD04)
 - Short Link: [http://oom.lt/FZECONLUMBERGMICSM4](http://oom.lt/FZECONLUMBERGMICSM4)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP627
 - Hex ID: SZKISOLATORTLP627
 - Name: Isolator : TLP627
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TLP627/
 - Description: Isolator : TLP627
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP627](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP627)
 - Short Link: [http://oom.lt/SZKISOLATORTLP627](http://oom.lt/SZKISOLATORTLP627)

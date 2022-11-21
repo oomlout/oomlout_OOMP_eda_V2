@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC1173
 - Hex ID: SZKANALOGADCADC1173
 - Name: Analog_ADC : ADC1173
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADC1173/
 - Description: Analog_ADC : ADC1173
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC1173](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC1173)
 - Short Link: [http://oom.lt/SZKANALOGADCADC1173](http://oom.lt/SZKANALOGADCADC1173)

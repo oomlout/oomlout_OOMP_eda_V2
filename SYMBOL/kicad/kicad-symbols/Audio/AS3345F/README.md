@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-AS3345F
 - Hex ID: SZKAUDIOAS3345F
 - Name: Audio : AS3345F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/AS3345F/
 - Description: Audio : AS3345F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3345F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3345F)
 - Short Link: [http://oom.lt/SZKAUDIOAS3345F](http://oom.lt/SZKAUDIOAS3345F)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-commcon-1620-110
 - Hex ID: FZECONCOCON16211
 - Name: con-commcon : 1620-110
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-commcon/1620-110/
 - Description: con-commcon : 1620-110
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-commcon-1620-110](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-commcon-1620-110)
 - Short Link: [http://oom.lt/FZECONCOCON16211](http://oom.lt/FZECONCOCON16211)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-SSW-109-02-G-D
 - Hex ID: FZECONSAMTECSSW192GD
 - Name: con-samtec : SSW-109-02-G-D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-samtec/SSW-109-02-G-D/
 - Description: con-samtec : SSW-109-02-G-D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-SSW-109-02-G-D](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-SSW-109-02-G-D)
 - Short Link: [http://oom.lt/FZECONSAMTECSSW192GD](http://oom.lt/FZECONSAMTECSSW192GD)

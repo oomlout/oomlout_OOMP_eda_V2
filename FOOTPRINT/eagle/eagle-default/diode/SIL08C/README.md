@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SIL08C
 - Hex ID: FZEDIODESIL8C
 - Name: diode : SIL08C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SIL08C/
 - Description: diode : SIL08C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SIL08C](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SIL08C)
 - Short Link: [http://oom.lt/FZEDIODESIL8C](http://oom.lt/FZEDIODESIL8C)

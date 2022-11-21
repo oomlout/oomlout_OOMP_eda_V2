@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-M24C01-FMN
 - Hex ID: SZKMEMORYEEPROMM24C1FMN
 - Name: Memory_EEPROM : M24C01-FMN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/M24C01-FMN/
 - Description: Memory_EEPROM : M24C01-FMN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-M24C01-FMN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-M24C01-FMN)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMM24C1FMN](http://oom.lt/SZKMEMORYEEPROMM24C1FMN)

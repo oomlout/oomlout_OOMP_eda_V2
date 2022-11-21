@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-CA3080A
 - Hex ID: SZKAMPLIFIEROPERATIONALCA38A
 - Name: Amplifier_Operational : CA3080A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/CA3080A/
 - Description: Amplifier_Operational : CA3080A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-CA3080A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-CA3080A)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALCA38A](http://oom.lt/SZKAMPLIFIEROPERATIONALCA38A)

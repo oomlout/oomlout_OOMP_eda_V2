@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-AUDIO_JACK_0.25&quot;_TRS_PTH_RA
 - Hex ID: FZSSPARKFUNCNSAUDIOJ25&QUOT;TRSPRA
 - Name: SparkFun-Connectors : AUDIO_JACK_0.25&quot;_TRS_PTH_RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/AUDIO_JACK_0.25&quot;_TRS_PTH_RA/
 - Description: SparkFun-Connectors : AUDIO_JACK_0.25&quot;_TRS_PTH_RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-AUDIO_JACK_0.25&quot;_TRS_PTH_RA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-AUDIO_JACK_0.25&quot;_TRS_PTH_RA)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSAUDIOJ25&QUOT;TRSPRA](http://oom.lt/FZSSPARKFUNCNSAUDIOJ25&QUOT;TRSPRA)

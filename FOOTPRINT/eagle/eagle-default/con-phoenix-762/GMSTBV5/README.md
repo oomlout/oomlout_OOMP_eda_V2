@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMSTBV5
 - Hex ID: FZECONPHOENIX762GMSTBV5
 - Name: con-phoenix-762 : GMSTBV5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-762/GMSTBV5/
 - Description: con-phoenix-762 : GMSTBV5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMSTBV5](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMSTBV5)
 - Short Link: [http://oom.lt/FZECONPHOENIX762GMSTBV5](http://oom.lt/FZECONPHOENIX762GMSTBV5)

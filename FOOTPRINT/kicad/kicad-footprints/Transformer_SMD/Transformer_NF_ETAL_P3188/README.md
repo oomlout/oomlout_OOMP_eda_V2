@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKTRSMTRNFETALP3188 > Transformer_SMD : Transformer_NF_ETAL_P3188](#fzktrsmtrnfetalp3188--transformer_smd--transformer_nf_etal_p3188)
+* [FZKTRTRNFETALP3188 > Transformer_SMD : Transformer_NF_ETAL_P3188](#fzktrtrnfetalp3188--transformer_smd--transformer_nf_etal_p3188)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKTRSMTRNFETALP3188 > Transformer_SMD : Transformer_NF_ETAL_P3188
+# FZKTRTRNFETALP3188 > Transformer_SMD : Transformer_NF_ETAL_P3188
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3188
-- Hex ID: FZKTRSMTRNFETALP3188
+- Hex ID: FZKTRTRNFETALP3188
 - Name: Transformer_SMD : Transformer_NF_ETAL_P3188
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P3188/
 - Description: Transformer_SMD : Transformer_NF_ETAL_P3188
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3188](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3188)
-- Short Link: [http://oom.lt/FZKTRSMTRNFETALP3188](http://oom.lt/FZKTRSMTRNFETALP3188)
+- Short Link: [http://oom.lt/FZKTRTRNFETALP3188](http://oom.lt/FZKTRTRNFETALP3188)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Transformer_SMD|
 |OOMP Index|oompIndex|Transformer_NF_ETAL_P3188|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3188|
-|Hex ID (short code)|hexID|FZKTRSMTRNFETALP3188|
+|Hex ID (short code)|hexID|FZKTRTRNFETALP3188|
 |name|name|Transformer_SMD : Transformer_NF_ETAL_P3188|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Transformer_NF_ETAL_P3188'</td><td> 'description'</td></tr><tr><td> 'NF-Transformer</td><td> ETAL</td><td> P3188</td><td> SMD</td><td>'</td><td> 'tags'</td></tr><tr><td> 'NF-Transformer ETAL P3188 SMD '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P3188.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

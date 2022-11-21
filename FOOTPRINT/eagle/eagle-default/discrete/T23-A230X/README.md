@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-discrete-T23-A230X
 - Hex ID: FZEDISCRETET23A23X
 - Name: discrete : T23-A230X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/discrete/T23-A230X/
 - Description: discrete : T23-A230X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-discrete-T23-A230X](http://oom.lt/FOOTPRINT-eagle-eagle-default-discrete-T23-A230X)
 - Short Link: [http://oom.lt/FZEDISCRETET23A23X](http://oom.lt/FZEDISCRETET23A23X)

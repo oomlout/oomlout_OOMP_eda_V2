@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_BGRA
 - Hex ID: SZKDEVICELBGRA
 - Name: Device : LED_BGRA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_BGRA/
 - Description: Device : LED_BGRA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BGRA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BGRA)
 - Short Link: [http://oom.lt/SZKDEVICELBGRA](http://oom.lt/SZKDEVICELBGRA)

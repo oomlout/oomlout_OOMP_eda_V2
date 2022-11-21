@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-TSOP-5
 - Hex ID: FZELINEARTS5
 - Name: linear : TSOP-5
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/TSOP-5/
 - Description: linear : TSOP-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TSOP-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-TSOP-5)
 - Short Link: [http://oom.lt/FZELINEARTS5](http://oom.lt/FZELINEARTS5)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-CT6032
 - Hex ID: FZESMIPCCT632
 - Name: smd-ipc : CT6032
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/CT6032/
 - Description: smd-ipc : CT6032
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CT6032](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-CT6032)
 - Short Link: [http://oom.lt/FZESMIPCCT632](http://oom.lt/FZESMIPCCT632)

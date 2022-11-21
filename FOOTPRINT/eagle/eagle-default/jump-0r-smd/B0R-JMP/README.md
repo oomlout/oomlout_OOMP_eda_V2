@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-jump-0r-smd-B0R-JMP
 - Hex ID: FZEJUMPRSMBRJMP
 - Name: jump-0r-smd : B0R-JMP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/jump-0r-smd/B0R-JMP/
 - Description: jump-0r-smd : B0R-JMP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-jump-0r-smd-B0R-JMP](http://oom.lt/FOOTPRINT-eagle-eagle-default-jump-0r-smd-B0R-JMP)
 - Short Link: [http://oom.lt/FZEJUMPRSMBRJMP](http://oom.lt/FZEJUMPRSMBRJMP)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C3D02060E
 - Hex ID: SZKDIODEC3D26E
 - Name: Diode : C3D02060E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C3D02060E/
 - Description: Diode : C3D02060E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D02060E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D02060E)
 - Short Link: [http://oom.lt/SZKDIODEC3D26E](http://oom.lt/SZKDIODEC3D26E)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBURRBROWNTSS24 > burr-brown : TSSOP024](#fzeburrbrowntss24--burr-brown--tssop024)
+* [FZEBURRBRNTSS24 > burr-brown : TSSOP024](#fzeburrbrntss24--burr-brown--tssop024)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBURRBROWNTSS24 > burr-brown : TSSOP024
+# FZEBURRBRNTSS24 > burr-brown : TSSOP024
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-TSSOP024
-- Hex ID: FZEBURRBROWNTSS24
+- Hex ID: FZEBURRBRNTSS24
 - Name: burr-brown : TSSOP024
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/burr-brown/TSSOP024/
 - Description: burr-brown : TSSOP024
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-TSSOP024](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-TSSOP024)
-- Short Link: [http://oom.lt/FZEBURRBROWNTSS24](http://oom.lt/FZEBURRBROWNTSS24)
+- Short Link: [http://oom.lt/FZEBURRBRNTSS24](http://oom.lt/FZEBURRBRNTSS24)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|burr-brown|
 |OOMP Index|oompIndex|TSSOP024|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-burr-brown-TSSOP024|
-|Hex ID (short code)|hexID|FZEBURRBROWNTSS24|
+|Hex ID (short code)|hexID|FZEBURRBRNTSS24|
 |name|name|burr-brown : TSSOP024|
 ||||
 

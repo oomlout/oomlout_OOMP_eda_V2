@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny4313-M
 - Hex ID: SZKMCUMCHIPATTINYATTINY4313M
 - Name: MCU_Microchip_ATtiny : ATtiny4313-M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny4313-M/
 - Description: MCU_Microchip_ATtiny : ATtiny4313-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny4313-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny4313-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY4313M](http://oom.lt/SZKMCUMCHIPATTINYATTINY4313M)

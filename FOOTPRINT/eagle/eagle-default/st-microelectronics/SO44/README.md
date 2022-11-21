@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-SO44
 - Hex ID: FZESTMELECTRONICSSO44
 - Name: st-microelectronics : SO44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/st-microelectronics/SO44/
 - Description: st-microelectronics : SO44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-SO44](http://oom.lt/FOOTPRINT-eagle-eagle-default-st-microelectronics-SO44)
 - Short Link: [http://oom.lt/FZESTMELECTRONICSSO44](http://oom.lt/FZESTMELECTRONICSSO44)

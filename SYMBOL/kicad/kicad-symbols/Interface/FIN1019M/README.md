@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-FIN1019M
 - Hex ID: SZKINTERFACEFIN119M
 - Name: Interface : FIN1019M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/FIN1019M/
 - Description: Interface : FIN1019M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-FIN1019M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-FIN1019M)
 - Short Link: [http://oom.lt/SZKINTERFACEFIN119M](http://oom.lt/SZKINTERFACEFIN119M)

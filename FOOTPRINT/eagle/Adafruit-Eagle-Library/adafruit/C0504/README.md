@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C0504
 - Hex ID: FZAC54
 - Name: adafruit : C0504
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C0504/
 - Description: adafruit : C0504
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C0504](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C0504)
 - Short Link: [http://oom.lt/FZAC54](http://oom.lt/FZAC54)

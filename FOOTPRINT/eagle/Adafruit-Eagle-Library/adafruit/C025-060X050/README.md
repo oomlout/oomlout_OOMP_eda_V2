@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C025-060X050
 - Hex ID: FZAC256X5
 - Name: adafruit : C025-060X050
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/C025-060X050/
 - Description: adafruit : C025-060X050
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C025-060X050](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C025-060X050)
 - Short Link: [http://oom.lt/FZAC256X5](http://oom.lt/FZAC256X5)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MINI-DIN6
 - Hex ID: FZSRTMDIN6
 - Name: SparkFun-Retired : MINI-DIN6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/MINI-DIN6/
 - Description: SparkFun-Retired : MINI-DIN6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MINI-DIN6](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-MINI-DIN6)
 - Short Link: [http://oom.lt/FZSRTMDIN6](http://oom.lt/FZSRTMDIN6)

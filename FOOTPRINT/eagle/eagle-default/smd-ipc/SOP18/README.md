@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOP18
 - Hex ID: FZESMIPCS18
 - Name: smd-ipc : SOP18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/SOP18/
 - Description: smd-ipc : SOP18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP18](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-SOP18)
 - Short Link: [http://oom.lt/FZESMIPCS18](http://oom.lt/FZESMIPCS18)

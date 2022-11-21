@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-leotronics-1365-80
 - Hex ID: FZECONLEOTRONICS13658
 - Name: con-leotronics : 1365-80
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-leotronics/1365-80/
 - Description: con-leotronics : 1365-80
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-leotronics-1365-80](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-leotronics-1365-80)
 - Short Link: [http://oom.lt/FZECONLEOTRONICS13658](http://oom.lt/FZECONLEOTRONICS13658)

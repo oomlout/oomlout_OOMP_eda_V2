@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F410TBYx
 - Hex ID: SZKMCUSTSTM32F4STM32F41TBYX
 - Name: MCU_ST_STM32F4 : STM32F410TBYx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F410TBYx/
 - Description: MCU_ST_STM32F4 : STM32F410TBYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F410TBYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F410TBYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F41TBYX](http://oom.lt/SZKMCUSTSTM32F4STM32F41TBYX)

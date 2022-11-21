@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-VisionSOM-STM32MP1
 - Hex ID: SZKMCUMOVISIONSOMSTM32MP1
 - Name: MCU_Module : VisionSOM-STM32MP1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/VisionSOM-STM32MP1/
 - Description: MCU_Module : VisionSOM-STM32MP1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-VisionSOM-STM32MP1](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-VisionSOM-STM32MP1)
 - Short Link: [http://oom.lt/SZKMCUMOVISIONSOMSTM32MP1](http://oom.lt/SZKMCUMOVISIONSOMSTM32MP1)

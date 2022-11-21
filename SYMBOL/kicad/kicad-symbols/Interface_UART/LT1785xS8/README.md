@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-LT1785xS8
 - Hex ID: SZKINTERFACEUARTLT1785XS8
 - Name: Interface_UART : LT1785xS8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/LT1785xS8/
 - Description: Interface_UART : LT1785xS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LT1785xS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LT1785xS8)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTLT1785XS8](http://oom.lt/SZKINTERFACEUARTLT1785XS8)

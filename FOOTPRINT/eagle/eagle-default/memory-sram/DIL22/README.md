@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-sram-DIL22
 - Hex ID: FZEMEMORYSRAMDIL22
 - Name: memory-sram : DIL22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory-sram/DIL22/
 - Description: memory-sram : DIL22
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-DIL22](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-sram-DIL22)
 - Short Link: [http://oom.lt/FZEMEMORYSRAMDIL22](http://oom.lt/FZEMEMORYSRAMDIL22)

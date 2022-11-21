@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LR8K4-G
 - Hex ID: SZKREGULATORLINEARLR8K4G
 - Name: Regulator_Linear : LR8K4-G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LR8K4-G/
 - Description: Regulator_Linear : LR8K4-G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LR8K4-G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LR8K4-G)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLR8K4G](http://oom.lt/SZKREGULATORLINEARLR8K4G)

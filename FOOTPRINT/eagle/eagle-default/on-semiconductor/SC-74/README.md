@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-on-semiconductor-SC-74
 - Hex ID: FZEONSEMICONDUCTORSC74
 - Name: on-semiconductor : SC-74
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/on-semiconductor/SC-74/
 - Description: on-semiconductor : SC-74
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-SC-74](http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-SC-74)
 - Short Link: [http://oom.lt/FZEONSEMICONDUCTORSC74](http://oom.lt/FZEONSEMICONDUCTORSC74)

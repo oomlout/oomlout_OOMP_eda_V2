@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-allegro-SOT23-W
 - Hex ID: FZEALLEGROSOT23W
 - Name: allegro : SOT23-W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/allegro/SOT23-W/
 - Description: allegro : SOT23-W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SOT23-W](http://oom.lt/FOOTPRINT-eagle-eagle-default-allegro-SOT23-W)
 - Short Link: [http://oom.lt/FZEALLEGROSOT23W](http://oom.lt/FZEALLEGROSOT23W)

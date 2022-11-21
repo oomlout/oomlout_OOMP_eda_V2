@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-8_3.3x3.3mm_P0.65mm_NexFET
 - Hex ID: FZKSONVSON833X33P65NEXFET
 - Name: Package_SON : VSON-8_3.3x3.3mm_P0.65mm_NexFET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/
 - Description: Package_SON : VSON-8_3.3x3.3mm_P0.65mm_NexFET
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-8_3.3x3.3mm_P0.65mm_NexFET](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-8_3.3x3.3mm_P0.65mm_NexFET)
 - Short Link: [http://oom.lt/FZKSONVSON833X33P65NEXFET](http://oom.lt/FZKSONVSON833X33P65NEXFET)

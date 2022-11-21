@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C3D20065D
 - Hex ID: SZKDIODEC3D265D
 - Name: Diode : C3D20065D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C3D20065D/
 - Description: Diode : C3D20065D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D20065D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C3D20065D)
 - Short Link: [http://oom.lt/SZKDIODEC3D265D](http://oom.lt/SZKDIODEC3D265D)

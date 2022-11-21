@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9715ETE+
 - Hex ID: SZKAMPLIFIERAUDIOMAX9715ETE+
 - Name: Amplifier_Audio : MAX9715ETE+
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/MAX9715ETE+/
 - Description: Amplifier_Audio : MAX9715ETE+
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9715ETE+](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9715ETE+)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOMAX9715ETE+](http://oom.lt/SZKAMPLIFIERAUDIOMAX9715ETE+)

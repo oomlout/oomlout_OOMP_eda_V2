@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2985-2.9
 - Hex ID: SZKREGULATORLINEARLP298529
 - Name: Regulator_Linear : LP2985-2.9
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP2985-2.9/
 - Description: Regulator_Linear : LP2985-2.9
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2985-2.9](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2985-2.9)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP298529](http://oom.lt/SZKREGULATORLINEARLP298529)

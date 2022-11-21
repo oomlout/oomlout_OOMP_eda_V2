@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZELZPOWERLPCBTYPE > led : Z-POWER-LED-PCB-TYPE](#fzelzpowerlpcbtype--led--z-power-led-pcb-type)
+* [FZELZPOWERLPCBT > led : Z-POWER-LED-PCB-TYPE](#fzelzpowerlpcbt--led--z-power-led-pcb-type)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZELZPOWERLPCBTYPE > led : Z-POWER-LED-PCB-TYPE
+# FZELZPOWERLPCBT > led : Z-POWER-LED-PCB-TYPE
 
 - ID: FOOTPRINT-eagle-eagle-default-led-Z-POWER-LED-PCB-TYPE
-- Hex ID: FZELZPOWERLPCBTYPE
+- Hex ID: FZELZPOWERLPCBT
 - Name: led : Z-POWER-LED-PCB-TYPE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/Z-POWER-LED-PCB-TYPE/
 - Description: led : Z-POWER-LED-PCB-TYPE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-Z-POWER-LED-PCB-TYPE](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-Z-POWER-LED-PCB-TYPE)
-- Short Link: [http://oom.lt/FZELZPOWERLPCBTYPE](http://oom.lt/FZELZPOWERLPCBTYPE)
+- Short Link: [http://oom.lt/FZELZPOWERLPCBT](http://oom.lt/FZELZPOWERLPCBT)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|led|
 |OOMP Index|oompIndex|Z-POWER-LED-PCB-TYPE|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-led-Z-POWER-LED-PCB-TYPE|
-|Hex ID (short code)|hexID|FZELZPOWERLPCBTYPE|
+|Hex ID (short code)|hexID|FZELZPOWERLPCBT|
 |name|name|led : Z-POWER-LED-PCB-TYPE|
 ||||

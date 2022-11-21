@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL25PADTOPONLY > MountingHole : MountingHole_2.5mm_Pad_TopOnly](#fzkholhol25padtoponly--mountinghole--mountinghole_25mm_pad_toponly)
+* [FZKHOLHOL25PTOPONLY > MountingHole : MountingHole_2.5mm_Pad_TopOnly](#fzkholhol25ptoponly--mountinghole--mountinghole_25mm_pad_toponly)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL25PADTOPONLY > MountingHole : MountingHole_2.5mm_Pad_TopOnly
+# FZKHOLHOL25PTOPONLY > MountingHole : MountingHole_2.5mm_Pad_TopOnly
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.5mm_Pad_TopOnly
-- Hex ID: FZKHOLHOL25PADTOPONLY
+- Hex ID: FZKHOLHOL25PTOPONLY
 - Name: MountingHole : MountingHole_2.5mm_Pad_TopOnly
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.5mm_Pad_TopOnly/
 - Description: MountingHole : MountingHole_2.5mm_Pad_TopOnly
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.5mm_Pad_TopOnly](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.5mm_Pad_TopOnly)
-- Short Link: [http://oom.lt/FZKHOLHOL25PADTOPONLY](http://oom.lt/FZKHOLHOL25PADTOPONLY)
+- Short Link: [http://oom.lt/FZKHOLHOL25PTOPONLY](http://oom.lt/FZKHOLHOL25PTOPONLY)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_2.5mm_Pad_TopOnly|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.5mm_Pad_TopOnly|
-|Hex ID (short code)|hexID|FZKHOLHOL25PADTOPONLY|
+|Hex ID (short code)|hexID|FZKHOLHOL25PTOPONLY|
 |name|name|MountingHole : MountingHole_2.5mm_Pad_TopOnly|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_2.5mm_Pad_TopOnly'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 2.5mm'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 2.5mm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

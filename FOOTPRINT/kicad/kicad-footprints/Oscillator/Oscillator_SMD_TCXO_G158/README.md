@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_TCXO_G158
 - Hex ID: FZKOCSOCSSMTCXOG158
 - Name: Oscillator : Oscillator_SMD_TCXO_G158
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_TCXO_G158/
 - Description: Oscillator : Oscillator_SMD_TCXO_G158
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_TCXO_G158](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_TCXO_G158)
 - Short Link: [http://oom.lt/FZKOCSOCSSMTCXOG158](http://oom.lt/FZKOCSOCSSMTCXOG158)

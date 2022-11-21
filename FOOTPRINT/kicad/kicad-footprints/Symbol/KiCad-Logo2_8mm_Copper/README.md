@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo2_8mm_Copper
 - Hex ID: FZKSZKICADL28C
 - Name: Symbol : KiCad-Logo2_8mm_Copper
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/KiCad-Logo2_8mm_Copper/
 - Description: Symbol : KiCad-Logo2_8mm_Copper
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo2_8mm_Copper](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo2_8mm_Copper)
 - Short Link: [http://oom.lt/FZKSZKICADL28C](http://oom.lt/FZKSZKICADL28C)

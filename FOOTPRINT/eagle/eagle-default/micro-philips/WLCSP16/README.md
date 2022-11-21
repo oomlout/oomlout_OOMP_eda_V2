@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-WLCSP16
 - Hex ID: FZEMPHILIPSWLCSP16
 - Name: micro-philips : WLCSP16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/WLCSP16/
 - Description: micro-philips : WLCSP16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-WLCSP16](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-WLCSP16)
 - Short Link: [http://oom.lt/FZEMPHILIPSWLCSP16](http://oom.lt/FZEMPHILIPSWLCSP16)

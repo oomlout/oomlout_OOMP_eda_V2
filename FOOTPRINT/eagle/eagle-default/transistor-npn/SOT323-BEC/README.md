@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-npn-SOT323-BEC
 - Hex ID: FZETRANSISTORNPNSOT323BEC
 - Name: transistor-npn : SOT323-BEC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-npn/SOT323-BEC/
 - Description: transistor-npn : SOT323-BEC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-SOT323-BEC](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-SOT323-BEC)
 - Short Link: [http://oom.lt/FZETRANSISTORNPNSOT323BEC](http://oom.lt/FZETRANSISTORNPNSOT323BEC)

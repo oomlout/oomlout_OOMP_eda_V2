@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20074DTB
 - Hex ID: SZKAMPLIFIEROPERATIONALNCS274DTB
 - Name: Amplifier_Operational : NCS20074DTB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NCS20074DTB/
 - Description: Amplifier_Operational : NCS20074DTB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20074DTB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20074DTB)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNCS274DTB](http://oom.lt/SZKAMPLIFIEROPERATIONALNCS274DTB)

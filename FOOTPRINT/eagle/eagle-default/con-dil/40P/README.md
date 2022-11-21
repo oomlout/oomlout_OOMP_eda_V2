@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-dil-40P
 - Hex ID: FZECONDIL4P
 - Name: con-dil : 40P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-dil/40P/
 - Description: con-dil : 40P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-40P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-dil-40P)
 - Short Link: [http://oom.lt/FZECONDIL4P](http://oom.lt/FZECONDIL4P)

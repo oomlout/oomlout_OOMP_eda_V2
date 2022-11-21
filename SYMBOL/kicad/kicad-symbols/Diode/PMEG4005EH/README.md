@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG4005EH
 - Hex ID: SZKDIODEPMEG45EH
 - Name: Diode : PMEG4005EH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG4005EH/
 - Description: Diode : PMEG4005EH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG4005EH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG4005EH)
 - Short Link: [http://oom.lt/SZKDIODEPMEG45EH](http://oom.lt/SZKDIODEPMEG45EH)

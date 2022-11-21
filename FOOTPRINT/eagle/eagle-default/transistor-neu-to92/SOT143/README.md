@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT143
 - Hex ID: FZETRANSISTORNEUTO92SOT143
 - Name: transistor-neu-to92 : SOT143
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-neu-to92/SOT143/
 - Description: transistor-neu-to92 : SOT143
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT143](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT143)
 - Short Link: [http://oom.lt/FZETRANSISTORNEUTO92SOT143](http://oom.lt/FZETRANSISTORNEUTO92SOT143)

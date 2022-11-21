@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM2904
 - Hex ID: SZKAMPLIFIEROPERATIONALLM294
 - Name: Amplifier_Operational : LM2904
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM2904/
 - Description: Amplifier_Operational : LM2904
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM2904](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM2904)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM294](http://oom.lt/SZKAMPLIFIEROPERATIONALLM294)

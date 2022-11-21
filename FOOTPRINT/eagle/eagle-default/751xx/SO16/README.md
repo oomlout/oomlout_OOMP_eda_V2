@@ -15,6 +15,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-751xx-SO16
 - Hex ID: FZE751XXSO16
 - Name: 751xx : SO16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/751xx/SO16/
 - Description: 751xx : SO16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-751xx-SO16](http://oom.lt/FOOTPRINT-eagle-eagle-default-751xx-SO16)
 - Short Link: [http://oom.lt/FZE751XXSO16](http://oom.lt/FZE751XXSO16)

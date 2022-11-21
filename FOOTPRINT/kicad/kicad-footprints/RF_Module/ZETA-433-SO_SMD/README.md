@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-ZETA-433-SO_SMD
 - Hex ID: FZKRFMOZETA433SOSM
 - Name: RF_Module : ZETA-433-SO_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/ZETA-433-SO_SMD/
 - Description: RF_Module : ZETA-433-SO_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ZETA-433-SO_SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ZETA-433-SO_SMD)
 - Short Link: [http://oom.lt/FZKRFMOZETA433SOSM](http://oom.lt/FZKRFMOZETA433SOSM)

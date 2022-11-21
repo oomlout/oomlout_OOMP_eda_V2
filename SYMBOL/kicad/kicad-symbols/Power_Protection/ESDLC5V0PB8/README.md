@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-ESDLC5V0PB8
 - Hex ID: SZKPOWERPROTECTIONESDLC5VPB8
 - Name: Power_Protection : ESDLC5V0PB8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/ESDLC5V0PB8/
 - Description: Power_Protection : ESDLC5V0PB8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ESDLC5V0PB8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ESDLC5V0PB8)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONESDLC5VPB8](http://oom.lt/SZKPOWERPROTECTIONESDLC5VPB8)

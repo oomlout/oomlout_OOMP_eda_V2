@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_Dual_NPN_NPN_E1B1C2E2B2C1
 - Hex ID: SZKDEVICEQDUALNPNNPNE1B1C2E2B2C1
 - Name: Device : Q_Dual_NPN_NPN_E1B1C2E2B2C1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NPN_NPN_E1B1C2E2B2C1/
 - Description: Device : Q_Dual_NPN_NPN_E1B1C2E2B2C1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Dual_NPN_NPN_E1B1C2E2B2C1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Dual_NPN_NPN_E1B1C2E2B2C1)
 - Short Link: [http://oom.lt/SZKDEVICEQDUALNPNNPNE1B1C2E2B2C1](http://oom.lt/SZKDEVICEQDUALNPNNPNE1B1C2E2B2C1)

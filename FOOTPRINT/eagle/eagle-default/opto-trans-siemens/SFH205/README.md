@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-opto-trans-siemens-SFH205
 - Hex ID: FZEOPTOTRANSSIEMENSSFH25
 - Name: opto-trans-siemens : SFH205
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/opto-trans-siemens/SFH205/
 - Description: opto-trans-siemens : SFH205
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-SFH205](http://oom.lt/FOOTPRINT-eagle-eagle-default-opto-trans-siemens-SFH205)
 - Short Link: [http://oom.lt/FZEOPTOTRANSSIEMENSSFH25](http://oom.lt/FZEOPTOTRANSSIEMENSSFH25)

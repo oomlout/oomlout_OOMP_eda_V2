@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLVISHAYIHLP22 > Inductor_SMD : L_Vishay_IHLP-2020](#fzkinductorsmlvishayihlp22--inductor_smd--l_vishay_ihlp-2020)
+* [FZKINLVISHAYIHLP22 > Inductor_SMD : L_Vishay_IHLP-2020](#fzkinlvishayihlp22--inductor_smd--l_vishay_ihlp-2020)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLVISHAYIHLP22 > Inductor_SMD : L_Vishay_IHLP-2020
+# FZKINLVISHAYIHLP22 > Inductor_SMD : L_Vishay_IHLP-2020
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-2020
-- Hex ID: FZKINDUCTORSMLVISHAYIHLP22
+- Hex ID: FZKINLVISHAYIHLP22
 - Name: Inductor_SMD : L_Vishay_IHLP-2020
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHLP-2020/
 - Description: Inductor_SMD : L_Vishay_IHLP-2020
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-2020](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-2020)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLVISHAYIHLP22](http://oom.lt/FZKINDUCTORSMLVISHAYIHLP22)
+- Short Link: [http://oom.lt/FZKINLVISHAYIHLP22](http://oom.lt/FZKINLVISHAYIHLP22)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Vishay_IHLP-2020|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-2020|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLVISHAYIHLP22|
+|Hex ID (short code)|hexID|FZKINLVISHAYIHLP22|
 |name|name|Inductor_SMD : L_Vishay_IHLP-2020|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Vishay_IHLP-2020'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Vishay</td><td> IHLP series</td><td> 5.1mmx5.1mm'</td><td> 'tags'</td></tr><tr><td> 'inductor vishay ihlp smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Vishay_IHLP-2020.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

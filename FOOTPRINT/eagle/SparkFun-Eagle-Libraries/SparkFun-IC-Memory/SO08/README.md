@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-SO08
 - Hex ID: FZSIMSO8
 - Name: SparkFun-IC-Memory : SO08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Memory/SO08/
 - Description: SparkFun-IC-Memory : SO08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-SO08](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-SO08)
 - Short Link: [http://oom.lt/FZSIMSO8](http://oom.lt/FZSIMSO8)

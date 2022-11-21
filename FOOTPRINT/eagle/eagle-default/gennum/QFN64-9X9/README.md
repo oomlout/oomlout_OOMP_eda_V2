@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-gennum-QFN64-9X9
 - Hex ID: FZEGENNUMQFN649X9
 - Name: gennum : QFN64-9X9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/gennum/QFN64-9X9/
 - Description: gennum : QFN64-9X9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-gennum-QFN64-9X9](http://oom.lt/FOOTPRINT-eagle-eagle-default-gennum-QFN64-9X9)
 - Short Link: [http://oom.lt/FZEGENNUMQFN649X9](http://oom.lt/FZEGENNUMQFN649X9)

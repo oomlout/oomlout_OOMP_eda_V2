@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rectifier-FB15
 - Hex ID: FZERECTIFIERFB15
 - Name: rectifier : FB15
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rectifier/FB15/
 - Description: rectifier : FB15
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-FB15](http://oom.lt/FOOTPRINT-eagle-eagle-default-rectifier-FB15)
 - Short Link: [http://oom.lt/FZERECTIFIERFB15](http://oom.lt/FZERECTIFIERFB15)

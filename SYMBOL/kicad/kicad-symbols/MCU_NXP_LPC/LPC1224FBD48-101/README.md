@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1224FBD48-101
 - Hex ID: SZKMCUNXPLPCLPC1224FBD4811
 - Name: MCU_NXP_LPC : LPC1224FBD48-101
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1224FBD48-101/
 - Description: MCU_NXP_LPC : LPC1224FBD48-101
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1224FBD48-101](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1224FBD48-101)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC1224FBD4811](http://oom.lt/SZKMCUNXPLPCLPC1224FBD4811)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-SPB4
 - Hex ID: FZECONHIRSCHMANNSPB4
 - Name: con-hirschmann : SPB4
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirschmann/SPB4/
 - Description: con-hirschmann : SPB4
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-SPB4](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-SPB4)
 - Short Link: [http://oom.lt/FZECONHIRSCHMANNSPB4](http://oom.lt/FZECONHIRSCHMANNSPB4)

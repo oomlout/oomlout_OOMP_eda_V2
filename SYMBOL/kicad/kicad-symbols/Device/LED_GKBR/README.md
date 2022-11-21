@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_GKBR
 - Hex ID: SZKDEVICELGKBR
 - Name: Device : LED_GKBR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/LED_GKBR/
 - Description: Device : LED_GKBR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GKBR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GKBR)
 - Short Link: [http://oom.lt/SZKDEVICELGKBR](http://oom.lt/SZKDEVICELGKBR)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-MCP65R41
 - Hex ID: SZKCOMPARATORMCP65R41
 - Name: Comparator : MCP65R41
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/MCP65R41/
 - Description: Comparator : MCP65R41
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP65R41](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP65R41)
 - Short Link: [http://oom.lt/SZKCOMPARATORMCP65R41](http://oom.lt/SZKCOMPARATORMCP65R41)

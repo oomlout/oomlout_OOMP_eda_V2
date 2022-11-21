@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM385Z-1.2
 - Hex ID: SZKREFERENCEVOLTAGELM385Z12
 - Name: Reference_Voltage : LM385Z-1.2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LM385Z-1.2/
 - Description: Reference_Voltage : LM385Z-1.2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM385Z-1.2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM385Z-1.2)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM385Z12](http://oom.lt/SZKREFERENCEVOLTAGELM385Z12)

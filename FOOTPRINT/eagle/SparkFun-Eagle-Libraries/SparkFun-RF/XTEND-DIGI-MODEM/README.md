@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XTEND-DIGI-MODEM
 - Hex ID: FZSRFXTENDDIGIMODEM
 - Name: SparkFun-RF : XTEND-DIGI-MODEM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-RF/XTEND-DIGI-MODEM/
 - Description: SparkFun-RF : XTEND-DIGI-MODEM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XTEND-DIGI-MODEM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XTEND-DIGI-MODEM)
 - Short Link: [http://oom.lt/FZSRFXTENDDIGIMODEM](http://oom.lt/FZSRFXTENDDIGIMODEM)

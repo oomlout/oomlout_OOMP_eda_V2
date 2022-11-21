@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega88P-20M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA88P2M
 - Name: MCU_Microchip_ATmega : ATmega88P-20M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega88P-20M/
 - Description: MCU_Microchip_ATmega : ATmega88P-20M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega88P-20M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega88P-20M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA88P2M](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA88P2M)

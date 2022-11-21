@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_NKK_G1xJP
 - Hex ID: FZKBSWNKKG1XJP
 - Name: Button_Switch_THT : SW_NKK_G1xJP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_NKK_G1xJP/
 - Description: Button_Switch_THT : SW_NKK_G1xJP
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_NKK_G1xJP](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_NKK_G1xJP)
 - Short Link: [http://oom.lt/FZKBSWNKKG1XJP](http://oom.lt/FZKBSWNKKG1XJP)

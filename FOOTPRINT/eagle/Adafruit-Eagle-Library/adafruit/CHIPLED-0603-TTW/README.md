@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIPLED-0603-TTW
 - Hex ID: FZACHIPL63TTW
 - Name: adafruit : CHIPLED-0603-TTW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CHIPLED-0603-TTW/
 - Description: adafruit : CHIPLED-0603-TTW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIPLED-0603-TTW](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIPLED-0603-TTW)
 - Short Link: [http://oom.lt/FZACHIPL63TTW](http://oom.lt/FZACHIPL63TTW)

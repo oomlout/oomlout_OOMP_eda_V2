@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7125R
 - Hex ID: SZKPOWERMANAGEMENTAUIPS7125R
 - Name: Power_Management : AUIPS7125R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS7125R/
 - Description: Power_Management : AUIPS7125R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7125R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7125R)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIPS7125R](http://oom.lt/SZKPOWERMANAGEMENTAUIPS7125R)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_NKK_BB15AH
 - Hex ID: FZKBSWNKKBB15AH
 - Name: Button_Switch_THT : SW_NKK_BB15AH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_NKK_BB15AH/
 - Description: Button_Switch_THT : SW_NKK_BB15AH
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_NKK_BB15AH](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_NKK_BB15AH)
 - Short Link: [http://oom.lt/FZKBSWNKKBB15AH](http://oom.lt/FZKBSWNKKBB15AH)

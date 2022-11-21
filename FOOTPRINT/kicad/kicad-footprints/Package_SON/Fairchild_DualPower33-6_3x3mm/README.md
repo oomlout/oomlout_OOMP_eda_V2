@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_DualPower33-6_3x3mm
 - Hex ID: FZKSONFAIRCHILDDUALPOWER3363X3
 - Name: Package_SON : Fairchild_DualPower33-6_3x3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Fairchild_DualPower33-6_3x3mm/
 - Description: Package_SON : Fairchild_DualPower33-6_3x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_DualPower33-6_3x3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_DualPower33-6_3x3mm)
 - Short Link: [http://oom.lt/FZKSONFAIRCHILDDUALPOWER3363X3](http://oom.lt/FZKSONFAIRCHILDDUALPOWER3363X3)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Taiyo-Yuden_EYSGJNZWY
 - Hex ID: FZKRFMOTAIYOYUDENEYSGJNZWY
 - Name: RF_Module : Taiyo-Yuden_EYSGJNZWY
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/Taiyo-Yuden_EYSGJNZWY/
 - Description: RF_Module : Taiyo-Yuden_EYSGJNZWY
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Taiyo-Yuden_EYSGJNZWY](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-Taiyo-Yuden_EYSGJNZWY)
 - Short Link: [http://oom.lt/FZKRFMOTAIYOYUDENEYSGJNZWY](http://oom.lt/FZKRFMOTAIYOYUDENEYSGJNZWY)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-memory-DIL08
 - Hex ID: FZEMEMORYDIL8
 - Name: memory : DIL08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/memory/DIL08/
 - Description: memory : DIL08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-DIL08](http://oom.lt/FOOTPRINT-eagle-eagle-default-memory-DIL08)
 - Short Link: [http://oom.lt/FZEMEMORYDIL8](http://oom.lt/FZEMEMORYDIL8)

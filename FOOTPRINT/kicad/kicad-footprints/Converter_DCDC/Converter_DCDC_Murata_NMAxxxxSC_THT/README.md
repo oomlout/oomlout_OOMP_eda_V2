@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_NMAxxxxSC_THT
 - Hex ID: FZKCONCONMNMAXXXXSCTHT
 - Name: Converter_DCDC : Converter_DCDC_Murata_NMAxxxxSC_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_NMAxxxxSC_THT/
 - Description: Converter_DCDC : Converter_DCDC_Murata_NMAxxxxSC_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_NMAxxxxSC_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_NMAxxxxSC_THT)
 - Short Link: [http://oom.lt/FZKCONCONMNMAXXXXSCTHT](http://oom.lt/FZKCONCONMNMAXXXXSCTHT)

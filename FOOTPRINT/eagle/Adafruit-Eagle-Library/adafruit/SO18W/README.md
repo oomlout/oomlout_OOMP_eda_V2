@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO18W
 - Hex ID: FZASO18W
 - Name: adafruit : SO18W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SO18W/
 - Description: adafruit : SO18W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO18W](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO18W)
 - Short Link: [http://oom.lt/FZASO18W](http://oom.lt/FZASO18W)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-deutsch-AS20-16
 - Hex ID: FZECONDEUTSCHAS216
 - Name: con-deutsch : AS20-16
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-deutsch/AS20-16/
 - Description: con-deutsch : AS20-16
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS20-16](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS20-16)
 - Short Link: [http://oom.lt/FZECONDEUTSCHAS216](http://oom.lt/FZECONDEUTSCHAS216)

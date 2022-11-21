@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-S202S02
 - Hex ID: FZERELAYS22S2
 - Name: relay : S202S02
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/S202S02/
 - Description: relay : S202S02
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-S202S02](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-S202S02)
 - Short Link: [http://oom.lt/FZERELAYS22S2](http://oom.lt/FZERELAYS22S2)

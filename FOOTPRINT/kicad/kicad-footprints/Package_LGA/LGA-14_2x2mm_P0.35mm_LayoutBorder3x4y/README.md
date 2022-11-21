@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y
 - Hex ID: FZKLGALGA142X2P35LAYOUTBORDER3X4Y
 - Name: Package_LGA : LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y/
 - Description: Package_LGA : LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y)
 - Short Link: [http://oom.lt/FZKLGALGA142X2P35LAYOUTBORDER3X4Y](http://oom.lt/FZKLGALGA142X2P35LAYOUTBORDER3X4Y)

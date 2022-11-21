@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BRM-2508
 - Hex ID: FZSSPARKFUNSENSBRM258
 - Name: SparkFun-Sensors : BRM-2508
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/BRM-2508/
 - Description: SparkFun-Sensors : BRM-2508
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BRM-2508](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BRM-2508)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSBRM258](http://oom.lt/FZSSPARKFUNSENSBRM258)

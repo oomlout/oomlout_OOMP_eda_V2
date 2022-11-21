@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BLE112-A
 - Hex ID: FZSRTBLE112A
 - Name: SparkFun-Retired : BLE112-A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/BLE112-A/
 - Description: SparkFun-Retired : BLE112-A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BLE112-A](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BLE112-A)
 - Short Link: [http://oom.lt/FZSRTBLE112A](http://oom.lt/FZSRTBLE112A)

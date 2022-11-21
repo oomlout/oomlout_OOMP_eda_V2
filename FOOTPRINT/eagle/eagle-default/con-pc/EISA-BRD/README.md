@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc-EISA-BRD
 - Hex ID: FZECONPCEISABRD
 - Name: con-pc : EISA-BRD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc/EISA-BRD/
 - Description: con-pc : EISA-BRD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-EISA-BRD](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc-EISA-BRD)
 - Short Link: [http://oom.lt/FZECONPCEISABRD](http://oom.lt/FZECONPCEISABRD)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-44-1EP_10x10mm_P0.8mm_EP4.5x4.5mm
 - Hex ID: FZKQFPTQFP441EP1X1P8EP45X45
 - Name: Package_QFP : TQFP-44-1EP_10x10mm_P0.8mm_EP4.5x4.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/TQFP-44-1EP_10x10mm_P0.8mm_EP4.5x4.5mm/
 - Description: Package_QFP : TQFP-44-1EP_10x10mm_P0.8mm_EP4.5x4.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-44-1EP_10x10mm_P0.8mm_EP4.5x4.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-44-1EP_10x10mm_P0.8mm_EP4.5x4.5mm)
 - Short Link: [http://oom.lt/FZKQFPTQFP441EP1X1P8EP45X45](http://oom.lt/FZKQFPTQFP441EP1X1P8EP45X45)

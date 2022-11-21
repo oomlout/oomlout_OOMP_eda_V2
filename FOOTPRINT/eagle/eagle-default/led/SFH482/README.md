@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-SFH482
 - Hex ID: FZELSFH482
 - Name: led : SFH482
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/SFH482/
 - Description: led : SFH482
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SFH482](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SFH482)
 - Short Link: [http://oom.lt/FZELSFH482](http://oom.lt/FZELSFH482)

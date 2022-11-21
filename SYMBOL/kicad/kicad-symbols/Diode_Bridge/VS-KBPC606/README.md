@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC606
 - Hex ID: SZKDIODEBRIDGEVSKBPC66
 - Name: Diode_Bridge : VS-KBPC606
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/VS-KBPC606/
 - Description: Diode_Bridge : VS-KBPC606
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC606](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC606)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEVSKBPC66](http://oom.lt/SZKDIODEBRIDGEVSKBPC66)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor-Winson_GM-402B_5x5mm_P1.27mm
 - Hex ID: FZKSENWINSONGM42B5X5P127
 - Name: Sensor : Winson_GM-402B_5x5mm_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor/Winson_GM-402B_5x5mm_P1.27mm/
 - Description: Sensor : Winson_GM-402B_5x5mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor-Winson_GM-402B_5x5mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor-Winson_GM-402B_5x5mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKSENWINSONGM42B5X5P127](http://oom.lt/FZKSENWINSONGM42B5X5P127)

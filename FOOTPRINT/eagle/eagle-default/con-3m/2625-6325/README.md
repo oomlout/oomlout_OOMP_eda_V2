@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-3m-2625-6325
 - Hex ID: FZECON3M26256325
 - Name: con-3m : 2625-6325
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-3m/2625-6325/
 - Description: con-3m : 2625-6325
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-2625-6325](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-3m-2625-6325)
 - Short Link: [http://oom.lt/FZECON3M26256325](http://oom.lt/FZECON3M26256325)

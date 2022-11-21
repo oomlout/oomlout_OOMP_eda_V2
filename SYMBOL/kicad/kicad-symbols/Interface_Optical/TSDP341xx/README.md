@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSDP341xx
 - Hex ID: SZKINTERFACEOPTICALTSDP341XX
 - Name: Interface_Optical : TSDP341xx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSDP341xx/
 - Description: Interface_Optical : TSDP341xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSDP341xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSDP341xx)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTSDP341XX](http://oom.lt/SZKINTERFACEOPTICALTSDP341XX)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TPD2S017
 - Hex ID: SZKPOWERPROTECTIONTPD2S17
 - Name: Power_Protection : TPD2S017
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD2S017/
 - Description: Power_Protection : TPD2S017
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD2S017](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD2S017)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTPD2S17](http://oom.lt/SZKPOWERPROTECTIONTPD2S17)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-THS4631D
 - Hex ID: SZKAMPLIFIEROPERATIONALTHS4631D
 - Name: Amplifier_Operational : THS4631D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/THS4631D/
 - Description: Amplifier_Operational : THS4631D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-THS4631D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-THS4631D)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTHS4631D](http://oom.lt/SZKAMPLIFIEROPERATIONALTHS4631D)

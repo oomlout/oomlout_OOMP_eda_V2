@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack
 - Hex ID: SZKCNBARRELJ
 - Name: Connector : Barrel_Jack
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Barrel_Jack/
 - Description: Connector : Barrel_Jack
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack)
 - Short Link: [http://oom.lt/SZKCNBARRELJ](http://oom.lt/SZKCNBARRELJ)

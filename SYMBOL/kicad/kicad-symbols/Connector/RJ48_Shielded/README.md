@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ48_Shielded
 - Hex ID: SZKCNRJ48SHED
 - Name: Connector : RJ48_Shielded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ48_Shielded/
 - Description: Connector : RJ48_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ48_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ48_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ48SHED](http://oom.lt/SZKCNRJ48SHED)

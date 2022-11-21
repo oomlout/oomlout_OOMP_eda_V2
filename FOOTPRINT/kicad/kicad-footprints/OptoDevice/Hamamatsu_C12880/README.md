@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Hamamatsu_C12880
 - Hex ID: FZKOPHAMAMATSUC1288
 - Name: OptoDevice : Hamamatsu_C12880
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Hamamatsu_C12880/
 - Description: OptoDevice : Hamamatsu_C12880
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Hamamatsu_C12880](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Hamamatsu_C12880)
 - Short Link: [http://oom.lt/FZKOPHAMAMATSUC1288](http://oom.lt/FZKOPHAMAMATSUC1288)

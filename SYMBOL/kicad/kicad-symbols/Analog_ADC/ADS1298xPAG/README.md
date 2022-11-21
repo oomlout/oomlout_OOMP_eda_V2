@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1298xPAG
 - Hex ID: SZKANALOGADCADS1298XPAG
 - Name: Analog_ADC : ADS1298xPAG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1298xPAG/
 - Description: Analog_ADC : ADS1298xPAG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1298xPAG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1298xPAG)
 - Short Link: [http://oom.lt/SZKANALOGADCADS1298XPAG](http://oom.lt/SZKANALOGADCADS1298XPAG)

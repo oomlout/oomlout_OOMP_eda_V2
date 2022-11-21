@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Fox_FT5H_5.0x3.2mm
 - Hex ID: FZKOCSOCSSMFOXFT5H5X32
 - Name: Oscillator : Oscillator_SMD_Fox_FT5H_5.0x3.2mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fox_FT5H_5.0x3.2mm/
 - Description: Oscillator : Oscillator_SMD_Fox_FT5H_5.0x3.2mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Fox_FT5H_5.0x3.2mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Fox_FT5H_5.0x3.2mm)
 - Short Link: [http://oom.lt/FZKOCSOCSSMFOXFT5H5X32](http://oom.lt/FZKOCSOCSSMFOXFT5H5X32)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-M25PX32-VMP
 - Hex ID: SZKMEMORYFLASHM25PX32VMP
 - Name: Memory_Flash : M25PX32-VMP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/M25PX32-VMP/
 - Description: Memory_Flash : M25PX32-VMP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-M25PX32-VMP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-M25PX32-VMP)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHM25PX32VMP](http://oom.lt/SZKMEMORYFLASHM25PX32VMP)

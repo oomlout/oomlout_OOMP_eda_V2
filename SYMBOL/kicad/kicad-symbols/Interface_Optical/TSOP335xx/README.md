@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP335xx
 - Hex ID: SZKINTERFACEOPTICALTS335XX
 - Name: Interface_Optical : TSOP335xx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSOP335xx/
 - Description: Interface_Optical : TSOP335xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP335xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP335xx)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTS335XX](http://oom.lt/SZKINTERFACEOPTICALTS335XX)

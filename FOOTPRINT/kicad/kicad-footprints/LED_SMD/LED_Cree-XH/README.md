@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKLSMLCREEXH > LED_SMD : LED_Cree-XH](#fzklsmlcreexh--led_smd--led_cree-xh)
+* [FZKLLCREEXH > LED_SMD : LED_Cree-XH](#fzkllcreexh--led_smd--led_cree-xh)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKLSMLCREEXH > LED_SMD : LED_Cree-XH
+# FZKLLCREEXH > LED_SMD : LED_Cree-XH
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XH
-- Hex ID: FZKLSMLCREEXH
+- Hex ID: FZKLLCREEXH
 - Name: LED_SMD : LED_Cree-XH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XH/
 - Description: LED_SMD : LED_Cree-XH
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XH](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XH)
-- Short Link: [http://oom.lt/FZKLSMLCREEXH](http://oom.lt/FZKLSMLCREEXH)
+- Short Link: [http://oom.lt/FZKLLCREEXH](http://oom.lt/FZKLLCREEXH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|LED_SMD|
 |OOMP Index|oompIndex|LED_Cree-XH|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XH|
-|Hex ID (short code)|hexID|FZKLSMLCREEXH|
+|Hex ID (short code)|hexID|FZKLLCREEXH|
 |name|name|LED_SMD : LED_Cree-XH|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Cree-XH'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XHB.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED Cree XH'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Cree-XH.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-motorola-SOJ26-20
 - Hex ID: FZEMMOTOROLASOJ262
 - Name: micro-motorola : SOJ26-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-motorola/SOJ26-20/
 - Description: micro-motorola : SOJ26-20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-SOJ26-20](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-motorola-SOJ26-20)
 - Short Link: [http://oom.lt/FZEMMOTOROLASOJ262](http://oom.lt/FZEMMOTOROLASOJ262)

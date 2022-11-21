@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3427-xMF
 - Hex ID: SZKANALOGADCMCP3427XMF
 - Name: Analog_ADC : MCP3427-xMF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3427-xMF/
 - Description: Analog_ADC : MCP3427-xMF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3427-xMF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3427-xMF)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3427XMF](http://oom.lt/SZKANALOGADCMCP3427XMF)

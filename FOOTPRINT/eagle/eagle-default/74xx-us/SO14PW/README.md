@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-74xx-us-SO14PW
 - Hex ID: FZE74XXUSSO14PW
 - Name: 74xx-us : SO14PW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-us/SO14PW/
 - Description: 74xx-us : SO14PW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-us-SO14PW](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-us-SO14PW)
 - Short Link: [http://oom.lt/FZE74XXUSSO14PW](http://oom.lt/FZE74XXUSSO14PW)

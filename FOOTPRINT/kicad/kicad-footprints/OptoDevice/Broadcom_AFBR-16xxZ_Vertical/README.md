@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKOPBROADCOMAFBR16XXZVERTICAL > OptoDevice : Broadcom_AFBR-16xxZ_Vertical](#fzkopbroadcomafbr16xxzvertical--optodevice--broadcom_afbr-16xxz_vertical)
+* [FZKOPBROADCOMAFBR16XXZF > OptoDevice : Broadcom_AFBR-16xxZ_Vertical](#fzkopbroadcomafbr16xxzf--optodevice--broadcom_afbr-16xxz_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKOPBROADCOMAFBR16XXZVERTICAL > OptoDevice : Broadcom_AFBR-16xxZ_Vertical
+# FZKOPBROADCOMAFBR16XXZF > OptoDevice : Broadcom_AFBR-16xxZ_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Vertical
-- Hex ID: FZKOPBROADCOMAFBR16XXZVERTICAL
+- Hex ID: FZKOPBROADCOMAFBR16XXZF
 - Name: OptoDevice : Broadcom_AFBR-16xxZ_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_AFBR-16xxZ_Vertical/
 - Description: OptoDevice : Broadcom_AFBR-16xxZ_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Vertical)
-- Short Link: [http://oom.lt/FZKOPBROADCOMAFBR16XXZVERTICAL](http://oom.lt/FZKOPBROADCOMAFBR16XXZVERTICAL)
+- Short Link: [http://oom.lt/FZKOPBROADCOMAFBR16XXZF](http://oom.lt/FZKOPBROADCOMAFBR16XXZF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|OptoDevice|
 |OOMP Index|oompIndex|Broadcom_AFBR-16xxZ_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Vertical|
-|Hex ID (short code)|hexID|FZKOPBROADCOMAFBR16XXZVERTICAL|
+|Hex ID (short code)|hexID|FZKOPBROADCOMAFBR16XXZF|
 |name|name|OptoDevice : Broadcom_AFBR-16xxZ_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Broadcom_AFBR-16xxZ_Vertical'</td><td> 'description'</td></tr><tr><td> 'Fiber Optic Transmitter and Receiver</td><td> https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-4369EN'</td><td> 'tags'</td></tr><tr><td> 'Fiber Optic Transmitter and Receiver'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Broadcom_AFBR-16xxZ_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

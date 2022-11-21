@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-6-SMD-HORI-1.0MM
 - Hex ID: FZSSPARKFUNCNSJST6SMHORI1
 - Name: SparkFun-Connectors : JST-6-SMD-HORI-1.0MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/JST-6-SMD-HORI-1.0MM/
 - Description: SparkFun-Connectors : JST-6-SMD-HORI-1.0MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-6-SMD-HORI-1.0MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-6-SMD-HORI-1.0MM)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSJST6SMHORI1](http://oom.lt/FZSSPARKFUNCNSJST6SMHORI1)

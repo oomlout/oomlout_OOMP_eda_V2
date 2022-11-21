@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-KOBU1H
 - Hex ID: FZECONHIRSCHMANNKOBU1H
 - Name: con-hirschmann : KOBU1H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirschmann/KOBU1H/
 - Description: con-hirschmann : KOBU1H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-KOBU1H](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-KOBU1H)
 - Short Link: [http://oom.lt/FZECONHIRSCHMANNKOBU1H](http://oom.lt/FZECONHIRSCHMANNKOBU1H)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6362xDD
 - Hex ID: SZKAMPLIFIEROPERATIONALLTC6362XDD
 - Name: Amplifier_Operational : LTC6362xDD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6362xDD/
 - Description: Amplifier_Operational : LTC6362xDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6362xDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6362xDD)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC6362XDD](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC6362XDD)

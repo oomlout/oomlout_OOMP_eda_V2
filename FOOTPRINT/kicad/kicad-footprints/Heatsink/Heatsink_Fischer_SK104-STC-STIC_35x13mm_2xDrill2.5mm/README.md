@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm
 - Hex ID: FZKHHFISCHERSK14STCSTIC35X132XDRILL25
 - Name: Heatsink : Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm/
 - Description: Heatsink : Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm)
 - Short Link: [http://oom.lt/FZKHHFISCHERSK14STCSTIC35X132XDRILL25](http://oom.lt/FZKHHFISCHERSK14STCSTIC35X132XDRILL25)

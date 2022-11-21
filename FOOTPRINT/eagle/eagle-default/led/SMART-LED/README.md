@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-SMART-LED
 - Hex ID: FZELSRTL
 - Name: led : SMART-LED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/SMART-LED/
 - Description: led : SMART-LED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SMART-LED](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-SMART-LED)
 - Short Link: [http://oom.lt/FZELSRTL](http://oom.lt/FZELSRTL)

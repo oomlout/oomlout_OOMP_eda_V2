@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-HIP2100_SOIC
 - Hex ID: SZKDRIVERFETHIP21SOIC
 - Name: Driver_FET : HIP2100_SOIC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP2100_SOIC/
 - Description: Driver_FET : HIP2100_SOIC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP2100_SOIC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP2100_SOIC)
 - Short Link: [http://oom.lt/SZKDRIVERFETHIP21SOIC](http://oom.lt/SZKDRIVERFETHIP21SOIC)

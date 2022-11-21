@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-WC1602A
 - Hex ID: FZKDIWC162A
 - Name: Display : WC1602A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/WC1602A/
 - Description: Display : WC1602A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-WC1602A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-WC1602A)
 - Short Link: [http://oom.lt/FZKDIWC162A](http://oom.lt/FZKDIWC162A)

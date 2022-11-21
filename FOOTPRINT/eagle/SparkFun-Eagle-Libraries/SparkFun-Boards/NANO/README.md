@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-NANO
 - Hex ID: FZSBONANO
 - Name: SparkFun-Boards : NANO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/NANO/
 - Description: SparkFun-Boards : NANO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-NANO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-NANO)
 - Short Link: [http://oom.lt/FZSBONANO](http://oom.lt/FZSBONANO)

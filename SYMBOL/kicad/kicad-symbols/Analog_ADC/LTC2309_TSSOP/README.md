@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2309_TSSOP
 - Hex ID: SZKANALOGADCLTC239TSS
 - Name: Analog_ADC : LTC2309_TSSOP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC2309_TSSOP/
 - Description: Analog_ADC : LTC2309_TSSOP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2309_TSSOP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2309_TSSOP)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC239TSS](http://oom.lt/SZKANALOGADCLTC239TSS)

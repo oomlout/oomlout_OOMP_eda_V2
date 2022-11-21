@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STAND-OFF-TIGHT
 - Hex ID: FZSHSTANDOFFT
 - Name: SparkFun-Hardware : STAND-OFF-TIGHT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/STAND-OFF-TIGHT/
 - Description: SparkFun-Hardware : STAND-OFF-TIGHT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STAND-OFF-TIGHT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STAND-OFF-TIGHT)
 - Short Link: [http://oom.lt/FZSHSTANDOFFT](http://oom.lt/FZSHSTANDOFFT)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-19inch-AHG
 - Hex ID: FZE19INCHAHG
 - Name: 19inch : AHG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/19inch/AHG/
 - Description: 19inch : AHG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-AHG](http://oom.lt/FOOTPRINT-eagle-eagle-default-19inch-AHG)
 - Short Link: [http://oom.lt/FZE19INCHAHG](http://oom.lt/FZE19INCHAHG)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USB-MICROB
 - Hex ID: FZSRTUMB
 - Name: SparkFun-Retired : USB-MICROB
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/USB-MICROB/
 - Description: SparkFun-Retired : USB-MICROB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USB-MICROB](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-USB-MICROB)
 - Short Link: [http://oom.lt/FZSRTUMB](http://oom.lt/FZSRTUMB)

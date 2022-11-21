@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-net-CTS742C083
 - Hex ID: FZERESISTORNETCTS742C83
 - Name: resistor-net : CTS742C083
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-net/CTS742C083/
 - Description: resistor-net : CTS742C083
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-net-CTS742C083](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-net-CTS742C083)
 - Short Link: [http://oom.lt/FZERESISTORNETCTS742C83](http://oom.lt/FZERESISTORNETCTS742C83)

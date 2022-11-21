@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFE5UM5G-85F-8BG756x
 - Hex ID: SZKFPGALATTICELFE5UM5G85F8BG756X
 - Name: FPGA_Lattice : LFE5UM5G-85F-8BG756x
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5UM5G-85F-8BG756x/
 - Description: FPGA_Lattice : LFE5UM5G-85F-8BG756x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFE5UM5G-85F-8BG756x](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFE5UM5G-85F-8BG756x)
 - Short Link: [http://oom.lt/SZKFPGALATTICELFE5UM5G85F8BG756X](http://oom.lt/SZKFPGALATTICELFE5UM5G85F8BG756X)

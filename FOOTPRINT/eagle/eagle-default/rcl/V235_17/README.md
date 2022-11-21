@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-V235_17
 - Hex ID: FZERCLV23517
 - Name: rcl : V235_17
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/V235_17/
 - Description: rcl : V235_17
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-V235_17](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-V235_17)
 - Short Link: [http://oom.lt/FZERCLV23517](http://oom.lt/FZERCLV23517)

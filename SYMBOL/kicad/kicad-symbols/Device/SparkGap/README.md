@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-SparkGap
 - Hex ID: SZKDEVICESPARKGAP
 - Name: Device : SparkGap
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/SparkGap/
 - Description: Device : SparkGap
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-SparkGap](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-SparkGap)
 - Short Link: [http://oom.lt/SZKDEVICESPARKGAP](http://oom.lt/SZKDEVICESPARKGAP)

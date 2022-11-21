@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF03GS
 - Hex ID: SZKREFERENCEVOLTAGEREF3GS
 - Name: Reference_Voltage : REF03GS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF03GS/
 - Description: Reference_Voltage : REF03GS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF03GS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF03GS)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF3GS](http://oom.lt/SZKREFERENCEVOLTAGEREF3GS)

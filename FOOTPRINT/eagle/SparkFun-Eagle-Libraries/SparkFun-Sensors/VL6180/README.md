@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VL6180
 - Hex ID: FZSSPARKFUNSENSVL618
 - Name: SparkFun-Sensors : VL6180
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/VL6180/
 - Description: SparkFun-Sensors : VL6180
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VL6180](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VL6180)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSVL618](http://oom.lt/FZSSPARKFUNSENSVL618)

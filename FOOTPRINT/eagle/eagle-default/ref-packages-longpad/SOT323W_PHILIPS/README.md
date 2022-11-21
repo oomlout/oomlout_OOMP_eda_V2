@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADSOT323WPHILIPS > ref-packages-longpad : SOT323W_PHILIPS](#fzerefpackageslongpadsot323wphilips--ref-packages-longpad--sot323w_philips)
+* [FZEREFPSLPSOT323WPHILIPS > ref-packages-longpad : SOT323W_PHILIPS](#fzerefpslpsot323wphilips--ref-packages-longpad--sot323w_philips)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADSOT323WPHILIPS > ref-packages-longpad : SOT323W_PHILIPS
+# FZEREFPSLPSOT323WPHILIPS > ref-packages-longpad : SOT323W_PHILIPS
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT323W_PHILIPS
-- Hex ID: FZEREFPACKAGESLONGPADSOT323WPHILIPS
+- Hex ID: FZEREFPSLPSOT323WPHILIPS
 - Name: ref-packages-longpad : SOT323W_PHILIPS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/SOT323W_PHILIPS/
 - Description: ref-packages-longpad : SOT323W_PHILIPS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT323W_PHILIPS](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT323W_PHILIPS)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADSOT323WPHILIPS](http://oom.lt/FZEREFPACKAGESLONGPADSOT323WPHILIPS)
+- Short Link: [http://oom.lt/FZEREFPSLPSOT323WPHILIPS](http://oom.lt/FZEREFPSLPSOT323WPHILIPS)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|SOT323W_PHILIPS|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT323W_PHILIPS|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADSOT323WPHILIPS|
+|Hex ID (short code)|hexID|FZEREFPSLPSOT323WPHILIPS|
 |name|name|ref-packages-longpad : SOT323W_PHILIPS|
 ||||

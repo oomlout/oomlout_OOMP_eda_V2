@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y
 - Hex ID: FZKLGAKIONIXLGA122X2P5LAYOUTBORDER2X4Y
 - Name: Package_LGA : Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y/
 - Description: Package_LGA : Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y)
 - Short Link: [http://oom.lt/FZKLGAKIONIXLGA122X2P5LAYOUTBORDER2X4Y](http://oom.lt/FZKLGAKIONIXLGA122X2P5LAYOUTBORDER2X4Y)

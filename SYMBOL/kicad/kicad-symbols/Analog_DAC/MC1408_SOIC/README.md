@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MC1408_SOIC
 - Hex ID: SZKANALOGDACMC148SOIC
 - Name: Analog_DAC : MC1408_SOIC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/MC1408_SOIC/
 - Description: Analog_DAC : MC1408_SOIC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MC1408_SOIC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MC1408_SOIC)
 - Short Link: [http://oom.lt/SZKANALOGDACMC148SOIC](http://oom.lt/SZKANALOGDACMC148SOIC)

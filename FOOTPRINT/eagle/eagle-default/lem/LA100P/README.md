@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-lem-LA100P
 - Hex ID: FZELEMLA1P
 - Name: lem : LA100P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/lem/LA100P/
 - Description: lem : LA100P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lem-LA100P](http://oom.lt/FOOTPRINT-eagle-eagle-default-lem-LA100P)
 - Short Link: [http://oom.lt/FZELEMLA1P](http://oom.lt/FZELEMLA1P)

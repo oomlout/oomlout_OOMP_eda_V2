@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-TRICOLOR-SMD
 - Hex ID: FZSLLTRICOLORSM
 - Name: SparkFun-LED : LED-TRICOLOR-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/LED-TRICOLOR-SMD/
 - Description: SparkFun-LED : LED-TRICOLOR-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-TRICOLOR-SMD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-TRICOLOR-SMD)
 - Short Link: [http://oom.lt/FZSLLTRICOLORSM](http://oom.lt/FZSLLTRICOLORSM)

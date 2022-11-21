@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-am29-memory-RTSOP40
 - Hex ID: FZEAM29MEMORYRTS4
 - Name: am29-memory : RTSOP40
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/am29-memory/RTSOP40/
 - Description: am29-memory : RTSOP40
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-RTSOP40](http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-RTSOP40)
 - Short Link: [http://oom.lt/FZEAM29MEMORYRTS4](http://oom.lt/FZEAM29MEMORYRTS4)

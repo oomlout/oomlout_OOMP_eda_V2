@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_SideEmitter_Rectangular_W4.5mm_H1.6mm
 - Hex ID: FZKLLSIDEEMITTERRW45H16
 - Name: LED_THT : LED_SideEmitter_Rectangular_W4.5mm_H1.6mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm/
 - Description: LED_THT : LED_SideEmitter_Rectangular_W4.5mm_H1.6mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_SideEmitter_Rectangular_W4.5mm_H1.6mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_SideEmitter_Rectangular_W4.5mm_H1.6mm)
 - Short Link: [http://oom.lt/FZKLLSIDEEMITTERRW45H16](http://oom.lt/FZKLLSIDEEMITTERRW45H16)

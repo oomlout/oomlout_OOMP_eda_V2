@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-VV11
 - Hex ID: FZETRAFOVV11
 - Name: trafo : VV11
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/VV11/
 - Description: trafo : VV11
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-VV11](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-VV11)
 - Short Link: [http://oom.lt/FZETRAFOVV11](http://oom.lt/FZETRAFOVV11)

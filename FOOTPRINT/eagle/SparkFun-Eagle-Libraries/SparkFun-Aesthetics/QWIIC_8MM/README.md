@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_8MM
 - Hex ID: FZSAQWIIC8
 - Name: SparkFun-Aesthetics : QWIIC_8MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/QWIIC_8MM/
 - Description: SparkFun-Aesthetics : QWIIC_8MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_8MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_8MM)
 - Short Link: [http://oom.lt/FZSAQWIIC8](http://oom.lt/FZSAQWIIC8)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-14-QFN
 - Hex ID: FZSIL14QFN
 - Name: SparkFun-IC-Logic : 14-QFN
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/14-QFN/
 - Description: SparkFun-IC-Logic : 14-QFN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-14-QFN](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-14-QFN)
 - Short Link: [http://oom.lt/FZSIL14QFN](http://oom.lt/FZSIL14QFN)

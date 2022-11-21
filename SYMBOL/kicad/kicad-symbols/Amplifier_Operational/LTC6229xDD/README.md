@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6229xDD
 - Hex ID: SZKAMPLIFIEROPERATIONALLTC6229XDD
 - Name: Amplifier_Operational : LTC6229xDD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6229xDD/
 - Description: Amplifier_Operational : LTC6229xDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6229xDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6229xDD)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC6229XDD](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC6229XDD)

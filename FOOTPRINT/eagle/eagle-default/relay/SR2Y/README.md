@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-SR2Y
 - Hex ID: FZERELAYSR2Y
 - Name: relay : SR2Y
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/SR2Y/
 - Description: relay : SR2Y
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SR2Y](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SR2Y)
 - Short Link: [http://oom.lt/FZERELAYSR2Y](http://oom.lt/FZERELAYSR2Y)

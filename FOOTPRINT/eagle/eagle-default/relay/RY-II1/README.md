@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RY-II1
 - Hex ID: FZERELAYRYII1
 - Name: relay : RY-II1
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RY-II1/
 - Description: relay : RY-II1
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RY-II1](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RY-II1)
 - Short Link: [http://oom.lt/FZERELAYRYII1](http://oom.lt/FZERELAYRYII1)

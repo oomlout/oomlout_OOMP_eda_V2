@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm
 - Hex ID: FZKSOHS81EP39X49P127EP23X23
 - Name: Package_SO : HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm/
 - Description: Package_SO : HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm)
 - Short Link: [http://oom.lt/FZKSOHS81EP39X49P127EP23X23](http://oom.lt/FZKSOHS81EP39X49P127EP23X23)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-mt-L03P
 - Hex ID: FZECONAMPMTL3P
 - Name: con-amp-mt : L03P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-mt/L03P/
 - Description: con-amp-mt : L03P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-L03P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-L03P)
 - Short Link: [http://oom.lt/FZECONAMPMTL3P](http://oom.lt/FZECONAMPMTL3P)

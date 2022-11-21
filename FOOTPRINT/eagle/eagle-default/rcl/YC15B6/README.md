@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-YC15B6
 - Hex ID: FZERCLYC15B6
 - Name: rcl : YC15B6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/YC15B6/
 - Description: rcl : YC15B6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-YC15B6](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-YC15B6)
 - Short Link: [http://oom.lt/FZERCLYC15B6](http://oom.lt/FZERCLYC15B6)

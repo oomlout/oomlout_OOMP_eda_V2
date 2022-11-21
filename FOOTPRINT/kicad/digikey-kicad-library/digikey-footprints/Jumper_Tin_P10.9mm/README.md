@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJTINP19 > digikey-footprints : Jumper_Tin_P10.9mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsjtinp19--digikey-footprints--jumper_tin_p109mm)
+* [FZDIGIDIGIKEYFOOTPRINTSJTINP19 > digikey-footprints : Jumper_Tin_P10.9mm](#fzdigidigikeyfootprintsjtinp19--digikey-footprints--jumper_tin_p109mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJTINP19 > digikey-footprints : Jumper_Tin_P10.9mm
+# FZDIGIDIGIKEYFOOTPRINTSJTINP19 > digikey-footprints : Jumper_Tin_P10.9mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P10.9mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJTINP19
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSJTINP19
 - Name: digikey-footprints : Jumper_Tin_P10.9mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Jumper_Tin_P10.9mm/
 - Description: digikey-footprints : Jumper_Tin_P10.9mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P10.9mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P10.9mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJTINP19](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJTINP19)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSJTINP19](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSJTINP19)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Jumper_Tin_P10.9mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P10.9mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJTINP19|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSJTINP19|
 |name|name|digikey-footprints : Jumper_Tin_P10.9mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jumper_Tin_P10.9mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

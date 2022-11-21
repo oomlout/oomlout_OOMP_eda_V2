@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128B1-A
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA128B1A
 - Name: MCU_Microchip_ATmega : ATxmega128B1-A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATxmega128B1-A/
 - Description: MCU_Microchip_ATmega : ATxmega128B1-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128B1-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128B1-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA128B1A](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA128B1A)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-LZR183
 - Hex ID: FZELLZR183
 - Name: led : LZR183
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/LZR183/
 - Description: led : LZR183
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LZR183](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LZR183)
 - Short Link: [http://oom.lt/FZELLZR183](http://oom.lt/FZELLZR183)

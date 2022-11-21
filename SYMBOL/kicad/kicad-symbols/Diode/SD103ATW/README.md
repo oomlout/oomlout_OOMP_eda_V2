@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SD103ATW
 - Hex ID: SZKDIODESD13ATW
 - Name: Diode : SD103ATW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SD103ATW/
 - Description: Diode : SD103ATW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SD103ATW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SD103ATW)
 - Short Link: [http://oom.lt/SZKDIODESD13ATW](http://oom.lt/SZKDIODESD13ATW)

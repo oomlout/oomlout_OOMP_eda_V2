@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-C025-030X050
 - Hex ID: FZERCLC253X5
 - Name: rcl : C025-030X050
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/C025-030X050/
 - Description: rcl : C025-030X050
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C025-030X050](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-C025-030X050)
 - Short Link: [http://oom.lt/FZERCLC253X5](http://oom.lt/FZERCLC253X5)

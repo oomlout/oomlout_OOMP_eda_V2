@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-7-SEGMENT-4DIGIT-20MM
 - Hex ID: FZSL7S4DIGIT2
 - Name: SparkFun-LED : 7-SEGMENT-4DIGIT-20MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/7-SEGMENT-4DIGIT-20MM/
 - Description: SparkFun-LED : 7-SEGMENT-4DIGIT-20MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-7-SEGMENT-4DIGIT-20MM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-7-SEGMENT-4DIGIT-20MM)
 - Short Link: [http://oom.lt/FZSL7S4DIGIT2](http://oom.lt/FZSL7S4DIGIT2)

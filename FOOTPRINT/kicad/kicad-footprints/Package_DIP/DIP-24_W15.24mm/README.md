@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKDIPDIP24W1524 > Package_DIP : DIP-24_W15.24mm](#fzkdipdip24w1524--package_dip--dip-24_w1524mm)
+* [FZKDD24W1524 > Package_DIP : DIP-24_W15.24mm](#fzkdd24w1524--package_dip--dip-24_w1524mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKDIPDIP24W1524 > Package_DIP : DIP-24_W15.24mm
+# FZKDD24W1524 > Package_DIP : DIP-24_W15.24mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-24_W15.24mm
-- Hex ID: FZKDIPDIP24W1524
+- Hex ID: FZKDD24W1524
 - Name: Package_DIP : DIP-24_W15.24mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-24_W15.24mm/
 - Description: Package_DIP : DIP-24_W15.24mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-24_W15.24mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-24_W15.24mm)
-- Short Link: [http://oom.lt/FZKDIPDIP24W1524](http://oom.lt/FZKDIPDIP24W1524)
+- Short Link: [http://oom.lt/FZKDD24W1524](http://oom.lt/FZKDD24W1524)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_DIP|
 |OOMP Index|oompIndex|DIP-24_W15.24mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-24_W15.24mm|
-|Hex ID (short code)|hexID|FZKDIPDIP24W1524|
+|Hex ID (short code)|hexID|FZKDD24W1524|
 |name|name|Package_DIP : DIP-24_W15.24mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-24_W15.24mm'</td><td> 'description'</td></tr><tr><td> '24-lead though-hole mounted DIP package</td><td> row spacing 15.24 mm (600 mils)'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 15.24mm 600mil'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-24_W15.24mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

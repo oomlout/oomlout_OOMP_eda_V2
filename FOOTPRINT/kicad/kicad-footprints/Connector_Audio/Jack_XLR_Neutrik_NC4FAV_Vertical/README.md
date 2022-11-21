@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNAUDIOJXLRNEUTRIKNC4FAVVERTICAL > Connector_Audio : Jack_XLR_Neutrik_NC4FAV_Vertical](#fzkcnaudiojxlrneutriknc4favvertical--connector_audio--jack_xlr_neutrik_nc4fav_vertical)
+* [FZKCNAUDIOJXLRNEUTRIKNC4FAVF > Connector_Audio : Jack_XLR_Neutrik_NC4FAV_Vertical](#fzkcnaudiojxlrneutriknc4favf--connector_audio--jack_xlr_neutrik_nc4fav_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJXLRNEUTRIKNC4FAVVERTICAL > Connector_Audio : Jack_XLR_Neutrik_NC4FAV_Vertical
+# FZKCNAUDIOJXLRNEUTRIKNC4FAVF > Connector_Audio : Jack_XLR_Neutrik_NC4FAV_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC4FAV_Vertical
-- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC4FAVVERTICAL
+- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC4FAVF
 - Name: Connector_Audio : Jack_XLR_Neutrik_NC4FAV_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC4FAV_Vertical/
 - Description: Connector_Audio : Jack_XLR_Neutrik_NC4FAV_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC4FAV_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC4FAV_Vertical)
-- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC4FAVVERTICAL](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC4FAVVERTICAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC4FAVF](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC4FAVF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_XLR_Neutrik_NC4FAV_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC4FAV_Vertical|
-|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC4FAVVERTICAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC4FAVF|
 |name|name|Connector_Audio : Jack_XLR_Neutrik_NC4FAV_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_XLR_Neutrik_NC4FAV_Vertical'</td><td> 'description'</td></tr><tr><td> 'A Series</td><td> 4 pole female XLR receptacle</td><td> grounding</td></tr><tr><td> separate ground contact to mating connector shell and front panel</td><td> vertical PCB mount</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nc4fav'</td><td> 'tags'</td></tr><tr><td> 'neutrik xlr a'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC4FAV_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-SFH6206-3T
 - Hex ID: SZKISOLATORSFH6263T
 - Name: Isolator : SFH6206-3T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/SFH6206-3T/
 - Description: Isolator : SFH6206-3T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH6206-3T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH6206-3T)
 - Short Link: [http://oom.lt/SZKISOLATORSFH6263T](http://oom.lt/SZKISOLATORSFH6263T)

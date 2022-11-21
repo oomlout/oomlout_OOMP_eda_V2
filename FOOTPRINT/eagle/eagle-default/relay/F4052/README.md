@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-F4052
 - Hex ID: FZERELAYF452
 - Name: relay : F4052
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/F4052/
 - Description: relay : F4052
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-F4052](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-F4052)
 - Short Link: [http://oom.lt/FZERELAYF452](http://oom.lt/FZERELAYF452)

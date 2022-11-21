@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-varistor-S14K625
 - Hex ID: FZEVS14K625
 - Name: varistor : S14K625
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/varistor/S14K625/
 - Description: varistor : S14K625
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S14K625](http://oom.lt/FOOTPRINT-eagle-eagle-default-varistor-S14K625)
 - Short Link: [http://oom.lt/FZEVS14K625](http://oom.lt/FZEVS14K625)

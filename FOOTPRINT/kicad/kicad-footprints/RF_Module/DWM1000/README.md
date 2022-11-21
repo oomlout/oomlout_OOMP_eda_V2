@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-DWM1000
 - Hex ID: FZKRFMODWM1
 - Name: RF_Module : DWM1000
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/DWM1000/
 - Description: RF_Module : DWM1000
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-DWM1000](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-DWM1000)
 - Short Link: [http://oom.lt/FZKRFMODWM1](http://oom.lt/FZKRFMODWM1)

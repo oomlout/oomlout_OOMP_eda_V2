@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N5403
 - Hex ID: SZKDIODE1N543
 - Name: Diode : 1N5403
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/1N5403/
 - Description: Diode : 1N5403
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5403](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5403)
 - Short Link: [http://oom.lt/SZKDIODE1N543](http://oom.lt/SZKDIODE1N543)

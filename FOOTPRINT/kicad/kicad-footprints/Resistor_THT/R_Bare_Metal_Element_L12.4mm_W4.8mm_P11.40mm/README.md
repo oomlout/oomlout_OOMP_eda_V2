@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm
 - Hex ID: FZKRRBAREMETALELEMENTL124W48P114
 - Name: Resistor_THT : R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/
 - Description: Resistor_THT : R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm)
 - Short Link: [http://oom.lt/FZKRRBAREMETALELEMENTL124W48P114](http://oom.lt/FZKRRBAREMETALELEMENTL124W48P114)

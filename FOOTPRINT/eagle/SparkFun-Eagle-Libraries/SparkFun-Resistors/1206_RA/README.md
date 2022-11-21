@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-1206_RA
 - Hex ID: FZSR126RA
 - Name: SparkFun-Resistors : 1206_RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/1206_RA/
 - Description: SparkFun-Resistors : 1206_RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-1206_RA](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-1206_RA)
 - Short Link: [http://oom.lt/FZSR126RA](http://oom.lt/FZSR126RA)

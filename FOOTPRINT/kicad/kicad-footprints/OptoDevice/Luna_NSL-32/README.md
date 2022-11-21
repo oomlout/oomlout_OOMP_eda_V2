@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Luna_NSL-32
 - Hex ID: FZKOPLUNANSL32
 - Name: OptoDevice : Luna_NSL-32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Luna_NSL-32/
 - Description: OptoDevice : Luna_NSL-32
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Luna_NSL-32](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Luna_NSL-32)
 - Short Link: [http://oom.lt/FZKOPLUNANSL32](http://oom.lt/FZKOPLUNANSL32)

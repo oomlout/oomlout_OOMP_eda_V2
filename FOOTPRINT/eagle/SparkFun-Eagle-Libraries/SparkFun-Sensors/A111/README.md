@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-A111
 - Hex ID: FZSSPARKFUNSENSA111
 - Name: SparkFun-Sensors : A111
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/A111/
 - Description: SparkFun-Sensors : A111
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-A111](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-A111)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSA111](http://oom.lt/FZSSPARKFUNSENSA111)

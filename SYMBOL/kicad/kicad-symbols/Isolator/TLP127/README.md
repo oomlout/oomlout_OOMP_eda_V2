@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP127
 - Hex ID: SZKISOLATORTLP127
 - Name: Isolator : TLP127
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/TLP127/
 - Description: Isolator : TLP127
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP127](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP127)
 - Short Link: [http://oom.lt/SZKISOLATORTLP127](http://oom.lt/SZKISOLATORTLP127)

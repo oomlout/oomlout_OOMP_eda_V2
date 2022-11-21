@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP1117-ADJ_TO252
 - Hex ID: SZKREGULATORLINEARNCP1117ADJTO252
 - Name: Regulator_Linear : NCP1117-ADJ_TO252
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP1117-ADJ_TO252/
 - Description: Regulator_Linear : NCP1117-ADJ_TO252
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP1117-ADJ_TO252](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP1117-ADJ_TO252)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP1117ADJTO252](http://oom.lt/SZKREGULATORLINEARNCP1117ADJTO252)

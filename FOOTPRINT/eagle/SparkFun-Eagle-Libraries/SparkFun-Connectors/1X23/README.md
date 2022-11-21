@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X23
 - Hex ID: FZSSPARKFUNCNS1X23
 - Name: SparkFun-Connectors : 1X23
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X23/
 - Description: SparkFun-Connectors : 1X23
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X23](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X23)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X23](http://oom.lt/FZSSPARKFUNCNS1X23)

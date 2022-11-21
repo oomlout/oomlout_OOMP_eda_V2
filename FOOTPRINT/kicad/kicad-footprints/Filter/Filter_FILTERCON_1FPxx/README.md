@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_FILTERCON_1FPxx
 - Hex ID: FZKFILFILFILCON1FPXX
 - Name: Filter : Filter_FILTERCON_1FPxx
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_FILTERCON_1FPxx/
 - Description: Filter : Filter_FILTERCON_1FPxx
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_FILTERCON_1FPxx](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Filter-Filter_FILTERCON_1FPxx)
 - Short Link: [http://oom.lt/FZKFILFILFILCON1FPXX](http://oom.lt/FZKFILFILFILCON1FPXX)

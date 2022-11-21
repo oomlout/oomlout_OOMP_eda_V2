@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R3216
 - Hex ID: FZAR3216
 - Name: adafruit : R3216
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/R3216/
 - Description: adafruit : R3216
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R3216](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R3216)
 - Short Link: [http://oom.lt/FZAR3216](http://oom.lt/FZAR3216)

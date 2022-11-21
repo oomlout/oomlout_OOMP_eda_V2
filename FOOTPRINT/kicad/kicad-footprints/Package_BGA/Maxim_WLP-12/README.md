@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Maxim_WLP-12
 - Hex ID: FZKBGAMAXIMWLP12
 - Name: Package_BGA : Maxim_WLP-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Maxim_WLP-12/
 - Description: Package_BGA : Maxim_WLP-12
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Maxim_WLP-12](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_BGA-Maxim_WLP-12)
 - Short Link: [http://oom.lt/FZKBGAMAXIMWLP12](http://oom.lt/FZKBGAMAXIMWLP12)

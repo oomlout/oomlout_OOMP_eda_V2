@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEETXBOARDETXBOARDWITHCONTACT > etx-board : ETX-BOARD-WITH-CONTACT](#fzeetxboardetxboardwithcontact--etx-board--etx-board-with-contact)
+* [FZEETXBOARDETXBOARDWITHCT > etx-board : ETX-BOARD-WITH-CONTACT](#fzeetxboardetxboardwithct--etx-board--etx-board-with-contact)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEETXBOARDETXBOARDWITHCONTACT > etx-board : ETX-BOARD-WITH-CONTACT
+# FZEETXBOARDETXBOARDWITHCT > etx-board : ETX-BOARD-WITH-CONTACT
 
 - ID: FOOTPRINT-eagle-eagle-default-etx-board-ETX-BOARD-WITH-CONTACT
-- Hex ID: FZEETXBOARDETXBOARDWITHCONTACT
+- Hex ID: FZEETXBOARDETXBOARDWITHCT
 - Name: etx-board : ETX-BOARD-WITH-CONTACT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/etx-board/ETX-BOARD-WITH-CONTACT/
 - Description: etx-board : ETX-BOARD-WITH-CONTACT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-etx-board-ETX-BOARD-WITH-CONTACT](http://oom.lt/FOOTPRINT-eagle-eagle-default-etx-board-ETX-BOARD-WITH-CONTACT)
-- Short Link: [http://oom.lt/FZEETXBOARDETXBOARDWITHCONTACT](http://oom.lt/FZEETXBOARDETXBOARDWITHCONTACT)
+- Short Link: [http://oom.lt/FZEETXBOARDETXBOARDWITHCT](http://oom.lt/FZEETXBOARDETXBOARDWITHCT)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|etx-board|
 |OOMP Index|oompIndex|ETX-BOARD-WITH-CONTACT|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-etx-board-ETX-BOARD-WITH-CONTACT|
-|Hex ID (short code)|hexID|FZEETXBOARDETXBOARDWITHCONTACT|
+|Hex ID (short code)|hexID|FZEETXBOARDETXBOARDWITHCT|
 |name|name|etx-board : ETX-BOARD-WITH-CONTACT|
 ||||

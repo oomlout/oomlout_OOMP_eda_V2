@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-GATOR_VECTORIZED
 - Hex ID: FZSAGATORVECTORIZED
 - Name: SparkFun-Aesthetics : GATOR_VECTORIZED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/GATOR_VECTORIZED/
 - Description: SparkFun-Aesthetics : GATOR_VECTORIZED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-GATOR_VECTORIZED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-GATOR_VECTORIZED)
 - Short Link: [http://oom.lt/FZSAGATORVECTORIZED](http://oom.lt/FZSAGATORVECTORIZED)

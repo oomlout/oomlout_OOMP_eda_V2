@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPACKAGETOSOTSMSOT143R > Package_TO_SOT_SMD : SOT-143R](#fzkpackagetosotsmsot143r--package_to_sot_smd--sot-143r)
+* [FZKSOTSOT143R > Package_TO_SOT_SMD : SOT-143R](#fzksotsot143r--package_to_sot_smd--sot-143r)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPACKAGETOSOTSMSOT143R > Package_TO_SOT_SMD : SOT-143R
+# FZKSOTSOT143R > Package_TO_SOT_SMD : SOT-143R
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143R
-- Hex ID: FZKPACKAGETOSOTSMSOT143R
+- Hex ID: FZKSOTSOT143R
 - Name: Package_TO_SOT_SMD : SOT-143R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-143R/
 - Description: Package_TO_SOT_SMD : SOT-143R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143R)
-- Short Link: [http://oom.lt/FZKPACKAGETOSOTSMSOT143R](http://oom.lt/FZKPACKAGETOSOTSMSOT143R)
+- Short Link: [http://oom.lt/FZKSOTSOT143R](http://oom.lt/FZKSOTSOT143R)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_SMD|
 |OOMP Index|oompIndex|SOT-143R|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143R|
-|Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT143R|
+|Hex ID (short code)|hexID|FZKSOTSOT143R|
 |name|name|Package_TO_SOT_SMD : SOT-143R|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-143R'</td><td> 'description'</td></tr><tr><td> 'SOT-143R</td><td> reverse pinning</td><td> https</td></tr><tr><td>//www.nxp.com/docs/en/package-information/SOT143R.pdf'</td><td> 'tags'</td></tr><tr><td> 'SOT-143R Reverse'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-143R.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

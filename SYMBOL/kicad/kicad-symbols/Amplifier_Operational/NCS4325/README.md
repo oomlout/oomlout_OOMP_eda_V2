@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS4325
 - Hex ID: SZKAMPLIFIEROPERATIONALNCS4325
 - Name: Amplifier_Operational : NCS4325
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NCS4325/
 - Description: Amplifier_Operational : NCS4325
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS4325](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS4325)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNCS4325](http://oom.lt/SZKAMPLIFIEROPERATIONALNCS4325)

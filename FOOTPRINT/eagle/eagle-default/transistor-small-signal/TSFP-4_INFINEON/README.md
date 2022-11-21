@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-TSFP-4_INFINEON
 - Hex ID: FZETRANSISTORSLLSIGNALTSFP4INFINEON
 - Name: transistor-small-signal : TSFP-4_INFINEON
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-small-signal/TSFP-4_INFINEON/
 - Description: transistor-small-signal : TSFP-4_INFINEON
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TSFP-4_INFINEON](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-small-signal-TSFP-4_INFINEON)
 - Short Link: [http://oom.lt/FZETRANSISTORSLLSIGNALTSFP4INFINEON](http://oom.lt/FZETRANSISTORSLLSIGNALTSFP4INFINEON)

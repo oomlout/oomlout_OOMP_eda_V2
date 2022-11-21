@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7805
 - Hex ID: SZKREGULATORLINEARL785
 - Name: Regulator_Linear : L7805
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7805/
 - Description: Regulator_Linear : L7805
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7805](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7805)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL785](http://oom.lt/SZKREGULATORLINEARL785)

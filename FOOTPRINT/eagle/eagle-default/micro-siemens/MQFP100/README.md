@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-MQFP100
 - Hex ID: FZEMSIEMENSMQFP1
 - Name: micro-siemens : MQFP100
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/MQFP100/
 - Description: micro-siemens : MQFP100
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-MQFP100](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-MQFP100)
 - Short Link: [http://oom.lt/FZEMSIEMENSMQFP1](http://oom.lt/FZEMSIEMENSMQFP1)

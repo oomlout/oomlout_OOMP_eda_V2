@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME54N19A-A
 - Hex ID: SZKMCUMCHIPSAMEATSAME54N19AA
 - Name: MCU_Microchip_SAME : ATSAME54N19A-A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAME/ATSAME54N19A-A/
 - Description: MCU_Microchip_SAME : ATSAME54N19A-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME54N19A-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME54N19A-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMEATSAME54N19AA](http://oom.lt/SZKMCUMCHIPSAMEATSAME54N19AA)

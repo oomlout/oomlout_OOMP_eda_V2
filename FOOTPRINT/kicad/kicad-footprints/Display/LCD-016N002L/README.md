@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-LCD-016N002L
 - Hex ID: FZKDILCD16N2L
 - Name: Display : LCD-016N002L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/LCD-016N002L/
 - Description: Display : LCD-016N002L
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-LCD-016N002L](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-LCD-016N002L)
 - Short Link: [http://oom.lt/FZKDILCD16N2L](http://oom.lt/FZKDILCD16N2L)

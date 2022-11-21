@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_9V
 - Hex ID: FZSBBC9V
 - Name: SparkFun-Batteries : BATTCON_9V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_9V/
 - Description: SparkFun-Batteries : BATTCON_9V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_9V](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_9V)
 - Short Link: [http://oom.lt/FZSBBC9V](http://oom.lt/FZSBBC9V)

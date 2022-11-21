@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-175TMP-0808
 - Hex ID: FZA175TMP88
 - Name: adafruit : 175TMP-0808
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/175TMP-0808/
 - Description: adafruit : 175TMP-0808
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-175TMP-0808](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-175TMP-0808)
 - Short Link: [http://oom.lt/FZA175TMP88](http://oom.lt/FZA175TMP88)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-4098
 - Hex ID: SZK4XXX498
 - Name: 4xxx : 4098
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx/4098/
 - Description: 4xxx : 4098
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4098](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4098)
 - Short Link: [http://oom.lt/SZK4XXX498](http://oom.lt/SZK4XXX498)

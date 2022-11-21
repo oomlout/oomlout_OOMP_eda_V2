@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADC25525X75 > ref-packages-longpad : C025_050-025X075](#fzerefpackageslongpadc25525x75--ref-packages-longpad--c025_050-025x075)
+* [FZEREFPSLPC25525X75 > ref-packages-longpad : C025_050-025X075](#fzerefpslpc25525x75--ref-packages-longpad--c025_050-025x075)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADC25525X75 > ref-packages-longpad : C025_050-025X075
+# FZEREFPSLPC25525X75 > ref-packages-longpad : C025_050-025X075
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-C025_050-025X075
-- Hex ID: FZEREFPACKAGESLONGPADC25525X75
+- Hex ID: FZEREFPSLPC25525X75
 - Name: ref-packages-longpad : C025_050-025X075
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/C025_050-025X075/
 - Description: ref-packages-longpad : C025_050-025X075
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-C025_050-025X075](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-C025_050-025X075)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADC25525X75](http://oom.lt/FZEREFPACKAGESLONGPADC25525X75)
+- Short Link: [http://oom.lt/FZEREFPSLPC25525X75](http://oom.lt/FZEREFPSLPC25525X75)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|C025_050-025X075|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-C025_050-025X075|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADC25525X75|
+|Hex ID (short code)|hexID|FZEREFPSLPC25525X75|
 |name|name|ref-packages-longpad : C025_050-025X075|
 ||||

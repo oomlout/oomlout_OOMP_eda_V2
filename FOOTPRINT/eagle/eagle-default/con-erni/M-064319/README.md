@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-erni-M-064319
 - Hex ID: FZECONERNIM64319
 - Name: con-erni : M-064319
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-erni/M-064319/
 - Description: con-erni : M-064319
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-erni-M-064319](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-erni-M-064319)
 - Short Link: [http://oom.lt/FZECONERNIM64319](http://oom.lt/FZECONERNIM64319)

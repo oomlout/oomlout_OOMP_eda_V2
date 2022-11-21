@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS78233DDC
 - Hex ID: SZKREGULATORLINEARTPS78233DDC
 - Name: Regulator_Linear : TPS78233DDC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS78233DDC/
 - Description: Regulator_Linear : TPS78233DDC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS78233DDC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS78233DDC)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS78233DDC](http://oom.lt/SZKREGULATORLINEARTPS78233DDC)

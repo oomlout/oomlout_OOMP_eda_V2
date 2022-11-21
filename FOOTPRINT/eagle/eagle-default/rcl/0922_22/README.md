@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-0922_22
 - Hex ID: FZERCL92222
 - Name: rcl : 0922_22
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/0922_22/
 - Description: rcl : 0922_22
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-0922_22](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-0922_22)
 - Short Link: [http://oom.lt/FZERCL92222](http://oom.lt/FZERCL92222)

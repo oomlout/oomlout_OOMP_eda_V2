@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-74xx-MC74LCX16245DT
 - Hex ID: SZK74XXMC74LCX16245DT
 - Name: 74xx : MC74LCX16245DT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/MC74LCX16245DT/
 - Description: 74xx : MC74LCX16245DT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-MC74LCX16245DT](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-MC74LCX16245DT)
 - Short Link: [http://oom.lt/SZK74XXMC74LCX16245DT](http://oom.lt/SZK74XXMC74LCX16245DT)

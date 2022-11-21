@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-NetTie_3_Tee
 - Hex ID: SZKDEVICENT3TEE
 - Name: Device : NetTie_3_Tee
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/NetTie_3_Tee/
 - Description: Device : NetTie_3_Tee
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_3_Tee](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_3_Tee)
 - Short Link: [http://oom.lt/SZKDEVICENT3TEE](http://oom.lt/SZKDEVICENT3TEE)

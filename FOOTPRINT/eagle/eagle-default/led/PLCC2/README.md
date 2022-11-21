@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-PLCC2
 - Hex ID: FZELPLCC2
 - Name: led : PLCC2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/PLCC2/
 - Description: led : PLCC2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-PLCC2](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-PLCC2)
 - Short Link: [http://oom.lt/FZELPLCC2](http://oom.lt/FZELPLCC2)

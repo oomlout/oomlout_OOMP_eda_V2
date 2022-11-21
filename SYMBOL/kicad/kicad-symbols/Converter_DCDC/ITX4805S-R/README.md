@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX4805S-R
 - Hex ID: SZKCONITX485SR
 - Name: Converter_DCDC : ITX4805S-R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX4805S-R/
 - Description: Converter_DCDC : ITX4805S-R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX4805S-R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX4805S-R)
 - Short Link: [http://oom.lt/SZKCONITX485SR](http://oom.lt/SZKCONITX485SR)

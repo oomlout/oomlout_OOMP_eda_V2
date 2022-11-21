@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-LFPAK33
 - Hex ID: FZETRANSISTORPOWERLFPAK33
 - Name: transistor-power : LFPAK33
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/LFPAK33/
 - Description: transistor-power : LFPAK33
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-LFPAK33](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-LFPAK33)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERLFPAK33](http://oom.lt/FZETRANSISTORPOWERLFPAK33)

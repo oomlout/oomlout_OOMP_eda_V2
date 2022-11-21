@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HQ1157
 - Hex ID: FZKRFMCIRCUITSHQ1157
 - Name: RF_Mini-Circuits : Mini-Circuits_HQ1157
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_HQ1157/
 - Description: RF_Mini-Circuits : Mini-Circuits_HQ1157
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HQ1157](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HQ1157)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSHQ1157](http://oom.lt/FZKRFMCIRCUITSHQ1157)

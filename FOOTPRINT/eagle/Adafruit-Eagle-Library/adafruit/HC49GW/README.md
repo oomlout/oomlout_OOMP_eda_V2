@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HC49GW
 - Hex ID: FZAHC49GW
 - Name: adafruit : HC49GW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/HC49GW/
 - Description: adafruit : HC49GW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HC49GW](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HC49GW)
 - Short Link: [http://oom.lt/FZAHC49GW](http://oom.lt/FZAHC49GW)

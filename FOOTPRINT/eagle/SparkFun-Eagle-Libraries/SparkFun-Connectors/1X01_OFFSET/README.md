@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNS1X1OFFSET > SparkFun-Connectors : 1X01_OFFSET](#fzssparkfuncns1x1offset--sparkfun-connectors--1x01_offset)
+* [FZSSPARKFUNCNS1X1O > SparkFun-Connectors : 1X01_OFFSET](#fzssparkfuncns1x1o--sparkfun-connectors--1x01_offset)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNS1X1OFFSET > SparkFun-Connectors : 1X01_OFFSET
+# FZSSPARKFUNCNS1X1O > SparkFun-Connectors : 1X01_OFFSET
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_OFFSET
-- Hex ID: FZSSPARKFUNCNS1X1OFFSET
+- Hex ID: FZSSPARKFUNCNS1X1O
 - Name: SparkFun-Connectors : 1X01_OFFSET
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X01_OFFSET/
 - Description: SparkFun-Connectors : 1X01_OFFSET
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_OFFSET](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_OFFSET)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNS1X1OFFSET](http://oom.lt/FZSSPARKFUNCNS1X1OFFSET)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNS1X1O](http://oom.lt/FZSSPARKFUNCNS1X1O)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|1X01_OFFSET|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_OFFSET|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNS1X1OFFSET|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNS1X1O|
 |name|name|SparkFun-Connectors : 1X01_OFFSET|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-HDSM-441B_HDSM-443B
 - Hex ID: FZKDIHDSM441BHDSM443B
 - Name: Display : HDSM-441B_HDSM-443B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/HDSM-441B_HDSM-443B/
 - Description: Display : HDSM-441B_HDSM-443B
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HDSM-441B_HDSM-443B](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-HDSM-441B_HDSM-443B)
 - Short Link: [http://oom.lt/FZKDIHDSM441BHDSM443B](http://oom.lt/FZKDIHDSM441BHDSM443B)

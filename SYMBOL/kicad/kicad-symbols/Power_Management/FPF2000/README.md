@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-FPF2000
 - Hex ID: SZKPOWERMANAGEMENTFPF2
 - Name: Power_Management : FPF2000
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/FPF2000/
 - Description: Power_Management : FPF2000
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2000](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-FPF2000)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTFPF2](http://oom.lt/SZKPOWERMANAGEMENTFPF2)

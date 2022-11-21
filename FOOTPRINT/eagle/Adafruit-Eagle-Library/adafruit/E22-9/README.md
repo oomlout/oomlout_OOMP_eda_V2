@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E22-9
 - Hex ID: FZAE229
 - Name: adafruit : E22-9
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/E22-9/
 - Description: adafruit : E22-9
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E22-9](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E22-9)
 - Short Link: [http://oom.lt/FZAE229](http://oom.lt/FZAE229)

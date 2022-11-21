@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L75.0mm_W9.0mm_P81.28mm
 - Hex ID: FZKRRAXIALPOWERL75W9P8128
 - Name: Resistor_THT : R_Axial_Power_L75.0mm_W9.0mm_P81.28mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L75.0mm_W9.0mm_P81.28mm/
 - Description: Resistor_THT : R_Axial_Power_L75.0mm_W9.0mm_P81.28mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L75.0mm_W9.0mm_P81.28mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L75.0mm_W9.0mm_P81.28mm)
 - Short Link: [http://oom.lt/FZKRRAXIALPOWERL75W9P8128](http://oom.lt/FZKRRAXIALPOWERL75W9P8128)

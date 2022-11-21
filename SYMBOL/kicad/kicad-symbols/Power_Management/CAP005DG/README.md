@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-CAP005DG
 - Hex ID: SZKPOWERMANAGEMENTCAP5DG
 - Name: Power_Management : CAP005DG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/CAP005DG/
 - Description: Power_Management : CAP005DG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-CAP005DG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-CAP005DG)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTCAP5DG](http://oom.lt/SZKPOWERMANAGEMENTCAP5DG)

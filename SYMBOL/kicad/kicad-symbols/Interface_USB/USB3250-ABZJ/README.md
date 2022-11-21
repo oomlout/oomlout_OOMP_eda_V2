@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-USB3250-ABZJ
 - Hex ID: SZKINTERFACEUU325ABZJ
 - Name: Interface_USB : USB3250-ABZJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3250-ABZJ/
 - Description: Interface_USB : USB3250-ABZJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3250-ABZJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-USB3250-ABZJ)
 - Short Link: [http://oom.lt/SZKINTERFACEUU325ABZJ](http://oom.lt/SZKINTERFACEUU325ABZJ)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP101-485D
 - Hex ID: SZKPOWERSUPERVISORMCP11485D
 - Name: Power_Supervisor : MCP101-485D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP101-485D/
 - Description: Power_Supervisor : MCP101-485D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP101-485D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP101-485D)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP11485D](http://oom.lt/SZKPOWERSUPERVISORMCP11485D)

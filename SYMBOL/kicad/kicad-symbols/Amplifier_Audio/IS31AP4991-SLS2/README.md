@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IS31AP4991-SLS2
 - Hex ID: SZKAMPLIFIERAUDIOIS31AP4991SLS2
 - Name: Amplifier_Audio : IS31AP4991-SLS2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IS31AP4991-SLS2/
 - Description: Amplifier_Audio : IS31AP4991-SLS2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IS31AP4991-SLS2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IS31AP4991-SLS2)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIS31AP4991SLS2](http://oom.lt/SZKAMPLIFIERAUDIOIS31AP4991SLS2)

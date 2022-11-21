@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOT23
 - Hex ID: FZASOT23
 - Name: adafruit : SOT23
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/SOT23/
 - Description: adafruit : SOT23
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOT23](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOT23)
 - Short Link: [http://oom.lt/FZASOT23](http://oom.lt/FZASOT23)

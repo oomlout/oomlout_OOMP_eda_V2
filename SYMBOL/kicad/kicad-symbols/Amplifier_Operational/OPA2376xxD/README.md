@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2376xxD
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA2376XXD
 - Name: Amplifier_Operational : OPA2376xxD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2376xxD/
 - Description: Amplifier_Operational : OPA2376xxD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2376xxD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2376xxD)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2376XXD](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2376XXD)

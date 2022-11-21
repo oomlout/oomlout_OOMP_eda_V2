@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CR1220-THM
 - Hex ID: FZACR122T
 - Name: adafruit : CR1220-THM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/CR1220-THM/
 - Description: adafruit : CR1220-THM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CR1220-THM](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CR1220-THM)
 - Short Link: [http://oom.lt/FZACR122T](http://oom.lt/FZACR122T)

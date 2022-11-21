@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-IRS2505L
 - Hex ID: SZKREGULATORCONTROLLERIRS255L
 - Name: Regulator_Controller : IRS2505L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/IRS2505L/
 - Description: Regulator_Controller : IRS2505L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-IRS2505L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-IRS2505L)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERIRS255L](http://oom.lt/SZKREGULATORCONTROLLERIRS255L)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR32DB28x-xSS
 - Hex ID: SZKMCUMCHIPAVRDXAVR32DB28XXSS
 - Name: MCU_Microchip_AVR_Dx : AVR32DB28x-xSS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR32DB28x-xSS/
 - Description: MCU_Microchip_AVR_Dx : AVR32DB28x-xSS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR32DB28x-xSS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR32DB28x-xSS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR32DB28XXSS](http://oom.lt/SZKMCUMCHIPAVRDXAVR32DB28XXSS)

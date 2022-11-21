@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TSOP-6.PAC
 - Hex ID: FZETRANSISTORPOWERTS6PAC
 - Name: transistor-power : TSOP-6.PAC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TSOP-6.PAC/
 - Description: transistor-power : TSOP-6.PAC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TSOP-6.PAC](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TSOP-6.PAC)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTS6PAC](http://oom.lt/FZETRANSISTORPOWERTS6PAC)

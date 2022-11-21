@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-1X6MTA
 - Hex ID: FZECONAMP1X6MTA
 - Name: con-amp : 1X6MTA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/1X6MTA/
 - Description: con-amp : 1X6MTA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-1X6MTA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-1X6MTA)
 - Short Link: [http://oom.lt/FZECONAMP1X6MTA](http://oom.lt/FZECONAMP1X6MTA)

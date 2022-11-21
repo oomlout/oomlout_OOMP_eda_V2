@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS6DFN3X3 > digikey-footprints : 6-DFN_3x3mm](#fzkicaddigikeykicadlibrarydigikeyfootprints6dfn3x3--digikey-footprints--6-dfn_3x3mm)
+* [FZDIGIDIGIKEYFOOTPRINTS6DFN3X3 > digikey-footprints : 6-DFN_3x3mm](#fzdigidigikeyfootprints6dfn3x3--digikey-footprints--6-dfn_3x3mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS6DFN3X3 > digikey-footprints : 6-DFN_3x3mm
+# FZDIGIDIGIKEYFOOTPRINTS6DFN3X3 > digikey-footprints : 6-DFN_3x3mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-6-DFN_3x3mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS6DFN3X3
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTS6DFN3X3
 - Name: digikey-footprints : 6-DFN_3x3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/6-DFN_3x3mm/
 - Description: digikey-footprints : 6-DFN_3x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-6-DFN_3x3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-6-DFN_3x3mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS6DFN3X3](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS6DFN3X3)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS6DFN3X3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTS6DFN3X3)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|6-DFN_3x3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-6-DFN_3x3mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS6DFN3X3|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTS6DFN3X3|
 |name|name|digikey-footprints : 6-DFN_3x3mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> '6-DFN_3x3mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

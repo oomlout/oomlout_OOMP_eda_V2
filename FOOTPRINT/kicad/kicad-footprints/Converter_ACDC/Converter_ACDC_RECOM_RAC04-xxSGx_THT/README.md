@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_RECOM_RAC04-xxSGx_THT
 - Hex ID: FZKCONCONRECOMRAC4XXSGXTHT
 - Name: Converter_ACDC : Converter_ACDC_RECOM_RAC04-xxSGx_THT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_RECOM_RAC04-xxSGx_THT/
 - Description: Converter_ACDC : Converter_ACDC_RECOM_RAC04-xxSGx_THT
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_RECOM_RAC04-xxSGx_THT](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_RECOM_RAC04-xxSGx_THT)
 - Short Link: [http://oom.lt/FZKCONCONRECOMRAC4XXSGXTHT](http://oom.lt/FZKCONCONRECOMRAC4XXSGXTHT)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SPARKFUN-DIGITALIC_TQFP44
 - Hex ID: FZSRTSPARKFUNDIGITALICTQFP44
 - Name: SparkFun-Retired : SPARKFUN-DIGITALIC_TQFP44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SPARKFUN-DIGITALIC_TQFP44/
 - Description: SparkFun-Retired : SPARKFUN-DIGITALIC_TQFP44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SPARKFUN-DIGITALIC_TQFP44](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SPARKFUN-DIGITALIC_TQFP44)
 - Short Link: [http://oom.lt/FZSRTSPARKFUNDIGITALICTQFP44](http://oom.lt/FZSRTSPARKFUNDIGITALICTQFP44)

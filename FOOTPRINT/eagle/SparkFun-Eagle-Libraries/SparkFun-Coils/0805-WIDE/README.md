@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0805-WIDE
 - Hex ID: FZSCO85WIDE
 - Name: SparkFun-Coils : 0805-WIDE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/0805-WIDE/
 - Description: SparkFun-Coils : 0805-WIDE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0805-WIDE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0805-WIDE)
 - Short Link: [http://oom.lt/FZSCO85WIDE](http://oom.lt/FZSCO85WIDE)

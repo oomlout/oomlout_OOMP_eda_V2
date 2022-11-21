@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-UCC27714D
 - Hex ID: SZKDRIVERFETUCC27714D
 - Name: Driver_FET : UCC27714D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/UCC27714D/
 - Description: Driver_FET : UCC27714D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-UCC27714D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-UCC27714D)
 - Short Link: [http://oom.lt/SZKDRIVERFETUCC27714D](http://oom.lt/SZKDRIVERFETUCC27714D)

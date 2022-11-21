@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-DSB2810
 - Hex ID: SZKDIODEDSB281
 - Name: Diode : DSB2810
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/DSB2810/
 - Description: Diode : DSB2810
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DSB2810](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DSB2810)
 - Short Link: [http://oom.lt/SZKDIODEDSB281](http://oom.lt/SZKDIODEDSB281)

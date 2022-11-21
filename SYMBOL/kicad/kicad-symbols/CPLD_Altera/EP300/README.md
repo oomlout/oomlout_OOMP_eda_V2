@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP300
 - Hex ID: SZKCPLDALTERAEP3
 - Name: CPLD_Altera : EP300
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EP300/
 - Description: CPLD_Altera : EP300
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP300](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP300)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEP3](http://oom.lt/SZKCPLDALTERAEP3)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-LORA_MARK_PNG
 - Hex ID: FZSALORAMARKPNG
 - Name: SparkFun-Aesthetics : LORA_MARK_PNG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/LORA_MARK_PNG/
 - Description: SparkFun-Aesthetics : LORA_MARK_PNG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-LORA_MARK_PNG](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-LORA_MARK_PNG)
 - Short Link: [http://oom.lt/FZSALORAMARKPNG](http://oom.lt/FZSALORAMARKPNG)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-0309V
 - Hex ID: FZERCL39V
 - Name: rcl : 0309V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/0309V/
 - Description: rcl : 0309V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-0309V](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-0309V)
 - Short Link: [http://oom.lt/FZERCL39V](http://oom.lt/FZERCL39V)

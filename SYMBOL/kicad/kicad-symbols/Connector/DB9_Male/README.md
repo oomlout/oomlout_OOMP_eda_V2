@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB9_Male
 - Hex ID: SZKCNDB9MALE
 - Name: Connector : DB9_Male
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DB9_Male/
 - Description: Connector : DB9_Male
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB9_Male](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB9_Male)
 - Short Link: [http://oom.lt/SZKCNDB9MALE](http://oom.lt/SZKCNDB9MALE)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SD-MMC-CARD
 - Hex ID: FZSBOSDCCARD
 - Name: SparkFun-Boards : SD-MMC-CARD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SD-MMC-CARD/
 - Description: SparkFun-Boards : SD-MMC-CARD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SD-MMC-CARD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SD-MMC-CARD)
 - Short Link: [http://oom.lt/FZSBOSDCCARD](http://oom.lt/FZSBOSDCCARD)

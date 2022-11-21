@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-lumiled-LUMILED+
 - Hex ID: FZELLUMLUM+
 - Name: led-lumiled : LUMILED+
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led-lumiled/LUMILED+/
 - Description: led-lumiled : LUMILED+
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-lumiled-LUMILED+](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-lumiled-LUMILED+)
 - Short Link: [http://oom.lt/FZELLUMLUM+](http://oom.lt/FZELLUMLUM+)

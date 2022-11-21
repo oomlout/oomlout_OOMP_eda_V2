@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-VFQFN-20
 - Hex ID: FZSICVFQFN2
 - Name: SparkFun-IC-Comms : VFQFN-20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Comms/VFQFN-20/
 - Description: SparkFun-IC-Comms : VFQFN-20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-VFQFN-20](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-VFQFN-20)
 - Short Link: [http://oom.lt/FZSICVFQFN2](http://oom.lt/FZSICVFQFN2)

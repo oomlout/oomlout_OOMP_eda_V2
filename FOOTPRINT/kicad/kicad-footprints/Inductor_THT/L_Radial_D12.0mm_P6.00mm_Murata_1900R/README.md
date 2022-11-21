@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D12.0mm_P6.00mm_Murata_1900R
 - Hex ID: FZKINLRD12P6M19R
 - Name: Inductor_THT : L_Radial_D12.0mm_P6.00mm_Murata_1900R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P6.00mm_Murata_1900R/
 - Description: Inductor_THT : L_Radial_D12.0mm_P6.00mm_Murata_1900R
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D12.0mm_P6.00mm_Murata_1900R](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D12.0mm_P6.00mm_Murata_1900R)
 - Short Link: [http://oom.lt/FZKINLRD12P6M19R](http://oom.lt/FZKINLRD12P6M19R)

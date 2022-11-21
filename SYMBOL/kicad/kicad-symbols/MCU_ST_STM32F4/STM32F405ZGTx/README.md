@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405ZGTx
 - Hex ID: SZKMCUSTSTM32F4STM32F45ZGTX
 - Name: MCU_ST_STM32F4 : STM32F405ZGTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F4/STM32F405ZGTx/
 - Description: MCU_ST_STM32F4 : STM32F405ZGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405ZGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405ZGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F45ZGTX](http://oom.lt/SZKMCUSTSTM32F4STM32F45ZGTX)

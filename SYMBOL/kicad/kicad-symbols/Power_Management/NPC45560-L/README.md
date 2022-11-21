@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-NPC45560-L
 - Hex ID: SZKPOWERMANAGEMENTNPC4556L
 - Name: Power_Management : NPC45560-L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/NPC45560-L/
 - Description: Power_Management : NPC45560-L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-NPC45560-L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-NPC45560-L)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTNPC4556L](http://oom.lt/SZKPOWERMANAGEMENTNPC4556L)

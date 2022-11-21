@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA3528
 - Hex ID: FZSCEIA3528
 - Name: SparkFun-Capacitors : EIA3528
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/EIA3528/
 - Description: SparkFun-Capacitors : EIA3528
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA3528](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA3528)
 - Short Link: [http://oom.lt/FZSCEIA3528](http://oom.lt/FZSCEIA3528)

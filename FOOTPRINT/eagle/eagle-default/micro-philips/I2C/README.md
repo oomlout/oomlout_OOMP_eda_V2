@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-philips-I2C
 - Hex ID: FZEMPHILIPSI2C
 - Name: micro-philips : I2C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-philips/I2C/
 - Description: micro-philips : I2C
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-I2C](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-philips-I2C)
 - Short Link: [http://oom.lt/FZEMPHILIPSI2C](http://oom.lt/FZEMPHILIPSI2C)

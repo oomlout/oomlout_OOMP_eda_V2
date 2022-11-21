@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-MDB6S
 - Hex ID: SZKDIODEBRIDGEMDB6S
 - Name: Diode_Bridge : MDB6S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/MDB6S/
 - Description: Diode_Bridge : MDB6S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MDB6S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MDB6S)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEMDB6S](http://oom.lt/SZKDIODEBRIDGEMDB6S)

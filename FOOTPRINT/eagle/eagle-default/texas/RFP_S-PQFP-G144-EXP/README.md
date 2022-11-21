@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-RFP_S-PQFP-G144-EXP
 - Hex ID: FZETEXASRFPSPQFPG144EXP
 - Name: texas : RFP_S-PQFP-G144-EXP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/RFP_S-PQFP-G144-EXP/
 - Description: texas : RFP_S-PQFP-G144-EXP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-RFP_S-PQFP-G144-EXP](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-RFP_S-PQFP-G144-EXP)
 - Short Link: [http://oom.lt/FZETEXASRFPSPQFPG144EXP](http://oom.lt/FZETEXASRFPSPQFPG144EXP)

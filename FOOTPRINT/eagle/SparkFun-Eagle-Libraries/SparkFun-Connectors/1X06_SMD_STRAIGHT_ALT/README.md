@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_SMD_STRAIGHT_ALT
 - Hex ID: FZSSPARKFUNCNS1X6SMSALT
 - Name: SparkFun-Connectors : 1X06_SMD_STRAIGHT_ALT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X06_SMD_STRAIGHT_ALT/
 - Description: SparkFun-Connectors : 1X06_SMD_STRAIGHT_ALT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_SMD_STRAIGHT_ALT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_SMD_STRAIGHT_ALT)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X6SMSALT](http://oom.lt/FZSSPARKFUNCNS1X6SMSALT)

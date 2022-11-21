@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-56
 - Hex ID: FZSIUQFN56
 - Name: SparkFun-IC-Microcontroller : QFN-56
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-56/
 - Description: SparkFun-IC-Microcontroller : QFN-56
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-56](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-56)
 - Short Link: [http://oom.lt/FZSIUQFN56](http://oom.lt/FZSIUQFN56)

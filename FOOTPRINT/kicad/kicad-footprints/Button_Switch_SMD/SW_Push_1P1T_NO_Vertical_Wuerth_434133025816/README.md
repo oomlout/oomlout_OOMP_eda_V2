@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKBSWITCHSMSWPUSH1P1TNOVERTICALWUERTH43413325816 > Button_Switch_SMD : SW_Push_1P1T_NO_Vertical_Wuerth_434133025816](#fzkbswitchsmswpush1p1tnoverticalwuerth43413325816--button_switch_smd--sw_push_1p1t_no_vertical_wuerth_434133025816)
+* [FZKBSWPUSH1P1TNOFWUERTH43413325816 > Button_Switch_SMD : SW_Push_1P1T_NO_Vertical_Wuerth_434133025816](#fzkbswpush1p1tnofwuerth43413325816--button_switch_smd--sw_push_1p1t_no_vertical_wuerth_434133025816)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKBSWITCHSMSWPUSH1P1TNOVERTICALWUERTH43413325816 > Button_Switch_SMD : SW_Push_1P1T_NO_Vertical_Wuerth_434133025816
+# FZKBSWPUSH1P1TNOFWUERTH43413325816 > Button_Switch_SMD : SW_Push_1P1T_NO_Vertical_Wuerth_434133025816
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_Vertical_Wuerth_434133025816
-- Hex ID: FZKBSWITCHSMSWPUSH1P1TNOVERTICALWUERTH43413325816
+- Hex ID: FZKBSWPUSH1P1TNOFWUERTH43413325816
 - Name: Button_Switch_SMD : SW_Push_1P1T_NO_Vertical_Wuerth_434133025816
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_Vertical_Wuerth_434133025816/
 - Description: Button_Switch_SMD : SW_Push_1P1T_NO_Vertical_Wuerth_434133025816
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_Vertical_Wuerth_434133025816](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_Vertical_Wuerth_434133025816)
-- Short Link: [http://oom.lt/FZKBSWITCHSMSWPUSH1P1TNOVERTICALWUERTH43413325816](http://oom.lt/FZKBSWITCHSMSWPUSH1P1TNOVERTICALWUERTH43413325816)
+- Short Link: [http://oom.lt/FZKBSWPUSH1P1TNOFWUERTH43413325816](http://oom.lt/FZKBSWPUSH1P1TNOFWUERTH43413325816)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Button_Switch_SMD|
 |OOMP Index|oompIndex|SW_Push_1P1T_NO_Vertical_Wuerth_434133025816|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_Vertical_Wuerth_434133025816|
-|Hex ID (short code)|hexID|FZKBSWITCHSMSWPUSH1P1TNOVERTICALWUERTH43413325816|
+|Hex ID (short code)|hexID|FZKBSWPUSH1P1TNOFWUERTH43413325816|
 |name|name|Button_Switch_SMD : SW_Push_1P1T_NO_Vertical_Wuerth_434133025816|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_Push_1P1T_NO_Vertical_Wuerth_434133025816'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//katalog.we-online.com/em/datasheet/434133025816.pdf'</td><td> 'tags'</td></tr><tr><td> 'tactile switch Wurth Wuerth'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_Push_1P1T_NO_Vertical_Wuerth_434133025816.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

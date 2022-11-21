@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-deutsch-AS08-98
 - Hex ID: FZECONDEUTSCHAS898
 - Name: con-deutsch : AS08-98
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-deutsch/AS08-98/
 - Description: con-deutsch : AS08-98
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS08-98](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-deutsch-AS08-98)
 - Short Link: [http://oom.lt/FZECONDEUTSCHAS898](http://oom.lt/FZECONDEUTSCHAS898)

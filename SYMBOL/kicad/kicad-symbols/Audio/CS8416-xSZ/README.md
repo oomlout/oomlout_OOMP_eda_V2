@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-CS8416-xSZ
 - Hex ID: SZKAUDIOCS8416XSZ
 - Name: Audio : CS8416-xSZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/CS8416-xSZ/
 - Description: Audio : CS8416-xSZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS8416-xSZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS8416-xSZ)
 - Short Link: [http://oom.lt/SZKAUDIOCS8416XSZ](http://oom.lt/SZKAUDIOCS8416XSZ)

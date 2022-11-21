@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-EB35D
 - Hex ID: FZERCLEB35D
 - Name: rcl : EB35D
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/EB35D/
 - Description: rcl : EB35D
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-EB35D](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-EB35D)
 - Short Link: [http://oom.lt/FZERCLEB35D](http://oom.lt/FZERCLEB35D)

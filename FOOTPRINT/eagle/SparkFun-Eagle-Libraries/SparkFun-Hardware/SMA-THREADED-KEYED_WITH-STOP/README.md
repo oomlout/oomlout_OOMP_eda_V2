@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSHSTHREADEDKEYEDWITHSTOP > SparkFun-Hardware : SMA-THREADED-KEYED_WITH-STOP](#fzshsthreadedkeyedwithstop--sparkfun-hardware--sma-threaded-keyed_with-stop)
+* [FZSHSTHKEYEDWITHSTOP > SparkFun-Hardware : SMA-THREADED-KEYED_WITH-STOP](#fzshsthkeyedwithstop--sparkfun-hardware--sma-threaded-keyed_with-stop)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSHSTHREADEDKEYEDWITHSTOP > SparkFun-Hardware : SMA-THREADED-KEYED_WITH-STOP
+# FZSHSTHKEYEDWITHSTOP > SparkFun-Hardware : SMA-THREADED-KEYED_WITH-STOP
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED-KEYED_WITH-STOP
-- Hex ID: FZSHSTHREADEDKEYEDWITHSTOP
+- Hex ID: FZSHSTHKEYEDWITHSTOP
 - Name: SparkFun-Hardware : SMA-THREADED-KEYED_WITH-STOP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/SMA-THREADED-KEYED_WITH-STOP/
 - Description: SparkFun-Hardware : SMA-THREADED-KEYED_WITH-STOP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED-KEYED_WITH-STOP](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED-KEYED_WITH-STOP)
-- Short Link: [http://oom.lt/FZSHSTHREADEDKEYEDWITHSTOP](http://oom.lt/FZSHSTHREADEDKEYEDWITHSTOP)
+- Short Link: [http://oom.lt/FZSHSTHKEYEDWITHSTOP](http://oom.lt/FZSHSTHKEYEDWITHSTOP)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Hardware|
 |OOMP Index|oompIndex|SMA-THREADED-KEYED_WITH-STOP|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED-KEYED_WITH-STOP|
-|Hex ID (short code)|hexID|FZSHSTHREADEDKEYEDWITHSTOP|
+|Hex ID (short code)|hexID|FZSHSTHKEYEDWITHSTOP|
 |name|name|SparkFun-Hardware : SMA-THREADED-KEYED_WITH-STOP|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1185-xCT
 - Hex ID: SZKREGULATORLINEARTC1185XCT
 - Name: Regulator_Linear : TC1185-xCT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TC1185-xCT/
 - Description: Regulator_Linear : TC1185-xCT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1185-xCT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1185-xCT)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC1185XCT](http://oom.lt/SZKREGULATORLINEARTC1185XCT)

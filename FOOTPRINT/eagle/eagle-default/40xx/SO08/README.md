@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-40xx-SO08
 - Hex ID: FZE4XXSO8
 - Name: 40xx : SO08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/SO08/
 - Description: 40xx : SO08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-40xx-SO08](http://oom.lt/FOOTPRINT-eagle-eagle-default-40xx-SO08)
 - Short Link: [http://oom.lt/FZE4XXSO8](http://oom.lt/FZE4XXSO8)

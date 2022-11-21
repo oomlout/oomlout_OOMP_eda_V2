@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_LPT80A
 - Hex ID: FZKOPOSRAMLPT8A
 - Name: OptoDevice : Osram_LPT80A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_LPT80A/
 - Description: OptoDevice : Osram_LPT80A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_LPT80A](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_LPT80A)
 - Short Link: [http://oom.lt/FZKOPOSRAMLPT8A](http://oom.lt/FZKOPOSRAMLPT8A)

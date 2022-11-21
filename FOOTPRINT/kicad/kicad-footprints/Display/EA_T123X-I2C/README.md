@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-EA_T123X-I2C
 - Hex ID: FZKDIEAT123XI2C
 - Name: Display : EA_T123X-I2C
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/EA_T123X-I2C/
 - Description: Display : EA_T123X-I2C
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-EA_T123X-I2C](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Display-EA_T123X-I2C)
 - Short Link: [http://oom.lt/FZKDIEAT123XI2C](http://oom.lt/FZKDIEAT123XI2C)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-intel-S84
 - Hex ID: FZEMINTELS84
 - Name: micro-intel : S84
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-intel/S84/
 - Description: micro-intel : S84
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-S84](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-intel-S84)
 - Short Link: [http://oom.lt/FZEMINTELS84](http://oom.lt/FZEMINTELS84)

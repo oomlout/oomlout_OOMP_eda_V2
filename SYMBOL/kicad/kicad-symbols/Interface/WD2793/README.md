@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-WD2793
 - Hex ID: SZKINTERFACEWD2793
 - Name: Interface : WD2793
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/WD2793/
 - Description: Interface : WD2793
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-WD2793](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-WD2793)
 - Short Link: [http://oom.lt/SZKINTERFACEWD2793](http://oom.lt/SZKINTERFACEWD2793)

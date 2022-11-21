@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM1270M256
 - Hex ID: SZKCPLDALTERAEPM127M256
 - Name: CPLD_Altera : EPM1270M256
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM1270M256/
 - Description: CPLD_Altera : EPM1270M256
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM1270M256](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM1270M256)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEPM127M256](http://oom.lt/SZKCPLDALTERAEPM127M256)

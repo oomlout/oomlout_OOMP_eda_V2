@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MMSD914
 - Hex ID: SZKDIODESD914
 - Name: Diode : MMSD914
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/MMSD914/
 - Description: Diode : MMSD914
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMSD914](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMSD914)
 - Short Link: [http://oom.lt/SZKDIODESD914](http://oom.lt/SZKDIODESD914)

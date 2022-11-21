@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB37_Male
 - Hex ID: SZKCNDB37MALE
 - Name: Connector : DB37_Male
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DB37_Male/
 - Description: Connector : DB37_Male
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB37_Male](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB37_Male)
 - Short Link: [http://oom.lt/SZKCNDB37MALE](http://oom.lt/SZKCNDB37MALE)

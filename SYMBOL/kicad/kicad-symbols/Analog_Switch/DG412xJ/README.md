@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKANALOGSWITCHDG412XJ > Analog_Switch : DG412xJ](#szkanalogswitchdg412xj--analog_switch--dg412xj)
+* [SZKANALOGSWDG412XJ > Analog_Switch : DG412xJ](#szkanalogswdg412xj--analog_switch--dg412xj)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKANALOGSWITCHDG412XJ > Analog_Switch : DG412xJ
+# SZKANALOGSWDG412XJ > Analog_Switch : DG412xJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG412xJ
-- Hex ID: SZKANALOGSWITCHDG412XJ
+- Hex ID: SZKANALOGSWDG412XJ
 - Name: Analog_Switch : DG412xJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG412xJ/
 - Description: Analog_Switch : DG412xJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG412xJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG412xJ)
-- Short Link: [http://oom.lt/SZKANALOGSWITCHDG412XJ](http://oom.lt/SZKANALOGSWITCHDG412XJ)
+- Short Link: [http://oom.lt/SZKANALOGSWDG412XJ](http://oom.lt/SZKANALOGSWDG412XJ)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Analog_Switch|
 |OOMP Index|oompIndex|DG412xJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG412xJ|
-|Hex ID (short code)|hexID|SZKANALOGSWITCHDG412XJ|
+|Hex ID (short code)|hexID|SZKANALOGSWDG412XJ|
 |name|name|Analog_Switch : DG412xJ|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG412xJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DG411-DG413.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad SPST Monolithic CMOS Analog Switches</td><td> normally OFF</td><td> 17Ohm Ron</td><td> DIP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

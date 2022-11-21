@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-R_2012-12R
 - Hex ID: FZERCLR21212R
 - Name: rcl : R_2012-12R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/R_2012-12R/
 - Description: rcl : R_2012-12R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R_2012-12R](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-R_2012-12R)
 - Short Link: [http://oom.lt/FZERCLR21212R](http://oom.lt/FZERCLR21212R)

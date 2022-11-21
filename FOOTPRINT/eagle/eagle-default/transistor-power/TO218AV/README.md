@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO218AV
 - Hex ID: FZETRANSISTORPOWERTO218AV
 - Name: transistor-power : TO218AV
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO218AV/
 - Description: transistor-power : TO218AV
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO218AV](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO218AV)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO218AV](http://oom.lt/FZETRANSISTORPOWERTO218AV)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO7567R8575A > oomlout_OOMP_parts : RESE-0805-X-O750-67-R85750A](#fzkicadoomloutoompkicadoomloutoomppartsrese85xo7567r8575a--oomlout_oomp_parts--rese-0805-x-o750-67-r85750a)
+* [FZOOMPKOOMPPRESE85XO7567R8575A > oomlout_OOMP_parts : RESE-0805-X-O750-67-R85750A](#fzoompkoompprese85xo7567r8575a--oomlout_oomp_parts--rese-0805-x-o750-67-r85750a)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO7567R8575A > oomlout_OOMP_parts : RESE-0805-X-O750-67-R85750A
+# FZOOMPKOOMPPRESE85XO7567R8575A > oomlout_OOMP_parts : RESE-0805-X-O750-67-R85750A
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O750-67-R85750A
-- Hex ID: FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO7567R8575A
+- Hex ID: FZOOMPKOOMPPRESE85XO7567R8575A
 - Name: oomlout_OOMP_parts : RESE-0805-X-O750-67-R85750A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/RESE-0805-X-O750-67-R85750A/
 - Description: oomlout_OOMP_parts : RESE-0805-X-O750-67-R85750A
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O750-67-R85750A](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O750-67-R85750A)
-- Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO7567R8575A](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO7567R8575A)
+- Short Link: [http://oom.lt/FZOOMPKOOMPPRESE85XO7567R8575A](http://oom.lt/FZOOMPKOOMPPRESE85XO7567R8575A)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|oomlout_OOMP_parts|
 |OOMP Index|oompIndex|RESE-0805-X-O750-67-R85750A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O750-67-R85750A|
-|Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO7567R8575A|
+|Hex ID (short code)|hexID|FZOOMPKOOMPPRESE85XO7567R8575A|
 |name|name|oomlout_OOMP_parts : RESE-0805-X-O750-67-R85750A|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RESE-0805-X-O750-67-R85750A'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R85750A; Resistor SMD 0805 (2012 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> IPC-SM-782 page 72</td><td> https</td></tr><tr><td>//www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

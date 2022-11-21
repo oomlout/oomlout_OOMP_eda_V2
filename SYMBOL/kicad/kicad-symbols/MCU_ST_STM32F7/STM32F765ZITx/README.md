@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F765ZITx
 - Hex ID: SZKMCUSTSTM32F7STM32F765ZITX
 - Name: MCU_ST_STM32F7 : STM32F765ZITx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F765ZITx/
 - Description: MCU_ST_STM32F7 : STM32F765ZITx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F765ZITx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F765ZITx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F765ZITX](http://oom.lt/SZKMCUSTSTM32F7STM32F765ZITX)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-micro-siemens-DSO36
 - Hex ID: FZEMSIEMENSDSO36
 - Name: micro-siemens : DSO36
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/micro-siemens/DSO36/
 - Description: micro-siemens : DSO36
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-DSO36](http://oom.lt/FOOTPRINT-eagle-eagle-default-micro-siemens-DSO36)
 - Short Link: [http://oom.lt/FZEMSIEMENSDSO36](http://oom.lt/FZEMSIEMENSDSO36)

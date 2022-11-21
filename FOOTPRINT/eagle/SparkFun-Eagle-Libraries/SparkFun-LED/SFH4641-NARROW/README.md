@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-SFH4641-NARROW
 - Hex ID: FZSLSFH4641N
 - Name: SparkFun-LED : SFH4641-NARROW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-LED/SFH4641-NARROW/
 - Description: SparkFun-LED : SFH4641-NARROW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-SFH4641-NARROW](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-SFH4641-NARROW)
 - Short Link: [http://oom.lt/FZSLSFH4641N](http://oom.lt/FZSLSFH4641N)

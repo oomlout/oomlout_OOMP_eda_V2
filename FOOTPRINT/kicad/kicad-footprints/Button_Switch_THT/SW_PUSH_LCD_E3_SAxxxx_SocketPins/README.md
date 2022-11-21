@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_LCD_E3_SAxxxx_SocketPins
 - Hex ID: FZKBSWPUSHLCDE3SAXXXXSINS
 - Name: Button_Switch_THT : SW_PUSH_LCD_E3_SAxxxx_SocketPins
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_LCD_E3_SAxxxx_SocketPins/
 - Description: Button_Switch_THT : SW_PUSH_LCD_E3_SAxxxx_SocketPins
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_LCD_E3_SAxxxx_SocketPins](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_LCD_E3_SAxxxx_SocketPins)
 - Short Link: [http://oom.lt/FZKBSWPUSHLCDE3SAXXXXSINS](http://oom.lt/FZKBSWPUSHLCDE3SAXXXXSINS)

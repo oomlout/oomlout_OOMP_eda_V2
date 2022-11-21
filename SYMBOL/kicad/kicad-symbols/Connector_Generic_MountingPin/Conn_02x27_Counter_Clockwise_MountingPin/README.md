@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKCNGENERICMOUNTINGPINCONN2X27COUNTERCLWISEMOUNTINGPIN > Connector_Generic_MountingPin : Conn_02x27_Counter_Clockwise_MountingPin](#szkcngenericmountingpinconn2x27counterclwisemountingpin--connector_generic_mountingpin--conn_02x27_counter_clockwise_mountingpin)
+* [SZKCNGMPC2X27CCWMP > Connector_Generic_MountingPin : Conn_02x27_Counter_Clockwise_MountingPin](#szkcngmpc2x27ccwmp--connector_generic_mountingpin--conn_02x27_counter_clockwise_mountingpin)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKCNGENERICMOUNTINGPINCONN2X27COUNTERCLWISEMOUNTINGPIN > Connector_Generic_MountingPin : Conn_02x27_Counter_Clockwise_MountingPin
+# SZKCNGMPC2X27CCWMP > Connector_Generic_MountingPin : Conn_02x27_Counter_Clockwise_MountingPin
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x27_Counter_Clockwise_MountingPin
-- Hex ID: SZKCNGENERICMOUNTINGPINCONN2X27COUNTERCLWISEMOUNTINGPIN
+- Hex ID: SZKCNGMPC2X27CCWMP
 - Name: Connector_Generic_MountingPin : Conn_02x27_Counter_Clockwise_MountingPin
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x27_Counter_Clockwise_MountingPin/
 - Description: Connector_Generic_MountingPin : Conn_02x27_Counter_Clockwise_MountingPin
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x27_Counter_Clockwise_MountingPin](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x27_Counter_Clockwise_MountingPin)
-- Short Link: [http://oom.lt/SZKCNGENERICMOUNTINGPINCONN2X27COUNTERCLWISEMOUNTINGPIN](http://oom.lt/SZKCNGENERICMOUNTINGPINCONN2X27COUNTERCLWISEMOUNTINGPIN)
+- Short Link: [http://oom.lt/SZKCNGMPC2X27CCWMP](http://oom.lt/SZKCNGMPC2X27CCWMP)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Generic_MountingPin|
 |OOMP Index|oompIndex|Conn_02x27_Counter_Clockwise_MountingPin|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x27_Counter_Clockwise_MountingPin|
-|Hex ID (short code)|hexID|SZKCNGENERICMOUNTINGPINCONN2X27COUNTERCLWISEMOUNTINGPIN|
+|Hex ID (short code)|hexID|SZKCNGMPC2X27CCWMP|
 |name|name|Connector_Generic_MountingPin : Conn_02x27_Counter_Clockwise_MountingPin|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_02x27_Counter_Clockwise_MountingPin'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connectable mounting pin connector</td><td> double row</td><td> 02x27</td><td> counter clockwise pin numbering scheme (similar to DIP package numbering)</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_2x??-1MP*'</td></tr></table>]|
 ||||

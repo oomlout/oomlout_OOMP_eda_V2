@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TPS2412PW
 - Hex ID: SZKPOWERMANAGEMENTTPS2412PW
 - Name: Power_Management : TPS2412PW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/TPS2412PW/
 - Description: Power_Management : TPS2412PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS2412PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS2412PW)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTPS2412PW](http://oom.lt/SZKPOWERMANAGEMENTTPS2412PW)

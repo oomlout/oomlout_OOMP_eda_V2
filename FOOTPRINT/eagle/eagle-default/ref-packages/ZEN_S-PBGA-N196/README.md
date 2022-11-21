@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESZENSPBGAN196 > ref-packages : ZEN_S-PBGA-N196](#fzerefpackageszenspbgan196--ref-packages--zen_s-pbga-n196)
+* [FZEREFPSZENSPBGAN196 > ref-packages : ZEN_S-PBGA-N196](#fzerefpszenspbgan196--ref-packages--zen_s-pbga-n196)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESZENSPBGAN196 > ref-packages : ZEN_S-PBGA-N196
+# FZEREFPSZENSPBGAN196 > ref-packages : ZEN_S-PBGA-N196
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-ZEN_S-PBGA-N196
-- Hex ID: FZEREFPACKAGESZENSPBGAN196
+- Hex ID: FZEREFPSZENSPBGAN196
 - Name: ref-packages : ZEN_S-PBGA-N196
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/ZEN_S-PBGA-N196/
 - Description: ref-packages : ZEN_S-PBGA-N196
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-ZEN_S-PBGA-N196](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-ZEN_S-PBGA-N196)
-- Short Link: [http://oom.lt/FZEREFPACKAGESZENSPBGAN196](http://oom.lt/FZEREFPACKAGESZENSPBGAN196)
+- Short Link: [http://oom.lt/FZEREFPSZENSPBGAN196](http://oom.lt/FZEREFPSZENSPBGAN196)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|ZEN_S-PBGA-N196|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-ZEN_S-PBGA-N196|
-|Hex ID (short code)|hexID|FZEREFPACKAGESZENSPBGAN196|
+|Hex ID (short code)|hexID|FZEREFPSZENSPBGAN196|
 |name|name|ref-packages : ZEN_S-PBGA-N196|
 ||||

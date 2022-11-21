@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-SN754410NE
 - Hex ID: SZKDRIVERMOTORSN75441NE
 - Name: Driver_Motor : SN754410NE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/SN754410NE/
 - Description: Driver_Motor : SN754410NE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SN754410NE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SN754410NE)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORSN75441NE](http://oom.lt/SZKDRIVERMOTORSN75441NE)

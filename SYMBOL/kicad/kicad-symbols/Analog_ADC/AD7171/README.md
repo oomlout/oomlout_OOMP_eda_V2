@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7171
 - Hex ID: SZKANALOGADCAD7171
 - Name: Analog_ADC : AD7171
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD7171/
 - Description: Analog_ADC : AD7171
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7171](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7171)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7171](http://oom.lt/SZKANALOGADCAD7171)

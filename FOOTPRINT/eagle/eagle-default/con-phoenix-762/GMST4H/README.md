@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMST4H
 - Hex ID: FZECONPHOENIX762GMST4H
 - Name: con-phoenix-762 : GMST4H
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-phoenix-762/GMST4H/
 - Description: con-phoenix-762 : GMST4H
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMST4H](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMST4H)
 - Short Link: [http://oom.lt/FZECONPHOENIX762GMST4H](http://oom.lt/FZECONPHOENIX762GMST4H)

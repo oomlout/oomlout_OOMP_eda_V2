@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOT93L
 - Hex ID: FZEDIODESOT93L
 - Name: diode : SOT93L
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/SOT93L/
 - Description: diode : SOT93L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT93L](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-SOT93L)
 - Short Link: [http://oom.lt/FZEDIODESOT93L](http://oom.lt/FZEDIODESOT93L)

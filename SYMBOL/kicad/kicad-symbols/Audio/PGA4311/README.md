@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Audio-PGA4311
 - Hex ID: SZKAUDIOPGA4311
 - Name: Audio : PGA4311
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/PGA4311/
 - Description: Audio : PGA4311
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PGA4311](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PGA4311)
 - Short Link: [http://oom.lt/SZKAUDIOPGA4311](http://oom.lt/SZKAUDIOPGA4311)

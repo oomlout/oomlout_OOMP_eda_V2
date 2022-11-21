@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L04-xST
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP6L4XST
 - Name: Amplifier_Operational : MCP6L04-xST
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L04-xST/
 - Description: Amplifier_Operational : MCP6L04-xST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L04-xST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L04-xST)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L4XST](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L4XST)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ33
 - Hex ID: SZKCNRJ33
 - Name: Connector : RJ33
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ33/
 - Description: Connector : RJ33
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ33](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ33)
 - Short Link: [http://oom.lt/SZKCNRJ33](http://oom.lt/SZKCNRJ33)

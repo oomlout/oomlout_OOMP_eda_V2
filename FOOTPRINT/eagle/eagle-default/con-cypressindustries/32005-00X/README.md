@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-cypressindustries-32005-00X
 - Hex ID: FZECONCYPRESSINDUSTRIES325X
 - Name: con-cypressindustries : 32005-00X
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-cypressindustries/32005-00X/
 - Description: con-cypressindustries : 32005-00X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cypressindustries-32005-00X](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-cypressindustries-32005-00X)
 - Short Link: [http://oom.lt/FZECONCYPRESSINDUSTRIES325X](http://oom.lt/FZECONCYPRESSINDUSTRIES325X)

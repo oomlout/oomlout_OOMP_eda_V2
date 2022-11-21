@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-analog-devices-AD210
 - Hex ID: FZEANALOGDEVICESAD21
 - Name: analog-devices : AD210
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/analog-devices/AD210/
 - Description: analog-devices : AD210
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-AD210](http://oom.lt/FOOTPRINT-eagle-eagle-default-analog-devices-AD210)
 - Short Link: [http://oom.lt/FZEANALOGDEVICESAD21](http://oom.lt/FZEANALOGDEVICESAD21)

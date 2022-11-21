@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-40xx-SO24W
 - Hex ID: FZE4XXSO24W
 - Name: 40xx : SO24W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/40xx/SO24W/
 - Description: 40xx : SO24W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-40xx-SO24W](http://oom.lt/FOOTPRINT-eagle-eagle-default-40xx-SO24W)
 - Short Link: [http://oom.lt/FZE4XXSO24W](http://oom.lt/FZE4XXSO24W)

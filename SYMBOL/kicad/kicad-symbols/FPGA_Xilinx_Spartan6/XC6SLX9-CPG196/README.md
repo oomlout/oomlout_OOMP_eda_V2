@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX9-CPG196
 - Hex ID: SZKFPGAXILINXSPARTAN6XC6SLX9CPG196
 - Name: FPGA_Xilinx_Spartan6 : XC6SLX9-CPG196
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX9-CPG196/
 - Description: FPGA_Xilinx_Spartan6 : XC6SLX9-CPG196
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX9-CPG196](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX9-CPG196)
 - Short Link: [http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX9CPG196](http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX9CPG196)

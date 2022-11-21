@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555RGER
 - Hex ID: SZKINTERFACEEXPANSIONTCA9555RGER
 - Name: Interface_Expansion : TCA9555RGER
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9555RGER/
 - Description: Interface_Expansion : TCA9555RGER
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555RGER](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555RGER)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9555RGER](http://oom.lt/SZKINTERFACEEXPANSIONTCA9555RGER)

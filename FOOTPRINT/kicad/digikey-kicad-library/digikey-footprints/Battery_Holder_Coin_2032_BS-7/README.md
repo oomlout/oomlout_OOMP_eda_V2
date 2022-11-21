@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBATHOLDERCOIN232BS7 > digikey-footprints : Battery_Holder_Coin_2032_BS-7](#fzkicaddigikeykicadlibrarydigikeyfootprintsbatholdercoin232bs7--digikey-footprints--battery_holder_coin_2032_bs-7)
+* [FZDIGIDIGIKEYFOOTPRINTSBATHCOIN232BS7 > digikey-footprints : Battery_Holder_Coin_2032_BS-7](#fzdigidigikeyfootprintsbathcoin232bs7--digikey-footprints--battery_holder_coin_2032_bs-7)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBATHOLDERCOIN232BS7 > digikey-footprints : Battery_Holder_Coin_2032_BS-7
+# FZDIGIDIGIKEYFOOTPRINTSBATHCOIN232BS7 > digikey-footprints : Battery_Holder_Coin_2032_BS-7
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Battery_Holder_Coin_2032_BS-7
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBATHOLDERCOIN232BS7
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSBATHCOIN232BS7
 - Name: digikey-footprints : Battery_Holder_Coin_2032_BS-7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Battery_Holder_Coin_2032_BS-7/
 - Description: digikey-footprints : Battery_Holder_Coin_2032_BS-7
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Battery_Holder_Coin_2032_BS-7](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Battery_Holder_Coin_2032_BS-7)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBATHOLDERCOIN232BS7](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBATHOLDERCOIN232BS7)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBATHCOIN232BS7](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSBATHCOIN232BS7)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|Battery_Holder_Coin_2032_BS-7|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Battery_Holder_Coin_2032_BS-7|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBATHOLDERCOIN232BS7|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSBATHCOIN232BS7|
 |name|name|digikey-footprints : Battery_Holder_Coin_2032_BS-7|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Battery_Holder_Coin_2032_BS-7'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

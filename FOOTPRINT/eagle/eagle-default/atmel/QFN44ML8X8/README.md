@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-QFN44ML8X8
 - Hex ID: FZEATMELQFN44ML8X8
 - Name: atmel : QFN44ML8X8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/QFN44ML8X8/
 - Description: atmel : QFN44ML8X8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-QFN44ML8X8](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-QFN44ML8X8)
 - Short Link: [http://oom.lt/FZEATMELQFN44ML8X8](http://oom.lt/FZEATMELQFN44ML8X8)

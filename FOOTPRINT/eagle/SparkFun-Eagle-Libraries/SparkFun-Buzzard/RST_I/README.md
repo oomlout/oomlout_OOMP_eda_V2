@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-RST_I
 - Hex ID: FZSBURSTI
 - Name: SparkFun-Buzzard : RST_I
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Buzzard/RST_I/
 - Description: SparkFun-Buzzard : RST_I
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-RST_I](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-RST_I)
 - Short Link: [http://oom.lt/FZSBURSTI](http://oom.lt/FZSBURSTI)

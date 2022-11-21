@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2517FD-xJHA
 - Hex ID: SZKINTERFACECANLINMCP2517FDXJHA
 - Name: Interface_CAN_LIN : MCP2517FD-xJHA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2517FD-xJHA/
 - Description: Interface_CAN_LIN : MCP2517FD-xJHA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2517FD-xJHA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2517FD-xJHA)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2517FDXJHA](http://oom.lt/SZKINTERFACECANLINMCP2517FDXJHA)

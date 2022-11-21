@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX3819M5-L
 - Hex ID: SZKREGULATORLINEARSPX3819M5L
 - Name: Regulator_Linear : SPX3819M5-L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/SPX3819M5-L/
 - Description: Regulator_Linear : SPX3819M5-L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX3819M5-L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX3819M5-L)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARSPX3819M5L](http://oom.lt/SZKREGULATORLINEARSPX3819M5L)

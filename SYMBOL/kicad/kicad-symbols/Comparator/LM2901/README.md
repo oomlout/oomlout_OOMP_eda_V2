@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LM2901
 - Hex ID: SZKCOMPARATORLM291
 - Name: Comparator : LM2901
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LM2901/
 - Description: Comparator : LM2901
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LM2901](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LM2901)
 - Short Link: [http://oom.lt/SZKCOMPARATORLM291](http://oom.lt/SZKCOMPARATORLM291)

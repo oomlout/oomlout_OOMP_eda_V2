@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-SOT223
 - Hex ID: FZELINEARSOT223
 - Name: linear : SOT223
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/SOT223/
 - Description: linear : SOT223
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SOT223](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-SOT223)
 - Short Link: [http://oom.lt/FZELINEARSOT223](http://oom.lt/FZELINEARSOT223)

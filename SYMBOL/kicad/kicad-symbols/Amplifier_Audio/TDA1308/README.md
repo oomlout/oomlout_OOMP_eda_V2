@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA1308
 - Hex ID: SZKAMPLIFIERAUDIOTDA138
 - Name: Amplifier_Audio : TDA1308
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TDA1308/
 - Description: Amplifier_Audio : TDA1308
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA1308](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA1308)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTDA138](http://oom.lt/SZKAMPLIFIERAUDIOTDA138)

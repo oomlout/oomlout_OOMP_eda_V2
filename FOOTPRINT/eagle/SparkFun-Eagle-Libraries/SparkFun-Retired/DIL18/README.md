@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIL18
 - Hex ID: FZSRTDIL18
 - Name: SparkFun-Retired : DIL18
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/DIL18/
 - Description: SparkFun-Retired : DIL18
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIL18](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIL18)
 - Short Link: [http://oom.lt/FZSRTDIL18](http://oom.lt/FZSRTDIL18)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3269WVERTICAL > Potentiometer_SMD : Potentiometer_Bourns_3269W_Vertical](#fzkpotentiometersmpotentiometerbourns3269wvertical--potentiometer_smd--potentiometer_bourns_3269w_vertical)
+* [FZKPPOTBOURNS3269WF > Potentiometer_SMD : Potentiometer_Bourns_3269W_Vertical](#fzkppotbourns3269wf--potentiometer_smd--potentiometer_bourns_3269w_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3269WVERTICAL > Potentiometer_SMD : Potentiometer_Bourns_3269W_Vertical
+# FZKPPOTBOURNS3269WF > Potentiometer_SMD : Potentiometer_Bourns_3269W_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3269W_Vertical
-- Hex ID: FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3269WVERTICAL
+- Hex ID: FZKPPOTBOURNS3269WF
 - Name: Potentiometer_SMD : Potentiometer_Bourns_3269W_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_3269W_Vertical/
 - Description: Potentiometer_SMD : Potentiometer_Bourns_3269W_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3269W_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3269W_Vertical)
-- Short Link: [http://oom.lt/FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3269WVERTICAL](http://oom.lt/FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3269WVERTICAL)
+- Short Link: [http://oom.lt/FZKPPOTBOURNS3269WF](http://oom.lt/FZKPPOTBOURNS3269WF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Potentiometer_SMD|
 |OOMP Index|oompIndex|Potentiometer_Bourns_3269W_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3269W_Vertical|
-|Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3269WVERTICAL|
+|Hex ID (short code)|hexID|FZKPPOTBOURNS3269WF|
 |name|name|Potentiometer_SMD : Potentiometer_Bourns_3269W_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_3269W_Vertical'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> Bourns 3269W</td><td> https</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/3269.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical Bourns 3269W'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3269W_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

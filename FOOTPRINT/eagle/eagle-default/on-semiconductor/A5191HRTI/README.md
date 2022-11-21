@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-on-semiconductor-A5191HRTI
 - Hex ID: FZEONSEMICONDUCTORA5191HRTI
 - Name: on-semiconductor : A5191HRTI
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/on-semiconductor/A5191HRTI/
 - Description: on-semiconductor : A5191HRTI
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-A5191HRTI](http://oom.lt/FOOTPRINT-eagle-eagle-default-on-semiconductor-A5191HRTI)
 - Short Link: [http://oom.lt/FZEONSEMICONDUCTORA5191HRTI](http://oom.lt/FZEONSEMICONDUCTORA5191HRTI)

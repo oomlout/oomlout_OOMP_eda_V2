@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKSOTTO1262VERTICAL > Package_TO_SOT_THT : TO-126-2_Vertical](#fzksotto1262vertical--package_to_sot_tht--to-126-2_vertical)
+* [FZKSOTTO1262F > Package_TO_SOT_THT : TO-126-2_Vertical](#fzksotto1262f--package_to_sot_tht--to-126-2_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKSOTTO1262VERTICAL > Package_TO_SOT_THT : TO-126-2_Vertical
+# FZKSOTTO1262F > Package_TO_SOT_THT : TO-126-2_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-126-2_Vertical
-- Hex ID: FZKSOTTO1262VERTICAL
+- Hex ID: FZKSOTTO1262F
 - Name: Package_TO_SOT_THT : TO-126-2_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-126-2_Vertical/
 - Description: Package_TO_SOT_THT : TO-126-2_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-126-2_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-126-2_Vertical)
-- Short Link: [http://oom.lt/FZKSOTTO1262VERTICAL](http://oom.lt/FZKSOTTO1262VERTICAL)
+- Short Link: [http://oom.lt/FZKSOTTO1262F](http://oom.lt/FZKSOTTO1262F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Package_TO_SOT_THT|
 |OOMP Index|oompIndex|TO-126-2_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-126-2_Vertical|
-|Hex ID (short code)|hexID|FZKSOTTO1262VERTICAL|
+|Hex ID (short code)|hexID|FZKSOTTO1262F|
 |name|name|Package_TO_SOT_THT : TO-126-2_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-126-2_Vertical'</td><td> 'description'</td></tr><tr><td> 'TO-126-2</td><td> Vertical</td><td> RM 5.08mm</td><td> see https</td></tr><tr><td>//www.diodes.com/assets/Package-Files/TO126.pdf'</td><td> 'tags'</td></tr><tr><td> 'TO-126-2 Vertical RM 5.08mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-126-2_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

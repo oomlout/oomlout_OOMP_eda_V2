@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-am29-memory-SO44
 - Hex ID: FZEAM29MEMORYSO44
 - Name: am29-memory : SO44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/am29-memory/SO44/
 - Description: am29-memory : SO44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-SO44](http://oom.lt/FOOTPRINT-eagle-eagle-default-am29-memory-SO44)
 - Short Link: [http://oom.lt/FZEAM29MEMORYSO44](http://oom.lt/FZEAM29MEMORYSO44)

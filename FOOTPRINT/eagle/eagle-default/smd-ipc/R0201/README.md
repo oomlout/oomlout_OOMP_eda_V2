@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-smd-ipc-R0201
 - Hex ID: FZESMIPCR21
 - Name: smd-ipc : R0201
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/smd-ipc/R0201/
 - Description: smd-ipc : R0201
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R0201](http://oom.lt/FOOTPRINT-eagle-eagle-default-smd-ipc-R0201)
 - Short Link: [http://oom.lt/FZESMIPCR21](http://oom.lt/FZESMIPCR21)

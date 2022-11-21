@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-5-STRIP
 - Hex ID: FZA5STRIP
 - Name: adafruit : 5-STRIP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/5-STRIP/
 - Description: adafruit : 5-STRIP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-5-STRIP](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-5-STRIP)
 - Short Link: [http://oom.lt/FZA5STRIP](http://oom.lt/FZA5STRIP)

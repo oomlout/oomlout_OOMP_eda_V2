@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AVR-JTAG-10
 - Hex ID: SZKCNAVRJTAG1
 - Name: Connector : AVR-JTAG-10
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/AVR-JTAG-10/
 - Description: Connector : AVR-JTAG-10
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-JTAG-10](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-JTAG-10)
 - Short Link: [http://oom.lt/SZKCNAVRJTAG1](http://oom.lt/SZKCNAVRJTAG1)

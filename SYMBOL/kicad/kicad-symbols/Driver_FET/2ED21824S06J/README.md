@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-2ED21824S06J
 - Hex ID: SZKDRIVERFET2ED21824S6J
 - Name: Driver_FET : 2ED21824S06J
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/2ED21824S06J/
 - Description: Driver_FET : 2ED21824S06J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-2ED21824S06J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-2ED21824S06J)
 - Short Link: [http://oom.lt/SZKDRIVERFET2ED21824S6J](http://oom.lt/SZKDRIVERFET2ED21824S6J)

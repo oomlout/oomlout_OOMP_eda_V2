@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-105_38.10x25.40mm
 - Hex ID: FZKRFSLAIRDTECHNOLOGIESBMIS15381X254
 - Name: RF_Shielding : Laird_Technologies_BMI-S-105_38.10x25.40mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-105_38.10x25.40mm/
 - Description: RF_Shielding : Laird_Technologies_BMI-S-105_38.10x25.40mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-105_38.10x25.40mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-105_38.10x25.40mm)
 - Short Link: [http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS15381X254](http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS15381X254)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-SRN6045
 - Hex ID: FZSCOSRN645
 - Name: SparkFun-Coils : SRN6045
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Coils/SRN6045/
 - Description: SparkFun-Coils : SRN6045
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-SRN6045](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-SRN6045)
 - Short Link: [http://oom.lt/FZSCOSRN645](http://oom.lt/FZSCOSRN645)

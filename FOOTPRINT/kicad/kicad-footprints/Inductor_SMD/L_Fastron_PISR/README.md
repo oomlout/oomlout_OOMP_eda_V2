@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKINDUCTORSMLFASTRONPISR > Inductor_SMD : L_Fastron_PISR](#fzkinductorsmlfastronpisr--inductor_smd--l_fastron_pisr)
+* [FZKINLFASTRONPISR > Inductor_SMD : L_Fastron_PISR](#fzkinlfastronpisr--inductor_smd--l_fastron_pisr)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKINDUCTORSMLFASTRONPISR > Inductor_SMD : L_Fastron_PISR
+# FZKINLFASTRONPISR > Inductor_SMD : L_Fastron_PISR
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Fastron_PISR
-- Hex ID: FZKINDUCTORSMLFASTRONPISR
+- Hex ID: FZKINLFASTRONPISR
 - Name: Inductor_SMD : L_Fastron_PISR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Fastron_PISR/
 - Description: Inductor_SMD : L_Fastron_PISR
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Fastron_PISR](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Fastron_PISR)
-- Short Link: [http://oom.lt/FZKINDUCTORSMLFASTRONPISR](http://oom.lt/FZKINDUCTORSMLFASTRONPISR)
+- Short Link: [http://oom.lt/FZKINLFASTRONPISR](http://oom.lt/FZKINLFASTRONPISR)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Inductor_SMD|
 |OOMP Index|oompIndex|L_Fastron_PISR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Fastron_PISR|
-|Hex ID (short code)|hexID|FZKINDUCTORSMLFASTRONPISR|
+|Hex ID (short code)|hexID|FZKINLFASTRONPISR|
 |name|name|Inductor_SMD : L_Fastron_PISR|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Fastron_PISR'</td><td> 'description'</td></tr><tr><td> 'Choke</td><td> Drossel</td><td> PISR</td><td> Fastron</td><td> SMD</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Choke Drossel PISR Fastron SMD '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Fastron_PISR.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

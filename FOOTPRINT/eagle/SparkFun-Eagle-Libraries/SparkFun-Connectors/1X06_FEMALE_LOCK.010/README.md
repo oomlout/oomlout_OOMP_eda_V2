@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZSSPARKFUNCNS1X6FEMALEL1 > SparkFun-Connectors : 1X06_FEMALE_LOCK.010](#fzssparkfuncns1x6femalel1--sparkfun-connectors--1x06_female_lock010)
+* [FZSSPARKFUNCNS1X6FL1 > SparkFun-Connectors : 1X06_FEMALE_LOCK.010](#fzssparkfuncns1x6fl1--sparkfun-connectors--1x06_female_lock010)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZSSPARKFUNCNS1X6FEMALEL1 > SparkFun-Connectors : 1X06_FEMALE_LOCK.010
+# FZSSPARKFUNCNS1X6FL1 > SparkFun-Connectors : 1X06_FEMALE_LOCK.010
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_FEMALE_LOCK.010
-- Hex ID: FZSSPARKFUNCNS1X6FEMALEL1
+- Hex ID: FZSSPARKFUNCNS1X6FL1
 - Name: SparkFun-Connectors : 1X06_FEMALE_LOCK.010
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X06_FEMALE_LOCK.010/
 - Description: SparkFun-Connectors : 1X06_FEMALE_LOCK.010
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_FEMALE_LOCK.010](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_FEMALE_LOCK.010)
-- Short Link: [http://oom.lt/FZSSPARKFUNCNS1X6FEMALEL1](http://oom.lt/FZSSPARKFUNCNS1X6FEMALEL1)
+- Short Link: [http://oom.lt/FZSSPARKFUNCNS1X6FL1](http://oom.lt/FZSSPARKFUNCNS1X6FL1)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|SparkFun-Connectors|
 |OOMP Index|oompIndex|1X06_FEMALE_LOCK.010|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_FEMALE_LOCK.010|
-|Hex ID (short code)|hexID|FZSSPARKFUNCNS1X6FEMALEL1|
+|Hex ID (short code)|hexID|FZSSPARKFUNCNS1X6FL1|
 |name|name|SparkFun-Connectors : 1X06_FEMALE_LOCK.010|
 ||||

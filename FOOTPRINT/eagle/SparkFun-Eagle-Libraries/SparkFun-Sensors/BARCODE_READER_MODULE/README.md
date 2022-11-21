@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BARCODE_READER_MODULE
 - Hex ID: FZSSPARKFUNSENSBARCODEREADERMO
 - Name: SparkFun-Sensors : BARCODE_READER_MODULE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/BARCODE_READER_MODULE/
 - Description: SparkFun-Sensors : BARCODE_READER_MODULE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BARCODE_READER_MODULE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-BARCODE_READER_MODULE)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSBARCODEREADERMO](http://oom.lt/FZSSPARKFUNSENSBARCODEREADERMO)

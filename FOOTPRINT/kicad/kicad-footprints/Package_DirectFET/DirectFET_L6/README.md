@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_L6
 - Hex ID: FZKDFETDIRECTFETL6
 - Name: Package_DirectFET : DirectFET_L6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_L6/
 - Description: Package_DirectFET : DirectFET_L6
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_L6](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_L6)
 - Short Link: [http://oom.lt/FZKDFETDIRECTFETL6](http://oom.lt/FZKDFETDIRECTFETL6)

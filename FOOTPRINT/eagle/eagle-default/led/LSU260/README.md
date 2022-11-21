@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-LSU260
 - Hex ID: FZELLSU26
 - Name: led : LSU260
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/LSU260/
 - Description: led : LSU260
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LSU260](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LSU260)
 - Short Link: [http://oom.lt/FZELLSU26](http://oom.lt/FZELLSU26)

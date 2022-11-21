@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-berg-PN87520-S
 - Hex ID: FZECONBERGPN8752S
 - Name: con-berg : PN87520-S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-berg/PN87520-S/
 - Description: con-berg : PN87520-S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-berg-PN87520-S](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-berg-PN87520-S)
 - Short Link: [http://oom.lt/FZECONBERGPN8752S](http://oom.lt/FZECONBERGPN8752S)

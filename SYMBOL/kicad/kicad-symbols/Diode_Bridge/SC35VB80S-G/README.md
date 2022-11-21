@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-SC35VB80S-G
 - Hex ID: SZKDIODEBRIDGESC35VB8SG
 - Name: Diode_Bridge : SC35VB80S-G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/SC35VB80S-G/
 - Description: Diode_Bridge : SC35VB80S-G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-SC35VB80S-G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-SC35VB80S-G)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGESC35VB8SG](http://oom.lt/SZKDIODEBRIDGESC35VB8SG)

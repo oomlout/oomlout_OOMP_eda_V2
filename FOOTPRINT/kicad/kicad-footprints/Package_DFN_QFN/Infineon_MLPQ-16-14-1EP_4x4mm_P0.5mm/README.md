@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm
 - Hex ID: FZKDFNINFINEONMLPQ16141EP4X4P5
 - Name: Package_DFN_QFN : Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm/
 - Description: Package_DFN_QFN : Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm)
 - Short Link: [http://oom.lt/FZKDFNINFINEONMLPQ16141EP4X4P5](http://oom.lt/FZKDFNINFINEONMLPQ16141EP4X4P5)

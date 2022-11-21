@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-lumberg-MICSMD20
 - Hex ID: FZECONLUMBERGMICSM2
 - Name: con-lumberg : MICSMD20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-lumberg/MICSMD20/
 - Description: con-lumberg : MICSMD20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MICSMD20](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-lumberg-MICSMD20)
 - Short Link: [http://oom.lt/FZECONLUMBERGMICSM2](http://oom.lt/FZECONLUMBERGMICSM2)

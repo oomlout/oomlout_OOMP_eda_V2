@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-led-LD269
 - Hex ID: FZELLD269
 - Name: led : LD269
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/led/LD269/
 - Description: led : LD269
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LD269](http://oom.lt/FOOTPRINT-eagle-eagle-default-led-LD269)
 - Short Link: [http://oom.lt/FZELLD269](http://oom.lt/FZELLD269)

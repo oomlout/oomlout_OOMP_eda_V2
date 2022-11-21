@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEAVAGODIP8 > avago : DIP8](#fzeavagodip8--avago--dip8)
+* [FZEAVAGOD8 > avago : DIP8](#fzeavagod8--avago--dip8)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEAVAGODIP8 > avago : DIP8
+# FZEAVAGOD8 > avago : DIP8
 
 - ID: FOOTPRINT-eagle-eagle-default-avago-DIP8
-- Hex ID: FZEAVAGODIP8
+- Hex ID: FZEAVAGOD8
 - Name: avago : DIP8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/avago/DIP8/
 - Description: avago : DIP8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-avago-DIP8](http://oom.lt/FOOTPRINT-eagle-eagle-default-avago-DIP8)
-- Short Link: [http://oom.lt/FZEAVAGODIP8](http://oom.lt/FZEAVAGODIP8)
+- Short Link: [http://oom.lt/FZEAVAGOD8](http://oom.lt/FZEAVAGOD8)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|avago|
 |OOMP Index|oompIndex|DIP8|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-avago-DIP8|
-|Hex ID (short code)|hexID|FZEAVAGODIP8|
+|Hex ID (short code)|hexID|FZEAVAGOD8|
 |name|name|avago : DIP8|
 ||||
 

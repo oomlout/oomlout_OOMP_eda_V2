@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP-07
 - Hex ID: FZKRFMOESP7
 - Name: RF_Module : ESP-07
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/ESP-07/
 - Description: RF_Module : ESP-07
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP-07](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP-07)
 - Short Link: [http://oom.lt/FZKRFMOESP7](http://oom.lt/FZKRFMOESP7)

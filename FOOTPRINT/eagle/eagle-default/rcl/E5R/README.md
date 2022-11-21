@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-E5R
 - Hex ID: FZERCLE5R
 - Name: rcl : E5R
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/E5R/
 - Description: rcl : E5R
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E5R](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-E5R)
 - Short Link: [http://oom.lt/FZERCLE5R](http://oom.lt/FZERCLE5R)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RA
 - Hex ID: FZERELAYRA
 - Name: relay : RA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RA/
 - Description: relay : RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RA](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RA)
 - Short Link: [http://oom.lt/FZERELAYRA](http://oom.lt/FZERELAYRA)

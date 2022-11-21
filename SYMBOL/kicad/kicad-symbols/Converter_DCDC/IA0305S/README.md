@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA0305S
 - Hex ID: SZKCONIA35S
 - Name: Converter_DCDC : IA0305S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/IA0305S/
 - Description: Converter_DCDC : IA0305S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA0305S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA0305S)
 - Short Link: [http://oom.lt/SZKCONIA35S](http://oom.lt/SZKCONIA35S)

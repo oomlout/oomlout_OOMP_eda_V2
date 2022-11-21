@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC2130-LA
 - Hex ID: SZKDRIVERMOTORTMC213LA
 - Name: Driver_Motor : TMC2130-LA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2130-LA/
 - Description: Driver_Motor : TMC2130-LA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC2130-LA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC2130-LA)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORTMC213LA](http://oom.lt/SZKDRIVERMOTORTMC213LA)

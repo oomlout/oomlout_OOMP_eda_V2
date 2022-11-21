@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNJSTJSTEHB15BEHA1X15P25VERTICAL > Connector_JST : JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical](#fzkcnjstjstehb15beha1x15p25vertical--connector_jst--jst_eh_b15b-eh-a_1x15_p250mm_vertical)
+* [FZKCNJSTJSTEHB15BEHA1X15P25F > Connector_JST : JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical](#fzkcnjstjstehb15beha1x15p25f--connector_jst--jst_eh_b15b-eh-a_1x15_p250mm_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNJSTJSTEHB15BEHA1X15P25VERTICAL > Connector_JST : JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical
+# FZKCNJSTJSTEHB15BEHA1X15P25F > Connector_JST : JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical
-- Hex ID: FZKCNJSTJSTEHB15BEHA1X15P25VERTICAL
+- Hex ID: FZKCNJSTJSTEHB15BEHA1X15P25F
 - Name: Connector_JST : JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical/
 - Description: Connector_JST : JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical)
-- Short Link: [http://oom.lt/FZKCNJSTJSTEHB15BEHA1X15P25VERTICAL](http://oom.lt/FZKCNJSTJSTEHB15BEHA1X15P25VERTICAL)
+- Short Link: [http://oom.lt/FZKCNJSTJSTEHB15BEHA1X15P25F](http://oom.lt/FZKCNJSTJSTEHB15BEHA1X15P25F)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_JST|
 |OOMP Index|oompIndex|JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical|
-|Hex ID (short code)|hexID|FZKCNJSTJSTEHB15BEHA1X15P25VERTICAL|
+|Hex ID (short code)|hexID|FZKCNJSTJSTEHB15BEHA1X15P25F|
 |name|name|Connector_JST : JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST EH series connector</td><td> B15B-EH-A (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eEH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST EH side entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_EH_B15B-EH-A_1x15_P2.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

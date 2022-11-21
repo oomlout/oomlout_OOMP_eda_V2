@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-GD75232N
 - Hex ID: SZKINTERFACEUARTGD75232N
 - Name: Interface_UART : GD75232N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/GD75232N/
 - Description: Interface_UART : GD75232N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-GD75232N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-GD75232N)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTGD75232N](http://oom.lt/SZKINTERFACEUARTGD75232N)

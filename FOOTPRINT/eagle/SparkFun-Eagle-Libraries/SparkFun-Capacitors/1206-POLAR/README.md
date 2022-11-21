@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-1206-POLAR
 - Hex ID: FZSC126POLAR
 - Name: SparkFun-Capacitors : 1206-POLAR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/1206-POLAR/
 - Description: SparkFun-Capacitors : 1206-POLAR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-1206-POLAR](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-1206-POLAR)
 - Short Link: [http://oom.lt/FZSC126POLAR](http://oom.lt/FZSC126POLAR)

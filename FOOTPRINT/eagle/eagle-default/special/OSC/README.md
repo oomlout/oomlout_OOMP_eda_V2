@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-special-OSC
 - Hex ID: FZESPECIALOSC
 - Name: special : OSC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/special/OSC/
 - Description: special : OSC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-special-OSC](http://oom.lt/FOOTPRINT-eagle-eagle-default-special-OSC)
 - Short Link: [http://oom.lt/FZESPECIALOSC](http://oom.lt/FZESPECIALOSC)

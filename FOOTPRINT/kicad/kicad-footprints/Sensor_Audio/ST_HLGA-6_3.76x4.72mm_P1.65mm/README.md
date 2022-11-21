@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-ST_HLGA-6_3.76x4.72mm_P1.65mm
 - Hex ID: FZKSENAUDIOSTHLGA6376X472P165
 - Name: Sensor_Audio : ST_HLGA-6_3.76x4.72mm_P1.65mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/
 - Description: Sensor_Audio : ST_HLGA-6_3.76x4.72mm_P1.65mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-ST_HLGA-6_3.76x4.72mm_P1.65mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-ST_HLGA-6_3.76x4.72mm_P1.65mm)
 - Short Link: [http://oom.lt/FZKSENAUDIOSTHLGA6376X472P165](http://oom.lt/FZKSENAUDIOSTHLGA6376X472P165)

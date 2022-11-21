@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-DSP_Texas-TMS320LF2406PZ
 - Hex ID: SZKDSPTEXASTMS32LF246PZ
 - Name: DSP_Texas : TMS320LF2406PZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Texas/TMS320LF2406PZ/
 - Description: DSP_Texas : TMS320LF2406PZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Texas-TMS320LF2406PZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Texas-TMS320LF2406PZ)
 - Short Link: [http://oom.lt/SZKDSPTEXASTMS32LF246PZ](http://oom.lt/SZKDSPTEXASTMS32LF246PZ)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Mallory_AST1109MLTRQ
 - Hex ID: FZKBZBUZZERMALLORYAST119MLTRQ
 - Name: Buzzer_Beeper : Buzzer_Mallory_AST1109MLTRQ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Mallory_AST1109MLTRQ/
 - Description: Buzzer_Beeper : Buzzer_Mallory_AST1109MLTRQ
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Mallory_AST1109MLTRQ](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Mallory_AST1109MLTRQ)
 - Short Link: [http://oom.lt/FZKBZBUZZERMALLORYAST119MLTRQ](http://oom.lt/FZKBZBUZZERMALLORYAST119MLTRQ)

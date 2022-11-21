@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-MAB6V
 - Hex ID: FZECONHIRSCHMANNMAB6V
 - Name: con-hirschmann : MAB6V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-hirschmann/MAB6V/
 - Description: con-hirschmann : MAB6V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-MAB6V](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-hirschmann-MAB6V)
 - Short Link: [http://oom.lt/FZECONHIRSCHMANNMAB6V](http://oom.lt/FZECONHIRSCHMANNMAB6V)

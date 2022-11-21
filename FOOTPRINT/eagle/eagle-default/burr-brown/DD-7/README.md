@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZEBURRBROWNDD7 > burr-brown : DD-7](#fzeburrbrowndd7--burr-brown--dd-7)
+* [FZEBURRBRNDD7 > burr-brown : DD-7](#fzeburrbrndd7--burr-brown--dd-7)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZEBURRBROWNDD7 > burr-brown : DD-7
+# FZEBURRBRNDD7 > burr-brown : DD-7
 
 - ID: FOOTPRINT-eagle-eagle-default-burr-brown-DD-7
-- Hex ID: FZEBURRBROWNDD7
+- Hex ID: FZEBURRBRNDD7
 - Name: burr-brown : DD-7
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/burr-brown/DD-7/
 - Description: burr-brown : DD-7
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-DD-7](http://oom.lt/FOOTPRINT-eagle-eagle-default-burr-brown-DD-7)
-- Short Link: [http://oom.lt/FZEBURRBROWNDD7](http://oom.lt/FZEBURRBROWNDD7)
+- Short Link: [http://oom.lt/FZEBURRBRNDD7](http://oom.lt/FZEBURRBRNDD7)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|burr-brown|
 |OOMP Index|oompIndex|DD-7|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-burr-brown-DD-7|
-|Hex ID (short code)|hexID|FZEBURRBROWNDD7|
+|Hex ID (short code)|hexID|FZEBURRBRNDD7|
 |name|name|burr-brown : DD-7|
 ||||
 

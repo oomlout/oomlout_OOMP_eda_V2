@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Humidity-Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm
 - Hex ID: FZKSENHUMIDITYSENSIRIONDFN81EP25X25P5EP11X17
 - Name: Sensor_Humidity : Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Humidity/Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm/
 - Description: Sensor_Humidity : Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Humidity-Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Sensor_Humidity-Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm)
 - Short Link: [http://oom.lt/FZKSENHUMIDITYSENSIRIONDFN81EP25X25P5EP11X17](http://oom.lt/FZKSENHUMIDITYSENSIRIONDFN81EP25X25P5EP11X17)

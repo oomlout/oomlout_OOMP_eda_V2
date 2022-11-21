@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-freescale-QFN32
 - Hex ID: FZEFREESCALEQFN32
 - Name: freescale : QFN32
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/freescale/QFN32/
 - Description: freescale : QFN32
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-QFN32](http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-QFN32)
 - Short Link: [http://oom.lt/FZEFREESCALEQFN32](http://oom.lt/FZEFREESCALEQFN32)

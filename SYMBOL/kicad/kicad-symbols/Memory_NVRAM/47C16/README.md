@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Memory_NVRAM-47C16
 - Hex ID: SZKMEMORYNVRAM47C16
 - Name: Memory_NVRAM : 47C16
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/47C16/
 - Description: Memory_NVRAM : 47C16
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-47C16](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-47C16)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAM47C16](http://oom.lt/SZKMEMORYNVRAM47C16)

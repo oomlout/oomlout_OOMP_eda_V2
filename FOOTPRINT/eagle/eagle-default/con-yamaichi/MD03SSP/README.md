@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-MD03SSP
 - Hex ID: FZECONYAMAICHIMD3SSP
 - Name: con-yamaichi : MD03SSP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-yamaichi/MD03SSP/
 - Description: con-yamaichi : MD03SSP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-MD03SSP](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-MD03SSP)
 - Short Link: [http://oom.lt/FZECONYAMAICHIMD3SSP](http://oom.lt/FZECONYAMAICHIMD3SSP)

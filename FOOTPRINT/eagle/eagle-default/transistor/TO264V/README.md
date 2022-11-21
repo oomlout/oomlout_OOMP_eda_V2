@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-TO264V
 - Hex ID: FZETRANSISTORTO264V
 - Name: transistor : TO264V
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor/TO264V/
 - Description: transistor : TO264V
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO264V](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-TO264V)
 - Short Link: [http://oom.lt/FZETRANSISTORTO264V](http://oom.lt/FZETRANSISTORTO264V)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerPAK_SO-8_Single
 - Hex ID: FZKSOPOWERPAKSO8SINGLE
 - Name: Package_SO : PowerPAK_SO-8_Single
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/PowerPAK_SO-8_Single/
 - Description: Package_SO : PowerPAK_SO-8_Single
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerPAK_SO-8_Single](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerPAK_SO-8_Single)
 - Short Link: [http://oom.lt/FZKSOPOWERPAKSO8SINGLE](http://oom.lt/FZKSOPOWERPAKSO8SINGLE)

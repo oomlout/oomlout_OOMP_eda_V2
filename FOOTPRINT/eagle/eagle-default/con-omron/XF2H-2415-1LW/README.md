@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2H-2415-1LW
 - Hex ID: FZECONOMRONXF2H24151LW
 - Name: con-omron : XF2H-2415-1LW
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-omron/XF2H-2415-1LW/
 - Description: con-omron : XF2H-2415-1LW
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2H-2415-1LW](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-omron-XF2H-2415-1LW)
 - Short Link: [http://oom.lt/FZECONOMRONXF2H24151LW](http://oom.lt/FZECONOMRONXF2H24151LW)

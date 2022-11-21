@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2022A-xxxxSL
 - Hex ID: SZKINTERFACECANLINMCP222AXXXXSL
 - Name: Interface_CAN_LIN : MCP2022A-xxxxSL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2022A-xxxxSL/
 - Description: Interface_CAN_LIN : MCP2022A-xxxxSL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2022A-xxxxSL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2022A-xxxxSL)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP222AXXXXSL](http://oom.lt/SZKINTERFACECANLINMCP222AXXXXSL)

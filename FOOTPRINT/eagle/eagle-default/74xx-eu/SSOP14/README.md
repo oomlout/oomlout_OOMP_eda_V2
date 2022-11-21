@@ -15,6 +15,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-74xx-eu-SSOP14
 - Hex ID: FZE74XXEUSS14
 - Name: 74xx-eu : SSOP14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/74xx-eu/SSOP14/
 - Description: 74xx-eu : SSOP14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-SSOP14](http://oom.lt/FOOTPRINT-eagle-eagle-default-74xx-eu-SSOP14)
 - Short Link: [http://oom.lt/FZE74XXEUSS14](http://oom.lt/FZE74XXEUSS14)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC11E14FBD48-401
 - Hex ID: SZKMCUNXPLPCLPC11E14FBD4841
 - Name: MCU_NXP_LPC : LPC11E14FBD48-401
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC11E14FBD48-401/
 - Description: MCU_NXP_LPC : LPC11E14FBD48-401
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC11E14FBD48-401](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC11E14FBD48-401)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC11E14FBD4841](http://oom.lt/SZKMCUNXPLPCLPC11E14FBD4841)

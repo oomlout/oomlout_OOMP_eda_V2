@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-Si8642BD-B-IS2
 - Hex ID: SZKISOLATORSI8642BDBIS2
 - Name: Isolator : Si8642BD-B-IS2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/Si8642BD-B-IS2/
 - Description: Isolator : Si8642BD-B-IS2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8642BD-B-IS2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-Si8642BD-B-IS2)
 - Short Link: [http://oom.lt/SZKISOLATORSI8642BDBIS2](http://oom.lt/SZKISOLATORSI8642BDBIS2)

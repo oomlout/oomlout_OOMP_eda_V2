@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO218BH
 - Hex ID: FZETRANSISTORPOWERTO218BH
 - Name: transistor-power : TO218BH
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-power/TO218BH/
 - Description: transistor-power : TO218BH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO218BH](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-power-TO218BH)
 - Short Link: [http://oom.lt/FZETRANSISTORPOWERTO218BH](http://oom.lt/FZETRANSISTORPOWERTO218BH)

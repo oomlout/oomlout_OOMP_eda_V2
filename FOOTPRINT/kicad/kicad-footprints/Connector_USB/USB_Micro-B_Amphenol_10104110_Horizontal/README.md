@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNUUMBAMPHENOL11411HORIZONTAL > Connector_USB : USB_Micro-B_Amphenol_10104110_Horizontal](#fzkcnuumbamphenol11411horizontal--connector_usb--usb_micro-b_amphenol_10104110_horizontal)
+* [FZKCNUUMBAMPHENOL11411H > Connector_USB : USB_Micro-B_Amphenol_10104110_Horizontal](#fzkcnuumbamphenol11411h--connector_usb--usb_micro-b_amphenol_10104110_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNUUMBAMPHENOL11411HORIZONTAL > Connector_USB : USB_Micro-B_Amphenol_10104110_Horizontal
+# FZKCNUUMBAMPHENOL11411H > Connector_USB : USB_Micro-B_Amphenol_10104110_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Amphenol_10104110_Horizontal
-- Hex ID: FZKCNUUMBAMPHENOL11411HORIZONTAL
+- Hex ID: FZKCNUUMBAMPHENOL11411H
 - Name: Connector_USB : USB_Micro-B_Amphenol_10104110_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Amphenol_10104110_Horizontal/
 - Description: Connector_USB : USB_Micro-B_Amphenol_10104110_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Amphenol_10104110_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Amphenol_10104110_Horizontal)
-- Short Link: [http://oom.lt/FZKCNUUMBAMPHENOL11411HORIZONTAL](http://oom.lt/FZKCNUUMBAMPHENOL11411HORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNUUMBAMPHENOL11411H](http://oom.lt/FZKCNUUMBAMPHENOL11411H)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_USB|
 |OOMP Index|oompIndex|USB_Micro-B_Amphenol_10104110_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Amphenol_10104110_Horizontal|
-|Hex ID (short code)|hexID|FZKCNUUMBAMPHENOL11411HORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNUUMBAMPHENOL11411H|
 |name|name|Connector_USB : USB_Micro-B_Amphenol_10104110_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Micro-B_Amphenol_10104110_Horizontal'</td><td> 'description'</td></tr><tr><td> 'USB Micro-B</td><td> horizontal</td><td> https</td></tr><tr><td>//cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10104110.pdf'</td><td> 'tags'</td></tr><tr><td> 'USB Micro B horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10104110_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

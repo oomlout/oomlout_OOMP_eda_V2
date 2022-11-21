@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-ICE1PCS02
 - Hex ID: SZKREGULATORCONTROLLERICE1PCS2
 - Name: Regulator_Controller : ICE1PCS02
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/ICE1PCS02/
 - Description: Regulator_Controller : ICE1PCS02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-ICE1PCS02](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-ICE1PCS02)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERICE1PCS2](http://oom.lt/SZKREGULATORCONTROLLERICE1PCS2)

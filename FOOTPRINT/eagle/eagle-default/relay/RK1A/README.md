@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-RK1A
 - Hex ID: FZERELAYRK1A
 - Name: relay : RK1A
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/RK1A/
 - Description: relay : RK1A
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RK1A](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-RK1A)
 - Short Link: [http://oom.lt/FZERELAYRK1A](http://oom.lt/FZERELAYRK1A)

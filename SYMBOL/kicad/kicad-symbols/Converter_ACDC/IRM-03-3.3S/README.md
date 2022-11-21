@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-03-3.3S
 - Hex ID: SZKCONIRM333S
 - Name: Converter_ACDC : IRM-03-3.3S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-03-3.3S/
 - Description: Converter_ACDC : IRM-03-3.3S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-03-3.3S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-03-3.3S)
 - Short Link: [http://oom.lt/SZKCONIRM333S](http://oom.lt/SZKCONIRM333S)

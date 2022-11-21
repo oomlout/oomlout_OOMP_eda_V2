@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-SIL13
 - Hex ID: FZERELAYSIL13
 - Name: relay : SIL13
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/SIL13/
 - Description: relay : SIL13
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SIL13](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-SIL13)
 - Short Link: [http://oom.lt/FZERELAYSIL13](http://oom.lt/FZERELAYSIL13)

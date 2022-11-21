@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-LL4148
 - Hex ID: SZKDIODELL4148
 - Name: Diode : LL4148
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/LL4148/
 - Description: Diode : LL4148
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-LL4148](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-LL4148)
 - Short Link: [http://oom.lt/SZKDIODELL4148](http://oom.lt/SZKDIODELL4148)

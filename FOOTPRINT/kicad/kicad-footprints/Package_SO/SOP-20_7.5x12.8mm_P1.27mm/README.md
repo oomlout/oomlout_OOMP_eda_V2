@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-20_7.5x12.8mm_P1.27mm
 - Hex ID: FZKSOS275X128P127
 - Name: Package_SO : SOP-20_7.5x12.8mm_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOP-20_7.5x12.8mm_P1.27mm/
 - Description: Package_SO : SOP-20_7.5x12.8mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-20_7.5x12.8mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-20_7.5x12.8mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKSOS275X128P127](http://oom.lt/FZKSOS275X128P127)

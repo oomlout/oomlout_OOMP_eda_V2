@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESMSDL > ref-packages : MICRO-SIDELED](#fzerefpackagesmsdl--ref-packages--micro-sideled)
+* [FZEREFPSMSDL > ref-packages : MICRO-SIDELED](#fzerefpsmsdl--ref-packages--micro-sideled)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESMSDL > ref-packages : MICRO-SIDELED
+# FZEREFPSMSDL > ref-packages : MICRO-SIDELED
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-MICRO-SIDELED
-- Hex ID: FZEREFPACKAGESMSDL
+- Hex ID: FZEREFPSMSDL
 - Name: ref-packages : MICRO-SIDELED
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/MICRO-SIDELED/
 - Description: ref-packages : MICRO-SIDELED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MICRO-SIDELED](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-MICRO-SIDELED)
-- Short Link: [http://oom.lt/FZEREFPACKAGESMSDL](http://oom.lt/FZEREFPACKAGESMSDL)
+- Short Link: [http://oom.lt/FZEREFPSMSDL](http://oom.lt/FZEREFPSMSDL)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|MICRO-SIDELED|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-MICRO-SIDELED|
-|Hex ID (short code)|hexID|FZEREFPACKAGESMSDL|
+|Hex ID (short code)|hexID|FZEREFPSMSDL|
 |name|name|ref-packages : MICRO-SIDELED|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_MMM168_LandPatternPL-225
 - Hex ID: FZKRFMCIRCUITSM168LANDPATTERNPL225
 - Name: RF_Mini-Circuits : Mini-Circuits_MMM168_LandPatternPL-225
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_MMM168_LandPatternPL-225/
 - Description: RF_Mini-Circuits : Mini-Circuits_MMM168_LandPatternPL-225
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_MMM168_LandPatternPL-225](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_MMM168_LandPatternPL-225)
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSM168LANDPATTERNPL225](http://oom.lt/FZKRFMCIRCUITSM168LANDPATTERNPL225)

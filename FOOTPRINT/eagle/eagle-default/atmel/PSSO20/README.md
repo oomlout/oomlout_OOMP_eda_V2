@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-atmel-PSSO20
 - Hex ID: FZEATMELPSSO2
 - Name: atmel : PSSO20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/atmel/PSSO20/
 - Description: atmel : PSSO20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-PSSO20](http://oom.lt/FOOTPRINT-eagle-eagle-default-atmel-PSSO20)
 - Short Link: [http://oom.lt/FZEATMELPSSO2](http://oom.lt/FZEATMELPSSO2)

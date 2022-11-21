@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3_ICSP_SMT
 - Hex ID: FZAARDR3ICSPS
 - Name: adafruit : ARDUINOR3_ICSP_SMT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/ARDUINOR3_ICSP_SMT/
 - Description: adafruit : ARDUINOR3_ICSP_SMT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3_ICSP_SMT](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3_ICSP_SMT)
 - Short Link: [http://oom.lt/FZAARDR3ICSPS](http://oom.lt/FZAARDR3ICSPS)

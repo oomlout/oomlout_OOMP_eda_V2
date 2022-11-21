@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-DIL14
 - Hex ID: FZETEXASDIL14
 - Name: texas : DIL14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/DIL14/
 - Description: texas : DIL14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DIL14](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-DIL14)
 - Short Link: [http://oom.lt/FZETEXASDIL14](http://oom.lt/FZETEXASDIL14)

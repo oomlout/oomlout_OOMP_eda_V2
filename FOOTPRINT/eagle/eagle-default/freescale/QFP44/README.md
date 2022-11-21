@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-freescale-QFP44
 - Hex ID: FZEFREESCALEQFP44
 - Name: freescale : QFP44
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/freescale/QFP44/
 - Description: freescale : QFP44
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-QFP44](http://oom.lt/FOOTPRINT-eagle-eagle-default-freescale-QFP44)
 - Short Link: [http://oom.lt/FZEFREESCALEQFP44](http://oom.lt/FZEFREESCALEQFP44)

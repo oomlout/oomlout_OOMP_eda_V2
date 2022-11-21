@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TQFP32-08
 - Hex ID: FZATQFP328
 - Name: adafruit : TQFP32-08
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/TQFP32-08/
 - Description: adafruit : TQFP32-08
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TQFP32-08](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TQFP32-08)
 - Short Link: [http://oom.lt/FZATQFP328](http://oom.lt/FZATQFP328)

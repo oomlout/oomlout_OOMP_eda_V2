@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-MLX90540_MLX90640
 - Hex ID: FZSISMLX954MLX964
 - Name: SparkFun-IC-Special-Function : MLX90540_MLX90640
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/MLX90540_MLX90640/
 - Description: SparkFun-IC-Special-Function : MLX90540_MLX90640
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-MLX90540_MLX90640](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-MLX90540_MLX90640)
 - Short Link: [http://oom.lt/FZSISMLX954MLX964](http://oom.lt/FZSISMLX954MLX964)

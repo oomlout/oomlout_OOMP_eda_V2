@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-rcl-M1406
 - Hex ID: FZERCLM146
 - Name: rcl : M1406
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/rcl/M1406/
 - Description: rcl : M1406
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-M1406](http://oom.lt/FOOTPRINT-eagle-eagle-default-rcl-M1406)
 - Short Link: [http://oom.lt/FZERCLM146](http://oom.lt/FZERCLM146)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB15_Male_HighDensity_MountingHoles
 - Hex ID: SZKCNDB15MALEHIGHDENSITYHOLS
 - Name: Connector : DB15_Male_HighDensity_MountingHoles
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DB15_Male_HighDensity_MountingHoles/
 - Description: Connector : DB15_Male_HighDensity_MountingHoles
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB15_Male_HighDensity_MountingHoles](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB15_Male_HighDensity_MountingHoles)
 - Short Link: [http://oom.lt/SZKCNDB15MALEHIGHDENSITYHOLS](http://oom.lt/SZKCNDB15MALEHIGHDENSITYHOLS)

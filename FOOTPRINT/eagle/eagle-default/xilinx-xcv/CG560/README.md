@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-CG560
 - Hex ID: FZEXILINXXCVCG56
 - Name: xilinx-xcv : CG560
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/xilinx-xcv/CG560/
 - Description: xilinx-xcv : CG560
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-CG560](http://oom.lt/FOOTPRINT-eagle-eagle-default-xilinx-xcv-CG560)
 - Short Link: [http://oom.lt/FZEXILINXXCVCG56](http://oom.lt/FZEXILINXXCVCG56)

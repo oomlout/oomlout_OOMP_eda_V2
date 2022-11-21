@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-THVD1420D
 - Hex ID: SZKINTERFACEUARTTHVD142D
 - Name: Interface_UART : THVD1420D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/THVD1420D/
 - Description: Interface_UART : THVD1420D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-THVD1420D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-THVD1420D)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTTHVD142D](http://oom.lt/SZKINTERFACEUARTTHVD142D)

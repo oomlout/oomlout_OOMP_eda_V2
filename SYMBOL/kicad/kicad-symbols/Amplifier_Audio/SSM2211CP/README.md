@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2211CP
 - Hex ID: SZKAMPLIFIERAUDIOSSM2211CP
 - Name: Amplifier_Audio : SSM2211CP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/SSM2211CP/
 - Description: Amplifier_Audio : SSM2211CP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2211CP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2211CP)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOSSM2211CP](http://oom.lt/SZKAMPLIFIERAUDIOSSM2211CP)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21064
 - Hex ID: SZKDRIVERFETIRS2164
 - Name: Driver_FET : IRS21064
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IRS21064/
 - Description: Driver_FET : IRS21064
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21064](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21064)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS2164](http://oom.lt/SZKDRIVERFETIRS2164)

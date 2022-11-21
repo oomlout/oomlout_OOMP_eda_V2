@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-VisionSOM-RT
 - Hex ID: SZKMCUMOVISIONSOMRT
 - Name: MCU_Module : VisionSOM-RT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/VisionSOM-RT/
 - Description: MCU_Module : VisionSOM-RT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-VisionSOM-RT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-VisionSOM-RT)
 - Short Link: [http://oom.lt/SZKMCUMOVISIONSOMRT](http://oom.lt/SZKMCUMOVISIONSOMRT)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-logo-EAGLE-PLC-30MM
 - Hex ID: FZELEAGLEPLC3
 - Name: logo : EAGLE-PLC-30MM
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/logo/EAGLE-PLC-30MM/
 - Description: logo : EAGLE-PLC-30MM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-EAGLE-PLC-30MM](http://oom.lt/FOOTPRINT-eagle-eagle-default-logo-EAGLE-PLC-30MM)
 - Short Link: [http://oom.lt/FZELEAGLEPLC3](http://oom.lt/FZELEAGLEPLC3)

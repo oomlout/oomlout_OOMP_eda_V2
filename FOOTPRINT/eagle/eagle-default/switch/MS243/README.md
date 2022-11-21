@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHMS243 > switch : MS243](#fzeswitchms243--switch--ms243)
+* [FZESWMS243 > switch : MS243](#fzeswms243--switch--ms243)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHMS243 > switch : MS243
+# FZESWMS243 > switch : MS243
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-MS243
-- Hex ID: FZESWITCHMS243
+- Hex ID: FZESWMS243
 - Name: switch : MS243
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch/MS243/
 - Description: switch : MS243
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-MS243](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-MS243)
-- Short Link: [http://oom.lt/FZESWITCHMS243](http://oom.lt/FZESWITCHMS243)
+- Short Link: [http://oom.lt/FZESWMS243](http://oom.lt/FZESWMS243)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch|
 |OOMP Index|oompIndex|MS243|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-MS243|
-|Hex ID (short code)|hexID|FZESWITCHMS243|
+|Hex ID (short code)|hexID|FZESWMS243|
 |name|name|switch : MS243|
 ||||

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA253
 - Hex ID: SZKAMPLIFIERCURRENTINA253
 - Name: Amplifier_Current : INA253
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Current/INA253/
 - Description: Amplifier_Current : INA253
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA253](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA253)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTINA253](http://oom.lt/SZKAMPLIFIERCURRENTINA253)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-CB417-12
 - Hex ID: FZEDIODECB41712
 - Name: diode : CB417-12
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/CB417-12/
 - Description: diode : CB417-12
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-CB417-12](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-CB417-12)
 - Short Link: [http://oom.lt/FZEDIODECB41712](http://oom.lt/FZEDIODECB41712)

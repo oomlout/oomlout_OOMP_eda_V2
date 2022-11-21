@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-texas-HTQFP-64-PAP
 - Hex ID: FZETEXASHTQFP64PAP
 - Name: texas : HTQFP-64-PAP
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/texas/HTQFP-64-PAP/
 - Description: texas : HTQFP-64-PAP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTQFP-64-PAP](http://oom.lt/FOOTPRINT-eagle-eagle-default-texas-HTQFP-64-PAP)
 - Short Link: [http://oom.lt/FZETEXASHTQFP64PAP](http://oom.lt/FZETEXASHTQFP64PAP)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-15VA
 - Hex ID: FZETRAFO15VA
 - Name: trafo : 15VA
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo/15VA/
 - Description: trafo : 15VA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-15VA](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-15VA)
 - Short Link: [http://oom.lt/FZETRAFO15VA](http://oom.lt/FZETRAFO15VA)

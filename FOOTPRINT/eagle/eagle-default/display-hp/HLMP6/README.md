@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HLMP6
 - Hex ID: FZEDIHPHLMP6
 - Name: display-hp : HLMP6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-hp/HLMP6/
 - Description: display-hp : HLMP6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HLMP6](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HLMP6)
 - Short Link: [http://oom.lt/FZEDIHPHLMP6](http://oom.lt/FZEDIHPHLMP6)

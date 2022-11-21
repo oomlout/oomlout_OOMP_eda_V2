@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SO14
 - Hex ID: FZSIASO14
 - Name: SparkFun-IC-Amplifiers : SO14
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Amplifiers/SO14/
 - Description: SparkFun-IC-Amplifiers : SO14
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SO14](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SO14)
 - Short Link: [http://oom.lt/FZSIASO14](http://oom.lt/FZSIASO14)

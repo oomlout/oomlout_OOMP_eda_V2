@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LT1711xMS8
 - Hex ID: SZKCOMPARATORLT1711XMS8
 - Name: Comparator : LT1711xMS8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LT1711xMS8/
 - Description: Comparator : LT1711xMS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LT1711xMS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LT1711xMS8)
 - Short Link: [http://oom.lt/SZKCOMPARATORLT1711XMS8](http://oom.lt/SZKCOMPARATORLT1711XMS8)

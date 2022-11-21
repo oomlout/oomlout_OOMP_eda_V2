@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-zetex-SOT89
 - Hex ID: FZEZETEXSOT89
 - Name: zetex : SOT89
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/SOT89/
 - Description: zetex : SOT89
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-SOT89](http://oom.lt/FOOTPRINT-eagle-eagle-default-zetex-SOT89)
 - Short Link: [http://oom.lt/FZEZETEXSOT89](http://oom.lt/FZEZETEXSOT89)

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNPINPIND14L85W28FLATFORK > Connector_Pin : Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork](#fzkcnpinpind14l85w28flatfork--connector_pin--pin_d14mm_l85mm_w28mm_flatfork)
+* [FZKCNPPD14L85W28FLATFORK > Connector_Pin : Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork](#fzkcnppd14l85w28flatfork--connector_pin--pin_d14mm_l85mm_w28mm_flatfork)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNPINPIND14L85W28FLATFORK > Connector_Pin : Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork
+# FZKCNPPD14L85W28FLATFORK > Connector_Pin : Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork
-- Hex ID: FZKCNPINPIND14L85W28FLATFORK
+- Hex ID: FZKCNPPD14L85W28FLATFORK
 - Name: Connector_Pin : Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork/
 - Description: Connector_Pin : Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork)
-- Short Link: [http://oom.lt/FZKCNPINPIND14L85W28FLATFORK](http://oom.lt/FZKCNPINPIND14L85W28FLATFORK)
+- Short Link: [http://oom.lt/FZKCNPPD14L85W28FLATFORK](http://oom.lt/FZKCNPPD14L85W28FLATFORK)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Pin|
 |OOMP Index|oompIndex|Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork|
-|Hex ID (short code)|hexID|FZKCNPINPIND14L85W28FLATFORK|
+|Hex ID (short code)|hexID|FZKCNPPD14L85W28FLATFORK|
 |name|name|Connector_Pin : Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork'</td><td> 'description'</td></tr><tr><td> 'solder Pin_ with flat with fork</td><td> hole diameter 1.4mm</td><td> length 8.5mm</td><td> width 2.8mm</td><td> e.g. Ettinger 13.13.890</td><td> https</td></tr><tr><td>//katalog.ettinger.de/#p=434'</td><td> 'tags'</td></tr><tr><td> 'solder Pin_ with flat fork'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Pin.3dshapes/Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

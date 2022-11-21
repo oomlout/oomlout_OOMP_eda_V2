@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKW41Z512VHT
 - Hex ID: SZKMCUNXPKINETISMKW41Z512VHT
 - Name: MCU_NXP_Kinetis : MKW41Z512VHT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKW41Z512VHT/
 - Description: MCU_NXP_Kinetis : MKW41Z512VHT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKW41Z512VHT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKW41Z512VHT)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKW41Z512VHT](http://oom.lt/SZKMCUNXPKINETISMKW41Z512VHT)

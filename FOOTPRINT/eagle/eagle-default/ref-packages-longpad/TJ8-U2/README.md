@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESLONGPADTJ8U2 > ref-packages-longpad : TJ8-U2](#fzerefpackageslongpadtj8u2--ref-packages-longpad--tj8-u2)
+* [FZEREFPSLPTJ8U2 > ref-packages-longpad : TJ8-U2](#fzerefpslptj8u2--ref-packages-longpad--tj8-u2)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESLONGPADTJ8U2 > ref-packages-longpad : TJ8-U2
+# FZEREFPSLPTJ8U2 > ref-packages-longpad : TJ8-U2
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TJ8-U2
-- Hex ID: FZEREFPACKAGESLONGPADTJ8U2
+- Hex ID: FZEREFPSLPTJ8U2
 - Name: ref-packages-longpad : TJ8-U2
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages-longpad/TJ8-U2/
 - Description: ref-packages-longpad : TJ8-U2
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TJ8-U2](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TJ8-U2)
-- Short Link: [http://oom.lt/FZEREFPACKAGESLONGPADTJ8U2](http://oom.lt/FZEREFPACKAGESLONGPADTJ8U2)
+- Short Link: [http://oom.lt/FZEREFPSLPTJ8U2](http://oom.lt/FZEREFPSLPTJ8U2)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages-longpad|
 |OOMP Index|oompIndex|TJ8-U2|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TJ8-U2|
-|Hex ID (short code)|hexID|FZEREFPACKAGESLONGPADTJ8U2|
+|Hex ID (short code)|hexID|FZEREFPSLPTJ8U2|
 |name|name|ref-packages-longpad : TJ8-U2|
 ||||

@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKHOLHOL53M5ISO1458PADTOPONLY > MountingHole : MountingHole_5.3mm_M5_ISO14580_Pad_TopOnly](#fzkholhol53m5iso1458padtoponly--mountinghole--mountinghole_53mm_m5_iso14580_pad_toponly)
+* [FZKHOLHOL53M5ISO1458PTOPONLY > MountingHole : MountingHole_5.3mm_M5_ISO14580_Pad_TopOnly](#fzkholhol53m5iso1458ptoponly--mountinghole--mountinghole_53mm_m5_iso14580_pad_toponly)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKHOLHOL53M5ISO1458PADTOPONLY > MountingHole : MountingHole_5.3mm_M5_ISO14580_Pad_TopOnly
+# FZKHOLHOL53M5ISO1458PTOPONLY > MountingHole : MountingHole_5.3mm_M5_ISO14580_Pad_TopOnly
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_ISO14580_Pad_TopOnly
-- Hex ID: FZKHOLHOL53M5ISO1458PADTOPONLY
+- Hex ID: FZKHOLHOL53M5ISO1458PTOPONLY
 - Name: MountingHole : MountingHole_5.3mm_M5_ISO14580_Pad_TopOnly
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_5.3mm_M5_ISO14580_Pad_TopOnly/
 - Description: MountingHole : MountingHole_5.3mm_M5_ISO14580_Pad_TopOnly
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_ISO14580_Pad_TopOnly](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_ISO14580_Pad_TopOnly)
-- Short Link: [http://oom.lt/FZKHOLHOL53M5ISO1458PADTOPONLY](http://oom.lt/FZKHOLHOL53M5ISO1458PADTOPONLY)
+- Short Link: [http://oom.lt/FZKHOLHOL53M5ISO1458PTOPONLY](http://oom.lt/FZKHOLHOL53M5ISO1458PTOPONLY)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|MountingHole|
 |OOMP Index|oompIndex|MountingHole_5.3mm_M5_ISO14580_Pad_TopOnly|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_ISO14580_Pad_TopOnly|
-|Hex ID (short code)|hexID|FZKHOLHOL53M5ISO1458PADTOPONLY|
+|Hex ID (short code)|hexID|FZKHOLHOL53M5ISO1458PTOPONLY|
 |name|name|MountingHole : MountingHole_5.3mm_M5_ISO14580_Pad_TopOnly|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_5.3mm_M5_ISO14580_Pad_TopOnly'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 5.3mm</td><td> M5</td><td> ISO14580'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 5.3mm m5 iso14580'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

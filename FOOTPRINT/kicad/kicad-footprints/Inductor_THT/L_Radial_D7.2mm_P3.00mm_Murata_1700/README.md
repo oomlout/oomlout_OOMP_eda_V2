@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.2mm_P3.00mm_Murata_1700
 - Hex ID: FZKINLRD72P3M17
 - Name: Inductor_THT : L_Radial_D7.2mm_P3.00mm_Murata_1700
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D7.2mm_P3.00mm_Murata_1700/
 - Description: Inductor_THT : L_Radial_D7.2mm_P3.00mm_Murata_1700
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.2mm_P3.00mm_Murata_1700](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.2mm_P3.00mm_Murata_1700)
 - Short Link: [http://oom.lt/FZKINLRD72P3M17](http://oom.lt/FZKINLRD72P3M17)

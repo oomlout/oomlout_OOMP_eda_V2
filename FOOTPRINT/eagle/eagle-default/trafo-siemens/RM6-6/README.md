@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-RM6-6
 - Hex ID: FZETRAFOSIEMENSRM66
 - Name: trafo-siemens : RM6-6
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo-siemens/RM6-6/
 - Description: trafo-siemens : RM6-6
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM6-6](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM6-6)
 - Short Link: [http://oom.lt/FZETRAFOSIEMENSRM66](http://oom.lt/FZETRAFOSIEMENSRM66)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4041
 - Hex ID: SZK4XXXIEEE441
 - Name: 4xxx_IEEE : 4041
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4041/
 - Description: 4xxx_IEEE : 4041
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4041](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4041)
 - Short Link: [http://oom.lt/SZK4XXXIEEE441](http://oom.lt/SZK4XXXIEEE441)

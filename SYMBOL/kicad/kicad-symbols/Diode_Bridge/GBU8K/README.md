@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU8K
 - Hex ID: SZKDIODEBRIDGEGBU8K
 - Name: Diode_Bridge : GBU8K
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GBU8K/
 - Description: Diode_Bridge : GBU8K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU8K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU8K)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEGBU8K](http://oom.lt/SZKDIODEBRIDGEGBU8K)

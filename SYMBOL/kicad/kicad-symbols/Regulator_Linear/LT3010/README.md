@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3010
 - Hex ID: SZKREGULATORLINEARLT31
 - Name: Regulator_Linear : LT3010
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT3010/
 - Description: Regulator_Linear : LT3010
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3010](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3010)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT31](http://oom.lt/SZKREGULATORLINEARLT31)

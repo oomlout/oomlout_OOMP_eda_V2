@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm
 - Hex ID: FZKLGALINEARLGA13315X15LAYOUT12X12P127
 - Name: Package_LGA : Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm/
 - Description: Package_LGA : Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LGA-Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm)
 - Short Link: [http://oom.lt/FZKLGALINEARLGA13315X15LAYOUT12X12P127](http://oom.lt/FZKLGALINEARLGA13315X15LAYOUT12X12P127)

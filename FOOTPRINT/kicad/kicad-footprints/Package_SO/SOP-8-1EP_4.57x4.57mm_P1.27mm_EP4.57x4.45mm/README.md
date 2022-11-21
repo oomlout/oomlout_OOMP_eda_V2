@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm
 - Hex ID: FZKSOS81EP457X457P127EP457X445
 - Name: Package_SO : SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm/
 - Description: Package_SO : SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm)
 - Short Link: [http://oom.lt/FZKSOS81EP457X457P127EP457X445](http://oom.lt/FZKSOS81EP457X457P127EP457X445)

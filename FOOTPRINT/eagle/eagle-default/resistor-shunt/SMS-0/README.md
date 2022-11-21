@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-resistor-shunt-SMS-0
 - Hex ID: FZERESISTORSHUNTSMS
 - Name: resistor-shunt : SMS-0
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/resistor-shunt/SMS-0/
 - Description: resistor-shunt : SMS-0
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-SMS-0](http://oom.lt/FOOTPRINT-eagle-eagle-default-resistor-shunt-SMS-0)
 - Short Link: [http://oom.lt/FZERESISTORSHUNTSMS](http://oom.lt/FZERESISTORSHUNTSMS)

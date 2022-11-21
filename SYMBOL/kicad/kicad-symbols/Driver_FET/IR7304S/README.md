@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR7304S
 - Hex ID: SZKDRIVERFETIR734S
 - Name: Driver_FET : IR7304S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/IR7304S/
 - Description: Driver_FET : IR7304S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR7304S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR7304S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR734S](http://oom.lt/SZKDRIVERFETIR734S)

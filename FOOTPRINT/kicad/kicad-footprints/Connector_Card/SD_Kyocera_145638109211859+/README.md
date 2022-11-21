@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Kyocera_145638109211859+
 - Hex ID: FZKCNCARDSDKYOCERA14563819211859+
 - Name: Connector_Card : SD_Kyocera_145638109211859+
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Kyocera_145638109211859+/
 - Description: Connector_Card : SD_Kyocera_145638109211859+
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Kyocera_145638109211859+](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Kyocera_145638109211859+)
 - Short Link: [http://oom.lt/FZKCNCARDSDKYOCERA14563819211859+](http://oom.lt/FZKCNCARDSDKYOCERA14563819211859+)

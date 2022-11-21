@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-RN-ANT
 - Hex ID: FZARNANT
 - Name: adafruit : RN-ANT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/RN-ANT/
 - Description: adafruit : RN-ANT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-RN-ANT](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-RN-ANT)
 - Short Link: [http://oom.lt/FZARNANT](http://oom.lt/FZARNANT)

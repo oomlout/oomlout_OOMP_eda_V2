@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LCC20
 - Hex ID: FZALCC2
 - Name: adafruit : LCC20
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/LCC20/
 - Description: adafruit : LCC20
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LCC20](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LCC20)
 - Short Link: [http://oom.lt/FZALCC2](http://oom.lt/FZALCC2)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-ISL21070DIH306Z-TK
 - Hex ID: SZKREFERENCEVOLTAGEISL217DIH36ZTK
 - Name: Reference_Voltage : ISL21070DIH306Z-TK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/ISL21070DIH306Z-TK/
 - Description: Reference_Voltage : ISL21070DIH306Z-TK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ISL21070DIH306Z-TK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ISL21070DIH306Z-TK)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEISL217DIH36ZTK](http://oom.lt/SZKREFERENCEVOLTAGEISL217DIH36ZTK)

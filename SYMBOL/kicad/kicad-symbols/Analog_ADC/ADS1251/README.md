@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1251
 - Hex ID: SZKANALOGADCADS1251
 - Name: Analog_ADC : ADS1251
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1251/
 - Description: Analog_ADC : ADS1251
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1251](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1251)
 - Short Link: [http://oom.lt/SZKANALOGADCADS1251](http://oom.lt/SZKANALOGADCADS1251)

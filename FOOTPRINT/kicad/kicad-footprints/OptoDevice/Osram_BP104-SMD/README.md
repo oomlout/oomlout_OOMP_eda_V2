@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_BP104-SMD
 - Hex ID: FZKOPOSRAMBP14SM
 - Name: OptoDevice : Osram_BP104-SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_BP104-SMD/
 - Description: OptoDevice : Osram_BP104-SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_BP104-SMD](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_BP104-SMD)
 - Short Link: [http://oom.lt/FZKOPOSRAMBP14SM](http://oom.lt/FZKOPOSRAMBP14SM)

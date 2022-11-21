@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Voltmeter_DC
 - Hex ID: SZKDEVICEVOLTMETERDC
 - Name: Device : Voltmeter_DC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Voltmeter_DC/
 - Description: Device : Voltmeter_DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Voltmeter_DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Voltmeter_DC)
 - Short Link: [http://oom.lt/SZKDEVICEVOLTMETERDC](http://oom.lt/SZKDEVICEVOLTMETERDC)

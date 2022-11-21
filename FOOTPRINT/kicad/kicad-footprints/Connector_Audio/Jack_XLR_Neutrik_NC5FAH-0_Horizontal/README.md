@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNAUDIOJXLRNEUTRIKNC5FAHHORIZONTAL > Connector_Audio : Jack_XLR_Neutrik_NC5FAH-0_Horizontal](#fzkcnaudiojxlrneutriknc5fahhorizontal--connector_audio--jack_xlr_neutrik_nc5fah-0_horizontal)
+* [FZKCNAUDIOJXLRNEUTRIKNC5FAHH > Connector_Audio : Jack_XLR_Neutrik_NC5FAH-0_Horizontal](#fzkcnaudiojxlrneutriknc5fahh--connector_audio--jack_xlr_neutrik_nc5fah-0_horizontal)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNAUDIOJXLRNEUTRIKNC5FAHHORIZONTAL > Connector_Audio : Jack_XLR_Neutrik_NC5FAH-0_Horizontal
+# FZKCNAUDIOJXLRNEUTRIKNC5FAHH > Connector_Audio : Jack_XLR_Neutrik_NC5FAH-0_Horizontal
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC5FAH-0_Horizontal
-- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC5FAHHORIZONTAL
+- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC5FAHH
 - Name: Connector_Audio : Jack_XLR_Neutrik_NC5FAH-0_Horizontal
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC5FAH-0_Horizontal/
 - Description: Connector_Audio : Jack_XLR_Neutrik_NC5FAH-0_Horizontal
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC5FAH-0_Horizontal](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC5FAH-0_Horizontal)
-- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC5FAHHORIZONTAL](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC5FAHHORIZONTAL)
+- Short Link: [http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC5FAHH](http://oom.lt/FZKCNAUDIOJXLRNEUTRIKNC5FAHH)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_Audio|
 |OOMP Index|oompIndex|Jack_XLR_Neutrik_NC5FAH-0_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC5FAH-0_Horizontal|
-|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC5FAHHORIZONTAL|
+|Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC5FAHH|
 |name|name|Connector_Audio : Jack_XLR_Neutrik_NC5FAH-0_Horizontal|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_XLR_Neutrik_NC5FAH-0_Horizontal'</td><td> 'description'</td></tr><tr><td> 'A Series</td><td> 5 pole female XLR receptacle</td><td> grounding</td></tr><tr><td> separate ground contact to mating connector shell and front panel</td><td> horizontal PCB mount</td><td> retention spring instead of latch</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nc5fah-0'</td><td> 'tags'</td></tr><tr><td> 'neutrik xlr a'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC5FAH-0_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

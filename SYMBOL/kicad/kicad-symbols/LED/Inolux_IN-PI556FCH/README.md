@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-LED-Inolux_IN-PI556FCH
 - Hex ID: SZKLINOLUXINPI556FCH
 - Name: LED : Inolux_IN-PI556FCH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI556FCH/
 - Description: LED : Inolux_IN-PI556FCH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-Inolux_IN-PI556FCH](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-Inolux_IN-PI556FCH)
 - Short Link: [http://oom.lt/SZKLINOLUXINPI556FCH](http://oom.lt/SZKLINOLUXINPI556FCH)

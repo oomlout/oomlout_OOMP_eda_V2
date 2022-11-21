@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-mt-L15P
 - Hex ID: FZECONAMPMTL15P
 - Name: con-amp-mt : L15P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp-mt/L15P/
 - Description: con-amp-mt : L15P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-L15P](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-mt-L15P)
 - Short Link: [http://oom.lt/FZECONAMPMTL15P](http://oom.lt/FZECONAMPMTL15P)

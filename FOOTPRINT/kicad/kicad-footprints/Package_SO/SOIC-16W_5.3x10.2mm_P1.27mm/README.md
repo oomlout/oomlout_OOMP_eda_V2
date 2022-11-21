@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-16W_5.3x10.2mm_P1.27mm
 - Hex ID: FZKSOSOIC16W53X12P127
 - Name: Package_SO : SOIC-16W_5.3x10.2mm_P1.27mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-16W_5.3x10.2mm_P1.27mm/
 - Description: Package_SO : SOIC-16W_5.3x10.2mm_P1.27mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-16W_5.3x10.2mm_P1.27mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-16W_5.3x10.2mm_P1.27mm)
 - Short Link: [http://oom.lt/FZKSOSOIC16W53X12P127](http://oom.lt/FZKSOSOIC16W53X12P127)

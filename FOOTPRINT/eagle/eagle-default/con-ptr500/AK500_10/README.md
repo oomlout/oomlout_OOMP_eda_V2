@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-ptr500-AK500_10
 - Hex ID: FZECONPTR5AK51
 - Name: con-ptr500 : AK500_10
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-ptr500/AK500_10/
 - Description: con-ptr500 : AK500_10
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ptr500-AK500_10](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-ptr500-AK500_10)
 - Short Link: [http://oom.lt/FZECONPTR5AK51](http://oom.lt/FZECONPTR5AK51)

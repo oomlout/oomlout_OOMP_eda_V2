@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface-68230
 - Hex ID: SZKINTERFACE6823
 - Name: Interface : 68230
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/68230/
 - Description: Interface : 68230
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-68230](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-68230)
 - Short Link: [http://oom.lt/SZKINTERFACE6823](http://oom.lt/SZKINTERFACE6823)

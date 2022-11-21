@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-WGI210AT
 - Hex ID: SZKINTERFACEETHERNETWGI21AT
 - Name: Interface_Ethernet : WGI210AT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/WGI210AT/
 - Description: Interface_Ethernet : WGI210AT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-WGI210AT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-WGI210AT)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETWGI21AT](http://oom.lt/SZKINTERFACEETHERNETWGI21AT)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SM516
 - Hex ID: SZKDIODESM516
 - Name: Diode : SM516
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SM516/
 - Description: Diode : SM516
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM516](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM516)
 - Short Link: [http://oom.lt/SZKDIODESM516](http://oom.lt/SZKDIODESM516)

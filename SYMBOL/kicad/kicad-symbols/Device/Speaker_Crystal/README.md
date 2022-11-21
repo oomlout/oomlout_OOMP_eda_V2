@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Speaker_Crystal
 - Hex ID: SZKDEVICESPEAKERX
 - Name: Device : Speaker_Crystal
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Speaker_Crystal/
 - Description: Device : Speaker_Crystal
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Speaker_Crystal](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Speaker_Crystal)
 - Short Link: [http://oom.lt/SZKDEVICESPEAKERX](http://oom.lt/SZKDEVICESPEAKERX)

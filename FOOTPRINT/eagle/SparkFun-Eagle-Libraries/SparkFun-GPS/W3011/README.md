@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-W3011
 - Hex ID: FZSGW311
 - Name: SparkFun-GPS : W3011
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-GPS/W3011/
 - Description: SparkFun-GPS : W3011
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-W3011](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-W3011)
 - Short Link: [http://oom.lt/FZSGW311](http://oom.lt/FZSGW311)

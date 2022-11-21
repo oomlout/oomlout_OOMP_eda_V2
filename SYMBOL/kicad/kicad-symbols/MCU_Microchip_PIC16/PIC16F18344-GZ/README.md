@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18344-GZ
 - Hex ID: SZKMCUMCHIPPIC16PIC16F18344GZ
 - Name: MCU_Microchip_PIC16 : PIC16F18344-GZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F18344-GZ/
 - Description: MCU_Microchip_PIC16 : PIC16F18344-GZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18344-GZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18344-GZ)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F18344GZ](http://oom.lt/SZKMCUMCHIPPIC16PIC16F18344GZ)

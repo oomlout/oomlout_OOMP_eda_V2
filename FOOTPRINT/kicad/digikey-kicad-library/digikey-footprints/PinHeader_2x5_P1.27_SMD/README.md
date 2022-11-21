@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER2X5P127SM > digikey-footprints : PinHeader_2x5_P1.27_SMD](#fzkicaddigikeykicadlibrarydigikeyfootprintspinheader2x5p127sm--digikey-footprints--pinheader_2x5_p127_smd)
+* [FZDIGIDIGIKEYFOOTPRINTSPH2X5P127SM > digikey-footprints : PinHeader_2x5_P1.27_SMD](#fzdigidigikeyfootprintsph2x5p127sm--digikey-footprints--pinheader_2x5_p127_smd)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER2X5P127SM > digikey-footprints : PinHeader_2x5_P1.27_SMD
+# FZDIGIDIGIKEYFOOTPRINTSPH2X5P127SM > digikey-footprints : PinHeader_2x5_P1.27_SMD
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x5_P1.27_SMD
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER2X5P127SM
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSPH2X5P127SM
 - Name: digikey-footprints : PinHeader_2x5_P1.27_SMD
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_2x5_P1.27_SMD/
 - Description: digikey-footprints : PinHeader_2x5_P1.27_SMD
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x5_P1.27_SMD](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x5_P1.27_SMD)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER2X5P127SM](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER2X5P127SM)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPH2X5P127SM](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSPH2X5P127SM)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|PinHeader_2x5_P1.27_SMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x5_P1.27_SMD|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER2X5P127SM|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSPH2X5P127SM|
 |name|name|digikey-footprints : PinHeader_2x5_P1.27_SMD|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_2x5_P1.27_SMD'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-footprint.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

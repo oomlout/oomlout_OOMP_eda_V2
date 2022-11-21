@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCNRJRJ45OSTPJ128P8CXVERTICAL > Connector_RJ : RJ45_OST_PJ012-8P8CX_Vertical](#fzkcnrjrj45ostpj128p8cxvertical--connector_rj--rj45_ost_pj012-8p8cx_vertical)
+* [FZKCNRJRJ45OSTPJ128P8CXF > Connector_RJ : RJ45_OST_PJ012-8P8CX_Vertical](#fzkcnrjrj45ostpj128p8cxf--connector_rj--rj45_ost_pj012-8p8cx_vertical)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCNRJRJ45OSTPJ128P8CXVERTICAL > Connector_RJ : RJ45_OST_PJ012-8P8CX_Vertical
+# FZKCNRJRJ45OSTPJ128P8CXF > Connector_RJ : RJ45_OST_PJ012-8P8CX_Vertical
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_OST_PJ012-8P8CX_Vertical
-- Hex ID: FZKCNRJRJ45OSTPJ128P8CXVERTICAL
+- Hex ID: FZKCNRJRJ45OSTPJ128P8CXF
 - Name: Connector_RJ : RJ45_OST_PJ012-8P8CX_Vertical
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/
 - Description: Connector_RJ : RJ45_OST_PJ012-8P8CX_Vertical
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_OST_PJ012-8P8CX_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_OST_PJ012-8P8CX_Vertical)
-- Short Link: [http://oom.lt/FZKCNRJRJ45OSTPJ128P8CXVERTICAL](http://oom.lt/FZKCNRJRJ45OSTPJ128P8CXVERTICAL)
+- Short Link: [http://oom.lt/FZKCNRJRJ45OSTPJ128P8CXF](http://oom.lt/FZKCNRJRJ45OSTPJ128P8CXF)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Connector_RJ|
 |OOMP Index|oompIndex|RJ45_OST_PJ012-8P8CX_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_OST_PJ012-8P8CX_Vertical|
-|Hex ID (short code)|hexID|FZKCNRJRJ45OSTPJ128P8CXVERTICAL|
+|Hex ID (short code)|hexID|FZKCNRJRJ45OSTPJ128P8CXF|
 |name|name|Connector_RJ : RJ45_OST_PJ012-8P8CX_Vertical|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RJ45_OST_PJ012-8P8CX_Vertical'</td><td> 'description'</td></tr><tr><td> 'RJ45 vertical connector https</td></tr><tr><td>//www.on-shore.com/wp-content/uploads/PJ012-8P8CX.pdf'</td><td> 'tags'</td></tr><tr><td> 'RJ45 PJ012'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_RJ.3dshapes/RJ45_OST_PJ012-8P8CX_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

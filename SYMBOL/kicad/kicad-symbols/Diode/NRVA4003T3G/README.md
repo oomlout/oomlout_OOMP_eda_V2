@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-NRVA4003T3G
 - Hex ID: SZKDIODENRVA43T3G
 - Name: Diode : NRVA4003T3G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/NRVA4003T3G/
 - Description: Diode : NRVA4003T3G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-NRVA4003T3G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-NRVA4003T3G)
 - Short Link: [http://oom.lt/SZKDIODENRVA43T3G](http://oom.lt/SZKDIODENRVA43T3G)

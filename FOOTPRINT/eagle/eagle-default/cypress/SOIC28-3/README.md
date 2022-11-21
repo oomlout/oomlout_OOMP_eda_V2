@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-cypress-SOIC28-3
 - Hex ID: FZECYPRESSSOIC283
 - Name: cypress : SOIC28-3
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cypress/SOIC28-3/
 - Description: cypress : SOIC28-3
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SOIC28-3](http://oom.lt/FOOTPRINT-eagle-eagle-default-cypress-SOIC28-3)
 - Short Link: [http://oom.lt/FZECYPRESSSOIC283](http://oom.lt/FZECYPRESSSOIC283)

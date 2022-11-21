@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN06SS
 - Hex ID: FZECONYAMAICHIMDIN6SS
 - Name: con-yamaichi : MDIN06SS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-yamaichi/MDIN06SS/
 - Description: con-yamaichi : MDIN06SS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN06SS](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN06SS)
 - Short Link: [http://oom.lt/FZECONYAMAICHIMDIN6SS](http://oom.lt/FZECONYAMAICHIMDIN6SS)

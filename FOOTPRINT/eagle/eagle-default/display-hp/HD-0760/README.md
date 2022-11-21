@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HD-0760
 - Hex ID: FZEDIHPHD76
 - Name: display-hp : HD-0760
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/display-hp/HD-0760/
 - Description: display-hp : HD-0760
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HD-0760](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-hp-HD-0760)
 - Short Link: [http://oom.lt/FZEDIHPHD76](http://oom.lt/FZEDIHPHD76)

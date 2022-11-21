@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-fet-SOT23
 - Hex ID: FZETRANSISTORFETSOT23
 - Name: transistor-fet : SOT23
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-fet/SOT23/
 - Description: transistor-fet : SOT23
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-SOT23](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-fet-SOT23)
 - Short Link: [http://oom.lt/FZETRANSISTORFETSOT23](http://oom.lt/FZETRANSISTORFETSOT23)

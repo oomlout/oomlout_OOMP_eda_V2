@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-pc104-PC104-PLUS
 - Hex ID: FZECONPC14PC14PLUS
 - Name: con-pc104 : PC104-PLUS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-pc104/PC104-PLUS/
 - Description: con-pc104 : PC104-PLUS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc104-PC104-PLUS](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-pc104-PC104-PLUS)
 - Short Link: [http://oom.lt/FZECONPC14PC14PLUS](http://oom.lt/FZECONPC14PC14PLUS)

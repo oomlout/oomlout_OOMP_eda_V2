@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_LASER_Large
 - Hex ID: SZKGRAPHICSYMLASERL
 - Name: Graphic : SYM_LASER_Large
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Graphic/SYM_LASER_Large/
 - Description: Graphic : SYM_LASER_Large
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_LASER_Large](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_LASER_Large)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMLASERL](http://oom.lt/SZKGRAPHICSYMLASERL)

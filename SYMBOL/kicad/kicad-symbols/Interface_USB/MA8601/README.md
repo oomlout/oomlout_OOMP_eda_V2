@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-MA8601
 - Hex ID: SZKINTERFACEUMA861
 - Name: Interface_USB : MA8601
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/MA8601/
 - Description: Interface_USB : MA8601
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MA8601](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-MA8601)
 - Short Link: [http://oom.lt/SZKINTERFACEUMA861](http://oom.lt/SZKINTERFACEUMA861)

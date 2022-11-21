@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-C2673
 - Hex ID: FZEDIODEC2673
 - Name: diode : C2673
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/C2673/
 - Description: diode : C2673
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C2673](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-C2673)
 - Short Link: [http://oom.lt/FZEDIODEC2673](http://oom.lt/FZEDIODEC2673)

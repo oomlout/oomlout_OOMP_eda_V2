@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-RB157
 - Hex ID: SZKDIODEBRIDGERB157
 - Name: Diode_Bridge : RB157
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/RB157/
 - Description: Diode_Bridge : RB157
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-RB157](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-RB157)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGERB157](http://oom.lt/SZKDIODEBRIDGERB157)

@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_D14mm_H7mm_P10mm
 - Hex ID: FZKBZBUZZERD14H7P1
 - Name: Buzzer_Beeper : Buzzer_D14mm_H7mm_P10mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_D14mm_H7mm_P10mm/
 - Description: Buzzer_Beeper : Buzzer_D14mm_H7mm_P10mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_D14mm_H7mm_P10mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_D14mm_H7mm_P10mm)
 - Short Link: [http://oom.lt/FZKBZBUZZERD14H7P1](http://oom.lt/FZKBZBUZZERD14H7P1)

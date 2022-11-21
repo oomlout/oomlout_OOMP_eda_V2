@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-transistor-npn-SC59-BEC
 - Hex ID: FZETRANSISTORNPNSC59BEC
 - Name: transistor-npn : SC59-BEC
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/transistor-npn/SC59-BEC/
 - Description: transistor-npn : SC59-BEC
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-SC59-BEC](http://oom.lt/FOOTPRINT-eagle-eagle-default-transistor-npn-SC59-BEC)
 - Short Link: [http://oom.lt/FZETRANSISTORNPNSC59BEC](http://oom.lt/FZETRANSISTORNPNSC59BEC)

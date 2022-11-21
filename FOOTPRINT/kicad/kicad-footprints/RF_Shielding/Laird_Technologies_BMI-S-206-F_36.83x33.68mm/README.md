@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-206-F_36.83x33.68mm
 - Hex ID: FZKRFSLAIRDTECHNOLOGIESBMIS26F3683X3368
 - Name: RF_Shielding : Laird_Technologies_BMI-S-206-F_36.83x33.68mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-206-F_36.83x33.68mm/
 - Description: RF_Shielding : Laird_Technologies_BMI-S-206-F_36.83x33.68mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-206-F_36.83x33.68mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-206-F_36.83x33.68mm)
 - Short Link: [http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS26F3683X3368](http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS26F3683X3368)

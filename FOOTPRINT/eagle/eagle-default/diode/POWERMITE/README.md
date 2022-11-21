@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-diode-POWERMITE
 - Hex ID: FZEDIODEPOWERMITE
 - Name: diode : POWERMITE
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/diode/POWERMITE/
 - Description: diode : POWERMITE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-POWERMITE](http://oom.lt/FOOTPRINT-eagle-eagle-default-diode-POWERMITE)
 - Short Link: [http://oom.lt/FZEDIODEPOWERMITE](http://oom.lt/FZEDIODEPOWERMITE)

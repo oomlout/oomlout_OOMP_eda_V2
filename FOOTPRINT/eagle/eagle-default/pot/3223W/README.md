@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-pot-3223W
 - Hex ID: FZEPOT3223W
 - Name: pot : 3223W
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/pot/3223W/
 - Description: pot : 3223W
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-3223W](http://oom.lt/FOOTPRINT-eagle-eagle-default-pot-3223W)
 - Short Link: [http://oom.lt/FZEPOT3223W](http://oom.lt/FZEPOT3223W)

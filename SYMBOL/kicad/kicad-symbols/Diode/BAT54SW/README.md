@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT54SW
 - Hex ID: SZKDIODEBAT54SW
 - Name: Diode : BAT54SW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAT54SW/
 - Description: Diode : BAT54SW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT54SW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT54SW)
 - Short Link: [http://oom.lt/SZKDIODEBAT54SW](http://oom.lt/SZKDIODEBAT54SW)

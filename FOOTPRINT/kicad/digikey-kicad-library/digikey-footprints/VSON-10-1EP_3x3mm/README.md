@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVSON11EP3X3 > digikey-footprints : VSON-10-1EP_3x3mm](#fzkicaddigikeykicadlibrarydigikeyfootprintsvson11ep3x3--digikey-footprints--vson-10-1ep_3x3mm)
+* [FZDIGIDIGIKEYFOOTPRINTSVSON11EP3X3 > digikey-footprints : VSON-10-1EP_3x3mm](#fzdigidigikeyfootprintsvson11ep3x3--digikey-footprints--vson-10-1ep_3x3mm)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVSON11EP3X3 > digikey-footprints : VSON-10-1EP_3x3mm
+# FZDIGIDIGIKEYFOOTPRINTSVSON11EP3X3 > digikey-footprints : VSON-10-1EP_3x3mm
 
 - ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VSON-10-1EP_3x3mm
-- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVSON11EP3X3
+- Hex ID: FZDIGIDIGIKEYFOOTPRINTSVSON11EP3X3
 - Name: digikey-footprints : VSON-10-1EP_3x3mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VSON-10-1EP_3x3mm/
 - Description: digikey-footprints : VSON-10-1EP_3x3mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VSON-10-1EP_3x3mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VSON-10-1EP_3x3mm)
-- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVSON11EP3X3](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVSON11EP3X3)
+- Short Link: [http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVSON11EP3X3](http://oom.lt/FZDIGIDIGIKEYFOOTPRINTSVSON11EP3X3)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|digikey-footprints|
 |OOMP Index|oompIndex|VSON-10-1EP_3x3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VSON-10-1EP_3x3mm|
-|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVSON11EP3X3|
+|Hex ID (short code)|hexID|FZDIGIDIGIKEYFOOTPRINTSVSON11EP3X3|
 |name|name|digikey-footprints : VSON-10-1EP_3x3mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VSON-10-1EP_3x3mm'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

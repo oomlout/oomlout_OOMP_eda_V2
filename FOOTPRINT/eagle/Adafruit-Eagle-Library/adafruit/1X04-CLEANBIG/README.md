@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X04-CLEANBIG
 - Hex ID: FZA1X4CB
 - Name: adafruit : 1X04-CLEANBIG
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/1X04-CLEANBIG/
 - Description: adafruit : 1X04-CLEANBIG
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X04-CLEANBIG](http://oom.lt/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X04-CLEANBIG)
 - Short Link: [http://oom.lt/FZA1X4CB](http://oom.lt/FZA1X4CB)

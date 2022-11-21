@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40193
 - Hex ID: SZK4XXXIEEE4193
 - Name: 4xxx_IEEE : 40193
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/40193/
 - Description: 4xxx_IEEE : 40193
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40193](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40193)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4193](http://oom.lt/SZK4XXXIEEE4193)

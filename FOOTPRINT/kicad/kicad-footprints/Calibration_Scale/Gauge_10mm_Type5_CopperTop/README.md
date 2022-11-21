@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [FZKCSGAUGE1TYPE5CTOP > Calibration_Scale : Gauge_10mm_Type5_CopperTop](#fzkcsgauge1type5ctop--calibration_scale--gauge_10mm_type5_coppertop)
+* [FZKCSGAUGE1T5CTOP > Calibration_Scale : Gauge_10mm_Type5_CopperTop](#fzkcsgauge1t5ctop--calibration_scale--gauge_10mm_type5_coppertop)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# FZKCSGAUGE1TYPE5CTOP > Calibration_Scale : Gauge_10mm_Type5_CopperTop
+# FZKCSGAUGE1T5CTOP > Calibration_Scale : Gauge_10mm_Type5_CopperTop
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_10mm_Type5_CopperTop
-- Hex ID: FZKCSGAUGE1TYPE5CTOP
+- Hex ID: FZKCSGAUGE1T5CTOP
 - Name: Calibration_Scale : Gauge_10mm_Type5_CopperTop
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_10mm_Type5_CopperTop/
 - Description: Calibration_Scale : Gauge_10mm_Type5_CopperTop
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_10mm_Type5_CopperTop](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_10mm_Type5_CopperTop)
-- Short Link: [http://oom.lt/FZKCSGAUGE1TYPE5CTOP](http://oom.lt/FZKCSGAUGE1TYPE5CTOP)
+- Short Link: [http://oom.lt/FZKCSGAUGE1T5CTOP](http://oom.lt/FZKCSGAUGE1T5CTOP)
 
 ## Images
   
@@ -37,7 +38,7 @@ Contents
 |OOMP Description|oompDesc|Calibration_Scale|
 |OOMP Index|oompIndex|Gauge_10mm_Type5_CopperTop|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_10mm_Type5_CopperTop|
-|Hex ID (short code)|hexID|FZKCSGAUGE1TYPE5CTOP|
+|Hex ID (short code)|hexID|FZKCSGAUGE1T5CTOP|
 |name|name|Calibration_Scale : Gauge_10mm_Type5_CopperTop|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Gauge_10mm_Type5_CopperTop'</td><td> 'description'</td></tr><tr><td> 'Gauge</td><td> Massstab</td><td> 10mm</td><td> CopperTop</td><td> Type 5</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Gauge Massstab 10mm CopperTop Type 5'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

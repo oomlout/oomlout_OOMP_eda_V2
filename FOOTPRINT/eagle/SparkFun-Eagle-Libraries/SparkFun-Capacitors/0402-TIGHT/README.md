@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0402-TIGHT
 - Hex ID: FZSC42T
 - Name: SparkFun-Capacitors : 0402-TIGHT
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/0402-TIGHT/
 - Description: SparkFun-Capacitors : 0402-TIGHT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0402-TIGHT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0402-TIGHT)
 - Short Link: [http://oom.lt/FZSC42T](http://oom.lt/FZSC42T)

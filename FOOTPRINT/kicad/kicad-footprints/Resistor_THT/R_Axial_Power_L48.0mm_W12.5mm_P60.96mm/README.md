@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L48.0mm_W12.5mm_P60.96mm
 - Hex ID: FZKRRAXIALPOWERL48W125P696
 - Name: Resistor_THT : R_Axial_Power_L48.0mm_W12.5mm_P60.96mm
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L48.0mm_W12.5mm_P60.96mm/
 - Description: Resistor_THT : R_Axial_Power_L48.0mm_W12.5mm_P60.96mm
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L48.0mm_W12.5mm_P60.96mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L48.0mm_W12.5mm_P60.96mm)
 - Short Link: [http://oom.lt/FZKRRAXIALPOWERL48W125P696](http://oom.lt/FZKRRAXIALPOWERL48W125P696)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO14_MCU
 - Hex ID: FZSRTSO14MCU
 - Name: SparkFun-Retired : SO14_MCU
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/SO14_MCU/
 - Description: SparkFun-Retired : SO14_MCU
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO14_MCU](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO14_MCU)
 - Short Link: [http://oom.lt/FZSRTSO14MCU](http://oom.lt/FZSRTSO14MCU)

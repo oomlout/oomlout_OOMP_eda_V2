@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_PJFET_SGD
 - Hex ID: SZKDEVICEQPJFETSGD
 - Name: Device : Q_PJFET_SGD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_PJFET_SGD/
 - Description: Device : Q_PJFET_SGD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PJFET_SGD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PJFET_SGD)
 - Short Link: [http://oom.lt/SZKDEVICEQPJFETSGD](http://oom.lt/SZKDEVICEQPJFETSGD)

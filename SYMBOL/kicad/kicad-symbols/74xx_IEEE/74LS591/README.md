@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS591
 - Hex ID: SZK74XXIEEE74LS591
 - Name: 74xx_IEEE : 74LS591
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/74LS591/
 - Description: 74xx_IEEE : 74LS591
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS591](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS591)
 - Short Link: [http://oom.lt/SZK74XXIEEE74LS591](http://oom.lt/SZK74XXIEEE74LS591)

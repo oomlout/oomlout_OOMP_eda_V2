@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESPBGA217 > ref-packages : PBGA217](#fzerefpackagespbga217--ref-packages--pbga217)
+* [FZEREFPSPBGA217 > ref-packages : PBGA217](#fzerefpspbga217--ref-packages--pbga217)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESPBGA217 > ref-packages : PBGA217
+# FZEREFPSPBGA217 > ref-packages : PBGA217
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-PBGA217
-- Hex ID: FZEREFPACKAGESPBGA217
+- Hex ID: FZEREFPSPBGA217
 - Name: ref-packages : PBGA217
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/PBGA217/
 - Description: ref-packages : PBGA217
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PBGA217](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-PBGA217)
-- Short Link: [http://oom.lt/FZEREFPACKAGESPBGA217](http://oom.lt/FZEREFPACKAGESPBGA217)
+- Short Link: [http://oom.lt/FZEREFPSPBGA217](http://oom.lt/FZEREFPSPBGA217)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|PBGA217|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-PBGA217|
-|Hex ID (short code)|hexID|FZEREFPACKAGESPBGA217|
+|Hex ID (short code)|hexID|FZEREFPSPBGA217|
 |name|name|ref-packages : PBGA217|
 ||||

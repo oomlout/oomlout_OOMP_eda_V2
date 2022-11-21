@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-HMC799LP3E
 - Hex ID: SZKAMPLIFIEROPERATIONALHMC799LP3E
 - Name: Amplifier_Operational : HMC799LP3E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/HMC799LP3E/
 - Description: Amplifier_Operational : HMC799LP3E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-HMC799LP3E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-HMC799LP3E)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALHMC799LP3E](http://oom.lt/SZKAMPLIFIEROPERATIONALHMC799LP3E)

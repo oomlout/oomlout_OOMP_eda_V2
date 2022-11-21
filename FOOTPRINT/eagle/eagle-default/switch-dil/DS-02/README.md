@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZESWITCHDILDS2 > switch-dil : DS-02](#fzeswitchdilds2--switch-dil--ds-02)
+* [FZESWDILDS2 > switch-dil : DS-02](#fzeswdilds2--switch-dil--ds-02)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZESWITCHDILDS2 > switch-dil : DS-02
+# FZESWDILDS2 > switch-dil : DS-02
 
 - ID: FOOTPRINT-eagle-eagle-default-switch-dil-DS-02
-- Hex ID: FZESWITCHDILDS2
+- Hex ID: FZESWDILDS2
 - Name: switch-dil : DS-02
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/switch-dil/DS-02/
 - Description: switch-dil : DS-02
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DS-02](http://oom.lt/FOOTPRINT-eagle-eagle-default-switch-dil-DS-02)
-- Short Link: [http://oom.lt/FZESWITCHDILDS2](http://oom.lt/FZESWITCHDILDS2)
+- Short Link: [http://oom.lt/FZESWDILDS2](http://oom.lt/FZESWDILDS2)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|switch-dil|
 |OOMP Index|oompIndex|DS-02|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-switch-dil-DS-02|
-|Hex ID (short code)|hexID|FZESWITCHDILDS2|
+|Hex ID (short code)|hexID|FZESWDILDS2|
 |name|name|switch-dil : DS-02|
 ||||

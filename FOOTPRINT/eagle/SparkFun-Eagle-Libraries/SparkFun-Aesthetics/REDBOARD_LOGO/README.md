@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-REDBOARD_LOGO
 - Hex ID: FZSAREDBOARDL
 - Name: SparkFun-Aesthetics : REDBOARD_LOGO
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/REDBOARD_LOGO/
 - Description: SparkFun-Aesthetics : REDBOARD_LOGO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-REDBOARD_LOGO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-REDBOARD_LOGO)
 - Short Link: [http://oom.lt/FZSAREDBOARDL](http://oom.lt/FZSAREDBOARDL)

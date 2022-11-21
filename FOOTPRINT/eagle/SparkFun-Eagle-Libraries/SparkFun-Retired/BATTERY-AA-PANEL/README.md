@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BATTERY-AA-PANEL
 - Hex ID: FZSRTBATAAPANEL
 - Name: SparkFun-Retired : BATTERY-AA-PANEL
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Retired/BATTERY-AA-PANEL/
 - Description: SparkFun-Retired : BATTERY-AA-PANEL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BATTERY-AA-PANEL](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-BATTERY-AA-PANEL)
 - Short Link: [http://oom.lt/FZSRTBATAAPANEL](http://oom.lt/FZSRTBATAAPANEL)

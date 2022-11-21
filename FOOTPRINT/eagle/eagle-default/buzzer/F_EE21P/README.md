@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-F_EE21P
 - Hex ID: FZEBUZZERFEE21P
 - Name: buzzer : F_EE21P
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/buzzer/F_EE21P/
 - Description: buzzer : F_EE21P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_EE21P](http://oom.lt/FOOTPRINT-eagle-eagle-default-buzzer-F_EE21P)
 - Short Link: [http://oom.lt/FZEBUZZERFEE21P](http://oom.lt/FZEBUZZERFEE21P)

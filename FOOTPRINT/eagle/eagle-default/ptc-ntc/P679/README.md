@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-ptc-ntc-P679
 - Hex ID: FZEPTCNTCP679
 - Name: ptc-ntc : P679
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ptc-ntc/P679/
 - Description: ptc-ntc : P679
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ptc-ntc-P679](http://oom.lt/FOOTPRINT-eagle-eagle-default-ptc-ntc-P679)
 - Short Link: [http://oom.lt/FZEPTCNTCP679](http://oom.lt/FZEPTCNTCP679)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-relay-VS05-NAIS
 - Hex ID: FZERELAYVS5NAIS
 - Name: relay : VS05-NAIS
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/relay/VS05-NAIS/
 - Description: relay : VS05-NAIS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-VS05-NAIS](http://oom.lt/FOOTPRINT-eagle-eagle-default-relay-VS05-NAIS)
 - Short Link: [http://oom.lt/FZERELAYVS5NAIS](http://oom.lt/FZERELAYVS5NAIS)

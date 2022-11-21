@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESRTRIMTSM53YJ > ref-packages : RTRIMTSM53YJ](#fzerefpackagesrtrimtsm53yj--ref-packages--rtrimtsm53yj)
+* [FZEREFPSRTRIMTSM53YJ > ref-packages : RTRIMTSM53YJ](#fzerefpsrtrimtsm53yj--ref-packages--rtrimtsm53yj)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESRTRIMTSM53YJ > ref-packages : RTRIMTSM53YJ
+# FZEREFPSRTRIMTSM53YJ > ref-packages : RTRIMTSM53YJ
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-RTRIMTSM53YJ
-- Hex ID: FZEREFPACKAGESRTRIMTSM53YJ
+- Hex ID: FZEREFPSRTRIMTSM53YJ
 - Name: ref-packages : RTRIMTSM53YJ
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/RTRIMTSM53YJ/
 - Description: ref-packages : RTRIMTSM53YJ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RTRIMTSM53YJ](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-RTRIMTSM53YJ)
-- Short Link: [http://oom.lt/FZEREFPACKAGESRTRIMTSM53YJ](http://oom.lt/FZEREFPACKAGESRTRIMTSM53YJ)
+- Short Link: [http://oom.lt/FZEREFPSRTRIMTSM53YJ](http://oom.lt/FZEREFPSRTRIMTSM53YJ)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|RTRIMTSM53YJ|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-RTRIMTSM53YJ|
-|Hex ID (short code)|hexID|FZEREFPACKAGESRTRIMTSM53YJ|
+|Hex ID (short code)|hexID|FZEREFPSRTRIMTSM53YJ|
 |name|name|ref-packages : RTRIMTSM53YJ|
 ||||

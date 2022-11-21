@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-GP1A57HR
 - Hex ID: FZSSPARKFUNSENSGP1A57HR
 - Name: SparkFun-Sensors : GP1A57HR
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors/GP1A57HR/
 - Description: SparkFun-Sensors : GP1A57HR
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-GP1A57HR](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-GP1A57HR)
 - Short Link: [http://oom.lt/FZSSPARKFUNSENSGP1A57HR](http://oom.lt/FZSSPARKFUNSENSGP1A57HR)

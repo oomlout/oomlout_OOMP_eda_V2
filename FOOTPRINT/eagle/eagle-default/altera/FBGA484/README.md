@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-altera-FBGA484
 - Hex ID: FZEALTERAFBGA484
 - Name: altera : FBGA484
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/altera/FBGA484/
 - Description: altera : FBGA484
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-FBGA484](http://oom.lt/FOOTPRINT-eagle-eagle-default-altera-FBGA484)
 - Short Link: [http://oom.lt/FZEALTERAFBGA484](http://oom.lt/FZEALTERAFBGA484)

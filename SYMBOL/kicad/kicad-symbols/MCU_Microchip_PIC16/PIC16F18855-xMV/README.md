@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18855-xMV
 - Hex ID: SZKMCUMCHIPPIC16PIC16F18855XMV
 - Name: MCU_Microchip_PIC16 : PIC16F18855-xMV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F18855-xMV/
 - Description: MCU_Microchip_PIC16 : PIC16F18855-xMV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18855-xMV](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18855-xMV)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F18855XMV](http://oom.lt/SZKMCUMCHIPPIC16PIC16F18855XMV)

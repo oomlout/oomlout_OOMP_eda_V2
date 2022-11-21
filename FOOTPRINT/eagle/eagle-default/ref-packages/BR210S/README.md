@@ -5,18 +5,19 @@
 Contents
 ========
 
-* [FZEREFPACKAGESBR21S > ref-packages : BR210S](#fzerefpackagesbr21s--ref-packages--br210s)
+* [FZEREFPSBR21S > ref-packages : BR210S](#fzerefpsbr21s--ref-packages--br210s)
 	* [Tags](#tags)
   
 NO IMAGE  
-# FZEREFPACKAGESBR21S > ref-packages : BR210S
+# FZEREFPSBR21S > ref-packages : BR210S
 
 - ID: FOOTPRINT-eagle-eagle-default-ref-packages-BR210S
-- Hex ID: FZEREFPACKAGESBR21S
+- Hex ID: FZEREFPSBR21S
 - Name: ref-packages : BR210S
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/ref-packages/BR210S/
 - Description: ref-packages : BR210S
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-BR210S](http://oom.lt/FOOTPRINT-eagle-eagle-default-ref-packages-BR210S)
-- Short Link: [http://oom.lt/FZEREFPACKAGESBR21S](http://oom.lt/FZEREFPACKAGESBR21S)
+- Short Link: [http://oom.lt/FZEREFPSBR21S](http://oom.lt/FZEREFPSBR21S)
   
 NO IMAGES  
 ## Tags
@@ -30,6 +31,6 @@ NO IMAGES
 |OOMP Description|oompDesc|ref-packages|
 |OOMP Index|oompIndex|BR210S|
 |Full OOMP ID|oompID|FOOTPRINT-eagle-eagle-default-ref-packages-BR210S|
-|Hex ID (short code)|hexID|FZEREFPACKAGESBR21S|
+|Hex ID (short code)|hexID|FZEREFPSBR21S|
 |name|name|ref-packages : BR210S|
 ||||

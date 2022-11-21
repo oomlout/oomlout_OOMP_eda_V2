@@ -15,6 +15,7 @@ Contents
 - ID: FOOTPRINT-eagle-eagle-default-con-amp-HDI-344M
 - Hex ID: FZECONAMPHDI344M
 - Name: con-amp : HDI-344M
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/con-amp/HDI-344M/
 - Description: con-amp : HDI-344M
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-HDI-344M](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-amp-HDI-344M)
 - Short Link: [http://oom.lt/FZECONAMPHDI344M](http://oom.lt/FZECONAMPHDI344M)

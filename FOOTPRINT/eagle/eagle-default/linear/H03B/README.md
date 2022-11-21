@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-linear-H03B
 - Hex ID: FZELINEARH3B
 - Name: linear : H03B
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/linear/H03B/
 - Description: linear : H03B
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-H03B](http://oom.lt/FOOTPRINT-eagle-eagle-default-linear-H03B)
 - Short Link: [http://oom.lt/FZELINEARH3B](http://oom.lt/FZELINEARH3B)

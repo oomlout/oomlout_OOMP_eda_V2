@@ -14,6 +14,7 @@ NO IMAGE
 - ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-RM10-8
 - Hex ID: FZETRAFOSIEMENSRM18
 - Name: trafo-siemens : RM10-8
+- Path: oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/trafo-siemens/RM10-8/
 - Description: trafo-siemens : RM10-8
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM10-8](http://oom.lt/FOOTPRINT-eagle-eagle-default-trafo-siemens-RM10-8)
 - Short Link: [http://oom.lt/FZETRAFOSIEMENSRM18](http://oom.lt/FZETRAFOSIEMENSRM18)
