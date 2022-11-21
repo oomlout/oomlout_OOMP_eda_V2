@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-NTR2101P
 - Hex ID: SZKTRANSISTORFETNTR211P
 - Name: Transistor_FET : NTR2101P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/NTR2101P/
 - Description: Transistor_FET : NTR2101P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-NTR2101P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-NTR2101P)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETNTR211P](http://oom.lt/SZKTRANSISTORFETNTR211P)

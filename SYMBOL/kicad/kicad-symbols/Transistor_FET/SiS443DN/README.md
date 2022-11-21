@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-SiS443DN
 - Hex ID: SZKTRANSISTORFETSIS443DN
 - Name: Transistor_FET : SiS443DN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/SiS443DN/
 - Description: Transistor_FET : SiS443DN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SiS443DN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SiS443DN)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSIS443DN](http://oom.lt/SZKTRANSISTORFETSIS443DN)

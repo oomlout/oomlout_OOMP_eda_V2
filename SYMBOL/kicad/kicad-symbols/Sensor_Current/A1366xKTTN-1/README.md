@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-A1366xKTTN-1
 - Hex ID: SZKSENCURRENTA1366XKTTN1
 - Name: Sensor_Current : A1366xKTTN-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/A1366xKTTN-1/
 - Description: Sensor_Current : A1366xKTTN-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-A1366xKTTN-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-A1366xKTTN-1)
 - Short Link: [http://oom.lt/SZKSENCURRENTA1366XKTTN1](http://oom.lt/SZKSENCURRENTA1366XKTTN1)

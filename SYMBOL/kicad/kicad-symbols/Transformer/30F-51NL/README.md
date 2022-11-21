@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-30F-51NL
 - Hex ID: SZKTR3F51NL
 - Name: Transformer : 30F-51NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/30F-51NL/
 - Description: Transformer : 30F-51NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-30F-51NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-30F-51NL)
 - Short Link: [http://oom.lt/SZKTR3F51NL](http://oom.lt/SZKTR3F51NL)

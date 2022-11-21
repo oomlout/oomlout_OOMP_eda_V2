@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TRANSF5
 - Hex ID: SZKTRTRANSF5
 - Name: Transformer : TRANSF5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TRANSF5/
 - Description: Transformer : TRANSF5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF5)
 - Short Link: [http://oom.lt/SZKTRTRANSF5](http://oom.lt/SZKTRTRANSF5)

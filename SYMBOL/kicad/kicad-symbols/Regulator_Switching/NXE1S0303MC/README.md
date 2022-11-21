@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE1S0303MC
 - Hex ID: SZKREGULATORSWINGNXE1S33MC
 - Name: Regulator_Switching : NXE1S0303MC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NXE1S0303MC/
 - Description: Regulator_Switching : NXE1S0303MC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE1S0303MC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE1S0303MC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGNXE1S33MC](http://oom.lt/SZKREGULATORSWINGNXE1S33MC)

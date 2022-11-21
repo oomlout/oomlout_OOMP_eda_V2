@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-AS923
 - Hex ID: SZKRFMORAK811HFAS923
 - Name: RF_Module : RAK811-HF-AS923
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/RAK811-HF-AS923/
 - Description: RF_Module : RAK811-HF-AS923
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-AS923](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-AS923)
 - Short Link: [http://oom.lt/SZKRFMORAK811HFAS923](http://oom.lt/SZKRFMORAK811HFAS923)

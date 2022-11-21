@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CZ-3813
 - Hex ID: SZKSENCURRENTCZ3813
 - Name: Sensor_Current : CZ-3813
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CZ-3813/
 - Description: Sensor_Current : CZ-3813
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CZ-3813](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CZ-3813)
 - Short Link: [http://oom.lt/SZKSENCURRENTCZ3813](http://oom.lt/SZKSENCURRENTCZ3813)

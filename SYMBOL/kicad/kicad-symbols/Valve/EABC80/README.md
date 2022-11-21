@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Valve-EABC80
 - Hex ID: SZKVAEABC8
 - Name: Valve : EABC80
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/EABC80/
 - Description: Valve : EABC80
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EABC80](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EABC80)
 - Short Link: [http://oom.lt/SZKVAEABC8](http://oom.lt/SZKVAEABC8)

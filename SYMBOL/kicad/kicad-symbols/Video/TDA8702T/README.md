@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-TDA8702T
 - Hex ID: SZKVIDEOTDA872T
 - Name: Video : TDA8702T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/TDA8702T/
 - Description: Video : TDA8702T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA8702T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA8702T)
 - Short Link: [http://oom.lt/SZKVIDEOTDA872T](http://oom.lt/SZKVIDEOTDA872T)

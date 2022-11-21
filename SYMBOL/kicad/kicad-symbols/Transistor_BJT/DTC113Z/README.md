@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC113Z
 - Hex ID: SZKTRANSISTORBJTDTC113Z
 - Name: Transistor_BJT : DTC113Z
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTC113Z/
 - Description: Transistor_BJT : DTC113Z
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC113Z](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC113Z)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTC113Z](http://oom.lt/SZKTRANSISTORBJTDTC113Z)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-3301
 - Hex ID: SZKSENCURRENTCQ331
 - Name: Sensor_Current : CQ-3301
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-3301/
 - Description: Sensor_Current : CQ-3301
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-3301](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-3301)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ331](http://oom.lt/SZKSENCURRENTCQ331)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1302Z+
 - Hex ID: SZKTIMERRTCDS132Z+
 - Name: Timer_RTC : DS1302Z+
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/DS1302Z+/
 - Description: Timer_RTC : DS1302Z+
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1302Z+](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1302Z+)
 - Short Link: [http://oom.lt/SZKTIMERRTCDS132Z+](http://oom.lt/SZKTIMERRTCDS132Z+)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_AM_FM-SA636DK
 - Hex ID: SZKRFAMFMSA636DK
 - Name: RF_AM_FM : SA636DK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_AM_FM/SA636DK/
 - Description: RF_AM_FM : SA636DK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-SA636DK](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-SA636DK)
 - Short Link: [http://oom.lt/SZKRFAMFMSA636DK](http://oom.lt/SZKRFAMFMSA636DK)

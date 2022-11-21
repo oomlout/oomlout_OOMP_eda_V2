@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-S66
 - Hex ID: SZKRFAMPLIFIERGALIS66
 - Name: RF_Amplifier : GALI-S66
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/GALI-S66/
 - Description: RF_Amplifier : GALI-S66
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-S66](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-S66)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERGALIS66](http://oom.lt/SZKRFAMPLIFIERGALIS66)

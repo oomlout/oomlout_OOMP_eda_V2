@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-NOA1305
 - Hex ID: SZKSENOPTICALNOA135
 - Name: Sensor_Optical : NOA1305
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/NOA1305/
 - Description: Sensor_Optical : NOA1305
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-NOA1305](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-NOA1305)
 - Short Link: [http://oom.lt/SZKSENOPTICALNOA135](http://oom.lt/SZKSENOPTICALNOA135)

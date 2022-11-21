@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-74
 - Hex ID: SZKRFAMPLIFIERGALI74
 - Name: RF_Amplifier : GALI-74
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/GALI-74/
 - Description: RF_Amplifier : GALI-74
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-74](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-74)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERGALI74](http://oom.lt/SZKRFAMPLIFIERGALI74)

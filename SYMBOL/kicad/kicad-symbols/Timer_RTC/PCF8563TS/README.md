@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF8563TS
 - Hex ID: SZKTIMERRTCPCF8563TS
 - Name: Timer_RTC : PCF8563TS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/PCF8563TS/
 - Description: Timer_RTC : PCF8563TS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF8563TS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF8563TS)
 - Short Link: [http://oom.lt/SZKTIMERRTCPCF8563TS](http://oom.lt/SZKTIMERRTCPCF8563TS)

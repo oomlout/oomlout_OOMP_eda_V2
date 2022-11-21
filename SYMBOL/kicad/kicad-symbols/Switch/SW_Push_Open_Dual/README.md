@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Open_Dual
 - Hex ID: SZKSWSWPUSHOPENDUAL
 - Name: Switch : SW_Push_Open_Dual
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Open_Dual/
 - Description: Switch : SW_Push_Open_Dual
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Open_Dual](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Open_Dual)
 - Short Link: [http://oom.lt/SZKSWSWPUSHOPENDUAL](http://oom.lt/SZKSWSWPUSHOPENDUAL)

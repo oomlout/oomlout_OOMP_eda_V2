@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP3012
 - Hex ID: SZKREGULATORSWINGAP312
 - Name: Regulator_Switching : AP3012
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/AP3012/
 - Description: Regulator_Switching : AP3012
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP3012](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP3012)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGAP312](http://oom.lt/SZKREGULATORSWINGAP312)

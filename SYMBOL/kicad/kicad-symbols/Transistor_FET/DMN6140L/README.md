@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN6140L
 - Hex ID: SZKTRANSISTORFETDMN614L
 - Name: Transistor_FET : DMN6140L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN6140L/
 - Description: Transistor_FET : DMN6140L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN6140L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN6140L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN614L](http://oom.lt/SZKTRANSISTORFETDMN614L)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-STA0232A
 - Hex ID: SZKRFFILSTA232A
 - Name: RF_Filter : STA0232A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/STA0232A/
 - Description: RF_Filter : STA0232A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-STA0232A](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-STA0232A)
 - Short Link: [http://oom.lt/SZKRFFILSTA232A](http://oom.lt/SZKRFFILSTA232A)

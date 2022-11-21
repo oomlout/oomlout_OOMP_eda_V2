@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3012M
 - Hex ID: SZKRELAYSOLIDSTATEMOC312M
 - Name: Relay_SolidState : MOC3012M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/MOC3012M/
 - Description: Relay_SolidState : MOC3012M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3012M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3012M)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATEMOC312M](http://oom.lt/SZKRELAYSOLIDSTATEMOC312M)

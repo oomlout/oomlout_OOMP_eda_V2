@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS723xMATR-10AB
 - Hex ID: SZKSENCURRENTACS723XMATR1AB
 - Name: Sensor_Current : ACS723xMATR-10AB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS723xMATR-10AB/
 - Description: Sensor_Current : ACS723xMATR-10AB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS723xMATR-10AB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS723xMATR-10AB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS723XMATR1AB](http://oom.lt/SZKSENCURRENTACS723XMATR1AB)

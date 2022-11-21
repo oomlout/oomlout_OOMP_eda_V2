@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-SC34063AP
 - Hex ID: SZKREGULATORSWINGSC3463AP
 - Name: Regulator_Switching : SC34063AP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/SC34063AP/
 - Description: Regulator_Switching : SC34063AP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-SC34063AP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-SC34063AP)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGSC3463AP](http://oom.lt/SZKREGULATORSWINGSC3463AP)

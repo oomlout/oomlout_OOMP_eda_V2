@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-330J
 - Hex ID: SZKSENCURRENTCQ33J
 - Name: Sensor_Current : CQ-330J
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-330J/
 - Description: Sensor_Current : CQ-330J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-330J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-330J)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ33J](http://oom.lt/SZKSENCURRENTCQ33J)

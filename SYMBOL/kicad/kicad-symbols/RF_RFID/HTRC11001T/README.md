@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_RFID-HTRC11001T
 - Hex ID: SZKRFRFIDHTRC111T
 - Name: RF_RFID : HTRC11001T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_RFID/HTRC11001T/
 - Description: RF_RFID : HTRC11001T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_RFID-HTRC11001T](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_RFID-HTRC11001T)
 - Short Link: [http://oom.lt/SZKRFRFIDHTRC111T](http://oom.lt/SZKRFRFIDHTRC111T)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3055
 - Hex ID: SZKTRANSISTORBJT2N355
 - Name: Transistor_BJT : 2N3055
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2N3055/
 - Description: Transistor_BJT : 2N3055
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3055](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3055)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2N355](http://oom.lt/SZKTRANSISTORBJT2N355)

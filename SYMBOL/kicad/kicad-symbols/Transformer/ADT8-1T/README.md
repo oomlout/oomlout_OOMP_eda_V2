@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADT8-1T
 - Hex ID: SZKTRADT81T
 - Name: Transformer : ADT8-1T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT8-1T/
 - Description: Transformer : ADT8-1T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT8-1T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT8-1T)
 - Short Link: [http://oom.lt/SZKTRADT81T](http://oom.lt/SZKTRADT81T)

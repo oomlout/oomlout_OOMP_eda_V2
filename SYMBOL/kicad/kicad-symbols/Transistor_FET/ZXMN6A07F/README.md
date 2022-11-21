@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN6A07F
 - Hex ID: SZKTRANSISTORFETZXMN6A7F
 - Name: Transistor_FET : ZXMN6A07F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN6A07F/
 - Description: Transistor_FET : ZXMN6A07F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN6A07F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN6A07F)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZXMN6A7F](http://oom.lt/SZKTRANSISTORFETZXMN6A7F)

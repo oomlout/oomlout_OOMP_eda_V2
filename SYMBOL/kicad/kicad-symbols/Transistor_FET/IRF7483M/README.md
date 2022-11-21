@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7483M
 - Hex ID: SZKTRANSISTORFETIRF7483M
 - Name: Transistor_FET : IRF7483M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7483M/
 - Description: Transistor_FET : IRF7483M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7483M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7483M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF7483M](http://oom.lt/SZKTRANSISTORFETIRF7483M)

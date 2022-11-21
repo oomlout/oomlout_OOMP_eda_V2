@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4229
 - Hex ID: SZKTRANSISTORFETIRFS4229
 - Name: Transistor_FET : IRFS4229
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFS4229/
 - Description: Transistor_FET : IRFS4229
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4229](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4229)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRFS4229](http://oom.lt/SZKTRANSISTORFETIRFS4229)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-STA1090EC
 - Hex ID: SZKRFFILSTA19EC
 - Name: RF_Filter : STA1090EC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/STA1090EC/
 - Description: RF_Filter : STA1090EC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-STA1090EC](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-STA1090EC)
 - Short Link: [http://oom.lt/SZKRFFILSTA19EC](http://oom.lt/SZKRFFILSTA19EC)

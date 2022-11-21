@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_ZigBee-MC13192
 - Hex ID: SZKRFZIGBEEMC13192
 - Name: RF_ZigBee : MC13192
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_ZigBee/MC13192/
 - Description: RF_ZigBee : MC13192
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-MC13192](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-MC13192)
 - Short Link: [http://oom.lt/SZKRFZIGBEEMC13192](http://oom.lt/SZKRFZIGBEEMC13192)

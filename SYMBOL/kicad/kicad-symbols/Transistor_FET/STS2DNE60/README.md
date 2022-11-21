@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-STS2DNE60
 - Hex ID: SZKTRANSISTORFETSTS2DNE6
 - Name: Transistor_FET : STS2DNE60
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/STS2DNE60/
 - Description: Transistor_FET : STS2DNE60
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-STS2DNE60](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-STS2DNE60)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSTS2DNE6](http://oom.lt/SZKTRANSISTORFETSTS2DNE6)

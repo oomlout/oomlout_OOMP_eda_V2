@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MUN12AD03-SH
 - Hex ID: SZKREGULATORSWINGMUN12AD3SH
 - Name: Regulator_Switching : MUN12AD03-SH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MUN12AD03-SH/
 - Description: Regulator_Switching : MUN12AD03-SH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MUN12AD03-SH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MUN12AD03-SH)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMUN12AD3SH](http://oom.lt/SZKREGULATORSWINGMUN12AD3SH)

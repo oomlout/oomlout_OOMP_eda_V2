@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-AS7263
 - Hex ID: SZKSENOPTICALAS7263
 - Name: Sensor_Optical : AS7263
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/AS7263/
 - Description: Sensor_Optical : AS7263
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-AS7263](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-AS7263)
 - Short Link: [http://oom.lt/SZKSENOPTICALAS7263](http://oom.lt/SZKSENOPTICALAS7263)

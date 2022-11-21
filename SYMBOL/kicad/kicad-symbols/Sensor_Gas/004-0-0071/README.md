@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Gas-004-0-0071
 - Hex ID: SZKSENGAS471
 - Name: Sensor_Gas : 004-0-0071
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Gas/004-0-0071/
 - Description: Sensor_Gas : 004-0-0071
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-004-0-0071](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-004-0-0071)
 - Short Link: [http://oom.lt/SZKSENGAS471](http://oom.lt/SZKSENGAS471)

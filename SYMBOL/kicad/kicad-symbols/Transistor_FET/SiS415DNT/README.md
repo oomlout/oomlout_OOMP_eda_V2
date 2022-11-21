@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-SiS415DNT
 - Hex ID: SZKTRANSISTORFETSIS415DNT
 - Name: Transistor_FET : SiS415DNT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/SiS415DNT/
 - Description: Transistor_FET : SiS415DNT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SiS415DNT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SiS415DNT)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSIS415DNT](http://oom.lt/SZKTRANSISTORFETSIS415DNT)

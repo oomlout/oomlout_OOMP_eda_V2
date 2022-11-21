@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-TA0970B
 - Hex ID: SZKRFFILTA97B
 - Name: RF_Filter : TA0970B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/TA0970B/
 - Description: RF_Filter : TA0970B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-TA0970B](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-TA0970B)
 - Short Link: [http://oom.lt/SZKRFFILTA97B](http://oom.lt/SZKRFFILTA97B)

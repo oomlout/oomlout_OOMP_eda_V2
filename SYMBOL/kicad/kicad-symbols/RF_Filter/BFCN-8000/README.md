@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-8000
 - Hex ID: SZKRFFILBFCN8
 - Name: RF_Filter : BFCN-8000
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-8000/
 - Description: RF_Filter : BFCN-8000
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-8000](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-8000)
 - Short Link: [http://oom.lt/SZKRFFILBFCN8](http://oom.lt/SZKRFFILBFCN8)

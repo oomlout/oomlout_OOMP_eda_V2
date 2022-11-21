@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-SKY65404
 - Hex ID: SZKRFAMPLIFIERSKY6544
 - Name: RF_Amplifier : SKY65404
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/SKY65404/
 - Description: RF_Amplifier : SKY65404
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-SKY65404](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-SKY65404)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERSKY6544](http://oom.lt/SZKRFAMPLIFIERSKY6544)

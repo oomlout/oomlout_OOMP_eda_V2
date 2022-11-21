@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CSLW6B1
 - Hex ID: SZKSENCURRENTCSLW6B1
 - Name: Sensor_Current : CSLW6B1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CSLW6B1/
 - Description: Sensor_Current : CSLW6B1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CSLW6B1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CSLW6B1)
 - Short Link: [http://oom.lt/SZKSENCURRENTCSLW6B1](http://oom.lt/SZKSENCURRENTCSLW6B1)

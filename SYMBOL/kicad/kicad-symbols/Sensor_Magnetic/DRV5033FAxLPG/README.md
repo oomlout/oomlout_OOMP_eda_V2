@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033FAxLPG
 - Hex ID: SZKSENMAGNETICDRV533FAXLPG
 - Name: Sensor_Magnetic : DRV5033FAxLPG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5033FAxLPG/
 - Description: Sensor_Magnetic : DRV5033FAxLPG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033FAxLPG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033FAxLPG)
 - Short Link: [http://oom.lt/SZKSENMAGNETICDRV533FAXLPG](http://oom.lt/SZKSENMAGNETICDRV533FAXLPG)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0107NN
 - Hex ID: SZKTRIACTHYRISTORZ17NN
 - Name: Triac_Thyristor : Z0107NN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/Z0107NN/
 - Description: Triac_Thyristor : Z0107NN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0107NN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0107NN)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORZ17NN](http://oom.lt/SZKTRIACTHYRISTORZ17NN)

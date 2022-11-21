@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF85363ATT
 - Hex ID: SZKTIMERRTCPCF85363ATT
 - Name: Timer_RTC : PCF85363ATT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/PCF85363ATT/
 - Description: Timer_RTC : PCF85363ATT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF85363ATT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF85363ATT)
 - Short Link: [http://oom.lt/SZKTIMERRTCPCF85363ATT](http://oom.lt/SZKTIMERRTCPCF85363ATT)

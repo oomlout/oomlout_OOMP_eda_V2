@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM13
 - Hex ID: SZKRELAYIM13
 - Name: Relay : IM13
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM13/
 - Description: Relay : IM13
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM13](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM13)
 - Short Link: [http://oom.lt/SZKRELAYIM13](http://oom.lt/SZKRELAYIM13)

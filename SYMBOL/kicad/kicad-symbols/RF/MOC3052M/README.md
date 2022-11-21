@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-MOC3052M
 - Hex ID: SZKRFMOC352M
 - Name: RF : MOC3052M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/MOC3052M/
 - Description: RF : MOC3052M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3052M](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3052M)
 - Short Link: [http://oom.lt/SZKRFMOC352M](http://oom.lt/SZKRFMOC352M)

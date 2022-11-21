@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-HF3-01
 - Hex ID: SZKRELAYHF31
 - Name: Relay : HF3-01
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/HF3-01/
 - Description: Relay : HF3-01
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-HF3-01](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-HF3-01)
 - Short Link: [http://oom.lt/SZKRELAYHF31](http://oom.lt/SZKRELAYHF31)

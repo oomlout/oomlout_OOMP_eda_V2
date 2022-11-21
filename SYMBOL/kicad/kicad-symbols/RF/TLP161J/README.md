@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-TLP161J
 - Hex ID: SZKRFTLP161J
 - Name: RF : TLP161J
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/TLP161J/
 - Description: RF : TLP161J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP161J](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP161J)
 - Short Link: [http://oom.lt/SZKRFTLP161J](http://oom.lt/SZKRFTLP161J)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-206A
 - Hex ID: SZKSENCURRENTCQ26A
 - Name: Sensor_Current : CQ-206A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-206A/
 - Description: Sensor_Current : CQ-206A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-206A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-206A)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ26A](http://oom.lt/SZKSENCURRENTCQ26A)

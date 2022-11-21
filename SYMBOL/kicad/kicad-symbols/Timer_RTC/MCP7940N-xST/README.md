@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-MCP7940N-xST
 - Hex ID: SZKTIMERRTCMCP794NXST
 - Name: Timer_RTC : MCP7940N-xST
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/MCP7940N-xST/
 - Description: Timer_RTC : MCP7940N-xST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-MCP7940N-xST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-MCP7940N-xST)
 - Short Link: [http://oom.lt/SZKTIMERRTCMCP794NXST](http://oom.lt/SZKTIMERRTCMCP794NXST)

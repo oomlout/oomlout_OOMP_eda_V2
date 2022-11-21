@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP3123
 - Hex ID: SZKRELAYSOLIDSTATETLP3123
 - Name: Relay_SolidState : TLP3123
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP3123/
 - Description: Relay_SolidState : TLP3123
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP3123](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP3123)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATETLP3123](http://oom.lt/SZKRELAYSOLIDSTATETLP3123)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-P0926NL
 - Hex ID: SZKTRP926NL
 - Name: Transformer : P0926NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/P0926NL/
 - Description: Transformer : P0926NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-P0926NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-P0926NL)
 - Short Link: [http://oom.lt/SZKTRP926NL](http://oom.lt/SZKTRP926NL)

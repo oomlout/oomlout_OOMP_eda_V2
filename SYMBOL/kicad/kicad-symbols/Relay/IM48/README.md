@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM48
 - Hex ID: SZKRELAYIM48
 - Name: Relay : IM48
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM48/
 - Description: Relay : IM48
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM48](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM48)
 - Short Link: [http://oom.lt/SZKRELAYIM48](http://oom.lt/SZKRELAYIM48)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MS5525DSO
 - Hex ID: SZKSENPRESSUREMS5525DSO
 - Name: Sensor_Pressure : MS5525DSO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MS5525DSO/
 - Description: Sensor_Pressure : MS5525DSO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MS5525DSO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MS5525DSO)
 - Short Link: [http://oom.lt/SZKSENPRESSUREMS5525DSO](http://oom.lt/SZKSENPRESSUREMS5525DSO)

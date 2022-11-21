@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS331HH
 - Hex ID: SZKSENMOTIONLIS331HH
 - Name: Sensor_Motion : LIS331HH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LIS331HH/
 - Description: Sensor_Motion : LIS331HH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS331HH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS331HH)
 - Short Link: [http://oom.lt/SZKSENMOTIONLIS331HH](http://oom.lt/SZKSENMOTIONLIS331HH)

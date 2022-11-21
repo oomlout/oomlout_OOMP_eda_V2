@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-120
 - Hex ID: SZKRFFILLFCN12
 - Name: RF_Filter : LFCN-120
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-120/
 - Description: RF_Filter : LFCN-120
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-120](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-120)
 - Short Link: [http://oom.lt/SZKRFFILLFCN12](http://oom.lt/SZKRFFILLFCN12)

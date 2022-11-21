@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3906
 - Hex ID: SZKTRANSISTORBJT2N396
 - Name: Transistor_BJT : 2N3906
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2N3906/
 - Description: Transistor_BJT : 2N3906
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3906](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3906)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2N396](http://oom.lt/SZKTRANSISTORBJT2N396)

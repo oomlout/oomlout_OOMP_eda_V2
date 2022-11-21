@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP3545
 - Hex ID: SZKRELAYSOLIDSTATETLP3545
 - Name: Relay_SolidState : TLP3545
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP3545/
 - Description: Relay_SolidState : TLP3545
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP3545](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP3545)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATETLP3545](http://oom.lt/SZKRELAYSOLIDSTATETLP3545)

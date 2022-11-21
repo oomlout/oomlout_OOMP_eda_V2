@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-PZT3906
 - Hex ID: SZKTRANSISTORBJTPZT396
 - Name: Transistor_BJT : PZT3906
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PZT3906/
 - Description: Transistor_BJT : PZT3906
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PZT3906](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PZT3906)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPZT396](http://oom.lt/SZKTRANSISTORBJTPZT396)

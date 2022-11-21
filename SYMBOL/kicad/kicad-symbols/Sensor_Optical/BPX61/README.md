@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPX61
 - Hex ID: SZKSENOPTICALBPX61
 - Name: Sensor_Optical : BPX61
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPX61/
 - Description: Sensor_Optical : BPX61
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPX61](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPX61)
 - Short Link: [http://oom.lt/SZKSENOPTICALBPX61](http://oom.lt/SZKSENOPTICALBPX61)

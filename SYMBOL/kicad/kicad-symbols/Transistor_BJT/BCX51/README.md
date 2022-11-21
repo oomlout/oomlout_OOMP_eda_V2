@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCX51
 - Hex ID: SZKTRANSISTORBJTBCX51
 - Name: Transistor_BJT : BCX51
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BCX51/
 - Description: Transistor_BJT : BCX51
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCX51](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCX51)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBCX51](http://oom.lt/SZKTRANSISTORBJTBCX51)

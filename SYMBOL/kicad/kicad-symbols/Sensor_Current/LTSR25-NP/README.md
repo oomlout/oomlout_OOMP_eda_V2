@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-LTSR25-NP
 - Hex ID: SZKSENCURRENTLTSR25NP
 - Name: Sensor_Current : LTSR25-NP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/LTSR25-NP/
 - Description: Sensor_Current : LTSR25-NP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-LTSR25-NP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-LTSR25-NP)
 - Short Link: [http://oom.lt/SZKSENCURRENTLTSR25NP](http://oom.lt/SZKSENCURRENTLTSR25NP)

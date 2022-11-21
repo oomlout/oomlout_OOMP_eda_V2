@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1150
 - Hex ID: SZKRFFILHFCN115
 - Name: RF_Filter : HFCN-1150
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-1150/
 - Description: RF_Filter : HFCN-1150
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1150](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1150)
 - Short Link: [http://oom.lt/SZKRFFILHFCN115](http://oom.lt/SZKRFFILHFCN115)

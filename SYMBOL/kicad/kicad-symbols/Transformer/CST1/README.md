@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-CST1
 - Hex ID: SZKTRCST1
 - Name: Transformer : CST1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/CST1/
 - Description: Transformer : CST1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-CST1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-CST1)
 - Short Link: [http://oom.lt/SZKTRCST1](http://oom.lt/SZKTRCST1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TRANSF8
 - Hex ID: SZKTRTRANSF8
 - Name: Transformer : TRANSF8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TRANSF8/
 - Description: Transformer : TRANSF8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF8)
 - Short Link: [http://oom.lt/SZKTRTRANSF8](http://oom.lt/SZKTRTRANSF8)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GPS-LEA-M8S
 - Hex ID: SZKGPSLEAM8S
 - Name: RF_GPS : LEA-M8S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GPS/LEA-M8S/
 - Description: RF_GPS : LEA-M8S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-LEA-M8S](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-LEA-M8S)
 - Short Link: [http://oom.lt/SZKGPSLEAM8S](http://oom.lt/SZKGPSLEAM8S)

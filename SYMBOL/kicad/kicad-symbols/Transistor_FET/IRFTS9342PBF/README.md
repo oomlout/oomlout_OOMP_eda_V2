@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFTS9342PBF
 - Hex ID: SZKTRANSISTORFETIRFTS9342PBF
 - Name: Transistor_FET : IRFTS9342PBF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFTS9342PBF/
 - Description: Transistor_FET : IRFTS9342PBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFTS9342PBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFTS9342PBF)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRFTS9342PBF](http://oom.lt/SZKTRANSISTORFETIRFTS9342PBF)

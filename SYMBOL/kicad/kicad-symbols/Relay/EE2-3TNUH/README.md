@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-EE2-3TNUH
 - Hex ID: SZKRELAYEE23TNUH
 - Name: Relay : EE2-3TNUH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-3TNUH/
 - Description: Relay : EE2-3TNUH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-3TNUH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-3TNUH)
 - Short Link: [http://oom.lt/SZKRELAYEE23TNUH](http://oom.lt/SZKRELAYEE23TNUH)

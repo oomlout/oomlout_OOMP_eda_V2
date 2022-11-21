@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Touch-CY8CMBR3108
 - Hex ID: SZKSENTOUCHCY8CMBR318
 - Name: Sensor_Touch : CY8CMBR3108
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Touch/CY8CMBR3108/
 - Description: Sensor_Touch : CY8CMBR3108
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-CY8CMBR3108](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-CY8CMBR3108)
 - Short Link: [http://oom.lt/SZKSENTOUCHCY8CMBR318](http://oom.lt/SZKSENTOUCHCY8CMBR318)

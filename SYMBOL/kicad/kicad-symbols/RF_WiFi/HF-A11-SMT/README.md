@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_WiFi-HF-A11-SMT
 - Hex ID: SZKRFHFA11S
 - Name: RF_WiFi : HF-A11-SMT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_WiFi/HF-A11-SMT/
 - Description: RF_WiFi : HF-A11-SMT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_WiFi-HF-A11-SMT](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_WiFi-HF-A11-SMT)
 - Short Link: [http://oom.lt/SZKRFHFA11S](http://oom.lt/SZKRFHFA11S)

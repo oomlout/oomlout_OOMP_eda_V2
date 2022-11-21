@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC109
 - Hex ID: SZKTRANSISTORBJTBC19
 - Name: Transistor_BJT : BC109
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC109/
 - Description: Transistor_BJT : BC109
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC109](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC109)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC19](http://oom.lt/SZKTRANSISTORBJTBC19)

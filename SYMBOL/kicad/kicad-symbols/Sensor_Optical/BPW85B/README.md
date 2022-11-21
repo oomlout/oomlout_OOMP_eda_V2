@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW85B
 - Hex ID: SZKSENOPTICALBPW85B
 - Name: Sensor_Optical : BPW85B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW85B/
 - Description: Sensor_Optical : BPW85B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW85B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW85B)
 - Short Link: [http://oom.lt/SZKSENOPTICALBPW85B](http://oom.lt/SZKSENOPTICALBPW85B)

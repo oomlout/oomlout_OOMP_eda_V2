@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-M9960
 - Hex ID: SZKSENOPTICALM996
 - Name: Sensor_Optical : M9960
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/M9960/
 - Description: Sensor_Optical : M9960
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-M9960](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-M9960)
 - Short Link: [http://oom.lt/SZKSENOPTICALM996](http://oom.lt/SZKSENOPTICALM996)

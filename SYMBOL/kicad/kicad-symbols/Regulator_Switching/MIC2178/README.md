@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC2178
 - Hex ID: SZKREGULATORSWINGMIC2178
 - Name: Regulator_Switching : MIC2178
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MIC2178/
 - Description: Regulator_Switching : MIC2178
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC2178](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC2178)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMIC2178](http://oom.lt/SZKREGULATORSWINGMIC2178)

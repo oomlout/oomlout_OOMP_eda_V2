@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP210PFI
 - Hex ID: SZKREGULATORSWINGTOP21PFI
 - Name: Regulator_Switching : TOP210PFI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TOP210PFI/
 - Description: Regulator_Switching : TOP210PFI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP210PFI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP210PFI)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTOP21PFI](http://oom.lt/SZKREGULATORSWINGTOP21PFI)

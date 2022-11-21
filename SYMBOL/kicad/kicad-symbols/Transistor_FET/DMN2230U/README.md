@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2230U
 - Hex ID: SZKTRANSISTORFETDMN223U
 - Name: Transistor_FET : DMN2230U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN2230U/
 - Description: Transistor_FET : DMN2230U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2230U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2230U)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN223U](http://oom.lt/SZKTRANSISTORFETDMN223U)

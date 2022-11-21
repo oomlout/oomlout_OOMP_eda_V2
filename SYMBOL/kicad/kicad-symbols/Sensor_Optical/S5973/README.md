@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-S5973
 - Hex ID: SZKSENOPTICALS5973
 - Name: Sensor_Optical : S5973
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/S5973/
 - Description: Sensor_Optical : S5973
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-S5973](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-S5973)
 - Short Link: [http://oom.lt/SZKSENOPTICALS5973](http://oom.lt/SZKSENOPTICALS5973)

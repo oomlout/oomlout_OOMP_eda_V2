@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC559
 - Hex ID: SZKTRANSISTORBJTBC559
 - Name: Transistor_BJT : BC559
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC559/
 - Description: Transistor_BJT : BC559
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC559](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC559)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC559](http://oom.lt/SZKTRANSISTORBJTBC559)

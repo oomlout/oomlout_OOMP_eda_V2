@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD18537NQ5A
 - Hex ID: SZKTRANSISTORFETCSD18537NQ5A
 - Name: Transistor_FET : CSD18537NQ5A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD18537NQ5A/
 - Description: Transistor_FET : CSD18537NQ5A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD18537NQ5A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD18537NQ5A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETCSD18537NQ5A](http://oom.lt/SZKTRANSISTORFETCSD18537NQ5A)

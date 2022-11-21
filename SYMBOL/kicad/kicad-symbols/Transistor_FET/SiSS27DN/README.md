@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-SiSS27DN
 - Hex ID: SZKTRANSISTORFETSISS27DN
 - Name: Transistor_FET : SiSS27DN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/SiSS27DN/
 - Description: Transistor_FET : SiSS27DN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SiSS27DN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SiSS27DN)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSISS27DN](http://oom.lt/SZKTRANSISTORFETSISS27DN)

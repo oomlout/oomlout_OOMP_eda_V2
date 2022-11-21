@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-TEA5115
 - Hex ID: SZKVIDEOTEA5115
 - Name: Video : TEA5115
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/TEA5115/
 - Description: Video : TEA5115
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TEA5115](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TEA5115)
 - Short Link: [http://oom.lt/SZKVIDEOTEA5115](http://oom.lt/SZKVIDEOTEA5115)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-STB40N60M2
 - Hex ID: SZKTRANSISTORFETSTB4N6M2
 - Name: Transistor_FET : STB40N60M2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/STB40N60M2/
 - Description: Transistor_FET : STB40N60M2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-STB40N60M2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-STB40N60M2)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSTB4N6M2](http://oom.lt/SZKTRANSISTORFETSTB4N6M2)

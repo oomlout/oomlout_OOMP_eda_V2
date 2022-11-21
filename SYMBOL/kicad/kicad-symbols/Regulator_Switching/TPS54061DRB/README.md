@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54061DRB
 - Hex ID: SZKREGULATORSWINGTPS5461DRB
 - Name: Regulator_Switching : TPS54061DRB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS54061DRB/
 - Description: Regulator_Switching : TPS54061DRB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54061DRB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54061DRB)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS5461DRB](http://oom.lt/SZKREGULATORSWINGTPS5461DRB)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF9383M
 - Hex ID: SZKTRANSISTORFETIRF9383M
 - Name: Transistor_FET : IRF9383M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF9383M/
 - Description: Transistor_FET : IRF9383M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF9383M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF9383M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF9383M](http://oom.lt/SZKTRANSISTORFETIRF9383M)

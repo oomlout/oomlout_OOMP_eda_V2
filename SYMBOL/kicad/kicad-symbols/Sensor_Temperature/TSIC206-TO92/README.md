@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TSIC206-TO92
 - Hex ID: SZKSENTEMPERATURETSIC26TO92
 - Name: Sensor_Temperature : TSIC206-TO92
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TSIC206-TO92/
 - Description: Sensor_Temperature : TSIC206-TO92
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TSIC206-TO92](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TSIC206-TO92)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETSIC26TO92](http://oom.lt/SZKSENTEMPERATURETSIC26TO92)

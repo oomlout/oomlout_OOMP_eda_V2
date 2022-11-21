@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-AO3400A
 - Hex ID: SZKTRANSISTORFETAO34A
 - Name: Transistor_FET : AO3400A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/AO3400A/
 - Description: Transistor_FET : AO3400A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-AO3400A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-AO3400A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETAO34A](http://oom.lt/SZKTRANSISTORFETAO34A)

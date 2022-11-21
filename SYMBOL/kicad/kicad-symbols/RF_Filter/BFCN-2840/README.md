@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-2840
 - Hex ID: SZKRFFILBFCN284
 - Name: RF_Filter : BFCN-2840
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-2840/
 - Description: RF_Filter : BFCN-2840
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-2840](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-2840)
 - Short Link: [http://oom.lt/SZKRFFILBFCN284](http://oom.lt/SZKRFFILBFCN284)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Gas-004-0-0050
 - Hex ID: SZKSENGAS45
 - Name: Sensor_Gas : 004-0-0050
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Gas/004-0-0050/
 - Description: Sensor_Gas : 004-0-0050
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-004-0-0050](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-004-0-0050)
 - Short Link: [http://oom.lt/SZKSENGAS45](http://oom.lt/SZKSENGAS45)

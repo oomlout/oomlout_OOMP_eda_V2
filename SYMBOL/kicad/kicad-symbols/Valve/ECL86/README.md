@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Valve-ECL86
 - Hex ID: SZKVAECL86
 - Name: Valve : ECL86
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/ECL86/
 - Description: Valve : ECL86
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECL86](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECL86)
 - Short Link: [http://oom.lt/SZKVAECL86](http://oom.lt/SZKVAECL86)

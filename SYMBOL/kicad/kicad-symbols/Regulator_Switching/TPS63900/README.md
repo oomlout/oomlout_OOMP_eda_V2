@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63900
 - Hex ID: SZKREGULATORSWINGTPS639
 - Name: Regulator_Switching : TPS63900
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS63900/
 - Description: Regulator_Switching : TPS63900
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63900](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63900)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS639](http://oom.lt/SZKREGULATORSWINGTPS639)

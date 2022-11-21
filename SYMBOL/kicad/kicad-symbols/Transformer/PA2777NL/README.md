@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PA2777NL
 - Hex ID: SZKTRPA2777NL
 - Name: Transformer : PA2777NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PA2777NL/
 - Description: Transformer : PA2777NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA2777NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA2777NL)
 - Short Link: [http://oom.lt/SZKTRPA2777NL](http://oom.lt/SZKTRPA2777NL)

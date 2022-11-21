@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16408Q5
 - Hex ID: SZKTRANSISTORFETCSD1648Q5
 - Name: Transistor_FET : CSD16408Q5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD16408Q5/
 - Description: Transistor_FET : CSD16408Q5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16408Q5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16408Q5)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETCSD1648Q5](http://oom.lt/SZKTRANSISTORFETCSD1648Q5)

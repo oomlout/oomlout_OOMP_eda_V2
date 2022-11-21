@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-MAX2679
 - Hex ID: SZKRFAMPLIFIERMAX2679
 - Name: RF_Amplifier : MAX2679
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/MAX2679/
 - Description: RF_Amplifier : MAX2679
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-MAX2679](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-MAX2679)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERMAX2679](http://oom.lt/SZKRFAMPLIFIERMAX2679)

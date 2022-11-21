@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS9926A
 - Hex ID: SZKTRANSISTORFETFDS9926A
 - Name: Transistor_FET : FDS9926A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS9926A/
 - Description: Transistor_FET : FDS9926A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS9926A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS9926A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS9926A](http://oom.lt/SZKTRANSISTORFETFDS9926A)

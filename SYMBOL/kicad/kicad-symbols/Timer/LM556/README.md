@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-LM556
 - Hex ID: SZKTIMERLM556
 - Name: Timer : LM556
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/LM556/
 - Description: Timer : LM556
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LM556](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LM556)
 - Short Link: [http://oom.lt/SZKTIMERLM556](http://oom.lt/SZKTIMERLM556)

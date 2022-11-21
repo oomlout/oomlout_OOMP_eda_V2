@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-LA55-P
 - Hex ID: SZKSENCURRENTLA55P
 - Name: Sensor_Current : LA55-P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/LA55-P/
 - Description: Sensor_Current : LA55-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-LA55-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-LA55-P)
 - Short Link: [http://oom.lt/SZKSENCURRENTLA55P](http://oom.lt/SZKSENCURRENTLA55P)

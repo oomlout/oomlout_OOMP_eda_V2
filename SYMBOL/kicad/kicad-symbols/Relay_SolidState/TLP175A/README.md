@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP175A
 - Hex ID: SZKRELAYSOLIDSTATETLP175A
 - Name: Relay_SolidState : TLP175A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP175A/
 - Description: Relay_SolidState : TLP175A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP175A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP175A)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATETLP175A](http://oom.lt/SZKRELAYSOLIDSTATETLP175A)

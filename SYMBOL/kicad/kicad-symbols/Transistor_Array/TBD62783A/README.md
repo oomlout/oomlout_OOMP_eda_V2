@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-TBD62783A
 - Hex ID: SZKTRANSISTORARRAYTBD62783A
 - Name: Transistor_Array : TBD62783A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Array/TBD62783A/
 - Description: Transistor_Array : TBD62783A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-TBD62783A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-TBD62783A)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYTBD62783A](http://oom.lt/SZKTRANSISTORARRAYTBD62783A)

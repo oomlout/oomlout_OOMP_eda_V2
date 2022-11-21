@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-2750
 - Hex ID: SZKRFFILLFCN275
 - Name: RF_Filter : LFCN-2750
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-2750/
 - Description: RF_Filter : LFCN-2750
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-2750](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-2750)
 - Short Link: [http://oom.lt/SZKRFFILLFCN275](http://oom.lt/SZKRFFILLFCN275)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE1S0305MC
 - Hex ID: SZKREGULATORSWINGNXE1S35MC
 - Name: Regulator_Switching : NXE1S0305MC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NXE1S0305MC/
 - Description: Regulator_Switching : NXE1S0305MC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE1S0305MC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE1S0305MC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGNXE1S35MC](http://oom.lt/SZKREGULATORSWINGNXE1S35MC)

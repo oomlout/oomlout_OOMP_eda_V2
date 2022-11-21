@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-1860
 - Hex ID: SZKRFFILBFCN186
 - Name: RF_Filter : BFCN-1860
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-1860/
 - Description: RF_Filter : BFCN-1860
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-1860](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-1860)
 - Short Link: [http://oom.lt/SZKRFFILBFCN186](http://oom.lt/SZKRFFILBFCN186)

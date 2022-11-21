@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM05
 - Hex ID: SZKRELAYIM5
 - Name: Relay : IM05
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM05/
 - Description: Relay : IM05
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM05](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM05)
 - Short Link: [http://oom.lt/SZKRELAYIM5](http://oom.lt/SZKRELAYIM5)

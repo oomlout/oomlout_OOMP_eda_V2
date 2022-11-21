@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRRANDOM
 - Hex ID: SZKSIMULATIONSPICEVTRRANDOM
 - Name: Simulation_SPICE : VTRRANDOM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRRANDOM/
 - Description: Simulation_SPICE : VTRRANDOM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRRANDOM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRRANDOM)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVTRRANDOM](http://oom.lt/SZKSIMULATIONSPICEVTRRANDOM)

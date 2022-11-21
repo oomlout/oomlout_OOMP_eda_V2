@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP204YAI
 - Hex ID: SZKREGULATORSWINGTOP24YAI
 - Name: Regulator_Switching : TOP204YAI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TOP204YAI/
 - Description: Regulator_Switching : TOP204YAI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP204YAI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP204YAI)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTOP24YAI](http://oom.lt/SZKREGULATORSWINGTOP24YAI)

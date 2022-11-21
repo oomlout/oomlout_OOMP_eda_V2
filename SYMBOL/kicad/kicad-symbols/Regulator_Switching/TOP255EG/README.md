@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP255EG
 - Hex ID: SZKREGULATORSWINGTOP255EG
 - Name: Regulator_Switching : TOP255EG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TOP255EG/
 - Description: Regulator_Switching : TOP255EG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP255EG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP255EG)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTOP255EG](http://oom.lt/SZKREGULATORSWINGTOP255EG)

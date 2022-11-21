@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCP56
 - Hex ID: SZKTRANSISTORBJTBCP56
 - Name: Transistor_BJT : BCP56
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BCP56/
 - Description: Transistor_BJT : BCP56
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCP56](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCP56)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBCP56](http://oom.lt/SZKTRANSISTORBJTBCP56)

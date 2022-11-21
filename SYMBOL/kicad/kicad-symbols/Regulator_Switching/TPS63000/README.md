@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63000
 - Hex ID: SZKREGULATORSWINGTPS63
 - Name: Regulator_Switching : TPS63000
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS63000/
 - Description: Regulator_Switching : TPS63000
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63000](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63000)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS63](http://oom.lt/SZKREGULATORSWINGTPS63)

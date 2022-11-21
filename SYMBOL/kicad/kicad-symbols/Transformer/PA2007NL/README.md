@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PA2007NL
 - Hex ID: SZKTRPA27NL
 - Name: Transformer : PA2007NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PA2007NL/
 - Description: Transformer : PA2007NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA2007NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA2007NL)
 - Short Link: [http://oom.lt/SZKTRPA27NL](http://oom.lt/SZKTRPA27NL)

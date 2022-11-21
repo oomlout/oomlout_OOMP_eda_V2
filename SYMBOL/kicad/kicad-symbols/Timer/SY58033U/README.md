@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-SY58033U
 - Hex ID: SZKTIMERSY5833U
 - Name: Timer : SY58033U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/SY58033U/
 - Description: Timer : SY58033U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SY58033U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SY58033U)
 - Short Link: [http://oom.lt/SZKTIMERSY5833U](http://oom.lt/SZKTIMERSY5833U)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IPT020N10N3
 - Hex ID: SZKTRANSISTORFETIPT2N1N3
 - Name: Transistor_FET : IPT020N10N3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPT020N10N3/
 - Description: Transistor_FET : IPT020N10N3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPT020N10N3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPT020N10N3)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIPT2N1N3](http://oom.lt/SZKTRANSISTORFETIPT2N1N3)

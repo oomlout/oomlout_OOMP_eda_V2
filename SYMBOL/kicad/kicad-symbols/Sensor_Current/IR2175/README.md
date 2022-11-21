@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-IR2175
 - Hex ID: SZKSENCURRENTIR2175
 - Name: Sensor_Current : IR2175
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/IR2175/
 - Description: Sensor_Current : IR2175
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-IR2175](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-IR2175)
 - Short Link: [http://oom.lt/SZKSENCURRENTIR2175](http://oom.lt/SZKSENCURRENTIR2175)

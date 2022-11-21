@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SB817
 - Hex ID: SZKTRANSISTORBJT2SB817
 - Name: Transistor_BJT : 2SB817
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SB817/
 - Description: Transistor_BJT : 2SB817
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SB817](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SB817)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2SB817](http://oom.lt/SZKTRANSISTORBJT2SB817)

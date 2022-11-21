@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Security-ATECC608A-MAHDA
 - Hex ID: SZKSECURITYATECC68AMAHDA
 - Name: Security : ATECC608A-MAHDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Security/ATECC608A-MAHDA/
 - Description: Security : ATECC608A-MAHDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Security-ATECC608A-MAHDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Security-ATECC608A-MAHDA)
 - Short Link: [http://oom.lt/SZKSECURITYATECC68AMAHDA](http://oom.lt/SZKSECURITYATECC68AMAHDA)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-105
 - Hex ID: SZKRFFILLFCN15
 - Name: RF_Filter : LFCN-105
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-105/
 - Description: RF_Filter : LFCN-105
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-105](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-105)
 - Short Link: [http://oom.lt/SZKRFFILLFCN15](http://oom.lt/SZKRFFILLFCN15)

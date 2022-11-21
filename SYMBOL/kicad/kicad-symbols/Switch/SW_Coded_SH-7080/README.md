@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7080
 - Hex ID: SZKSWSWCODEDSH78
 - Name: Switch : SW_Coded_SH-7080
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Coded_SH-7080/
 - Description: Switch : SW_Coded_SH-7080
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7080](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7080)
 - Short Link: [http://oom.lt/SZKSWSWCODEDSH78](http://oom.lt/SZKSWSWCODEDSH78)

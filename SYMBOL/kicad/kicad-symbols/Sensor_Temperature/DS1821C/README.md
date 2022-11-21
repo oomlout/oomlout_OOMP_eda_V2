@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1821C
 - Hex ID: SZKSENTEMPERATUREDS1821C
 - Name: Sensor_Temperature : DS1821C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS1821C/
 - Description: Sensor_Temperature : DS1821C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1821C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1821C)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREDS1821C](http://oom.lt/SZKSENTEMPERATUREDS1821C)

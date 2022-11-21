@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-650
 - Hex ID: SZKRFFILHFCN65
 - Name: RF_Filter : HFCN-650
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-650/
 - Description: RF_Filter : HFCN-650
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-650](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-650)
 - Short Link: [http://oom.lt/SZKRFFILHFCN65](http://oom.lt/SZKRFFILHFCN65)

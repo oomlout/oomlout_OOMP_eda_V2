@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-PMN48XP
 - Hex ID: SZKTRANSISTORFETPMN48XP
 - Name: Transistor_FET : PMN48XP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/PMN48XP/
 - Description: Transistor_FET : PMN48XP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-PMN48XP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-PMN48XP)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETPMN48XP](http://oom.lt/SZKTRANSISTORFETPMN48XP)

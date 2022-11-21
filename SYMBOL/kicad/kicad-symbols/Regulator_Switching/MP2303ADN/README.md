@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP2303ADN
 - Hex ID: SZKREGULATORSWINGMP233ADN
 - Name: Regulator_Switching : MP2303ADN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MP2303ADN/
 - Description: Regulator_Switching : MP2303ADN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP2303ADN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP2303ADN)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMP233ADN](http://oom.lt/SZKREGULATORSWINGMP233ADN)

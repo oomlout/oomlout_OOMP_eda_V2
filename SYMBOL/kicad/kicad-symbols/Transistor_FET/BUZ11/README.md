@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BUZ11
 - Hex ID: SZKTRANSISTORFETBUZ11
 - Name: Transistor_FET : BUZ11
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUZ11/
 - Description: Transistor_FET : BUZ11
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUZ11](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUZ11)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBUZ11](http://oom.lt/SZKTRANSISTORFETBUZ11)

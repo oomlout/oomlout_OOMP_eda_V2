@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Valve-STABI
 - Hex ID: SZKVASTABI
 - Name: Valve : STABI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/STABI/
 - Description: Valve : STABI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-STABI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-STABI)
 - Short Link: [http://oom.lt/SZKVASTABI](http://oom.lt/SZKVASTABI)

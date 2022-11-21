@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-1211
 - Hex ID: SZKREGULATORSWINGTMR11211
 - Name: Regulator_Switching : TMR_1-1211
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TMR_1-1211/
 - Description: Regulator_Switching : TMR_1-1211
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-1211](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-1211)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTMR11211](http://oom.lt/SZKREGULATORSWINGTMR11211)

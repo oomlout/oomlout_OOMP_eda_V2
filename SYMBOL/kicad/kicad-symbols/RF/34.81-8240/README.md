@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-34.81-8240
 - Hex ID: SZKRF3481824
 - Name: RF : 34.81-8240
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/34.81-8240/
 - Description: RF : 34.81-8240
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-34.81-8240](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-34.81-8240)
 - Short Link: [http://oom.lt/SZKRF3481824](http://oom.lt/SZKRF3481824)

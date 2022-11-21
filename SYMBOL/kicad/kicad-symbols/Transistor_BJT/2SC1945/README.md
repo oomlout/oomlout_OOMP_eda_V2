@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1945
 - Hex ID: SZKTRANSISTORBJT2SC1945
 - Name: Transistor_BJT : 2SC1945
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SC1945/
 - Description: Transistor_BJT : 2SC1945
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1945](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1945)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2SC1945](http://oom.lt/SZKTRANSISTORBJT2SC1945)

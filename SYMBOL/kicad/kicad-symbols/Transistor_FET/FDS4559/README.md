@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS4559
 - Hex ID: SZKTRANSISTORFETFDS4559
 - Name: Transistor_FET : FDS4559
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS4559/
 - Description: Transistor_FET : FDS4559
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS4559](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS4559)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS4559](http://oom.lt/SZKTRANSISTORFETFDS4559)

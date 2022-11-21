@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Humidity-SHT35-DIS
 - Hex ID: SZKSENHUMIDITYSHT35DIS
 - Name: Sensor_Humidity : SHT35-DIS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHT35-DIS/
 - Description: Sensor_Humidity : SHT35-DIS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-SHT35-DIS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-SHT35-DIS)
 - Short Link: [http://oom.lt/SZKSENHUMIDITYSHT35DIS](http://oom.lt/SZKSENHUMIDITYSHT35DIS)

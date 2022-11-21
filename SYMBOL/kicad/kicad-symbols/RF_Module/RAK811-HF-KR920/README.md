@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-KR920
 - Hex ID: SZKRFMORAK811HFKR92
 - Name: RF_Module : RAK811-HF-KR920
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/RAK811-HF-KR920/
 - Description: RF_Module : RAK811-HF-KR920
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-KR920](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-KR920)
 - Short Link: [http://oom.lt/SZKRFMORAK811HFKR92](http://oom.lt/SZKRFMORAK811HFKR92)

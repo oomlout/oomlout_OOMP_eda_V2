@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS565208
 - Hex ID: SZKREGULATORSWINGTPS56528
 - Name: Regulator_Switching : TPS565208
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS565208/
 - Description: Regulator_Switching : TPS565208
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS565208](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS565208)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS56528](http://oom.lt/SZKREGULATORSWINGTPS56528)

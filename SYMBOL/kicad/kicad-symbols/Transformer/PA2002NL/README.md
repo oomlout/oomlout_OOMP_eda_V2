@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PA2002NL
 - Hex ID: SZKTRPA22NL
 - Name: Transformer : PA2002NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PA2002NL/
 - Description: Transformer : PA2002NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA2002NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA2002NL)
 - Short Link: [http://oom.lt/SZKTRPA22NL](http://oom.lt/SZKTRPA22NL)

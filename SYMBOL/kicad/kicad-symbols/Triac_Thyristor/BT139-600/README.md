@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT139-600
 - Hex ID: SZKTRIACTHYRISTORBT1396
 - Name: Triac_Thyristor : BT139-600
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BT139-600/
 - Description: Triac_Thyristor : BT139-600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT139-600](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT139-600)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORBT1396](http://oom.lt/SZKTRIACTHYRISTORBT1396)

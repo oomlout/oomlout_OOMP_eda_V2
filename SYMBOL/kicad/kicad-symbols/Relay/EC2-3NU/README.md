@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-EC2-3NU
 - Hex ID: SZKRELAYEC23NU
 - Name: Relay : EC2-3NU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EC2-3NU/
 - Description: Relay : EC2-3NU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EC2-3NU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EC2-3NU)
 - Short Link: [http://oom.lt/SZKRELAYEC23NU](http://oom.lt/SZKRELAYEC23NU)

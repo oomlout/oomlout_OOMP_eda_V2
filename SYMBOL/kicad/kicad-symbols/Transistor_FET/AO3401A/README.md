@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-AO3401A
 - Hex ID: SZKTRANSISTORFETAO341A
 - Name: Transistor_FET : AO3401A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/AO3401A/
 - Description: Transistor_FET : AO3401A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-AO3401A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-AO3401A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETAO341A](http://oom.lt/SZKTRANSISTORFETAO341A)

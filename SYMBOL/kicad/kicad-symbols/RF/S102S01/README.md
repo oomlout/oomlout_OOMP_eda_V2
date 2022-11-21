@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-S102S01
 - Hex ID: SZKRFS12S1
 - Name: RF : S102S01
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/S102S01/
 - Description: RF : S102S01
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-S102S01](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-S102S01)
 - Short Link: [http://oom.lt/SZKRFS12S1](http://oom.lt/SZKRFS12S1)

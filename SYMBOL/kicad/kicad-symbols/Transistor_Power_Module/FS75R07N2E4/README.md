@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FS75R07N2E4
 - Hex ID: SZKTRANSISTORPOWERMOFS75R7N2E4
 - Name: Transistor_Power_Module : FS75R07N2E4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FS75R07N2E4/
 - Description: Transistor_Power_Module : FS75R07N2E4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FS75R07N2E4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FS75R07N2E4)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOFS75R7N2E4](http://oom.lt/SZKTRANSISTORPOWERMOFS75R7N2E4)

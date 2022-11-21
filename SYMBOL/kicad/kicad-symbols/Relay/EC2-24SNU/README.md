@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-EC2-24SNU
 - Hex ID: SZKRELAYEC224SNU
 - Name: Relay : EC2-24SNU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EC2-24SNU/
 - Description: Relay : EC2-24SNU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EC2-24SNU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EC2-24SNU)
 - Short Link: [http://oom.lt/SZKRELAYEC224SNU](http://oom.lt/SZKRELAYEC224SNU)

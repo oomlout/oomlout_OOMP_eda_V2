@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0110NN
 - Hex ID: SZKTRIACTHYRISTORZ11NN
 - Name: Triac_Thyristor : Z0110NN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/Z0110NN/
 - Description: Triac_Thyristor : Z0110NN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0110NN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0110NN)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORZ11NN](http://oom.lt/SZKTRIACTHYRISTORZ11NN)

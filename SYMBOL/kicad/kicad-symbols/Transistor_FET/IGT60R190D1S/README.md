@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R190D1S
 - Hex ID: SZKTRANSISTORFETIGT6R19D1S
 - Name: Transistor_FET : IGT60R190D1S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IGT60R190D1S/
 - Description: Transistor_FET : IGT60R190D1S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R190D1S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R190D1S)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIGT6R19D1S](http://oom.lt/SZKTRANSISTORFETIGT6R19D1S)

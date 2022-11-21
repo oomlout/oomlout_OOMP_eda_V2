@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS722xMATR-20AB
 - Hex ID: SZKSENCURRENTACS722XMATR2AB
 - Name: Sensor_Current : ACS722xMATR-20AB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS722xMATR-20AB/
 - Description: Sensor_Current : ACS722xMATR-20AB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS722xMATR-20AB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS722xMATR-20AB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS722XMATR2AB](http://oom.lt/SZKSENCURRENTACS722XMATR2AB)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-93
 - Hex ID: SZKRFAMPLIFIERGVA93
 - Name: RF_Amplifier : GVA-93
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/GVA-93/
 - Description: RF_Amplifier : GVA-93
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-93](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-93)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERGVA93](http://oom.lt/SZKRFAMPLIFIERGVA93)

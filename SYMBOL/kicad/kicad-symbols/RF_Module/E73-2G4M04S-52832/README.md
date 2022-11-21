@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-E73-2G4M04S-52832
 - Hex ID: SZKRFMOE732G4M4S52832
 - Name: RF_Module : E73-2G4M04S-52832
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/E73-2G4M04S-52832/
 - Description: RF_Module : E73-2G4M04S-52832
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-E73-2G4M04S-52832](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-E73-2G4M04S-52832)
 - Short Link: [http://oom.lt/SZKRFMOE732G4M4S52832](http://oom.lt/SZKRFMOE732G4M4S52832)

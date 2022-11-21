@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-107
 - Hex ID: SZKSENPROXIMITYSG17
 - Name: Sensor_Proximity : SG-107
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SG-107/
 - Description: Sensor_Proximity : SG-107
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-107](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-107)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYSG17](http://oom.lt/SZKSENPROXIMITYSG17)

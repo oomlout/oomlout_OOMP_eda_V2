@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT5401
 - Hex ID: SZKTRANSISTORBJTDT541
 - Name: Transistor_BJT : MMDT5401
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMDT5401/
 - Description: Transistor_BJT : MMDT5401
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT5401](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT5401)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDT541](http://oom.lt/SZKTRANSISTORBJTDT541)

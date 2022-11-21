@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M0280120D
 - Hex ID: SZKTRANSISTORFETC2M2812D
 - Name: Transistor_FET : C2M0280120D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/C2M0280120D/
 - Description: Transistor_FET : C2M0280120D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M0280120D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M0280120D)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETC2M2812D](http://oom.lt/SZKTRANSISTORFETC2M2812D)

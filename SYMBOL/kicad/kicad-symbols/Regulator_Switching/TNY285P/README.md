@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY285P
 - Hex ID: SZKREGULATORSWINGTNY285P
 - Name: Regulator_Switching : TNY285P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TNY285P/
 - Description: Regulator_Switching : TNY285P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY285P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY285P)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTNY285P](http://oom.lt/SZKREGULATORSWINGTNY285P)

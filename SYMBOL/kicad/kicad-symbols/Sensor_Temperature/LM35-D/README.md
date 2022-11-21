@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM35-D
 - Hex ID: SZKSENTEMPERATURELM35D
 - Name: Sensor_Temperature : LM35-D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM35-D/
 - Description: Sensor_Temperature : LM35-D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM35-D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM35-D)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURELM35D](http://oom.lt/SZKSENTEMPERATURELM35D)

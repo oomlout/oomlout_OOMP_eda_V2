@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_AM_FM-MCS3142
 - Hex ID: SZKRFAMFMMCS3142
 - Name: RF_AM_FM : MCS3142
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_AM_FM/MCS3142/
 - Description: RF_AM_FM : MCS3142
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-MCS3142](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-MCS3142)
 - Short Link: [http://oom.lt/SZKRFAMFMMCS3142](http://oom.lt/SZKRFAMFMMCS3142)

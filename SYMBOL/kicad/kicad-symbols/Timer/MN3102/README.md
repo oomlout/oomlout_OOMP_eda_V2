@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-MN3102
 - Hex ID: SZKTIMERMN312
 - Name: Timer : MN3102
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/MN3102/
 - Description: Timer : MN3102
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-MN3102](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-MN3102)
 - Short Link: [http://oom.lt/SZKTIMERMN312](http://oom.lt/SZKTIMERMN312)

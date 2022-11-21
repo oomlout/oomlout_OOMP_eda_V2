@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB056N10NN3
 - Hex ID: SZKTRANSISTORFETBSB56N1NN3
 - Name: Transistor_FET : BSB056N10NN3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSB056N10NN3/
 - Description: Transistor_FET : BSB056N10NN3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB056N10NN3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB056N10NN3)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSB56N1NN3](http://oom.lt/SZKTRANSISTORFETBSB56N1NN3)

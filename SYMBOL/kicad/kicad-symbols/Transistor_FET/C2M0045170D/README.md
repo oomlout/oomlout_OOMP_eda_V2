@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M0045170D
 - Hex ID: SZKTRANSISTORFETC2M4517D
 - Name: Transistor_FET : C2M0045170D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/C2M0045170D/
 - Description: Transistor_FET : C2M0045170D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M0045170D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M0045170D)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETC2M4517D](http://oom.lt/SZKTRANSISTORFETC2M4517D)

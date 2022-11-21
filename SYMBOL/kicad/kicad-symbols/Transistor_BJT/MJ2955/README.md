@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MJ2955
 - Hex ID: SZKTRANSISTORBJTMJ2955
 - Name: Transistor_BJT : MJ2955
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MJ2955/
 - Description: Transistor_BJT : MJ2955
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MJ2955](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MJ2955)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTMJ2955](http://oom.lt/SZKTRANSISTORBJTMJ2955)

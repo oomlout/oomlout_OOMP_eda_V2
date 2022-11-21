@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Humidity-ENS210
 - Hex ID: SZKSENHUMIDITYENS21
 - Name: Sensor_Humidity : ENS210
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/ENS210/
 - Description: Sensor_Humidity : ENS210
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-ENS210](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-ENS210)
 - Short Link: [http://oom.lt/SZKSENHUMIDITYENS21](http://oom.lt/SZKSENHUMIDITYENS21)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS138
 - Hex ID: SZKTRANSISTORFETBSS138
 - Name: Transistor_FET : BSS138
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSS138/
 - Description: Transistor_FET : BSS138
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS138](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS138)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSS138](http://oom.lt/SZKTRANSISTORFETBSS138)

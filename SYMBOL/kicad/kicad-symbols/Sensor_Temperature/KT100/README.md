@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KT100
 - Hex ID: SZKSENTEMPERATUREKT1
 - Name: Sensor_Temperature : KT100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/KT100/
 - Description: Sensor_Temperature : KT100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KT100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KT100)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREKT1](http://oom.lt/SZKSENTEMPERATUREKT1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY266P
 - Hex ID: SZKREGULATORSWINGTNY266P
 - Name: Regulator_Switching : TNY266P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TNY266P/
 - Description: Regulator_Switching : TNY266P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY266P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY266P)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTNY266P](http://oom.lt/SZKREGULATORSWINGTNY266P)

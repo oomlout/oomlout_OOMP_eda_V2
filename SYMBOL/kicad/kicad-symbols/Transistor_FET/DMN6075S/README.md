@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN6075S
 - Hex ID: SZKTRANSISTORFETDMN675S
 - Name: Transistor_FET : DMN6075S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN6075S/
 - Description: Transistor_FET : DMN6075S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN6075S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN6075S)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN675S](http://oom.lt/SZKTRANSISTORFETDMN675S)

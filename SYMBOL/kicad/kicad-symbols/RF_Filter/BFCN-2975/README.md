@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-2975
 - Hex ID: SZKRFFILBFCN2975
 - Name: RF_Filter : BFCN-2975
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-2975/
 - Description: RF_Filter : BFCN-2975
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-2975](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-2975)
 - Short Link: [http://oom.lt/SZKRFFILBFCN2975](http://oom.lt/SZKRFFILBFCN2975)

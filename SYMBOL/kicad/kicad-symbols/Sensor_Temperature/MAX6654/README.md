@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX6654
 - Hex ID: SZKSENTEMPERATUREMAX6654
 - Name: Sensor_Temperature : MAX6654
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX6654/
 - Description: Sensor_Temperature : MAX6654
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX6654](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX6654)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMAX6654](http://oom.lt/SZKSENTEMPERATUREMAX6654)

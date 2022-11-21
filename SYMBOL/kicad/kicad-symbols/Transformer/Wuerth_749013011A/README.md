@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-Wuerth_749013011A
 - Hex ID: SZKTRWUERTH7491311A
 - Name: Transformer : Wuerth_749013011A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_749013011A/
 - Description: Transformer : Wuerth_749013011A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-Wuerth_749013011A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-Wuerth_749013011A)
 - Short Link: [http://oom.lt/SZKTRWUERTH7491311A](http://oom.lt/SZKTRWUERTH7491311A)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-ESP-WROOM-02
 - Hex ID: SZKRFMOESPWROOM2
 - Name: RF_Module : ESP-WROOM-02
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/ESP-WROOM-02/
 - Description: RF_Module : ESP-WROOM-02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-ESP-WROOM-02](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-ESP-WROOM-02)
 - Short Link: [http://oom.lt/SZKRFMOESPWROOM2](http://oom.lt/SZKRFMOESPWROOM2)

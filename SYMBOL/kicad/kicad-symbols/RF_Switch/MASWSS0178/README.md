@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-MASWSS0178
 - Hex ID: SZKRFSWMASWSS178
 - Name: RF_Switch : MASWSS0178
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Switch/MASWSS0178/
 - Description: RF_Switch : MASWSS0178
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MASWSS0178](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MASWSS0178)
 - Short Link: [http://oom.lt/SZKRFSWMASWSS178](http://oom.lt/SZKRFSWMASWSS178)

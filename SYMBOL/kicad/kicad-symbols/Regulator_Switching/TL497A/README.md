@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TL497A
 - Hex ID: SZKREGULATORSWINGTL497A
 - Name: Regulator_Switching : TL497A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TL497A/
 - Description: Regulator_Switching : TL497A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TL497A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TL497A)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTL497A](http://oom.lt/SZKREGULATORSWINGTL497A)

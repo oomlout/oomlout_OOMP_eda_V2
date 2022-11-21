@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-4600
 - Hex ID: SZKRFFILHFCN46
 - Name: RF_Filter : HFCN-4600
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-4600/
 - Description: RF_Filter : HFCN-4600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-4600](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-4600)
 - Short Link: [http://oom.lt/SZKRFFILHFCN46](http://oom.lt/SZKRFFILHFCN46)

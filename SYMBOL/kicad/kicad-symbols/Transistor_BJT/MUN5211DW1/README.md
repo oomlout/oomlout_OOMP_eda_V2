@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MUN5211DW1
 - Hex ID: SZKTRANSISTORBJTMUN5211DW1
 - Name: Transistor_BJT : MUN5211DW1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MUN5211DW1/
 - Description: Transistor_BJT : MUN5211DW1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MUN5211DW1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MUN5211DW1)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTMUN5211DW1](http://oom.lt/SZKTRANSISTORBJTMUN5211DW1)

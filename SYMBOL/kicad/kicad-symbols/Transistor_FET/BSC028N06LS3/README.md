@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC028N06LS3
 - Hex ID: SZKTRANSISTORFETBSC28N6LS3
 - Name: Transistor_FET : BSC028N06LS3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC028N06LS3/
 - Description: Transistor_FET : BSC028N06LS3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC028N06LS3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC028N06LS3)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC28N6LS3](http://oom.lt/SZKTRANSISTORFETBSC28N6LS3)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2065
 - Hex ID: SZKSENCURRENTCQ265
 - Name: Sensor_Current : CQ-2065
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-2065/
 - Description: Sensor_Current : CQ-2065
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2065](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2065)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ265](http://oom.lt/SZKSENCURRENTCQ265)

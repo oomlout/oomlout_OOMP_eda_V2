@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH203
 - Hex ID: SZKSENOPTICALSFH23
 - Name: Sensor_Optical : SFH203
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH203/
 - Description: Sensor_Optical : SFH203
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH203](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH203)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH23](http://oom.lt/SZKSENOPTICALSFH23)

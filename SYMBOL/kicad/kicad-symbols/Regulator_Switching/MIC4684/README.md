@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC4684
 - Hex ID: SZKREGULATORSWINGMIC4684
 - Name: Regulator_Switching : MIC4684
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MIC4684/
 - Description: Regulator_Switching : MIC4684
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC4684](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC4684)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMIC4684](http://oom.lt/SZKREGULATORSWINGMIC4684)

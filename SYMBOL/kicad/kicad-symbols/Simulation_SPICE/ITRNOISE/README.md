@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ITRNOISE
 - Hex ID: SZKSIMULATIONSPICEITRNOISE
 - Name: Simulation_SPICE : ITRNOISE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/ITRNOISE/
 - Description: Simulation_SPICE : ITRNOISE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ITRNOISE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ITRNOISE)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEITRNOISE](http://oom.lt/SZKSIMULATIONSPICEITRNOISE)

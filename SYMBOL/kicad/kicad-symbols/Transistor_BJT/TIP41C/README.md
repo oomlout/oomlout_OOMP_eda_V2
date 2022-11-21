@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41C
 - Hex ID: SZKTRANSISTORBJTTIP41C
 - Name: Transistor_BJT : TIP41C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP41C/
 - Description: Transistor_BJT : TIP41C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41C)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP41C](http://oom.lt/SZKTRANSISTORBJTTIP41C)

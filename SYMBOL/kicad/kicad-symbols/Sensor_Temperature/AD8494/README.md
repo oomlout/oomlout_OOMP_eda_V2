@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-AD8494
 - Hex ID: SZKSENTEMPERATUREAD8494
 - Name: Sensor_Temperature : AD8494
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/AD8494/
 - Description: Sensor_Temperature : AD8494
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-AD8494](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-AD8494)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREAD8494](http://oom.lt/SZKSENTEMPERATUREAD8494)

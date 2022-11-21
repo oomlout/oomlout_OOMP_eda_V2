@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54202DDC
 - Hex ID: SZKREGULATORSWINGTPS5422DDC
 - Name: Regulator_Switching : TPS54202DDC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS54202DDC/
 - Description: Regulator_Switching : TPS54202DDC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54202DDC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54202DDC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS5422DDC](http://oom.lt/SZKREGULATORSWINGTPS5422DDC)

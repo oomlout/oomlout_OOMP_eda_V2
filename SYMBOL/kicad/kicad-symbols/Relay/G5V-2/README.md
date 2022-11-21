@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-G5V-2
 - Hex ID: SZKRELAYG5V2
 - Name: Relay : G5V-2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/G5V-2/
 - Description: Relay : G5V-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G5V-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G5V-2)
 - Short Link: [http://oom.lt/SZKRELAYG5V2](http://oom.lt/SZKRELAYG5V2)

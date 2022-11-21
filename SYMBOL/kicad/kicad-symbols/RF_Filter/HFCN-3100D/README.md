@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-3100D
 - Hex ID: SZKRFFILHFCN31D
 - Name: RF_Filter : HFCN-3100D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-3100D/
 - Description: RF_Filter : HFCN-3100D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-3100D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-3100D)
 - Short Link: [http://oom.lt/SZKRFFILHFCN31D](http://oom.lt/SZKRFFILHFCN31D)

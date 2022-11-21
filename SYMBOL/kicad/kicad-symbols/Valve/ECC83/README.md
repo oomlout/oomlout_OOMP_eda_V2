@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Valve-ECC83
 - Hex ID: SZKVAECC83
 - Name: Valve : ECC83
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/ECC83/
 - Description: Valve : ECC83
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECC83](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECC83)
 - Short Link: [http://oom.lt/SZKVAECC83](http://oom.lt/SZKVAECC83)

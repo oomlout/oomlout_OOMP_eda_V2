@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP102YN
 - Hex ID: SZKREGULATORSWINGTOP12YN
 - Name: Regulator_Switching : TOP102YN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TOP102YN/
 - Description: Regulator_Switching : TOP102YN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP102YN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP102YN)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTOP12YN](http://oom.lt/SZKREGULATORSWINGTOP12YN)

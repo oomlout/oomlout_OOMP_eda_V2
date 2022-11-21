@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BF457
 - Hex ID: SZKTRANSISTORBJTBF457
 - Name: Transistor_BJT : BF457
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BF457/
 - Description: Transistor_BJT : BF457
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BF457](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BF457)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBF457](http://oom.lt/SZKTRANSISTORBJTBF457)

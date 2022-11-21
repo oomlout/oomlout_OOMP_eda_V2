@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HX25-P-SP2
 - Hex ID: SZKSENCURRENTHX25PSP2
 - Name: Sensor_Current : HX25-P-SP2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/HX25-P-SP2/
 - Description: Sensor_Current : HX25-P-SP2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HX25-P-SP2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HX25-P-SP2)
 - Short Link: [http://oom.lt/SZKSENCURRENTHX25PSP2](http://oom.lt/SZKSENCURRENTHX25PSP2)

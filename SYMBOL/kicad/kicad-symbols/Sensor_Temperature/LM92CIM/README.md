@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM92CIM
 - Hex ID: SZKSENTEMPERATURELM92CIM
 - Name: Sensor_Temperature : LM92CIM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM92CIM/
 - Description: Sensor_Temperature : LM92CIM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM92CIM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM92CIM)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURELM92CIM](http://oom.lt/SZKSENTEMPERATURELM92CIM)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-MG1275W-XBN2MM
 - Hex ID: SZKTRANSISTORPOWERMOMG1275WXBN2
 - Name: Transistor_Power_Module : MG1275W-XBN2MM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/MG1275W-XBN2MM/
 - Description: Transistor_Power_Module : MG1275W-XBN2MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-MG1275W-XBN2MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-MG1275W-XBN2MM)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOMG1275WXBN2](http://oom.lt/SZKTRANSISTORPOWERMOMG1275WXBN2)

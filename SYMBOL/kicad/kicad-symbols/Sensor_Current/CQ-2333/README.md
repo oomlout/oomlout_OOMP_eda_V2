@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2333
 - Hex ID: SZKSENCURRENTCQ2333
 - Name: Sensor_Current : CQ-2333
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-2333/
 - Description: Sensor_Current : CQ-2333
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2333](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2333)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ2333](http://oom.lt/SZKSENCURRENTCQ2333)

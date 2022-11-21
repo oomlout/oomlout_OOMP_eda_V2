@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Mixer-LT5560
 - Hex ID: SZKRFMIXERLT556
 - Name: RF_Mixer : LT5560
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Mixer/LT5560/
 - Description: RF_Mixer : LT5560
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Mixer-LT5560](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Mixer-LT5560)
 - Short Link: [http://oom.lt/SZKRFMIXERLT556](http://oom.lt/SZKRFMIXERLT556)

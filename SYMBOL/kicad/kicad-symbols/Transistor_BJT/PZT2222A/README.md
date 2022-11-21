@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-PZT2222A
 - Hex ID: SZKTRANSISTORBJTPZT2222A
 - Name: Transistor_BJT : PZT2222A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PZT2222A/
 - Description: Transistor_BJT : PZT2222A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PZT2222A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PZT2222A)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPZT2222A](http://oom.lt/SZKTRANSISTORBJTPZT2222A)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-ADW11
 - Hex ID: SZKRELAYADW11
 - Name: Relay : ADW11
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/ADW11/
 - Description: Relay : ADW11
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-ADW11](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-ADW11)
 - Short Link: [http://oom.lt/SZKRELAYADW11](http://oom.lt/SZKRELAYADW11)

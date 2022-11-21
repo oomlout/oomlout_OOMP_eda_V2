@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IEXP
 - Hex ID: SZKSIMULATIONSPICEIEXP
 - Name: Simulation_SPICE : IEXP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IEXP/
 - Description: Simulation_SPICE : IEXP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IEXP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IEXP)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEIEXP](http://oom.lt/SZKSIMULATIONSPICEIEXP)

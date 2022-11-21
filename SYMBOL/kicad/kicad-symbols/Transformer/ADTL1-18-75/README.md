@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADTL1-18-75
 - Hex ID: SZKTRADTL11875
 - Name: Transformer : ADTL1-18-75
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADTL1-18-75/
 - Description: Transformer : ADTL1-18-75
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTL1-18-75](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTL1-18-75)
 - Short Link: [http://oom.lt/SZKTRADTL11875](http://oom.lt/SZKTRADTL11875)

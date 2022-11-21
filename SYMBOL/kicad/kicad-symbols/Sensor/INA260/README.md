@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor-INA260
 - Hex ID: SZKSENINA26
 - Name: Sensor : INA260
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor/INA260/
 - Description: Sensor : INA260
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-INA260](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-INA260)
 - Short Link: [http://oom.lt/SZKSENINA26](http://oom.lt/SZKSENINA26)

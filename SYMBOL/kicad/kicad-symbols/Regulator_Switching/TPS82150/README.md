@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS82150
 - Hex ID: SZKREGULATORSWINGTPS8215
 - Name: Regulator_Switching : TPS82150
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS82150/
 - Description: Regulator_Switching : TPS82150
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS82150](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS82150)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS8215](http://oom.lt/SZKREGULATORSWINGTPS8215)

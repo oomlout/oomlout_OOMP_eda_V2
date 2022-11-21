@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343
 - Hex ID: SZKSENMOTIONADXL343
 - Name: Sensor_Motion : ADXL343
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ADXL343/
 - Description: Sensor_Motion : ADXL343
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343)
 - Short Link: [http://oom.lt/SZKSENMOTIONADXL343](http://oom.lt/SZKSENMOTIONADXL343)

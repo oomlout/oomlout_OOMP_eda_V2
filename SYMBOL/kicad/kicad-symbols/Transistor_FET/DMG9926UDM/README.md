@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG9926UDM
 - Hex ID: SZKTRANSISTORFETDMG9926UDM
 - Name: Transistor_FET : DMG9926UDM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG9926UDM/
 - Description: Transistor_FET : DMG9926UDM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG9926UDM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG9926UDM)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMG9926UDM](http://oom.lt/SZKTRANSISTORFETDMG9926UDM)

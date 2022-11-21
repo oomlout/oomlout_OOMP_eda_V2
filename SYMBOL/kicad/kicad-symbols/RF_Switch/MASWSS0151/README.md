@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-MASWSS0151
 - Hex ID: SZKRFSWMASWSS151
 - Name: RF_Switch : MASWSS0151
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Switch/MASWSS0151/
 - Description: RF_Switch : MASWSS0151
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MASWSS0151](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MASWSS0151)
 - Short Link: [http://oom.lt/SZKRFSWMASWSS151](http://oom.lt/SZKRFSWMASWSS151)

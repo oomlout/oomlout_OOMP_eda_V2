@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-EE2-24NUX
 - Hex ID: SZKRELAYEE224NUX
 - Name: Relay : EE2-24NUX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-24NUX/
 - Description: Relay : EE2-24NUX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-24NUX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-24NUX)
 - Short Link: [http://oom.lt/SZKRELAYEE224NUX](http://oom.lt/SZKRELAYEE224NUX)

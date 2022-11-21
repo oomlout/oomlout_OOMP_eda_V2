@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSD235C
 - Hex ID: SZKTRANSISTORFETBSD235C
 - Name: Transistor_FET : BSD235C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSD235C/
 - Description: Transistor_FET : BSD235C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSD235C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSD235C)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSD235C](http://oom.lt/SZKTRANSISTORFETBSD235C)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC636
 - Hex ID: SZKTRANSISTORBJTBC636
 - Name: Transistor_BJT : BC636
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC636/
 - Description: Transistor_BJT : BC636
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC636](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC636)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC636](http://oom.lt/SZKTRANSISTORBJTBC636)

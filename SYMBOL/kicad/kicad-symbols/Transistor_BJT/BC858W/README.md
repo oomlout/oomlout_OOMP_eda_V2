@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC858W
 - Hex ID: SZKTRANSISTORBJTBC858W
 - Name: Transistor_BJT : BC858W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC858W/
 - Description: Transistor_BJT : BC858W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC858W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC858W)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC858W](http://oom.lt/SZKTRANSISTORBJTBC858W)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS759xCB-200B-PSS
 - Hex ID: SZKSENCURRENTACS759XCB2BPSS
 - Name: Sensor_Current : ACS759xCB-200B-PSS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS759xCB-200B-PSS/
 - Description: Sensor_Current : ACS759xCB-200B-PSS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS759xCB-200B-PSS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS759xCB-200B-PSS)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS759XCB2BPSS](http://oom.lt/SZKSENCURRENTACS759XCB2BPSS)

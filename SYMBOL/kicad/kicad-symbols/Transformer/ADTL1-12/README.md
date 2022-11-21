@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADTL1-12
 - Hex ID: SZKTRADTL112
 - Name: Transformer : ADTL1-12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADTL1-12/
 - Description: Transformer : ADTL1-12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTL1-12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTL1-12)
 - Short Link: [http://oom.lt/SZKTRADTL112](http://oom.lt/SZKTRADTL112)

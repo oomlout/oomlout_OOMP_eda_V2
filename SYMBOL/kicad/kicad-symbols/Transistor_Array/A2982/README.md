@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-A2982
 - Hex ID: SZKTRANSISTORARRAYA2982
 - Name: Transistor_Array : A2982
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Array/A2982/
 - Description: Transistor_Array : A2982
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-A2982](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-A2982)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYA2982](http://oom.lt/SZKTRANSISTORARRAYA2982)

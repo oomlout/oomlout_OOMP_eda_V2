@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-TR-72DAT
 - Hex ID: SZKRFMOTR72DAT
 - Name: RF_Module : TR-72DAT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/TR-72DAT/
 - Description: RF_Module : TR-72DAT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-TR-72DAT](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-TR-72DAT)
 - Short Link: [http://oom.lt/SZKRFMOTR72DAT](http://oom.lt/SZKRFMOTR72DAT)

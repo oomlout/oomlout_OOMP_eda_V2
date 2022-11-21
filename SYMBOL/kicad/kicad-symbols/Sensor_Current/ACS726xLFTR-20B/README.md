@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS726xLFTR-20B
 - Hex ID: SZKSENCURRENTACS726XLFTR2B
 - Name: Sensor_Current : ACS726xLFTR-20B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS726xLFTR-20B/
 - Description: Sensor_Current : ACS726xLFTR-20B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS726xLFTR-20B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS726xLFTR-20B)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS726XLFTR2B](http://oom.lt/SZKSENCURRENTACS726XLFTR2B)

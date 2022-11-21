@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-TLP222A
 - Hex ID: SZKRFTLP222A
 - Name: RF : TLP222A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/TLP222A/
 - Description: RF : TLP222A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP222A](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP222A)
 - Short Link: [http://oom.lt/SZKRFTLP222A](http://oom.lt/SZKRFTLP222A)

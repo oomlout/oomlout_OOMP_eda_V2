@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Bluetooth-BTM222
 - Hex ID: SZKRFBLUETOOTHBTM222
 - Name: RF_Bluetooth : BTM222
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Bluetooth/BTM222/
 - Description: RF_Bluetooth : BTM222
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-BTM222](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-BTM222)
 - Short Link: [http://oom.lt/SZKRFBLUETOOTHBTM222](http://oom.lt/SZKRFBLUETOOTHBTM222)

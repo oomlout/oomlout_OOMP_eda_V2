@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS706xLC-05C
 - Hex ID: SZKSENCURRENTACS76XLC5C
 - Name: Sensor_Current : ACS706xLC-05C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS706xLC-05C/
 - Description: Sensor_Current : ACS706xLC-05C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS706xLC-05C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS706xLC-05C)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS76XLC5C](http://oom.lt/SZKSENCURRENTACS76XLC5C)

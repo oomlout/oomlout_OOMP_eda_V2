@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-A1365xKTTN-2
 - Hex ID: SZKSENCURRENTA1365XKTTN2
 - Name: Sensor_Current : A1365xKTTN-2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/A1365xKTTN-2/
 - Description: Sensor_Current : A1365xKTTN-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-A1365xKTTN-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-A1365xKTTN-2)
 - Short Link: [http://oom.lt/SZKSENCURRENTA1365XKTTN2](http://oom.lt/SZKSENCURRENTA1365XKTTN2)

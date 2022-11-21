@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-AQH1223A
 - Hex ID: SZKRFAQH1223A
 - Name: RF : AQH1223A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/AQH1223A/
 - Description: RF : AQH1223A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-AQH1223A](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-AQH1223A)
 - Short Link: [http://oom.lt/SZKRFAQH1223A](http://oom.lt/SZKRFAQH1223A)

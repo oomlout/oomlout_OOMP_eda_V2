@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM08
 - Hex ID: SZKRELAYIM8
 - Name: Relay : IM08
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM08/
 - Description: Relay : IM08
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM08](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM08)
 - Short Link: [http://oom.lt/SZKRELAYIM8](http://oom.lt/SZKRELAYIM8)

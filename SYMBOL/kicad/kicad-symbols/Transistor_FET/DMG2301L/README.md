@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG2301L
 - Hex ID: SZKTRANSISTORFETDMG231L
 - Name: Transistor_FET : DMG2301L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG2301L/
 - Description: Transistor_FET : DMG2301L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG2301L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG2301L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMG231L](http://oom.lt/SZKTRANSISTORFETDMG231L)

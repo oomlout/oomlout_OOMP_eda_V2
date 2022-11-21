@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-Y14x-1C-xxDS
 - Hex ID: SZKRELAYY14X1CXXDS
 - Name: Relay : Y14x-1C-xxDS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/Y14x-1C-xxDS/
 - Description: Relay : Y14x-1C-xxDS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-Y14x-1C-xxDS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-Y14x-1C-xxDS)
 - Short Link: [http://oom.lt/SZKRELAYY14X1CXXDS](http://oom.lt/SZKRELAYY14X1CXXDS)

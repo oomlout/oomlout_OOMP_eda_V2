@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-ZVN3306F
 - Hex ID: SZKTRANSISTORFETZVN336F
 - Name: Transistor_FET : ZVN3306F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZVN3306F/
 - Description: Transistor_FET : ZVN3306F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZVN3306F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZVN3306F)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZVN336F](http://oom.lt/SZKTRANSISTORFETZVN336F)

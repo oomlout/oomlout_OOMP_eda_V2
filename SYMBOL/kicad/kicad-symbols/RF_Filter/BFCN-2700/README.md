@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-2700
 - Hex ID: SZKRFFILBFCN27
 - Name: RF_Filter : BFCN-2700
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-2700/
 - Description: RF_Filter : BFCN-2700
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-2700](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-2700)
 - Short Link: [http://oom.lt/SZKRFFILBFCN27](http://oom.lt/SZKRFFILBFCN27)

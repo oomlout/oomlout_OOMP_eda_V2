@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TR1-SO8
 - Hex ID: SZKTRTR1SO8
 - Name: Transformer : TR1-SO8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TR1-SO8/
 - Description: Transformer : TR1-SO8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TR1-SO8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TR1-SO8)
 - Short Link: [http://oom.lt/SZKTRTR1SO8](http://oom.lt/SZKTRTR1SO8)

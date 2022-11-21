@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPWL
 - Hex ID: SZKSIMULATIONSPICEVPWL
 - Name: Simulation_SPICE : VPWL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VPWL/
 - Description: Simulation_SPICE : VPWL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPWL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPWL)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVPWL](http://oom.lt/SZKSIMULATIONSPICEVPWL)

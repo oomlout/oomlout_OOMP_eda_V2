@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP3543
 - Hex ID: SZKRELAYSOLIDSTATETLP3543
 - Name: Relay_SolidState : TLP3543
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP3543/
 - Description: Relay_SolidState : TLP3543
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP3543](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP3543)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATETLP3543](http://oom.lt/SZKRELAYSOLIDSTATETLP3543)

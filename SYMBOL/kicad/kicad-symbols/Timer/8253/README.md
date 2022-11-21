@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-8253
 - Hex ID: SZKTIMER8253
 - Name: Timer : 8253
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/8253/
 - Description: Timer : 8253
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-8253](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-8253)
 - Short Link: [http://oom.lt/SZKTIMER8253](http://oom.lt/SZKTIMER8253)

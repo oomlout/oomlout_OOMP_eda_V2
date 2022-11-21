@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Bluetooth-MOD-nRF8001
 - Hex ID: SZKRFBLUETOOTHMODNRF81
 - Name: RF_Bluetooth : MOD-nRF8001
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Bluetooth/MOD-nRF8001/
 - Description: RF_Bluetooth : MOD-nRF8001
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-MOD-nRF8001](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-MOD-nRF8001)
 - Short Link: [http://oom.lt/SZKRFBLUETOOTHMODNRF81](http://oom.lt/SZKRFBLUETOOTHMODNRF81)

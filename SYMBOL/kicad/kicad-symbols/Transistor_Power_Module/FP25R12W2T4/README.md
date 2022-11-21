@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP25R12W2T4
 - Hex ID: SZKTRANSISTORPOWERMOFP25R12W2T4
 - Name: Transistor_Power_Module : FP25R12W2T4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP25R12W2T4/
 - Description: Transistor_Power_Module : FP25R12W2T4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP25R12W2T4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP25R12W2T4)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOFP25R12W2T4](http://oom.lt/SZKTRANSISTORPOWERMOFP25R12W2T4)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RN42
 - Hex ID: SZKRFBLUETOOTHRN42
 - Name: RF_Bluetooth : RN42
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Bluetooth/RN42/
 - Description: RF_Bluetooth : RN42
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RN42](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RN42)
 - Short Link: [http://oom.lt/SZKRFBLUETOOTHRN42](http://oom.lt/SZKRFBLUETOOTHRN42)

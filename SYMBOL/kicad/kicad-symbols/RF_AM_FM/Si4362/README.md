@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_AM_FM-Si4362
 - Hex ID: SZKRFAMFMSI4362
 - Name: RF_AM_FM : Si4362
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_AM_FM/Si4362/
 - Description: RF_AM_FM : Si4362
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-Si4362](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-Si4362)
 - Short Link: [http://oom.lt/SZKRFAMFMSI4362](http://oom.lt/SZKRFAMFMSI4362)

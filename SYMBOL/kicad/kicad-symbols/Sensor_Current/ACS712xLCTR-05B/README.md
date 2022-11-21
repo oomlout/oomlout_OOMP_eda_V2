@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS712xLCTR-05B
 - Hex ID: SZKSENCURRENTACS712XLCTR5B
 - Name: Sensor_Current : ACS712xLCTR-05B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS712xLCTR-05B/
 - Description: Sensor_Current : ACS712xLCTR-05B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS712xLCTR-05B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS712xLCTR-05B)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS712XLCTR5B](http://oom.lt/SZKSENCURRENTACS712XLCTR5B)

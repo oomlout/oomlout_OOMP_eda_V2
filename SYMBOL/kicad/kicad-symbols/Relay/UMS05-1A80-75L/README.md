@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-UMS05-1A80-75L
 - Hex ID: SZKRELAYUMS51A875L
 - Name: Relay : UMS05-1A80-75L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/UMS05-1A80-75L/
 - Description: Relay : UMS05-1A80-75L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-UMS05-1A80-75L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-UMS05-1A80-75L)
 - Short Link: [http://oom.lt/SZKRELAYUMS51A875L](http://oom.lt/SZKRELAYUMS51A875L)

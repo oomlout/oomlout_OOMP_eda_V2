@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_PLL-Si5344C-D
 - Hex ID: SZKTIMERPLLSI5344CD
 - Name: Timer_PLL : Si5344C-D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/Si5344C-D/
 - Description: Timer_PLL : Si5344C-D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-Si5344C-D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-Si5344C-D)
 - Short Link: [http://oom.lt/SZKTIMERPLLSI5344CD](http://oom.lt/SZKTIMERPLLSI5344CD)

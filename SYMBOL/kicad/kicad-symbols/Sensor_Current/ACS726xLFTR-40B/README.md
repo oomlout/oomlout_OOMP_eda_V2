@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS726xLFTR-40B
 - Hex ID: SZKSENCURRENTACS726XLFTR4B
 - Name: Sensor_Current : ACS726xLFTR-40B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS726xLFTR-40B/
 - Description: Sensor_Current : ACS726xLFTR-40B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS726xLFTR-40B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS726xLFTR-40B)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS726XLFTR4B](http://oom.lt/SZKSENCURRENTACS726XLFTR4B)

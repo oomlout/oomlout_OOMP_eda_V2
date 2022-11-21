@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-Si2371EDS
 - Hex ID: SZKTRANSISTORFETSI2371EDS
 - Name: Transistor_FET : Si2371EDS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si2371EDS/
 - Description: Transistor_FET : Si2371EDS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si2371EDS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si2371EDS)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSI2371EDS](http://oom.lt/SZKTRANSISTORFETSI2371EDS)

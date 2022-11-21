@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GPS-MAX-8C
 - Hex ID: SZKGPSMAX8C
 - Name: RF_GPS : MAX-8C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GPS/MAX-8C/
 - Description: RF_GPS : MAX-8C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-MAX-8C](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-MAX-8C)
 - Short Link: [http://oom.lt/SZKGPSMAX8C](http://oom.lt/SZKGPSMAX8C)

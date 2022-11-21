@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4321
 - Hex ID: SZKTRANSISTORFETIRFS4321
 - Name: Transistor_FET : IRFS4321
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFS4321/
 - Description: Transistor_FET : IRFS4321
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4321](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4321)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRFS4321](http://oom.lt/SZKTRANSISTORFETIRFS4321)

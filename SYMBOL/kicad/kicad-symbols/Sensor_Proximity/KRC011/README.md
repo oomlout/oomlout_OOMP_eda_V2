@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-KRC011
 - Hex ID: SZKSENPROXIMITYKRC11
 - Name: Sensor_Proximity : KRC011
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/KRC011/
 - Description: Sensor_Proximity : KRC011
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-KRC011](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-KRC011)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYKRC11](http://oom.lt/SZKSENPROXIMITYKRC11)

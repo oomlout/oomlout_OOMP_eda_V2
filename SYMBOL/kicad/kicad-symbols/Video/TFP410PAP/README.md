@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-TFP410PAP
 - Hex ID: SZKVIDEOTFP41PAP
 - Name: Video : TFP410PAP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/TFP410PAP/
 - Description: Video : TFP410PAP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TFP410PAP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TFP410PAP)
 - Short Link: [http://oom.lt/SZKVIDEOTFP41PAP](http://oom.lt/SZKVIDEOTFP41PAP)

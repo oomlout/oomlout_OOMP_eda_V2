@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC556
 - Hex ID: SZKTRANSISTORBJTBC556
 - Name: Transistor_BJT : BC556
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC556/
 - Description: Transistor_BJT : BC556
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC556](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC556)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC556](http://oom.lt/SZKTRANSISTORBJTBC556)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-S13360-3075CS
 - Hex ID: SZKSENOPTICALS1336375CS
 - Name: Sensor_Optical : S13360-3075CS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/S13360-3075CS/
 - Description: Sensor_Optical : S13360-3075CS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-S13360-3075CS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-S13360-3075CS)
 - Short Link: [http://oom.lt/SZKSENOPTICALS1336375CS](http://oom.lt/SZKSENOPTICALS1336375CS)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RTE2xxxx
 - Hex ID: SZKRELAYRTE2XXXX
 - Name: Relay : RTE2xxxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/RTE2xxxx/
 - Description: Relay : RTE2xxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RTE2xxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RTE2xxxx)
 - Short Link: [http://oom.lt/SZKRELAYRTE2XXXX](http://oom.lt/SZKRELAYRTE2XXXX)

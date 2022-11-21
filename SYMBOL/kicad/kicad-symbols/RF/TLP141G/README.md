@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-TLP141G
 - Hex ID: SZKRFTLP141G
 - Name: RF : TLP141G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/TLP141G/
 - Description: RF : TLP141G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP141G](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP141G)
 - Short Link: [http://oom.lt/SZKRFTLP141G](http://oom.lt/SZKRFTLP141G)

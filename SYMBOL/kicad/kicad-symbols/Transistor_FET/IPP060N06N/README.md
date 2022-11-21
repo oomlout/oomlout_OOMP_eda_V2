@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IPP060N06N
 - Hex ID: SZKTRANSISTORFETIPP6N6N
 - Name: Transistor_FET : IPP060N06N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPP060N06N/
 - Description: Transistor_FET : IPP060N06N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPP060N06N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPP060N06N)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIPP6N6N](http://oom.lt/SZKTRANSISTORFETIPP6N6N)

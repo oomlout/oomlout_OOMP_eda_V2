@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP411
 - Hex ID: SZKSENTEMPERATURETMP411
 - Name: Sensor_Temperature : TMP411
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP411/
 - Description: Sensor_Temperature : TMP411
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP411](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP411)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETMP411](http://oom.lt/SZKSENTEMPERATURETMP411)

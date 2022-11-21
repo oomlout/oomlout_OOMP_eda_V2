@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD17313Q2
 - Hex ID: SZKTRANSISTORFETCSD17313Q2
 - Name: Transistor_FET : CSD17313Q2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD17313Q2/
 - Description: Transistor_FET : CSD17313Q2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD17313Q2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD17313Q2)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETCSD17313Q2](http://oom.lt/SZKTRANSISTORFETCSD17313Q2)

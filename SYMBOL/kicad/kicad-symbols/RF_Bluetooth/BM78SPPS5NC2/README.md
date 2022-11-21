@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Bluetooth-BM78SPPS5NC2
 - Hex ID: SZKRFBLUETOOTHBM78SPPS5NC2
 - Name: RF_Bluetooth : BM78SPPS5NC2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Bluetooth/BM78SPPS5NC2/
 - Description: RF_Bluetooth : BM78SPPS5NC2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-BM78SPPS5NC2](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-BM78SPPS5NC2)
 - Short Link: [http://oom.lt/SZKRFBLUETOOTHBM78SPPS5NC2](http://oom.lt/SZKRFBLUETOOTHBM78SPPS5NC2)

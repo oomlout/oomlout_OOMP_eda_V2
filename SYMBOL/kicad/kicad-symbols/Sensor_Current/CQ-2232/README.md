@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2232
 - Hex ID: SZKSENCURRENTCQ2232
 - Name: Sensor_Current : CQ-2232
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-2232/
 - Description: Sensor_Current : CQ-2232
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2232](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2232)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ2232](http://oom.lt/SZKSENCURRENTCQ2232)

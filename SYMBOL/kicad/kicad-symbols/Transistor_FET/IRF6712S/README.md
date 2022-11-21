@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6712S
 - Hex ID: SZKTRANSISTORFETIRF6712S
 - Name: Transistor_FET : IRF6712S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6712S/
 - Description: Transistor_FET : IRF6712S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6712S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6712S)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6712S](http://oom.lt/SZKTRANSISTORFETIRF6712S)

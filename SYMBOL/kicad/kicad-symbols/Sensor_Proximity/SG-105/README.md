@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-105
 - Hex ID: SZKSENPROXIMITYSG15
 - Name: Sensor_Proximity : SG-105
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SG-105/
 - Description: Sensor_Proximity : SG-105
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-105](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-105)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYSG15](http://oom.lt/SZKSENPROXIMITYSG15)

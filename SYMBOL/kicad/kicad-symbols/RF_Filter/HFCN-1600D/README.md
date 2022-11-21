@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1600D
 - Hex ID: SZKRFFILHFCN16D
 - Name: RF_Filter : HFCN-1600D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-1600D/
 - Description: RF_Filter : HFCN-1600D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1600D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1600D)
 - Short Link: [http://oom.lt/SZKRFFILHFCN16D](http://oom.lt/SZKRFFILHFCN16D)

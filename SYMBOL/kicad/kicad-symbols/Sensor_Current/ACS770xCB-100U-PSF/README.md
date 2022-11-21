@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS770xCB-100U-PSF
 - Hex ID: SZKSENCURRENTACS77XCB1UPSF
 - Name: Sensor_Current : ACS770xCB-100U-PSF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS770xCB-100U-PSF/
 - Description: Sensor_Current : ACS770xCB-100U-PSF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS770xCB-100U-PSF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS770xCB-100U-PSF)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS77XCB1UPSF](http://oom.lt/SZKSENCURRENTACS77XCB1UPSF)

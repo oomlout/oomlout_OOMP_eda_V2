@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH2440
 - Hex ID: SZKSENOPTICALSFH244
 - Name: Sensor_Optical : SFH2440
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH2440/
 - Description: Sensor_Optical : SFH2440
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH2440](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH2440)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH244](http://oom.lt/SZKSENOPTICALSFH244)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-2555
 - Hex ID: SZKRFFILBFCN2555
 - Name: RF_Filter : BFCN-2555
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-2555/
 - Description: RF_Filter : BFCN-2555
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-2555](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-2555)
 - Short Link: [http://oom.lt/SZKRFFILBFCN2555](http://oom.lt/SZKRFFILBFCN2555)

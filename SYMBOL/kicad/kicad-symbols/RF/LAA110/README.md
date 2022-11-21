@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-LAA110
 - Hex ID: SZKRFLAA11
 - Name: RF : LAA110
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/LAA110/
 - Description: RF : LAA110
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-LAA110](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-LAA110)
 - Short Link: [http://oom.lt/SZKRFLAA11](http://oom.lt/SZKRFLAA11)

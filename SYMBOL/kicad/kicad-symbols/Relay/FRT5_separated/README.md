@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-FRT5_separated
 - Hex ID: SZKRELAYFRT5SEPARATED
 - Name: Relay : FRT5_separated
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/FRT5_separated/
 - Description: Relay : FRT5_separated
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FRT5_separated](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FRT5_separated)
 - Short Link: [http://oom.lt/SZKRELAYFRT5SEPARATED](http://oom.lt/SZKRELAYFRT5SEPARATED)

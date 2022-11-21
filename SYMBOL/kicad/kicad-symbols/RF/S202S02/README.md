@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-S202S02
 - Hex ID: SZKRFS22S2
 - Name: RF : S202S02
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/S202S02/
 - Description: RF : S202S02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-S202S02](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-S202S02)
 - Short Link: [http://oom.lt/SZKRFS22S2](http://oom.lt/SZKRFS22S2)

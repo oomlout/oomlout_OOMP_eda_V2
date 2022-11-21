@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS770xCB-200U-PFF
 - Hex ID: SZKSENCURRENTACS77XCB2UPFF
 - Name: Sensor_Current : ACS770xCB-200U-PFF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS770xCB-200U-PFF/
 - Description: Sensor_Current : ACS770xCB-200U-PFF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS770xCB-200U-PFF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS770xCB-200U-PFF)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS77XCB2UPFF](http://oom.lt/SZKSENCURRENTACS77XCB2UPFF)

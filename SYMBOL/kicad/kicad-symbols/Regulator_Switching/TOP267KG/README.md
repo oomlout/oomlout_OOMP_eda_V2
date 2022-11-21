@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP267KG
 - Hex ID: SZKREGULATORSWINGTOP267KG
 - Name: Regulator_Switching : TOP267KG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TOP267KG/
 - Description: Regulator_Switching : TOP267KG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP267KG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP267KG)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTOP267KG](http://oom.lt/SZKREGULATORSWINGTOP267KG)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-ASSR-1218
 - Hex ID: SZKRELAYSOLIDSTATEASSR1218
 - Name: Relay_SolidState : ASSR-1218
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/ASSR-1218/
 - Description: Relay_SolidState : ASSR-1218
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-ASSR-1218](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-ASSR-1218)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATEASSR1218](http://oom.lt/SZKRELAYSOLIDSTATEASSR1218)

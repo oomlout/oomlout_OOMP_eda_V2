@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-209D
 - Hex ID: SZKSENCURRENTCQ29D
 - Name: Sensor_Current : CQ-209D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-209D/
 - Description: Sensor_Current : CQ-209D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-209D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-209D)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ29D](http://oom.lt/SZKSENCURRENTCQ29D)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-MMBFJ111
 - Hex ID: SZKTRANSISTORFETBFJ111
 - Name: Transistor_FET : MMBFJ111
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/MMBFJ111/
 - Description: Transistor_FET : MMBFJ111
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-MMBFJ111](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-MMBFJ111)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBFJ111](http://oom.lt/SZKTRANSISTORFETBFJ111)

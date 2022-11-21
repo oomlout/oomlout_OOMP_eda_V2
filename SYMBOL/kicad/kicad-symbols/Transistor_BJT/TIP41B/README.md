@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41B
 - Hex ID: SZKTRANSISTORBJTTIP41B
 - Name: Transistor_BJT : TIP41B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP41B/
 - Description: Transistor_BJT : TIP41B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41B)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP41B](http://oom.lt/SZKTRANSISTORBJTTIP41B)

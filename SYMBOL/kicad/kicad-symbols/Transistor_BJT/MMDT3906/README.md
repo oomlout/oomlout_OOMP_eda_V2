@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT3906
 - Hex ID: SZKTRANSISTORBJTDT396
 - Name: Transistor_BJT : MMDT3906
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMDT3906/
 - Description: Transistor_BJT : MMDT3906
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT3906](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT3906)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDT396](http://oom.lt/SZKTRANSISTORBJTDT396)

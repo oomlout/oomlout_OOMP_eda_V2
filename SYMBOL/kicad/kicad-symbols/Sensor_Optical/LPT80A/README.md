@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-LPT80A
 - Hex ID: SZKSENOPTICALLPT8A
 - Name: Sensor_Optical : LPT80A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/LPT80A/
 - Description: Sensor_Optical : LPT80A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-LPT80A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-LPT80A)
 - Short Link: [http://oom.lt/SZKSENOPTICALLPT8A](http://oom.lt/SZKSENOPTICALLPT8A)

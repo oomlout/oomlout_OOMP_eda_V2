@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-OPAMP
 - Hex ID: SZKSIMULATIONSPICEOPAMP
 - Name: Simulation_SPICE : OPAMP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/OPAMP/
 - Description: Simulation_SPICE : OPAMP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-OPAMP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-OPAMP)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEOPAMP](http://oom.lt/SZKSIMULATIONSPICEOPAMP)

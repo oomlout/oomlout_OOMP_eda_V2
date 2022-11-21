@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-S116S01
 - Hex ID: SZKRFS116S1
 - Name: RF : S116S01
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/S116S01/
 - Description: RF : S116S01
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-S116S01](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-S116S01)
 - Short Link: [http://oom.lt/SZKRFS116S1](http://oom.lt/SZKRFS116S1)

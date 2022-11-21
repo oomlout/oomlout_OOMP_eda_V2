@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BF459
 - Hex ID: SZKTRANSISTORBJTBF459
 - Name: Transistor_BJT : BF459
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BF459/
 - Description: Transistor_BJT : BF459
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BF459](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BF459)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBF459](http://oom.lt/SZKTRANSISTORBJTBF459)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC307
 - Hex ID: SZKTRANSISTORBJTBC37
 - Name: Transistor_BJT : BC307
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC307/
 - Description: Transistor_BJT : BC307
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC307](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC307)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC37](http://oom.lt/SZKTRANSISTORBJTBC37)

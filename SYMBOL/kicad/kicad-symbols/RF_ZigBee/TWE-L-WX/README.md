@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_ZigBee-TWE-L-WX
 - Hex ID: SZKRFZIGBEETWELWX
 - Name: RF_ZigBee : TWE-L-WX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_ZigBee/TWE-L-WX/
 - Description: RF_ZigBee : TWE-L-WX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-TWE-L-WX](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-TWE-L-WX)
 - Short Link: [http://oom.lt/SZKRFZIGBEETWELWX](http://oom.lt/SZKRFZIGBEETWELWX)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-82C54_PLCC
 - Hex ID: SZKTIMER82C54PLCC
 - Name: Timer : 82C54_PLCC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/82C54_PLCC/
 - Description: Timer : 82C54_PLCC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-82C54_PLCC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-82C54_PLCC)
 - Short Link: [http://oom.lt/SZKTIMER82C54PLCC](http://oom.lt/SZKTIMER82C54PLCC)

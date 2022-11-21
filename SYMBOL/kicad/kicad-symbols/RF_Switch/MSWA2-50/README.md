@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-MSWA2-50
 - Hex ID: SZKRFSWMSWA25
 - Name: RF_Switch : MSWA2-50
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Switch/MSWA2-50/
 - Description: RF_Switch : MSWA2-50
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MSWA2-50](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MSWA2-50)
 - Short Link: [http://oom.lt/SZKRFSWMSWA25](http://oom.lt/SZKRFSWMSWA25)

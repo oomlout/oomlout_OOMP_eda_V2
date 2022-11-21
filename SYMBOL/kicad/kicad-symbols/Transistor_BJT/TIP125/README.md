@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP125
 - Hex ID: SZKTRANSISTORBJTTIP125
 - Name: Transistor_BJT : TIP125
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP125/
 - Description: Transistor_BJT : TIP125
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP125](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP125)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP125](http://oom.lt/SZKTRANSISTORBJTTIP125)

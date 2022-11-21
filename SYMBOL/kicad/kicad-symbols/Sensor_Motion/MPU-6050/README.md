@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-MPU-6050
 - Hex ID: SZKSENMOTIONMPU65
 - Name: Sensor_Motion : MPU-6050
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/MPU-6050/
 - Description: Sensor_Motion : MPU-6050
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-MPU-6050](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-MPU-6050)
 - Short Link: [http://oom.lt/SZKSENMOTIONMPU65](http://oom.lt/SZKSENMOTIONMPU65)

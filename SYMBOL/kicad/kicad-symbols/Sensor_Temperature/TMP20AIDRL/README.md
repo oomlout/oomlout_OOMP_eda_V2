@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP20AIDRL
 - Hex ID: SZKSENTEMPERATURETMP2AIDRL
 - Name: Sensor_Temperature : TMP20AIDRL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP20AIDRL/
 - Description: Sensor_Temperature : TMP20AIDRL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP20AIDRL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP20AIDRL)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETMP2AIDRL](http://oom.lt/SZKSENTEMPERATURETMP2AIDRL)

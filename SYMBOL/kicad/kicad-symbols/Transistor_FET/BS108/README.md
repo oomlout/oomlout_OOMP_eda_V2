@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BS108
 - Hex ID: SZKTRANSISTORFETBS18
 - Name: Transistor_FET : BS108
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BS108/
 - Description: Transistor_FET : BS108
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BS108](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BS108)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBS18](http://oom.lt/SZKTRANSISTORFETBS18)

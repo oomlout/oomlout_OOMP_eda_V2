@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor-MAX30102
 - Hex ID: SZKSENMAX312
 - Name: Sensor : MAX30102
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor/MAX30102/
 - Description: Sensor : MAX30102
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-MAX30102](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-MAX30102)
 - Short Link: [http://oom.lt/SZKSENMAX312](http://oom.lt/SZKSENMAX312)

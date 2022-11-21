@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS758xCB-150B-PFF
 - Hex ID: SZKSENCURRENTACS758XCB15BPFF
 - Name: Sensor_Current : ACS758xCB-150B-PFF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS758xCB-150B-PFF/
 - Description: Sensor_Current : ACS758xCB-150B-PFF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS758xCB-150B-PFF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS758xCB-150B-PFF)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS758XCB15BPFF](http://oom.lt/SZKSENCURRENTACS758XCB15BPFF)

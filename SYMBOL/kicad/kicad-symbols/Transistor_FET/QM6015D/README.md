@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-QM6015D
 - Hex ID: SZKTRANSISTORFETQM615D
 - Name: Transistor_FET : QM6015D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/QM6015D/
 - Description: Transistor_FET : QM6015D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-QM6015D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-QM6015D)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETQM615D](http://oom.lt/SZKTRANSISTORFETQM615D)

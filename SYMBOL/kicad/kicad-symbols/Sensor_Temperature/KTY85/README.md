@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KTY85
 - Hex ID: SZKSENTEMPERATUREKTY85
 - Name: Sensor_Temperature : KTY85
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/KTY85/
 - Description: Sensor_Temperature : KTY85
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KTY85](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KTY85)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREKTY85](http://oom.lt/SZKSENTEMPERATUREKTY85)

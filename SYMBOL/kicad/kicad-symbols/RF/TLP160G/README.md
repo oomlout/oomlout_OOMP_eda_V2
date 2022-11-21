@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-TLP160G
 - Hex ID: SZKRFTLP16G
 - Name: RF : TLP160G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/TLP160G/
 - Description: RF : TLP160G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP160G](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP160G)
 - Short Link: [http://oom.lt/SZKRFTLP16G](http://oom.lt/SZKRFTLP16G)

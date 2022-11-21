@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-ICM-20602
 - Hex ID: SZKSENMOTIONICM262
 - Name: Sensor_Motion : ICM-20602
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ICM-20602/
 - Description: Sensor_Motion : ICM-20602
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-ICM-20602](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-ICM-20602)
 - Short Link: [http://oom.lt/SZKSENMOTIONICM262](http://oom.lt/SZKSENMOTIONICM262)

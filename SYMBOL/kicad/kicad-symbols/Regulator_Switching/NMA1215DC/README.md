@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA1215DC
 - Hex ID: SZKREGULATORSWINGNMA1215DC
 - Name: Regulator_Switching : NMA1215DC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NMA1215DC/
 - Description: Regulator_Switching : NMA1215DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA1215DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA1215DC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGNMA1215DC](http://oom.lt/SZKREGULATORSWINGNMA1215DC)

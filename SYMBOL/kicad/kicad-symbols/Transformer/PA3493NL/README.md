@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PA3493NL
 - Hex ID: SZKTRPA3493NL
 - Name: Transformer : PA3493NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PA3493NL/
 - Description: Transformer : PA3493NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA3493NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA3493NL)
 - Short Link: [http://oom.lt/SZKTRPA3493NL](http://oom.lt/SZKTRPA3493NL)

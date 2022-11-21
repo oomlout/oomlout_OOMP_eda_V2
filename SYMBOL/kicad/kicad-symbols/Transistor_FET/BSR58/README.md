@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSR58
 - Hex ID: SZKTRANSISTORFETBSR58
 - Name: Transistor_FET : BSR58
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSR58/
 - Description: Transistor_FET : BSR58
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSR58](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSR58)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSR58](http://oom.lt/SZKTRANSISTORFETBSR58)

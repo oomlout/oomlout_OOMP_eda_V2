@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7030
 - Hex ID: SZKSWSWCODEDSH73
 - Name: Switch : SW_Coded_SH-7030
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Coded_SH-7030/
 - Description: Switch : SW_Coded_SH-7030
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7030](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7030)
 - Short Link: [http://oom.lt/SZKSWSWCODEDSH73](http://oom.lt/SZKSWSWCODEDSH73)

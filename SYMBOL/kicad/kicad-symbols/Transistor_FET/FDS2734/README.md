@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS2734
 - Hex ID: SZKTRANSISTORFETFDS2734
 - Name: Transistor_FET : FDS2734
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS2734/
 - Description: Transistor_FET : FDS2734
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS2734](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS2734)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS2734](http://oom.lt/SZKTRANSISTORFETFDS2734)

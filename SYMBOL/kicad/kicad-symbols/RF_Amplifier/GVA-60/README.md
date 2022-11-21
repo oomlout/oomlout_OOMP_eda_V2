@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-60
 - Hex ID: SZKRFAMPLIFIERGVA6
 - Name: RF_Amplifier : GVA-60
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/GVA-60/
 - Description: RF_Amplifier : GVA-60
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-60](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-60)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERGVA6](http://oom.lt/SZKRFAMPLIFIERGVA6)

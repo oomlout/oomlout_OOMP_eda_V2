@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP101
 - Hex ID: SZKSENTEMPERATURETMP11
 - Name: Sensor_Temperature : TMP101
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP101/
 - Description: Sensor_Temperature : TMP101
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP101](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP101)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETMP11](http://oom.lt/SZKSENTEMPERATURETMP11)

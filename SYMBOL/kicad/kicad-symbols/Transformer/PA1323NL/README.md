@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PA1323NL
 - Hex ID: SZKTRPA1323NL
 - Name: Transformer : PA1323NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PA1323NL/
 - Description: Transformer : PA1323NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA1323NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA1323NL)
 - Short Link: [http://oom.lt/SZKTRPA1323NL](http://oom.lt/SZKTRPA1323NL)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HO25-NPxSP33
 - Hex ID: SZKSENCURRENTHO25NPXSP33
 - Name: Sensor_Current : HO25-NPxSP33
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/HO25-NPxSP33/
 - Description: Sensor_Current : HO25-NPxSP33
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO25-NPxSP33](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO25-NPxSP33)
 - Short Link: [http://oom.lt/SZKSENCURRENTHO25NPXSP33](http://oom.lt/SZKSENCURRENTHO25NPXSP33)

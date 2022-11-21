@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IPULSE
 - Hex ID: SZKSIMULATIONSPICEIPULSE
 - Name: Simulation_SPICE : IPULSE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IPULSE/
 - Description: Simulation_SPICE : IPULSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IPULSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IPULSE)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEIPULSE](http://oom.lt/SZKSIMULATIONSPICEIPULSE)

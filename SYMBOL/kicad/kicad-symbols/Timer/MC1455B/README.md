@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-MC1455B
 - Hex ID: SZKTIMERMC1455B
 - Name: Timer : MC1455B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/MC1455B/
 - Description: Timer : MC1455B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-MC1455B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-MC1455B)
 - Short Link: [http://oom.lt/SZKTIMERMC1455B](http://oom.lt/SZKTIMERMC1455B)

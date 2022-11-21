@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-105
 - Hex ID: SZKSENPROXIMITYBPR15
 - Name: Sensor_Proximity : BPR-105
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/BPR-105/
 - Description: Sensor_Proximity : BPR-105
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-105](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-105)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYBPR15](http://oom.lt/SZKSENPROXIMITYBPR15)

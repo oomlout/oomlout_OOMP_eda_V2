@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-AON6411
 - Hex ID: SZKTRANSISTORFETAON6411
 - Name: Transistor_FET : AON6411
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/AON6411/
 - Description: Transistor_FET : AON6411
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-AON6411](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-AON6411)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETAON6411](http://oom.lt/SZKTRANSISTORFETAON6411)

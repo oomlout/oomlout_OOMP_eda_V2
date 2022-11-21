@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-AD9891
 - Hex ID: SZKVIDEOAD9891
 - Name: Video : AD9891
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/AD9891/
 - Description: Video : AD9891
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-AD9891](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-AD9891)
 - Short Link: [http://oom.lt/SZKVIDEOAD9891](http://oom.lt/SZKVIDEOAD9891)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-CMWX1ZZABZ-091
 - Hex ID: SZKRFMOCMWX1ZZABZ91
 - Name: RF_Module : CMWX1ZZABZ-091
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/CMWX1ZZABZ-091/
 - Description: RF_Module : CMWX1ZZABZ-091
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-CMWX1ZZABZ-091](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-CMWX1ZZABZ-091)
 - Short Link: [http://oom.lt/SZKRFMOCMWX1ZZABZ91](http://oom.lt/SZKRFMOCMWX1ZZABZ91)

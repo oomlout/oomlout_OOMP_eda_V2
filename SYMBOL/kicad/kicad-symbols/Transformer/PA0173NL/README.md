@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PA0173NL
 - Hex ID: SZKTRPA173NL
 - Name: Transformer : PA0173NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PA0173NL/
 - Description: Transformer : PA0173NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA0173NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA0173NL)
 - Short Link: [http://oom.lt/SZKTRPA173NL](http://oom.lt/SZKTRPA173NL)

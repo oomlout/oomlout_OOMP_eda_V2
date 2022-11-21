@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-TLP148G
 - Hex ID: SZKRFTLP148G
 - Name: RF : TLP148G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/TLP148G/
 - Description: RF : TLP148G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP148G](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP148G)
 - Short Link: [http://oom.lt/SZKRFTLP148G](http://oom.lt/SZKRFTLP148G)

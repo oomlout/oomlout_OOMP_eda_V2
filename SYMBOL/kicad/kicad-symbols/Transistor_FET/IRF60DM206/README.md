@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF60DM206
 - Hex ID: SZKTRANSISTORFETIRF6DM26
 - Name: Transistor_FET : IRF60DM206
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF60DM206/
 - Description: Transistor_FET : IRF60DM206
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF60DM206](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF60DM206)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6DM26](http://oom.lt/SZKTRANSISTORFETIRF6DM26)

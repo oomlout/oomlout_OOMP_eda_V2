@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6620
 - Hex ID: SZKTRANSISTORFETIRF662
 - Name: Transistor_FET : IRF6620
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6620/
 - Description: Transistor_FET : IRF6620
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6620](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6620)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF662](http://oom.lt/SZKTRANSISTORFETIRF662)

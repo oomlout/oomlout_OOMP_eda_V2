@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-ZVN4106F
 - Hex ID: SZKTRANSISTORFETZVN416F
 - Name: Transistor_FET : ZVN4106F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZVN4106F/
 - Description: Transistor_FET : ZVN4106F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZVN4106F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZVN4106F)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZVN416F](http://oom.lt/SZKTRANSISTORFETZVN416F)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MT3608
 - Hex ID: SZKREGULATORSWINGMT368
 - Name: Regulator_Switching : MT3608
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MT3608/
 - Description: Regulator_Switching : MT3608
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MT3608](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MT3608)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMT368](http://oom.lt/SZKREGULATORSWINGMT368)

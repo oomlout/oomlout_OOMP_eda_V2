@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-MM002
 - Hex ID: SZKRFMO2
 - Name: RF_Module : MM002
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/MM002/
 - Description: RF_Module : MM002
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-MM002](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-MM002)
 - Short Link: [http://oom.lt/SZKRFMO2](http://oom.lt/SZKRFMO2)

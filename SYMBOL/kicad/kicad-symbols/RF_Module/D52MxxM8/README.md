@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-D52MxxM8
 - Hex ID: SZKRFMOD52MXXM8
 - Name: RF_Module : D52MxxM8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/D52MxxM8/
 - Description: RF_Module : D52MxxM8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-D52MxxM8](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-D52MxxM8)
 - Short Link: [http://oom.lt/SZKRFMOD52MXXM8](http://oom.lt/SZKRFMOD52MXXM8)

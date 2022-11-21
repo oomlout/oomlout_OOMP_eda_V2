@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-206B
 - Hex ID: SZKSENCURRENTCQ26B
 - Name: Sensor_Current : CQ-206B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-206B/
 - Description: Sensor_Current : CQ-206B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-206B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-206B)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ26B](http://oom.lt/SZKSENCURRENTCQ26B)

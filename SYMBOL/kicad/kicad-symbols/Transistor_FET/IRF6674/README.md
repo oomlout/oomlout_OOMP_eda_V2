@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6674
 - Hex ID: SZKTRANSISTORFETIRF6674
 - Name: Transistor_FET : IRF6674
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6674/
 - Description: Transistor_FET : IRF6674
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6674](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6674)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6674](http://oom.lt/SZKTRANSISTORFETIRF6674)

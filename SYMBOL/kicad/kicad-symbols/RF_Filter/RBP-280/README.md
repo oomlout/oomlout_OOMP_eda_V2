@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-RBP-280
 - Hex ID: SZKRFFILRBP28
 - Name: RF_Filter : RBP-280
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/RBP-280/
 - Description: RF_Filter : RBP-280
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-RBP-280](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-RBP-280)
 - Short Link: [http://oom.lt/SZKRFFILRBP28](http://oom.lt/SZKRFFILRBP28)

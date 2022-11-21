@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9503
 - Hex ID: SZKSENTEMPERATUREMCP953
 - Name: Sensor_Temperature : MCP9503
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9503/
 - Description: Sensor_Temperature : MCP9503
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9503](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9503)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMCP953](http://oom.lt/SZKSENTEMPERATUREMCP953)

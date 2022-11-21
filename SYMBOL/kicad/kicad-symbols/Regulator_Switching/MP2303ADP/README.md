@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP2303ADP
 - Hex ID: SZKREGULATORSWINGMP233ADP
 - Name: Regulator_Switching : MP2303ADP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MP2303ADP/
 - Description: Regulator_Switching : MP2303ADP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP2303ADP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP2303ADP)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMP233ADP](http://oom.lt/SZKREGULATORSWINGMP233ADP)

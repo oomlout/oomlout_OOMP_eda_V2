@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Pressure-LPS25HB
 - Hex ID: SZKSENPRESSURELPS25HB
 - Name: Sensor_Pressure : LPS25HB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/LPS25HB/
 - Description: Sensor_Pressure : LPS25HB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-LPS25HB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-LPS25HB)
 - Short Link: [http://oom.lt/SZKSENPRESSURELPS25HB](http://oom.lt/SZKSENPRESSURELPS25HB)

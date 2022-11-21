@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8327S
 - Hex ID: SZKTRANSISTORFETIRF8327S
 - Name: Transistor_FET : IRF8327S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF8327S/
 - Description: Transistor_FET : IRF8327S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8327S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8327S)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF8327S](http://oom.lt/SZKTRANSISTORFETIRF8327S)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Gas-MQ-6
 - Hex ID: SZKSENGASMQ6
 - Name: Sensor_Gas : MQ-6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Gas/MQ-6/
 - Description: Sensor_Gas : MQ-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-MQ-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-MQ-6)
 - Short Link: [http://oom.lt/SZKSENGASMQ6](http://oom.lt/SZKSENGASMQ6)

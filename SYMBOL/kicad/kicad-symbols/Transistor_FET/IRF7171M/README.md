@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7171M
 - Hex ID: SZKTRANSISTORFETIRF7171M
 - Name: Transistor_FET : IRF7171M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7171M/
 - Description: Transistor_FET : IRF7171M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7171M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7171M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF7171M](http://oom.lt/SZKTRANSISTORFETIRF7171M)

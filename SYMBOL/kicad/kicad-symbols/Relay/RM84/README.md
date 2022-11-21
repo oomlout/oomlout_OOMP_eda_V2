@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RM84
 - Hex ID: SZKRELAYRM84
 - Name: Relay : RM84
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/RM84/
 - Description: Relay : RM84
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RM84](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RM84)
 - Short Link: [http://oom.lt/SZKRELAYRM84](http://oom.lt/SZKRELAYRM84)

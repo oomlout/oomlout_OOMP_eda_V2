@@ -25,7 +25,7 @@ Contents
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-phoenix-smkdsp/SMKDSP_1,5_9/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-phoenix-smkdsp/SMKDSP_1,5_9/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-phoenix-smkdsp/SMKDSP_1,5_9/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-phoenix-smkdsp/SMKDSP_1,5_9/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-phoenix-smkdsp/SMKDSP_1,5_9/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-phoenix-smkdsp/SMKDSP_1,5_9/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-phoenix-smkdsp/SMKDSP_1,5_9/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-phoenix-smkdsp/SMKDSP_1,5_9/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-phoenix-smkdsp/SMKDSP_1,5_9/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-phoenix-smkdsp/SMKDSP_1,5_9/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -44,4 +44,4 @@ Contents
 
 
 
-[im]: kicadPcb3dBack_450.png
+[im]: kicadPcb3d_450.png

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SA1015
 - Hex ID: SZKTRANSISTORBJT2SA115
 - Name: Transistor_BJT : 2SA1015
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SA1015/
 - Description: Transistor_BJT : 2SA1015
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SA1015](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SA1015)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2SA115](http://oom.lt/SZKTRANSISTORBJT2SA115)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3043M
 - Hex ID: SZKRELAYSOLIDSTATEMOC343M
 - Name: Relay_SolidState : MOC3043M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/MOC3043M/
 - Description: Relay_SolidState : MOC3043M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3043M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3043M)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATEMOC343M](http://oom.lt/SZKRELAYSOLIDSTATEMOC343M)

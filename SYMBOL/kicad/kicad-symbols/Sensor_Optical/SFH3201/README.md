@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH3201
 - Hex ID: SZKSENOPTICALSFH321
 - Name: Sensor_Optical : SFH3201
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH3201/
 - Description: Sensor_Optical : SFH3201
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH3201](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH3201)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH321](http://oom.lt/SZKSENOPTICALSFH321)

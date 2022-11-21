@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Valve-EC92
 - Hex ID: SZKVAEC92
 - Name: Valve : EC92
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/EC92/
 - Description: Valve : EC92
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EC92](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EC92)
 - Short Link: [http://oom.lt/SZKVAEC92](http://oom.lt/SZKVAEC92)

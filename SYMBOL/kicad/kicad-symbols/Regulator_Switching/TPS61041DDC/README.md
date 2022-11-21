@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61041DDC
 - Hex ID: SZKREGULATORSWINGTPS6141DDC
 - Name: Regulator_Switching : TPS61041DDC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS61041DDC/
 - Description: Regulator_Switching : TPS61041DDC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61041DDC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61041DDC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS6141DDC](http://oom.lt/SZKREGULATORSWINGTPS6141DDC)

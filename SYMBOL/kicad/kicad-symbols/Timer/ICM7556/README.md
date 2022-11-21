@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-ICM7556
 - Hex ID: SZKTIMERICM7556
 - Name: Timer : ICM7556
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/ICM7556/
 - Description: Timer : ICM7556
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-ICM7556](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-ICM7556)
 - Short Link: [http://oom.lt/SZKTIMERICM7556](http://oom.lt/SZKTIMERICM7556)

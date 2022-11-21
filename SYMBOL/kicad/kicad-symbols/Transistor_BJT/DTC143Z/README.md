@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC143Z
 - Hex ID: SZKTRANSISTORBJTDTC143Z
 - Name: Transistor_BJT : DTC143Z
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTC143Z/
 - Description: Transistor_BJT : DTC143Z
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC143Z](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC143Z)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTC143Z](http://oom.lt/SZKTRANSISTORBJTDTC143Z)

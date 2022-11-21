@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-ICX415AQ
 - Hex ID: SZKVIDEOICX415AQ
 - Name: Video : ICX415AQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/ICX415AQ/
 - Description: Video : ICX415AQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-ICX415AQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-ICX415AQ)
 - Short Link: [http://oom.lt/SZKVIDEOICX415AQ](http://oom.lt/SZKVIDEOICX415AQ)

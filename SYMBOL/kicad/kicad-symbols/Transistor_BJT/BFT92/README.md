@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BFT92
 - Hex ID: SZKTRANSISTORBJTBFT92
 - Name: Transistor_BJT : BFT92
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BFT92/
 - Description: Transistor_BJT : BFT92
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BFT92](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BFT92)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBFT92](http://oom.lt/SZKTRANSISTORBJTBFT92)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4115
 - Hex ID: SZKTRANSISTORFETIRFS4115
 - Name: Transistor_FET : IRFS4115
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFS4115/
 - Description: Transistor_FET : IRFS4115
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4115](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4115)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRFS4115](http://oom.lt/SZKTRANSISTORFETIRFS4115)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GPS-ZED-F9P
 - Hex ID: SZKGPSZEDF9P
 - Name: RF_GPS : ZED-F9P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GPS/ZED-F9P/
 - Description: RF_GPS : ZED-F9P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-ZED-F9P](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-ZED-F9P)
 - Short Link: [http://oom.lt/SZKGPSZEDF9P](http://oom.lt/SZKGPSZEDF9P)

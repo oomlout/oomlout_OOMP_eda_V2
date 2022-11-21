@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NID30S24-15
 - Hex ID: SZKREGULATORSWINGNID3S2415
 - Name: Regulator_Switching : NID30S24-15
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NID30S24-15/
 - Description: Regulator_Switching : NID30S24-15
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NID30S24-15](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NID30S24-15)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGNID3S2415](http://oom.lt/SZKREGULATORSWINGNID3S2415)

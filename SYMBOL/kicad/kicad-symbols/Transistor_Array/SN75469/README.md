@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-SN75469
 - Hex ID: SZKTRANSISTORARRAYSN75469
 - Name: Transistor_Array : SN75469
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Array/SN75469/
 - Description: Transistor_Array : SN75469
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-SN75469](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-SN75469)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYSN75469](http://oom.lt/SZKTRANSISTORARRAYSN75469)

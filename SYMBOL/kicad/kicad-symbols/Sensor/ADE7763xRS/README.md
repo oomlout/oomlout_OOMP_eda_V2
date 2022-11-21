@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor-ADE7763xRS
 - Hex ID: SZKSENADE7763XRS
 - Name: Sensor : ADE7763xRS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor/ADE7763xRS/
 - Description: Sensor : ADE7763xRS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-ADE7763xRS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-ADE7763xRS)
 - Short Link: [http://oom.lt/SZKSENADE7763XRS](http://oom.lt/SZKSENADE7763XRS)

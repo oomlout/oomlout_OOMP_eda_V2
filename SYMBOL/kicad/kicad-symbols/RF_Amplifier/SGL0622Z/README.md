@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-SGL0622Z
 - Hex ID: SZKRFAMPLIFIERSGL622Z
 - Name: RF_Amplifier : SGL0622Z
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/SGL0622Z/
 - Description: RF_Amplifier : SGL0622Z
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-SGL0622Z](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-SGL0622Z)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERSGL622Z](http://oom.lt/SZKRFAMPLIFIERSGL622Z)

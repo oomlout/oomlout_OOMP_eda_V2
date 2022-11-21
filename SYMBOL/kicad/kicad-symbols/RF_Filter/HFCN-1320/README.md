@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1320
 - Hex ID: SZKRFFILHFCN132
 - Name: RF_Filter : HFCN-1320
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-1320/
 - Description: RF_Filter : HFCN-1320
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1320](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1320)
 - Short Link: [http://oom.lt/SZKRFFILHFCN132](http://oom.lt/SZKRFFILHFCN132)

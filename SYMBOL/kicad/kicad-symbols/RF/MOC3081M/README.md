@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-MOC3081M
 - Hex ID: SZKRFMOC381M
 - Name: RF : MOC3081M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/MOC3081M/
 - Description: RF : MOC3081M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3081M](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3081M)
 - Short Link: [http://oom.lt/SZKRFMOC381M](http://oom.lt/SZKRFMOC381M)

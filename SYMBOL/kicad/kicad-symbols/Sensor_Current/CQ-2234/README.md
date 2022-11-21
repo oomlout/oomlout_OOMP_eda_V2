@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2234
 - Hex ID: SZKSENCURRENTCQ2234
 - Name: Sensor_Current : CQ-2234
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-2234/
 - Description: Sensor_Current : CQ-2234
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2234](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2234)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ2234](http://oom.lt/SZKSENCURRENTCQ2234)

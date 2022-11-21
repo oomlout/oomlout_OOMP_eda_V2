@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3300U
 - Hex ID: SZKTRANSISTORFETDMN33U
 - Name: Transistor_FET : DMN3300U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN3300U/
 - Description: Transistor_FET : DMN3300U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3300U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3300U)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN33U](http://oom.lt/SZKTRANSISTORFETDMN33U)

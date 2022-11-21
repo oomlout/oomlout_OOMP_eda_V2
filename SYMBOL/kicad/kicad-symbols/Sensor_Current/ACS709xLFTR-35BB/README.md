@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS709xLFTR-35BB
 - Hex ID: SZKSENCURRENTACS79XLFTR35BB
 - Name: Sensor_Current : ACS709xLFTR-35BB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS709xLFTR-35BB/
 - Description: Sensor_Current : ACS709xLFTR-35BB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS709xLFTR-35BB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS709xLFTR-35BB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS79XLFTR35BB](http://oom.lt/SZKSENCURRENTACS79XLFTR35BB)

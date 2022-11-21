@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GPS-SAM-M8Q
 - Hex ID: SZKGPSSAMM8Q
 - Name: RF_GPS : SAM-M8Q
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GPS/SAM-M8Q/
 - Description: RF_GPS : SAM-M8Q
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-SAM-M8Q](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-SAM-M8Q)
 - Short Link: [http://oom.lt/SZKGPSSAMM8Q](http://oom.lt/SZKGPSSAMM8Q)

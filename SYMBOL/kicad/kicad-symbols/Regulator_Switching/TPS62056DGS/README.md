@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62056DGS
 - Hex ID: SZKREGULATORSWINGTPS6256DGS
 - Name: Regulator_Switching : TPS62056DGS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS62056DGS/
 - Description: Regulator_Switching : TPS62056DGS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62056DGS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62056DGS)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS6256DGS](http://oom.lt/SZKREGULATORSWINGTPS6256DGS)

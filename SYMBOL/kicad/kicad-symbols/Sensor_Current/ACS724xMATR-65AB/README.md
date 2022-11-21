@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS724xMATR-65AB
 - Hex ID: SZKSENCURRENTACS724XMATR65AB
 - Name: Sensor_Current : ACS724xMATR-65AB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS724xMATR-65AB/
 - Description: Sensor_Current : ACS724xMATR-65AB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS724xMATR-65AB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS724xMATR-65AB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS724XMATR65AB](http://oom.lt/SZKSENCURRENTACS724XMATR65AB)

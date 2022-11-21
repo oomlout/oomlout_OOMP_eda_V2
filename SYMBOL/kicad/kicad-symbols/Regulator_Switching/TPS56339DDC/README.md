@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS56339DDC
 - Hex ID: SZKREGULATORSWINGTPS56339DDC
 - Name: Regulator_Switching : TPS56339DDC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS56339DDC/
 - Description: Regulator_Switching : TPS56339DDC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS56339DDC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS56339DDC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS56339DDC](http://oom.lt/SZKREGULATORSWINGTPS56339DDC)

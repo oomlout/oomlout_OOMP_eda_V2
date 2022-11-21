@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor-CHT11
 - Hex ID: SZKSENCHT11
 - Name: Sensor : CHT11
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor/CHT11/
 - Description: Sensor : CHT11
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-CHT11](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-CHT11)
 - Short Link: [http://oom.lt/SZKSENCHT11](http://oom.lt/SZKSENCHT11)

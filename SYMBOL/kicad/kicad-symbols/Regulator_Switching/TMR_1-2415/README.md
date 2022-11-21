@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-2415
 - Hex ID: SZKREGULATORSWINGTMR12415
 - Name: Regulator_Switching : TMR_1-2415
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TMR_1-2415/
 - Description: Regulator_Switching : TMR_1-2415
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-2415](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-2415)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTMR12415](http://oom.lt/SZKREGULATORSWINGTMR12415)

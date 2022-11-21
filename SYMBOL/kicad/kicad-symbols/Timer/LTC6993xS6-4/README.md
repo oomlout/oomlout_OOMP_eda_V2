@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-LTC6993xS6-4
 - Hex ID: SZKTIMERLTC6993XS64
 - Name: Timer : LTC6993xS6-4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/LTC6993xS6-4/
 - Description: Timer : LTC6993xS6-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LTC6993xS6-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LTC6993xS6-4)
 - Short Link: [http://oom.lt/SZKTIMERLTC6993XS64](http://oom.lt/SZKTIMERLTC6993XS64)

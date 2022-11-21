@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-PBSS301PZ
 - Hex ID: SZKTRANSISTORBJTPBSS31PZ
 - Name: Transistor_BJT : PBSS301PZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PBSS301PZ/
 - Description: Transistor_BJT : PBSS301PZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PBSS301PZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PBSS301PZ)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPBSS31PZ](http://oom.lt/SZKTRANSISTORBJTPBSS31PZ)

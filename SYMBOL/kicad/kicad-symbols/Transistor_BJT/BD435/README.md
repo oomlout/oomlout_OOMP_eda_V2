@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD435
 - Hex ID: SZKTRANSISTORBJTBD435
 - Name: Transistor_BJT : BD435
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD435/
 - Description: Transistor_BJT : BD435
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD435](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD435)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD435](http://oom.lt/SZKTRANSISTORBJTBD435)

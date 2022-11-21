@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSF450NE7NH3
 - Hex ID: SZKTRANSISTORFETBSF45NE7NH3
 - Name: Transistor_FET : BSF450NE7NH3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSF450NE7NH3/
 - Description: Transistor_FET : BSF450NE7NH3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSF450NE7NH3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSF450NE7NH3)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSF45NE7NH3](http://oom.lt/SZKTRANSISTORFETBSF45NE7NH3)

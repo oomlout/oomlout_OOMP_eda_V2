@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-MC1413BD
 - Hex ID: SZKTRANSISTORARRAYMC1413BD
 - Name: Transistor_Array : MC1413BD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Array/MC1413BD/
 - Description: Transistor_Array : MC1413BD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-MC1413BD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-MC1413BD)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYMC1413BD](http://oom.lt/SZKTRANSISTORARRAYMC1413BD)

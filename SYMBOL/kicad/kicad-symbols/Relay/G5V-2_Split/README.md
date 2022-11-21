@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-G5V-2_Split
 - Hex ID: SZKRELAYG5V2SPLIT
 - Name: Relay : G5V-2_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/G5V-2_Split/
 - Description: Relay : G5V-2_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G5V-2_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G5V-2_Split)
 - Short Link: [http://oom.lt/SZKRELAYG5V2SPLIT](http://oom.lt/SZKRELAYG5V2SPLIT)

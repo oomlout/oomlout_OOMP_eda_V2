@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC140
 - Hex ID: SZKTRANSISTORBJTBC14
 - Name: Transistor_BJT : BC140
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC140/
 - Description: Transistor_BJT : BC140
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC140](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC140)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC14](http://oom.lt/SZKTRANSISTORBJTBC14)

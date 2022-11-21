@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-FODM3011
 - Hex ID: SZKRFFODM311
 - Name: RF : FODM3011
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/FODM3011/
 - Description: RF : FODM3011
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FODM3011](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FODM3011)
 - Short Link: [http://oom.lt/SZKRFFODM311](http://oom.lt/SZKRFFODM311)

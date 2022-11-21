@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-R-78HB9.0-0.5
 - Hex ID: SZKREGULATORSWINGR78HB95
 - Name: Regulator_Switching : R-78HB9.0-0.5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/R-78HB9.0-0.5/
 - Description: Regulator_Switching : R-78HB9.0-0.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-R-78HB9.0-0.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-R-78HB9.0-0.5)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGR78HB95](http://oom.lt/SZKREGULATORSWINGR78HB95)

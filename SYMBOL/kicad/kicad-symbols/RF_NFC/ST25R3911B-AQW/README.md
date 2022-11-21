@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_NFC-ST25R3911B-AQW
 - Hex ID: SZKRFNFCST25R3911BAQW
 - Name: RF_NFC : ST25R3911B-AQW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_NFC/ST25R3911B-AQW/
 - Description: RF_NFC : ST25R3911B-AQW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_NFC-ST25R3911B-AQW](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_NFC-ST25R3911B-AQW)
 - Short Link: [http://oom.lt/SZKRFNFCST25R3911BAQW](http://oom.lt/SZKRFNFCST25R3911BAQW)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54233
 - Hex ID: SZKREGULATORSWINGTPS54233
 - Name: Regulator_Switching : TPS54233
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS54233/
 - Description: Regulator_Switching : TPS54233
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54233](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54233)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS54233](http://oom.lt/SZKREGULATORSWINGTPS54233)

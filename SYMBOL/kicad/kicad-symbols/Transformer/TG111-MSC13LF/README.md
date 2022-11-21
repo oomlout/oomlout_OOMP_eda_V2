@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TG111-MSC13LF
 - Hex ID: SZKTRTG111MSC13LF
 - Name: Transformer : TG111-MSC13LF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TG111-MSC13LF/
 - Description: Transformer : TG111-MSC13LF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TG111-MSC13LF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TG111-MSC13LF)
 - Short Link: [http://oom.lt/SZKTRTG111MSC13LF](http://oom.lt/SZKTRTG111MSC13LF)

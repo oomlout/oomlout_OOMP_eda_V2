@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS710xLATR-10BB-NL
 - Hex ID: SZKSENCURRENTACS71XLATR1BBNL
 - Name: Sensor_Current : ACS710xLATR-10BB-NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS710xLATR-10BB-NL/
 - Description: Sensor_Current : ACS710xLATR-10BB-NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS710xLATR-10BB-NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS710xLATR-10BB-NL)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS71XLATR1BBNL](http://oom.lt/SZKSENCURRENTACS71XLATR1BBNL)

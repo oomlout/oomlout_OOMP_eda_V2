@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Timer-MC14541BD
 - Hex ID: SZKTIMERMC14541BD
 - Name: Timer : MC14541BD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/MC14541BD/
 - Description: Timer : MC14541BD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-MC14541BD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-MC14541BD)
 - Short Link: [http://oom.lt/SZKTIMERMC14541BD](http://oom.lt/SZKTIMERMC14541BD)

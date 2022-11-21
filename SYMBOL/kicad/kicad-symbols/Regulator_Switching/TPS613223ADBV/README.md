@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS613223ADBV
 - Hex ID: SZKREGULATORSWINGTPS613223ADBV
 - Name: Regulator_Switching : TPS613223ADBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS613223ADBV/
 - Description: Regulator_Switching : TPS613223ADBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS613223ADBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS613223ADBV)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS613223ADBV](http://oom.lt/SZKREGULATORSWINGTPS613223ADBV)

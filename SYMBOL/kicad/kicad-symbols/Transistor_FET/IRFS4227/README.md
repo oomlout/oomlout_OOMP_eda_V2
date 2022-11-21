@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4227
 - Hex ID: SZKTRANSISTORFETIRFS4227
 - Name: Transistor_FET : IRFS4227
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFS4227/
 - Description: Transistor_FET : IRFS4227
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4227](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4227)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRFS4227](http://oom.lt/SZKTRANSISTORFETIRFS4227)

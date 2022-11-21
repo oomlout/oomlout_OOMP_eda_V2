@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Humidity-SHT30A-DIS
 - Hex ID: SZKSENHUMIDITYSHT3ADIS
 - Name: Sensor_Humidity : SHT30A-DIS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHT30A-DIS/
 - Description: Sensor_Humidity : SHT30A-DIS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-SHT30A-DIS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-SHT30A-DIS)
 - Short Link: [http://oom.lt/SZKSENHUMIDITYSHT3ADIS](http://oom.lt/SZKSENHUMIDITYSHT3ADIS)

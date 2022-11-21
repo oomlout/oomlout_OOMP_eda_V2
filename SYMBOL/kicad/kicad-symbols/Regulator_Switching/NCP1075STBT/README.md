@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1075STBT
 - Hex ID: SZKREGULATORSWINGNCP175STBT
 - Name: Regulator_Switching : NCP1075STBT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1075STBT/
 - Description: Regulator_Switching : NCP1075STBT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1075STBT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1075STBT)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGNCP175STBT](http://oom.lt/SZKREGULATORSWINGNCP175STBT)

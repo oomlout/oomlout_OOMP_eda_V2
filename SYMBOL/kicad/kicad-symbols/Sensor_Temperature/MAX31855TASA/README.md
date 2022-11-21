@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31855TASA
 - Hex ID: SZKSENTEMPERATUREMAX31855TASA
 - Name: Sensor_Temperature : MAX31855TASA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31855TASA/
 - Description: Sensor_Temperature : MAX31855TASA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31855TASA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31855TASA)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMAX31855TASA](http://oom.lt/SZKSENTEMPERATUREMAX31855TASA)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN2B14FH
 - Hex ID: SZKTRANSISTORFETZXMN2B14FH
 - Name: Transistor_FET : ZXMN2B14FH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN2B14FH/
 - Description: Transistor_FET : ZXMN2B14FH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN2B14FH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN2B14FH)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZXMN2B14FH](http://oom.lt/SZKTRANSISTORFETZXMN2B14FH)

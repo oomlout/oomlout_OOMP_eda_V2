@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-RFM96W-433S2
 - Hex ID: SZKRFMORFM96W433S2
 - Name: RF_Module : RFM96W-433S2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/RFM96W-433S2/
 - Description: RF_Module : RFM96W-433S2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RFM96W-433S2](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RFM96W-433S2)
 - Short Link: [http://oom.lt/SZKRFMORFM96W433S2](http://oom.lt/SZKRFMORFM96W433S2)

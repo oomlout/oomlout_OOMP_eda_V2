@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-320A
 - Hex ID: SZKSENCURRENTCQ32A
 - Name: Sensor_Current : CQ-320A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-320A/
 - Description: Sensor_Current : CQ-320A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-320A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-320A)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ32A](http://oom.lt/SZKSENCURRENTCQ32A)

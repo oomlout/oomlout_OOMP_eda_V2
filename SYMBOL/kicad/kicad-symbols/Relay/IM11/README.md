@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM11
 - Hex ID: SZKRELAYIM11
 - Name: Relay : IM11
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM11/
 - Description: Relay : IM11
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM11](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM11)
 - Short Link: [http://oom.lt/SZKRELAYIM11](http://oom.lt/SZKRELAYIM11)

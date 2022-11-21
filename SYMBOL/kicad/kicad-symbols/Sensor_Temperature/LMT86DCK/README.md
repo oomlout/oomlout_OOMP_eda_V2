@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LMT86DCK
 - Hex ID: SZKSENTEMPERATURELMT86DCK
 - Name: Sensor_Temperature : LMT86DCK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LMT86DCK/
 - Description: Sensor_Temperature : LMT86DCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LMT86DCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LMT86DCK)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURELMT86DCK](http://oom.lt/SZKSENTEMPERATURELMT86DCK)

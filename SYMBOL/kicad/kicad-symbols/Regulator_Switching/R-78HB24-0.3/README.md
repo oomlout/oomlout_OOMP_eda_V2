@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-R-78HB24-0.3
 - Hex ID: SZKREGULATORSWINGR78HB243
 - Name: Regulator_Switching : R-78HB24-0.3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/R-78HB24-0.3/
 - Description: Regulator_Switching : R-78HB24-0.3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-R-78HB24-0.3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-R-78HB24-0.3)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGR78HB243](http://oom.lt/SZKREGULATORSWINGR78HB243)

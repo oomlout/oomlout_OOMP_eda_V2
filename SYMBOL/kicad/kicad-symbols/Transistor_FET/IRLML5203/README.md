@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML5203
 - Hex ID: SZKTRANSISTORFETIRLML523
 - Name: Transistor_FET : IRLML5203
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRLML5203/
 - Description: Transistor_FET : IRLML5203
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML5203](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML5203)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRLML523](http://oom.lt/SZKTRANSISTORFETIRLML523)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSF030NE2LQ
 - Hex ID: SZKTRANSISTORFETBSF3NE2LQ
 - Name: Transistor_FET : BSF030NE2LQ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSF030NE2LQ/
 - Description: Transistor_FET : BSF030NE2LQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSF030NE2LQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSF030NE2LQ)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSF3NE2LQ](http://oom.lt/SZKTRANSISTORFETBSF3NE2LQ)

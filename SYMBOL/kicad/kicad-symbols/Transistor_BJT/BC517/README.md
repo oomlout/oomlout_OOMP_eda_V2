@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC517
 - Hex ID: SZKTRANSISTORBJTBC517
 - Name: Transistor_BJT : BC517
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC517/
 - Description: Transistor_BJT : BC517
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC517](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC517)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC517](http://oom.lt/SZKTRANSISTORBJTBC517)

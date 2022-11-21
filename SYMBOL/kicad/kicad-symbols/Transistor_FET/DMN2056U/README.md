@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2056U
 - Hex ID: SZKTRANSISTORFETDMN256U
 - Name: Transistor_FET : DMN2056U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN2056U/
 - Description: Transistor_FET : DMN2056U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2056U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2056U)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN256U](http://oom.lt/SZKTRANSISTORFETDMN256U)

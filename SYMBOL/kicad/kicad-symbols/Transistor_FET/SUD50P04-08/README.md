@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD50P04-08
 - Hex ID: SZKTRANSISTORFETSUD5P48
 - Name: Transistor_FET : SUD50P04-08
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/SUD50P04-08/
 - Description: Transistor_FET : SUD50P04-08
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD50P04-08](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD50P04-08)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSUD5P48](http://oom.lt/SZKTRANSISTORFETSUD5P48)

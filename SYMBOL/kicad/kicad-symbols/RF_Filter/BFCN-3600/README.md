@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-3600
 - Hex ID: SZKRFFILBFCN36
 - Name: RF_Filter : BFCN-3600
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-3600/
 - Description: RF_Filter : BFCN-3600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-3600](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-3600)
 - Short Link: [http://oom.lt/SZKRFFILBFCN36](http://oom.lt/SZKRFFILBFCN36)

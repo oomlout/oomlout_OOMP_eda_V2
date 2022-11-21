@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M19-60EX
 - Hex ID: SZKTRANSISTORFETBUK9M196EX
 - Name: Transistor_FET : BUK9M19-60EX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK9M19-60EX/
 - Description: Transistor_FET : BUK9M19-60EX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M19-60EX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M19-60EX)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBUK9M196EX](http://oom.lt/SZKTRANSISTORFETBUK9M196EX)

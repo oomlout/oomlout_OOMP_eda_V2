@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-VT93xx
 - Hex ID: SZKSENOPTICALVT93XX
 - Name: Sensor_Optical : VT93xx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/VT93xx/
 - Description: Sensor_Optical : VT93xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-VT93xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-VT93xx)
 - Short Link: [http://oom.lt/SZKSENOPTICALVT93XX](http://oom.lt/SZKSENOPTICALVT93XX)

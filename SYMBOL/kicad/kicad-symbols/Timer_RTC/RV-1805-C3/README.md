@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-RV-1805-C3
 - Hex ID: SZKTIMERRTCRV185C3
 - Name: Timer_RTC : RV-1805-C3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/RV-1805-C3/
 - Description: Timer_RTC : RV-1805-C3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-RV-1805-C3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-RV-1805-C3)
 - Short Link: [http://oom.lt/SZKTIMERRTCRV185C3](http://oom.lt/SZKTIMERRTCRV185C3)

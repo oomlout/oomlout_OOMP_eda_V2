@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_ZigBee-TWE-L-DP-W
 - Hex ID: SZKRFZIGBEETWELDPW
 - Name: RF_ZigBee : TWE-L-DP-W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_ZigBee/TWE-L-DP-W/
 - Description: RF_ZigBee : TWE-L-DP-W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-TWE-L-DP-W](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-TWE-L-DP-W)
 - Short Link: [http://oom.lt/SZKRFZIGBEETWELDPW](http://oom.lt/SZKRFZIGBEETWELDPW)

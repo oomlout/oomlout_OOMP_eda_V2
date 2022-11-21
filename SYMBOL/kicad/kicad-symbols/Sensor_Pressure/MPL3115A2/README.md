@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MPL3115A2
 - Hex ID: SZKSENPRESSUREMPL3115A2
 - Name: Sensor_Pressure : MPL3115A2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MPL3115A2/
 - Description: Sensor_Pressure : MPL3115A2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MPL3115A2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MPL3115A2)
 - Short Link: [http://oom.lt/SZKSENPRESSUREMPL3115A2](http://oom.lt/SZKSENPRESSUREMPL3115A2)

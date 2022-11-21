@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_PLL-Si5345D-D
 - Hex ID: SZKTIMERPLLSI5345DD
 - Name: Timer_PLL : Si5345D-D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/Si5345D-D/
 - Description: Timer_PLL : Si5345D-D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-Si5345D-D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-Si5345D-D)
 - Short Link: [http://oom.lt/SZKTIMERPLLSI5345DD](http://oom.lt/SZKTIMERPLLSI5345DD)

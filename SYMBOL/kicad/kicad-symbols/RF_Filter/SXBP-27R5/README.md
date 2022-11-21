@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-SXBP-27R5
 - Hex ID: SZKRFFILSXBP27R5
 - Name: RF_Filter : SXBP-27R5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/SXBP-27R5/
 - Description: RF_Filter : SXBP-27R5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-SXBP-27R5](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-SXBP-27R5)
 - Short Link: [http://oom.lt/SZKRFFILSXBP27R5](http://oom.lt/SZKRFFILSXBP27R5)

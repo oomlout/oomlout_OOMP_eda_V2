@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP3055G
 - Hex ID: SZKTRANSISTORBJTTIP355G
 - Name: Transistor_BJT : TIP3055G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP3055G/
 - Description: Transistor_BJT : TIP3055G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP3055G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP3055G)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP355G](http://oom.lt/SZKTRANSISTORBJTTIP355G)

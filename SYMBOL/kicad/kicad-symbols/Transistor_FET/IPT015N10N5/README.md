@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IPT015N10N5
 - Hex ID: SZKTRANSISTORFETIPT15N1N5
 - Name: Transistor_FET : IPT015N10N5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPT015N10N5/
 - Description: Transistor_FET : IPT015N10N5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPT015N10N5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPT015N10N5)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIPT15N1N5](http://oom.lt/SZKTRANSISTORFETIPT15N1N5)

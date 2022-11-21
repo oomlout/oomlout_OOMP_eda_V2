@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9502
 - Hex ID: SZKSENTEMPERATUREMCP952
 - Name: Sensor_Temperature : MCP9502
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9502/
 - Description: Sensor_Temperature : MCP9502
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9502](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9502)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMCP952](http://oom.lt/SZKSENTEMPERATUREMCP952)

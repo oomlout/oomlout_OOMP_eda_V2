@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF8523T
 - Hex ID: SZKTIMERRTCPCF8523T
 - Name: Timer_RTC : PCF8523T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/PCF8523T/
 - Description: Timer_RTC : PCF8523T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF8523T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF8523T)
 - Short Link: [http://oom.lt/SZKTIMERRTCPCF8523T](http://oom.lt/SZKTIMERRTCPCF8523T)

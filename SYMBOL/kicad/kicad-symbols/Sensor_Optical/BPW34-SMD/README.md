@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW34-SMD
 - Hex ID: SZKSENOPTICALBPW34SM
 - Name: Sensor_Optical : BPW34-SMD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW34-SMD/
 - Description: Sensor_Optical : BPW34-SMD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW34-SMD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW34-SMD)
 - Short Link: [http://oom.lt/SZKSENOPTICALBPW34SM](http://oom.lt/SZKSENOPTICALBPW34SM)

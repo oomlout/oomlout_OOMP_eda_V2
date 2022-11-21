@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC338
 - Hex ID: SZKTRANSISTORBJTBC338
 - Name: Transistor_BJT : BC338
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC338/
 - Description: Transistor_BJT : BC338
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC338](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC338)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC338](http://oom.lt/SZKTRANSISTORBJTBC338)

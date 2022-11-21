@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-AD9515
 - Hex ID: SZKTIMERAD9515
 - Name: Timer : AD9515
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/AD9515/
 - Description: Timer : AD9515
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-AD9515](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-AD9515)
 - Short Link: [http://oom.lt/SZKTIMERAD9515](http://oom.lt/SZKTIMERAD9515)

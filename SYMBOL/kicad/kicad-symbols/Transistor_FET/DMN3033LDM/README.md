@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3033LDM
 - Hex ID: SZKTRANSISTORFETDMN333LDM
 - Name: Transistor_FET : DMN3033LDM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN3033LDM/
 - Description: Transistor_FET : DMN3033LDM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3033LDM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3033LDM)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN333LDM](http://oom.lt/SZKTRANSISTORFETDMN333LDM)

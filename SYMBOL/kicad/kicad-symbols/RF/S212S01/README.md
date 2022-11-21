@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-S212S01
 - Hex ID: SZKRFS212S1
 - Name: RF : S212S01
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/S212S01/
 - Description: RF : S212S01
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-S212S01](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-S212S01)
 - Short Link: [http://oom.lt/SZKRFS212S1](http://oom.lt/SZKRFS212S1)

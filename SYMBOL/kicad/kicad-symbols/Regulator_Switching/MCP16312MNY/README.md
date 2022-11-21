@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16312MNY
 - Hex ID: SZKREGULATORSWINGMCP16312MNY
 - Name: Regulator_Switching : MCP16312MNY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP16312MNY/
 - Description: Regulator_Switching : MCP16312MNY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16312MNY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16312MNY)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMCP16312MNY](http://oom.lt/SZKREGULATORSWINGMCP16312MNY)

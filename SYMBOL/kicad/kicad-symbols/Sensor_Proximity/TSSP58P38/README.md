@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-TSSP58P38
 - Hex ID: SZKSENPROXIMITYTSSP58P38
 - Name: Sensor_Proximity : TSSP58P38
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/TSSP58P38/
 - Description: Sensor_Proximity : TSSP58P38
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-TSSP58P38](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-TSSP58P38)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYTSSP58P38](http://oom.lt/SZKSENPROXIMITYTSSP58P38)

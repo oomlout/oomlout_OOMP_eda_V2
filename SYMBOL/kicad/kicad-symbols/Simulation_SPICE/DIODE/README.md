@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-DIODE
 - Hex ID: SZKSIMULATIONSPICEDIODE
 - Name: Simulation_SPICE : DIODE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/DIODE/
 - Description: Simulation_SPICE : DIODE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-DIODE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-DIODE)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEDIODE](http://oom.lt/SZKSIMULATIONSPICEDIODE)

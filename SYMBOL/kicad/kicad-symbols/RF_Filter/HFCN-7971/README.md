@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-7971
 - Hex ID: SZKRFFILHFCN7971
 - Name: RF_Filter : HFCN-7971
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-7971/
 - Description: RF_Filter : HFCN-7971
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-7971](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-7971)
 - Short Link: [http://oom.lt/SZKRFFILHFCN7971](http://oom.lt/SZKRFFILHFCN7971)

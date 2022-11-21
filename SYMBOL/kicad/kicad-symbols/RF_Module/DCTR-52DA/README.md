@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-DCTR-52DA
 - Hex ID: SZKRFMODCTR52DA
 - Name: RF_Module : DCTR-52DA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/DCTR-52DA/
 - Description: RF_Module : DCTR-52DA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-DCTR-52DA](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-DCTR-52DA)
 - Short Link: [http://oom.lt/SZKRFMODCTR52DA](http://oom.lt/SZKRFMODCTR52DA)

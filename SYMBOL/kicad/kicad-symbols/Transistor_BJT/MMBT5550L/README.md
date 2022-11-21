@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMBT5550L
 - Hex ID: SZKTRANSISTORBJTBT555L
 - Name: Transistor_BJT : MMBT5550L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMBT5550L/
 - Description: Transistor_BJT : MMBT5550L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMBT5550L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMBT5550L)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBT555L](http://oom.lt/SZKTRANSISTORBJTBT555L)

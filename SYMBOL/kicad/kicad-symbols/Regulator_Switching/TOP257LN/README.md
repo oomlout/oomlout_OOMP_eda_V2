@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP257LN
 - Hex ID: SZKREGULATORSWINGTOP257LN
 - Name: Regulator_Switching : TOP257LN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TOP257LN/
 - Description: Regulator_Switching : TOP257LN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP257LN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP257LN)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTOP257LN](http://oom.lt/SZKREGULATORSWINGTOP257LN)

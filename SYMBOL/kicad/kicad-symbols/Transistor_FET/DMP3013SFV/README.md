@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMP3013SFV
 - Hex ID: SZKTRANSISTORFETDMP313SFV
 - Name: Transistor_FET : DMP3013SFV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMP3013SFV/
 - Description: Transistor_FET : DMP3013SFV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMP3013SFV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMP3013SFV)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMP313SFV](http://oom.lt/SZKTRANSISTORFETDMP313SFV)

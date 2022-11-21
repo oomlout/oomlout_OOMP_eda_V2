@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-IN865
 - Hex ID: SZKRFMORAK811HFIN865
 - Name: RF_Module : RAK811-HF-IN865
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/RAK811-HF-IN865/
 - Description: RF_Module : RAK811-HF-IN865
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-IN865](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-IN865)
 - Short Link: [http://oom.lt/SZKRFMORAK811HFIN865](http://oom.lt/SZKRFMORAK811HFIN865)

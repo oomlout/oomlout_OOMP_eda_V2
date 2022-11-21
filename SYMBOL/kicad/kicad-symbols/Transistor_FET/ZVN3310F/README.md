@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-ZVN3310F
 - Hex ID: SZKTRANSISTORFETZVN331F
 - Name: Transistor_FET : ZVN3310F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZVN3310F/
 - Description: Transistor_FET : ZVN3310F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZVN3310F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZVN3310F)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZVN331F](http://oom.lt/SZKTRANSISTORFETZVN331F)

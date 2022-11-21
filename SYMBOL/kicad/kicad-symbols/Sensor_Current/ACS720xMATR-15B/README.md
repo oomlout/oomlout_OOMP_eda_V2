@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS720xMATR-15B
 - Hex ID: SZKSENCURRENTACS72XMATR15B
 - Name: Sensor_Current : ACS720xMATR-15B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS720xMATR-15B/
 - Description: Sensor_Current : ACS720xMATR-15B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS720xMATR-15B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS720xMATR-15B)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS72XMATR15B](http://oom.lt/SZKSENCURRENTACS72XMATR15B)

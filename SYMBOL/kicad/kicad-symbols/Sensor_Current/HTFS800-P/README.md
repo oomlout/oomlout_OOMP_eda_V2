@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS800-P
 - Hex ID: SZKSENCURRENTHTFS8P
 - Name: Sensor_Current : HTFS800-P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/HTFS800-P/
 - Description: Sensor_Current : HTFS800-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS800-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS800-P)
 - Short Link: [http://oom.lt/SZKSENCURRENTHTFS8P](http://oom.lt/SZKSENCURRENTHTFS8P)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-TDA1950F
 - Hex ID: SZKVIDEOTDA195F
 - Name: Video : TDA1950F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/TDA1950F/
 - Description: Video : TDA1950F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA1950F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA1950F)
 - Short Link: [http://oom.lt/SZKVIDEOTDA195F](http://oom.lt/SZKVIDEOTDA195F)

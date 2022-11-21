@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-MMA8653FCR1
 - Hex ID: SZKSENMOTIONA8653FCR1
 - Name: Sensor_Motion : MMA8653FCR1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/MMA8653FCR1/
 - Description: Sensor_Motion : MMA8653FCR1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-MMA8653FCR1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-MMA8653FCR1)
 - Short Link: [http://oom.lt/SZKSENMOTIONA8653FCR1](http://oom.lt/SZKSENMOTIONA8653FCR1)

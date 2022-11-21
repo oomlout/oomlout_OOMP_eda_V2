@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS6898A
 - Hex ID: SZKTRANSISTORFETFDS6898A
 - Name: Transistor_FET : FDS6898A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS6898A/
 - Description: Transistor_FET : FDS6898A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS6898A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS6898A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS6898A](http://oom.lt/SZKTRANSISTORFETFDS6898A)

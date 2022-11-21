@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-2500D
 - Hex ID: SZKRFFILLFCN25D
 - Name: RF_Filter : LFCN-2500D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-2500D/
 - Description: RF_Filter : LFCN-2500D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-2500D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-2500D)
 - Short Link: [http://oom.lt/SZKRFFILLFCN25D](http://oom.lt/SZKRFFILLFCN25D)

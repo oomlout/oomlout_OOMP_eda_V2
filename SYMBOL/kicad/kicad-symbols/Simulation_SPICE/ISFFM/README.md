@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ISFFM
 - Hex ID: SZKSIMULATIONSPICEISFFM
 - Name: Simulation_SPICE : ISFFM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/ISFFM/
 - Description: Simulation_SPICE : ISFFM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ISFFM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ISFFM)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEISFFM](http://oom.lt/SZKSIMULATIONSPICEISFFM)

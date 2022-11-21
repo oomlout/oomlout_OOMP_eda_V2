@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM9DS1
 - Hex ID: SZKSENMOTIONLSM9DS1
 - Name: Sensor_Motion : LSM9DS1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LSM9DS1/
 - Description: Sensor_Motion : LSM9DS1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM9DS1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM9DS1)
 - Short Link: [http://oom.lt/SZKSENMOTIONLSM9DS1](http://oom.lt/SZKSENMOTIONLSM9DS1)

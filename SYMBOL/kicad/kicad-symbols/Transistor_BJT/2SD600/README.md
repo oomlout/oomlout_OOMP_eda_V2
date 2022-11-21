@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SD600
 - Hex ID: SZKTRANSISTORBJT2SD6
 - Name: Transistor_BJT : 2SD600
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SD600/
 - Description: Transistor_BJT : 2SD600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SD600](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SD600)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2SD6](http://oom.lt/SZKTRANSISTORBJT2SD6)

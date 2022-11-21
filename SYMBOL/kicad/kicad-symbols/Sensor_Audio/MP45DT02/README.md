@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Audio-MP45DT02
 - Hex ID: SZKSENAUDIOMP45DT2
 - Name: Sensor_Audio : MP45DT02
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Audio/MP45DT02/
 - Description: Sensor_Audio : MP45DT02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Audio-MP45DT02](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Audio-MP45DT02)
 - Short Link: [http://oom.lt/SZKSENAUDIOMP45DT2](http://oom.lt/SZKSENAUDIOMP45DT2)

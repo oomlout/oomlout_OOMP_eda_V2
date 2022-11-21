@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA0515SC
 - Hex ID: SZKREGULATORSWINGNMA515SC
 - Name: Regulator_Switching : NMA0515SC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NMA0515SC/
 - Description: Regulator_Switching : NMA0515SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA0515SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA0515SC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGNMA515SC](http://oom.lt/SZKREGULATORSWINGNMA515SC)

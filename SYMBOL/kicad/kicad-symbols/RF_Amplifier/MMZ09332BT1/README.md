@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-MMZ09332BT1
 - Hex ID: SZKRFAMPLIFIERZ9332BT1
 - Name: RF_Amplifier : MMZ09332BT1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/MMZ09332BT1/
 - Description: RF_Amplifier : MMZ09332BT1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-MMZ09332BT1](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-MMZ09332BT1)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERZ9332BT1](http://oom.lt/SZKRFAMPLIFIERZ9332BT1)

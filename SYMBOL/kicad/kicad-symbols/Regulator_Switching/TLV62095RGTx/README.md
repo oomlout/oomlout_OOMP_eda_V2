@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62095RGTx
 - Hex ID: SZKREGULATORSWINGTLV6295RGTX
 - Name: Regulator_Switching : TLV62095RGTx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TLV62095RGTx/
 - Description: Regulator_Switching : TLV62095RGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62095RGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62095RGTx)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTLV6295RGTX](http://oom.lt/SZKREGULATORSWINGTLV6295RGTX)

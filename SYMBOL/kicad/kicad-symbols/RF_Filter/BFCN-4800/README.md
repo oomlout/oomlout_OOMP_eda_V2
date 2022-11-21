@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-4800
 - Hex ID: SZKRFFILBFCN48
 - Name: RF_Filter : BFCN-4800
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-4800/
 - Description: RF_Filter : BFCN-4800
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-4800](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-4800)
 - Short Link: [http://oom.lt/SZKRFFILBFCN48](http://oom.lt/SZKRFFILBFCN48)

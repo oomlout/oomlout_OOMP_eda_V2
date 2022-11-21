@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GPS-SIM28ML
 - Hex ID: SZKGPSSIM28ML
 - Name: RF_GPS : SIM28ML
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GPS/SIM28ML/
 - Description: RF_GPS : SIM28ML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-SIM28ML](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-SIM28ML)
 - Short Link: [http://oom.lt/SZKGPSSIM28ML](http://oom.lt/SZKGPSSIM28ML)

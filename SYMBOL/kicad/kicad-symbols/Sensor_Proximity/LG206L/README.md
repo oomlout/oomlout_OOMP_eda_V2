@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LG206L
 - Hex ID: SZKSENPROXIMITYLG26L
 - Name: Sensor_Proximity : LG206L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/LG206L/
 - Description: Sensor_Proximity : LG206L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LG206L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LG206L)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYLG26L](http://oom.lt/SZKSENPROXIMITYLG26L)

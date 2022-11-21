@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP122
 - Hex ID: SZKTRANSISTORBJTTIP122
 - Name: Transistor_BJT : TIP122
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP122/
 - Description: Transistor_BJT : TIP122
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP122](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP122)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP122](http://oom.lt/SZKTRANSISTORBJTTIP122)

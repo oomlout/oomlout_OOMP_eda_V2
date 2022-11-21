@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-CPC1002N
 - Hex ID: SZKRFCPC12N
 - Name: RF : CPC1002N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/CPC1002N/
 - Description: RF : CPC1002N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-CPC1002N](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-CPC1002N)
 - Short Link: [http://oom.lt/SZKRFCPC12N](http://oom.lt/SZKRFCPC12N)

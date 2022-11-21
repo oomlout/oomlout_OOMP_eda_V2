@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-HMC849A
 - Hex ID: SZKRFSWHMC849A
 - Name: RF_Switch : HMC849A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Switch/HMC849A/
 - Description: RF_Switch : HMC849A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-HMC849A](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-HMC849A)
 - Short Link: [http://oom.lt/SZKRFSWHMC849A](http://oom.lt/SZKRFSWHMC849A)

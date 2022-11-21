@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PA0510NL
 - Hex ID: SZKTRPA51NL
 - Name: Transformer : PA0510NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PA0510NL/
 - Description: Transformer : PA0510NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA0510NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA0510NL)
 - Short Link: [http://oom.lt/SZKTRPA51NL](http://oom.lt/SZKTRPA51NL)

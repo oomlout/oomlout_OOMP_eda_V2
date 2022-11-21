@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Touch-CAP1206-x-AIA
 - Hex ID: SZKSENTOUCHCAP126XAIA
 - Name: Sensor_Touch : CAP1206-x-AIA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Touch/CAP1206-x-AIA/
 - Description: Sensor_Touch : CAP1206-x-AIA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-CAP1206-x-AIA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-CAP1206-x-AIA)
 - Short Link: [http://oom.lt/SZKSENTOUCHCAP126XAIA](http://oom.lt/SZKSENTOUCHCAP126XAIA)

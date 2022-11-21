@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM73
 - Hex ID: SZKSENTEMPERATURELM73
 - Name: Sensor_Temperature : LM73
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM73/
 - Description: Sensor_Temperature : LM73
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM73](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM73)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURELM73](http://oom.lt/SZKSENTEMPERATURELM73)

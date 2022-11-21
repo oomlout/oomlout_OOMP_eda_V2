@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7748L1
 - Hex ID: SZKTRANSISTORFETIRF7748L1
 - Name: Transistor_FET : IRF7748L1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7748L1/
 - Description: Transistor_FET : IRF7748L1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7748L1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7748L1)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF7748L1](http://oom.lt/SZKTRANSISTORFETIRF7748L1)

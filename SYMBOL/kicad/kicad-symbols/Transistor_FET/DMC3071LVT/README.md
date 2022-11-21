@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMC3071LVT
 - Hex ID: SZKTRANSISTORFETDMC371LVT
 - Name: Transistor_FET : DMC3071LVT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC3071LVT/
 - Description: Transistor_FET : DMC3071LVT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMC3071LVT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMC3071LVT)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMC371LVT](http://oom.lt/SZKTRANSISTORFETDMC371LVT)

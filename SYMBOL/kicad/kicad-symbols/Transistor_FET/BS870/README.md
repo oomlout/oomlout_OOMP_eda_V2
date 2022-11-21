@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BS870
 - Hex ID: SZKTRANSISTORFETBS87
 - Name: Transistor_FET : BS870
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BS870/
 - Description: Transistor_FET : BS870
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BS870](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BS870)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBS87](http://oom.lt/SZKTRANSISTORFETBS87)

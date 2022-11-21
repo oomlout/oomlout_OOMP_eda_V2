@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC252N10NSFG
 - Hex ID: SZKTRANSISTORFETBSC252N1NSFG
 - Name: Transistor_FET : BSC252N10NSFG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC252N10NSFG/
 - Description: Transistor_FET : BSC252N10NSFG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC252N10NSFG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC252N10NSFG)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC252N1NSFG](http://oom.lt/SZKTRANSISTORFETBSC252N1NSFG)

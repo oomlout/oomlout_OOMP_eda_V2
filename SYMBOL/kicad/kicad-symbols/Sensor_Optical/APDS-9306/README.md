@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-APDS-9306
 - Hex ID: SZKSENOPTICALAPDS936
 - Name: Sensor_Optical : APDS-9306
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/APDS-9306/
 - Description: Sensor_Optical : APDS-9306
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-APDS-9306](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-APDS-9306)
 - Short Link: [http://oom.lt/SZKSENOPTICALAPDS936](http://oom.lt/SZKSENOPTICALAPDS936)

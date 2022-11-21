@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB163T
 - Hex ID: SZKTRANSISTORBJTDTB163T
 - Name: Transistor_BJT : DTB163T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTB163T/
 - Description: Transistor_BJT : DTB163T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB163T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB163T)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTB163T](http://oom.lt/SZKTRANSISTORBJTDTB163T)

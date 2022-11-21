@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Valve-ECC88
 - Hex ID: SZKVAECC88
 - Name: Valve : ECC88
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/ECC88/
 - Description: Valve : ECC88
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECC88](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECC88)
 - Short Link: [http://oom.lt/SZKVAECC88](http://oom.lt/SZKVAECC88)

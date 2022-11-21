@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT136-500
 - Hex ID: SZKTRIACTHYRISTORBT1365
 - Name: Triac_Thyristor : BT136-500
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BT136-500/
 - Description: Triac_Thyristor : BT136-500
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT136-500](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT136-500)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORBT1365](http://oom.lt/SZKTRIACTHYRISTORBT1365)

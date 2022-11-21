@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0065090D
 - Hex ID: SZKTRANSISTORFETC3M659D
 - Name: Transistor_FET : C3M0065090D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/C3M0065090D/
 - Description: Transistor_FET : C3M0065090D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0065090D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0065090D)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETC3M659D](http://oom.lt/SZKTRANSISTORFETC3M659D)

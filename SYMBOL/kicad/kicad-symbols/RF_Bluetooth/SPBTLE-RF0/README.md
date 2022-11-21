@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Bluetooth-SPBTLE-RF0
 - Hex ID: SZKRFBLUETOOTHSPBTLERF
 - Name: RF_Bluetooth : SPBTLE-RF0
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Bluetooth/SPBTLE-RF0/
 - Description: RF_Bluetooth : SPBTLE-RF0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-SPBTLE-RF0](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-SPBTLE-RF0)
 - Short Link: [http://oom.lt/SZKRFBLUETOOTHSPBTLERF](http://oom.lt/SZKRFBLUETOOTHSPBTLERF)

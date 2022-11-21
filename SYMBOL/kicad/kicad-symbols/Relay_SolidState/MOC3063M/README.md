@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3063M
 - Hex ID: SZKRELAYSOLIDSTATEMOC363M
 - Name: Relay_SolidState : MOC3063M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/MOC3063M/
 - Description: Relay_SolidState : MOC3063M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3063M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3063M)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATEMOC363M](http://oom.lt/SZKRELAYSOLIDSTATEMOC363M)

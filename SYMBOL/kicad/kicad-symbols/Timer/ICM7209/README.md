@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-ICM7209
 - Hex ID: SZKTIMERICM729
 - Name: Timer : ICM7209
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/ICM7209/
 - Description: Timer : ICM7209
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-ICM7209](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-ICM7209)
 - Short Link: [http://oom.lt/SZKTIMERICM729](http://oom.lt/SZKTIMERICM729)

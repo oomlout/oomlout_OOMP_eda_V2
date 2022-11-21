@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TEZ4.0-D-2
 - Hex ID: SZKTRTEZ4D2
 - Name: Transformer : TEZ4.0-D-2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TEZ4.0-D-2/
 - Description: Transformer : TEZ4.0-D-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TEZ4.0-D-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TEZ4.0-D-2)
 - Short Link: [http://oom.lt/SZKTRTEZ4D2](http://oom.lt/SZKTRTEZ4D2)

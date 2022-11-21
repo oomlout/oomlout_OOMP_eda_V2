@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-PGA26E07BA
 - Hex ID: SZKTRANSISTORFETPGA26E7BA
 - Name: Transistor_FET : PGA26E07BA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/PGA26E07BA/
 - Description: Transistor_FET : PGA26E07BA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-PGA26E07BA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-PGA26E07BA)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETPGA26E7BA](http://oom.lt/SZKTRANSISTORFETPGA26E7BA)

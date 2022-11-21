@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-SXBP-140
 - Hex ID: SZKRFFILSXBP14
 - Name: RF_Filter : SXBP-140
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/SXBP-140/
 - Description: RF_Filter : SXBP-140
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-SXBP-140](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-SXBP-140)
 - Short Link: [http://oom.lt/SZKRFFILSXBP14](http://oom.lt/SZKRFFILSXBP14)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-NA556
 - Hex ID: SZKTIMERNA556
 - Name: Timer : NA556
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/NA556/
 - Description: Timer : NA556
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-NA556](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-NA556)
 - Short Link: [http://oom.lt/SZKTIMERNA556](http://oom.lt/SZKTIMERNA556)

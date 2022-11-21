@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE2S1205MC
 - Hex ID: SZKREGULATORSWINGNXE2S125MC
 - Name: Regulator_Switching : NXE2S1205MC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NXE2S1205MC/
 - Description: Regulator_Switching : NXE2S1205MC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE2S1205MC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE2S1205MC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGNXE2S125MC](http://oom.lt/SZKREGULATORSWINGNXE2S125MC)

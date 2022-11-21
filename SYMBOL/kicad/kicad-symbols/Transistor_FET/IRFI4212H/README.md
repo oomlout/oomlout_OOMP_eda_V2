@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFI4212H
 - Hex ID: SZKTRANSISTORFETIRFI4212H
 - Name: Transistor_FET : IRFI4212H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFI4212H/
 - Description: Transistor_FET : IRFI4212H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFI4212H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFI4212H)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRFI4212H](http://oom.lt/SZKTRANSISTORFETIRFI4212H)

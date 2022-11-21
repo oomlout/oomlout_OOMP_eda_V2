@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMP4A16G
 - Hex ID: SZKTRANSISTORFETZXMP4A16G
 - Name: Transistor_FET : ZXMP4A16G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMP4A16G/
 - Description: Transistor_FET : ZXMP4A16G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMP4A16G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMP4A16G)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZXMP4A16G](http://oom.lt/SZKTRANSISTORFETZXMP4A16G)

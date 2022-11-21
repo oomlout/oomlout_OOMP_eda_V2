@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-PL611-01-xxxT
 - Hex ID: SZKTIMERPL6111XXXT
 - Name: Timer : PL611-01-xxxT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/PL611-01-xxxT/
 - Description: Timer : PL611-01-xxxT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-PL611-01-xxxT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-PL611-01-xxxT)
 - Short Link: [http://oom.lt/SZKTIMERPL6111XXXT](http://oom.lt/SZKTIMERPL6111XXXT)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL7472L1
 - Hex ID: SZKTRANSISTORFETIRL7472L1
 - Name: Transistor_FET : IRL7472L1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRL7472L1/
 - Description: Transistor_FET : IRL7472L1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL7472L1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL7472L1)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRL7472L1](http://oom.lt/SZKTRANSISTORFETIRL7472L1)

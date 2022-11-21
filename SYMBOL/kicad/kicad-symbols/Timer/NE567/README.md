@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-NE567
 - Hex ID: SZKTIMERNE567
 - Name: Timer : NE567
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/NE567/
 - Description: Timer : NE567
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-NE567](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-NE567)
 - Short Link: [http://oom.lt/SZKTIMERNE567](http://oom.lt/SZKTIMERNE567)

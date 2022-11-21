@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-CST2_Split
 - Hex ID: SZKTRCST2SPLIT
 - Name: Transformer : CST2_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/CST2_Split/
 - Description: Transformer : CST2_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-CST2_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-CST2_Split)
 - Short Link: [http://oom.lt/SZKTRCST2SPLIT](http://oom.lt/SZKTRCST2SPLIT)

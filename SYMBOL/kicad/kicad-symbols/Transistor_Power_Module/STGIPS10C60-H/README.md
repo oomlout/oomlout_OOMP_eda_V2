@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS10C60-H
 - Hex ID: SZKTRANSISTORPOWERMOSTGIPS1C6H
 - Name: Transistor_Power_Module : STGIPS10C60-H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/STGIPS10C60-H/
 - Description: Transistor_Power_Module : STGIPS10C60-H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS10C60-H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS10C60-H)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOSTGIPS1C6H](http://oom.lt/SZKTRANSISTORPOWERMOSTGIPS1C6H)

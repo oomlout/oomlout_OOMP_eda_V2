@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLZ44N
 - Hex ID: SZKTRANSISTORFETIRLZ44N
 - Name: Transistor_FET : IRLZ44N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRLZ44N/
 - Description: Transistor_FET : IRLZ44N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLZ44N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLZ44N)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRLZ44N](http://oom.lt/SZKTRANSISTORFETIRLZ44N)

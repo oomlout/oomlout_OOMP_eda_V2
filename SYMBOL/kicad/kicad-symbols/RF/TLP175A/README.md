@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-TLP175A
 - Hex ID: SZKRFTLP175A
 - Name: RF : TLP175A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/TLP175A/
 - Description: RF : TLP175A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP175A](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP175A)
 - Short Link: [http://oom.lt/SZKRFTLP175A](http://oom.lt/SZKRFTLP175A)

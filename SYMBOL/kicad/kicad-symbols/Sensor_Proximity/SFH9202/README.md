@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SFH9202
 - Hex ID: SZKSENPROXIMITYSFH922
 - Name: Sensor_Proximity : SFH9202
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SFH9202/
 - Description: Sensor_Proximity : SFH9202
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SFH9202](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SFH9202)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYSFH922](http://oom.lt/SZKSENPROXIMITYSFH922)

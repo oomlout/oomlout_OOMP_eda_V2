@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADT4-1T
 - Hex ID: SZKTRADT41T
 - Name: Transformer : ADT4-1T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT4-1T/
 - Description: Transformer : ADT4-1T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT4-1T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT4-1T)
 - Short Link: [http://oom.lt/SZKTRADT41T](http://oom.lt/SZKTRADT41T)

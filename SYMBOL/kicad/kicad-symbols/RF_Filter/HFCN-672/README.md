@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-672
 - Hex ID: SZKRFFILHFCN672
 - Name: RF_Filter : HFCN-672
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-672/
 - Description: RF_Filter : HFCN-672
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-672](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-672)
 - Short Link: [http://oom.lt/SZKRFFILHFCN672](http://oom.lt/SZKRFFILHFCN672)

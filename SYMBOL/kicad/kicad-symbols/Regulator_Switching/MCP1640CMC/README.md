@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP1640CMC
 - Hex ID: SZKREGULATORSWINGMCP164CMC
 - Name: Regulator_Switching : MCP1640CMC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP1640CMC/
 - Description: Regulator_Switching : MCP1640CMC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP1640CMC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP1640CMC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMCP164CMC](http://oom.lt/SZKREGULATORSWINGMCP164CMC)

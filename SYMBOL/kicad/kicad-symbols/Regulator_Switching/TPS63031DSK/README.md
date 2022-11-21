@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63031DSK
 - Hex ID: SZKREGULATORSWINGTPS6331DSK
 - Name: Regulator_Switching : TPS63031DSK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS63031DSK/
 - Description: Regulator_Switching : TPS63031DSK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63031DSK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63031DSK)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS6331DSK](http://oom.lt/SZKREGULATORSWINGTPS6331DSK)

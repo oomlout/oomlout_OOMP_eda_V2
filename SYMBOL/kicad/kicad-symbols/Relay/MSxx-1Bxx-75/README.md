@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-MSxx-1Bxx-75
 - Hex ID: SZKRELAYMSXX1BXX75
 - Name: Relay : MSxx-1Bxx-75
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/MSxx-1Bxx-75/
 - Description: Relay : MSxx-1Bxx-75
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-MSxx-1Bxx-75](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-MSxx-1Bxx-75)
 - Short Link: [http://oom.lt/SZKRELAYMSXX1BXX75](http://oom.lt/SZKRELAYMSXX1BXX75)

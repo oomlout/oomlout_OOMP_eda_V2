@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3061M
 - Hex ID: SZKRELAYSOLIDSTATEMOC361M
 - Name: Relay_SolidState : MOC3061M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/MOC3061M/
 - Description: Relay_SolidState : MOC3061M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3061M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3061M)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATEMOC361M](http://oom.lt/SZKRELAYSOLIDSTATEMOC361M)

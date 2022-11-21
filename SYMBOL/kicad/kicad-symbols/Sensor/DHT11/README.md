@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor-DHT11
 - Hex ID: SZKSENDHT11
 - Name: Sensor : DHT11
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor/DHT11/
 - Description: Sensor : DHT11
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-DHT11](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-DHT11)
 - Short Link: [http://oom.lt/SZKSENDHT11](http://oom.lt/SZKSENDHT11)

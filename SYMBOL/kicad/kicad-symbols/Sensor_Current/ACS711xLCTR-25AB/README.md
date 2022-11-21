@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS711xLCTR-25AB
 - Hex ID: SZKSENCURRENTACS711XLCTR25AB
 - Name: Sensor_Current : ACS711xLCTR-25AB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS711xLCTR-25AB/
 - Description: Sensor_Current : ACS711xLCTR-25AB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS711xLCTR-25AB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS711xLCTR-25AB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS711XLCTR25AB](http://oom.lt/SZKSENCURRENTACS711XLCTR25AB)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-MMBF170
 - Hex ID: SZKTRANSISTORFETBF17
 - Name: Transistor_FET : MMBF170
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/MMBF170/
 - Description: Transistor_FET : MMBF170
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-MMBF170](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-MMBF170)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBF17](http://oom.lt/SZKTRANSISTORFETBF17)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_PLL-CDCVF2505
 - Hex ID: SZKTIMERPLLCDCVF255
 - Name: Timer_PLL : CDCVF2505
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/CDCVF2505/
 - Description: Timer_PLL : CDCVF2505
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-CDCVF2505](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-CDCVF2505)
 - Short Link: [http://oom.lt/SZKTIMERPLLCDCVF255](http://oom.lt/SZKTIMERPLLCDCVF255)

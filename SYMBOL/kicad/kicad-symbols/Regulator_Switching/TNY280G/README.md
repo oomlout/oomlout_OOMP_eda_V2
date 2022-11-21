@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY280G
 - Hex ID: SZKREGULATORSWINGTNY28G
 - Name: Regulator_Switching : TNY280G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TNY280G/
 - Description: Regulator_Switching : TNY280G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY280G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY280G)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTNY28G](http://oom.lt/SZKREGULATORSWINGTNY28G)

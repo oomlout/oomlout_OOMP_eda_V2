@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP104-SMD
 - Hex ID: SZKSENOPTICALBP14SM
 - Name: Sensor_Optical : BP104-SMD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BP104-SMD/
 - Description: Sensor_Optical : BP104-SMD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP104-SMD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP104-SMD)
 - Short Link: [http://oom.lt/SZKSENOPTICALBP14SM](http://oom.lt/SZKSENOPTICALBP14SM)

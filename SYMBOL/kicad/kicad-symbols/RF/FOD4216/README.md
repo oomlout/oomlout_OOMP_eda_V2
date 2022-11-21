@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-FOD4216
 - Hex ID: SZKRFFOD4216
 - Name: RF : FOD4216
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/FOD4216/
 - Description: RF : FOD4216
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FOD4216](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FOD4216)
 - Short Link: [http://oom.lt/SZKRFFOD4216](http://oom.lt/SZKRFFOD4216)

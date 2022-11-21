@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_ZigBee-XBee_SMT
 - Hex ID: SZKRFZIGBEEXBEES
 - Name: RF_ZigBee : XBee_SMT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_ZigBee/XBee_SMT/
 - Description: RF_ZigBee : XBee_SMT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-XBee_SMT](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-XBee_SMT)
 - Short Link: [http://oom.lt/SZKRFZIGBEEXBEES](http://oom.lt/SZKRFZIGBEEXBEES)

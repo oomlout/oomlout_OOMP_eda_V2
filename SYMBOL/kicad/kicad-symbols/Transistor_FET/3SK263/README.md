@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-3SK263
 - Hex ID: SZKTRANSISTORFET3SK263
 - Name: Transistor_FET : 3SK263
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/3SK263/
 - Description: Transistor_FET : 3SK263
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-3SK263](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-3SK263)
 - Short Link: [http://oom.lt/SZKTRANSISTORFET3SK263](http://oom.lt/SZKTRANSISTORFET3SK263)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_MEC_5G
 - Hex ID: SZKSWSWMEC5G
 - Name: Switch : SW_MEC_5G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_MEC_5G/
 - Description: Switch : SW_MEC_5G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_MEC_5G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_MEC_5G)
 - Short Link: [http://oom.lt/SZKSWSWMEC5G](http://oom.lt/SZKSWSWMEC5G)

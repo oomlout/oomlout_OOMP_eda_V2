@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS722xLCTR-40AB
 - Hex ID: SZKSENCURRENTACS722XLCTR4AB
 - Name: Sensor_Current : ACS722xLCTR-40AB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS722xLCTR-40AB/
 - Description: Sensor_Current : ACS722xLCTR-40AB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS722xLCTR-40AB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS722xLCTR-40AB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS722XLCTR4AB](http://oom.lt/SZKSENCURRENTACS722XLCTR4AB)

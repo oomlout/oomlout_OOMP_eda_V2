@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31855JASA
 - Hex ID: SZKSENTEMPERATUREMAX31855JASA
 - Name: Sensor_Temperature : MAX31855JASA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31855JASA/
 - Description: Sensor_Temperature : MAX31855JASA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31855JASA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31855JASA)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMAX31855JASA](http://oom.lt/SZKSENTEMPERATUREMAX31855JASA)

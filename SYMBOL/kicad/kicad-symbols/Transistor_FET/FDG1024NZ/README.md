@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDG1024NZ
 - Hex ID: SZKTRANSISTORFETFDG124NZ
 - Name: Transistor_FET : FDG1024NZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDG1024NZ/
 - Description: Transistor_FET : FDG1024NZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDG1024NZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDG1024NZ)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDG124NZ](http://oom.lt/SZKTRANSISTORFETFDG124NZ)

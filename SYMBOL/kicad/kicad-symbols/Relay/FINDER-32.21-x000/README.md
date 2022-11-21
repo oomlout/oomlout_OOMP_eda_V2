@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-FINDER-32.21-x000
 - Hex ID: SZKRELAYFINDER3221X
 - Name: Relay : FINDER-32.21-x000
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/FINDER-32.21-x000/
 - Description: Relay : FINDER-32.21-x000
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-32.21-x000](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-32.21-x000)
 - Short Link: [http://oom.lt/SZKRELAYFINDER3221X](http://oom.lt/SZKRELAYFINDER3221X)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV49
 - Hex ID: SZKTRANSISTORBJTBCV49
 - Name: Transistor_BJT : BCV49
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BCV49/
 - Description: Transistor_BJT : BCV49
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV49](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV49)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBCV49](http://oom.lt/SZKTRANSISTORBJTBCV49)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML0030
 - Hex ID: SZKTRANSISTORFETIRLML3
 - Name: Transistor_FET : IRLML0030
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRLML0030/
 - Description: Transistor_FET : IRLML0030
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML0030](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML0030)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRLML3](http://oom.lt/SZKTRANSISTORFETIRLML3)

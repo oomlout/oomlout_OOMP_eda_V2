@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-LBB110
 - Hex ID: SZKRFLBB11
 - Name: RF : LBB110
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/LBB110/
 - Description: RF : LBB110
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-LBB110](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-LBB110)
 - Short Link: [http://oom.lt/SZKRFLBB11](http://oom.lt/SZKRFLBB11)

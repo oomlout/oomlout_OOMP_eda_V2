@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307-F43
 - Hex ID: SZKSENPROXIMITYITR837F43
 - Name: Sensor_Proximity : ITR8307-F43
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR8307-F43/
 - Description: Sensor_Proximity : ITR8307-F43
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307-F43](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307-F43)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYITR837F43](http://oom.lt/SZKSENPROXIMITYITR837F43)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC124X
 - Hex ID: SZKTRANSISTORBJTDTC124X
 - Name: Transistor_BJT : DTC124X
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTC124X/
 - Description: Transistor_BJT : DTC124X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC124X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC124X)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTC124X](http://oom.lt/SZKTRANSISTORBJTDTC124X)

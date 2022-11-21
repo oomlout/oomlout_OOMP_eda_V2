@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM12
 - Hex ID: SZKRELAYIM12
 - Name: Relay : IM12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM12/
 - Description: Relay : IM12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM12)
 - Short Link: [http://oom.lt/SZKRELAYIM12](http://oom.lt/SZKRELAYIM12)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-ADG919BCPZ
 - Hex ID: SZKRFSWADG919BCPZ
 - Name: RF_Switch : ADG919BCPZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Switch/ADG919BCPZ/
 - Description: RF_Switch : ADG919BCPZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-ADG919BCPZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-ADG919BCPZ)
 - Short Link: [http://oom.lt/SZKRFSWADG919BCPZ](http://oom.lt/SZKRFSWADG919BCPZ)

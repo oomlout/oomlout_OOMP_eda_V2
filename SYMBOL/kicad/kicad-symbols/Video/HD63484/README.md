@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-HD63484
 - Hex ID: SZKVIDEOHD63484
 - Name: Video : HD63484
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/HD63484/
 - Description: Video : HD63484
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-HD63484](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-HD63484)
 - Short Link: [http://oom.lt/SZKVIDEOHD63484](http://oom.lt/SZKVIDEOHD63484)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54560BDDA
 - Hex ID: SZKREGULATORSWINGTPS5456BDDA
 - Name: Regulator_Switching : TPS54560BDDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS54560BDDA/
 - Description: Regulator_Switching : TPS54560BDDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54560BDDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54560BDDA)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS5456BDDA](http://oom.lt/SZKREGULATORSWINGTPS5456BDDA)

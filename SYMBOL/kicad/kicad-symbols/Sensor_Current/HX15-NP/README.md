@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HX15-NP
 - Hex ID: SZKSENCURRENTHX15NP
 - Name: Sensor_Current : HX15-NP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/HX15-NP/
 - Description: Sensor_Current : HX15-NP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HX15-NP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HX15-NP)
 - Short Link: [http://oom.lt/SZKSENCURRENTHX15NP](http://oom.lt/SZKSENCURRENTHX15NP)

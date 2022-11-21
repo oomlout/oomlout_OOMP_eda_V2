@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS8050
 - Hex ID: SZKTRANSISTORFETFDMS85
 - Name: Transistor_FET : FDMS8050
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS8050/
 - Description: Transistor_FET : FDMS8050
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS8050](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS8050)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMS85](http://oom.lt/SZKTRANSISTORFETFDMS85)

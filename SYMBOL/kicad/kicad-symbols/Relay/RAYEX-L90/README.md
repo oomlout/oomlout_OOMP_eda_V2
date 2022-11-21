@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90
 - Hex ID: SZKRELAYRAYEXL9
 - Name: Relay : RAYEX-L90
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/RAYEX-L90/
 - Description: Relay : RAYEX-L90
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90)
 - Short Link: [http://oom.lt/SZKRELAYRAYEXL9](http://oom.lt/SZKRELAYRAYEXL9)

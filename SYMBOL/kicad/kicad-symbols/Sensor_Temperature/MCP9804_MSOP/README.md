@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9804_MSOP
 - Hex ID: SZKSENTEMPERATUREMCP984MS
 - Name: Sensor_Temperature : MCP9804_MSOP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9804_MSOP/
 - Description: Sensor_Temperature : MCP9804_MSOP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9804_MSOP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9804_MSOP)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMCP984MS](http://oom.lt/SZKSENTEMPERATUREMCP984MS)

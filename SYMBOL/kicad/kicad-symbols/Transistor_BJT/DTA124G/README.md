@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA124G
 - Hex ID: SZKTRANSISTORBJTDTA124G
 - Name: Transistor_BJT : DTA124G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTA124G/
 - Description: Transistor_BJT : DTA124G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA124G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA124G)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTA124G](http://oom.lt/SZKTRANSISTORBJTDTA124G)

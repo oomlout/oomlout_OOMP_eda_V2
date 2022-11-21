@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Timer-CD4541BM
 - Hex ID: SZKTIMERCD4541BM
 - Name: Timer : CD4541BM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/CD4541BM/
 - Description: Timer : CD4541BM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-CD4541BM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-CD4541BM)
 - Short Link: [http://oom.lt/SZKTIMERCD4541BM](http://oom.lt/SZKTIMERCD4541BM)

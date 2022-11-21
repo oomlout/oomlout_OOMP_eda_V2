@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA123E
 - Hex ID: SZKTRANSISTORBJTDTA123E
 - Name: Transistor_BJT : DTA123E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTA123E/
 - Description: Transistor_BJT : DTA123E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA123E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA123E)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTA123E](http://oom.lt/SZKTRANSISTORBJTDTA123E)

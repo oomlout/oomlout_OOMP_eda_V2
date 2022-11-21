@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-SI582
 - Hex ID: SZKVIDEOSI582
 - Name: Video : SI582
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/SI582/
 - Description: Video : SI582
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-SI582](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-SI582)
 - Short Link: [http://oom.lt/SZKVIDEOSI582](http://oom.lt/SZKVIDEOSI582)

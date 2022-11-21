@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-KSWHA-1-20
 - Hex ID: SZKRFSWKSWHA12
 - Name: RF_Switch : KSWHA-1-20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Switch/KSWHA-1-20/
 - Description: RF_Switch : KSWHA-1-20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-KSWHA-1-20](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-KSWHA-1-20)
 - Short Link: [http://oom.lt/SZKRFSWKSWHA12](http://oom.lt/SZKRFSWKSWHA12)

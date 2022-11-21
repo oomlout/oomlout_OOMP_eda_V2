@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-180
 - Hex ID: SZKRFFILLFCN18
 - Name: RF_Filter : LFCN-180
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-180/
 - Description: RF_Filter : LFCN-180
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-180](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-180)
 - Short Link: [http://oom.lt/SZKRFFILLFCN18](http://oom.lt/SZKRFFILLFCN18)

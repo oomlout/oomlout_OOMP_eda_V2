@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-LF-CN470
 - Hex ID: SZKRFMORAK811LFCN47
 - Name: RF_Module : RAK811-LF-CN470
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/RAK811-LF-CN470/
 - Description: RF_Module : RAK811-LF-CN470
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-LF-CN470](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-LF-CN470)
 - Short Link: [http://oom.lt/SZKRFMORAK811LFCN47](http://oom.lt/SZKRFMORAK811LFCN47)

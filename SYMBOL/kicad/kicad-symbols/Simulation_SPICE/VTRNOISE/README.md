@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRNOISE
 - Hex ID: SZKSIMULATIONSPICEVTRNOISE
 - Name: Simulation_SPICE : VTRNOISE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRNOISE/
 - Description: Simulation_SPICE : VTRNOISE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRNOISE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRNOISE)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVTRNOISE](http://oom.lt/SZKSIMULATIONSPICEVTRNOISE)

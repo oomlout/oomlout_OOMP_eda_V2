@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-G6E
 - Hex ID: SZKRELAYG6E
 - Name: Relay : G6E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/G6E/
 - Description: Relay : G6E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G6E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G6E)
 - Short Link: [http://oom.lt/SZKRELAYG6E](http://oom.lt/SZKRELAYG6E)

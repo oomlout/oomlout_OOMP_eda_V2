@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS781xLRTR-100U
 - Hex ID: SZKSENCURRENTACS781XLRTR1U
 - Name: Sensor_Current : ACS781xLRTR-100U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS781xLRTR-100U/
 - Description: Sensor_Current : ACS781xLRTR-100U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS781xLRTR-100U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS781xLRTR-100U)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS781XLRTR1U](http://oom.lt/SZKSENCURRENTACS781XLRTR1U)

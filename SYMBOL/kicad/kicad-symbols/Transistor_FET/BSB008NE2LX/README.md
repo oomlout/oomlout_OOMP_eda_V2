@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB008NE2LX
 - Hex ID: SZKTRANSISTORFETBSB8NE2LX
 - Name: Transistor_FET : BSB008NE2LX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSB008NE2LX/
 - Description: Transistor_FET : BSB008NE2LX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB008NE2LX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB008NE2LX)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSB8NE2LX](http://oom.lt/SZKTRANSISTORFETBSB8NE2LX)

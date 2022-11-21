@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor-AS3935
 - Hex ID: SZKSENAS3935
 - Name: Sensor : AS3935
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor/AS3935/
 - Description: Sensor : AS3935
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-AS3935](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-AS3935)
 - Short Link: [http://oom.lt/SZKSENAS3935](http://oom.lt/SZKSENAS3935)

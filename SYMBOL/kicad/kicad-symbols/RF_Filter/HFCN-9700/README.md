@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-9700
 - Hex ID: SZKRFFILHFCN97
 - Name: RF_Filter : HFCN-9700
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-9700/
 - Description: RF_Filter : HFCN-9700
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-9700](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-9700)
 - Short Link: [http://oom.lt/SZKRFFILHFCN97](http://oom.lt/SZKRFFILHFCN97)

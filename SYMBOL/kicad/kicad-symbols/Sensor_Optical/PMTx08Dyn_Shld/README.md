@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-PMTx08Dyn_Shld
 - Hex ID: SZKSENOPTICALPMTX8DYNSHLD
 - Name: Sensor_Optical : PMTx08Dyn_Shld
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/PMTx08Dyn_Shld/
 - Description: Sensor_Optical : PMTx08Dyn_Shld
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-PMTx08Dyn_Shld](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-PMTx08Dyn_Shld)
 - Short Link: [http://oom.lt/SZKSENOPTICALPMTX8DYNSHLD](http://oom.lt/SZKSENOPTICALPMTX8DYNSHLD)

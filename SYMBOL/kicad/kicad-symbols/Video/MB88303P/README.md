@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-MB88303P
 - Hex ID: SZKVIDEOMB8833P
 - Name: Video : MB88303P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/MB88303P/
 - Description: Video : MB88303P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-MB88303P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-MB88303P)
 - Short Link: [http://oom.lt/SZKVIDEOMB8833P](http://oom.lt/SZKVIDEOMB8833P)

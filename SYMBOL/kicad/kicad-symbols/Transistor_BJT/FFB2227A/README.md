@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB2227A
 - Hex ID: SZKTRANSISTORBJTFFB2227A
 - Name: Transistor_BJT : FFB2227A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/FFB2227A/
 - Description: Transistor_BJT : FFB2227A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB2227A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB2227A)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTFFB2227A](http://oom.lt/SZKTRANSISTORBJTFFB2227A)

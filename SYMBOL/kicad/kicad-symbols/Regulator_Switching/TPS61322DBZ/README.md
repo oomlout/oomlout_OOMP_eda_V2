@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61322DBZ
 - Hex ID: SZKREGULATORSWINGTPS61322DBZ
 - Name: Regulator_Switching : TPS61322DBZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS61322DBZ/
 - Description: Regulator_Switching : TPS61322DBZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61322DBZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61322DBZ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS61322DBZ](http://oom.lt/SZKREGULATORSWINGTPS61322DBZ)

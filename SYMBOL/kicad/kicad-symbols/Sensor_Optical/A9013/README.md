@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-A9013
 - Hex ID: SZKSENOPTICALA913
 - Name: Sensor_Optical : A9013
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/A9013/
 - Description: Sensor_Optical : A9013
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-A9013](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-A9013)
 - Short Link: [http://oom.lt/SZKSENOPTICALA913](http://oom.lt/SZKSENOPTICALA913)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-ADG918BRM
 - Hex ID: SZKRFSWADG918BRM
 - Name: RF_Switch : ADG918BRM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Switch/ADG918BRM/
 - Description: RF_Switch : ADG918BRM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-ADG918BRM](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-ADG918BRM)
 - Short Link: [http://oom.lt/SZKRFSWADG918BRM](http://oom.lt/SZKRFSWADG918BRM)

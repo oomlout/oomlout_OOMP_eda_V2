@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-  (symbol "5KPxxA" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "5KPxxA" (extends "1.5KExxA")
     (property "Reference" "D" (id 0) (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -20,45 +20,6 @@
     )
     (property "ki_fp_filters" "D?P600*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "5KPxxA_0_1"
-      (polyline
-        (pts
-          (xy 1.27 0)
-          (xy -1.27 0)
-        )
-        (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -0.762 1.27)
-          (xy -1.27 1.27)
-          (xy -1.27 -1.27)
-        )
-        (stroke (width 0.254) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 1.27 1.27)
-          (xy 1.27 -1.27)
-          (xy -1.27 0)
-          (xy 1.27 1.27)
-        )
-        (stroke (width 0.254) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-    )
-    (symbol "5KPxxA_1_1"
-      (pin passive line (at -3.81 0 0) (length 2.54)
-        (name "A1" (effects (font (size 1.27 1.27))))
-        (number "1" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 3.81 0 180) (length 2.54)
-        (name "A2" (effects (font (size 1.27 1.27))))
-        (number "2" (effects (font (size 1.27 1.27))))
-      )
     )
   )
 )

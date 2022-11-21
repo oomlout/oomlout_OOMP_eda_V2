@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD09P10-195
 - Hex ID: SZKTRANSISTORFETSUD9P1195
 - Name: Transistor_FET : SUD09P10-195
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/SUD09P10-195/
 - Description: Transistor_FET : SUD09P10-195
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD09P10-195](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD09P10-195)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSUD9P1195](http://oom.lt/SZKTRANSISTORFETSUD9P1195)

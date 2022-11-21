@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VSFFM
 - Hex ID: SZKSIMULATIONSPICEVSFFM
 - Name: Simulation_SPICE : VSFFM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VSFFM/
 - Description: Simulation_SPICE : VSFFM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VSFFM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VSFFM)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVSFFM](http://oom.lt/SZKSIMULATIONSPICEVSFFM)

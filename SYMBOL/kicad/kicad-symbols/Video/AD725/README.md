@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-AD725
 - Hex ID: SZKVIDEOAD725
 - Name: Video : AD725
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/AD725/
 - Description: Video : AD725
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-AD725](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-AD725)
 - Short Link: [http://oom.lt/SZKVIDEOAD725](http://oom.lt/SZKVIDEOAD725)

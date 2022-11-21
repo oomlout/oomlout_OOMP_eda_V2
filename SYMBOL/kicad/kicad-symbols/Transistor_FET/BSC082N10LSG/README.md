@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC082N10LSG
 - Hex ID: SZKTRANSISTORFETBSC82N1LSG
 - Name: Transistor_FET : BSC082N10LSG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC082N10LSG/
 - Description: Transistor_FET : BSC082N10LSG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC082N10LSG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC082N10LSG)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC82N1LSG](http://oom.lt/SZKTRANSISTORFETBSC82N1LSG)

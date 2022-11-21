@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-CNY70
 - Hex ID: SZKSENPROXIMITYCNY7
 - Name: Sensor_Proximity : CNY70
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/CNY70/
 - Description: Sensor_Proximity : CNY70
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-CNY70](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-CNY70)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYCNY7](http://oom.lt/SZKSENPROXIMITYCNY7)

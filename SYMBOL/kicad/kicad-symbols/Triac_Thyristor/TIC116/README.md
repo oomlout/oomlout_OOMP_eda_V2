@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Triac_Thyristor-TIC116
 - Hex ID: SZKTRIACTHYRISTORTIC116
 - Name: Triac_Thyristor : TIC116
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/TIC116/
 - Description: Triac_Thyristor : TIC116
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-TIC116](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-TIC116)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORTIC116](http://oom.lt/SZKTRIACTHYRISTORTIC116)

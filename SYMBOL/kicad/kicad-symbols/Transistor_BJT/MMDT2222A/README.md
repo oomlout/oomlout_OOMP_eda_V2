@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT2222A
 - Hex ID: SZKTRANSISTORBJTDT2222A
 - Name: Transistor_BJT : MMDT2222A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMDT2222A/
 - Description: Transistor_BJT : MMDT2222A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT2222A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT2222A)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDT2222A](http://oom.lt/SZKTRANSISTORBJTDT2222A)

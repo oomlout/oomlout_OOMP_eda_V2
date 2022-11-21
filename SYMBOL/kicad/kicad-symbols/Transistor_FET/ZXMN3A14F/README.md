@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN3A14F
 - Hex ID: SZKTRANSISTORFETZXMN3A14F
 - Name: Transistor_FET : ZXMN3A14F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN3A14F/
 - Description: Transistor_FET : ZXMN3A14F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN3A14F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN3A14F)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZXMN3A14F](http://oom.lt/SZKTRANSISTORFETZXMN3A14F)

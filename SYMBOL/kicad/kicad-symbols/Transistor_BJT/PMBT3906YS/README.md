@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3906YS
 - Hex ID: SZKTRANSISTORBJTPMBT396YS
 - Name: Transistor_BJT : PMBT3906YS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PMBT3906YS/
 - Description: Transistor_BJT : PMBT3906YS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3906YS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3906YS)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPMBT396YS](http://oom.lt/SZKTRANSISTORBJTPMBT396YS)

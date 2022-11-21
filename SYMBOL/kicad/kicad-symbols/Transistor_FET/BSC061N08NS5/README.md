@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC061N08NS5
 - Hex ID: SZKTRANSISTORFETBSC61N8NS5
 - Name: Transistor_FET : BSC061N08NS5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC061N08NS5/
 - Description: Transistor_FET : BSC061N08NS5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC061N08NS5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC061N08NS5)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC61N8NS5](http://oom.lt/SZKTRANSISTORFETBSC61N8NS5)

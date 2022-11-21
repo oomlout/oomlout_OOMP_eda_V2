@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-SA556
 - Hex ID: SZKTIMERSA556
 - Name: Timer : SA556
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/SA556/
 - Description: Timer : SA556
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SA556](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SA556)
 - Short Link: [http://oom.lt/SZKTIMERSA556](http://oom.lt/SZKTIMERSA556)

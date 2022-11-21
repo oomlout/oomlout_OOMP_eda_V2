@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RM50-xx21
 - Hex ID: SZKRELAYRM5XX21
 - Name: Relay : RM50-xx21
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/RM50-xx21/
 - Description: Relay : RM50-xx21
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RM50-xx21](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RM50-xx21)
 - Short Link: [http://oom.lt/SZKRELAYRM5XX21](http://oom.lt/SZKRELAYRM5XX21)

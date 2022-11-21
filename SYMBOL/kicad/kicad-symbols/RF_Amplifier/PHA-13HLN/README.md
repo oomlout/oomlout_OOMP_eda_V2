@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-PHA-13HLN
 - Hex ID: SZKRFAMPLIFIERPHA13HLN
 - Name: RF_Amplifier : PHA-13HLN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/PHA-13HLN/
 - Description: RF_Amplifier : PHA-13HLN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-PHA-13HLN](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-PHA-13HLN)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERPHA13HLN](http://oom.lt/SZKRFAMPLIFIERPHA13HLN)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-TSM2301ACX
 - Hex ID: SZKTRANSISTORFETTSM231ACX
 - Name: Transistor_FET : TSM2301ACX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/TSM2301ACX/
 - Description: Transistor_FET : TSM2301ACX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-TSM2301ACX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-TSM2301ACX)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETTSM231ACX](http://oom.lt/SZKTRANSISTORFETTSM231ACX)

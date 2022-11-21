@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Reed_Opener
 - Hex ID: SZKSWSWREEDOPENER
 - Name: Switch : SW_Reed_Opener
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Reed_Opener/
 - Description: Switch : SW_Reed_Opener
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Reed_Opener](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Reed_Opener)
 - Short Link: [http://oom.lt/SZKSWSWREEDOPENER](http://oom.lt/SZKSWSWREEDOPENER)

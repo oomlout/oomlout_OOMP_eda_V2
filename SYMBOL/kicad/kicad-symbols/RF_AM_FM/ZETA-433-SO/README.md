@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_AM_FM-ZETA-433-SO
 - Hex ID: SZKRFAMFMZETA433SO
 - Name: RF_AM_FM : ZETA-433-SO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_AM_FM/ZETA-433-SO/
 - Description: RF_AM_FM : ZETA-433-SO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-ZETA-433-SO](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-ZETA-433-SO)
 - Short Link: [http://oom.lt/SZKRFAMFMZETA433SO](http://oom.lt/SZKRFAMFMZETA433SO)

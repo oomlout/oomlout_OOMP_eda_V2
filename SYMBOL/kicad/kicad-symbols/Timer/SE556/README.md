@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-SE556
 - Hex ID: SZKTIMERSE556
 - Name: Timer : SE556
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/SE556/
 - Description: Timer : SE556
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SE556](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SE556)
 - Short Link: [http://oom.lt/SZKTIMERSE556](http://oom.lt/SZKTIMERSE556)

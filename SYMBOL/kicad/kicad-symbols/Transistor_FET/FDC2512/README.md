@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDC2512
 - Hex ID: SZKTRANSISTORFETFDC2512
 - Name: Transistor_FET : FDC2512
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDC2512/
 - Description: Transistor_FET : FDC2512
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDC2512](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDC2512)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDC2512](http://oom.lt/SZKTRANSISTORFETFDC2512)

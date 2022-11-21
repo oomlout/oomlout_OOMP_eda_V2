@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CZ-3814
 - Hex ID: SZKSENCURRENTCZ3814
 - Name: Sensor_Current : CZ-3814
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CZ-3814/
 - Description: Sensor_Current : CZ-3814
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CZ-3814](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CZ-3814)
 - Short Link: [http://oom.lt/SZKSENCURRENTCZ3814](http://oom.lt/SZKSENCURRENTCZ3814)

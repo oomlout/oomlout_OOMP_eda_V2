@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-APDS-9301
 - Hex ID: SZKSENOPTICALAPDS931
 - Name: Sensor_Optical : APDS-9301
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/APDS-9301/
 - Description: Sensor_Optical : APDS-9301
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-APDS-9301](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-APDS-9301)
 - Short Link: [http://oom.lt/SZKSENOPTICALAPDS931](http://oom.lt/SZKSENOPTICALAPDS931)

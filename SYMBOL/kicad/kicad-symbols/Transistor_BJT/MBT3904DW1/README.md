@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MBT3904DW1
 - Hex ID: SZKTRANSISTORBJTMBT394DW1
 - Name: Transistor_BJT : MBT3904DW1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MBT3904DW1/
 - Description: Transistor_BJT : MBT3904DW1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MBT3904DW1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MBT3904DW1)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTMBT394DW1](http://oom.lt/SZKTRANSISTORBJTMBT394DW1)

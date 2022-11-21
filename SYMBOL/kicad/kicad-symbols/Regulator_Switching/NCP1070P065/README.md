@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1070P065
 - Hex ID: SZKREGULATORSWINGNCP17P65
 - Name: Regulator_Switching : NCP1070P065
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1070P065/
 - Description: Regulator_Switching : NCP1070P065
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1070P065](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1070P065)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGNCP17P65](http://oom.lt/SZKREGULATORSWINGNCP17P65)

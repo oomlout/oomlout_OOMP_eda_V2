@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-FRT5
 - Hex ID: SZKRELAYFRT5
 - Name: Relay : FRT5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/FRT5/
 - Description: Relay : FRT5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FRT5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FRT5)
 - Short Link: [http://oom.lt/SZKRELAYFRT5](http://oom.lt/SZKRELAYFRT5)

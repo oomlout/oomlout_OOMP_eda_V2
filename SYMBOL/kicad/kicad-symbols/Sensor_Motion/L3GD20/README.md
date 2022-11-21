@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-L3GD20
 - Hex ID: SZKSENMOTIONL3GD2
 - Name: Sensor_Motion : L3GD20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/L3GD20/
 - Description: Sensor_Motion : L3GD20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-L3GD20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-L3GD20)
 - Short Link: [http://oom.lt/SZKSENMOTIONL3GD2](http://oom.lt/SZKSENMOTIONL3GD2)

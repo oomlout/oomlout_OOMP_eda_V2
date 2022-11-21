@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSR57
 - Hex ID: SZKTRANSISTORFETBSR57
 - Name: Transistor_FET : BSR57
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSR57/
 - Description: Transistor_FET : BSR57
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSR57](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSR57)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSR57](http://oom.lt/SZKTRANSISTORFETBSR57)

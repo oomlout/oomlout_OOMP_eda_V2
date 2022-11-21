@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP103B
 - Hex ID: SZKSENOPTICALBP13B
 - Name: Sensor_Optical : BP103B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BP103B/
 - Description: Sensor_Optical : BP103B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP103B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP103B)
 - Short Link: [http://oom.lt/SZKSENOPTICALBP13B](http://oom.lt/SZKSENOPTICALBP13B)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6636
 - Hex ID: SZKTRANSISTORFETIRF6636
 - Name: Transistor_FET : IRF6636
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6636/
 - Description: Transistor_FET : IRF6636
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6636](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6636)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6636](http://oom.lt/SZKTRANSISTORFETIRF6636)

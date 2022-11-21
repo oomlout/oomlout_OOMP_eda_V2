@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1529A
 - Hex ID: SZKREGULATORSWINGNCP1529A
 - Name: Regulator_Switching : NCP1529A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1529A/
 - Description: Regulator_Switching : NCP1529A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1529A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1529A)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGNCP1529A](http://oom.lt/SZKREGULATORSWINGNCP1529A)

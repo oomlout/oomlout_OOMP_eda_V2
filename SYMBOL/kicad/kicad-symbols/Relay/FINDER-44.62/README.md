@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-FINDER-44.62
 - Hex ID: SZKRELAYFINDER4462
 - Name: Relay : FINDER-44.62
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/FINDER-44.62/
 - Description: Relay : FINDER-44.62
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-44.62](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-44.62)
 - Short Link: [http://oom.lt/SZKRELAYFINDER4462](http://oom.lt/SZKRELAYFINDER4462)

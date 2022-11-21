@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS724xMATR-30AU
 - Hex ID: SZKSENCURRENTACS724XMATR3AU
 - Name: Sensor_Current : ACS724xMATR-30AU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS724xMATR-30AU/
 - Description: Sensor_Current : ACS724xMATR-30AU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS724xMATR-30AU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS724xMATR-30AU)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS724XMATR3AU](http://oom.lt/SZKSENCURRENTACS724XMATR3AU)

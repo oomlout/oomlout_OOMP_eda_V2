@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PA0264NL
 - Hex ID: SZKTRPA264NL
 - Name: Transformer : PA0264NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PA0264NL/
 - Description: Transformer : PA0264NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA0264NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA0264NL)
 - Short Link: [http://oom.lt/SZKTRPA264NL](http://oom.lt/SZKTRPA264NL)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN67D7L
 - Hex ID: SZKTRANSISTORFETDMN67D7L
 - Name: Transistor_FET : DMN67D7L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN67D7L/
 - Description: Transistor_FET : DMN67D7L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN67D7L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN67D7L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN67D7L](http://oom.lt/SZKTRANSISTORFETDMN67D7L)

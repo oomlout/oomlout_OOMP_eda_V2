@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FQP27P06
 - Hex ID: SZKTRANSISTORFETFQP27P6
 - Name: Transistor_FET : FQP27P06
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FQP27P06/
 - Description: Transistor_FET : FQP27P06
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FQP27P06](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FQP27P06)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFQP27P6](http://oom.lt/SZKTRANSISTORFETFQP27P6)

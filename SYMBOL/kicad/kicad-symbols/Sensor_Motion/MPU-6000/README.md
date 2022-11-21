@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-MPU-6000
 - Hex ID: SZKSENMOTIONMPU6
 - Name: Sensor_Motion : MPU-6000
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/MPU-6000/
 - Description: Sensor_Motion : MPU-6000
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-MPU-6000](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-MPU-6000)
 - Short Link: [http://oom.lt/SZKSENMOTIONMPU6](http://oom.lt/SZKSENMOTIONMPU6)

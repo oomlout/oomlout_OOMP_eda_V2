@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GSM-UL865
 - Hex ID: SZKGSMUL865
 - Name: RF_GSM : UL865
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GSM/UL865/
 - Description: RF_GSM : UL865
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-UL865](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-UL865)
 - Short Link: [http://oom.lt/SZKGSMUL865](http://oom.lt/SZKGSMUL865)

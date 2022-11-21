@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TR60_IC2
 - Hex ID: SZKTRTR6IC2
 - Name: Transformer : TR60_IC2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TR60_IC2/
 - Description: Transformer : TR60_IC2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TR60_IC2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TR60_IC2)
 - Short Link: [http://oom.lt/SZKTRTR6IC2](http://oom.lt/SZKTRTR6IC2)

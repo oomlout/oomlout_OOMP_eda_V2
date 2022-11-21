@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDC6330L
 - Hex ID: SZKTRANSISTORFETFDC633L
 - Name: Transistor_FET : FDC6330L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDC6330L/
 - Description: Transistor_FET : FDC6330L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDC6330L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDC6330L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDC633L](http://oom.lt/SZKTRANSISTORFETFDC633L)

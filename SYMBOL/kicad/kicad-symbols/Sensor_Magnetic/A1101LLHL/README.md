@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1101LLHL
 - Hex ID: SZKSENMAGNETICA111LLHL
 - Name: Sensor_Magnetic : A1101LLHL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/A1101LLHL/
 - Description: Sensor_Magnetic : A1101LLHL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1101LLHL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1101LLHL)
 - Short Link: [http://oom.lt/SZKSENMAGNETICA111LLHL](http://oom.lt/SZKSENMAGNETICA111LLHL)

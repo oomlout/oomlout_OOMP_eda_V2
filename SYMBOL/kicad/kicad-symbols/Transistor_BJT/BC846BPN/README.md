@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC846BPN
 - Hex ID: SZKTRANSISTORBJTBC846BPN
 - Name: Transistor_BJT : BC846BPN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC846BPN/
 - Description: Transistor_BJT : BC846BPN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC846BPN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC846BPN)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC846BPN](http://oom.lt/SZKTRANSISTORBJTBC846BPN)

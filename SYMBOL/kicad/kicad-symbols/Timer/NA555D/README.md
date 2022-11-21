@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-NA555D
 - Hex ID: SZKTIMERNA555D
 - Name: Timer : NA555D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/NA555D/
 - Description: Timer : NA555D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-NA555D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-NA555D)
 - Short Link: [http://oom.lt/SZKTIMERNA555D](http://oom.lt/SZKTIMERNA555D)

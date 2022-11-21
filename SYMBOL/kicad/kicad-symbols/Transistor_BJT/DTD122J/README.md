@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD122J
 - Hex ID: SZKTRANSISTORBJTDTD122J
 - Name: Transistor_BJT : DTD122J
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTD122J/
 - Description: Transistor_BJT : DTD122J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD122J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD122J)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTD122J](http://oom.lt/SZKTRANSISTORBJTDTD122J)

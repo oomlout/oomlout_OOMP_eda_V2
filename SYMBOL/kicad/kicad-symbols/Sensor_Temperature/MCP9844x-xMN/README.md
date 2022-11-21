@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9844x-xMN
 - Hex ID: SZKSENTEMPERATUREMCP9844XXMN
 - Name: Sensor_Temperature : MCP9844x-xMN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9844x-xMN/
 - Description: Sensor_Temperature : MCP9844x-xMN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9844x-xMN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9844x-xMN)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMCP9844XXMN](http://oom.lt/SZKSENTEMPERATUREMCP9844XXMN)

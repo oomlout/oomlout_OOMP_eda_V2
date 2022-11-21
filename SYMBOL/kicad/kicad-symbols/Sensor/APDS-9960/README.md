@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Sensor-APDS-9960
 - Hex ID: SZKSENAPDS996
 - Name: Sensor : APDS-9960
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor/APDS-9960/
 - Description: Sensor : APDS-9960
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-APDS-9960](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-APDS-9960)
 - Short Link: [http://oom.lt/SZKSENAPDS996](http://oom.lt/SZKSENAPDS996)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_IGBT-STGP7NC60HD
 - Hex ID: SZKTRANSISTORIGBTSTGP7NC6HD
 - Name: Transistor_IGBT : STGP7NC60HD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/STGP7NC60HD/
 - Description: Transistor_IGBT : STGP7NC60HD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_IGBT-STGP7NC60HD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_IGBT-STGP7NC60HD)
 - Short Link: [http://oom.lt/SZKTRANSISTORIGBTSTGP7NC6HD](http://oom.lt/SZKTRANSISTORIGBTSTGP7NC6HD)

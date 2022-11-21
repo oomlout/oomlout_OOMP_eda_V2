@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5055A1xDBZxQ1
 - Hex ID: SZKSENMAGNETICDRV555A1XDBZXQ1
 - Name: Sensor_Magnetic : DRV5055A1xDBZxQ1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5055A1xDBZxQ1/
 - Description: Sensor_Magnetic : DRV5055A1xDBZxQ1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5055A1xDBZxQ1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5055A1xDBZxQ1)
 - Short Link: [http://oom.lt/SZKSENMAGNETICDRV555A1XDBZXQ1](http://oom.lt/SZKSENMAGNETICDRV555A1XDBZXQ1)

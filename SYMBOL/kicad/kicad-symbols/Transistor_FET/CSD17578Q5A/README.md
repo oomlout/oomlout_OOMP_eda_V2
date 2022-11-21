@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD17578Q5A
 - Hex ID: SZKTRANSISTORFETCSD17578Q5A
 - Name: Transistor_FET : CSD17578Q5A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD17578Q5A/
 - Description: Transistor_FET : CSD17578Q5A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD17578Q5A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD17578Q5A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETCSD17578Q5A](http://oom.lt/SZKTRANSISTORFETCSD17578Q5A)

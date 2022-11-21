@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP126
 - Hex ID: SZKTRANSISTORBJTTIP126
 - Name: Transistor_BJT : TIP126
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP126/
 - Description: Transistor_BJT : TIP126
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP126](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP126)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP126](http://oom.lt/SZKTRANSISTORBJTTIP126)

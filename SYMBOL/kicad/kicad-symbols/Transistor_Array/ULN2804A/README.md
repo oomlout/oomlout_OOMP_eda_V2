@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2804A
 - Hex ID: SZKTRANSISTORARRAYULN284A
 - Name: Transistor_Array : ULN2804A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Array/ULN2804A/
 - Description: Transistor_Array : ULN2804A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2804A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2804A)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYULN284A](http://oom.lt/SZKTRANSISTORARRAYULN284A)

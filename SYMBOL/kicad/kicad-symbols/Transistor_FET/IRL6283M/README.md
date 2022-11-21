@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6283M
 - Hex ID: SZKTRANSISTORFETIRL6283M
 - Name: Transistor_FET : IRL6283M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRL6283M/
 - Description: Transistor_FET : IRL6283M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6283M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6283M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRL6283M](http://oom.lt/SZKTRANSISTORFETIRL6283M)

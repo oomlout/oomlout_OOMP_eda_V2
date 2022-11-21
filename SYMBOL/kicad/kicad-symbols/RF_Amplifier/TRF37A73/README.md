@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-TRF37A73
 - Hex ID: SZKRFAMPLIFIERTRF37A73
 - Name: RF_Amplifier : TRF37A73
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/TRF37A73/
 - Description: RF_Amplifier : TRF37A73
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-TRF37A73](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-TRF37A73)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERTRF37A73](http://oom.lt/SZKRFAMPLIFIERTRF37A73)

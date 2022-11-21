@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA114G
 - Hex ID: SZKTRANSISTORBJTDTA114G
 - Name: Transistor_BJT : DTA114G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTA114G/
 - Description: Transistor_BJT : DTA114G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA114G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA114G)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTA114G](http://oom.lt/SZKTRANSISTORBJTDTA114G)

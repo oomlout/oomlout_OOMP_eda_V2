@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-TDA9503
 - Hex ID: SZKVIDEOTDA953
 - Name: Video : TDA9503
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/TDA9503/
 - Description: Video : TDA9503
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA9503](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA9503)
 - Short Link: [http://oom.lt/SZKVIDEOTDA953](http://oom.lt/SZKVIDEOTDA953)

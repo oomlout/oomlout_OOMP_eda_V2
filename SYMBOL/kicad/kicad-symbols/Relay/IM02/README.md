@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM02
 - Hex ID: SZKRELAYIM2
 - Name: Relay : IM02
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM02/
 - Description: Relay : IM02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM02](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM02)
 - Short Link: [http://oom.lt/SZKRELAYIM2](http://oom.lt/SZKRELAYIM2)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV29
 - Hex ID: SZKTRANSISTORBJTBCV29
 - Name: Transistor_BJT : BCV29
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BCV29/
 - Description: Transistor_BJT : BCV29
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV29](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV29)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBCV29](http://oom.lt/SZKTRANSISTORBJTBCV29)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-FINDER-36.11
 - Hex ID: SZKRELAYFINDER3611
 - Name: Relay : FINDER-36.11
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/FINDER-36.11/
 - Description: Relay : FINDER-36.11
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-36.11](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-36.11)
 - Short Link: [http://oom.lt/SZKRELAYFINDER3611](http://oom.lt/SZKRELAYFINDER3611)

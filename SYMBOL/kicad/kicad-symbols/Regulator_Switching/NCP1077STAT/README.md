@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1077STAT
 - Hex ID: SZKREGULATORSWINGNCP177STAT
 - Name: Regulator_Switching : NCP1077STAT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1077STAT/
 - Description: Regulator_Switching : NCP1077STAT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1077STAT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1077STAT)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGNCP177STAT](http://oom.lt/SZKREGULATORSWINGNCP177STAT)

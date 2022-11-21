@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-SY58032U
 - Hex ID: SZKTIMERSY5832U
 - Name: Timer : SY58032U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/SY58032U/
 - Description: Timer : SY58032U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SY58032U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SY58032U)
 - Short Link: [http://oom.lt/SZKTIMERSY5832U](http://oom.lt/SZKTIMERSY5832U)

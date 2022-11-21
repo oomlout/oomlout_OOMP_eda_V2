@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-Si3456DDV
 - Hex ID: SZKTRANSISTORFETSI3456DDV
 - Name: Transistor_FET : Si3456DDV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si3456DDV/
 - Description: Transistor_FET : Si3456DDV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si3456DDV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si3456DDV)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSI3456DDV](http://oom.lt/SZKTRANSISTORFETSI3456DDV)

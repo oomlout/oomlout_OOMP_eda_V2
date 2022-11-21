@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC550
 - Hex ID: SZKTRANSISTORBJTBC55
 - Name: Transistor_BJT : BC550
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC550/
 - Description: Transistor_BJT : BC550
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC550](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC550)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC55](http://oom.lt/SZKTRANSISTORBJTBC55)

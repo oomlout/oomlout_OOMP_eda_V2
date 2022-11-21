@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-MG12100W-XN2MM
 - Hex ID: SZKTRANSISTORPOWERMOMG121WXN2
 - Name: Transistor_Power_Module : MG12100W-XN2MM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/MG12100W-XN2MM/
 - Description: Transistor_Power_Module : MG12100W-XN2MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-MG12100W-XN2MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-MG12100W-XN2MM)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOMG121WXN2](http://oom.lt/SZKTRANSISTORPOWERMOMG121WXN2)

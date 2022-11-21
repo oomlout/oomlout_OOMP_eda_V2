@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD45P03-09
 - Hex ID: SZKTRANSISTORFETSUD45P39
 - Name: Transistor_FET : SUD45P03-09
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/SUD45P03-09/
 - Description: Transistor_FET : SUD45P03-09
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD45P03-09](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD45P03-09)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSUD45P39](http://oom.lt/SZKTRANSISTORFETSUD45P39)

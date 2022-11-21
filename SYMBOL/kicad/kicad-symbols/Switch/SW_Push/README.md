@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Push
 - Hex ID: SZKSWSWPUSH
 - Name: Switch : SW_Push
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Push/
 - Description: Switch : SW_Push
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push)
 - Short Link: [http://oom.lt/SZKSWSWPUSH](http://oom.lt/SZKSWSWPUSH)

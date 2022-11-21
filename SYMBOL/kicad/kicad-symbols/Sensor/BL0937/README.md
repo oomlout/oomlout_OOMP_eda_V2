@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor-BL0937
 - Hex ID: SZKSENBL937
 - Name: Sensor : BL0937
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor/BL0937/
 - Description: Sensor : BL0937
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-BL0937](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-BL0937)
 - Short Link: [http://oom.lt/SZKSENBL937](http://oom.lt/SZKSENBL937)

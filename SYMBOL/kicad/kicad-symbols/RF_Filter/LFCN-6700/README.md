@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-6700
 - Hex ID: SZKRFFILLFCN67
 - Name: RF_Filter : LFCN-6700
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-6700/
 - Description: RF_Filter : LFCN-6700
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-6700](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-6700)
 - Short Link: [http://oom.lt/SZKRFFILLFCN67](http://oom.lt/SZKRFFILLFCN67)

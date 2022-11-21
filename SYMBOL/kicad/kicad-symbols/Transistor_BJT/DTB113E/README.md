@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB113E
 - Hex ID: SZKTRANSISTORBJTDTB113E
 - Name: Transistor_BJT : DTB113E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTB113E/
 - Description: Transistor_BJT : DTB113E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB113E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB113E)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTB113E](http://oom.lt/SZKTRANSISTORBJTDTB113E)

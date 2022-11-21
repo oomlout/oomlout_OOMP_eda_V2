@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-HMC1099PM5E
 - Hex ID: SZKRFAMPLIFIERHMC199PM5E
 - Name: RF_Amplifier : HMC1099PM5E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/HMC1099PM5E/
 - Description: RF_Amplifier : HMC1099PM5E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-HMC1099PM5E](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-HMC1099PM5E)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERHMC199PM5E](http://oom.lt/SZKRFAMPLIFIERHMC199PM5E)

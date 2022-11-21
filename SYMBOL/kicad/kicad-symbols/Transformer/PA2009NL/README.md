@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PA2009NL
 - Hex ID: SZKTRPA29NL
 - Name: Transformer : PA2009NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PA2009NL/
 - Description: Transformer : PA2009NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA2009NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA2009NL)
 - Short Link: [http://oom.lt/SZKTRPA29NL](http://oom.lt/SZKTRPA29NL)

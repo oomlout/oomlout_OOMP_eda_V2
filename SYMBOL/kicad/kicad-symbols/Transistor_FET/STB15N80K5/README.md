@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-STB15N80K5
 - Hex ID: SZKTRANSISTORFETSTB15N8K5
 - Name: Transistor_FET : STB15N80K5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/STB15N80K5/
 - Description: Transistor_FET : STB15N80K5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-STB15N80K5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-STB15N80K5)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSTB15N8K5](http://oom.lt/SZKTRANSISTORFETSTB15N8K5)

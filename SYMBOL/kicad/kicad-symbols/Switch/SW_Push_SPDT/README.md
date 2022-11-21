@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Push_SPDT
 - Hex ID: SZKSWSWPUSHSPDT
 - Name: Switch : SW_Push_SPDT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_SPDT/
 - Description: Switch : SW_Push_SPDT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_SPDT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_SPDT)
 - Short Link: [http://oom.lt/SZKSWSWPUSHSPDT](http://oom.lt/SZKSWSWPUSHSPDT)

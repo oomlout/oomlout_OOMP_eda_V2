@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-A1060
 - Hex ID: SZKSENOPTICALA16
 - Name: Sensor_Optical : A1060
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/A1060/
 - Description: Sensor_Optical : A1060
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-A1060](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-A1060)
 - Short Link: [http://oom.lt/SZKSENOPTICALA16](http://oom.lt/SZKSENOPTICALA16)

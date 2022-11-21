@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-BMM150
 - Hex ID: SZKSENMAGNETICB15
 - Name: Sensor_Magnetic : BMM150
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/BMM150/
 - Description: Sensor_Magnetic : BMM150
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-BMM150](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-BMM150)
 - Short Link: [http://oom.lt/SZKSENMAGNETICB15](http://oom.lt/SZKSENMAGNETICB15)

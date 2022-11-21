@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TSR_1-2412
 - Hex ID: SZKREGULATORSWINGTSR12412
 - Name: Regulator_Switching : TSR_1-2412
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TSR_1-2412/
 - Description: Regulator_Switching : TSR_1-2412
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TSR_1-2412](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TSR_1-2412)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTSR12412](http://oom.lt/SZKREGULATORSWINGTSR12412)

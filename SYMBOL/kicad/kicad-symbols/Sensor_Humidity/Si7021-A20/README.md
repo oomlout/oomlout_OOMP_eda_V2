@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Humidity-Si7021-A20
 - Hex ID: SZKSENHUMIDITYSI721A2
 - Name: Sensor_Humidity : Si7021-A20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/Si7021-A20/
 - Description: Sensor_Humidity : Si7021-A20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-Si7021-A20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-Si7021-A20)
 - Short Link: [http://oom.lt/SZKSENHUMIDITYSI721A2](http://oom.lt/SZKSENHUMIDITYSI721A2)

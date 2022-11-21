@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC046N10NS3G
 - Hex ID: SZKTRANSISTORFETBSC46N1NS3G
 - Name: Transistor_FET : BSC046N10NS3G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC046N10NS3G/
 - Description: Transistor_FET : BSC046N10NS3G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC046N10NS3G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC046N10NS3G)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC46N1NS3G](http://oom.lt/SZKTRANSISTORFETBSC46N1NS3G)

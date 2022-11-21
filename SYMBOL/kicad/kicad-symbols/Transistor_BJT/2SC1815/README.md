@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1815
 - Hex ID: SZKTRANSISTORBJT2SC1815
 - Name: Transistor_BJT : 2SC1815
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SC1815/
 - Description: Transistor_BJT : 2SC1815
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1815](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1815)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2SC1815](http://oom.lt/SZKTRANSISTORBJT2SC1815)

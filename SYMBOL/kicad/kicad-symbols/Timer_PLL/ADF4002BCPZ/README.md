@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_PLL-ADF4002BCPZ
 - Hex ID: SZKTIMERPLLADF42BCPZ
 - Name: Timer_PLL : ADF4002BCPZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/ADF4002BCPZ/
 - Description: Timer_PLL : ADF4002BCPZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-ADF4002BCPZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-ADF4002BCPZ)
 - Short Link: [http://oom.lt/SZKTIMERPLLADF42BCPZ](http://oom.lt/SZKTIMERPLLADF42BCPZ)

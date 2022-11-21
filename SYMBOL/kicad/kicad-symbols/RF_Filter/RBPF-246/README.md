@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-RBPF-246
 - Hex ID: SZKRFFILRBPF246
 - Name: RF_Filter : RBPF-246
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/RBPF-246/
 - Description: RF_Filter : RBPF-246
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-RBPF-246](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-RBPF-246)
 - Short Link: [http://oom.lt/SZKRFFILRBPF246](http://oom.lt/SZKRFFILRBPF246)

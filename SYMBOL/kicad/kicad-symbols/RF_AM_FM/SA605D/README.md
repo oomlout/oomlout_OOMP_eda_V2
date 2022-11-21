@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_AM_FM-SA605D
 - Hex ID: SZKRFAMFMSA65D
 - Name: RF_AM_FM : SA605D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_AM_FM/SA605D/
 - Description: RF_AM_FM : SA605D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-SA605D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-SA605D)
 - Short Link: [http://oom.lt/SZKRFAMFMSA65D](http://oom.lt/SZKRFAMFMSA65D)

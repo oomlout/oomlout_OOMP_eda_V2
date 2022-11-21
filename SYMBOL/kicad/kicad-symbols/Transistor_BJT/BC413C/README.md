@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC413C
 - Hex ID: SZKTRANSISTORBJTBC413C
 - Name: Transistor_BJT : BC413C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC413C/
 - Description: Transistor_BJT : BC413C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC413C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC413C)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC413C](http://oom.lt/SZKTRANSISTORBJTBC413C)

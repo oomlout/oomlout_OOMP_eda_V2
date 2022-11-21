@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS733xLATR-65AB
 - Hex ID: SZKSENCURRENTACS733XLATR65AB
 - Name: Sensor_Current : ACS733xLATR-65AB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS733xLATR-65AB/
 - Description: Sensor_Current : ACS733xLATR-65AB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS733xLATR-65AB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS733xLATR-65AB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS733XLATR65AB](http://oom.lt/SZKSENCURRENTACS733XLATR65AB)

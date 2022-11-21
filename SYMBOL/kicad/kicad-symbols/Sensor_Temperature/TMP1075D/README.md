@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP1075D
 - Hex ID: SZKSENTEMPERATURETMP175D
 - Name: Sensor_Temperature : TMP1075D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP1075D/
 - Description: Sensor_Temperature : TMP1075D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP1075D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP1075D)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETMP175D](http://oom.lt/SZKSENTEMPERATURETMP175D)

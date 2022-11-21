@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-LCC110
 - Hex ID: SZKRFLCC11
 - Name: RF : LCC110
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/LCC110/
 - Description: RF : LCC110
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-LCC110](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-LCC110)
 - Short Link: [http://oom.lt/SZKRFLCC11](http://oom.lt/SZKRFLCC11)

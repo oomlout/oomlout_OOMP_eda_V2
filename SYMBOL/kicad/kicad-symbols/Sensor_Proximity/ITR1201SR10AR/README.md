@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR1201SR10AR
 - Hex ID: SZKSENPROXIMITYITR121SR1AR
 - Name: Sensor_Proximity : ITR1201SR10AR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR1201SR10AR/
 - Description: Sensor_Proximity : ITR1201SR10AR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR1201SR10AR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR1201SR10AR)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYITR121SR1AR](http://oom.lt/SZKSENPROXIMITYITR121SR1AR)

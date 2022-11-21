@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-  (symbol "STBR3012WY" (extends "STBR3008WY")
+  (symbol "STBR3012WY" (extends "1N4001")
     (property "Reference" "D" (id 0) (at 0 5.08 0)
       (effects (font (size 1.27 1.27)))
     )

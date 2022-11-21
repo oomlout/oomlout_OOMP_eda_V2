@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TDN_5-4811WISM
 - Hex ID: SZKREGULATORSWINGTDN54811WISM
 - Name: Regulator_Switching : TDN_5-4811WISM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TDN_5-4811WISM/
 - Description: Regulator_Switching : TDN_5-4811WISM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TDN_5-4811WISM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TDN_5-4811WISM)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTDN54811WISM](http://oom.lt/SZKREGULATORSWINGTDN54811WISM)

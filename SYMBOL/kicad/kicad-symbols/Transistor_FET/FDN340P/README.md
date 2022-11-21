@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDN340P
 - Hex ID: SZKTRANSISTORFETFDN34P
 - Name: Transistor_FET : FDN340P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDN340P/
 - Description: Transistor_FET : FDN340P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDN340P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDN340P)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDN34P](http://oom.lt/SZKTRANSISTORFETFDN34P)

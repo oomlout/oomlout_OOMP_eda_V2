@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2301CAABADJ
 - Hex ID: SZKREGULATORSWINGPAM231CAABADJ
 - Name: Regulator_Switching : PAM2301CAABADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2301CAABADJ/
 - Description: Regulator_Switching : PAM2301CAABADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2301CAABADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2301CAABADJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGPAM231CAABADJ](http://oom.lt/SZKREGULATORSWINGPAM231CAABADJ)

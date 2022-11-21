@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-490D
 - Hex ID: SZKRFFILLFCN49D
 - Name: RF_Filter : LFCN-490D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-490D/
 - Description: RF_Filter : LFCN-490D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-490D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-490D)
 - Short Link: [http://oom.lt/SZKRFFILLFCN49D](http://oom.lt/SZKRFFILLFCN49D)

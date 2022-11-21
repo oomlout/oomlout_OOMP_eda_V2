@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-3000D
 - Hex ID: SZKRFFILLFCN3D
 - Name: RF_Filter : LFCN-3000D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-3000D/
 - Description: RF_Filter : LFCN-3000D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-3000D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-3000D)
 - Short Link: [http://oom.lt/SZKRFFILLFCN3D](http://oom.lt/SZKRFFILLFCN3D)

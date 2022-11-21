@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3904
 - Hex ID: SZKTRANSISTORBJT2N394
 - Name: Transistor_BJT : 2N3904
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2N3904/
 - Description: Transistor_BJT : 2N3904
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3904](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3904)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2N394](http://oom.lt/SZKTRANSISTORBJT2N394)

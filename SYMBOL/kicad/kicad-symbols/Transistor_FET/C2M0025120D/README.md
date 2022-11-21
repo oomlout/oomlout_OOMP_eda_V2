@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M0025120D
 - Hex ID: SZKTRANSISTORFETC2M2512D
 - Name: Transistor_FET : C2M0025120D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/C2M0025120D/
 - Description: Transistor_FET : C2M0025120D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M0025120D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M0025120D)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETC2M2512D](http://oom.lt/SZKTRANSISTORFETC2M2512D)

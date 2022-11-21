@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS2DH
 - Hex ID: SZKSENMOTIONLIS2DH
 - Name: Sensor_Motion : LIS2DH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LIS2DH/
 - Description: Sensor_Motion : LIS2DH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS2DH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS2DH)
 - Short Link: [http://oom.lt/SZKSENMOTIONLIS2DH](http://oom.lt/SZKSENMOTIONLIS2DH)

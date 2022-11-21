@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD238
 - Hex ID: SZKTRANSISTORBJTBD238
 - Name: Transistor_BJT : BD238
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD238/
 - Description: Transistor_BJT : BD238
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD238](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD238)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD238](http://oom.lt/SZKTRANSISTORBJTBD238)

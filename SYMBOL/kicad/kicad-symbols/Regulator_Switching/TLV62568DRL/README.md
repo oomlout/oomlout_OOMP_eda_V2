@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62568DRL
 - Hex ID: SZKREGULATORSWINGTLV62568DRL
 - Name: Regulator_Switching : TLV62568DRL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TLV62568DRL/
 - Description: Regulator_Switching : TLV62568DRL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62568DRL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62568DRL)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTLV62568DRL](http://oom.lt/SZKREGULATORSWINGTLV62568DRL)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLB8721PBF
 - Hex ID: SZKTRANSISTORFETIRLB8721PBF
 - Name: Transistor_FET : IRLB8721PBF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRLB8721PBF/
 - Description: Transistor_FET : IRLB8721PBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLB8721PBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLB8721PBF)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRLB8721PBF](http://oom.lt/SZKTRANSISTORFETIRLB8721PBF)

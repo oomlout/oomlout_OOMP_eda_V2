@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M11-40EX
 - Hex ID: SZKTRANSISTORFETBUK9M114EX
 - Name: Transistor_FET : BUK9M11-40EX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK9M11-40EX/
 - Description: Transistor_FET : BUK9M11-40EX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M11-40EX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M11-40EX)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBUK9M114EX](http://oom.lt/SZKTRANSISTORFETBUK9M114EX)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2093
 - Hex ID: SZKSENCURRENTCQ293
 - Name: Sensor_Current : CQ-2093
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-2093/
 - Description: Sensor_Current : CQ-2093
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2093](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2093)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ293](http://oom.lt/SZKSENCURRENTCQ293)

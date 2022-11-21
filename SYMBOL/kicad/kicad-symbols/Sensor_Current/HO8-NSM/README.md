@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HO8-NSM
 - Hex ID: SZKSENCURRENTHO8NSM
 - Name: Sensor_Current : HO8-NSM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/HO8-NSM/
 - Description: Sensor_Current : HO8-NSM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO8-NSM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO8-NSM)
 - Short Link: [http://oom.lt/SZKSENCURRENTHO8NSM](http://oom.lt/SZKSENCURRENTHO8NSM)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-TLP3123
 - Hex ID: SZKRFTLP3123
 - Name: RF : TLP3123
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/TLP3123/
 - Description: RF : TLP3123
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP3123](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP3123)
 - Short Link: [http://oom.lt/SZKRFTLP3123](http://oom.lt/SZKRFTLP3123)

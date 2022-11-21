@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer26LN
 - Hex ID: SZKREGULATORSWINGVIPER26LN
 - Name: Regulator_Switching : VIPer26LN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/VIPer26LN/
 - Description: Regulator_Switching : VIPer26LN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer26LN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer26LN)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGVIPER26LN](http://oom.lt/SZKREGULATORSWINGVIPER26LN)

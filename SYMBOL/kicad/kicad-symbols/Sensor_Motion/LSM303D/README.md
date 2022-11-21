@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM303D
 - Hex ID: SZKSENMOTIONLSM33D
 - Name: Sensor_Motion : LSM303D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LSM303D/
 - Description: Sensor_Motion : LSM303D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM303D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM303D)
 - Short Link: [http://oom.lt/SZKSENMOTIONLSM33D](http://oom.lt/SZKSENMOTIONLSM33D)

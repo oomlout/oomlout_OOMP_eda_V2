@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM46
 - Hex ID: SZKRELAYIM46
 - Name: Relay : IM46
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM46/
 - Description: Relay : IM46
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM46](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM46)
 - Short Link: [http://oom.lt/SZKRELAYIM46](http://oom.lt/SZKRELAYIM46)

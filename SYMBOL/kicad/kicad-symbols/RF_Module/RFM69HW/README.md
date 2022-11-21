@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-RFM69HW
 - Hex ID: SZKRFMORFM69HW
 - Name: RF_Module : RFM69HW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/RFM69HW/
 - Description: RF_Module : RFM69HW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RFM69HW](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RFM69HW)
 - Short Link: [http://oom.lt/SZKRFMORFM69HW](http://oom.lt/SZKRFMORFM69HW)

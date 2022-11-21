@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB104N08NP3
 - Hex ID: SZKTRANSISTORFETBSB14N8NP3
 - Name: Transistor_FET : BSB104N08NP3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSB104N08NP3/
 - Description: Transistor_FET : BSB104N08NP3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB104N08NP3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB104N08NP3)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSB14N8NP3](http://oom.lt/SZKTRANSISTORFETBSB14N8NP3)

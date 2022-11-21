@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-BQ32000
 - Hex ID: SZKTIMERRTCBQ32
 - Name: Timer_RTC : BQ32000
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/BQ32000/
 - Description: Timer_RTC : BQ32000
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-BQ32000](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-BQ32000)
 - Short Link: [http://oom.lt/SZKTIMERRTCBQ32](http://oom.lt/SZKTIMERRTCBQ32)

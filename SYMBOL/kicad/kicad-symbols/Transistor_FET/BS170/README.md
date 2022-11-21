@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BS170
 - Hex ID: SZKTRANSISTORFETBS17
 - Name: Transistor_FET : BS170
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BS170/
 - Description: Transistor_FET : BS170
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BS170](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BS170)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBS17](http://oom.lt/SZKTRANSISTORFETBS17)

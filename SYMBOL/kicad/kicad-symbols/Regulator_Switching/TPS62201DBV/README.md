@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62201DBV
 - Hex ID: SZKREGULATORSWINGTPS6221DBV
 - Name: Regulator_Switching : TPS62201DBV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS62201DBV/
 - Description: Regulator_Switching : TPS62201DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62201DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62201DBV)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS6221DBV](http://oom.lt/SZKREGULATORSWINGTPS6221DBV)

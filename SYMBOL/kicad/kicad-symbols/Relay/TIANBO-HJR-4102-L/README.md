@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-TIANBO-HJR-4102-L
 - Hex ID: SZKRELAYTIANBOHJR412L
 - Name: Relay : TIANBO-HJR-4102-L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/TIANBO-HJR-4102-L/
 - Description: Relay : TIANBO-HJR-4102-L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-TIANBO-HJR-4102-L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-TIANBO-HJR-4102-L)
 - Short Link: [http://oom.lt/SZKRELAYTIANBOHJR412L](http://oom.lt/SZKRELAYTIANBOHJR412L)

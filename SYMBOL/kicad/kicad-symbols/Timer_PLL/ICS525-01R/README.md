@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_PLL-ICS525-01R
 - Hex ID: SZKTIMERPLLICS5251R
 - Name: Timer_PLL : ICS525-01R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/ICS525-01R/
 - Description: Timer_PLL : ICS525-01R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-ICS525-01R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-ICS525-01R)
 - Short Link: [http://oom.lt/SZKTIMERPLLICS5251R](http://oom.lt/SZKTIMERPLLICS5251R)

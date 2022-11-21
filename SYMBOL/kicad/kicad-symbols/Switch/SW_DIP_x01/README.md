@@ -5,19 +5,20 @@
 Contents
 ========
 
-* [SZKSWSWDIPX1 > Switch : SW_DIP_x01](#szkswswdipx1--switch--sw_dip_x01)
+* [SZKSWSWDX1 > Switch : SW_DIP_x01](#szkswswdx1--switch--sw_dip_x01)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# SZKSWSWDIPX1 > Switch : SW_DIP_x01
+# SZKSWSWDX1 > Switch : SW_DIP_x01
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_DIP_x01
-- Hex ID: SZKSWSWDIPX1
+- Hex ID: SZKSWSWDX1
 - Name: Switch : SW_DIP_x01
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_DIP_x01/
 - Description: Switch : SW_DIP_x01
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DIP_x01](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DIP_x01)
-- Short Link: [http://oom.lt/SZKSWSWDIPX1](http://oom.lt/SZKSWSWDIPX1)
+- Short Link: [http://oom.lt/SZKSWSWDX1](http://oom.lt/SZKSWSWDX1)
 
 ## Images
   
@@ -36,7 +37,7 @@ Contents
 |OOMP Description|oompDesc|Switch|
 |OOMP Index|oompIndex|SW_DIP_x01|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_DIP_x01|
-|Hex ID (short code)|hexID|SZKSWSWDIPX1|
+|Hex ID (short code)|hexID|SZKSWSWDX1|
 |name|name|Switch : SW_DIP_x01|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_DIP_x01'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dip switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1x DIP Switch</td><td> Single Pole Single Throw (SPST) switch</td><td> small symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SW?DIP?x1*'</td></tr></table>]|
 ||||

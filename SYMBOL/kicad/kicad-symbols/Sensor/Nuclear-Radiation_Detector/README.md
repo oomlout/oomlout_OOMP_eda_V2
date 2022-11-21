@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor-Nuclear-Radiation_Detector
 - Hex ID: SZKSENNUCLEARRADIATIONDETECTOR
 - Name: Sensor : Nuclear-Radiation_Detector
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor/Nuclear-Radiation_Detector/
 - Description: Sensor : Nuclear-Radiation_Detector
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-Nuclear-Radiation_Detector](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-Nuclear-Radiation_Detector)
 - Short Link: [http://oom.lt/SZKSENNUCLEARRADIATIONDETECTOR](http://oom.lt/SZKSENNUCLEARRADIATIONDETECTOR)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2306AYPBK
 - Hex ID: SZKREGULATORSWINGPAM236AYPBK
 - Name: Regulator_Switching : PAM2306AYPBK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2306AYPBK/
 - Description: Regulator_Switching : PAM2306AYPBK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2306AYPBK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2306AYPBK)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGPAM236AYPBK](http://oom.lt/SZKREGULATORSWINGPAM236AYPBK)

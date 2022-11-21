@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_AM_FM-ZETA-868-SO
 - Hex ID: SZKRFAMFMZETA868SO
 - Name: RF_AM_FM : ZETA-868-SO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_AM_FM/ZETA-868-SO/
 - Description: RF_AM_FM : ZETA-868-SO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-ZETA-868-SO](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-ZETA-868-SO)
 - Short Link: [http://oom.lt/SZKRFAMFMZETA868SO](http://oom.lt/SZKRFAMFMZETA868SO)

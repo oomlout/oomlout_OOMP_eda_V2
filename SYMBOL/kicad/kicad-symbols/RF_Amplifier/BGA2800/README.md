@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-BGA2800
 - Hex ID: SZKRFAMPLIFIERBGA28
 - Name: RF_Amplifier : BGA2800
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/BGA2800/
 - Description: RF_Amplifier : BGA2800
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-BGA2800](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-BGA2800)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERBGA28](http://oom.lt/SZKRFAMPLIFIERBGA28)

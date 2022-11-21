@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GSM-SARA-U270
 - Hex ID: SZKGSMSARAU27
 - Name: RF_GSM : SARA-U270
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GSM/SARA-U270/
 - Description: RF_GSM : SARA-U270
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SARA-U270](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SARA-U270)
 - Short Link: [http://oom.lt/SZKGSMSARAU27](http://oom.lt/SZKGSMSARAU27)

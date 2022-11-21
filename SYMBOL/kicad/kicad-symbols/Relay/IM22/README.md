@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM22
 - Hex ID: SZKRELAYIM22
 - Name: Relay : IM22
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM22/
 - Description: Relay : IM22
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM22](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM22)
 - Short Link: [http://oom.lt/SZKRELAYIM22](http://oom.lt/SZKRELAYIM22)

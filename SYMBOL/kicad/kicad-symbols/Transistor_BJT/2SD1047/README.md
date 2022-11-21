@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SD1047
 - Hex ID: SZKTRANSISTORBJT2SD147
 - Name: Transistor_BJT : 2SD1047
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SD1047/
 - Description: Transistor_BJT : 2SD1047
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SD1047](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SD1047)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2SD147](http://oom.lt/SZKTRANSISTORBJT2SD147)

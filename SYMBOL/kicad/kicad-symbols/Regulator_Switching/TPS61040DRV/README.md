@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61040DRV
 - Hex ID: SZKREGULATORSWINGTPS614DRV
 - Name: Regulator_Switching : TPS61040DRV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS61040DRV/
 - Description: Regulator_Switching : TPS61040DRV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61040DRV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61040DRV)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS614DRV](http://oom.lt/SZKREGULATORSWINGTPS614DRV)

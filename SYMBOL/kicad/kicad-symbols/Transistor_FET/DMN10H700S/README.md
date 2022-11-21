@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN10H700S
 - Hex ID: SZKTRANSISTORFETDMN1H7S
 - Name: Transistor_FET : DMN10H700S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN10H700S/
 - Description: Transistor_FET : DMN10H700S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN10H700S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN10H700S)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN1H7S](http://oom.lt/SZKTRANSISTORFETDMN1H7S)

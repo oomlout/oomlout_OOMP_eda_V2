@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-MMBF4391
 - Hex ID: SZKTRANSISTORFETBF4391
 - Name: Transistor_FET : MMBF4391
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/MMBF4391/
 - Description: Transistor_FET : MMBF4391
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-MMBF4391](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-MMBF4391)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBF4391](http://oom.lt/SZKTRANSISTORFETBF4391)

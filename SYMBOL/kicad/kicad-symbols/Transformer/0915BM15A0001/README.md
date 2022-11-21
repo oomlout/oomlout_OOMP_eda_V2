@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-0915BM15A0001
 - Hex ID: SZKTR915BM15A1
 - Name: Transformer : 0915BM15A0001
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/0915BM15A0001/
 - Description: Transformer : 0915BM15A0001
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-0915BM15A0001](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-0915BM15A0001)
 - Short Link: [http://oom.lt/SZKTR915BM15A1](http://oom.lt/SZKTR915BM15A1)

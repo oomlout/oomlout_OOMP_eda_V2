@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-LTC6909
 - Hex ID: SZKTIMERLTC699
 - Name: Timer : LTC6909
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/LTC6909/
 - Description: Timer : LTC6909
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LTC6909](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LTC6909)
 - Short Link: [http://oom.lt/SZKTIMERLTC699](http://oom.lt/SZKTIMERLTC699)

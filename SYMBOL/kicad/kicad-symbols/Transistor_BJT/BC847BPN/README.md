@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC847BPN
 - Hex ID: SZKTRANSISTORBJTBC847BPN
 - Name: Transistor_BJT : BC847BPN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC847BPN/
 - Description: Transistor_BJT : BC847BPN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC847BPN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC847BPN)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC847BPN](http://oom.lt/SZKTRANSISTORBJTBC847BPN)

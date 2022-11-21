@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_ZigBee-MW-R-DP-W
 - Hex ID: SZKRFZIGBEEMWRDPW
 - Name: RF_ZigBee : MW-R-DP-W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_ZigBee/MW-R-DP-W/
 - Description: RF_ZigBee : MW-R-DP-W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-MW-R-DP-W](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-MW-R-DP-W)
 - Short Link: [http://oom.lt/SZKRFZIGBEEMWRDPW](http://oom.lt/SZKRFZIGBEEMWRDPW)

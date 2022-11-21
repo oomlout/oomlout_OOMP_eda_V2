@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-TE_PCH-1xxx2M
 - Hex ID: SZKRELAYTEPCH1XXX2M
 - Name: Relay : TE_PCH-1xxx2M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/TE_PCH-1xxx2M/
 - Description: Relay : TE_PCH-1xxx2M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-TE_PCH-1xxx2M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-TE_PCH-1xxx2M)
 - Short Link: [http://oom.lt/SZKRELAYTEPCH1XXX2M](http://oom.lt/SZKRELAYTEPCH1XXX2M)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Valve-EL34
 - Hex ID: SZKVAEL34
 - Name: Valve : EL34
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/EL34/
 - Description: Valve : EL34
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EL34](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EL34)
 - Short Link: [http://oom.lt/SZKVAEL34](http://oom.lt/SZKVAEL34)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Touch-AT42QT1010-TSHR
 - Hex ID: SZKSENTOUCHAT42QT11TSHR
 - Name: Sensor_Touch : AT42QT1010-TSHR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1010-TSHR/
 - Description: Sensor_Touch : AT42QT1010-TSHR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-AT42QT1010-TSHR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-AT42QT1010-TSHR)
 - Short Link: [http://oom.lt/SZKSENTOUCHAT42QT11TSHR](http://oom.lt/SZKSENTOUCHAT42QT11TSHR)

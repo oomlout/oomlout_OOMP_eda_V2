@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3150L
 - Hex ID: SZKTRANSISTORFETDMN315L
 - Name: Transistor_FET : DMN3150L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN3150L/
 - Description: Transistor_FET : DMN3150L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3150L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3150L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN315L](http://oom.lt/SZKTRANSISTORFETDMN315L)

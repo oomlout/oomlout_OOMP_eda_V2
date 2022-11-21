@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-LTR-303ALS-01
 - Hex ID: SZKSENOPTICALLTR33ALS1
 - Name: Sensor_Optical : LTR-303ALS-01
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/LTR-303ALS-01/
 - Description: Sensor_Optical : LTR-303ALS-01
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-LTR-303ALS-01](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-LTR-303ALS-01)
 - Short Link: [http://oom.lt/SZKSENOPTICALLTR33ALS1](http://oom.lt/SZKSENOPTICALLTR33ALS1)

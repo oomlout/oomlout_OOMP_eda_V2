@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31865xAP
 - Hex ID: SZKSENTEMPERATUREMAX31865XAP
 - Name: Sensor_Temperature : MAX31865xAP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31865xAP/
 - Description: Sensor_Temperature : MAX31865xAP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31865xAP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31865xAP)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMAX31865XAP](http://oom.lt/SZKSENTEMPERATUREMAX31865XAP)

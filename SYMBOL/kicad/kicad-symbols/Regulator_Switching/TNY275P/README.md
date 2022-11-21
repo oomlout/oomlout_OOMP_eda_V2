@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY275P
 - Hex ID: SZKREGULATORSWINGTNY275P
 - Name: Regulator_Switching : TNY275P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TNY275P/
 - Description: Regulator_Switching : TNY275P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY275P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY275P)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTNY275P](http://oom.lt/SZKREGULATORSWINGTNY275P)

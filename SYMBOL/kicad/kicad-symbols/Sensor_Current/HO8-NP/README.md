@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HO8-NP
 - Hex ID: SZKSENCURRENTHO8NP
 - Name: Sensor_Current : HO8-NP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/HO8-NP/
 - Description: Sensor_Current : HO8-NP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO8-NP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO8-NP)
 - Short Link: [http://oom.lt/SZKSENCURRENTHO8NP](http://oom.lt/SZKSENCURRENTHO8NP)

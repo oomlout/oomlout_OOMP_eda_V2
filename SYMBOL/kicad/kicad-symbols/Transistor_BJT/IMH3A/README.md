@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-IMH3A
 - Hex ID: SZKTRANSISTORBJTIMH3A
 - Name: Transistor_BJT : IMH3A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/IMH3A/
 - Description: Transistor_BJT : IMH3A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-IMH3A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-IMH3A)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTIMH3A](http://oom.lt/SZKTRANSISTORBJTIMH3A)

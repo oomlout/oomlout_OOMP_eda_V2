@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA144W
 - Hex ID: SZKTRANSISTORBJTDTA144W
 - Name: Transistor_BJT : DTA144W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTA144W/
 - Description: Transistor_BJT : DTA144W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA144W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA144W)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTA144W](http://oom.lt/SZKTRANSISTORBJTDTA144W)

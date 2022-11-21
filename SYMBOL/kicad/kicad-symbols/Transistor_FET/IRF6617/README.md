@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6617
 - Hex ID: SZKTRANSISTORFETIRF6617
 - Name: Transistor_FET : IRF6617
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6617/
 - Description: Transistor_FET : IRF6617
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6617](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6617)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6617](http://oom.lt/SZKTRANSISTORFETIRF6617)

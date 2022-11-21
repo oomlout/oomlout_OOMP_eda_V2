@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-BGA2866
 - Hex ID: SZKRFAMPLIFIERBGA2866
 - Name: RF_Amplifier : BGA2866
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/BGA2866/
 - Description: RF_Amplifier : BGA2866
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-BGA2866](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-BGA2866)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERBGA2866](http://oom.lt/SZKRFAMPLIFIERBGA2866)

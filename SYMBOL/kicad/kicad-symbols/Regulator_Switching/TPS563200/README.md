@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS563200
 - Hex ID: SZKREGULATORSWINGTPS5632
 - Name: Regulator_Switching : TPS563200
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS563200/
 - Description: Regulator_Switching : TPS563200
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS563200](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS563200)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS5632](http://oom.lt/SZKREGULATORSWINGTPS5632)

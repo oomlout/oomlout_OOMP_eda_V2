@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-2N7002K
 - Hex ID: SZKTRANSISTORFET2N72K
 - Name: Transistor_FET : 2N7002K
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/2N7002K/
 - Description: Transistor_FET : 2N7002K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-2N7002K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-2N7002K)
 - Short Link: [http://oom.lt/SZKTRANSISTORFET2N72K](http://oom.lt/SZKTRANSISTORFET2N72K)

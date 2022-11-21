@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-EMH3
 - Hex ID: SZKTRANSISTORBJTEMH3
 - Name: Transistor_BJT : EMH3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/EMH3/
 - Description: Transistor_BJT : EMH3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-EMH3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-EMH3)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTEMH3](http://oom.lt/SZKTRANSISTORBJTEMH3)

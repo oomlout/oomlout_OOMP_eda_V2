@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62084ADSGx
 - Hex ID: SZKREGULATORSWINGTLV6284ADSGX
 - Name: Regulator_Switching : TLV62084ADSGx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TLV62084ADSGx/
 - Description: Regulator_Switching : TLV62084ADSGx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62084ADSGx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62084ADSGx)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTLV6284ADSGX](http://oom.lt/SZKREGULATORSWINGTLV6284ADSGX)

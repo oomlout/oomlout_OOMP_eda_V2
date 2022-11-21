@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RN4871
 - Hex ID: SZKRFBLUETOOTHRN4871
 - Name: RF_Bluetooth : RN4871
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Bluetooth/RN4871/
 - Description: RF_Bluetooth : RN4871
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RN4871](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RN4871)
 - Short Link: [http://oom.lt/SZKRFBLUETOOTHRN4871](http://oom.lt/SZKRFBLUETOOTHRN4871)

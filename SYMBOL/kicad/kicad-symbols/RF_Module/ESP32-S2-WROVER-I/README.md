@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-ESP32-S2-WROVER-I
 - Hex ID: SZKRFMOESP32S2WROVERI
 - Name: RF_Module : ESP32-S2-WROVER-I
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/ESP32-S2-WROVER-I/
 - Description: RF_Module : ESP32-S2-WROVER-I
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-ESP32-S2-WROVER-I](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-ESP32-S2-WROVER-I)
 - Short Link: [http://oom.lt/SZKRFMOESP32S2WROVERI](http://oom.lt/SZKRFMOESP32S2WROVERI)

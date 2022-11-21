@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-MASWSS0176
 - Hex ID: SZKRFSWMASWSS176
 - Name: RF_Switch : MASWSS0176
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Switch/MASWSS0176/
 - Description: RF_Switch : MASWSS0176
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MASWSS0176](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MASWSS0176)
 - Short Link: [http://oom.lt/SZKRFSWMASWSS176](http://oom.lt/SZKRFSWMASWSS176)

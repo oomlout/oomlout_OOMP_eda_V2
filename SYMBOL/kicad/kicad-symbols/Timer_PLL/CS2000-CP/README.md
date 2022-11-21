@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_PLL-CS2000-CP
 - Hex ID: SZKTIMERPLLCS2CP
 - Name: Timer_PLL : CS2000-CP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/CS2000-CP/
 - Description: Timer_PLL : CS2000-CP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-CS2000-CP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-CS2000-CP)
 - Short Link: [http://oom.lt/SZKTIMERPLLCS2CP](http://oom.lt/SZKTIMERPLLCS2CP)

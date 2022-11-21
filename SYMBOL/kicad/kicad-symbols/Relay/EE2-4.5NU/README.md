@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-EE2-4.5NU
 - Hex ID: SZKRELAYEE245NU
 - Name: Relay : EE2-4.5NU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-4.5NU/
 - Description: Relay : EE2-4.5NU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-4.5NU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-4.5NU)
 - Short Link: [http://oom.lt/SZKRELAYEE245NU](http://oom.lt/SZKRELAYEE245NU)

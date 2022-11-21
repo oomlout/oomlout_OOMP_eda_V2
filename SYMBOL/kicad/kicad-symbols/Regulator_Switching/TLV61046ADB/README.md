@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV61046ADB
 - Hex ID: SZKREGULATORSWINGTLV6146ADB
 - Name: Regulator_Switching : TLV61046ADB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TLV61046ADB/
 - Description: Regulator_Switching : TLV61046ADB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV61046ADB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV61046ADB)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTLV6146ADB](http://oom.lt/SZKREGULATORSWINGTLV6146ADB)

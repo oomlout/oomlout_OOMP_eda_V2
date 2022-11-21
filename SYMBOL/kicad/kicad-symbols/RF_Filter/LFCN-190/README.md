@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-190
 - Hex ID: SZKRFFILLFCN19
 - Name: RF_Filter : LFCN-190
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-190/
 - Description: RF_Filter : LFCN-190
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-190](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-190)
 - Short Link: [http://oom.lt/SZKRFFILLFCN19](http://oom.lt/SZKRFFILLFCN19)

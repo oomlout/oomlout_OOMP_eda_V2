@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-SILxx-1Cxx-51x
 - Hex ID: SZKRELAYSILXX1CXX51X
 - Name: Relay : SILxx-1Cxx-51x
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/SILxx-1Cxx-51x/
 - Description: Relay : SILxx-1Cxx-51x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-SILxx-1Cxx-51x](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-SILxx-1Cxx-51x)
 - Short Link: [http://oom.lt/SZKRELAYSILXX1CXX51X](http://oom.lt/SZKRELAYSILXX1CXX51X)

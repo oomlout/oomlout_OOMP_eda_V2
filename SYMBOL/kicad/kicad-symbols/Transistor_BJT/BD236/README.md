@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD236
 - Hex ID: SZKTRANSISTORBJTBD236
 - Name: Transistor_BJT : BD236
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD236/
 - Description: Transistor_BJT : BD236
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD236](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD236)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD236](http://oom.lt/SZKTRANSISTORBJTBD236)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-QM6006D
 - Hex ID: SZKTRANSISTORFETQM66D
 - Name: Transistor_FET : QM6006D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/QM6006D/
 - Description: Transistor_FET : QM6006D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-QM6006D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-QM6006D)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETQM66D](http://oom.lt/SZKTRANSISTORFETQM66D)

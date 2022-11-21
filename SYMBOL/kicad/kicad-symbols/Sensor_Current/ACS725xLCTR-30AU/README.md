@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS725xLCTR-30AU
 - Hex ID: SZKSENCURRENTACS725XLCTR3AU
 - Name: Sensor_Current : ACS725xLCTR-30AU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS725xLCTR-30AU/
 - Description: Sensor_Current : ACS725xLCTR-30AU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS725xLCTR-30AU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS725xLCTR-30AU)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS725XLCTR3AU](http://oom.lt/SZKSENCURRENTACS725XLCTR3AU)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-EE2-3SNU
 - Hex ID: SZKRELAYEE23SNU
 - Name: Relay : EE2-3SNU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-3SNU/
 - Description: Relay : EE2-3SNU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-3SNU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-3SNU)
 - Short Link: [http://oom.lt/SZKRELAYEE23SNU](http://oom.lt/SZKRELAYEE23SNU)

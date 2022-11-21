@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RT44xxxx
 - Hex ID: SZKRELAYRT44XXXX
 - Name: Relay : RT44xxxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/RT44xxxx/
 - Description: Relay : RT44xxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RT44xxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RT44xxxx)
 - Short Link: [http://oom.lt/SZKRELAYRT44XXXX](http://oom.lt/SZKRELAYRT44XXXX)

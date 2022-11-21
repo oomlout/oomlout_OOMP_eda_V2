@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-1000D
 - Hex ID: SZKRFFILLFCN1D
 - Name: RF_Filter : LFCN-1000D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-1000D/
 - Description: RF_Filter : LFCN-1000D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-1000D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-1000D)
 - Short Link: [http://oom.lt/SZKRFFILLFCN1D](http://oom.lt/SZKRFFILLFCN1D)

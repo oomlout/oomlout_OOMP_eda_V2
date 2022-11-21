@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-AZ850P1-x
 - Hex ID: SZKRELAYAZ85P1X
 - Name: Relay : AZ850P1-x
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/AZ850P1-x/
 - Description: Relay : AZ850P1-x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-AZ850P1-x](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-AZ850P1-x)
 - Short Link: [http://oom.lt/SZKRELAYAZ85P1X](http://oom.lt/SZKRELAYAZ85P1X)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-55
 - Hex ID: SZKRFAMPLIFIERGALI55
 - Name: RF_Amplifier : GALI-55
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/GALI-55/
 - Description: RF_Amplifier : GALI-55
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-55](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-55)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERGALI55](http://oom.lt/SZKRFAMPLIFIERGALI55)

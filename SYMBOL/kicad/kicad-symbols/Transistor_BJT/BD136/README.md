@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD136
 - Hex ID: SZKTRANSISTORBJTBD136
 - Name: Transistor_BJT : BD136
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD136/
 - Description: Transistor_BJT : BD136
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD136](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD136)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD136](http://oom.lt/SZKTRANSISTORBJTBD136)

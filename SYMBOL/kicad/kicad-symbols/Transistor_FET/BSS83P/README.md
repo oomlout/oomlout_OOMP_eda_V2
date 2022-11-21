@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS83P
 - Hex ID: SZKTRANSISTORFETBSS83P
 - Name: Transistor_FET : BSS83P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSS83P/
 - Description: Transistor_FET : BSS83P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS83P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS83P)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSS83P](http://oom.lt/SZKTRANSISTORFETBSS83P)

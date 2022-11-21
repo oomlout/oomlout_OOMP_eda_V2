@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM41
 - Hex ID: SZKRELAYIM41
 - Name: Relay : IM41
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM41/
 - Description: Relay : IM41
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM41](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM41)
 - Short Link: [http://oom.lt/SZKRELAYIM41](http://oom.lt/SZKRELAYIM41)

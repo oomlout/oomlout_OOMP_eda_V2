@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_PLL-ADF4351
 - Hex ID: SZKTIMERPLLADF4351
 - Name: Timer_PLL : ADF4351
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/ADF4351/
 - Description: Timer_PLL : ADF4351
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-ADF4351](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-ADF4351)
 - Short Link: [http://oom.lt/SZKTIMERPLLADF4351](http://oom.lt/SZKTIMERPLLADF4351)

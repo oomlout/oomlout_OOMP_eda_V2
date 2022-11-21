@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-AS72651
 - Hex ID: SZKSENOPTICALAS72651
 - Name: Sensor_Optical : AS72651
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/AS72651/
 - Description: Sensor_Optical : AS72651
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-AS72651](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-AS72651)
 - Short Link: [http://oom.lt/SZKSENOPTICALAS72651](http://oom.lt/SZKSENOPTICALAS72651)

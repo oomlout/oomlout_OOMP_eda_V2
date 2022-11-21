@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP259YN
 - Hex ID: SZKREGULATORSWINGTOP259YN
 - Name: Regulator_Switching : TOP259YN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TOP259YN/
 - Description: Regulator_Switching : TOP259YN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP259YN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP259YN)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTOP259YN](http://oom.lt/SZKREGULATORSWINGTOP259YN)

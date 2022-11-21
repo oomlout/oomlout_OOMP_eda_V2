@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM23
 - Hex ID: SZKRELAYIM23
 - Name: Relay : IM23
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM23/
 - Description: Relay : IM23
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM23](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM23)
 - Short Link: [http://oom.lt/SZKRELAYIM23](http://oom.lt/SZKRELAYIM23)

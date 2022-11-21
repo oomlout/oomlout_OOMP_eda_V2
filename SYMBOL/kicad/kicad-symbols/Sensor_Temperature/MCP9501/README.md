@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9501
 - Hex ID: SZKSENTEMPERATUREMCP951
 - Name: Sensor_Temperature : MCP9501
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9501/
 - Description: Sensor_Temperature : MCP9501
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9501](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9501)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMCP951](http://oom.lt/SZKSENTEMPERATUREMCP951)

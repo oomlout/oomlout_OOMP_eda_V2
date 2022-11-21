@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-LMC555xM
 - Hex ID: SZKTIMERLMC555XM
 - Name: Timer : LMC555xM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/LMC555xM/
 - Description: Timer : LMC555xM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LMC555xM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LMC555xM)
 - Short Link: [http://oom.lt/SZKTIMERLMC555XM](http://oom.lt/SZKTIMERLMC555XM)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-HF3-55
 - Hex ID: SZKRELAYHF355
 - Name: Relay : HF3-55
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/HF3-55/
 - Description: Relay : HF3-55
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-HF3-55](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-HF3-55)
 - Short Link: [http://oom.lt/SZKRELAYHF355](http://oom.lt/SZKRELAYHF355)

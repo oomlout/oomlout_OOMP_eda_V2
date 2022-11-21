@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4162DY
 - Hex ID: SZKTRANSISTORFETSI4162DY
 - Name: Transistor_FET : Si4162DY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si4162DY/
 - Description: Transistor_FET : Si4162DY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4162DY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4162DY)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSI4162DY](http://oom.lt/SZKTRANSISTORFETSI4162DY)

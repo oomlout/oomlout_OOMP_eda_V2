@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-SiA449DJ
 - Hex ID: SZKTRANSISTORFETSIA449DJ
 - Name: Transistor_FET : SiA449DJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/SiA449DJ/
 - Description: Transistor_FET : SiA449DJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SiA449DJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SiA449DJ)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSIA449DJ](http://oom.lt/SZKTRANSISTORFETSIA449DJ)

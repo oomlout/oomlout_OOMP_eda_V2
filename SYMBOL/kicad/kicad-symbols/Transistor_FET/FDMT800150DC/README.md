@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800150DC
 - Hex ID: SZKTRANSISTORFETFDMT815DC
 - Name: Transistor_FET : FDMT800150DC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMT800150DC/
 - Description: Transistor_FET : FDMT800150DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800150DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800150DC)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMT815DC](http://oom.lt/SZKTRANSISTORFETFDMT815DC)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BF545A
 - Hex ID: SZKTRANSISTORFETBF545A
 - Name: Transistor_FET : BF545A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BF545A/
 - Description: Transistor_FET : BF545A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BF545A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BF545A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBF545A](http://oom.lt/SZKTRANSISTORFETBF545A)

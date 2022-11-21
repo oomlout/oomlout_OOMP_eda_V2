@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC848W
 - Hex ID: SZKTRANSISTORBJTBC848W
 - Name: Transistor_BJT : BC848W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC848W/
 - Description: Transistor_BJT : BC848W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC848W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC848W)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC848W](http://oom.lt/SZKTRANSISTORBJTBC848W)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-LF-EU433
 - Hex ID: SZKRFMORAK811LFEU433
 - Name: RF_Module : RAK811-LF-EU433
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/RAK811-LF-EU433/
 - Description: RF_Module : RAK811-LF-EU433
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-LF-EU433](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-LF-EU433)
 - Short Link: [http://oom.lt/SZKRFMORAK811LFEU433](http://oom.lt/SZKRFMORAK811LFEU433)

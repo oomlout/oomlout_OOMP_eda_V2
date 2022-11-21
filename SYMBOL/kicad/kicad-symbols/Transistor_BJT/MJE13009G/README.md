@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MJE13009G
 - Hex ID: SZKTRANSISTORBJTMJE139G
 - Name: Transistor_BJT : MJE13009G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MJE13009G/
 - Description: Transistor_BJT : MJE13009G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MJE13009G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MJE13009G)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTMJE139G](http://oom.lt/SZKTRANSISTORBJTMJE139G)

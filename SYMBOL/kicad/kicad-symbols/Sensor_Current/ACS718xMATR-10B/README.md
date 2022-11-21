@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS718xMATR-10B
 - Hex ID: SZKSENCURRENTACS718XMATR1B
 - Name: Sensor_Current : ACS718xMATR-10B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS718xMATR-10B/
 - Description: Sensor_Current : ACS718xMATR-10B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS718xMATR-10B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS718xMATR-10B)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS718XMATR1B](http://oom.lt/SZKSENCURRENTACS718XMATR1B)

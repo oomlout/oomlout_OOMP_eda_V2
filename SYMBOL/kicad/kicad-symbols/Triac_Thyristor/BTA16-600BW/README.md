@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTA16-600BW
 - Hex ID: SZKTRIACTHYRISTORBTA166BW
 - Name: Triac_Thyristor : BTA16-600BW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTA16-600BW/
 - Description: Triac_Thyristor : BTA16-600BW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTA16-600BW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTA16-600BW)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORBTA166BW](http://oom.lt/SZKTRIACTHYRISTORBTA166BW)

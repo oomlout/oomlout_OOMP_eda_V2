@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-4400
 - Hex ID: SZKRFFILLFCN44
 - Name: RF_Filter : LFCN-4400
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-4400/
 - Description: RF_Filter : LFCN-4400
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-4400](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-4400)
 - Short Link: [http://oom.lt/SZKRFFILLFCN44](http://oom.lt/SZKRFFILLFCN44)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8301M
 - Hex ID: SZKTRANSISTORFETIRF831M
 - Name: Transistor_FET : IRF8301M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF8301M/
 - Description: Transistor_FET : IRF8301M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8301M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8301M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF831M](http://oom.lt/SZKTRANSISTORFETIRF831M)

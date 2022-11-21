@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-3400
 - Hex ID: SZKRFFILLFCN34
 - Name: RF_Filter : LFCN-3400
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-3400/
 - Description: RF_Filter : LFCN-3400
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-3400](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-3400)
 - Short Link: [http://oom.lt/SZKRFFILLFCN34](http://oom.lt/SZKRFFILLFCN34)

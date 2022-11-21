@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2805A
 - Hex ID: SZKTRANSISTORARRAYULN285A
 - Name: Transistor_Array : ULN2805A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Array/ULN2805A/
 - Description: Transistor_Array : ULN2805A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2805A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2805A)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYULN285A](http://oom.lt/SZKTRANSISTORARRAYULN285A)

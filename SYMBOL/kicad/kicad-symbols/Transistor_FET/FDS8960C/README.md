@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS8960C
 - Hex ID: SZKTRANSISTORFETFDS896C
 - Name: Transistor_FET : FDS8960C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS8960C/
 - Description: Transistor_FET : FDS8960C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS8960C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS8960C)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS896C](http://oom.lt/SZKTRANSISTORFETFDS896C)

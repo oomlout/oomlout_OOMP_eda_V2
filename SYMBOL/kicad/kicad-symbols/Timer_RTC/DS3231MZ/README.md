@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-DS3231MZ
 - Hex ID: SZKTIMERRTCDS3231MZ
 - Name: Timer_RTC : DS3231MZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/DS3231MZ/
 - Description: Timer_RTC : DS3231MZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS3231MZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS3231MZ)
 - Short Link: [http://oom.lt/SZKTIMERRTCDS3231MZ](http://oom.lt/SZKTIMERRTCDS3231MZ)

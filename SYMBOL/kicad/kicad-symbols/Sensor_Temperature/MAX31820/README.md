@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31820
 - Hex ID: SZKSENTEMPERATUREMAX3182
 - Name: Sensor_Temperature : MAX31820
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31820/
 - Description: Sensor_Temperature : MAX31820
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31820](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31820)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMAX3182](http://oom.lt/SZKSENTEMPERATUREMAX3182)

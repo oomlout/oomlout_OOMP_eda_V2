@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP127
 - Hex ID: SZKTRANSISTORBJTTIP127
 - Name: Transistor_BJT : TIP127
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP127/
 - Description: Transistor_BJT : TIP127
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP127](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP127)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP127](http://oom.lt/SZKTRANSISTORBJTTIP127)

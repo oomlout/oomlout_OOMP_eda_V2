@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF4905
 - Hex ID: SZKTRANSISTORFETIRF495
 - Name: Transistor_FET : IRF4905
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF4905/
 - Description: Transistor_FET : IRF4905
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF4905](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF4905)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF495](http://oom.lt/SZKTRANSISTORFETIRF495)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Humidity-HDC1080
 - Hex ID: SZKSENHUMIDITYHDC18
 - Name: Sensor_Humidity : HDC1080
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/HDC1080/
 - Description: Sensor_Humidity : HDC1080
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-HDC1080](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-HDC1080)
 - Short Link: [http://oom.lt/SZKSENHUMIDITYHDC18](http://oom.lt/SZKSENHUMIDITYHDC18)

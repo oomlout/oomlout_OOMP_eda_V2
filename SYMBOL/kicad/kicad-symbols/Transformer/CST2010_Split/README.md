@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-CST2010_Split
 - Hex ID: SZKTRCST21SPLIT
 - Name: Transformer : CST2010_Split
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/CST2010_Split/
 - Description: Transformer : CST2010_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-CST2010_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-CST2010_Split)
 - Short Link: [http://oom.lt/SZKTRCST21SPLIT](http://oom.lt/SZKTRCST21SPLIT)

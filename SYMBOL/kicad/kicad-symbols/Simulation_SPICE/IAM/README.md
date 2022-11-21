@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IAM
 - Hex ID: SZKSIMULATIONSPICEIAM
 - Name: Simulation_SPICE : IAM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IAM/
 - Description: Simulation_SPICE : IAM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IAM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IAM)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEIAM](http://oom.lt/SZKSIMULATIONSPICEIAM)

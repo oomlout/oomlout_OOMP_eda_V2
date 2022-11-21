@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS127S
 - Hex ID: SZKTRANSISTORFETBSS127S
 - Name: Transistor_FET : BSS127S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSS127S/
 - Description: Transistor_FET : BSS127S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS127S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS127S)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSS127S](http://oom.lt/SZKTRANSISTORFETBSS127S)

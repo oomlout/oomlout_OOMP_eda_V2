@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-MSW-2-20
 - Hex ID: SZKRFSWMSW22
 - Name: RF_Switch : MSW-2-20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Switch/MSW-2-20/
 - Description: RF_Switch : MSW-2-20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MSW-2-20](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MSW-2-20)
 - Short Link: [http://oom.lt/SZKRFSWMSW22](http://oom.lt/SZKRFSWMSW22)

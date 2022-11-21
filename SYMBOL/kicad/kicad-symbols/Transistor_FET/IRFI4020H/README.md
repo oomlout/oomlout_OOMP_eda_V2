@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFI4020H
 - Hex ID: SZKTRANSISTORFETIRFI42H
 - Name: Transistor_FET : IRFI4020H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFI4020H/
 - Description: Transistor_FET : IRFI4020H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFI4020H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFI4020H)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRFI42H](http://oom.lt/SZKTRANSISTORFETIRFI42H)

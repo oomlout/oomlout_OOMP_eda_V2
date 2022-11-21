@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3110S
 - Hex ID: SZKTRANSISTORFETDMN311S
 - Name: Transistor_FET : DMN3110S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN3110S/
 - Description: Transistor_FET : DMN3110S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3110S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3110S)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN311S](http://oom.lt/SZKTRANSISTORFETDMN311S)

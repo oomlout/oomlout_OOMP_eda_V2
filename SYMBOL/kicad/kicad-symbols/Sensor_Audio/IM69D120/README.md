@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Audio-IM69D120
 - Hex ID: SZKSENAUDIOIM69D12
 - Name: Sensor_Audio : IM69D120
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Audio/IM69D120/
 - Description: Sensor_Audio : IM69D120
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Audio-IM69D120](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Audio-IM69D120)
 - Short Link: [http://oom.lt/SZKSENAUDIOIM69D12](http://oom.lt/SZKSENAUDIOIM69D12)

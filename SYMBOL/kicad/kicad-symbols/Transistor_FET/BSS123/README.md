@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS123
 - Hex ID: SZKTRANSISTORFETBSS123
 - Name: Transistor_FET : BSS123
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSS123/
 - Description: Transistor_FET : BSS123
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS123](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS123)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSS123](http://oom.lt/SZKTRANSISTORFETBSS123)

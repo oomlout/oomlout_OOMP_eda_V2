@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8306M
 - Hex ID: SZKTRANSISTORFETIRF836M
 - Name: Transistor_FET : IRF8306M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF8306M/
 - Description: Transistor_FET : IRF8306M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8306M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8306M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF836M](http://oom.lt/SZKTRANSISTORFETIRF836M)

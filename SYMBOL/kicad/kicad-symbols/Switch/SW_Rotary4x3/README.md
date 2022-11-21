@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary4x3
 - Hex ID: SZKSWSWROTARY4X3
 - Name: Switch : SW_Rotary4x3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary4x3/
 - Description: Switch : SW_Rotary4x3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary4x3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary4x3)
 - Short Link: [http://oom.lt/SZKSWSWROTARY4X3](http://oom.lt/SZKSWSWROTARY4X3)

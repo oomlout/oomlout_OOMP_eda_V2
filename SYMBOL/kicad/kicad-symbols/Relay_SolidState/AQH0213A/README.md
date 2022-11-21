@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH0213A
 - Hex ID: SZKRELAYSOLIDSTATEAQH213A
 - Name: Relay_SolidState : AQH0213A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/AQH0213A/
 - Description: Relay_SolidState : AQH0213A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH0213A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH0213A)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATEAQH213A](http://oom.lt/SZKRELAYSOLIDSTATEAQH213A)

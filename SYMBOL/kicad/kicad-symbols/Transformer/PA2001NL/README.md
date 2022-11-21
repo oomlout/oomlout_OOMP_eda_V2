@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PA2001NL
 - Hex ID: SZKTRPA21NL
 - Name: Transformer : PA2001NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PA2001NL/
 - Description: Transformer : PA2001NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA2001NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA2001NL)
 - Short Link: [http://oom.lt/SZKTRPA21NL](http://oom.lt/SZKTRPA21NL)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-PGA-1021
 - Hex ID: SZKRFAMPLIFIERPGA121
 - Name: RF_Amplifier : PGA-1021
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/PGA-1021/
 - Description: RF_Amplifier : PGA-1021
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-PGA-1021](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-PGA-1021)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERPGA121](http://oom.lt/SZKRFAMPLIFIERPGA121)

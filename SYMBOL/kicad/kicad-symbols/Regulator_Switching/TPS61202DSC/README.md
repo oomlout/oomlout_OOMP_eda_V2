@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61202DSC
 - Hex ID: SZKREGULATORSWINGTPS6122DSC
 - Name: Regulator_Switching : TPS61202DSC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS61202DSC/
 - Description: Regulator_Switching : TPS61202DSC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61202DSC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61202DSC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS6122DSC](http://oom.lt/SZKREGULATORSWINGTPS6122DSC)

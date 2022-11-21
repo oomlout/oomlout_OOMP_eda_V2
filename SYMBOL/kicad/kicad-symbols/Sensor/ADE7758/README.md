@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor-ADE7758
 - Hex ID: SZKSENADE7758
 - Name: Sensor : ADE7758
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor/ADE7758/
 - Description: Sensor : ADE7758
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-ADE7758](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-ADE7758)
 - Short Link: [http://oom.lt/SZKSENADE7758](http://oom.lt/SZKSENADE7758)

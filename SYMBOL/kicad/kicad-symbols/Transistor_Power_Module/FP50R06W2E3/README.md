@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP50R06W2E3
 - Hex ID: SZKTRANSISTORPOWERMOFP5R6W2E3
 - Name: Transistor_Power_Module : FP50R06W2E3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP50R06W2E3/
 - Description: Transistor_Power_Module : FP50R06W2E3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP50R06W2E3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP50R06W2E3)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOFP5R6W2E3](http://oom.lt/SZKTRANSISTORPOWERMOFP5R6W2E3)

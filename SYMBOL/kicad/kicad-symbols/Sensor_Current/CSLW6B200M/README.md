@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CSLW6B200M
 - Hex ID: SZKSENCURRENTCSLW6B2M
 - Name: Sensor_Current : CSLW6B200M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CSLW6B200M/
 - Description: Sensor_Current : CSLW6B200M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CSLW6B200M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CSLW6B200M)
 - Short Link: [http://oom.lt/SZKSENCURRENTCSLW6B2M](http://oom.lt/SZKSENCURRENTCSLW6B2M)

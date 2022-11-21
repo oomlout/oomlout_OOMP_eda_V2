@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN3F30FH
 - Hex ID: SZKTRANSISTORFETZXMN3F3FH
 - Name: Transistor_FET : ZXMN3F30FH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN3F30FH/
 - Description: Transistor_FET : ZXMN3F30FH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN3F30FH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN3F30FH)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZXMN3F3FH](http://oom.lt/SZKTRANSISTORFETZXMN3F3FH)

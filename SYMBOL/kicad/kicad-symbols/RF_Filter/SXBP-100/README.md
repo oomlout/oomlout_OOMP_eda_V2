@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-SXBP-100
 - Hex ID: SZKRFFILSXBP1
 - Name: RF_Filter : SXBP-100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/SXBP-100/
 - Description: RF_Filter : SXBP-100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-SXBP-100](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-SXBP-100)
 - Short Link: [http://oom.lt/SZKRFFILSXBP1](http://oom.lt/SZKRFFILSXBP1)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-AQH3213A
 - Hex ID: SZKRFAQH3213A
 - Name: RF : AQH3213A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/AQH3213A/
 - Description: RF : AQH3213A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-AQH3213A](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-AQH3213A)
 - Short Link: [http://oom.lt/SZKRFAQH3213A](http://oom.lt/SZKRFAQH3213A)

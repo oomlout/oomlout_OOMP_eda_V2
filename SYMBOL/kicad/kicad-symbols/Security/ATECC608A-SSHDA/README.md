@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Security-ATECC608A-SSHDA
 - Hex ID: SZKSECURITYATECC68ASSHDA
 - Name: Security : ATECC608A-SSHDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Security/ATECC608A-SSHDA/
 - Description: Security : ATECC608A-SSHDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Security-ATECC608A-SSHDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Security-ATECC608A-SSHDA)
 - Short Link: [http://oom.lt/SZKSECURITYATECC68ASSHDA](http://oom.lt/SZKSECURITYATECC68ASSHDA)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TDN_5-0919WISM
 - Hex ID: SZKREGULATORSWINGTDN5919WISM
 - Name: Regulator_Switching : TDN_5-0919WISM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TDN_5-0919WISM/
 - Description: Regulator_Switching : TDN_5-0919WISM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TDN_5-0919WISM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TDN_5-0919WISM)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTDN5919WISM](http://oom.lt/SZKREGULATORSWINGTDN5919WISM)

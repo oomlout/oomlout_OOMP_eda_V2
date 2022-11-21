@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86202
 - Hex ID: SZKTRANSISTORFETFDMS8622
 - Name: Transistor_FET : FDMS86202
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS86202/
 - Description: Transistor_FET : FDMS86202
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86202](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86202)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMS8622](http://oom.lt/SZKTRANSISTORFETFDMS8622)

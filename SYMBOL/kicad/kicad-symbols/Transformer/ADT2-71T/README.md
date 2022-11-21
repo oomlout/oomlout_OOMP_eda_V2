@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADT2-71T
 - Hex ID: SZKTRADT271T
 - Name: Transformer : ADT2-71T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT2-71T/
 - Description: Transformer : ADT2-71T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT2-71T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT2-71T)
 - Short Link: [http://oom.lt/SZKTRADT271T](http://oom.lt/SZKTRADT271T)

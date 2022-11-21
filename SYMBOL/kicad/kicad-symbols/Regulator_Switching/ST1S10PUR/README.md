@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ST1S10PUR
 - Hex ID: SZKREGULATORSWINGST1S1PUR
 - Name: Regulator_Switching : ST1S10PUR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S10PUR/
 - Description: Regulator_Switching : ST1S10PUR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ST1S10PUR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ST1S10PUR)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGST1S1PUR](http://oom.lt/SZKREGULATORSWINGST1S1PUR)

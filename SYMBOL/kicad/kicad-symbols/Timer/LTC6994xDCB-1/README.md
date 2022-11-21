@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-LTC6994xDCB-1
 - Hex ID: SZKTIMERLTC6994XDCB1
 - Name: Timer : LTC6994xDCB-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/LTC6994xDCB-1/
 - Description: Timer : LTC6994xDCB-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LTC6994xDCB-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LTC6994xDCB-1)
 - Short Link: [http://oom.lt/SZKTIMERLTC6994XDCB1](http://oom.lt/SZKTIMERLTC6994XDCB1)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GPS-L80-R
 - Hex ID: SZKGPSL8R
 - Name: RF_GPS : L80-R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GPS/L80-R/
 - Description: RF_GPS : L80-R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-L80-R](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-L80-R)
 - Short Link: [http://oom.lt/SZKGPSL8R](http://oom.lt/SZKGPSL8R)

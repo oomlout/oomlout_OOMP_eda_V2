@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS730xLCTR-80AU
 - Hex ID: SZKSENCURRENTACS73XLCTR8AU
 - Name: Sensor_Current : ACS730xLCTR-80AU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS730xLCTR-80AU/
 - Description: Sensor_Current : ACS730xLCTR-80AU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS730xLCTR-80AU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS730xLCTR-80AU)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS73XLCTR8AU](http://oom.lt/SZKSENCURRENTACS73XLCTR8AU)

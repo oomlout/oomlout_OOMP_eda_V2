@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK7M45-40EX
 - Hex ID: SZKTRANSISTORFETBUK7M454EX
 - Name: Transistor_FET : BUK7M45-40EX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK7M45-40EX/
 - Description: Transistor_FET : BUK7M45-40EX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK7M45-40EX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK7M45-40EX)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBUK7M454EX](http://oom.lt/SZKTRANSISTORFETBUK7M454EX)

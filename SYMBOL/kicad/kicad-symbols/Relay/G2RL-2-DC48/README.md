@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-G2RL-2-DC48
 - Hex ID: SZKRELAYG2RL2DC48
 - Name: Relay : G2RL-2-DC48
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/G2RL-2-DC48/
 - Description: Relay : G2RL-2-DC48
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G2RL-2-DC48](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G2RL-2-DC48)
 - Short Link: [http://oom.lt/SZKRELAYG2RL2DC48](http://oom.lt/SZKRELAYG2RL2DC48)

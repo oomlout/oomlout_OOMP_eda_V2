@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-C12880MA
 - Hex ID: SZKSENOPTICALC1288MA
 - Name: Sensor_Optical : C12880MA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/C12880MA/
 - Description: Sensor_Optical : C12880MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-C12880MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-C12880MA)
 - Short Link: [http://oom.lt/SZKSENOPTICALC1288MA](http://oom.lt/SZKSENOPTICALC1288MA)

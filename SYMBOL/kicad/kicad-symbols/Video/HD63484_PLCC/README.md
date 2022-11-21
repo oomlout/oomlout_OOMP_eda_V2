@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-HD63484_PLCC
 - Hex ID: SZKVIDEOHD63484PLCC
 - Name: Video : HD63484_PLCC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/HD63484_PLCC/
 - Description: Video : HD63484_PLCC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-HD63484_PLCC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-HD63484_PLCC)
 - Short Link: [http://oom.lt/SZKVIDEOHD63484PLCC](http://oom.lt/SZKVIDEOHD63484PLCC)

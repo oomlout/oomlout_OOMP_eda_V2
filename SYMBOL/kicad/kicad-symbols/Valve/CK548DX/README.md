@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Valve-CK548DX
 - Hex ID: SZKVACK548DX
 - Name: Valve : CK548DX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/CK548DX/
 - Description: Valve : CK548DX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-CK548DX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-CK548DX)
 - Short Link: [http://oom.lt/SZKVACK548DX](http://oom.lt/SZKVACK548DX)

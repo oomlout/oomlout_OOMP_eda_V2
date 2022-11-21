@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62160DGK
 - Hex ID: SZKREGULATORSWINGTPS6216DGK
 - Name: Regulator_Switching : TPS62160DGK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS62160DGK/
 - Description: Regulator_Switching : TPS62160DGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62160DGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62160DGK)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS6216DGK](http://oom.lt/SZKREGULATORSWINGTPS6216DGK)

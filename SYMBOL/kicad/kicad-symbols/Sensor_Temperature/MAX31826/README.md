@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31826
 - Hex ID: SZKSENTEMPERATUREMAX31826
 - Name: Sensor_Temperature : MAX31826
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31826/
 - Description: Sensor_Temperature : MAX31826
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31826](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31826)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMAX31826](http://oom.lt/SZKSENTEMPERATUREMAX31826)

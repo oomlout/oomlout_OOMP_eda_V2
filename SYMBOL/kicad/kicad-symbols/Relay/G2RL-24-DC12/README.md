@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-G2RL-24-DC12
 - Hex ID: SZKRELAYG2RL24DC12
 - Name: Relay : G2RL-24-DC12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/G2RL-24-DC12/
 - Description: Relay : G2RL-24-DC12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G2RL-24-DC12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G2RL-24-DC12)
 - Short Link: [http://oom.lt/SZKRELAYG2RL24DC12](http://oom.lt/SZKRELAYG2RL24DC12)

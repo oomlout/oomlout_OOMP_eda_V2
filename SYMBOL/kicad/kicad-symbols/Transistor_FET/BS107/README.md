@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BS107
 - Hex ID: SZKTRANSISTORFETBS17
 - Name: Transistor_FET : BS107
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BS107/
 - Description: Transistor_FET : BS107
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BS107](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BS107)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBS17](http://oom.lt/SZKTRANSISTORFETBS17)

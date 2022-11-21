@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-6000
 - Hex ID: SZKRFFILLFCN6
 - Name: RF_Filter : LFCN-6000
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-6000/
 - Description: RF_Filter : LFCN-6000
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-6000](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-6000)
 - Short Link: [http://oom.lt/SZKRFFILLFCN6](http://oom.lt/SZKRFFILLFCN6)

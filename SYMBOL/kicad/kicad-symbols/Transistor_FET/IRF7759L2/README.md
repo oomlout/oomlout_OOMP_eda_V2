@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7759L2
 - Hex ID: SZKTRANSISTORFETIRF7759L2
 - Name: Transistor_FET : IRF7759L2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7759L2/
 - Description: Transistor_FET : IRF7759L2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7759L2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7759L2)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF7759L2](http://oom.lt/SZKTRANSISTORFETIRF7759L2)

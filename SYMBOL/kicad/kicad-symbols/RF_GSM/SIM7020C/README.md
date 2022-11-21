@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GSM-SIM7020C
 - Hex ID: SZKGSMSIM72C
 - Name: RF_GSM : SIM7020C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GSM/SIM7020C/
 - Description: RF_GSM : SIM7020C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SIM7020C](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SIM7020C)
 - Short Link: [http://oom.lt/SZKGSMSIM72C](http://oom.lt/SZKGSMSIM72C)

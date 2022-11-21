@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CKSR_15-NP
 - Hex ID: SZKSENCURRENTCKSR15NP
 - Name: Sensor_Current : CKSR_15-NP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CKSR_15-NP/
 - Description: Sensor_Current : CKSR_15-NP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CKSR_15-NP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CKSR_15-NP)
 - Short Link: [http://oom.lt/SZKSENCURRENTCKSR15NP](http://oom.lt/SZKSENCURRENTCKSR15NP)

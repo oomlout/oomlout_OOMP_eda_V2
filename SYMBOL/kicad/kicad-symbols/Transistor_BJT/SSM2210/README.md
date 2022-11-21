@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-SSM2210
 - Hex ID: SZKTRANSISTORBJTSSM221
 - Name: Transistor_BJT : SSM2210
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/SSM2210/
 - Description: Transistor_BJT : SSM2210
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-SSM2210](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-SSM2210)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTSSM221](http://oom.lt/SZKTRANSISTORBJTSSM221)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK7880-55A
 - Hex ID: SZKTRANSISTORFETBUK78855A
 - Name: Transistor_FET : BUK7880-55A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK7880-55A/
 - Description: Transistor_FET : BUK7880-55A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK7880-55A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK7880-55A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBUK78855A](http://oom.lt/SZKTRANSISTORFETBUK78855A)

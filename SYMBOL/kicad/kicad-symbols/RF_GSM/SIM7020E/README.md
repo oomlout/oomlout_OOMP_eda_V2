@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GSM-SIM7020E
 - Hex ID: SZKGSMSIM72E
 - Name: RF_GSM : SIM7020E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GSM/SIM7020E/
 - Description: RF_GSM : SIM7020E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SIM7020E](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SIM7020E)
 - Short Link: [http://oom.lt/SZKGSMSIM72E](http://oom.lt/SZKGSMSIM72E)

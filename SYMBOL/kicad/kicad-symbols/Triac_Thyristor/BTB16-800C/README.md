@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTB16-800C
 - Hex ID: SZKTRIACTHYRISTORBTB168C
 - Name: Triac_Thyristor : BTB16-800C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BTB16-800C/
 - Description: Triac_Thyristor : BTB16-800C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTB16-800C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTB16-800C)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORBTB168C](http://oom.lt/SZKTRIACTHYRISTORBTB168C)

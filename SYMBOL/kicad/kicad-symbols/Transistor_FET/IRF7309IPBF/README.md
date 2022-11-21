@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7309IPBF
 - Hex ID: SZKTRANSISTORFETIRF739IPBF
 - Name: Transistor_FET : IRF7309IPBF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7309IPBF/
 - Description: Transistor_FET : IRF7309IPBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7309IPBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7309IPBF)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF739IPBF](http://oom.lt/SZKTRANSISTORFETIRF739IPBF)

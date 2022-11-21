@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-Si7210-B-xx-IV
 - Hex ID: SZKSENMAGNETICSI721BXXIV
 - Name: Sensor_Magnetic : Si7210-B-xx-IV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/Si7210-B-xx-IV/
 - Description: Sensor_Magnetic : Si7210-B-xx-IV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-Si7210-B-xx-IV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-Si7210-B-xx-IV)
 - Short Link: [http://oom.lt/SZKSENMAGNETICSI721BXXIV](http://oom.lt/SZKSENMAGNETICSI721BXXIV)

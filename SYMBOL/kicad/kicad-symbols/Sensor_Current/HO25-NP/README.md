@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HO25-NP
 - Hex ID: SZKSENCURRENTHO25NP
 - Name: Sensor_Current : HO25-NP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/HO25-NP/
 - Description: Sensor_Current : HO25-NP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO25-NP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO25-NP)
 - Short Link: [http://oom.lt/SZKSENCURRENTHO25NP](http://oom.lt/SZKSENCURRENTHO25NP)

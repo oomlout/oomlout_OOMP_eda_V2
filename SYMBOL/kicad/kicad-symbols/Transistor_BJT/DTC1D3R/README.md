@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC1D3R
 - Hex ID: SZKTRANSISTORBJTDTC1D3R
 - Name: Transistor_BJT : DTC1D3R
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTC1D3R/
 - Description: Transistor_BJT : DTC1D3R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC1D3R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC1D3R)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTC1D3R](http://oom.lt/SZKTRANSISTORBJTDTC1D3R)

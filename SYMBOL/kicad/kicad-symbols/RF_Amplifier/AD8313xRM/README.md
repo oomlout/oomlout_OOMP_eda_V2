@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-AD8313xRM
 - Hex ID: SZKRFAMPLIFIERAD8313XRM
 - Name: RF_Amplifier : AD8313xRM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/AD8313xRM/
 - Description: RF_Amplifier : AD8313xRM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-AD8313xRM](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-AD8313xRM)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERAD8313XRM](http://oom.lt/SZKRFAMPLIFIERAD8313XRM)

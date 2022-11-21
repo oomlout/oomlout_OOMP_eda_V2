@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-3800
 - Hex ID: SZKRFFILHFCN38
 - Name: RF_Filter : HFCN-3800
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-3800/
 - Description: RF_Filter : HFCN-3800
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-3800](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-3800)
 - Short Link: [http://oom.lt/SZKRFFILHFCN38](http://oom.lt/SZKRFFILHFCN38)

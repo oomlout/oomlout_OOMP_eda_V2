@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_SPST
 - Hex ID: SZKSWSWSPST
 - Name: Switch : SW_SPST
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_SPST/
 - Description: Switch : SW_SPST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_SPST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_SPST)
 - Short Link: [http://oom.lt/SZKSWSWSPST](http://oom.lt/SZKSWSWSPST)

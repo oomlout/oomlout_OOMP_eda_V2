@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-ADG902BRMZ
 - Hex ID: SZKRFSWADG92BRMZ
 - Name: RF_Switch : ADG902BRMZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Switch/ADG902BRMZ/
 - Description: RF_Switch : ADG902BRMZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-ADG902BRMZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-ADG902BRMZ)
 - Short Link: [http://oom.lt/SZKRFSWADG92BRMZ](http://oom.lt/SZKRFSWADG92BRMZ)

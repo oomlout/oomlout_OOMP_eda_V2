@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16413Q5A
 - Hex ID: SZKTRANSISTORFETCSD16413Q5A
 - Name: Transistor_FET : CSD16413Q5A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD16413Q5A/
 - Description: Transistor_FET : CSD16413Q5A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16413Q5A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16413Q5A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETCSD16413Q5A](http://oom.lt/SZKTRANSISTORFETCSD16413Q5A)

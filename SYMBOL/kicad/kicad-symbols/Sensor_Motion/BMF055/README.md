@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-BMF055
 - Hex ID: SZKSENMOTIONBMF55
 - Name: Sensor_Motion : BMF055
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/BMF055/
 - Description: Sensor_Motion : BMF055
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-BMF055](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-BMF055)
 - Short Link: [http://oom.lt/SZKSENMOTIONBMF55](http://oom.lt/SZKSENMOTIONBMF55)

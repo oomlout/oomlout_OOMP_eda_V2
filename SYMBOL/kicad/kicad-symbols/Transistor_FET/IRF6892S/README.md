@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6892S
 - Hex ID: SZKTRANSISTORFETIRF6892S
 - Name: Transistor_FET : IRF6892S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6892S/
 - Description: Transistor_FET : IRF6892S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6892S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6892S)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6892S](http://oom.lt/SZKTRANSISTORFETIRF6892S)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD437
 - Hex ID: SZKTRANSISTORBJTBD437
 - Name: Transistor_BJT : BD437
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD437/
 - Description: Transistor_BJT : BD437
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD437](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD437)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD437](http://oom.lt/SZKTRANSISTORBJTBD437)

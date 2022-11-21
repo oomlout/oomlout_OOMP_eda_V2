@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Valve-ECH81
 - Hex ID: SZKVAECH81
 - Name: Valve : ECH81
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/ECH81/
 - Description: Valve : ECH81
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECH81](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECH81)
 - Short Link: [http://oom.lt/SZKVAECH81](http://oom.lt/SZKVAECH81)

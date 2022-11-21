@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3404L
 - Hex ID: SZKTRANSISTORFETDMN344L
 - Name: Transistor_FET : DMN3404L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN3404L/
 - Description: Transistor_FET : DMN3404L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3404L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3404L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN344L](http://oom.lt/SZKTRANSISTORFETDMN344L)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TRANSF7
 - Hex ID: SZKTRTRANSF7
 - Name: Transformer : TRANSF7
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TRANSF7/
 - Description: Transformer : TRANSF7
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF7](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF7)
 - Short Link: [http://oom.lt/SZKTRTRANSF7](http://oom.lt/SZKTRTRANSF7)

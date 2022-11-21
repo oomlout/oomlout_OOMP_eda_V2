@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VAM
 - Hex ID: SZKSIMULATIONSPICEVAM
 - Name: Simulation_SPICE : VAM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VAM/
 - Description: Simulation_SPICE : VAM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VAM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VAM)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVAM](http://oom.lt/SZKSIMULATIONSPICEVAM)

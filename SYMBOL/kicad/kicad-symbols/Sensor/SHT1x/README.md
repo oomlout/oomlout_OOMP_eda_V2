@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor-SHT1x
 - Hex ID: SZKSENSHT1X
 - Name: Sensor : SHT1x
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor/SHT1x/
 - Description: Sensor : SHT1x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-SHT1x](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-SHT1x)
 - Short Link: [http://oom.lt/SZKSENSHT1X](http://oom.lt/SZKSENSHT1X)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-2850D
 - Hex ID: SZKRFFILLFCN285D
 - Name: RF_Filter : LFCN-2850D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-2850D/
 - Description: RF_Filter : LFCN-2850D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-2850D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-2850D)
 - Short Link: [http://oom.lt/SZKRFFILLFCN285D](http://oom.lt/SZKRFFILLFCN285D)

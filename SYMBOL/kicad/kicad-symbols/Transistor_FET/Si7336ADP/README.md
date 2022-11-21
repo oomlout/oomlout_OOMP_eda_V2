@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-Si7336ADP
 - Hex ID: SZKTRANSISTORFETSI7336ADP
 - Name: Transistor_FET : Si7336ADP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si7336ADP/
 - Description: Transistor_FET : Si7336ADP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si7336ADP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si7336ADP)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSI7336ADP](http://oom.lt/SZKTRANSISTORFETSI7336ADP)

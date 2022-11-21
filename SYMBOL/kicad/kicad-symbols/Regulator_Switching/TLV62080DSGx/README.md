@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62080DSGx
 - Hex ID: SZKREGULATORSWINGTLV628DSGX
 - Name: Regulator_Switching : TLV62080DSGx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TLV62080DSGx/
 - Description: Regulator_Switching : TLV62080DSGx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62080DSGx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62080DSGx)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTLV628DSGX](http://oom.lt/SZKREGULATORSWINGTLV628DSGX)

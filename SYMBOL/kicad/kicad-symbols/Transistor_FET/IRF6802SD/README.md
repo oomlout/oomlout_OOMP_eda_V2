@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6802SD
 - Hex ID: SZKTRANSISTORFETIRF682SD
 - Name: Transistor_FET : IRF6802SD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6802SD/
 - Description: Transistor_FET : IRF6802SD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6802SD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6802SD)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF682SD](http://oom.lt/SZKTRANSISTORFETIRF682SD)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS600-P
 - Hex ID: SZKSENCURRENTHTFS6P
 - Name: Sensor_Current : HTFS600-P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/HTFS600-P/
 - Description: Sensor_Current : HTFS600-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS600-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS600-P)
 - Short Link: [http://oom.lt/SZKSENCURRENTHTFS6P](http://oom.lt/SZKSENCURRENTHTFS6P)

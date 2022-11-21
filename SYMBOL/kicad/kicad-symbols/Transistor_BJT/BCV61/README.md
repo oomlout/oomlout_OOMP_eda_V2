@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV61
 - Hex ID: SZKTRANSISTORBJTBCV61
 - Name: Transistor_BJT : BCV61
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BCV61/
 - Description: Transistor_BJT : BCV61
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV61](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV61)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBCV61](http://oom.lt/SZKTRANSISTORBJTBCV61)

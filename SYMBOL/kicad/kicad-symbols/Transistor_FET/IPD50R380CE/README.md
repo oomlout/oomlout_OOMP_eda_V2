@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IPD50R380CE
 - Hex ID: SZKTRANSISTORFETIPD5R38CE
 - Name: Transistor_FET : IPD50R380CE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPD50R380CE/
 - Description: Transistor_FET : IPD50R380CE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPD50R380CE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPD50R380CE)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIPD5R38CE](http://oom.lt/SZKTRANSISTORFETIPD5R38CE)

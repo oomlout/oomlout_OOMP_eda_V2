@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7040
 - Hex ID: SZKSWSWCODEDSH74
 - Name: Switch : SW_Coded_SH-7040
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Coded_SH-7040/
 - Description: Switch : SW_Coded_SH-7040
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7040](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7040)
 - Short Link: [http://oom.lt/SZKSWSWCODEDSH74](http://oom.lt/SZKSWSWCODEDSH74)

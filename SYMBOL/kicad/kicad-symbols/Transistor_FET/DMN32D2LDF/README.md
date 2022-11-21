@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN32D2LDF
 - Hex ID: SZKTRANSISTORFETDMN32D2LDF
 - Name: Transistor_FET : DMN32D2LDF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN32D2LDF/
 - Description: Transistor_FET : DMN32D2LDF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN32D2LDF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN32D2LDF)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN32D2LDF](http://oom.lt/SZKTRANSISTORFETDMN32D2LDF)

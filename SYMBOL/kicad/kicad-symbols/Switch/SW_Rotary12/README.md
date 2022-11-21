@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary12
 - Hex ID: SZKSWSWROTARY12
 - Name: Switch : SW_Rotary12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary12/
 - Description: Switch : SW_Rotary12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary12)
 - Short Link: [http://oom.lt/SZKSWSWROTARY12](http://oom.lt/SZKSWSWROTARY12)

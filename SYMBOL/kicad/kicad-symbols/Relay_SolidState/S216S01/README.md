@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-S216S01
 - Hex ID: SZKRELAYSOLIDSTATES216S1
 - Name: Relay_SolidState : S216S01
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/S216S01/
 - Description: Relay_SolidState : S216S01
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-S216S01](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-S216S01)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATES216S1](http://oom.lt/SZKRELAYSOLIDSTATES216S1)

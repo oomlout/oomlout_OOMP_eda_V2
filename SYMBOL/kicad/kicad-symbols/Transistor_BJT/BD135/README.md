@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD135
 - Hex ID: SZKTRANSISTORBJTBD135
 - Name: Transistor_BJT : BD135
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD135/
 - Description: Transistor_BJT : BD135
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD135](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD135)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD135](http://oom.lt/SZKTRANSISTORBJTBD135)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-FINDER-40.11
 - Hex ID: SZKRELAYFINDER411
 - Name: Relay : FINDER-40.11
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/FINDER-40.11/
 - Description: Relay : FINDER-40.11
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-40.11](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-40.11)
 - Short Link: [http://oom.lt/SZKRELAYFINDER411](http://oom.lt/SZKRELAYFINDER411)

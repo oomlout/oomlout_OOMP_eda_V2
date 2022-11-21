@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-S8550
 - Hex ID: SZKTRANSISTORBJTS855
 - Name: Transistor_BJT : S8550
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/S8550/
 - Description: Transistor_BJT : S8550
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-S8550](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-S8550)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTS855](http://oom.lt/SZKTRANSISTORBJTS855)

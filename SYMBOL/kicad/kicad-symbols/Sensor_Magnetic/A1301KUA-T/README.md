@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1301KUA-T
 - Hex ID: SZKSENMAGNETICA131KUAT
 - Name: Sensor_Magnetic : A1301KUA-T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/A1301KUA-T/
 - Description: Sensor_Magnetic : A1301KUA-T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1301KUA-T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1301KUA-T)
 - Short Link: [http://oom.lt/SZKSENMAGNETICA131KUAT](http://oom.lt/SZKSENMAGNETICA131KUAT)

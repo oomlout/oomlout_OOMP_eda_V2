@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP258YN
 - Hex ID: SZKREGULATORSWINGTOP258YN
 - Name: Regulator_Switching : TOP258YN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TOP258YN/
 - Description: Regulator_Switching : TOP258YN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP258YN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP258YN)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTOP258YN](http://oom.lt/SZKREGULATORSWINGTOP258YN)

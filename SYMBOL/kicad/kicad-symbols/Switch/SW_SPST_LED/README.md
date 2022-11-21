@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_SPST_LED
 - Hex ID: SZKSWSWSPSTL
 - Name: Switch : SW_SPST_LED
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_SPST_LED/
 - Description: Switch : SW_SPST_LED
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_SPST_LED](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_SPST_LED)
 - Short Link: [http://oom.lt/SZKSWSWSPSTL](http://oom.lt/SZKSWSWSPSTL)

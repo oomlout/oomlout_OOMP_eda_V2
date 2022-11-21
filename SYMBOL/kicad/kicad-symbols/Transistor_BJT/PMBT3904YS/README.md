@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3904YS
 - Hex ID: SZKTRANSISTORBJTPMBT394YS
 - Name: Transistor_BJT : PMBT3904YS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PMBT3904YS/
 - Description: Transistor_BJT : PMBT3904YS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3904YS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3904YS)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPMBT394YS](http://oom.lt/SZKTRANSISTORBJTPMBT394YS)

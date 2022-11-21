@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-113
 - Hex ID: SZKRFFILLFCN113
 - Name: RF_Filter : LFCN-113
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-113/
 - Description: RF_Filter : LFCN-113
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-113](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-113)
 - Short Link: [http://oom.lt/SZKRFFILLFCN113](http://oom.lt/SZKRFFILLFCN113)

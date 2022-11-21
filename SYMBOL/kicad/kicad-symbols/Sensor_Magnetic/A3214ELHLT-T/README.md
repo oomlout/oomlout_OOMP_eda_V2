@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A3214ELHLT-T
 - Hex ID: SZKSENMAGNETICA3214ELHLTT
 - Name: Sensor_Magnetic : A3214ELHLT-T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/A3214ELHLT-T/
 - Description: Sensor_Magnetic : A3214ELHLT-T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A3214ELHLT-T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A3214ELHLT-T)
 - Short Link: [http://oom.lt/SZKSENMAGNETICA3214ELHLTT](http://oom.lt/SZKSENMAGNETICA3214ELHLTT)

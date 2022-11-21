@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM42
 - Hex ID: SZKRELAYIM42
 - Name: Relay : IM42
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM42/
 - Description: Relay : IM42
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM42](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM42)
 - Short Link: [http://oom.lt/SZKRELAYIM42](http://oom.lt/SZKRELAYIM42)

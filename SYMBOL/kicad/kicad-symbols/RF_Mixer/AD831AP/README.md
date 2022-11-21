@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Mixer-AD831AP
 - Hex ID: SZKRFMIXERAD831AP
 - Name: RF_Mixer : AD831AP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Mixer/AD831AP/
 - Description: RF_Mixer : AD831AP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Mixer-AD831AP](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Mixer-AD831AP)
 - Short Link: [http://oom.lt/SZKRFMIXERAD831AP](http://oom.lt/SZKRFMIXERAD831AP)

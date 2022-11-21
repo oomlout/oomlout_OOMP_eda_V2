@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Voltage-LV25-P
 - Hex ID: SZKSENVOLTAGELV25P
 - Name: Sensor_Voltage : LV25-P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Voltage/LV25-P/
 - Description: Sensor_Voltage : LV25-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Voltage-LV25-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Voltage-LV25-P)
 - Short Link: [http://oom.lt/SZKSENVOLTAGELV25P](http://oom.lt/SZKSENVOLTAGELV25P)

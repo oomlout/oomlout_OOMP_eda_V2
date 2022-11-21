@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-FOD420
 - Hex ID: SZKRFFOD42
 - Name: RF : FOD420
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/FOD420/
 - Description: RF : FOD420
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FOD420](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FOD420)
 - Short Link: [http://oom.lt/SZKRFFOD42](http://oom.lt/SZKRFFOD42)

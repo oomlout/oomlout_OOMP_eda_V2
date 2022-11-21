@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-AD9708AR
 - Hex ID: SZKVIDEOAD978AR
 - Name: Video : AD9708AR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/AD9708AR/
 - Description: Video : AD9708AR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-AD9708AR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-AD9708AR)
 - Short Link: [http://oom.lt/SZKVIDEOAD978AR](http://oom.lt/SZKVIDEOAD978AR)

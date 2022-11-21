@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT138-800
 - Hex ID: SZKTRIACTHYRISTORBT1388
 - Name: Triac_Thyristor : BT138-800
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BT138-800/
 - Description: Triac_Thyristor : BT138-800
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT138-800](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT138-800)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORBT1388](http://oom.lt/SZKTRIACTHYRISTORBT1388)

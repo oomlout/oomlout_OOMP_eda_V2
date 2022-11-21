@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-DWM1001
 - Hex ID: SZKRFMODWM11
 - Name: RF_Module : DWM1001
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/DWM1001/
 - Description: RF_Module : DWM1001
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-DWM1001](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-DWM1001)
 - Short Link: [http://oom.lt/SZKRFMODWM11](http://oom.lt/SZKRFMODWM11)

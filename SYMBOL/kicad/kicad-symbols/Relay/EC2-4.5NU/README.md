@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-EC2-4.5NU
 - Hex ID: SZKRELAYEC245NU
 - Name: Relay : EC2-4.5NU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EC2-4.5NU/
 - Description: Relay : EC2-4.5NU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EC2-4.5NU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EC2-4.5NU)
 - Short Link: [http://oom.lt/SZKRELAYEC245NU](http://oom.lt/SZKRELAYEC245NU)

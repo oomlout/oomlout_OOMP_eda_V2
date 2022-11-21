@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA125T
 - Hex ID: SZKTRANSISTORBJTDTA125T
 - Name: Transistor_BJT : DTA125T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTA125T/
 - Description: Transistor_BJT : DTA125T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA125T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA125T)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTA125T](http://oom.lt/SZKTRANSISTORBJTDTA125T)

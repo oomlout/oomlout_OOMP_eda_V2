@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-CMWX1ZZABZ-078
 - Hex ID: SZKRFMOCMWX1ZZABZ78
 - Name: RF_Module : CMWX1ZZABZ-078
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/CMWX1ZZABZ-078/
 - Description: RF_Module : CMWX1ZZABZ-078
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-CMWX1ZZABZ-078](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-CMWX1ZZABZ-078)
 - Short Link: [http://oom.lt/SZKRFMOCMWX1ZZABZ78](http://oom.lt/SZKRFMOCMWX1ZZABZ78)

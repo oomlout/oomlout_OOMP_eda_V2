@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Valve-NOS-6418
 - Hex ID: SZKVANOS6418
 - Name: Valve : NOS-6418
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/NOS-6418/
 - Description: Valve : NOS-6418
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-NOS-6418](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-NOS-6418)
 - Short Link: [http://oom.lt/SZKVANOS6418](http://oom.lt/SZKVANOS6418)

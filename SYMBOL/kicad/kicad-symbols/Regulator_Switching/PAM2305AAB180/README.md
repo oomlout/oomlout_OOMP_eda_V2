@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305AAB180
 - Hex ID: SZKREGULATORSWINGPAM235AAB18
 - Name: Regulator_Switching : PAM2305AAB180
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2305AAB180/
 - Description: Regulator_Switching : PAM2305AAB180
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305AAB180](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305AAB180)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGPAM235AAB18](http://oom.lt/SZKREGULATORSWINGPAM235AAB18)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP1651
 - Hex ID: SZKREGULATORSWINGMCP1651
 - Name: Regulator_Switching : MCP1651
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP1651/
 - Description: Regulator_Switching : MCP1651
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP1651](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP1651)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMCP1651](http://oom.lt/SZKREGULATORSWINGMCP1651)

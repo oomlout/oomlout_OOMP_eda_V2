@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-FODM3012
 - Hex ID: SZKRELAYSOLIDSTATEFODM312
 - Name: Relay_SolidState : FODM3012
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/FODM3012/
 - Description: Relay_SolidState : FODM3012
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-FODM3012](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-FODM3012)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATEFODM312](http://oom.lt/SZKRELAYSOLIDSTATEFODM312)

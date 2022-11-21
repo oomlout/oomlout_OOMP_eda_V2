@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1070P130
 - Hex ID: SZKREGULATORSWINGNCP17P13
 - Name: Regulator_Switching : NCP1070P130
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1070P130/
 - Description: Regulator_Switching : NCP1070P130
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1070P130](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1070P130)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGNCP17P13](http://oom.lt/SZKREGULATORSWINGNCP17P13)

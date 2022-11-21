@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC214Y
 - Hex ID: SZKTRANSISTORBJTDTC214Y
 - Name: Transistor_BJT : DTC214Y
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTC214Y/
 - Description: Transistor_BJT : DTC214Y
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC214Y](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC214Y)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTC214Y](http://oom.lt/SZKTRANSISTORBJTDTC214Y)

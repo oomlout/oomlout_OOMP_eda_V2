@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GSM-SIM900
 - Hex ID: SZKGSMSIM9
 - Name: RF_GSM : SIM900
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GSM/SIM900/
 - Description: RF_GSM : SIM900
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SIM900](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SIM900)
 - Short Link: [http://oom.lt/SZKGSMSIM9](http://oom.lt/SZKGSMSIM9)

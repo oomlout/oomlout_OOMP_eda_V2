@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-1900
 - Hex ID: SZKRFFILBFCN19
 - Name: RF_Filter : BFCN-1900
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-1900/
 - Description: RF_Filter : BFCN-1900
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-1900](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-1900)
 - Short Link: [http://oom.lt/SZKRFFILBFCN19](http://oom.lt/SZKRFFILBFCN19)

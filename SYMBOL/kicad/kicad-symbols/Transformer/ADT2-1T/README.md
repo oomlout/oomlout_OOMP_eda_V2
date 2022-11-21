@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADT2-1T
 - Hex ID: SZKTRADT21T
 - Name: Transformer : ADT2-1T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT2-1T/
 - Description: Transformer : ADT2-1T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT2-1T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT2-1T)
 - Short Link: [http://oom.lt/SZKTRADT21T](http://oom.lt/SZKTRADT21T)

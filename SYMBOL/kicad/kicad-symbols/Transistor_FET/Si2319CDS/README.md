@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-Si2319CDS
 - Hex ID: SZKTRANSISTORFETSI2319CDS
 - Name: Transistor_FET : Si2319CDS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si2319CDS/
 - Description: Transistor_FET : Si2319CDS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si2319CDS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si2319CDS)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSI2319CDS](http://oom.lt/SZKTRANSISTORFETSI2319CDS)

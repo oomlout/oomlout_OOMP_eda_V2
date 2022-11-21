@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS9934C
 - Hex ID: SZKTRANSISTORFETFDS9934C
 - Name: Transistor_FET : FDS9934C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS9934C/
 - Description: Transistor_FET : FDS9934C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS9934C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS9934C)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS9934C](http://oom.lt/SZKTRANSISTORFETFDS9934C)

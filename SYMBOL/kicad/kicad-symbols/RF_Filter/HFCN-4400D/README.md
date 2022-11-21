@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-4400D
 - Hex ID: SZKRFFILHFCN44D
 - Name: RF_Filter : HFCN-4400D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-4400D/
 - Description: RF_Filter : HFCN-4400D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-4400D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-4400D)
 - Short Link: [http://oom.lt/SZKRFFILHFCN44D](http://oom.lt/SZKRFFILHFCN44D)

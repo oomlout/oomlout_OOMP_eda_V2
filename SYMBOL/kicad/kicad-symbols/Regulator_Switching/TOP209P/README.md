@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP209P
 - Hex ID: SZKREGULATORSWINGTOP29P
 - Name: Regulator_Switching : TOP209P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TOP209P/
 - Description: Regulator_Switching : TOP209P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP209P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP209P)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTOP29P](http://oom.lt/SZKREGULATORSWINGTOP29P)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM26
 - Hex ID: SZKRELAYIM26
 - Name: Relay : IM26
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM26/
 - Description: Relay : IM26
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM26](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM26)
 - Short Link: [http://oom.lt/SZKRELAYIM26](http://oom.lt/SZKRELAYIM26)

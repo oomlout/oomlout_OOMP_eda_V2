@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-VNP10N07
 - Hex ID: SZKTRANSISTORFETVNP1N7
 - Name: Transistor_FET : VNP10N07
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/VNP10N07/
 - Description: Transistor_FET : VNP10N07
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-VNP10N07](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-VNP10N07)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETVNP1N7](http://oom.lt/SZKTRANSISTORFETVNP1N7)

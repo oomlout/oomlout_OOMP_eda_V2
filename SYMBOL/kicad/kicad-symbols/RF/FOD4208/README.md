@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-FOD4208
 - Hex ID: SZKRFFOD428
 - Name: RF : FOD4208
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/FOD4208/
 - Description: RF : FOD4208
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FOD4208](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FOD4208)
 - Short Link: [http://oom.lt/SZKRFFOD428](http://oom.lt/SZKRFFOD428)

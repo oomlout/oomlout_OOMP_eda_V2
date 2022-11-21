@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M17-30EX
 - Hex ID: SZKTRANSISTORFETBUK9M173EX
 - Name: Transistor_FET : BUK9M17-30EX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK9M17-30EX/
 - Description: Transistor_FET : BUK9M17-30EX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M17-30EX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M17-30EX)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBUK9M173EX](http://oom.lt/SZKTRANSISTORFETBUK9M173EX)

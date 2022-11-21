@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-FOD420
 - Hex ID: SZKRELAYSOLIDSTATEFOD42
 - Name: Relay_SolidState : FOD420
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/FOD420/
 - Description: Relay_SolidState : FOD420
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-FOD420](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-FOD420)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATEFOD42](http://oom.lt/SZKRELAYSOLIDSTATEFOD42)

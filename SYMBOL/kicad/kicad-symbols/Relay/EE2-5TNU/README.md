@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-EE2-5TNU
 - Hex ID: SZKRELAYEE25TNU
 - Name: Relay : EE2-5TNU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-5TNU/
 - Description: Relay : EE2-5TNU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-5TNU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-5TNU)
 - Short Link: [http://oom.lt/SZKRELAYEE25TNU](http://oom.lt/SZKRELAYEE25TNU)

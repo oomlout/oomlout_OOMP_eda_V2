@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM303DLHC
 - Hex ID: SZKSENMOTIONLSM33DLHC
 - Name: Sensor_Motion : LSM303DLHC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LSM303DLHC/
 - Description: Sensor_Motion : LSM303DLHC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM303DLHC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM303DLHC)
 - Short Link: [http://oom.lt/SZKSENMOTIONLSM33DLHC](http://oom.lt/SZKSENMOTIONLSM33DLHC)

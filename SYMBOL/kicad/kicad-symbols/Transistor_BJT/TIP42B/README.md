@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP42B
 - Hex ID: SZKTRANSISTORBJTTIP42B
 - Name: Transistor_BJT : TIP42B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP42B/
 - Description: Transistor_BJT : TIP42B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP42B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP42B)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP42B](http://oom.lt/SZKTRANSISTORBJTTIP42B)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_IGBT-IRG4PF50W
 - Hex ID: SZKTRANSISTORIGBTIRG4PF5W
 - Name: Transistor_IGBT : IRG4PF50W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/IRG4PF50W/
 - Description: Transistor_IGBT : IRG4PF50W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_IGBT-IRG4PF50W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_IGBT-IRG4PF50W)
 - Short Link: [http://oom.lt/SZKTRANSISTORIGBTIRG4PF5W](http://oom.lt/SZKTRANSISTORIGBTIRG4PF5W)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP171GJ
 - Hex ID: SZKREGULATORSWINGMP171GJ
 - Name: Regulator_Switching : MP171GJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MP171GJ/
 - Description: Regulator_Switching : MP171GJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP171GJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP171GJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMP171GJ](http://oom.lt/SZKREGULATORSWINGMP171GJ)

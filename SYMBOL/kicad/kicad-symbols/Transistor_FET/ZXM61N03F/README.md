@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXM61N03F
 - Hex ID: SZKTRANSISTORFETZXM61N3F
 - Name: Transistor_FET : ZXM61N03F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXM61N03F/
 - Description: Transistor_FET : ZXM61N03F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXM61N03F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXM61N03F)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZXM61N3F](http://oom.lt/SZKTRANSISTORFETZXM61N3F)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW21
 - Hex ID: SZKSENOPTICALBPW21
 - Name: Sensor_Optical : BPW21
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW21/
 - Description: Sensor_Optical : BPW21
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW21](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW21)
 - Short Link: [http://oom.lt/SZKSENOPTICALBPW21](http://oom.lt/SZKSENOPTICALBPW21)

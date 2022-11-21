@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-MAX310
 - Hex ID: SZKVIDEOMAX31
 - Name: Video : MAX310
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/MAX310/
 - Description: Video : MAX310
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-MAX310](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-MAX310)
 - Short Link: [http://oom.lt/SZKVIDEOMAX31](http://oom.lt/SZKVIDEOMAX31)

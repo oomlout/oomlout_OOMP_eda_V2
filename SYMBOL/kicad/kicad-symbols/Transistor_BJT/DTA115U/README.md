@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA115U
 - Hex ID: SZKTRANSISTORBJTDTA115U
 - Name: Transistor_BJT : DTA115U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTA115U/
 - Description: Transistor_BJT : DTA115U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA115U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA115U)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTA115U](http://oom.lt/SZKTRANSISTORBJTDTA115U)

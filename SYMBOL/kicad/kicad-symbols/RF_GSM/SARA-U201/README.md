@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GSM-SARA-U201
 - Hex ID: SZKGSMSARAU21
 - Name: RF_GSM : SARA-U201
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GSM/SARA-U201/
 - Description: RF_GSM : SARA-U201
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SARA-U201](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SARA-U201)
 - Short Link: [http://oom.lt/SZKGSMSARAU21](http://oom.lt/SZKGSMSARAU21)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-ICM7555xP
 - Hex ID: SZKTIMERICM7555XP
 - Name: Timer : ICM7555xP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/ICM7555xP/
 - Description: Timer : ICM7555xP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-ICM7555xP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-ICM7555xP)
 - Short Link: [http://oom.lt/SZKTIMERICM7555XP](http://oom.lt/SZKTIMERICM7555XP)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB3904
 - Hex ID: SZKTRANSISTORBJTFFB394
 - Name: Transistor_BJT : FFB3904
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/FFB3904/
 - Description: Transistor_BJT : FFB3904
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB3904](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB3904)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTFFB394](http://oom.lt/SZKTRANSISTORBJTFFB394)

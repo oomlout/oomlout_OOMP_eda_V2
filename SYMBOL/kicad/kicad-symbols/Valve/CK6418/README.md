@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Valve-CK6418
 - Hex ID: SZKVACK6418
 - Name: Valve : CK6418
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/CK6418/
 - Description: Valve : CK6418
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-CK6418](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-CK6418)
 - Short Link: [http://oom.lt/SZKVACK6418](http://oom.lt/SZKVACK6418)

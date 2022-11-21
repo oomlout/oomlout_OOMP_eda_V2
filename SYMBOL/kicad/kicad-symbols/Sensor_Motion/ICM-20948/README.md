@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-ICM-20948
 - Hex ID: SZKSENMOTIONICM2948
 - Name: Sensor_Motion : ICM-20948
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ICM-20948/
 - Description: Sensor_Motion : ICM-20948
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-ICM-20948](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-ICM-20948)
 - Short Link: [http://oom.lt/SZKSENMOTIONICM2948](http://oom.lt/SZKSENMOTIONICM2948)

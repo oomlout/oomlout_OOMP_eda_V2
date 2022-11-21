@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-Si7141DP
 - Hex ID: SZKTRANSISTORFETSI7141DP
 - Name: Transistor_FET : Si7141DP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si7141DP/
 - Description: Transistor_FET : Si7141DP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si7141DP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si7141DP)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSI7141DP](http://oom.lt/SZKTRANSISTORFETSI7141DP)

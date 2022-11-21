@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM44
 - Hex ID: SZKRELAYIM44
 - Name: Relay : IM44
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM44/
 - Description: Relay : IM44
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM44](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM44)
 - Short Link: [http://oom.lt/SZKRELAYIM44](http://oom.lt/SZKRELAYIM44)

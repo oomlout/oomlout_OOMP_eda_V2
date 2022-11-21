@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_DP3T
 - Hex ID: SZKSWSWDP3T
 - Name: Switch : SW_DP3T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_DP3T/
 - Description: Switch : SW_DP3T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DP3T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DP3T)
 - Short Link: [http://oom.lt/SZKSWSWDP3T](http://oom.lt/SZKSWSWDP3T)

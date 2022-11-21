@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5047D
 - Hex ID: SZKSENMAGNETICAS547D
 - Name: Sensor_Magnetic : AS5047D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5047D/
 - Description: Sensor_Magnetic : AS5047D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5047D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5047D)
 - Short Link: [http://oom.lt/SZKSENMAGNETICAS547D](http://oom.lt/SZKSENMAGNETICAS547D)

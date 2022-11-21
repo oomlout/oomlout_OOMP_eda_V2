@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY279G
 - Hex ID: SZKREGULATORSWINGTNY279G
 - Name: Regulator_Switching : TNY279G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TNY279G/
 - Description: Regulator_Switching : TNY279G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY279G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY279G)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTNY279G](http://oom.lt/SZKREGULATORSWINGTNY279G)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS710xLATR-25BB
 - Hex ID: SZKSENCURRENTACS71XLATR25BB
 - Name: Sensor_Current : ACS710xLATR-25BB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS710xLATR-25BB/
 - Description: Sensor_Current : ACS710xLATR-25BB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS710xLATR-25BB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS710xLATR-25BB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS71XLATR25BB](http://oom.lt/SZKSENCURRENTACS71XLATR25BB)

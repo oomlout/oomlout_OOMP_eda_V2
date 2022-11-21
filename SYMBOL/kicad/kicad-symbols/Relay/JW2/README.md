@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-JW2
 - Hex ID: SZKRELAYJW2
 - Name: Relay : JW2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/JW2/
 - Description: Relay : JW2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-JW2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-JW2)
 - Short Link: [http://oom.lt/SZKRELAYJW2](http://oom.lt/SZKRELAYJW2)

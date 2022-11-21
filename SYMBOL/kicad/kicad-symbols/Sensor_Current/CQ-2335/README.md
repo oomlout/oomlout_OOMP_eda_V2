@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2335
 - Hex ID: SZKSENCURRENTCQ2335
 - Name: Sensor_Current : CQ-2335
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-2335/
 - Description: Sensor_Current : CQ-2335
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2335](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2335)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ2335](http://oom.lt/SZKSENCURRENTCQ2335)

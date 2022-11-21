@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-SiS454DN
 - Hex ID: SZKTRANSISTORFETSIS454DN
 - Name: Transistor_FET : SiS454DN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/SiS454DN/
 - Description: Transistor_FET : SiS454DN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SiS454DN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SiS454DN)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSIS454DN](http://oom.lt/SZKTRANSISTORFETSIS454DN)

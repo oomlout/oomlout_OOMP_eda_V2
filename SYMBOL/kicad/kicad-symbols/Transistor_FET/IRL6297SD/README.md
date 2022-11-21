@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6297SD
 - Hex ID: SZKTRANSISTORFETIRL6297SD
 - Name: Transistor_FET : IRL6297SD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRL6297SD/
 - Description: Transistor_FET : IRL6297SD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6297SD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6297SD)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRL6297SD](http://oom.lt/SZKTRANSISTORFETIRL6297SD)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-KTD1624
 - Hex ID: SZKTRANSISTORBJTKTD1624
 - Name: Transistor_BJT : KTD1624
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/KTD1624/
 - Description: Transistor_BJT : KTD1624
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-KTD1624](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-KTD1624)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTKTD1624](http://oom.lt/SZKTRANSISTORBJTKTD1624)

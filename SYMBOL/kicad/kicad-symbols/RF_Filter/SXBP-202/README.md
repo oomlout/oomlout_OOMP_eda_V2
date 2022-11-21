@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-SXBP-202
 - Hex ID: SZKRFFILSXBP22
 - Name: RF_Filter : SXBP-202
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/SXBP-202/
 - Description: RF_Filter : SXBP-202
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-SXBP-202](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-SXBP-202)
 - Short Link: [http://oom.lt/SZKRFFILSXBP22](http://oom.lt/SZKRFFILSXBP22)

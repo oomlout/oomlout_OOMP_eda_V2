@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP1470
 - Hex ID: SZKREGULATORSWINGMP147
 - Name: Regulator_Switching : MP1470
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MP1470/
 - Description: Regulator_Switching : MP1470
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP1470](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP1470)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMP147](http://oom.lt/SZKREGULATORSWINGMP147)

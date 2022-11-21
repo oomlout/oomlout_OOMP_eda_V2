@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADT4-5WT
 - Hex ID: SZKTRADT45WT
 - Name: Transformer : ADT4-5WT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT4-5WT/
 - Description: Transformer : ADT4-5WT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT4-5WT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT4-5WT)
 - Short Link: [http://oom.lt/SZKTRADT45WT](http://oom.lt/SZKTRADT45WT)

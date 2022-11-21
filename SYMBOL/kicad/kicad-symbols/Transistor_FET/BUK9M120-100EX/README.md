@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M120-100EX
 - Hex ID: SZKTRANSISTORFETBUK9M121EX
 - Name: Transistor_FET : BUK9M120-100EX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK9M120-100EX/
 - Description: Transistor_FET : BUK9M120-100EX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M120-100EX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M120-100EX)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBUK9M121EX](http://oom.lt/SZKTRANSISTORFETBUK9M121EX)

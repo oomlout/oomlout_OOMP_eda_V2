@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-SANYOU_SRD_Form_B
 - Hex ID: SZKRELAYSANYOUSRDFORMB
 - Name: Relay : SANYOU_SRD_Form_B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/SANYOU_SRD_Form_B/
 - Description: Relay : SANYOU_SRD_Form_B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-SANYOU_SRD_Form_B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-SANYOU_SRD_Form_B)
 - Short Link: [http://oom.lt/SZKRELAYSANYOUSRDFORMB](http://oom.lt/SZKRELAYSANYOUSRDFORMB)

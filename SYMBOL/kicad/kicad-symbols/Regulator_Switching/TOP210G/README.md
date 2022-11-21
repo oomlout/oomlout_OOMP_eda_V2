@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP210G
 - Hex ID: SZKREGULATORSWINGTOP21G
 - Name: Regulator_Switching : TOP210G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TOP210G/
 - Description: Regulator_Switching : TOP210G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP210G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP210G)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTOP21G](http://oom.lt/SZKREGULATORSWINGTOP21G)

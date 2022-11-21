@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS6630A
 - Hex ID: SZKTRANSISTORFETFDS663A
 - Name: Transistor_FET : FDS6630A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS6630A/
 - Description: Transistor_FET : FDS6630A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS6630A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS6630A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS663A](http://oom.lt/SZKTRANSISTORFETFDS663A)

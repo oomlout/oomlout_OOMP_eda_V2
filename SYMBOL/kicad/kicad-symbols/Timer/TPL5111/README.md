@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-TPL5111
 - Hex ID: SZKTIMERTPL5111
 - Name: Timer : TPL5111
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/TPL5111/
 - Description: Timer : TPL5111
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-TPL5111](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-TPL5111)
 - Short Link: [http://oom.lt/SZKTIMERTPL5111](http://oom.lt/SZKTIMERTPL5111)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_AM_FM-LA1185
 - Hex ID: SZKRFAMFMLA1185
 - Name: RF_AM_FM : LA1185
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_AM_FM/LA1185/
 - Description: RF_AM_FM : LA1185
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-LA1185](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-LA1185)
 - Short Link: [http://oom.lt/SZKRFAMFMLA1185](http://oom.lt/SZKRFAMFMLA1185)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH206K
 - Hex ID: SZKSENOPTICALSFH26K
 - Name: Sensor_Optical : SFH206K
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH206K/
 - Description: Sensor_Optical : SFH206K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH206K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH206K)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH26K](http://oom.lt/SZKSENOPTICALSFH26K)

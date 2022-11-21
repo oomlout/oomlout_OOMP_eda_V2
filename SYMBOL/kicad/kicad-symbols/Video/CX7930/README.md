@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-CX7930
 - Hex ID: SZKVIDEOCX793
 - Name: Video : CX7930
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/CX7930/
 - Description: Video : CX7930
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-CX7930](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-CX7930)
 - Short Link: [http://oom.lt/SZKVIDEOCX793](http://oom.lt/SZKVIDEOCX793)

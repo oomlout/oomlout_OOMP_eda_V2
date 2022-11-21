@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-6400
 - Hex ID: SZKRFFILLFCN64
 - Name: RF_Filter : LFCN-6400
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-6400/
 - Description: RF_Filter : LFCN-6400
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-6400](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-6400)
 - Short Link: [http://oom.lt/SZKRFFILLFCN64](http://oom.lt/SZKRFFILLFCN64)

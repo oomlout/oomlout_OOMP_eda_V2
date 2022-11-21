@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC560
 - Hex ID: SZKTRANSISTORBJTBC56
 - Name: Transistor_BJT : BC560
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC560/
 - Description: Transistor_BJT : BC560
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC560](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC560)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC56](http://oom.lt/SZKTRANSISTORBJTBC56)

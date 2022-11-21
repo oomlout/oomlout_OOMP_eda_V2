@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH205F
 - Hex ID: SZKSENOPTICALSFH25F
 - Name: Sensor_Optical : SFH205F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH205F/
 - Description: Sensor_Optical : SFH205F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH205F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH205F)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH25F](http://oom.lt/SZKSENOPTICALSFH25F)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1804
 - Hex ID: SZKSENTEMPERATUREDS184
 - Name: Sensor_Temperature : DS1804
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS1804/
 - Description: Sensor_Temperature : DS1804
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1804](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1804)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREDS184](http://oom.lt/SZKSENTEMPERATUREDS184)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-UMH3N
 - Hex ID: SZKTRANSISTORBJTUMH3N
 - Name: Transistor_BJT : UMH3N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/UMH3N/
 - Description: Transistor_BJT : UMH3N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-UMH3N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-UMH3N)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTUMH3N](http://oom.lt/SZKTRANSISTORBJTUMH3N)

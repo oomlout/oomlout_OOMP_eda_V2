@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-880D
 - Hex ID: SZKRFFILHFCN88D
 - Name: RF_Filter : HFCN-880D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-880D/
 - Description: RF_Filter : HFCN-880D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-880D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-880D)
 - Short Link: [http://oom.lt/SZKRFFILHFCN88D](http://oom.lt/SZKRFFILHFCN88D)

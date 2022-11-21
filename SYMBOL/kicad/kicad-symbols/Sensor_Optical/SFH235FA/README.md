@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH235FA
 - Hex ID: SZKSENOPTICALSFH235FA
 - Name: Sensor_Optical : SFH235FA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH235FA/
 - Description: Sensor_Optical : SFH235FA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH235FA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH235FA)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH235FA](http://oom.lt/SZKSENOPTICALSFH235FA)

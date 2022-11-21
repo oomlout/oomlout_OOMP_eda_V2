@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TRANSF4
 - Hex ID: SZKTRTRANSF4
 - Name: Transformer : TRANSF4
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TRANSF4/
 - Description: Transformer : TRANSF4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF4)
 - Short Link: [http://oom.lt/SZKTRTRANSF4](http://oom.lt/SZKTRTRANSF4)

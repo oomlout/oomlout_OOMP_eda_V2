@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-8650
 - Hex ID: SZKRFFILBFCN865
 - Name: RF_Filter : BFCN-8650
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-8650/
 - Description: RF_Filter : BFCN-8650
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-8650](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-8650)
 - Short Link: [http://oom.lt/SZKRFFILBFCN865](http://oom.lt/SZKRFFILBFCN865)

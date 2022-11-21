@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2075U
 - Hex ID: SZKTRANSISTORFETDMN275U
 - Name: Transistor_FET : DMN2075U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN2075U/
 - Description: Transistor_FET : DMN2075U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2075U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2075U)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN275U](http://oom.lt/SZKTRANSISTORFETDMN275U)

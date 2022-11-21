@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA0509SC
 - Hex ID: SZKREGULATORSWINGNMA59SC
 - Name: Regulator_Switching : NMA0509SC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NMA0509SC/
 - Description: Regulator_Switching : NMA0509SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA0509SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA0509SC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGNMA59SC](http://oom.lt/SZKREGULATORSWINGNMA59SC)

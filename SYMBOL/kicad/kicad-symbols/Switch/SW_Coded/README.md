@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Coded
 - Hex ID: SZKSWSWCODED
 - Name: Switch : SW_Coded
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Coded/
 - Description: Switch : SW_Coded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Coded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Coded)
 - Short Link: [http://oom.lt/SZKSWSWCODED](http://oom.lt/SZKSWSWCODED)

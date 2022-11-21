@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADT4-6T
 - Hex ID: SZKTRADT46T
 - Name: Transformer : ADT4-6T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT4-6T/
 - Description: Transformer : ADT4-6T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT4-6T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT4-6T)
 - Short Link: [http://oom.lt/SZKTRADT46T](http://oom.lt/SZKTRADT46T)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31855EASA
 - Hex ID: SZKSENTEMPERATUREMAX31855EASA
 - Name: Sensor_Temperature : MAX31855EASA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31855EASA/
 - Description: Sensor_Temperature : MAX31855EASA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31855EASA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31855EASA)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMAX31855EASA](http://oom.lt/SZKSENTEMPERATUREMAX31855EASA)

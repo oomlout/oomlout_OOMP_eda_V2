@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TDN_5-2415WISM
 - Hex ID: SZKREGULATORSWINGTDN52415WISM
 - Name: Regulator_Switching : TDN_5-2415WISM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TDN_5-2415WISM/
 - Description: Regulator_Switching : TDN_5-2415WISM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TDN_5-2415WISM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TDN_5-2415WISM)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTDN52415WISM](http://oom.lt/SZKREGULATORSWINGTDN52415WISM)

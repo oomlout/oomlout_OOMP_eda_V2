@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_DPST_Temperature
 - Hex ID: SZKSWSWDPSTTEMPERATURE
 - Name: Switch : SW_DPST_Temperature
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_DPST_Temperature/
 - Description: Switch : SW_DPST_Temperature
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DPST_Temperature](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DPST_Temperature)
 - Short Link: [http://oom.lt/SZKSWSWDPSTTEMPERATURE](http://oom.lt/SZKSWSWDPSTTEMPERATURE)

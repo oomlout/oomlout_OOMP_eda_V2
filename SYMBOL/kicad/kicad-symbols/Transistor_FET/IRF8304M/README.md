@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8304M
 - Hex ID: SZKTRANSISTORFETIRF834M
 - Name: Transistor_FET : IRF8304M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF8304M/
 - Description: Transistor_FET : IRF8304M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8304M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8304M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF834M](http://oom.lt/SZKTRANSISTORFETIRF834M)

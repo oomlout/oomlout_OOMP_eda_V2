@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Bluetooth-BL652
 - Hex ID: SZKRFBLUETOOTHBL652
 - Name: RF_Bluetooth : BL652
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Bluetooth/BL652/
 - Description: RF_Bluetooth : BL652
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-BL652](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-BL652)
 - Short Link: [http://oom.lt/SZKRFBLUETOOTHBL652](http://oom.lt/SZKRFBLUETOOTHBL652)

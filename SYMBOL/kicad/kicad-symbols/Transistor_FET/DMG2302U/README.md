@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG2302U
 - Hex ID: SZKTRANSISTORFETDMG232U
 - Name: Transistor_FET : DMG2302U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG2302U/
 - Description: Transistor_FET : DMG2302U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG2302U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG2302U)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMG232U](http://oom.lt/SZKTRANSISTORFETDMG232U)

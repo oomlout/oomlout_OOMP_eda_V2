@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_AM_FM-ZETA-915-SO
 - Hex ID: SZKRFAMFMZETA915SO
 - Name: RF_AM_FM : ZETA-915-SO
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_AM_FM/ZETA-915-SO/
 - Description: RF_AM_FM : ZETA-915-SO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-ZETA-915-SO](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-ZETA-915-SO)
 - Short Link: [http://oom.lt/SZKRFAMFMZETA915SO](http://oom.lt/SZKRFAMFMZETA915SO)

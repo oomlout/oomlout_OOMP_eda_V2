@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Mixer-ADL5801
 - Hex ID: SZKRFMIXERADL581
 - Name: RF_Mixer : ADL5801
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Mixer/ADL5801/
 - Description: RF_Mixer : ADL5801
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Mixer-ADL5801](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Mixer-ADL5801)
 - Short Link: [http://oom.lt/SZKRFMIXERADL581](http://oom.lt/SZKRFMIXERADL581)

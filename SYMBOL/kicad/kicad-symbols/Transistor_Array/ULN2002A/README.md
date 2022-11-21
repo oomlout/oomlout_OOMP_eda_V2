@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2002A
 - Hex ID: SZKTRANSISTORARRAYULN22A
 - Name: Transistor_Array : ULN2002A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Array/ULN2002A/
 - Description: Transistor_Array : ULN2002A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2002A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2002A)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYULN22A](http://oom.lt/SZKTRANSISTORARRAYULN22A)

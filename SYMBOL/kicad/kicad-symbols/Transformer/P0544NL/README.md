@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-P0544NL
 - Hex ID: SZKTRP544NL
 - Name: Transformer : P0544NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/P0544NL/
 - Description: Transformer : P0544NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-P0544NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-P0544NL)
 - Short Link: [http://oom.lt/SZKTRP544NL](http://oom.lt/SZKTRP544NL)

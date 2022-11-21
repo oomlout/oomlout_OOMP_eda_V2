@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCV33063AVD
 - Hex ID: SZKREGULATORSWINGNCV3363AVD
 - Name: Regulator_Switching : NCV33063AVD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCV33063AVD/
 - Description: Regulator_Switching : NCV33063AVD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCV33063AVD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCV33063AVD)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGNCV3363AVD](http://oom.lt/SZKREGULATORSWINGNCV3363AVD)

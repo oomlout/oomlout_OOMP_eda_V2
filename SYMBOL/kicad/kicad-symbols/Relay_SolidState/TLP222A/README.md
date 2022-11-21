@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP222A
 - Hex ID: SZKRELAYSOLIDSTATETLP222A
 - Name: Relay_SolidState : TLP222A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP222A/
 - Description: Relay_SolidState : TLP222A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP222A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP222A)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATETLP222A](http://oom.lt/SZKRELAYSOLIDSTATETLP222A)

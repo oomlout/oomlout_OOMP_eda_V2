@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM75C
 - Hex ID: SZKSENTEMPERATURELM75C
 - Name: Sensor_Temperature : LM75C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM75C/
 - Description: Sensor_Temperature : LM75C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM75C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM75C)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURELM75C](http://oom.lt/SZKSENTEMPERATURELM75C)

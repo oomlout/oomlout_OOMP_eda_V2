@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-A1369xUA-10
 - Hex ID: SZKSENCURRENTA1369XUA1
 - Name: Sensor_Current : A1369xUA-10
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/A1369xUA-10/
 - Description: Sensor_Current : A1369xUA-10
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-A1369xUA-10](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-A1369xUA-10)
 - Short Link: [http://oom.lt/SZKSENCURRENTA1369XUA1](http://oom.lt/SZKSENCURRENTA1369XUA1)

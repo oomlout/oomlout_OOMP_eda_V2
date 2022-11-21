@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2004
 - Hex ID: SZKTRANSISTORARRAYULN24
 - Name: Transistor_Array : ULN2004
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Array/ULN2004/
 - Description: Transistor_Array : ULN2004
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2004](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2004)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYULN24](http://oom.lt/SZKTRANSISTORARRAYULN24)

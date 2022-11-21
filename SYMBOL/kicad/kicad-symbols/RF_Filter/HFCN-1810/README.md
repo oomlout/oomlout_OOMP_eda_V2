@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1810
 - Hex ID: SZKRFFILHFCN181
 - Name: RF_Filter : HFCN-1810
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-1810/
 - Description: RF_Filter : HFCN-1810
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1810](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1810)
 - Short Link: [http://oom.lt/SZKRFFILHFCN181](http://oom.lt/SZKRFFILHFCN181)

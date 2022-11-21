@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-DWM1000
 - Hex ID: SZKRFMODWM1
 - Name: RF_Module : DWM1000
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/DWM1000/
 - Description: RF_Module : DWM1000
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-DWM1000](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-DWM1000)
 - Short Link: [http://oom.lt/SZKRFMODWM1](http://oom.lt/SZKRFMODWM1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS4897AC
 - Hex ID: SZKTRANSISTORFETFDS4897AC
 - Name: Transistor_FET : FDS4897AC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDS4897AC/
 - Description: Transistor_FET : FDS4897AC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS4897AC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS4897AC)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS4897AC](http://oom.lt/SZKTRANSISTORFETFDS4897AC)

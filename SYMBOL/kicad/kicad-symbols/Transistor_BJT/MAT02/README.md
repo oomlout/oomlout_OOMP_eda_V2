@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MAT02
 - Hex ID: SZKTRANSISTORBJTMAT2
 - Name: Transistor_BJT : MAT02
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MAT02/
 - Description: Transistor_BJT : MAT02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MAT02](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MAT02)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTMAT2](http://oom.lt/SZKTRANSISTORBJTMAT2)

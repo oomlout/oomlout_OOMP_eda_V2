@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-TSM2302CX
 - Hex ID: SZKTRANSISTORFETTSM232CX
 - Name: Transistor_FET : TSM2302CX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/TSM2302CX/
 - Description: Transistor_FET : TSM2302CX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-TSM2302CX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-TSM2302CX)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETTSM232CX](http://oom.lt/SZKTRANSISTORFETTSM232CX)

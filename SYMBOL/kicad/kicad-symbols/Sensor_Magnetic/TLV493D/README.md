@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-TLV493D
 - Hex ID: SZKSENMAGNETICTLV493D
 - Name: Sensor_Magnetic : TLV493D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/TLV493D/
 - Description: Sensor_Magnetic : TLV493D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-TLV493D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-TLV493D)
 - Short Link: [http://oom.lt/SZKSENMAGNETICTLV493D](http://oom.lt/SZKSENMAGNETICTLV493D)

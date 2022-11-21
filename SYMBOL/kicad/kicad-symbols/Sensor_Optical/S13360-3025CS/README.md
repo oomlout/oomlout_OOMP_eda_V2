@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-S13360-3025CS
 - Hex ID: SZKSENOPTICALS1336325CS
 - Name: Sensor_Optical : S13360-3025CS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/S13360-3025CS/
 - Description: Sensor_Optical : S13360-3025CS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-S13360-3025CS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-S13360-3025CS)
 - Short Link: [http://oom.lt/SZKSENOPTICALS1336325CS](http://oom.lt/SZKSENOPTICALS1336325CS)

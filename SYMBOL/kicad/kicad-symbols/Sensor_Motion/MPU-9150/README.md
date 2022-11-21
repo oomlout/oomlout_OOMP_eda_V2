@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-MPU-9150
 - Hex ID: SZKSENMOTIONMPU915
 - Name: Sensor_Motion : MPU-9150
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/MPU-9150/
 - Description: Sensor_Motion : MPU-9150
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-MPU-9150](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-MPU-9150)
 - Short Link: [http://oom.lt/SZKSENMOTIONMPU915](http://oom.lt/SZKSENMOTIONMPU915)

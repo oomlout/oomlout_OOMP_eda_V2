@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-EU868
 - Hex ID: SZKRFMORAK811HFEU868
 - Name: RF_Module : RAK811-HF-EU868
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/RAK811-HF-EU868/
 - Description: RF_Module : RAK811-HF-EU868
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-EU868](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-EU868)
 - Short Link: [http://oom.lt/SZKRFMORAK811HFEU868](http://oom.lt/SZKRFMORAK811HFEU868)

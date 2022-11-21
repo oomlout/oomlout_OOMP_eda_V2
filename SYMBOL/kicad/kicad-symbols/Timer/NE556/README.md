@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-NE556
 - Hex ID: SZKTIMERNE556
 - Name: Timer : NE556
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/NE556/
 - Description: Timer : NE556
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-NE556](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-NE556)
 - Short Link: [http://oom.lt/SZKTIMERNE556](http://oom.lt/SZKTIMERNE556)

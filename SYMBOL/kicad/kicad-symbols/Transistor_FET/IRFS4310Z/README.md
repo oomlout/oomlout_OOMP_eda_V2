@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4310Z
 - Hex ID: SZKTRANSISTORFETIRFS431Z
 - Name: Transistor_FET : IRFS4310Z
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRFS4310Z/
 - Description: Transistor_FET : IRFS4310Z
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4310Z](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4310Z)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRFS431Z](http://oom.lt/SZKTRANSISTORFETIRFS431Z)

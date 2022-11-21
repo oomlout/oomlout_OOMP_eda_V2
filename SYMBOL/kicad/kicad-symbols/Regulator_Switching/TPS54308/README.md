@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54308
 - Hex ID: SZKREGULATORSWINGTPS5438
 - Name: Regulator_Switching : TPS54308
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS54308/
 - Description: Regulator_Switching : TPS54308
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54308](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54308)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS5438](http://oom.lt/SZKREGULATORSWINGTPS5438)

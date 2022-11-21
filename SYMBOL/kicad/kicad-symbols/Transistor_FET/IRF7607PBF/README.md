@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7607PBF
 - Hex ID: SZKTRANSISTORFETIRF767PBF
 - Name: Transistor_FET : IRF7607PBF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7607PBF/
 - Description: Transistor_FET : IRF7607PBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7607PBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7607PBF)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF767PBF](http://oom.lt/SZKTRANSISTORFETIRF767PBF)

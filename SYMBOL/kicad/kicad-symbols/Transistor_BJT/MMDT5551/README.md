@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT5551
 - Hex ID: SZKTRANSISTORBJTDT5551
 - Name: Transistor_BJT : MMDT5551
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMDT5551/
 - Description: Transistor_BJT : MMDT5551
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT5551](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT5551)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDT5551](http://oom.lt/SZKTRANSISTORBJTDT5551)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADT3-1T-75
 - Hex ID: SZKTRADT31T75
 - Name: Transformer : ADT3-1T-75
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT3-1T-75/
 - Description: Transformer : ADT3-1T-75
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT3-1T-75](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT3-1T-75)
 - Short Link: [http://oom.lt/SZKTRADT31T75](http://oom.lt/SZKTRADT31T75)

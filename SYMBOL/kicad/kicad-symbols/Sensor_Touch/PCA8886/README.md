@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Touch-PCA8886
 - Hex ID: SZKSENTOUCHPCA8886
 - Name: Sensor_Touch : PCA8886
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Touch/PCA8886/
 - Description: Sensor_Touch : PCA8886
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-PCA8886](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-PCA8886)
 - Short Link: [http://oom.lt/SZKSENTOUCHPCA8886](http://oom.lt/SZKSENTOUCHPCA8886)

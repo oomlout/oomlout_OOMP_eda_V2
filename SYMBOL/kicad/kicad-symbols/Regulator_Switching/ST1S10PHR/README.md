@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ST1S10PHR
 - Hex ID: SZKREGULATORSWINGST1S1PHR
 - Name: Regulator_Switching : ST1S10PHR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S10PHR/
 - Description: Regulator_Switching : ST1S10PHR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ST1S10PHR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ST1S10PHR)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGST1S1PHR](http://oom.lt/SZKREGULATORSWINGST1S1PHR)

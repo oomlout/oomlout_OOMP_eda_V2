@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Valve-ECL82
 - Hex ID: SZKVAECL82
 - Name: Valve : ECL82
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/ECL82/
 - Description: Valve : ECL82
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECL82](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECL82)
 - Short Link: [http://oom.lt/SZKVAECL82](http://oom.lt/SZKVAECL82)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCX53
 - Hex ID: SZKTRANSISTORBJTBCX53
 - Name: Transistor_BJT : BCX53
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BCX53/
 - Description: Transistor_BJT : BCX53
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCX53](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCX53)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBCX53](http://oom.lt/SZKTRANSISTORBJTBCX53)

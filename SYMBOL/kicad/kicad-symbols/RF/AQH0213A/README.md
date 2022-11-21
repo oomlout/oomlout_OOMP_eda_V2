@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-AQH0213A
 - Hex ID: SZKRFAQH213A
 - Name: RF : AQH0213A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/AQH0213A/
 - Description: RF : AQH0213A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-AQH0213A](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-AQH0213A)
 - Short Link: [http://oom.lt/SZKRFAQH213A](http://oom.lt/SZKRFAQH213A)

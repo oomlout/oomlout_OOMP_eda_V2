@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IDC
 - Hex ID: SZKSIMULATIONSPICEIDC
 - Name: Simulation_SPICE : IDC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IDC/
 - Description: Simulation_SPICE : IDC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IDC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IDC)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEIDC](http://oom.lt/SZKSIMULATIONSPICEIDC)

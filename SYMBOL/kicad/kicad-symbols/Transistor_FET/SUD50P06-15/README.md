@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD50P06-15
 - Hex ID: SZKTRANSISTORFETSUD5P615
 - Name: Transistor_FET : SUD50P06-15
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/SUD50P06-15/
 - Description: Transistor_FET : SUD50P06-15
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD50P06-15](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD50P06-15)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSUD5P615](http://oom.lt/SZKTRANSISTORFETSUD5P615)

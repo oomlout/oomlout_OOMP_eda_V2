@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-MC1413P
 - Hex ID: SZKTRANSISTORARRAYMC1413P
 - Name: Transistor_Array : MC1413P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Array/MC1413P/
 - Description: Transistor_Array : MC1413P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-MC1413P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-MC1413P)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYMC1413P](http://oom.lt/SZKTRANSISTORARRAYMC1413P)

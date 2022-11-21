@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-TSL2550T
 - Hex ID: SZKSENOPTICALTSL255T
 - Name: Sensor_Optical : TSL2550T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/TSL2550T/
 - Description: Sensor_Optical : TSL2550T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-TSL2550T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-TSL2550T)
 - Short Link: [http://oom.lt/SZKSENOPTICALTSL255T](http://oom.lt/SZKSENOPTICALTSL255T)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Timer-NLV14541BD
 - Hex ID: SZKTIMERNLV14541BD
 - Name: Timer : NLV14541BD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/NLV14541BD/
 - Description: Timer : NLV14541BD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-NLV14541BD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-NLV14541BD)
 - Short Link: [http://oom.lt/SZKTIMERNLV14541BD](http://oom.lt/SZKTIMERNLV14541BD)

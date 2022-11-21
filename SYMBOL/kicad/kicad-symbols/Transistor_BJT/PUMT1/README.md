@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-PUMT1
 - Hex ID: SZKTRANSISTORBJTPUMT1
 - Name: Transistor_BJT : PUMT1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PUMT1/
 - Description: Transistor_BJT : PUMT1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PUMT1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PUMT1)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPUMT1](http://oom.lt/SZKTRANSISTORBJTPUMT1)

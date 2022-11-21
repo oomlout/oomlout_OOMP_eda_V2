@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-FOD4216
 - Hex ID: SZKRELAYSOLIDSTATEFOD4216
 - Name: Relay_SolidState : FOD4216
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/FOD4216/
 - Description: Relay_SolidState : FOD4216
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-FOD4216](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-FOD4216)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATEFOD4216](http://oom.lt/SZKRELAYSOLIDSTATEFOD4216)

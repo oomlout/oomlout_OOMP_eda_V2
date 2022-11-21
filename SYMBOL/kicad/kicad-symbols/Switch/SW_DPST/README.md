@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_DPST
 - Hex ID: SZKSWSWDPST
 - Name: Switch : SW_DPST
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_DPST/
 - Description: Switch : SW_DPST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DPST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DPST)
 - Short Link: [http://oom.lt/SZKSWSWDPST](http://oom.lt/SZKSWSWDPST)

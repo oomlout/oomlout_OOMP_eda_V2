@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC125T
 - Hex ID: SZKTRANSISTORBJTDTC125T
 - Name: Transistor_BJT : DTC125T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTC125T/
 - Description: Transistor_BJT : DTC125T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC125T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC125T)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTC125T](http://oom.lt/SZKTRANSISTORBJTDTC125T)

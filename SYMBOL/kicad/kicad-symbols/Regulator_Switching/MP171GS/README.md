@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP171GS
 - Hex ID: SZKREGULATORSWINGMP171GS
 - Name: Regulator_Switching : MP171GS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MP171GS/
 - Description: Regulator_Switching : MP171GS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP171GS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP171GS)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMP171GS](http://oom.lt/SZKREGULATORSWINGMP171GS)

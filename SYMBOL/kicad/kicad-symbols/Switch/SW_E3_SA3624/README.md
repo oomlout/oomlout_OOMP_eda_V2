@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_E3_SA3624
 - Hex ID: SZKSWSWE3SA3624
 - Name: Switch : SW_E3_SA3624
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_E3_SA3624/
 - Description: Switch : SW_E3_SA3624
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_E3_SA3624](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_E3_SA3624)
 - Short Link: [http://oom.lt/SZKSWSWE3SA3624](http://oom.lt/SZKSWSWE3SA3624)

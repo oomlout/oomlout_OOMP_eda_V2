@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62822DLC
 - Hex ID: SZKREGULATORSWINGTPS62822DLC
 - Name: Regulator_Switching : TPS62822DLC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS62822DLC/
 - Description: Regulator_Switching : TPS62822DLC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62822DLC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62822DLC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS62822DLC](http://oom.lt/SZKREGULATORSWINGTPS62822DLC)

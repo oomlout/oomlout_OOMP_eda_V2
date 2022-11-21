@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54360DDA
 - Hex ID: SZKREGULATORSWINGTPS5436DDA
 - Name: Regulator_Switching : TPS54360DDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS54360DDA/
 - Description: Regulator_Switching : TPS54360DDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54360DDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54360DDA)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS5436DDA](http://oom.lt/SZKREGULATORSWINGTPS5436DDA)

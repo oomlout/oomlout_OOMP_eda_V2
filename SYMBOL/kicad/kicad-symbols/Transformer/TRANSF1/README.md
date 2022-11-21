@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TRANSF1
 - Hex ID: SZKTRTRANSF1
 - Name: Transformer : TRANSF1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TRANSF1/
 - Description: Transformer : TRANSF1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF1)
 - Short Link: [http://oom.lt/SZKTRTRANSF1](http://oom.lt/SZKTRTRANSF1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5045B
 - Hex ID: SZKSENMAGNETICAS545B
 - Name: Sensor_Magnetic : AS5045B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5045B/
 - Description: Sensor_Magnetic : AS5045B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5045B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5045B)
 - Short Link: [http://oom.lt/SZKSENMAGNETICAS545B](http://oom.lt/SZKSENMAGNETICAS545B)

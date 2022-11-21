@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-BNO055
 - Hex ID: SZKSENMOTIONBNO55
 - Name: Sensor_Motion : BNO055
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/BNO055/
 - Description: Sensor_Motion : BNO055
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-BNO055](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-BNO055)
 - Short Link: [http://oom.lt/SZKSENMOTIONBNO55](http://oom.lt/SZKSENMOTIONBNO55)

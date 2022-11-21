@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TRANSF3
 - Hex ID: SZKTRTRANSF3
 - Name: Transformer : TRANSF3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TRANSF3/
 - Description: Transformer : TRANSF3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF3)
 - Short Link: [http://oom.lt/SZKTRTRANSF3](http://oom.lt/SZKTRTRANSF3)

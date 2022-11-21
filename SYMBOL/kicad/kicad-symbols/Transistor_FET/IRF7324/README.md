@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7324
 - Hex ID: SZKTRANSISTORFETIRF7324
 - Name: Transistor_FET : IRF7324
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7324/
 - Description: Transistor_FET : IRF7324
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7324](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7324)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF7324](http://oom.lt/SZKTRANSISTORFETIRF7324)

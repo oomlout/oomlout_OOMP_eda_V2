@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-ESP-12F
 - Hex ID: SZKRFMOESP12F
 - Name: RF_Module : ESP-12F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/ESP-12F/
 - Description: RF_Module : ESP-12F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-ESP-12F](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-ESP-12F)
 - Short Link: [http://oom.lt/SZKRFMOESP12F](http://oom.lt/SZKRFMOESP12F)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB3946
 - Hex ID: SZKTRANSISTORBJTFFB3946
 - Name: Transistor_BJT : FFB3946
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/FFB3946/
 - Description: Transistor_BJT : FFB3946
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB3946](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB3946)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTFFB3946](http://oom.lt/SZKTRANSISTORBJTFFB3946)

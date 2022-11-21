@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSN20
 - Hex ID: SZKTRANSISTORFETBSN2
 - Name: Transistor_FET : BSN20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSN20/
 - Description: Transistor_FET : BSN20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSN20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSN20)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSN2](http://oom.lt/SZKTRANSISTORFETBSN2)

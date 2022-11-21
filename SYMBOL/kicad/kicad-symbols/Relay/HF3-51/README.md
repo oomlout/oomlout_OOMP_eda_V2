@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-HF3-51
 - Hex ID: SZKRELAYHF351
 - Name: Relay : HF3-51
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/HF3-51/
 - Description: Relay : HF3-51
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-HF3-51](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-HF3-51)
 - Short Link: [http://oom.lt/SZKRELAYHF351](http://oom.lt/SZKRELAYHF351)

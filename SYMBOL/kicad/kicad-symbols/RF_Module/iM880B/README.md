@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-iM880B
 - Hex ID: SZKRFMOIM88B
 - Name: RF_Module : iM880B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/iM880B/
 - Description: RF_Module : iM880B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-iM880B](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-iM880B)
 - Short Link: [http://oom.lt/SZKRFMOIM88B](http://oom.lt/SZKRFMOIM88B)

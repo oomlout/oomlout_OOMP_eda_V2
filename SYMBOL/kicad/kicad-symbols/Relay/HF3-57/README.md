@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-HF3-57
 - Hex ID: SZKRELAYHF357
 - Name: Relay : HF3-57
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/HF3-57/
 - Description: Relay : HF3-57
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-HF3-57](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-HF3-57)
 - Short Link: [http://oom.lt/SZKRELAYHF357](http://oom.lt/SZKRELAYHF357)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADTL1-4-75
 - Hex ID: SZKTRADTL1475
 - Name: Transformer : ADTL1-4-75
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADTL1-4-75/
 - Description: Transformer : ADTL1-4-75
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTL1-4-75](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTL1-4-75)
 - Short Link: [http://oom.lt/SZKTRADTL1475](http://oom.lt/SZKTRADTL1475)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_MMI_Q5-100
 - Hex ID: SZKSWSWIQ51
 - Name: Switch : SW_MMI_Q5-100
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_MMI_Q5-100/
 - Description: Switch : SW_MMI_Q5-100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_MMI_Q5-100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_MMI_Q5-100)
 - Short Link: [http://oom.lt/SZKSWSWIQ51](http://oom.lt/SZKSWSWIQ51)

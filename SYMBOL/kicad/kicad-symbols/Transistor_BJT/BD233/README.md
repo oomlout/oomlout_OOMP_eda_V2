@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD233
 - Hex ID: SZKTRANSISTORBJTBD233
 - Name: Transistor_BJT : BD233
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD233/
 - Description: Transistor_BJT : BD233
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD233](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD233)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD233](http://oom.lt/SZKTRANSISTORBJTBD233)

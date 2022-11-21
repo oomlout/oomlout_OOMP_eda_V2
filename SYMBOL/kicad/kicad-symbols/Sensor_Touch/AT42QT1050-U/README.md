@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Touch-AT42QT1050-U
 - Hex ID: SZKSENTOUCHAT42QT15U
 - Name: Sensor_Touch : AT42QT1050-U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1050-U/
 - Description: Sensor_Touch : AT42QT1050-U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-AT42QT1050-U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-AT42QT1050-U)
 - Short Link: [http://oom.lt/SZKSENTOUCHAT42QT15U](http://oom.lt/SZKSENTOUCHAT42QT15U)

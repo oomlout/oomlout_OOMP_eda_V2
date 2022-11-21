@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF740
 - Hex ID: SZKTRANSISTORFETIRF74
 - Name: Transistor_FET : IRF740
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF740/
 - Description: Transistor_FET : IRF740
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF740](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF740)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF74](http://oom.lt/SZKTRANSISTORFETIRF74)

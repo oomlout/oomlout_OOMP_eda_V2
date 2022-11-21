@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS28EA00
 - Hex ID: SZKSENTEMPERATUREDS28EA
 - Name: Sensor_Temperature : DS28EA00
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS28EA00/
 - Description: Sensor_Temperature : DS28EA00
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS28EA00](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS28EA00)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREDS28EA](http://oom.lt/SZKSENTEMPERATUREDS28EA)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Mixer-HMC213A
 - Hex ID: SZKRFMIXERHMC213A
 - Name: RF_Mixer : HMC213A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Mixer/HMC213A/
 - Description: RF_Mixer : HMC213A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Mixer-HMC213A](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Mixer-HMC213A)
 - Short Link: [http://oom.lt/SZKRFMIXERHMC213A](http://oom.lt/SZKRFMIXERHMC213A)

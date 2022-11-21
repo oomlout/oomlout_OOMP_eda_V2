@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB028N06NN3
 - Hex ID: SZKTRANSISTORFETBSB28N6NN3
 - Name: Transistor_FET : BSB028N06NN3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSB028N06NN3/
 - Description: Transistor_FET : BSB028N06NN3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB028N06NN3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB028N06NN3)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSB28N6NN3](http://oom.lt/SZKTRANSISTORFETBSB28N6NN3)

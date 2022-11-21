@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC547
 - Hex ID: SZKTRANSISTORBJTBC547
 - Name: Transistor_BJT : BC547
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC547/
 - Description: Transistor_BJT : BC547
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC547](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC547)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC547](http://oom.lt/SZKTRANSISTORBJTBC547)

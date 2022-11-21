@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-MOC3033M
 - Hex ID: SZKRFMOC333M
 - Name: RF : MOC3033M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/MOC3033M/
 - Description: RF : MOC3033M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3033M](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3033M)
 - Short Link: [http://oom.lt/SZKRFMOC333M](http://oom.lt/SZKRFMOC333M)

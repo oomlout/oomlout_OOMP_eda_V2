@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-AS179-92LF
 - Hex ID: SZKRFSWAS17992LF
 - Name: RF_Switch : AS179-92LF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Switch/AS179-92LF/
 - Description: RF_Switch : AS179-92LF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-AS179-92LF](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-AS179-92LF)
 - Short Link: [http://oom.lt/SZKRFSWAS17992LF](http://oom.lt/SZKRFSWAS17992LF)

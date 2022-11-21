@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF40DM229
 - Hex ID: SZKTRANSISTORFETIRF4DM229
 - Name: Transistor_FET : IRF40DM229
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF40DM229/
 - Description: Transistor_FET : IRF40DM229
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF40DM229](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF40DM229)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF4DM229](http://oom.lt/SZKTRANSISTORFETIRF4DM229)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-152W-75
 - Hex ID: SZKRFFILBFCN152W75
 - Name: RF_Filter : BFCN-152W-75
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-152W-75/
 - Description: RF_Filter : BFCN-152W-75
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-152W-75](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-152W-75)
 - Short Link: [http://oom.lt/SZKRFFILBFCN152W75](http://oom.lt/SZKRFFILBFCN152W75)

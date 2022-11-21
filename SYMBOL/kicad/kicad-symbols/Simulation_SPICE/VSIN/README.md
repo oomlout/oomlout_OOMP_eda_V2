@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VSIN
 - Hex ID: SZKSIMULATIONSPICEVSIN
 - Name: Simulation_SPICE : VSIN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VSIN/
 - Description: Simulation_SPICE : VSIN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VSIN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VSIN)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVSIN](http://oom.lt/SZKSIMULATIONSPICEVSIN)

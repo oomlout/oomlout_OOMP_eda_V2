@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-IR21771S
 - Hex ID: SZKSENCURRENTIR21771S
 - Name: Sensor_Current : IR21771S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/IR21771S/
 - Description: Sensor_Current : IR21771S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-IR21771S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-IR21771S)
 - Short Link: [http://oom.lt/SZKSENCURRENTIR21771S](http://oom.lt/SZKSENCURRENTIR21771S)

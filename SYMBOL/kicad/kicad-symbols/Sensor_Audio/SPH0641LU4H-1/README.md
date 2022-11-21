@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Audio-SPH0641LU4H-1
 - Hex ID: SZKSENAUDIOSPH641LU4H1
 - Name: Sensor_Audio : SPH0641LU4H-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Audio/SPH0641LU4H-1/
 - Description: Sensor_Audio : SPH0641LU4H-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Audio-SPH0641LU4H-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Audio-SPH0641LU4H-1)
 - Short Link: [http://oom.lt/SZKSENAUDIOSPH641LU4H1](http://oom.lt/SZKSENAUDIOSPH641LU4H1)

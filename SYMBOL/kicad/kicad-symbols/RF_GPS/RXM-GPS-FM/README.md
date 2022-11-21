@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GPS-RXM-GPS-FM
 - Hex ID: SZKGPSRXMGPSFM
 - Name: RF_GPS : RXM-GPS-FM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GPS/RXM-GPS-FM/
 - Description: RF_GPS : RXM-GPS-FM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-RXM-GPS-FM](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-RXM-GPS-FM)
 - Short Link: [http://oom.lt/SZKGPSRXMGPSFM](http://oom.lt/SZKGPSRXMGPSFM)

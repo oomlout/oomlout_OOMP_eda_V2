@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC13DN30NSFD
 - Hex ID: SZKTRANSISTORFETBSC13DN3NSFD
 - Name: Transistor_FET : BSC13DN30NSFD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC13DN30NSFD/
 - Description: Transistor_FET : BSC13DN30NSFD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC13DN30NSFD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC13DN30NSFD)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC13DN3NSFD](http://oom.lt/SZKTRANSISTORFETBSC13DN3NSFD)

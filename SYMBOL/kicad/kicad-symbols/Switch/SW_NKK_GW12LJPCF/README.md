@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_NKK_GW12LJPCF
 - Hex ID: SZKSWSWNKKGW12LJPCF
 - Name: Switch : SW_NKK_GW12LJPCF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_NKK_GW12LJPCF/
 - Description: Switch : SW_NKK_GW12LJPCF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_NKK_GW12LJPCF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_NKK_GW12LJPCF)
 - Short Link: [http://oom.lt/SZKSWSWNKKGW12LJPCF](http://oom.lt/SZKSWSWNKKGW12LJPCF)

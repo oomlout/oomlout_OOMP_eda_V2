@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-CPC1002N
 - Hex ID: SZKRELAYSOLIDSTATECPC12N
 - Name: Relay_SolidState : CPC1002N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/CPC1002N/
 - Description: Relay_SolidState : CPC1002N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-CPC1002N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-CPC1002N)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATECPC12N](http://oom.lt/SZKRELAYSOLIDSTATECPC12N)

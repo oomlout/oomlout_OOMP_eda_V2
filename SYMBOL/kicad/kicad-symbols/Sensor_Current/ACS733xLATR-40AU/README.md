@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS733xLATR-40AU
 - Hex ID: SZKSENCURRENTACS733XLATR4AU
 - Name: Sensor_Current : ACS733xLATR-40AU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS733xLATR-40AU/
 - Description: Sensor_Current : ACS733xLATR-40AU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS733xLATR-40AU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS733xLATR-40AU)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS733XLATR4AU](http://oom.lt/SZKSENCURRENTACS733XLATR4AU)

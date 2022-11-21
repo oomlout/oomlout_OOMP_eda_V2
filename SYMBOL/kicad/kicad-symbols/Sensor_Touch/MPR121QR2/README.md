@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Touch-MPR121QR2
 - Hex ID: SZKSENTOUCHMPR121QR2
 - Name: Sensor_Touch : MPR121QR2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Touch/MPR121QR2/
 - Description: Sensor_Touch : MPR121QR2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-MPR121QR2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-MPR121QR2)
 - Short Link: [http://oom.lt/SZKSENTOUCHMPR121QR2](http://oom.lt/SZKSENTOUCHMPR121QR2)

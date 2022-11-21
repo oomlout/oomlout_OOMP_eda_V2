@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor-ADE7953xCP
 - Hex ID: SZKSENADE7953XCP
 - Name: Sensor : ADE7953xCP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor/ADE7953xCP/
 - Description: Sensor : ADE7953xCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-ADE7953xCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-ADE7953xCP)
 - Short Link: [http://oom.lt/SZKSENADE7953XCP](http://oom.lt/SZKSENADE7953XCP)

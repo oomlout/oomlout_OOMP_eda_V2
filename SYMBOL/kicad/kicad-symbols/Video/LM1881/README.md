@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-LM1881
 - Hex ID: SZKVIDEOLM1881
 - Name: Video : LM1881
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/LM1881/
 - Description: Video : LM1881
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-LM1881](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-LM1881)
 - Short Link: [http://oom.lt/SZKVIDEOLM1881](http://oom.lt/SZKVIDEOLM1881)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9808_DFN
 - Hex ID: SZKSENTEMPERATUREMCP988DFN
 - Name: Sensor_Temperature : MCP9808_DFN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9808_DFN/
 - Description: Sensor_Temperature : MCP9808_DFN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9808_DFN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9808_DFN)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMCP988DFN](http://oom.lt/SZKSENTEMPERATUREMCP988DFN)

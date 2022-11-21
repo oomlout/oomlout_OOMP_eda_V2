@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IPT012N08N5
 - Hex ID: SZKTRANSISTORFETIPT12N8N5
 - Name: Transistor_FET : IPT012N08N5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPT012N08N5/
 - Description: Transistor_FET : IPT012N08N5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPT012N08N5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPT012N08N5)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIPT12N8N5](http://oom.lt/SZKTRANSISTORFETIPT12N8N5)

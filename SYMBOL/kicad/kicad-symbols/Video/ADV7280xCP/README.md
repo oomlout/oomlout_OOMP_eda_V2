@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-ADV7280xCP
 - Hex ID: SZKVIDEOADV728XCP
 - Name: Video : ADV7280xCP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/ADV7280xCP/
 - Description: Video : ADV7280xCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-ADV7280xCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-ADV7280xCP)
 - Short Link: [http://oom.lt/SZKVIDEOADV728XCP](http://oom.lt/SZKVIDEOADV728XCP)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5048B
 - Hex ID: SZKSENMAGNETICAS548B
 - Name: Sensor_Magnetic : AS5048B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5048B/
 - Description: Sensor_Magnetic : AS5048B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5048B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5048B)
 - Short Link: [http://oom.lt/SZKSENMAGNETICAS548B](http://oom.lt/SZKSENMAGNETICAS548B)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1322
 - Hex ID: SZKRFFILHFCN1322
 - Name: RF_Filter : HFCN-1322
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-1322/
 - Description: RF_Filter : HFCN-1322
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1322](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1322)
 - Short Link: [http://oom.lt/SZKRFFILHFCN1322](http://oom.lt/SZKRFFILHFCN1322)

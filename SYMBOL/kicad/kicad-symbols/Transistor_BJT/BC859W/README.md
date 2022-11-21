@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC859W
 - Hex ID: SZKTRANSISTORBJTBC859W
 - Name: Transistor_BJT : BC859W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC859W/
 - Description: Transistor_BJT : BC859W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC859W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC859W)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC859W](http://oom.lt/SZKTRANSISTORBJTBC859W)

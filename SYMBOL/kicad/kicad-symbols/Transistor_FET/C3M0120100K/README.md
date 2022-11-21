@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0120100K
 - Hex ID: SZKTRANSISTORFETC3M121K
 - Name: Transistor_FET : C3M0120100K
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/C3M0120100K/
 - Description: Transistor_FET : C3M0120100K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0120100K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0120100K)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETC3M121K](http://oom.lt/SZKTRANSISTORFETC3M121K)

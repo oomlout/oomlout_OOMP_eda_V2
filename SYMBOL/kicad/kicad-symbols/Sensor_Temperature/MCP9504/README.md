@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9504
 - Hex ID: SZKSENTEMPERATUREMCP954
 - Name: Sensor_Temperature : MCP9504
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9504/
 - Description: Sensor_Temperature : MCP9504
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9504](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9504)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMCP954](http://oom.lt/SZKSENTEMPERATUREMCP954)

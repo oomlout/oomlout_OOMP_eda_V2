@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM43
 - Hex ID: SZKRELAYIM43
 - Name: Relay : IM43
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM43/
 - Description: Relay : IM43
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM43](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM43)
 - Short Link: [http://oom.lt/SZKRELAYIM43](http://oom.lt/SZKRELAYIM43)

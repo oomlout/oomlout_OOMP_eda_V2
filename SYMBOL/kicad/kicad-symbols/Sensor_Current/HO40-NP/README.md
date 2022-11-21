@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HO40-NP
 - Hex ID: SZKSENCURRENTHO4NP
 - Name: Sensor_Current : HO40-NP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/HO40-NP/
 - Description: Sensor_Current : HO40-NP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO40-NP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO40-NP)
 - Short Link: [http://oom.lt/SZKSENCURRENTHO4NP](http://oom.lt/SZKSENCURRENTHO4NP)

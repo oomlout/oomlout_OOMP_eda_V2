@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC328
 - Hex ID: SZKTRANSISTORBJTBC328
 - Name: Transistor_BJT : BC328
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC328/
 - Description: Transistor_BJT : BC328
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC328](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC328)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC328](http://oom.lt/SZKTRANSISTORBJTBC328)

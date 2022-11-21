@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS84
 - Hex ID: SZKTRANSISTORFETBSS84
 - Name: Transistor_FET : BSS84
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSS84/
 - Description: Transistor_FET : BSS84
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS84](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS84)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSS84](http://oom.lt/SZKTRANSISTORFETBSS84)

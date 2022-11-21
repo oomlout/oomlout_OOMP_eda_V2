@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-AX-SIP-SFEU
 - Hex ID: SZKRFMOAXSIPSFEU
 - Name: RF_Module : AX-SIP-SFEU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/AX-SIP-SFEU/
 - Description: RF_Module : AX-SIP-SFEU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-AX-SIP-SFEU](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-AX-SIP-SFEU)
 - Short Link: [http://oom.lt/SZKRFMOAXSIPSFEU](http://oom.lt/SZKRFMOAXSIPSFEU)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PT61017PEL
 - Hex ID: SZKTRPT6117PEL
 - Name: Transformer : PT61017PEL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PT61017PEL/
 - Description: Transformer : PT61017PEL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PT61017PEL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PT61017PEL)
 - Short Link: [http://oom.lt/SZKTRPT6117PEL](http://oom.lt/SZKTRPT6117PEL)

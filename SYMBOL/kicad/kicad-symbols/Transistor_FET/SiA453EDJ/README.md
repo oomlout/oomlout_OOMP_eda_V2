@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-SiA453EDJ
 - Hex ID: SZKTRANSISTORFETSIA453EDJ
 - Name: Transistor_FET : SiA453EDJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/SiA453EDJ/
 - Description: Transistor_FET : SiA453EDJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SiA453EDJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SiA453EDJ)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSIA453EDJ](http://oom.lt/SZKTRANSISTORFETSIA453EDJ)

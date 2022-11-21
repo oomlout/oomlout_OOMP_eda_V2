@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS5430DDA
 - Hex ID: SZKREGULATORSWINGTPS543DDA
 - Name: Regulator_Switching : TPS5430DDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS5430DDA/
 - Description: Regulator_Switching : TPS5430DDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS5430DDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS5430DDA)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS543DDA](http://oom.lt/SZKREGULATORSWINGTPS543DDA)

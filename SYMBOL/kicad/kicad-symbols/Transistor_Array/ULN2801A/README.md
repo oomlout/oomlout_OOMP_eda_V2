@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2801A
 - Hex ID: SZKTRANSISTORARRAYULN281A
 - Name: Transistor_Array : ULN2801A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Array/ULN2801A/
 - Description: Transistor_Array : ULN2801A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2801A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2801A)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYULN281A](http://oom.lt/SZKTRANSISTORARRAYULN281A)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BPF-A355
 - Hex ID: SZKRFFILBPFA355
 - Name: RF_Filter : BPF-A355
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BPF-A355/
 - Description: RF_Filter : BPF-A355
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BPF-A355](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BPF-A355)
 - Short Link: [http://oom.lt/SZKRFFILBPFA355](http://oom.lt/SZKRFFILBPFA355)

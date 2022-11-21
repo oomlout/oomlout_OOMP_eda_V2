@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-SKY13575-639LF
 - Hex ID: SZKRFSWSKY13575639LF
 - Name: RF_Switch : SKY13575-639LF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Switch/SKY13575-639LF/
 - Description: RF_Switch : SKY13575-639LF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-SKY13575-639LF](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-SKY13575-639LF)
 - Short Link: [http://oom.lt/SZKRFSWSKY13575639LF](http://oom.lt/SZKRFSWSKY13575639LF)

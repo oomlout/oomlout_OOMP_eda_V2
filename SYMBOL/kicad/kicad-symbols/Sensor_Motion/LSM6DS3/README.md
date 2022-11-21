@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM6DS3
 - Hex ID: SZKSENMOTIONLSM6DS3
 - Name: Sensor_Motion : LSM6DS3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LSM6DS3/
 - Description: Sensor_Motion : LSM6DS3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM6DS3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM6DS3)
 - Short Link: [http://oom.lt/SZKSENMOTIONLSM6DS3](http://oom.lt/SZKSENMOTIONLSM6DS3)

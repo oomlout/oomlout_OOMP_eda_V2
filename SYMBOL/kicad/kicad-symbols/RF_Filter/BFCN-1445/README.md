@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-1445
 - Hex ID: SZKRFFILBFCN1445
 - Name: RF_Filter : BFCN-1445
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-1445/
 - Description: RF_Filter : BFCN-1445
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-1445](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-1445)
 - Short Link: [http://oom.lt/SZKRFFILBFCN1445](http://oom.lt/SZKRFFILBFCN1445)

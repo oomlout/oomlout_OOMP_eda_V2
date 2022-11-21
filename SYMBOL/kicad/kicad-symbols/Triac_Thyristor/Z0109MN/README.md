@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0109MN
 - Hex ID: SZKTRIACTHYRISTORZ19MN
 - Name: Triac_Thyristor : Z0109MN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/Z0109MN/
 - Description: Triac_Thyristor : Z0109MN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0109MN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0109MN)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORZ19MN](http://oom.lt/SZKTRIACTHYRISTORZ19MN)

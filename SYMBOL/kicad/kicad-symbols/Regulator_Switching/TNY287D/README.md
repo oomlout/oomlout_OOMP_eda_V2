@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY287D
 - Hex ID: SZKREGULATORSWINGTNY287D
 - Name: Regulator_Switching : TNY287D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TNY287D/
 - Description: Regulator_Switching : TNY287D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY287D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY287D)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTNY287D](http://oom.lt/SZKREGULATORSWINGTNY287D)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDC86244
 - Hex ID: SZKTRANSISTORFETFDC86244
 - Name: Transistor_FET : FDC86244
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDC86244/
 - Description: Transistor_FET : FDC86244
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDC86244](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDC86244)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDC86244](http://oom.lt/SZKTRANSISTORFETFDC86244)

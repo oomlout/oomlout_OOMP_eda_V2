@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AH1806-W
 - Hex ID: SZKSENMAGNETICAH186W
 - Name: Sensor_Magnetic : AH1806-W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AH1806-W/
 - Description: Sensor_Magnetic : AH1806-W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AH1806-W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AH1806-W)
 - Short Link: [http://oom.lt/SZKSENMAGNETICAH186W](http://oom.lt/SZKSENMAGNETICAH186W)

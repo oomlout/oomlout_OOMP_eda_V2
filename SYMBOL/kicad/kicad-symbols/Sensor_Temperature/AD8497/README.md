@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-AD8497
 - Hex ID: SZKSENTEMPERATUREAD8497
 - Name: Sensor_Temperature : AD8497
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/AD8497/
 - Description: Sensor_Temperature : AD8497
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-AD8497](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-AD8497)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREAD8497](http://oom.lt/SZKSENTEMPERATUREAD8497)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-0433BM15A0001
 - Hex ID: SZKTR433BM15A1
 - Name: Transformer : 0433BM15A0001
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/0433BM15A0001/
 - Description: Transformer : 0433BM15A0001
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-0433BM15A0001](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-0433BM15A0001)
 - Short Link: [http://oom.lt/SZKTR433BM15A1](http://oom.lt/SZKTR433BM15A1)

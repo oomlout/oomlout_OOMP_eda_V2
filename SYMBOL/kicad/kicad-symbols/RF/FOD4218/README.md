@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-FOD4218
 - Hex ID: SZKRFFOD4218
 - Name: RF : FOD4218
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/FOD4218/
 - Description: RF : FOD4218
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FOD4218](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FOD4218)
 - Short Link: [http://oom.lt/SZKRFFOD4218](http://oom.lt/SZKRFFOD4218)

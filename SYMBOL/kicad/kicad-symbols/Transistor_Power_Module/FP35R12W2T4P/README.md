@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP35R12W2T4P
 - Hex ID: SZKTRANSISTORPOWERMOFP35R12W2T4P
 - Name: Transistor_Power_Module : FP35R12W2T4P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP35R12W2T4P/
 - Description: Transistor_Power_Module : FP35R12W2T4P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP35R12W2T4P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP35R12W2T4P)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOFP35R12W2T4P](http://oom.lt/SZKTRANSISTORPOWERMOFP35R12W2T4P)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_AM_FM-Si4730-D60-GU
 - Hex ID: SZKRFAMFMSI473D6GU
 - Name: RF_AM_FM : Si4730-D60-GU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_AM_FM/Si4730-D60-GU/
 - Description: RF_AM_FM : Si4730-D60-GU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-Si4730-D60-GU](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-Si4730-D60-GU)
 - Short Link: [http://oom.lt/SZKRFAMFMSI473D6GU](http://oom.lt/SZKRFAMFMSI473D6GU)

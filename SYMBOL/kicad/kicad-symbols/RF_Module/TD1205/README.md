@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-TD1205
 - Hex ID: SZKRFMOTD125
 - Name: RF_Module : TD1205
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/TD1205/
 - Description: RF_Module : TD1205
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-TD1205](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-TD1205)
 - Short Link: [http://oom.lt/SZKRFMOTD125](http://oom.lt/SZKRFMOTD125)

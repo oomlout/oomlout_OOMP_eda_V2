@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-HMC7992
 - Hex ID: SZKRFSWHMC7992
 - Name: RF_Switch : HMC7992
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Switch/HMC7992/
 - Description: RF_Switch : HMC7992
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-HMC7992](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-HMC7992)
 - Short Link: [http://oom.lt/SZKRFSWHMC7992](http://oom.lt/SZKRFSWHMC7992)

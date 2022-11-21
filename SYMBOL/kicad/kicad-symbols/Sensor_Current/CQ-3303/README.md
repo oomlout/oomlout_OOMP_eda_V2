@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-3303
 - Hex ID: SZKSENCURRENTCQ333
 - Name: Sensor_Current : CQ-3303
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-3303/
 - Description: Sensor_Current : CQ-3303
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-3303](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-3303)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ333](http://oom.lt/SZKSENCURRENTCQ333)

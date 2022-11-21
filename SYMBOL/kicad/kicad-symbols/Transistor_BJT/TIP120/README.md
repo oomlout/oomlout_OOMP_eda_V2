@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP120
 - Hex ID: SZKTRANSISTORBJTTIP12
 - Name: Transistor_BJT : TIP120
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP120/
 - Description: Transistor_BJT : TIP120
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP120](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP120)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP12](http://oom.lt/SZKTRANSISTORBJTTIP12)

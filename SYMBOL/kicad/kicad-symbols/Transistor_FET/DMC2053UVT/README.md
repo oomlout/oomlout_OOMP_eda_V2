@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMC2053UVT
 - Hex ID: SZKTRANSISTORFETDMC253UVT
 - Name: Transistor_FET : DMC2053UVT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC2053UVT/
 - Description: Transistor_FET : DMC2053UVT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMC2053UVT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMC2053UVT)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMC253UVT](http://oom.lt/SZKTRANSISTORFETDMC253UVT)

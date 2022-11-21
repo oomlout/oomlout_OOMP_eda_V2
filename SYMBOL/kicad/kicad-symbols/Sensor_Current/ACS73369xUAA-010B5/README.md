@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS73369xUAA-010B5
 - Hex ID: SZKSENCURRENTACS73369XUAA1B5
 - Name: Sensor_Current : ACS73369xUAA-010B5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS73369xUAA-010B5/
 - Description: Sensor_Current : ACS73369xUAA-010B5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS73369xUAA-010B5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS73369xUAA-010B5)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS73369XUAA1B5](http://oom.lt/SZKSENCURRENTACS73369XUAA1B5)

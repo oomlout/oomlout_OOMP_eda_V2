@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MPSA42
 - Hex ID: SZKTRANSISTORBJTMPSA42
 - Name: Transistor_BJT : MPSA42
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MPSA42/
 - Description: Transistor_BJT : MPSA42
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MPSA42](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MPSA42)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTMPSA42](http://oom.lt/SZKTRANSISTORBJTMPSA42)

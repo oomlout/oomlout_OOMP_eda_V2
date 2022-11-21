@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-BGA2870
 - Hex ID: SZKRFAMPLIFIERBGA287
 - Name: RF_Amplifier : BGA2870
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/BGA2870/
 - Description: RF_Amplifier : BGA2870
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-BGA2870](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-BGA2870)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERBGA287](http://oom.lt/SZKRFAMPLIFIERBGA287)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDG6335N
 - Hex ID: SZKTRANSISTORFETFDG6335N
 - Name: Transistor_FET : FDG6335N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDG6335N/
 - Description: Transistor_FET : FDG6335N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDG6335N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDG6335N)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDG6335N](http://oom.lt/SZKTRANSISTORFETFDG6335N)

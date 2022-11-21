@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP36xS
 - Hex ID: SZKSENTEMPERATURETMP36XS
 - Name: Sensor_Temperature : TMP36xS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP36xS/
 - Description: Sensor_Temperature : TMP36xS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP36xS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP36xS)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETMP36XS](http://oom.lt/SZKSENTEMPERATURETMP36XS)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IPWL
 - Hex ID: SZKSIMULATIONSPICEIPWL
 - Name: Simulation_SPICE : IPWL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/IPWL/
 - Description: Simulation_SPICE : IPWL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IPWL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IPWL)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEIPWL](http://oom.lt/SZKSIMULATIONSPICEIPWL)

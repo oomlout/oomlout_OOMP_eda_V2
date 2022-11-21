@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Touch-PCF8883
 - Hex ID: SZKSENTOUCHPCF8883
 - Name: Sensor_Touch : PCF8883
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Touch/PCF8883/
 - Description: Sensor_Touch : PCF8883
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-PCF8883](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-PCF8883)
 - Short Link: [http://oom.lt/SZKSENTOUCHPCF8883](http://oom.lt/SZKSENTOUCHPCF8883)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-ADL5541
 - Hex ID: SZKRFAMPLIFIERADL5541
 - Name: RF_Amplifier : ADL5541
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/ADL5541/
 - Description: RF_Amplifier : ADL5541
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-ADL5541](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-ADL5541)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERADL5541](http://oom.lt/SZKRFAMPLIFIERADL5541)

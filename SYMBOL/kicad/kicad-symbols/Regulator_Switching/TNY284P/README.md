@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY284P
 - Hex ID: SZKREGULATORSWINGTNY284P
 - Name: Regulator_Switching : TNY284P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TNY284P/
 - Description: Regulator_Switching : TNY284P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY284P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY284P)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTNY284P](http://oom.lt/SZKREGULATORSWINGTNY284P)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-STD7NK40Z
 - Hex ID: SZKTRANSISTORFETSTD7NK4Z
 - Name: Transistor_FET : STD7NK40Z
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/STD7NK40Z/
 - Description: Transistor_FET : STD7NK40Z
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-STD7NK40Z](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-STD7NK40Z)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSTD7NK4Z](http://oom.lt/SZKTRANSISTORFETSTD7NK4Z)

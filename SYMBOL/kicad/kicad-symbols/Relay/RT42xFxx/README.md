@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RT42xFxx
 - Hex ID: SZKRELAYRT42XFXX
 - Name: Relay : RT42xFxx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/RT42xFxx/
 - Description: Relay : RT42xFxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RT42xFxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RT42xFxx)
 - Short Link: [http://oom.lt/SZKRELAYRT42XFXX](http://oom.lt/SZKRELAYRT42XFXX)

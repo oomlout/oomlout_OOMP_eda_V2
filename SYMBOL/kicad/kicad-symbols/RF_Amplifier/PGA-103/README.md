@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-PGA-103
 - Hex ID: SZKRFAMPLIFIERPGA13
 - Name: RF_Amplifier : PGA-103
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/PGA-103/
 - Description: RF_Amplifier : PGA-103
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-PGA-103](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-PGA-103)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERPGA13](http://oom.lt/SZKRFAMPLIFIERPGA13)

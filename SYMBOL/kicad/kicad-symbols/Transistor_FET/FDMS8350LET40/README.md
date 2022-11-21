@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS8350LET40
 - Hex ID: SZKTRANSISTORFETFDMS835LET4
 - Name: Transistor_FET : FDMS8350LET40
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS8350LET40/
 - Description: Transistor_FET : FDMS8350LET40
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS8350LET40](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS8350LET40)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMS835LET4](http://oom.lt/SZKTRANSISTORFETFDMS835LET4)

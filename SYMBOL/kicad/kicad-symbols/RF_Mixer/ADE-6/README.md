@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Mixer-ADE-6
 - Hex ID: SZKRFMIXERADE6
 - Name: RF_Mixer : ADE-6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Mixer/ADE-6/
 - Description: RF_Mixer : ADE-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Mixer-ADE-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Mixer-ADE-6)
 - Short Link: [http://oom.lt/SZKRFMIXERADE6](http://oom.lt/SZKRFMIXERADE6)

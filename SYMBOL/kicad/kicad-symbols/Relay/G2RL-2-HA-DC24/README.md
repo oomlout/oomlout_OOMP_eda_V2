@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-G2RL-2-HA-DC24
 - Hex ID: SZKRELAYG2RL2HADC24
 - Name: Relay : G2RL-2-HA-DC24
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/G2RL-2-HA-DC24/
 - Description: Relay : G2RL-2-HA-DC24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G2RL-2-HA-DC24](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G2RL-2-HA-DC24)
 - Short Link: [http://oom.lt/SZKRELAYG2RL2HADC24](http://oom.lt/SZKRELAYG2RL2HADC24)

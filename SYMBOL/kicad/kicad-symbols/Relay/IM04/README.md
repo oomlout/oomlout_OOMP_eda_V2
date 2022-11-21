@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM04
 - Hex ID: SZKRELAYIM4
 - Name: Relay : IM04
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM04/
 - Description: Relay : IM04
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM04](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM04)
 - Short Link: [http://oom.lt/SZKRELAYIM4](http://oom.lt/SZKRELAYIM4)

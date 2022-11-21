@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-EE2-12SNUX
 - Hex ID: SZKRELAYEE212SNUX
 - Name: Relay : EE2-12SNUX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-12SNUX/
 - Description: Relay : EE2-12SNUX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-12SNUX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-12SNUX)
 - Short Link: [http://oom.lt/SZKRELAYEE212SNUX](http://oom.lt/SZKRELAYEE212SNUX)

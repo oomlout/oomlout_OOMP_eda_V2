@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-Si1442DH
 - Hex ID: SZKTRANSISTORFETSI1442DH
 - Name: Transistor_FET : Si1442DH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si1442DH/
 - Description: Transistor_FET : Si1442DH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si1442DH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si1442DH)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSI1442DH](http://oom.lt/SZKTRANSISTORFETSI1442DH)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2803A
 - Hex ID: SZKTRANSISTORARRAYULN283A
 - Name: Transistor_Array : ULN2803A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Array/ULN2803A/
 - Description: Transistor_Array : ULN2803A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2803A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2803A)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYULN283A](http://oom.lt/SZKTRANSISTORARRAYULN283A)

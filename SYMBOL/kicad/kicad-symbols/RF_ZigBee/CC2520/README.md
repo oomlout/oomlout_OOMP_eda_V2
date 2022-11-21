@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_ZigBee-CC2520
 - Hex ID: SZKRFZIGBEECC252
 - Name: RF_ZigBee : CC2520
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_ZigBee/CC2520/
 - Description: RF_ZigBee : CC2520
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-CC2520](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-CC2520)
 - Short Link: [http://oom.lt/SZKRFZIGBEECC252](http://oom.lt/SZKRFZIGBEECC252)

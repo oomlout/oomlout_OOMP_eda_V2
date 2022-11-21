@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RT314A03
 - Hex ID: SZKRELAYRT314A3
 - Name: Relay : RT314A03
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/RT314A03/
 - Description: Relay : RT314A03
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RT314A03](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RT314A03)
 - Short Link: [http://oom.lt/SZKRELAYRT314A3](http://oom.lt/SZKRELAYRT314A3)

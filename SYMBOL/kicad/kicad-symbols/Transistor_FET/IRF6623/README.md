@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6623
 - Hex ID: SZKTRANSISTORFETIRF6623
 - Name: Transistor_FET : IRF6623
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6623/
 - Description: Transistor_FET : IRF6623
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6623](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6623)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6623](http://oom.lt/SZKTRANSISTORFETIRF6623)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-RLP-30
 - Hex ID: SZKRFFILRLP3
 - Name: RF_Filter : RLP-30
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/RLP-30/
 - Description: RF_Filter : RLP-30
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-RLP-30](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-RLP-30)
 - Short Link: [http://oom.lt/SZKRFFILRLP3](http://oom.lt/SZKRFFILRLP3)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1302ELHLT-T
 - Hex ID: SZKSENMAGNETICA132ELHLTT
 - Name: Sensor_Magnetic : A1302ELHLT-T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/A1302ELHLT-T/
 - Description: Sensor_Magnetic : A1302ELHLT-T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1302ELHLT-T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1302ELHLT-T)
 - Short Link: [http://oom.lt/SZKSENMAGNETICA132ELHLTT](http://oom.lt/SZKSENMAGNETICA132ELHLTT)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IPB180N10S4-02
 - Hex ID: SZKTRANSISTORFETIPB18N1S42
 - Name: Transistor_FET : IPB180N10S4-02
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPB180N10S4-02/
 - Description: Transistor_FET : IPB180N10S4-02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPB180N10S4-02](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPB180N10S4-02)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIPB18N1S42](http://oom.lt/SZKTRANSISTORFETIPB18N1S42)

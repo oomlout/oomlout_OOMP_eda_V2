@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7665S2
 - Hex ID: SZKTRANSISTORFETIRF7665S2
 - Name: Transistor_FET : IRF7665S2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7665S2/
 - Description: Transistor_FET : IRF7665S2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7665S2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7665S2)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF7665S2](http://oom.lt/SZKTRANSISTORFETIRF7665S2)

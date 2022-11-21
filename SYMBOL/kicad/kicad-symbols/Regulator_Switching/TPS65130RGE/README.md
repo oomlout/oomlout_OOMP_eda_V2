@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS65130RGE
 - Hex ID: SZKREGULATORSWINGTPS6513RGE
 - Name: Regulator_Switching : TPS65130RGE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS65130RGE/
 - Description: Regulator_Switching : TPS65130RGE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS65130RGE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS65130RGE)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS6513RGE](http://oom.lt/SZKREGULATORSWINGTPS6513RGE)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-MASW-007221
 - Hex ID: SZKRFSWMASW7221
 - Name: RF_Switch : MASW-007221
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Switch/MASW-007221/
 - Description: RF_Switch : MASW-007221
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MASW-007221](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MASW-007221)
 - Short Link: [http://oom.lt/SZKRFSWMASW7221](http://oom.lt/SZKRFSWMASW7221)

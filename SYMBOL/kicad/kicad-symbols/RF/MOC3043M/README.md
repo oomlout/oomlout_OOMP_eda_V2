@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-MOC3043M
 - Hex ID: SZKRFMOC343M
 - Name: RF : MOC3043M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/MOC3043M/
 - Description: RF : MOC3043M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3043M](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3043M)
 - Short Link: [http://oom.lt/SZKRFMOC343M](http://oom.lt/SZKRFMOC343M)

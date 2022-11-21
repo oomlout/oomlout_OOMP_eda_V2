@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6798M
 - Hex ID: SZKTRANSISTORFETIRF6798M
 - Name: Transistor_FET : IRF6798M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6798M/
 - Description: Transistor_FET : IRF6798M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6798M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6798M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6798M](http://oom.lt/SZKTRANSISTORFETIRF6798M)

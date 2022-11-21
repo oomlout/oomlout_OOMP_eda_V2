@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD249A
 - Hex ID: SZKTRANSISTORBJTBD249A
 - Name: Transistor_BJT : BD249A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD249A/
 - Description: Transistor_BJT : BD249A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD249A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD249A)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD249A](http://oom.lt/SZKTRANSISTORBJTBD249A)

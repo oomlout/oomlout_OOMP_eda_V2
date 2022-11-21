@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BUT11A
 - Hex ID: SZKTRANSISTORBJTBUT11A
 - Name: Transistor_BJT : BUT11A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BUT11A/
 - Description: Transistor_BJT : BUT11A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BUT11A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BUT11A)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBUT11A](http://oom.lt/SZKTRANSISTORBJTBUT11A)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3946YPN
 - Hex ID: SZKTRANSISTORBJTPMBT3946YPN
 - Name: Transistor_BJT : PMBT3946YPN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PMBT3946YPN/
 - Description: Transistor_BJT : PMBT3946YPN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3946YPN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3946YPN)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPMBT3946YPN](http://oom.lt/SZKTRANSISTORBJTPMBT3946YPN)

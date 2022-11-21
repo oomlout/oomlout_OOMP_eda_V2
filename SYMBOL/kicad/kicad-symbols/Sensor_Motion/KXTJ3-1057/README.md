@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-KXTJ3-1057
 - Hex ID: SZKSENMOTIONKXTJ3157
 - Name: Sensor_Motion : KXTJ3-1057
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KXTJ3-1057/
 - Description: Sensor_Motion : KXTJ3-1057
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-KXTJ3-1057](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-KXTJ3-1057)
 - Short Link: [http://oom.lt/SZKSENMOTIONKXTJ3157](http://oom.lt/SZKSENMOTIONKXTJ3157)

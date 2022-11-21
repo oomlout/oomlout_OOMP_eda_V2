@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML9301
 - Hex ID: SZKTRANSISTORFETIRLML931
 - Name: Transistor_FET : IRLML9301
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRLML9301/
 - Description: Transistor_FET : IRLML9301
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML9301](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML9301)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRLML931](http://oom.lt/SZKTRANSISTORFETIRLML931)

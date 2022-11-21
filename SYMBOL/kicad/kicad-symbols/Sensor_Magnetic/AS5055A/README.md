@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5055A
 - Hex ID: SZKSENMAGNETICAS555A
 - Name: Sensor_Magnetic : AS5055A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5055A/
 - Description: Sensor_Magnetic : AS5055A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5055A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5055A)
 - Short Link: [http://oom.lt/SZKSENMAGNETICAS555A](http://oom.lt/SZKSENMAGNETICAS555A)

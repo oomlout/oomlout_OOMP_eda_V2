@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1000
 - Hex ID: SZKRFFILHFCN1
 - Name: RF_Filter : HFCN-1000
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-1000/
 - Description: RF_Filter : HFCN-1000
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1000](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1000)
 - Short Link: [http://oom.lt/SZKRFFILHFCN1](http://oom.lt/SZKRFFILHFCN1)

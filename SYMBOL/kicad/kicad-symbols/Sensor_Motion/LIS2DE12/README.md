@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS2DE12
 - Hex ID: SZKSENMOTIONLIS2DE12
 - Name: Sensor_Motion : LIS2DE12
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/LIS2DE12/
 - Description: Sensor_Motion : LIS2DE12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS2DE12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS2DE12)
 - Short Link: [http://oom.lt/SZKSENMOTIONLIS2DE12](http://oom.lt/SZKSENMOTIONLIS2DE12)

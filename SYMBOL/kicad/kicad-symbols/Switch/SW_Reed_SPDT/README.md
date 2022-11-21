@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Reed_SPDT
 - Hex ID: SZKSWSWREEDSPDT
 - Name: Switch : SW_Reed_SPDT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Reed_SPDT/
 - Description: Switch : SW_Reed_SPDT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Reed_SPDT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Reed_SPDT)
 - Short Link: [http://oom.lt/SZKSWSWREEDSPDT](http://oom.lt/SZKSWSWREEDSPDT)

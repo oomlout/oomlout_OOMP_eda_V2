@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-209B
 - Hex ID: SZKSENCURRENTCQ29B
 - Name: Sensor_Current : CQ-209B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-209B/
 - Description: Sensor_Current : CQ-209B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-209B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-209B)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ29B](http://oom.lt/SZKSENCURRENTCQ29B)

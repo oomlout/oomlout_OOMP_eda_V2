@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R070D1
 - Hex ID: SZKTRANSISTORFETIGT6R7D1
 - Name: Transistor_FET : IGT60R070D1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IGT60R070D1/
 - Description: Transistor_FET : IGT60R070D1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R070D1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R070D1)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIGT6R7D1](http://oom.lt/SZKTRANSISTORFETIGT6R7D1)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-7200D
 - Hex ID: SZKRFFILLFCN72D
 - Name: RF_Filter : LFCN-7200D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-7200D/
 - Description: RF_Filter : LFCN-7200D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-7200D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-7200D)
 - Short Link: [http://oom.lt/SZKRFFILLFCN72D](http://oom.lt/SZKRFFILLFCN72D)

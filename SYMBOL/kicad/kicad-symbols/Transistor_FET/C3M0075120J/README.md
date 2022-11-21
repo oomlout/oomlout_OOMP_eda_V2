@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0075120J
 - Hex ID: SZKTRANSISTORFETC3M7512J
 - Name: Transistor_FET : C3M0075120J
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/C3M0075120J/
 - Description: Transistor_FET : C3M0075120J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0075120J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0075120J)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETC3M7512J](http://oom.lt/SZKTRANSISTORFETC3M7512J)

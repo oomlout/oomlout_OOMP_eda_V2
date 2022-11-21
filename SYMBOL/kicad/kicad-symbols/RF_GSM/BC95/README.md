@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GSM-BC95
 - Hex ID: SZKGSMBC95
 - Name: RF_GSM : BC95
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GSM/BC95/
 - Description: RF_GSM : BC95
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-BC95](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-BC95)
 - Short Link: [http://oom.lt/SZKGSMBC95](http://oom.lt/SZKGSMBC95)

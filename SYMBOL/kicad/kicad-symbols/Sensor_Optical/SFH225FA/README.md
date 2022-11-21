@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH225FA
 - Hex ID: SZKSENOPTICALSFH225FA
 - Name: Sensor_Optical : SFH225FA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH225FA/
 - Description: Sensor_Optical : SFH225FA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH225FA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH225FA)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH225FA](http://oom.lt/SZKSENOPTICALSFH225FA)

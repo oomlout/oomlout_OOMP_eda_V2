@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-NE555D
 - Hex ID: SZKTIMERNE555D
 - Name: Timer : NE555D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/NE555D/
 - Description: Timer : NE555D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-NE555D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-NE555D)
 - Short Link: [http://oom.lt/SZKTIMERNE555D](http://oom.lt/SZKTIMERNE555D)

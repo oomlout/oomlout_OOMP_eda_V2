@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_NFC-PN5321A3HN_C1xx
 - Hex ID: SZKRFNFCPN5321A3HNC1XX
 - Name: RF_NFC : PN5321A3HN_C1xx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_NFC/PN5321A3HN_C1xx/
 - Description: RF_NFC : PN5321A3HN_C1xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_NFC-PN5321A3HN_C1xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_NFC-PN5321A3HN_C1xx)
 - Short Link: [http://oom.lt/SZKRFNFCPN5321A3HNC1XX](http://oom.lt/SZKRFNFCPN5321A3HNC1XX)

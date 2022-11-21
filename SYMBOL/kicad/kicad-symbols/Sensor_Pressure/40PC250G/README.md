@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Pressure-40PC250G
 - Hex ID: SZKSENPRESSURE4PC25G
 - Name: Sensor_Pressure : 40PC250G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/40PC250G/
 - Description: Sensor_Pressure : 40PC250G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-40PC250G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-40PC250G)
 - Short Link: [http://oom.lt/SZKSENPRESSURE4PC25G](http://oom.lt/SZKSENPRESSURE4PC25G)

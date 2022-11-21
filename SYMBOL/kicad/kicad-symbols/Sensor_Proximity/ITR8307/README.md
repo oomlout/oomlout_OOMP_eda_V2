@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307
 - Hex ID: SZKSENPROXIMITYITR837
 - Name: Sensor_Proximity : ITR8307
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR8307/
 - Description: Sensor_Proximity : ITR8307
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYITR837](http://oom.lt/SZKSENPROXIMITYITR837)

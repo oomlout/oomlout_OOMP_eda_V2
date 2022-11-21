@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_PLL-ADF4350
 - Hex ID: SZKTIMERPLLADF435
 - Name: Timer_PLL : ADF4350
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/ADF4350/
 - Description: Timer_PLL : ADF4350
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-ADF4350](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-ADF4350)
 - Short Link: [http://oom.lt/SZKTIMERPLLADF435](http://oom.lt/SZKTIMERPLLADF435)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GSM-SIM800C
 - Hex ID: SZKGSMSIM8C
 - Name: RF_GSM : SIM800C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GSM/SIM800C/
 - Description: RF_GSM : SIM800C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SIM800C](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SIM800C)
 - Short Link: [http://oom.lt/SZKGSMSIM8C](http://oom.lt/SZKGSMSIM8C)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD909
 - Hex ID: SZKTRANSISTORBJTBD99
 - Name: Transistor_BJT : BD909
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD909/
 - Description: Transistor_BJT : BD909
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD909](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD909)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD99](http://oom.lt/SZKTRANSISTORBJTBD99)

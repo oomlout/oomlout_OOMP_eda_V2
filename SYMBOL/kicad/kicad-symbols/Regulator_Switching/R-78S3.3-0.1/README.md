@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-R-78S3.3-0.1
 - Hex ID: SZKREGULATORSWINGR78S331
 - Name: Regulator_Switching : R-78S3.3-0.1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/R-78S3.3-0.1/
 - Description: Regulator_Switching : R-78S3.3-0.1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-R-78S3.3-0.1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-R-78S3.3-0.1)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGR78S331](http://oom.lt/SZKREGULATORSWINGR78S331)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GPS-MAX-M8W
 - Hex ID: SZKGPSMAXM8W
 - Name: RF_GPS : MAX-M8W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GPS/MAX-M8W/
 - Description: RF_GPS : MAX-M8W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-MAX-M8W](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-MAX-M8W)
 - Short Link: [http://oom.lt/SZKGPSMAXM8W](http://oom.lt/SZKGPSMAXM8W)

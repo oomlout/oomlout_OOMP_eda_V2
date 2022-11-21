@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MA730
 - Hex ID: SZKSENMAGNETICMA73
 - Name: Sensor_Magnetic : MA730
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MA730/
 - Description: Sensor_Magnetic : MA730
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MA730](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MA730)
 - Short Link: [http://oom.lt/SZKSENMAGNETICMA73](http://oom.lt/SZKSENMAGNETICMA73)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54302
 - Hex ID: SZKREGULATORSWINGTPS5432
 - Name: Regulator_Switching : TPS54302
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS54302/
 - Description: Regulator_Switching : TPS54302
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54302](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54302)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS5432](http://oom.lt/SZKREGULATORSWINGTPS5432)

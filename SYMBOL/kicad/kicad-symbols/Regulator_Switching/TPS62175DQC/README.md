@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62175DQC
 - Hex ID: SZKREGULATORSWINGTPS62175DQC
 - Name: Regulator_Switching : TPS62175DQC
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS62175DQC/
 - Description: Regulator_Switching : TPS62175DQC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62175DQC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62175DQC)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS62175DQC](http://oom.lt/SZKREGULATORSWINGTPS62175DQC)

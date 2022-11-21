@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4542DY
 - Hex ID: SZKTRANSISTORFETSI4542DY
 - Name: Transistor_FET : Si4542DY
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si4542DY/
 - Description: Transistor_FET : Si4542DY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4542DY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4542DY)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSI4542DY](http://oom.lt/SZKTRANSISTORFETSI4542DY)

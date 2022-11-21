@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TEZ1.5-D-1
 - Hex ID: SZKTRTEZ15D1
 - Name: Transformer : TEZ1.5-D-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TEZ1.5-D-1/
 - Description: Transformer : TEZ1.5-D-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TEZ1.5-D-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TEZ1.5-D-1)
 - Short Link: [http://oom.lt/SZKTRTEZ15D1](http://oom.lt/SZKTRTEZ15D1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC144G
 - Hex ID: SZKTRANSISTORBJTDTC144G
 - Name: Transistor_BJT : DTC144G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTC144G/
 - Description: Transistor_BJT : DTC144G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC144G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC144G)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTC144G](http://oom.lt/SZKTRANSISTORBJTDTC144G)

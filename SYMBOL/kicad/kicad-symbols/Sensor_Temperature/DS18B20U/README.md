@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS18B20U
 - Hex ID: SZKSENTEMPERATUREDS18B2U
 - Name: Sensor_Temperature : DS18B20U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS18B20U/
 - Description: Sensor_Temperature : DS18B20U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS18B20U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS18B20U)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREDS18B2U](http://oom.lt/SZKSENTEMPERATUREDS18B2U)

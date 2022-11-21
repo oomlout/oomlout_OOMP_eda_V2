@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RSM822
 - Hex ID: SZKRELAYRSM822
 - Name: Relay : RSM822
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/RSM822/
 - Description: Relay : RSM822
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RSM822](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RSM822)
 - Short Link: [http://oom.lt/SZKRELAYRSM822](http://oom.lt/SZKRELAYRSM822)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-LAA110
 - Hex ID: SZKRELAYSOLIDSTATELAA11
 - Name: Relay_SolidState : LAA110
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/LAA110/
 - Description: Relay_SolidState : LAA110
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-LAA110](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-LAA110)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATELAA11](http://oom.lt/SZKRELAYSOLIDSTATELAA11)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-EE2-24TNUH
 - Hex ID: SZKRELAYEE224TNUH
 - Name: Relay : EE2-24TNUH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-24TNUH/
 - Description: Relay : EE2-24TNUH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-24TNUH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-24TNUH)
 - Short Link: [http://oom.lt/SZKRELAYEE224TNUH](http://oom.lt/SZKRELAYEE224TNUH)

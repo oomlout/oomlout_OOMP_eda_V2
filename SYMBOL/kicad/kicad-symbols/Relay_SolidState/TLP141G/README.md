@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP141G
 - Hex ID: SZKRELAYSOLIDSTATETLP141G
 - Name: Relay_SolidState : TLP141G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP141G/
 - Description: Relay_SolidState : TLP141G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP141G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP141G)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATETLP141G](http://oom.lt/SZKRELAYSOLIDSTATETLP141G)

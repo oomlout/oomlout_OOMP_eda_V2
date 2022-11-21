@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SB631
 - Hex ID: SZKTRANSISTORBJT2SB631
 - Name: Transistor_BJT : 2SB631
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SB631/
 - Description: Transistor_BJT : 2SB631
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SB631](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SB631)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2SB631](http://oom.lt/SZKTRANSISTORBJT2SB631)

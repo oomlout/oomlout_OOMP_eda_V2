@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KTY10
 - Hex ID: SZKSENTEMPERATUREKTY1
 - Name: Sensor_Temperature : KTY10
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/KTY10/
 - Description: Sensor_Temperature : KTY10
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KTY10](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KTY10)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREKTY1](http://oom.lt/SZKSENTEMPERATUREKTY1)

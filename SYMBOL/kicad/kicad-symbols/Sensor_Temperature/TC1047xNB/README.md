@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TC1047xNB
 - Hex ID: SZKSENTEMPERATURETC147XNB
 - Name: Sensor_Temperature : TC1047xNB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TC1047xNB/
 - Description: Sensor_Temperature : TC1047xNB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TC1047xNB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TC1047xNB)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETC147XNB](http://oom.lt/SZKSENTEMPERATURETC147XNB)

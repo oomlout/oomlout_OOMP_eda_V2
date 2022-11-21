@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-SE567
 - Hex ID: SZKTIMERSE567
 - Name: Timer : SE567
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/SE567/
 - Description: Timer : SE567
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SE567](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SE567)
 - Short Link: [http://oom.lt/SZKTIMERSE567](http://oom.lt/SZKTIMERSE567)

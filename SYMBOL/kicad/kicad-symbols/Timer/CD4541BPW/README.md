@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Timer-CD4541BPW
 - Hex ID: SZKTIMERCD4541BPW
 - Name: Timer : CD4541BPW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/CD4541BPW/
 - Description: Timer : CD4541BPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-CD4541BPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-CD4541BPW)
 - Short Link: [http://oom.lt/SZKTIMERCD4541BPW](http://oom.lt/SZKTIMERCD4541BPW)

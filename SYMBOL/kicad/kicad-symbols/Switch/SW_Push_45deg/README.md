@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Push_45deg
 - Hex ID: SZKSWSWPUSH45DEG
 - Name: Switch : SW_Push_45deg
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_45deg/
 - Description: Switch : SW_Push_45deg
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_45deg](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_45deg)
 - Short Link: [http://oom.lt/SZKSWSWPUSH45DEG](http://oom.lt/SZKSWSWPUSH45DEG)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-QRE1113
 - Hex ID: SZKSENPROXIMITYQRE1113
 - Name: Sensor_Proximity : QRE1113
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/QRE1113/
 - Description: Sensor_Proximity : QRE1113
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-QRE1113](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-QRE1113)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYQRE1113](http://oom.lt/SZKSENPROXIMITYQRE1113)

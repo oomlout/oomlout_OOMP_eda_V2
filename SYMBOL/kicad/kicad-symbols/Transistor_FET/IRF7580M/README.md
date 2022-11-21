@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7580M
 - Hex ID: SZKTRANSISTORFETIRF758M
 - Name: Transistor_FET : IRF7580M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF7580M/
 - Description: Transistor_FET : IRF7580M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7580M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7580M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF758M](http://oom.lt/SZKTRANSISTORFETIRF758M)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1103ELHL
 - Hex ID: SZKSENMAGNETICA113ELHL
 - Name: Sensor_Magnetic : A1103ELHL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/A1103ELHL/
 - Description: Sensor_Magnetic : A1103ELHL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1103ELHL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1103ELHL)
 - Short Link: [http://oom.lt/SZKSENMAGNETICA113ELHL](http://oom.lt/SZKSENMAGNETICA113ELHL)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC161
 - Hex ID: SZKTRANSISTORBJTBC161
 - Name: Transistor_BJT : BC161
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC161/
 - Description: Transistor_BJT : BC161
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC161](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC161)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC161](http://oom.lt/SZKTRANSISTORBJTBC161)

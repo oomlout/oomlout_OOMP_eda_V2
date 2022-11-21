@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7010
 - Hex ID: SZKSWSWCODEDSH71
 - Name: Switch : SW_Coded_SH-7010
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Coded_SH-7010/
 - Description: Switch : SW_Coded_SH-7010
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7010](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7010)
 - Short Link: [http://oom.lt/SZKSWSWCODEDSH71](http://oom.lt/SZKSWSWCODEDSH71)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6893M
 - Hex ID: SZKTRANSISTORFETIRF6893M
 - Name: Transistor_FET : IRF6893M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6893M/
 - Description: Transistor_FET : IRF6893M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6893M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6893M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6893M](http://oom.lt/SZKTRANSISTORFETIRF6893M)

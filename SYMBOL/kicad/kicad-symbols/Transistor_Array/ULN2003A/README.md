@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2003A
 - Hex ID: SZKTRANSISTORARRAYULN23A
 - Name: Transistor_Array : ULN2003A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Array/ULN2003A/
 - Description: Transistor_Array : ULN2003A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2003A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2003A)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYULN23A](http://oom.lt/SZKTRANSISTORARRAYULN23A)

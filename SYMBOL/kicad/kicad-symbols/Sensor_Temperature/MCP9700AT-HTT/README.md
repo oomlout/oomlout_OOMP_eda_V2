@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9700AT-HTT
 - Hex ID: SZKSENTEMPERATUREMCP97ATHTT
 - Name: Sensor_Temperature : MCP9700AT-HTT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9700AT-HTT/
 - Description: Sensor_Temperature : MCP9700AT-HTT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9700AT-HTT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9700AT-HTT)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMCP97ATHTT](http://oom.lt/SZKSENTEMPERATUREMCP97ATHTT)

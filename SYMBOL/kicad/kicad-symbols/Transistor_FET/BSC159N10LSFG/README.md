@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC159N10LSFG
 - Hex ID: SZKTRANSISTORFETBSC159N1LSFG
 - Name: Transistor_FET : BSC159N10LSFG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC159N10LSFG/
 - Description: Transistor_FET : BSC159N10LSFG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC159N10LSFG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC159N10LSFG)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC159N1LSFG](http://oom.lt/SZKTRANSISTORFETBSC159N1LSFG)

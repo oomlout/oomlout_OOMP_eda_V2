@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-IR25750L
 - Hex ID: SZKSENCURRENTIR2575L
 - Name: Sensor_Current : IR25750L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/IR25750L/
 - Description: Sensor_Current : IR25750L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-IR25750L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-IR25750L)
 - Short Link: [http://oom.lt/SZKSENCURRENTIR2575L](http://oom.lt/SZKSENCURRENTIR2575L)

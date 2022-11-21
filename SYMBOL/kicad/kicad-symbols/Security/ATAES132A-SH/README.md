@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Security-ATAES132A-SH
 - Hex ID: SZKSECURITYATAES132ASH
 - Name: Security : ATAES132A-SH
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Security/ATAES132A-SH/
 - Description: Security : ATAES132A-SH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Security-ATAES132A-SH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Security-ATAES132A-SH)
 - Short Link: [http://oom.lt/SZKSECURITYATAES132ASH](http://oom.lt/SZKSECURITYATAES132ASH)

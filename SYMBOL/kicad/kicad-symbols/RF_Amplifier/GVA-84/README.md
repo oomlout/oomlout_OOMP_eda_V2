@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-84
 - Hex ID: SZKRFAMPLIFIERGVA84
 - Name: RF_Amplifier : GVA-84
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/GVA-84/
 - Description: RF_Amplifier : GVA-84
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-84](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-84)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERGVA84](http://oom.lt/SZKRFAMPLIFIERGVA84)

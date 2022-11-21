@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS10K60A
 - Hex ID: SZKTRANSISTORPOWERMOSTGIPS1K6A
 - Name: Transistor_Power_Module : STGIPS10K60A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/STGIPS10K60A/
 - Description: Transistor_Power_Module : STGIPS10K60A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS10K60A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS10K60A)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOSTGIPS1K6A](http://oom.lt/SZKTRANSISTORPOWERMOSTGIPS1K6A)

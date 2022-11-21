@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-SPF5189Z
 - Hex ID: SZKRFAMPLIFIERSPF5189Z
 - Name: RF_Amplifier : SPF5189Z
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/SPF5189Z/
 - Description: RF_Amplifier : SPF5189Z
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-SPF5189Z](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-SPF5189Z)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERSPF5189Z](http://oom.lt/SZKRFAMPLIFIERSPF5189Z)

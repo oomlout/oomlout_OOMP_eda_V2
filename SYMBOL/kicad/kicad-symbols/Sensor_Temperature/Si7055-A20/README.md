@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-Si7055-A20
 - Hex ID: SZKSENTEMPERATURESI755A2
 - Name: Sensor_Temperature : Si7055-A20
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/Si7055-A20/
 - Description: Sensor_Temperature : Si7055-A20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-Si7055-A20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-Si7055-A20)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURESI755A2](http://oom.lt/SZKSENTEMPERATURESI755A2)

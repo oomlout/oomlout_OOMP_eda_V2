@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-AU915
 - Hex ID: SZKRFMORAK811HFAU915
 - Name: RF_Module : RAK811-HF-AU915
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/RAK811-HF-AU915/
 - Description: RF_Module : RAK811-HF-AU915
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-AU915](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-AU915)
 - Short Link: [http://oom.lt/SZKRFMORAK811HFAU915](http://oom.lt/SZKRFMORAK811HFAU915)

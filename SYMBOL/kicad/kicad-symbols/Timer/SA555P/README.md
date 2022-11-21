@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-SA555P
 - Hex ID: SZKTIMERSA555P
 - Name: Timer : SA555P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/SA555P/
 - Description: Timer : SA555P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SA555P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SA555P)
 - Short Link: [http://oom.lt/SZKTIMERSA555P](http://oom.lt/SZKTIMERSA555P)

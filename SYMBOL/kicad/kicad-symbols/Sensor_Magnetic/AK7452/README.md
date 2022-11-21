@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AK7452
 - Hex ID: SZKSENMAGNETICAK7452
 - Name: Sensor_Magnetic : AK7452
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AK7452/
 - Description: Sensor_Magnetic : AK7452
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AK7452](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AK7452)
 - Short Link: [http://oom.lt/SZKSENMAGNETICAK7452](http://oom.lt/SZKSENMAGNETICAK7452)

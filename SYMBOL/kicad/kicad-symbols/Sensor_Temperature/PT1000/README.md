@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-PT1000
 - Hex ID: SZKSENTEMPERATUREPT1
 - Name: Sensor_Temperature : PT1000
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/PT1000/
 - Description: Sensor_Temperature : PT1000
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-PT1000](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-PT1000)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREPT1](http://oom.lt/SZKSENTEMPERATUREPT1)

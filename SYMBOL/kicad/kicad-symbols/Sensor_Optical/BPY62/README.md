@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPY62
 - Hex ID: SZKSENOPTICALBPY62
 - Name: Sensor_Optical : BPY62
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPY62/
 - Description: Sensor_Optical : BPY62
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPY62](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPY62)
 - Short Link: [http://oom.lt/SZKSENOPTICALBPY62](http://oom.lt/SZKSENOPTICALBPY62)

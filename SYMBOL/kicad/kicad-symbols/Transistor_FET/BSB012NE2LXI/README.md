@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB012NE2LXI
 - Hex ID: SZKTRANSISTORFETBSB12NE2LXI
 - Name: Transistor_FET : BSB012NE2LXI
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSB012NE2LXI/
 - Description: Transistor_FET : BSB012NE2LXI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB012NE2LXI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB012NE2LXI)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSB12NE2LXI](http://oom.lt/SZKTRANSISTORFETBSB12NE2LXI)

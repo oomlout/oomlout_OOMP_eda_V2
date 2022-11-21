@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IPD50R3K0CE
 - Hex ID: SZKTRANSISTORFETIPD5R3KCE
 - Name: Transistor_FET : IPD50R3K0CE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPD50R3K0CE/
 - Description: Transistor_FET : IPD50R3K0CE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPD50R3K0CE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPD50R3K0CE)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIPD5R3KCE](http://oom.lt/SZKTRANSISTORFETIPD5R3KCE)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-2N7000
 - Hex ID: SZKTRANSISTORFET2N7
 - Name: Transistor_FET : 2N7000
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/2N7000/
 - Description: Transistor_FET : 2N7000
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-2N7000](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-2N7000)
 - Short Link: [http://oom.lt/SZKTRANSISTORFET2N7](http://oom.lt/SZKTRANSISTORFET2N7)

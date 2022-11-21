@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BDW94B
 - Hex ID: SZKTRANSISTORBJTBDW94B
 - Name: Transistor_BJT : BDW94B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BDW94B/
 - Description: Transistor_BJT : BDW94B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BDW94B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BDW94B)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBDW94B](http://oom.lt/SZKTRANSISTORBJTBDW94B)

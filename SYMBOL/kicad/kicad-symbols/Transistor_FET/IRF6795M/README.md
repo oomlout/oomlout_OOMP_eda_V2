@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6795M
 - Hex ID: SZKTRANSISTORFETIRF6795M
 - Name: Transistor_FET : IRF6795M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6795M/
 - Description: Transistor_FET : IRF6795M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6795M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6795M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6795M](http://oom.lt/SZKTRANSISTORFETIRF6795M)

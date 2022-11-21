@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-CPC1117N
 - Hex ID: SZKRFCPC1117N
 - Name: RF : CPC1117N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/CPC1117N/
 - Description: RF : CPC1117N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-CPC1117N](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-CPC1117N)
 - Short Link: [http://oom.lt/SZKRFCPC1117N](http://oom.lt/SZKRFCPC1117N)

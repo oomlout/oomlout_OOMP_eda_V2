@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TEZ2.6-D-1
 - Hex ID: SZKTRTEZ26D1
 - Name: Transformer : TEZ2.6-D-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TEZ2.6-D-1/
 - Description: Transformer : TEZ2.6-D-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TEZ2.6-D-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TEZ2.6-D-1)
 - Short Link: [http://oom.lt/SZKTRTEZ26D1](http://oom.lt/SZKTRTEZ26D1)

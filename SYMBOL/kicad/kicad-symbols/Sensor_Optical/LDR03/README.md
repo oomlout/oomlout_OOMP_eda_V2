@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-LDR03
 - Hex ID: SZKSENOPTICALLDR3
 - Name: Sensor_Optical : LDR03
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/LDR03/
 - Description: Sensor_Optical : LDR03
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-LDR03](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-LDR03)
 - Short Link: [http://oom.lt/SZKSENOPTICALLDR3](http://oom.lt/SZKSENOPTICALLDR3)

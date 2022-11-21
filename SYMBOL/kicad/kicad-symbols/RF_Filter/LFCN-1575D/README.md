@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-1575D
 - Hex ID: SZKRFFILLFCN1575D
 - Name: RF_Filter : LFCN-1575D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-1575D/
 - Description: RF_Filter : LFCN-1575D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-1575D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-1575D)
 - Short Link: [http://oom.lt/SZKRFFILLFCN1575D](http://oom.lt/SZKRFFILLFCN1575D)

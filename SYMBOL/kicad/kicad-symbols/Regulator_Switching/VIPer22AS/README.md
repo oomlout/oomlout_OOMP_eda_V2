@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer22AS
 - Hex ID: SZKREGULATORSWINGVIPER22AS
 - Name: Regulator_Switching : VIPer22AS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/VIPer22AS/
 - Description: Regulator_Switching : VIPer22AS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer22AS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer22AS)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGVIPER22AS](http://oom.lt/SZKREGULATORSWINGVIPER22AS)

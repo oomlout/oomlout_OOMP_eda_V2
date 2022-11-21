@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-SSM2220
 - Hex ID: SZKTRANSISTORBJTSSM222
 - Name: Transistor_BJT : SSM2220
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/SSM2220/
 - Description: Transistor_BJT : SSM2220
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-SSM2220](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-SSM2220)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTSSM222](http://oom.lt/SZKTRANSISTORBJTSSM222)

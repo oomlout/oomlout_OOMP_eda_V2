@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPX65
 - Hex ID: SZKSENOPTICALBPX65
 - Name: Sensor_Optical : BPX65
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPX65/
 - Description: Sensor_Optical : BPX65
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPX65](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPX65)
 - Short Link: [http://oom.lt/SZKSENOPTICALBPX65](http://oom.lt/SZKSENOPTICALBPX65)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-Fujitsu_FTR-F1C
 - Hex ID: SZKRELAYFUJITSUFTRF1C
 - Name: Relay : Fujitsu_FTR-F1C
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/Fujitsu_FTR-F1C/
 - Description: Relay : Fujitsu_FTR-F1C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-Fujitsu_FTR-F1C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-Fujitsu_FTR-F1C)
 - Short Link: [http://oom.lt/SZKRELAYFUJITSUFTRF1C](http://oom.lt/SZKRELAYFUJITSUFTRF1C)

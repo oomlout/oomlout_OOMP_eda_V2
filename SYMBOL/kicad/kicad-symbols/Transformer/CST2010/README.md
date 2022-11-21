@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-CST2010
 - Hex ID: SZKTRCST21
 - Name: Transformer : CST2010
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/CST2010/
 - Description: Transformer : CST2010
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-CST2010](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-CST2010)
 - Short Link: [http://oom.lt/SZKTRCST21](http://oom.lt/SZKTRCST21)

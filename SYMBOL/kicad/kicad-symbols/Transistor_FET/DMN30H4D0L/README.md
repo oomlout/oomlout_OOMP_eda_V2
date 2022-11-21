@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN30H4D0L
 - Hex ID: SZKTRANSISTORFETDMN3H4DL
 - Name: Transistor_FET : DMN30H4D0L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN30H4D0L/
 - Description: Transistor_FET : DMN30H4D0L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN30H4D0L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN30H4D0L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN3H4DL](http://oom.lt/SZKTRANSISTORFETDMN3H4DL)

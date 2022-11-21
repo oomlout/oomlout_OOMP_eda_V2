@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-ESP32-WROOM-32
 - Hex ID: SZKRFMOESP32WROOM32
 - Name: RF_Module : ESP32-WROOM-32
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/ESP32-WROOM-32/
 - Description: RF_Module : ESP32-WROOM-32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-ESP32-WROOM-32](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-ESP32-WROOM-32)
 - Short Link: [http://oom.lt/SZKRFMOESP32WROOM32](http://oom.lt/SZKRFMOESP32WROOM32)

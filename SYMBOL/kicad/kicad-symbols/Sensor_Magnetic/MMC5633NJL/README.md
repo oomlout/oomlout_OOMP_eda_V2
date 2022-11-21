@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MMC5633NJL
 - Hex ID: SZKSENMAGNETICC5633NJL
 - Name: Sensor_Magnetic : MMC5633NJL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MMC5633NJL/
 - Description: Sensor_Magnetic : MMC5633NJL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MMC5633NJL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MMC5633NJL)
 - Short Link: [http://oom.lt/SZKSENMAGNETICC5633NJL](http://oom.lt/SZKSENMAGNETICC5633NJL)

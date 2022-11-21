@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-DS3232M
 - Hex ID: SZKTIMERRTCDS3232M
 - Name: Timer_RTC : DS3232M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/DS3232M/
 - Description: Timer_RTC : DS3232M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS3232M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS3232M)
 - Short Link: [http://oom.lt/SZKTIMERRTCDS3232M](http://oom.lt/SZKTIMERRTCDS3232M)

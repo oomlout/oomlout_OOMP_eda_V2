@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MC33063AD
 - Hex ID: SZKREGULATORSWINGMC3363AD
 - Name: Regulator_Switching : MC33063AD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MC33063AD/
 - Description: Regulator_Switching : MC33063AD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MC33063AD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MC33063AD)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMC3363AD](http://oom.lt/SZKREGULATORSWINGMC3363AD)

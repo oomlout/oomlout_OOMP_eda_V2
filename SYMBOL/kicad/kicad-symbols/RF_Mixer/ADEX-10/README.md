@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Mixer-ADEX-10
 - Hex ID: SZKRFMIXERADEX1
 - Name: RF_Mixer : ADEX-10
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Mixer/ADEX-10/
 - Description: RF_Mixer : ADEX-10
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Mixer-ADEX-10](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Mixer-ADEX-10)
 - Short Link: [http://oom.lt/SZKRFMIXERADEX1](http://oom.lt/SZKRFMIXERADEX1)

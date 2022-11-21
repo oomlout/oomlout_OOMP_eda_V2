@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-A2C50S65M2-F
 - Hex ID: SZKTRANSISTORPOWERMOA2C5S65M2F
 - Name: Transistor_Power_Module : A2C50S65M2-F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/A2C50S65M2-F/
 - Description: Transistor_Power_Module : A2C50S65M2-F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-A2C50S65M2-F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-A2C50S65M2-F)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOA2C5S65M2F](http://oom.lt/SZKTRANSISTORPOWERMOA2C5S65M2F)

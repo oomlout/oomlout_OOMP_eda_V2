@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-8284
 - Hex ID: SZKTIMER8284
 - Name: Timer : 8284
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/8284/
 - Description: Timer : 8284
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-8284](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-8284)
 - Short Link: [http://oom.lt/SZKTIMER8284](http://oom.lt/SZKTIMER8284)

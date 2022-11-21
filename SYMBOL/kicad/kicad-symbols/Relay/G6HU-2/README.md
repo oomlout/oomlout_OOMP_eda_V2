@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-G6HU-2
 - Hex ID: SZKRELAYG6HU2
 - Name: Relay : G6HU-2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/G6HU-2/
 - Description: Relay : G6HU-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G6HU-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G6HU-2)
 - Short Link: [http://oom.lt/SZKRELAYG6HU2](http://oom.lt/SZKRELAYG6HU2)

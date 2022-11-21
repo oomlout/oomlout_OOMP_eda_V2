@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-AD9984AKST
 - Hex ID: SZKVIDEOAD9984AKST
 - Name: Video : AD9984AKST
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/AD9984AKST/
 - Description: Video : AD9984AKST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-AD9984AKST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-AD9984AKST)
 - Short Link: [http://oom.lt/SZKVIDEOAD9984AKST](http://oom.lt/SZKVIDEOAD9984AKST)

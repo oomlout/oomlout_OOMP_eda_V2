@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMBTA42
 - Hex ID: SZKTRANSISTORBJTBTA42
 - Name: Transistor_BJT : MMBTA42
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMBTA42/
 - Description: Transistor_BJT : MMBTA42
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMBTA42](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMBTA42)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBTA42](http://oom.lt/SZKTRANSISTORBJTBTA42)

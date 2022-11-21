@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-KPS-5130
 - Hex ID: SZKSENOPTICALKPS513
 - Name: Sensor_Optical : KPS-5130
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/KPS-5130/
 - Description: Sensor_Optical : KPS-5130
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-KPS-5130](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-KPS-5130)
 - Short Link: [http://oom.lt/SZKSENOPTICALKPS513](http://oom.lt/SZKSENOPTICALKPS513)

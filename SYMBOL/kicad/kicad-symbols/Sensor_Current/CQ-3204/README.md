@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-3204
 - Hex ID: SZKSENCURRENTCQ324
 - Name: Sensor_Current : CQ-3204
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-3204/
 - Description: Sensor_Current : CQ-3204
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-3204](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-3204)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ324](http://oom.lt/SZKSENCURRENTCQ324)

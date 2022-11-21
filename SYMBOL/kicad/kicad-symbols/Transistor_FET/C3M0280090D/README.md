@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0280090D
 - Hex ID: SZKTRANSISTORFETC3M289D
 - Name: Transistor_FET : C3M0280090D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/C3M0280090D/
 - Description: Transistor_FET : C3M0280090D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0280090D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0280090D)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETC3M289D](http://oom.lt/SZKTRANSISTORFETC3M289D)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM17
 - Hex ID: SZKRELAYIM17
 - Name: Relay : IM17
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM17/
 - Description: Relay : IM17
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM17](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM17)
 - Short Link: [http://oom.lt/SZKRELAYIM17](http://oom.lt/SZKRELAYIM17)

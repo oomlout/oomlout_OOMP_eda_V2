@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GPS-NEO-M8M
 - Hex ID: SZKGPSNEOM8M
 - Name: RF_GPS : NEO-M8M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GPS/NEO-M8M/
 - Description: RF_GPS : NEO-M8M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-NEO-M8M](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-NEO-M8M)
 - Short Link: [http://oom.lt/SZKGPSNEOM8M](http://oom.lt/SZKGPSNEOM8M)

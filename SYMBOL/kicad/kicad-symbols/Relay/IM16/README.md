@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM16
 - Hex ID: SZKRELAYIM16
 - Name: Relay : IM16
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM16/
 - Description: Relay : IM16
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM16](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM16)
 - Short Link: [http://oom.lt/SZKRELAYIM16](http://oom.lt/SZKRELAYIM16)

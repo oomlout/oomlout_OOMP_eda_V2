@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC2290
 - Hex ID: SZKREGULATORSWINGMIC229
 - Name: Regulator_Switching : MIC2290
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MIC2290/
 - Description: Regulator_Switching : MIC2290
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC2290](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC2290)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMIC229](http://oom.lt/SZKREGULATORSWINGMIC229)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-440
 - Hex ID: SZKRFFILHFCN44
 - Name: RF_Filter : HFCN-440
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-440/
 - Description: RF_Filter : HFCN-440
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-440](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-440)
 - Short Link: [http://oom.lt/SZKRFFILHFCN44](http://oom.lt/SZKRFFILHFCN44)

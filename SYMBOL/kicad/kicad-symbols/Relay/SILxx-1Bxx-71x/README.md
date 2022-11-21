@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-SILxx-1Bxx-71x
 - Hex ID: SZKRELAYSILXX1BXX71X
 - Name: Relay : SILxx-1Bxx-71x
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/SILxx-1Bxx-71x/
 - Description: Relay : SILxx-1Bxx-71x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-SILxx-1Bxx-71x](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-SILxx-1Bxx-71x)
 - Short Link: [http://oom.lt/SZKRELAYSILXX1BXX71X](http://oom.lt/SZKRELAYSILXX1BXX71X)

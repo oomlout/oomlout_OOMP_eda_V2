@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-MOC3163M
 - Hex ID: SZKRFMOC3163M
 - Name: RF : MOC3163M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/MOC3163M/
 - Description: RF : MOC3163M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3163M](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3163M)
 - Short Link: [http://oom.lt/SZKRFMOC3163M](http://oom.lt/SZKRFMOC3163M)

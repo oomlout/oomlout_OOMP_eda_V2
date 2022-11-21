@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADTT3-2
 - Hex ID: SZKTRADTT32
 - Name: Transformer : ADTT3-2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADTT3-2/
 - Description: Transformer : ADTT3-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTT3-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTT3-2)
 - Short Link: [http://oom.lt/SZKTRADTT32](http://oom.lt/SZKTRADTT32)

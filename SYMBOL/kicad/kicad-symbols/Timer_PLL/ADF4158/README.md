@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_PLL-ADF4158
 - Hex ID: SZKTIMERPLLADF4158
 - Name: Timer_PLL : ADF4158
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/ADF4158/
 - Description: Timer_PLL : ADF4158
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-ADF4158](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-ADF4158)
 - Short Link: [http://oom.lt/SZKTIMERPLLADF4158](http://oom.lt/SZKTIMERPLLADF4158)

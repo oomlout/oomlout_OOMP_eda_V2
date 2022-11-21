@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF540N
 - Hex ID: SZKTRANSISTORFETIRF54N
 - Name: Transistor_FET : IRF540N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF540N/
 - Description: Transistor_FET : IRF540N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF540N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF540N)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF54N](http://oom.lt/SZKTRANSISTORFETIRF54N)

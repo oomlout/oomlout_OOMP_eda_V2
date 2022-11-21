@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-TEPT4400
 - Hex ID: SZKSENOPTICALTEPT44
 - Name: Sensor_Optical : TEPT4400
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/TEPT4400/
 - Description: Sensor_Optical : TEPT4400
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-TEPT4400](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-TEPT4400)
 - Short Link: [http://oom.lt/SZKSENOPTICALTEPT44](http://oom.lt/SZKSENOPTICALTEPT44)

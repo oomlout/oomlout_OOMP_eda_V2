@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31855NASA
 - Hex ID: SZKSENTEMPERATUREMAX31855NASA
 - Name: Sensor_Temperature : MAX31855NASA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31855NASA/
 - Description: Sensor_Temperature : MAX31855NASA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31855NASA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31855NASA)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMAX31855NASA](http://oom.lt/SZKSENTEMPERATUREMAX31855NASA)

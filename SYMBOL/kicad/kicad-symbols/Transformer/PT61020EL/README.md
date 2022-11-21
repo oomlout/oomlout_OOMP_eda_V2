@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PT61020EL
 - Hex ID: SZKTRPT612EL
 - Name: Transformer : PT61020EL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PT61020EL/
 - Description: Transformer : PT61020EL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PT61020EL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PT61020EL)
 - Short Link: [http://oom.lt/SZKTRPT612EL](http://oom.lt/SZKTRPT612EL)

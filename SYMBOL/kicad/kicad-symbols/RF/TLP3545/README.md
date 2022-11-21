@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-TLP3545
 - Hex ID: SZKRFTLP3545
 - Name: RF : TLP3545
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/TLP3545/
 - Description: RF : TLP3545
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP3545](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP3545)
 - Short Link: [http://oom.lt/SZKRFTLP3545](http://oom.lt/SZKRFTLP3545)

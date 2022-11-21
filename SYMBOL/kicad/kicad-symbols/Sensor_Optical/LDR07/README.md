@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-LDR07
 - Hex ID: SZKSENOPTICALLDR7
 - Name: Sensor_Optical : LDR07
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/LDR07/
 - Description: Sensor_Optical : LDR07
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-LDR07](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-LDR07)
 - Short Link: [http://oom.lt/SZKSENOPTICALLDR7](http://oom.lt/SZKSENOPTICALLDR7)

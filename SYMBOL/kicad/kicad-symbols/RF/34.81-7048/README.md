@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-34.81-7048
 - Hex ID: SZKRF3481748
 - Name: RF : 34.81-7048
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/34.81-7048/
 - Description: RF : 34.81-7048
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-34.81-7048](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-34.81-7048)
 - Short Link: [http://oom.lt/SZKRF3481748](http://oom.lt/SZKRF3481748)

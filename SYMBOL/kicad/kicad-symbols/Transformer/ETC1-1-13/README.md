@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ETC1-1-13
 - Hex ID: SZKTRETC1113
 - Name: Transformer : ETC1-1-13
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ETC1-1-13/
 - Description: Transformer : ETC1-1-13
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ETC1-1-13](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ETC1-1-13)
 - Short Link: [http://oom.lt/SZKTRETC1113](http://oom.lt/SZKTRETC1113)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN2B01F
 - Hex ID: SZKTRANSISTORFETZXMN2B1F
 - Name: Transistor_FET : ZXMN2B01F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/ZXMN2B01F/
 - Description: Transistor_FET : ZXMN2B01F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN2B01F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN2B01F)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZXMN2B1F](http://oom.lt/SZKTRANSISTORFETZXMN2B1F)

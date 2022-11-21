@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP148G
 - Hex ID: SZKRELAYSOLIDSTATETLP148G
 - Name: Relay_SolidState : TLP148G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP148G/
 - Description: Relay_SolidState : TLP148G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP148G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP148G)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATETLP148G](http://oom.lt/SZKRELAYSOLIDSTATETLP148G)

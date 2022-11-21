@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MPXHZ6115A
 - Hex ID: SZKSENPRESSUREMPXHZ6115A
 - Name: Sensor_Pressure : MPXHZ6115A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MPXHZ6115A/
 - Description: Sensor_Pressure : MPXHZ6115A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MPXHZ6115A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MPXHZ6115A)
 - Short Link: [http://oom.lt/SZKSENPRESSUREMPXHZ6115A](http://oom.lt/SZKSENPRESSUREMPXHZ6115A)

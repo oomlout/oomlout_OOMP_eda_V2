@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM45
 - Hex ID: SZKRELAYIM45
 - Name: Relay : IM45
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM45/
 - Description: Relay : IM45
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM45](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM45)
 - Short Link: [http://oom.lt/SZKRELAYIM45](http://oom.lt/SZKRELAYIM45)

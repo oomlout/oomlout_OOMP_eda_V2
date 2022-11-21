@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-A1050
 - Hex ID: SZKSENOPTICALA15
 - Name: Sensor_Optical : A1050
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/A1050/
 - Description: Sensor_Optical : A1050
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-A1050](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-A1050)
 - Short Link: [http://oom.lt/SZKSENOPTICALA15](http://oom.lt/SZKSENOPTICALA15)

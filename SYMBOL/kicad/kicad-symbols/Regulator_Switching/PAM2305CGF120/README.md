@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305CGF120
 - Hex ID: SZKREGULATORSWINGPAM235CGF12
 - Name: Regulator_Switching : PAM2305CGF120
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2305CGF120/
 - Description: Regulator_Switching : PAM2305CGF120
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305CGF120](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305CGF120)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGPAM235CGF12](http://oom.lt/SZKREGULATORSWINGPAM235CGF12)

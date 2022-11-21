@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033AJxDBZ
 - Hex ID: SZKSENMAGNETICDRV533AJXDBZ
 - Name: Sensor_Magnetic : DRV5033AJxDBZ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5033AJxDBZ/
 - Description: Sensor_Magnetic : DRV5033AJxDBZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033AJxDBZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033AJxDBZ)
 - Short Link: [http://oom.lt/SZKSENMAGNETICDRV533AJXDBZ](http://oom.lt/SZKSENMAGNETICDRV533AJXDBZ)

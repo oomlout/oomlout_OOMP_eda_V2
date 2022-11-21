@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP271EG
 - Hex ID: SZKREGULATORSWINGTOP271EG
 - Name: Regulator_Switching : TOP271EG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TOP271EG/
 - Description: Regulator_Switching : TOP271EG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP271EG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP271EG)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTOP271EG](http://oom.lt/SZKREGULATORSWINGTOP271EG)

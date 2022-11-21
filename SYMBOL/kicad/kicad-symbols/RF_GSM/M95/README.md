@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GSM-M95
 - Hex ID: SZKGSMM95
 - Name: RF_GSM : M95
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GSM/M95/
 - Description: RF_GSM : M95
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-M95](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-M95)
 - Short Link: [http://oom.lt/SZKGSMM95](http://oom.lt/SZKGSMM95)

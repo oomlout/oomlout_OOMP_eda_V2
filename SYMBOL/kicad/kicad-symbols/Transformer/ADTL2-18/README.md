@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADTL2-18
 - Hex ID: SZKTRADTL218
 - Name: Transformer : ADTL2-18
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADTL2-18/
 - Description: Transformer : ADTL2-18
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTL2-18](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTL2-18)
 - Short Link: [http://oom.lt/SZKTRADTL218](http://oom.lt/SZKTRADTL218)

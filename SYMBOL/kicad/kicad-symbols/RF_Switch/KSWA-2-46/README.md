@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-KSWA-2-46
 - Hex ID: SZKRFSWKSWA246
 - Name: RF_Switch : KSWA-2-46
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Switch/KSWA-2-46/
 - Description: RF_Switch : KSWA-2-46
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-KSWA-2-46](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-KSWA-2-46)
 - Short Link: [http://oom.lt/SZKRFSWKSWA246](http://oom.lt/SZKRFSWKSWA246)

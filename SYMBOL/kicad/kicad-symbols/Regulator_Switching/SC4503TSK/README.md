@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-SC4503TSK
 - Hex ID: SZKREGULATORSWINGSC453TSK
 - Name: Regulator_Switching : SC4503TSK
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/SC4503TSK/
 - Description: Regulator_Switching : SC4503TSK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-SC4503TSK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-SC4503TSK)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGSC453TSK](http://oom.lt/SZKREGULATORSWINGSC453TSK)

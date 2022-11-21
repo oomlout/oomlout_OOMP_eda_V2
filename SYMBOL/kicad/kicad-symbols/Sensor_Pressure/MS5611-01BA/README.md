@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MS5611-01BA
 - Hex ID: SZKSENPRESSUREMS56111BA
 - Name: Sensor_Pressure : MS5611-01BA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MS5611-01BA/
 - Description: Sensor_Pressure : MS5611-01BA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MS5611-01BA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MS5611-01BA)
 - Short Link: [http://oom.lt/SZKSENPRESSUREMS56111BA](http://oom.lt/SZKSENPRESSUREMS56111BA)

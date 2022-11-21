@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD433
 - Hex ID: SZKTRANSISTORBJTBD433
 - Name: Transistor_BJT : BD433
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD433/
 - Description: Transistor_BJT : BD433
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD433](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD433)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD433](http://oom.lt/SZKTRANSISTORBJTBD433)

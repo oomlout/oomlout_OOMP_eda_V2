@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH300
 - Hex ID: SZKSENOPTICALSFH3
 - Name: Sensor_Optical : SFH300
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH300/
 - Description: Sensor_Optical : SFH300
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH300](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH300)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH3](http://oom.lt/SZKSENOPTICALSFH3)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-G6EU
 - Hex ID: SZKRELAYG6EU
 - Name: Relay : G6EU
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/G6EU/
 - Description: Relay : G6EU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G6EU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G6EU)
 - Short Link: [http://oom.lt/SZKRELAYG6EU](http://oom.lt/SZKRELAYG6EU)

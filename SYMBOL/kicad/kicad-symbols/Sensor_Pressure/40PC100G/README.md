@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Pressure-40PC100G
 - Hex ID: SZKSENPRESSURE4PC1G
 - Name: Sensor_Pressure : 40PC100G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/40PC100G/
 - Description: Sensor_Pressure : 40PC100G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-40PC100G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-40PC100G)
 - Short Link: [http://oom.lt/SZKSENPRESSURE4PC1G](http://oom.lt/SZKSENPRESSURE4PC1G)

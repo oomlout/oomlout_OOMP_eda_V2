@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG1012T
 - Hex ID: SZKTRANSISTORFETDMG112T
 - Name: Transistor_FET : DMG1012T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG1012T/
 - Description: Transistor_FET : DMG1012T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG1012T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG1012T)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMG112T](http://oom.lt/SZKTRANSISTORFETDMG112T)

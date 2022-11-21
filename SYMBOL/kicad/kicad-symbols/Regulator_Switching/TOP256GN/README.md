@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP256GN
 - Hex ID: SZKREGULATORSWINGTOP256GN
 - Name: Regulator_Switching : TOP256GN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TOP256GN/
 - Description: Regulator_Switching : TOP256GN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP256GN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP256GN)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTOP256GN](http://oom.lt/SZKREGULATORSWINGTOP256GN)

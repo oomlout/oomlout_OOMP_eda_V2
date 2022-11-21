@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VEXP
 - Hex ID: SZKSIMULATIONSPICEVEXP
 - Name: Simulation_SPICE : VEXP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VEXP/
 - Description: Simulation_SPICE : VEXP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VEXP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VEXP)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVEXP](http://oom.lt/SZKSIMULATIONSPICEVEXP)

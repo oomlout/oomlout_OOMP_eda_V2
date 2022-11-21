@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Humidity-HDC2080
 - Hex ID: SZKSENHUMIDITYHDC28
 - Name: Sensor_Humidity : HDC2080
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/HDC2080/
 - Description: Sensor_Humidity : HDC2080
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-HDC2080](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-HDC2080)
 - Short Link: [http://oom.lt/SZKSENHUMIDITYHDC28](http://oom.lt/SZKSENHUMIDITYHDC28)

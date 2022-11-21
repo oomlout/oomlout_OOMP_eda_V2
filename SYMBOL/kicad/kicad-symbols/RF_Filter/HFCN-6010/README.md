@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-6010
 - Hex ID: SZKRFFILHFCN61
 - Name: RF_Filter : HFCN-6010
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-6010/
 - Description: RF_Filter : HFCN-6010
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-6010](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-6010)
 - Short Link: [http://oom.lt/SZKRFFILHFCN61](http://oom.lt/SZKRFFILHFCN61)

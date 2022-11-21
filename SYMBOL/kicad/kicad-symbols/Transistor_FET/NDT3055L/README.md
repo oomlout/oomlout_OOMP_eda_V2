@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-NDT3055L
 - Hex ID: SZKTRANSISTORFETNDT355L
 - Name: Transistor_FET : NDT3055L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/NDT3055L/
 - Description: Transistor_FET : NDT3055L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-NDT3055L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-NDT3055L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETNDT355L](http://oom.lt/SZKTRANSISTORFETNDT355L)

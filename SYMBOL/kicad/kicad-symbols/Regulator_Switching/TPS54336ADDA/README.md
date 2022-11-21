@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54336ADDA
 - Hex ID: SZKREGULATORSWINGTPS54336ADDA
 - Name: Regulator_Switching : TPS54336ADDA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS54336ADDA/
 - Description: Regulator_Switching : TPS54336ADDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54336ADDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54336ADDA)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS54336ADDA](http://oom.lt/SZKREGULATORSWINGTPS54336ADDA)

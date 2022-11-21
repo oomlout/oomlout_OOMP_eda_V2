@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PA2008NL
 - Hex ID: SZKTRPA28NL
 - Name: Transformer : PA2008NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PA2008NL/
 - Description: Transformer : PA2008NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA2008NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA2008NL)
 - Short Link: [http://oom.lt/SZKTRPA28NL](http://oom.lt/SZKTRPA28NL)

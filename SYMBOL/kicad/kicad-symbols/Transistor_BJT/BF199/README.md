@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BF199
 - Hex ID: SZKTRANSISTORBJTBF199
 - Name: Transistor_BJT : BF199
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BF199/
 - Description: Transistor_BJT : BF199
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BF199](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BF199)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBF199](http://oom.lt/SZKTRANSISTORBJTBF199)

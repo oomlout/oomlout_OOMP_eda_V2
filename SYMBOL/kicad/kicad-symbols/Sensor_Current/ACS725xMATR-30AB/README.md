@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS725xMATR-30AB
 - Hex ID: SZKSENCURRENTACS725XMATR3AB
 - Name: Sensor_Current : ACS725xMATR-30AB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS725xMATR-30AB/
 - Description: Sensor_Current : ACS725xMATR-30AB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS725xMATR-30AB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS725xMATR-30AB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS725XMATR3AB](http://oom.lt/SZKSENCURRENTACS725XMATR3AB)

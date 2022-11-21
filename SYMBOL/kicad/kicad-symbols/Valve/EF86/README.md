@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Valve-EF86
 - Hex ID: SZKVAEF86
 - Name: Valve : EF86
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/EF86/
 - Description: Valve : EF86
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EF86](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EF86)
 - Short Link: [http://oom.lt/SZKVAEF86](http://oom.lt/SZKVAEF86)

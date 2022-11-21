@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX778L
 - Hex ID: SZKREGULATORSWINGMAX778L
 - Name: Regulator_Switching : MAX778L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX778L/
 - Description: Regulator_Switching : MAX778L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX778L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX778L)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMAX778L](http://oom.lt/SZKREGULATORSWINGMAX778L)

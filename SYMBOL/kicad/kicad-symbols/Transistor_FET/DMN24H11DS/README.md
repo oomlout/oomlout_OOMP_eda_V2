@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN24H11DS
 - Hex ID: SZKTRANSISTORFETDMN24H11DS
 - Name: Transistor_FET : DMN24H11DS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN24H11DS/
 - Description: Transistor_FET : DMN24H11DS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN24H11DS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN24H11DS)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN24H11DS](http://oom.lt/SZKTRANSISTORFETDMN24H11DS)

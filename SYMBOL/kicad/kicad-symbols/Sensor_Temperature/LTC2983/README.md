@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LTC2983
 - Hex ID: SZKSENTEMPERATURELTC2983
 - Name: Sensor_Temperature : LTC2983
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LTC2983/
 - Description: Sensor_Temperature : LTC2983
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LTC2983](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LTC2983)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURELTC2983](http://oom.lt/SZKSENTEMPERATURELTC2983)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1822-PAR
 - Hex ID: SZKSENTEMPERATUREDS1822PAR
 - Name: Sensor_Temperature : DS1822-PAR
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS1822-PAR/
 - Description: Sensor_Temperature : DS1822-PAR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1822-PAR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1822-PAR)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREDS1822PAR](http://oom.lt/SZKSENTEMPERATUREDS1822PAR)

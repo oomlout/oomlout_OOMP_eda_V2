@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH216
 - Hex ID: SZKSENOPTICALSFH216
 - Name: Sensor_Optical : SFH216
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH216/
 - Description: Sensor_Optical : SFH216
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH216](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH216)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH216](http://oom.lt/SZKSENOPTICALSFH216)

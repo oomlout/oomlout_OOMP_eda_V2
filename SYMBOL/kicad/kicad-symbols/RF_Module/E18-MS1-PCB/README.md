@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-E18-MS1-PCB
 - Hex ID: SZKRFMOE18MS1PCB
 - Name: RF_Module : E18-MS1-PCB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/E18-MS1-PCB/
 - Description: RF_Module : E18-MS1-PCB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-E18-MS1-PCB](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-E18-MS1-PCB)
 - Short Link: [http://oom.lt/SZKRFMOE18MS1PCB](http://oom.lt/SZKRFMOE18MS1PCB)

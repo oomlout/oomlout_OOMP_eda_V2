@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GPS-MAX-8Q
 - Hex ID: SZKGPSMAX8Q
 - Name: RF_GPS : MAX-8Q
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GPS/MAX-8Q/
 - Description: RF_GPS : MAX-8Q
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-MAX-8Q](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GPS-MAX-8Q)
 - Short Link: [http://oom.lt/SZKGPSMAX8Q](http://oom.lt/SZKGPSMAX8Q)

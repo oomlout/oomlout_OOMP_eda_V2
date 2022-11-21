@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary2x6
 - Hex ID: SZKSWSWROTARY2X6
 - Name: Switch : SW_Rotary2x6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary2x6/
 - Description: Switch : SW_Rotary2x6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary2x6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary2x6)
 - Short Link: [http://oom.lt/SZKSWSWROTARY2X6](http://oom.lt/SZKSWSWROTARY2X6)

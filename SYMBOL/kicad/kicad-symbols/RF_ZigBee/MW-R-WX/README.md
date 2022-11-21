@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_ZigBee-MW-R-WX
 - Hex ID: SZKRFZIGBEEMWRWX
 - Name: RF_ZigBee : MW-R-WX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_ZigBee/MW-R-WX/
 - Description: RF_ZigBee : MW-R-WX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-MW-R-WX](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_ZigBee-MW-R-WX)
 - Short Link: [http://oom.lt/SZKRFZIGBEEMWRWX](http://oom.lt/SZKRFZIGBEEMWRWX)

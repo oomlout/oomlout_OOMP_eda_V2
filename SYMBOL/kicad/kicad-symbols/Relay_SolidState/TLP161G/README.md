@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP161G
 - Hex ID: SZKRELAYSOLIDSTATETLP161G
 - Name: Relay_SolidState : TLP161G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP161G/
 - Description: Relay_SolidState : TLP161G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP161G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP161G)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATETLP161G](http://oom.lt/SZKRELAYSOLIDSTATETLP161G)

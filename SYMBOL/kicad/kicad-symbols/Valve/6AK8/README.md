@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Valve-6AK8
 - Hex ID: SZKVA6AK8
 - Name: Valve : 6AK8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/6AK8/
 - Description: Valve : 6AK8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-6AK8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-6AK8)
 - Short Link: [http://oom.lt/SZKVA6AK8](http://oom.lt/SZKVA6AK8)

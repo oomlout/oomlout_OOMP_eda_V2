@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD911
 - Hex ID: SZKTRANSISTORBJTBD911
 - Name: Transistor_BJT : BD911
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD911/
 - Description: Transistor_BJT : BD911
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD911](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD911)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD911](http://oom.lt/SZKTRANSISTORBJTBD911)

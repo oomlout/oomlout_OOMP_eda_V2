@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LDC1612
 - Hex ID: SZKSENPROXIMITYLDC1612
 - Name: Sensor_Proximity : LDC1612
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/LDC1612/
 - Description: Sensor_Proximity : LDC1612
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LDC1612](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LDC1612)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYLDC1612](http://oom.lt/SZKSENPROXIMITYLDC1612)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-160
 - Hex ID: SZKRFFILLFCN16
 - Name: RF_Filter : LFCN-160
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-160/
 - Description: RF_Filter : LFCN-160
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-160](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-160)
 - Short Link: [http://oom.lt/SZKRFFILLFCN16](http://oom.lt/SZKRFFILLFCN16)

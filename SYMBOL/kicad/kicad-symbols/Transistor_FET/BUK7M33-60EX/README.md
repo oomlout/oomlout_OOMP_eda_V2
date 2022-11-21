@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK7M33-60EX
 - Hex ID: SZKTRANSISTORFETBUK7M336EX
 - Name: Transistor_FET : BUK7M33-60EX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BUK7M33-60EX/
 - Description: Transistor_FET : BUK7M33-60EX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK7M33-60EX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK7M33-60EX)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBUK7M336EX](http://oom.lt/SZKTRANSISTORFETBUK7M336EX)

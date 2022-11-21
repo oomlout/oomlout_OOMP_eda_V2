@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_SP3T
 - Hex ID: SZKSWSWSP3T
 - Name: Switch : SW_SP3T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_SP3T/
 - Description: Switch : SW_SP3T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_SP3T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_SP3T)
 - Short Link: [http://oom.lt/SZKSWSWSP3T](http://oom.lt/SZKSWSWSP3T)

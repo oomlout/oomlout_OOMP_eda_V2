@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD439
 - Hex ID: SZKTRANSISTORBJTBD439
 - Name: Transistor_BJT : BD439
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD439/
 - Description: Transistor_BJT : BD439
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD439](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD439)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD439](http://oom.lt/SZKTRANSISTORBJTBD439)

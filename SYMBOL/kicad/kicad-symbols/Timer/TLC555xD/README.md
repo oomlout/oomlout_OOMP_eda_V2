@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-TLC555xD
 - Hex ID: SZKTIMERTLC555XD
 - Name: Timer : TLC555xD
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/TLC555xD/
 - Description: Timer : TLC555xD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-TLC555xD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-TLC555xD)
 - Short Link: [http://oom.lt/SZKTIMERTLC555XD](http://oom.lt/SZKTIMERTLC555XD)

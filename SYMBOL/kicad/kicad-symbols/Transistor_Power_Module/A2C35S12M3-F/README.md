@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-A2C35S12M3-F
 - Hex ID: SZKTRANSISTORPOWERMOA2C35S12M3F
 - Name: Transistor_Power_Module : A2C35S12M3-F
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/A2C35S12M3-F/
 - Description: Transistor_Power_Module : A2C35S12M3-F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-A2C35S12M3-F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-A2C35S12M3-F)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOA2C35S12M3F](http://oom.lt/SZKTRANSISTORPOWERMOA2C35S12M3F)

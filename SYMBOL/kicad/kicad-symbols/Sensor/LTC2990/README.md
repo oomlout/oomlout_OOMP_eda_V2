@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor-LTC2990
 - Hex ID: SZKSENLTC299
 - Name: Sensor : LTC2990
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor/LTC2990/
 - Description: Sensor : LTC2990
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-LTC2990](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-LTC2990)
 - Short Link: [http://oom.lt/SZKSENLTC299](http://oom.lt/SZKSENLTC299)

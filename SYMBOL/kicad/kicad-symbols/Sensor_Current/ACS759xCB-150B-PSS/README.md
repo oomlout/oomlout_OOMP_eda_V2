@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS759xCB-150B-PSS
 - Hex ID: SZKSENCURRENTACS759XCB15BPSS
 - Name: Sensor_Current : ACS759xCB-150B-PSS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS759xCB-150B-PSS/
 - Description: Sensor_Current : ACS759xCB-150B-PSS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS759xCB-150B-PSS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS759xCB-150B-PSS)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS759XCB15BPSS](http://oom.lt/SZKSENCURRENTACS759XCB15BPSS)

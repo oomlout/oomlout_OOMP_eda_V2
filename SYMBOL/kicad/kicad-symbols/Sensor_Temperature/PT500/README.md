@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-PT500
 - Hex ID: SZKSENTEMPERATUREPT5
 - Name: Sensor_Temperature : PT500
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/PT500/
 - Description: Sensor_Temperature : PT500
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-PT500](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-PT500)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREPT5](http://oom.lt/SZKSENTEMPERATUREPT5)

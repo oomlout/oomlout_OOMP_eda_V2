@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-APDS-9306-065
 - Hex ID: SZKSENOPTICALAPDS93665
 - Name: Sensor_Optical : APDS-9306-065
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/APDS-9306-065/
 - Description: Sensor_Optical : APDS-9306-065
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-APDS-9306-065](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-APDS-9306-065)
 - Short Link: [http://oom.lt/SZKSENOPTICALAPDS93665](http://oom.lt/SZKSENOPTICALAPDS93665)

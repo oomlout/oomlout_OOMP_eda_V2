@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM21
 - Hex ID: SZKRELAYIM21
 - Name: Relay : IM21
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM21/
 - Description: Relay : IM21
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM21](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM21)
 - Short Link: [http://oom.lt/SZKRELAYIM21](http://oom.lt/SZKRELAYIM21)

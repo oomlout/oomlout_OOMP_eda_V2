@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-TP0610T
 - Hex ID: SZKTRANSISTORFETTP61T
 - Name: Transistor_FET : TP0610T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/TP0610T/
 - Description: Transistor_FET : TP0610T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-TP0610T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-TP0610T)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETTP61T](http://oom.lt/SZKTRANSISTORFETTP61T)

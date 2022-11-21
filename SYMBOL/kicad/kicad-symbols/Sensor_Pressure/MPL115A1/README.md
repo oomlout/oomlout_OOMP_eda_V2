@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MPL115A1
 - Hex ID: SZKSENPRESSUREMPL115A1
 - Name: Sensor_Pressure : MPL115A1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MPL115A1/
 - Description: Sensor_Pressure : MPL115A1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MPL115A1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MPL115A1)
 - Short Link: [http://oom.lt/SZKSENPRESSUREMPL115A1](http://oom.lt/SZKSENPRESSUREMPL115A1)

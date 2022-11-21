@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62132
 - Hex ID: SZKREGULATORSWINGTPS62132
 - Name: Regulator_Switching : TPS62132
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS62132/
 - Description: Regulator_Switching : TPS62132
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62132](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62132)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS62132](http://oom.lt/SZKREGULATORSWINGTPS62132)

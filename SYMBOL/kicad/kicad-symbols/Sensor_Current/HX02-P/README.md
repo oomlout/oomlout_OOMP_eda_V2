@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HX02-P
 - Hex ID: SZKSENCURRENTHX2P
 - Name: Sensor_Current : HX02-P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/HX02-P/
 - Description: Sensor_Current : HX02-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HX02-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HX02-P)
 - Short Link: [http://oom.lt/SZKSENCURRENTHX2P](http://oom.lt/SZKSENCURRENTHX2P)

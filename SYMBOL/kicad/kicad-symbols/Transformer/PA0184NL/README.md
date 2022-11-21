@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PA0184NL
 - Hex ID: SZKTRPA184NL
 - Name: Transformer : PA0184NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PA0184NL/
 - Description: Transformer : PA0184NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA0184NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA0184NL)
 - Short Link: [http://oom.lt/SZKTRPA184NL](http://oom.lt/SZKTRPA184NL)

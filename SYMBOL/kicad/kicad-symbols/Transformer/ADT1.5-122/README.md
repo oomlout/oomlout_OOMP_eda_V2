@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADT1.5-122
 - Hex ID: SZKTRADT15122
 - Name: Transformer : ADT1.5-122
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT1.5-122/
 - Description: Transformer : ADT1.5-122
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT1.5-122](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT1.5-122)
 - Short Link: [http://oom.lt/SZKTRADT15122](http://oom.lt/SZKTRADT15122)

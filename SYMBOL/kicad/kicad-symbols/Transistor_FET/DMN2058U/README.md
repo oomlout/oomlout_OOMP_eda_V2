@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2058U
 - Hex ID: SZKTRANSISTORFETDMN258U
 - Name: Transistor_FET : DMN2058U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN2058U/
 - Description: Transistor_FET : DMN2058U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2058U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN2058U)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN258U](http://oom.lt/SZKTRANSISTORFETDMN258U)

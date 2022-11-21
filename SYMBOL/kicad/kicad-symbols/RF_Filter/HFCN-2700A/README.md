@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-2700A
 - Hex ID: SZKRFFILHFCN27A
 - Name: RF_Filter : HFCN-2700A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-2700A/
 - Description: RF_Filter : HFCN-2700A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-2700A](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-2700A)
 - Short Link: [http://oom.lt/SZKRFFILHFCN27A](http://oom.lt/SZKRFFILHFCN27A)

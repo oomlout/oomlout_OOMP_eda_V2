@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT2222AYS
 - Hex ID: SZKTRANSISTORBJTPMBT2222AYS
 - Name: Transistor_BJT : PMBT2222AYS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PMBT2222AYS/
 - Description: Transistor_BJT : PMBT2222AYS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT2222AYS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT2222AYS)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPMBT2222AYS](http://oom.lt/SZKTRANSISTORBJTPMBT2222AYS)

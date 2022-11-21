@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HO120-NP
 - Hex ID: SZKSENCURRENTHO12NP
 - Name: Sensor_Current : HO120-NP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/HO120-NP/
 - Description: Sensor_Current : HO120-NP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO120-NP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO120-NP)
 - Short Link: [http://oom.lt/SZKSENCURRENTHO12NP](http://oom.lt/SZKSENCURRENTHO12NP)

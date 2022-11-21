@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ST1S12XX
 - Hex ID: SZKREGULATORSWINGST1S12XX
 - Name: Regulator_Switching : ST1S12XX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S12XX/
 - Description: Regulator_Switching : ST1S12XX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ST1S12XX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ST1S12XX)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGST1S12XX](http://oom.lt/SZKREGULATORSWINGST1S12XX)

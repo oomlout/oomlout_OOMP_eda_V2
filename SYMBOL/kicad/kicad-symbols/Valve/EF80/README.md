@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Valve-EF80
 - Hex ID: SZKVAEF8
 - Name: Valve : EF80
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/EF80/
 - Description: Valve : EF80
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EF80](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EF80)
 - Short Link: [http://oom.lt/SZKVAEF8](http://oom.lt/SZKVAEF8)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW42
 - Hex ID: SZKSENOPTICALBPW42
 - Name: Sensor_Optical : BPW42
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/BPW42/
 - Description: Sensor_Optical : BPW42
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW42](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW42)
 - Short Link: [http://oom.lt/SZKSENOPTICALBPW42](http://oom.lt/SZKSENOPTICALBPW42)

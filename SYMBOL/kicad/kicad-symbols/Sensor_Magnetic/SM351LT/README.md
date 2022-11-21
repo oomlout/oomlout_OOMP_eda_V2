@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-SM351LT
 - Hex ID: SZKSENMAGNETICSM351LT
 - Name: Sensor_Magnetic : SM351LT
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/SM351LT/
 - Description: Sensor_Magnetic : SM351LT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-SM351LT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-SM351LT)
 - Short Link: [http://oom.lt/SZKSENMAGNETICSM351LT](http://oom.lt/SZKSENMAGNETICSM351LT)

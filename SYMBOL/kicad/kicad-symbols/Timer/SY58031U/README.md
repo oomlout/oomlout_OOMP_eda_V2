@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer-SY58031U
 - Hex ID: SZKTIMERSY5831U
 - Name: Timer : SY58031U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/SY58031U/
 - Description: Timer : SY58031U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SY58031U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SY58031U)
 - Short Link: [http://oom.lt/SZKTIMERSY5831U](http://oom.lt/SZKTIMERSY5831U)

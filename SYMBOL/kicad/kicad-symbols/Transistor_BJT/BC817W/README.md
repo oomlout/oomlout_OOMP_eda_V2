@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC817W
 - Hex ID: SZKTRANSISTORBJTBC817W
 - Name: Transistor_BJT : BC817W
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC817W/
 - Description: Transistor_BJT : BC817W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC817W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC817W)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC817W](http://oom.lt/SZKTRANSISTORBJTBC817W)

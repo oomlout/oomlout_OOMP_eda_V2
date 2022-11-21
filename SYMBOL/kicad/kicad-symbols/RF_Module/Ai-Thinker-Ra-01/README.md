@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-Ai-Thinker-Ra-01
 - Hex ID: SZKRFMOAITHINKERRA1
 - Name: RF_Module : Ai-Thinker-Ra-01
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/Ai-Thinker-Ra-01/
 - Description: RF_Module : Ai-Thinker-Ra-01
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-Ai-Thinker-Ra-01](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-Ai-Thinker-Ra-01)
 - Short Link: [http://oom.lt/SZKRFMOAITHINKERRA1](http://oom.lt/SZKRFMOAITHINKERRA1)

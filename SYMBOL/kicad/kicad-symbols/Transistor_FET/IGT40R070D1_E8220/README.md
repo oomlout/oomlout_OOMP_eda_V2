@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT40R070D1_E8220
 - Hex ID: SZKTRANSISTORFETIGT4R7D1E822
 - Name: Transistor_FET : IGT40R070D1_E8220
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IGT40R070D1_E8220/
 - Description: Transistor_FET : IGT40R070D1_E8220
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT40R070D1_E8220](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT40R070D1_E8220)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIGT4R7D1E822](http://oom.lt/SZKTRANSISTORFETIGT4R7D1E822)

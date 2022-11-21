@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS200-P
 - Hex ID: SZKSENCURRENTHTFS2P
 - Name: Sensor_Current : HTFS200-P
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/HTFS200-P/
 - Description: Sensor_Current : HTFS200-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS200-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS200-P)
 - Short Link: [http://oom.lt/SZKSENCURRENTHTFS2P](http://oom.lt/SZKSENCURRENTHTFS2P)

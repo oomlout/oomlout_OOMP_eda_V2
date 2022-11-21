@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-G6SU-2
 - Hex ID: SZKRELAYG6SU2
 - Name: Relay : G6SU-2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/G6SU-2/
 - Description: Relay : G6SU-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G6SU-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G6SU-2)
 - Short Link: [http://oom.lt/SZKRELAYG6SU2](http://oom.lt/SZKRELAYG6SU2)

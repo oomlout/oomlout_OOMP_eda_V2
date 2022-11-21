@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-KX022-1020
 - Hex ID: SZKSENMOTIONKX2212
 - Name: Sensor_Motion : KX022-1020
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KX022-1020/
 - Description: Sensor_Motion : KX022-1020
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-KX022-1020](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-KX022-1020)
 - Short Link: [http://oom.lt/SZKSENMOTIONKX2212](http://oom.lt/SZKSENMOTIONKX2212)

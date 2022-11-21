@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY267G
 - Hex ID: SZKREGULATORSWINGTNY267G
 - Name: Regulator_Switching : TNY267G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TNY267G/
 - Description: Regulator_Switching : TNY267G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY267G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY267G)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTNY267G](http://oom.lt/SZKREGULATORSWINGTNY267G)

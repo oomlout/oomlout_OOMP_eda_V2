@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX5035CUPA
 - Hex ID: SZKREGULATORSWINGMAX535CUPA
 - Name: Regulator_Switching : MAX5035CUPA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MAX5035CUPA/
 - Description: Regulator_Switching : MAX5035CUPA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX5035CUPA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX5035CUPA)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMAX535CUPA](http://oom.lt/SZKREGULATORSWINGMAX535CUPA)

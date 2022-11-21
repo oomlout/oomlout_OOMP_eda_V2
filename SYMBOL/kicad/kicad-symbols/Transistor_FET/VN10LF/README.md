@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-VN10LF
 - Hex ID: SZKTRANSISTORFETVN1LF
 - Name: Transistor_FET : VN10LF
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/VN10LF/
 - Description: Transistor_FET : VN10LF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-VN10LF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-VN10LF)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETVN1LF](http://oom.lt/SZKTRANSISTORFETVN1LF)

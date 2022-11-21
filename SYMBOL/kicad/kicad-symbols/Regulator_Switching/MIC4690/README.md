@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC4690
 - Hex ID: SZKREGULATORSWINGMIC469
 - Name: Regulator_Switching : MIC4690
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MIC4690/
 - Description: Regulator_Switching : MIC4690
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC4690](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC4690)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMIC469](http://oom.lt/SZKREGULATORSWINGMIC469)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-PSMN5R2-60YL
 - Hex ID: SZKTRANSISTORFETPSMN5R26YL
 - Name: Transistor_FET : PSMN5R2-60YL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/PSMN5R2-60YL/
 - Description: Transistor_FET : PSMN5R2-60YL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-PSMN5R2-60YL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-PSMN5R2-60YL)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETPSMN5R26YL](http://oom.lt/SZKTRANSISTORFETPSMN5R26YL)

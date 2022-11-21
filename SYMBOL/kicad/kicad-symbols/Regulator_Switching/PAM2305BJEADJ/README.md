@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305BJEADJ
 - Hex ID: SZKREGULATORSWINGPAM235BJEADJ
 - Name: Regulator_Switching : PAM2305BJEADJ
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/PAM2305BJEADJ/
 - Description: Regulator_Switching : PAM2305BJEADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305BJEADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305BJEADJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGPAM235BJEADJ](http://oom.lt/SZKREGULATORSWINGPAM235BJEADJ)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-M41T62Q
 - Hex ID: SZKTIMERRTCM41T62Q
 - Name: Timer_RTC : M41T62Q
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/M41T62Q/
 - Description: Timer_RTC : M41T62Q
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-M41T62Q](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-M41T62Q)
 - Short Link: [http://oom.lt/SZKTIMERRTCM41T62Q](http://oom.lt/SZKTIMERRTCM41T62Q)

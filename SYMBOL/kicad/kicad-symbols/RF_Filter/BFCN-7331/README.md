@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-7331
 - Hex ID: SZKRFFILBFCN7331
 - Name: RF_Filter : BFCN-7331
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-7331/
 - Description: RF_Filter : BFCN-7331
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-7331](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-7331)
 - Short Link: [http://oom.lt/SZKRFFILBFCN7331](http://oom.lt/SZKRFFILBFCN7331)

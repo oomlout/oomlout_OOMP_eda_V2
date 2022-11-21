@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS724xLCTR-10AB
 - Hex ID: SZKSENCURRENTACS724XLCTR1AB
 - Name: Sensor_Current : ACS724xLCTR-10AB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS724xLCTR-10AB/
 - Description: Sensor_Current : ACS724xLCTR-10AB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS724xLCTR-10AB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS724xLCTR-10AB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS724XLCTR1AB](http://oom.lt/SZKSENCURRENTACS724XLCTR1AB)

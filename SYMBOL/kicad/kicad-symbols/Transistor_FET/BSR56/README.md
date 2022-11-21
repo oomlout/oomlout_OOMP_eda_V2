@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSR56
 - Hex ID: SZKTRANSISTORFETBSR56
 - Name: Transistor_FET : BSR56
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSR56/
 - Description: Transistor_FET : BSR56
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSR56](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSR56)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSR56](http://oom.lt/SZKTRANSISTORFETBSR56)

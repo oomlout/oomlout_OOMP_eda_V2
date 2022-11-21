@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC057N08NS3G
 - Hex ID: SZKTRANSISTORFETBSC57N8NS3G
 - Name: Transistor_FET : BSC057N08NS3G
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC057N08NS3G/
 - Description: Transistor_FET : BSC057N08NS3G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC057N08NS3G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC057N08NS3G)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC57N8NS3G](http://oom.lt/SZKTRANSISTORFETBSC57N8NS3G)

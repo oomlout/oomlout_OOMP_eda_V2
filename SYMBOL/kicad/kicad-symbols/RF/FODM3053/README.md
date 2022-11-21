@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-FODM3053
 - Hex ID: SZKRFFODM353
 - Name: RF : FODM3053
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/FODM3053/
 - Description: RF : FODM3053
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FODM3053](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FODM3053)
 - Short Link: [http://oom.lt/SZKRFFODM353](http://oom.lt/SZKRFFODM353)

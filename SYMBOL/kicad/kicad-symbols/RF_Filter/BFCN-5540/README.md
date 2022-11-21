@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-5540
 - Hex ID: SZKRFFILBFCN554
 - Name: RF_Filter : BFCN-5540
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-5540/
 - Description: RF_Filter : BFCN-5540
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-5540](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-5540)
 - Short Link: [http://oom.lt/SZKRFFILBFCN554](http://oom.lt/SZKRFFILBFCN554)

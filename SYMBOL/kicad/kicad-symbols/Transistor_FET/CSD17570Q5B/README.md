@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD17570Q5B
 - Hex ID: SZKTRANSISTORFETCSD1757Q5B
 - Name: Transistor_FET : CSD17570Q5B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD17570Q5B/
 - Description: Transistor_FET : CSD17570Q5B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD17570Q5B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD17570Q5B)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETCSD1757Q5B](http://oom.lt/SZKTRANSISTORFETCSD1757Q5B)

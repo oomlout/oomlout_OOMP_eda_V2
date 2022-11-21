@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-IST8308
 - Hex ID: SZKSENMAGNETICIST838
 - Name: Sensor_Magnetic : IST8308
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/IST8308/
 - Description: Sensor_Magnetic : IST8308
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-IST8308](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-IST8308)
 - Short Link: [http://oom.lt/SZKSENMAGNETICIST838](http://oom.lt/SZKSENMAGNETICIST838)

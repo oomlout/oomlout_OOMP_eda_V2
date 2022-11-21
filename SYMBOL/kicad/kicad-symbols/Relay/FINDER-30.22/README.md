@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-FINDER-30.22
 - Hex ID: SZKRELAYFINDER322
 - Name: Relay : FINDER-30.22
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/FINDER-30.22/
 - Description: Relay : FINDER-30.22
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-30.22](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-30.22)
 - Short Link: [http://oom.lt/SZKRELAYFINDER322](http://oom.lt/SZKRELAYFINDER322)

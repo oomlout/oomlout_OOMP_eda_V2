@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS214NW
 - Hex ID: SZKTRANSISTORFETBSS214NW
 - Name: Transistor_FET : BSS214NW
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSS214NW/
 - Description: Transistor_FET : BSS214NW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS214NW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS214NW)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSS214NW](http://oom.lt/SZKTRANSISTORFETBSS214NW)

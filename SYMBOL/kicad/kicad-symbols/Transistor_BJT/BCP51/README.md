@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCP51
 - Hex ID: SZKTRANSISTORBJTBCP51
 - Name: Transistor_BJT : BCP51
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BCP51/
 - Description: Transistor_BJT : BCP51
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCP51](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCP51)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBCP51](http://oom.lt/SZKTRANSISTORBJTBCP51)

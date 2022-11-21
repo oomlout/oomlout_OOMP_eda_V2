@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CZ-3815
 - Hex ID: SZKSENCURRENTCZ3815
 - Name: Sensor_Current : CZ-3815
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CZ-3815/
 - Description: Sensor_Current : CZ-3815
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CZ-3815](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CZ-3815)
 - Short Link: [http://oom.lt/SZKSENCURRENTCZ3815](http://oom.lt/SZKSENCURRENTCZ3815)

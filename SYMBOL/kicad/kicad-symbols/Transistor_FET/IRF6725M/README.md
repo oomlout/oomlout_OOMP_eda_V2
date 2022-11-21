@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6725M
 - Hex ID: SZKTRANSISTORFETIRF6725M
 - Name: Transistor_FET : IRF6725M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6725M/
 - Description: Transistor_FET : IRF6725M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6725M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6725M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6725M](http://oom.lt/SZKTRANSISTORFETIRF6725M)

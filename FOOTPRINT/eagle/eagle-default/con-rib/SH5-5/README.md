@@ -6,9 +6,10 @@ Contents
 ========
 
 * [FZECONRIBSH55 > con-rib : SH5-5](#fzeconribsh55--con-rib--sh5-5)
+	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONRIBSH55 > con-rib : SH5-5
 
 - ID: FOOTPRINT-eagle-eagle-default-con-rib-SH5-5
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: con-rib : SH5-5
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-rib-SH5-5](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-rib-SH5-5)
 - Short Link: [http://oom.lt/FZECONRIBSH55](http://oom.lt/FZECONRIBSH55)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-rib/SH5-5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-rib/SH5-5/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-rib/SH5-5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-rib/SH5-5/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-rib/SH5-5/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-rib/SH5-5/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-rib/SH5-5/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-rib/SH5-5/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-rib/SH5-5/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-rib/SH5-5/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -34,3 +41,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONRIBSH55|
 |name|name|con-rib : SH5-5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

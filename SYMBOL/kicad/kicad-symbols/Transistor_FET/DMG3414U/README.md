@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG3414U
 - Hex ID: SZKTRANSISTORFETDMG3414U
 - Name: Transistor_FET : DMG3414U
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMG3414U/
 - Description: Transistor_FET : DMG3414U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG3414U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG3414U)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMG3414U](http://oom.lt/SZKTRANSISTORFETDMG3414U)

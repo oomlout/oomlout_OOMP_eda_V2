@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PA0297NL
 - Hex ID: SZKTRPA297NL
 - Name: Transformer : PA0297NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PA0297NL/
 - Description: Transformer : PA0297NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA0297NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA0297NL)
 - Short Link: [http://oom.lt/SZKTRPA297NL](http://oom.lt/SZKTRPA297NL)

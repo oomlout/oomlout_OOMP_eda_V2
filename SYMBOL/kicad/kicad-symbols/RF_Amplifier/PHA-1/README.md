@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-PHA-1
 - Hex ID: SZKRFAMPLIFIERPHA1
 - Name: RF_Amplifier : PHA-1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/PHA-1/
 - Description: RF_Amplifier : PHA-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-PHA-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-PHA-1)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERPHA1](http://oom.lt/SZKRFAMPLIFIERPHA1)

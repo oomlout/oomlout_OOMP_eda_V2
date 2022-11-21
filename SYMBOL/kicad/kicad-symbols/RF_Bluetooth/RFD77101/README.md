@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RFD77101
 - Hex ID: SZKRFBLUETOOTHRFD7711
 - Name: RF_Bluetooth : RFD77101
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Bluetooth/RFD77101/
 - Description: RF_Bluetooth : RFD77101
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RFD77101](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RFD77101)
 - Short Link: [http://oom.lt/SZKRFBLUETOOTHRFD7711](http://oom.lt/SZKRFBLUETOOTHRFD7711)

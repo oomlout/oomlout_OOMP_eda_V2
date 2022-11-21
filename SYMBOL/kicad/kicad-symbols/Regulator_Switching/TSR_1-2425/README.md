@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TSR_1-2425
 - Hex ID: SZKREGULATORSWINGTSR12425
 - Name: Regulator_Switching : TSR_1-2425
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TSR_1-2425/
 - Description: Regulator_Switching : TSR_1-2425
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TSR_1-2425](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TSR_1-2425)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTSR12425](http://oom.lt/SZKREGULATORSWINGTSR12425)

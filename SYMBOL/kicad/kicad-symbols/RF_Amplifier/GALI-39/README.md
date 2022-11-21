@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-39
 - Hex ID: SZKRFAMPLIFIERGALI39
 - Name: RF_Amplifier : GALI-39
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/GALI-39/
 - Description: RF_Amplifier : GALI-39
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-39](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-39)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERGALI39](http://oom.lt/SZKRFAMPLIFIERGALI39)

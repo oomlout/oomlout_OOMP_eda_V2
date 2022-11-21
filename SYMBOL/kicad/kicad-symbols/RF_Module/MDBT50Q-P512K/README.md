@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-MDBT50Q-P512K
 - Hex ID: SZKRFMOMDBT5QP512K
 - Name: RF_Module : MDBT50Q-P512K
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/MDBT50Q-P512K/
 - Description: RF_Module : MDBT50Q-P512K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-MDBT50Q-P512K](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-MDBT50Q-P512K)
 - Short Link: [http://oom.lt/SZKRFMOMDBT5QP512K](http://oom.lt/SZKRFMOMDBT5QP512K)

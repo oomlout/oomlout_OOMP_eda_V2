@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-FODM3052
 - Hex ID: SZKRELAYSOLIDSTATEFODM352
 - Name: Relay_SolidState : FODM3052
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/FODM3052/
 - Description: Relay_SolidState : FODM3052
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-FODM3052](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-FODM3052)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATEFODM352](http://oom.lt/SZKRELAYSOLIDSTATEFODM352)

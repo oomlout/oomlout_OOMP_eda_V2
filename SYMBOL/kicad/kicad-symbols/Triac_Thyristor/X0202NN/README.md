@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Triac_Thyristor-X0202NN
 - Hex ID: SZKTRIACTHYRISTORX22NN
 - Name: Triac_Thyristor : X0202NN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/X0202NN/
 - Description: Triac_Thyristor : X0202NN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-X0202NN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-X0202NN)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORX22NN](http://oom.lt/SZKTRIACTHYRISTORX22NN)

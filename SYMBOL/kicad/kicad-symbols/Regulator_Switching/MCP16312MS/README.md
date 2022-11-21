@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16312MS
 - Hex ID: SZKREGULATORSWINGMCP16312MS
 - Name: Regulator_Switching : MCP16312MS
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP16312MS/
 - Description: Regulator_Switching : MCP16312MS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16312MS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16312MS)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGMCP16312MS](http://oom.lt/SZKREGULATORSWINGMCP16312MS)

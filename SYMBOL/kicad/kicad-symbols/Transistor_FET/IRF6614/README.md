@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6614
 - Hex ID: SZKTRANSISTORFETIRF6614
 - Name: Transistor_FET : IRF6614
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6614/
 - Description: Transistor_FET : IRF6614
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6614](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6614)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6614](http://oom.lt/SZKTRANSISTORFETIRF6614)

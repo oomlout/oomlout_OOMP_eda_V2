@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-TEA2014
 - Hex ID: SZKVIDEOTEA214
 - Name: Video : TEA2014
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/TEA2014/
 - Description: Video : TEA2014
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TEA2014](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TEA2014)
 - Short Link: [http://oom.lt/SZKVIDEOTEA214](http://oom.lt/SZKVIDEOTEA214)

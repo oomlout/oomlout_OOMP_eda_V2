@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPULSE
 - Hex ID: SZKSIMULATIONSPICEVPULSE
 - Name: Simulation_SPICE : VPULSE
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VPULSE/
 - Description: Simulation_SPICE : VPULSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPULSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPULSE)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVPULSE](http://oom.lt/SZKSIMULATIONSPICEVPULSE)

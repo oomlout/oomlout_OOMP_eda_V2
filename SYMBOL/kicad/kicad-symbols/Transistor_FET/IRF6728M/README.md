@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6728M
 - Hex ID: SZKTRANSISTORFETIRF6728M
 - Name: Transistor_FET : IRF6728M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6728M/
 - Description: Transistor_FET : IRF6728M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6728M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6728M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6728M](http://oom.lt/SZKTRANSISTORFETIRF6728M)

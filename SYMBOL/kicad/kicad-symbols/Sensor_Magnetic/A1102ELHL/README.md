@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1102ELHL
 - Hex ID: SZKSENMAGNETICA112ELHL
 - Name: Sensor_Magnetic : A1102ELHL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/A1102ELHL/
 - Description: Sensor_Magnetic : A1102ELHL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1102ELHL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1102ELHL)
 - Short Link: [http://oom.lt/SZKSENMAGNETICA112ELHL](http://oom.lt/SZKSENMAGNETICA112ELHL)

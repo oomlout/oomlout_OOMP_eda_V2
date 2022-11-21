@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6628
 - Hex ID: SZKTRANSISTORFETIRF6628
 - Name: Transistor_FET : IRF6628
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6628/
 - Description: Transistor_FET : IRF6628
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6628](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6628)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6628](http://oom.lt/SZKTRANSISTORFETIRF6628)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16342Q5A
 - Hex ID: SZKTRANSISTORFETCSD16342Q5A
 - Name: Transistor_FET : CSD16342Q5A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD16342Q5A/
 - Description: Transistor_FET : CSD16342Q5A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16342Q5A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16342Q5A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETCSD16342Q5A](http://oom.lt/SZKTRANSISTORFETCSD16342Q5A)

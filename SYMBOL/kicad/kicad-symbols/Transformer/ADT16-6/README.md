@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADT16-6
 - Hex ID: SZKTRADT166
 - Name: Transformer : ADT16-6
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT16-6/
 - Description: Transformer : ADT16-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT16-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT16-6)
 - Short Link: [http://oom.lt/SZKTRADT166](http://oom.lt/SZKTRADT166)

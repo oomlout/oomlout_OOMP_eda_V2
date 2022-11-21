@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Distance-VL53L1CXV0FY1
 - Hex ID: SZKSENDISTANCEVL53L1CXVFY1
 - Name: Sensor_Distance : VL53L1CXV0FY1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Distance/VL53L1CXV0FY1/
 - Description: Sensor_Distance : VL53L1CXV0FY1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Distance-VL53L1CXV0FY1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Distance-VL53L1CXV0FY1)
 - Short Link: [http://oom.lt/SZKSENDISTANCEVL53L1CXVFY1](http://oom.lt/SZKSENDISTANCEVL53L1CXVFY1)

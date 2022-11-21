@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB015N04NX3
 - Hex ID: SZKTRANSISTORFETBSB15N4NX3
 - Name: Transistor_FET : BSB015N04NX3
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSB015N04NX3/
 - Description: Transistor_FET : BSB015N04NX3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB015N04NX3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB015N04NX3)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSB15N4NX3](http://oom.lt/SZKTRANSISTORFETBSB15N4NX3)

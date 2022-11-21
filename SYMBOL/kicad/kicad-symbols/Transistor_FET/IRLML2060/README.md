@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML2060
 - Hex ID: SZKTRANSISTORFETIRLML26
 - Name: Transistor_FET : IRLML2060
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRLML2060/
 - Description: Transistor_FET : IRLML2060
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML2060](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML2060)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRLML26](http://oom.lt/SZKTRANSISTORFETIRLML26)

@@ -6,9 +6,10 @@ Contents
 ========
 
 * [FZECONSAMTECSSW1252GDRA > con-samtec : SSW-125-02-G-D-RA](#fzeconsamtecssw1252gdra--con-samtec--ssw-125-02-g-d-ra)
+	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONSAMTECSSW1252GDRA > con-samtec : SSW-125-02-G-D-RA
 
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-SSW-125-02-G-D-RA
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: con-samtec : SSW-125-02-G-D-RA
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-SSW-125-02-G-D-RA](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-samtec-SSW-125-02-G-D-RA)
 - Short Link: [http://oom.lt/FZECONSAMTECSSW1252GDRA](http://oom.lt/FZECONSAMTECSSW1252GDRA)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-samtec/SSW-125-02-G-D-RA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-samtec/SSW-125-02-G-D-RA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-samtec/SSW-125-02-G-D-RA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-samtec/SSW-125-02-G-D-RA/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-samtec/SSW-125-02-G-D-RA/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-samtec/SSW-125-02-G-D-RA/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-samtec/SSW-125-02-G-D-RA/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-samtec/SSW-125-02-G-D-RA/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-samtec/SSW-125-02-G-D-RA/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-samtec/SSW-125-02-G-D-RA/kicadPcb3d.png)||||
+
 ## Tags
   
 
@@ -34,3 +41,7 @@ NO IMAGES
 |Hex ID (short code)|hexID|FZECONSAMTECSSW1252GDRA|
 |name|name|con-samtec : SSW-125-02-G-D-RA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Touch-CAP1206-x-SL
 - Hex ID: SZKSENTOUCHCAP126XSL
 - Name: Sensor_Touch : CAP1206-x-SL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Touch/CAP1206-x-SL/
 - Description: Sensor_Touch : CAP1206-x-SL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-CAP1206-x-SL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-CAP1206-x-SL)
 - Short Link: [http://oom.lt/SZKSENTOUCHCAP126XSL](http://oom.lt/SZKSENTOUCHCAP126XSL)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-9170
 - Hex ID: SZKRFFILLFCN917
 - Name: RF_Filter : LFCN-9170
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-9170/
 - Description: RF_Filter : LFCN-9170
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-9170](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-9170)
 - Short Link: [http://oom.lt/SZKRFFILLFCN917](http://oom.lt/SZKRFFILLFCN917)

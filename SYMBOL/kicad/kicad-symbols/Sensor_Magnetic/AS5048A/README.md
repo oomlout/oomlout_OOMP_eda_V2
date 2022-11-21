@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5048A
 - Hex ID: SZKSENMAGNETICAS548A
 - Name: Sensor_Magnetic : AS5048A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/AS5048A/
 - Description: Sensor_Magnetic : AS5048A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5048A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5048A)
 - Short Link: [http://oom.lt/SZKSENMAGNETICAS548A](http://oom.lt/SZKSENMAGNETICAS548A)

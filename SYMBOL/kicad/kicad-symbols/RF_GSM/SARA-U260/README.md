@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_GSM-SARA-U260
 - Hex ID: SZKGSMSARAU26
 - Name: RF_GSM : SARA-U260
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_GSM/SARA-U260/
 - Description: RF_GSM : SARA-U260
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SARA-U260](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SARA-U260)
 - Short Link: [http://oom.lt/SZKGSMSARAU26](http://oom.lt/SZKGSMSARAU26)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-MOC3062M
 - Hex ID: SZKRFMOC362M
 - Name: RF : MOC3062M
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/MOC3062M/
 - Description: RF : MOC3062M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3062M](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3062M)
 - Short Link: [http://oom.lt/SZKRFMOC362M](http://oom.lt/SZKRFMOC362M)

@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-ESP-12E
 - Hex ID: SZKRFMOESP12E
 - Name: RF_Module : ESP-12E
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/ESP-12E/
 - Description: RF_Module : ESP-12E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-ESP-12E](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-ESP-12E)
 - Short Link: [http://oom.lt/SZKRFMOESP12E](http://oom.lt/SZKRFMOESP12E)

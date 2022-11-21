@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS5420D
 - Hex ID: SZKREGULATORSWINGTPS542D
 - Name: Regulator_Switching : TPS5420D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS5420D/
 - Description: Regulator_Switching : TPS5420D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS5420D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS5420D)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS542D](http://oom.lt/SZKREGULATORSWINGTPS542D)

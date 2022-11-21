@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC107
 - Hex ID: SZKTRANSISTORBJTBC17
 - Name: Transistor_BJT : BC107
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC107/
 - Description: Transistor_BJT : BC107
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC107](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC107)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC17](http://oom.lt/SZKTRANSISTORBJTBC17)

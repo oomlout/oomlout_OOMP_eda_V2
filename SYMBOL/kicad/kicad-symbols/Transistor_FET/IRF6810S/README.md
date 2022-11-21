@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6810S
 - Hex ID: SZKTRANSISTORFETIRF681S
 - Name: Transistor_FET : IRF6810S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF6810S/
 - Description: Transistor_FET : IRF6810S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6810S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6810S)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF681S](http://oom.lt/SZKTRANSISTORFETIRF681S)

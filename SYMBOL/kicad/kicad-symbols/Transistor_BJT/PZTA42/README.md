@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-PZTA42
 - Hex ID: SZKTRANSISTORBJTPZTA42
 - Name: Transistor_BJT : PZTA42
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PZTA42/
 - Description: Transistor_BJT : PZTA42
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PZTA42](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PZTA42)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPZTA42](http://oom.lt/SZKTRANSISTORBJTPZTA42)

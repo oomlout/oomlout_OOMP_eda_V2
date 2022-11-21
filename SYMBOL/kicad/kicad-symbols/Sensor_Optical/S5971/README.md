@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-S5971
 - Hex ID: SZKSENOPTICALS5971
 - Name: Sensor_Optical : S5971
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/S5971/
 - Description: Sensor_Optical : S5971
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-S5971](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-S5971)
 - Short Link: [http://oom.lt/SZKSENOPTICALS5971](http://oom.lt/SZKSENOPTICALS5971)

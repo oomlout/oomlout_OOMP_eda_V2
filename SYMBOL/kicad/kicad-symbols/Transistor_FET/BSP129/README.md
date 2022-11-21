@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSP129
 - Hex ID: SZKTRANSISTORFETBSP129
 - Name: Transistor_FET : BSP129
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSP129/
 - Description: Transistor_FET : BSP129
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSP129](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSP129)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSP129](http://oom.lt/SZKTRANSISTORFETBSP129)

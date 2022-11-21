@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TG110-S050N2xx
 - Hex ID: SZKTRTG11S5N2XX
 - Name: Transformer : TG110-S050N2xx
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TG110-S050N2xx/
 - Description: Transformer : TG110-S050N2xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TG110-S050N2xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TG110-S050N2xx)
 - Short Link: [http://oom.lt/SZKTRTG11S5N2XX](http://oom.lt/SZKTRTG11S5N2XX)

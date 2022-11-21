@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD250B
 - Hex ID: SZKTRANSISTORBJTBD25B
 - Name: Transistor_BJT : BD250B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD250B/
 - Description: Transistor_BJT : BD250B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD250B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD250B)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD25B](http://oom.lt/SZKTRANSISTORBJTBD25B)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD139
 - Hex ID: SZKTRANSISTORBJTBD139
 - Name: Transistor_BJT : BD139
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD139/
 - Description: Transistor_BJT : BD139
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD139](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD139)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD139](http://oom.lt/SZKTRANSISTORBJTBD139)

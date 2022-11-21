@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC847
 - Hex ID: SZKTRANSISTORBJTBC847
 - Name: Transistor_BJT : BC847
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC847/
 - Description: Transistor_BJT : BC847
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC847](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC847)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC847](http://oom.lt/SZKTRANSISTORBJTBC847)

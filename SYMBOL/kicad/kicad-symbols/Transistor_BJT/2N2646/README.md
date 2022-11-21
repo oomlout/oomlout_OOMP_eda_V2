@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N2646
 - Hex ID: SZKTRANSISTORBJT2N2646
 - Name: Transistor_BJT : 2N2646
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2N2646/
 - Description: Transistor_BJT : 2N2646
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N2646](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N2646)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2N2646](http://oom.lt/SZKTRANSISTORBJT2N2646)

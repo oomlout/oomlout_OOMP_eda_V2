@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD08P06-155L
 - Hex ID: SZKTRANSISTORFETSUD8P6155L
 - Name: Transistor_FET : SUD08P06-155L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/SUD08P06-155L/
 - Description: Transistor_FET : SUD08P06-155L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD08P06-155L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD08P06-155L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSUD8P6155L](http://oom.lt/SZKTRANSISTORFETSUD8P6155L)

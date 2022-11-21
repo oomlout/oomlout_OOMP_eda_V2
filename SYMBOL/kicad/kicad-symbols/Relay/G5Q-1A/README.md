@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-G5Q-1A
 - Hex ID: SZKRELAYG5Q1A
 - Name: Relay : G5Q-1A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/G5Q-1A/
 - Description: Relay : G5Q-1A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G5Q-1A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G5Q-1A)
 - Short Link: [http://oom.lt/SZKRELAYG5Q1A](http://oom.lt/SZKRELAYG5Q1A)

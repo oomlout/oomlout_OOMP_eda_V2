@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-Wuerth_750343373
 - Hex ID: SZKTRWUERTH75343373
 - Name: Transformer : Wuerth_750343373
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_750343373/
 - Description: Transformer : Wuerth_750343373
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-Wuerth_750343373](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-Wuerth_750343373)
 - Short Link: [http://oom.lt/SZKTRWUERTH75343373](http://oom.lt/SZKTRWUERTH75343373)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HO25-NSM
 - Hex ID: SZKSENCURRENTHO25NSM
 - Name: Sensor_Current : HO25-NSM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/HO25-NSM/
 - Description: Sensor_Current : HO25-NSM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO25-NSM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO25-NSM)
 - Short Link: [http://oom.lt/SZKSENCURRENTHO25NSM](http://oom.lt/SZKSENCURRENTHO25NSM)

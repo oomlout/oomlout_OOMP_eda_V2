@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC118N10NSG
 - Hex ID: SZKTRANSISTORFETBSC118N1NSG
 - Name: Transistor_FET : BSC118N10NSG
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BSC118N10NSG/
 - Description: Transistor_FET : BSC118N10NSG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC118N10NSG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC118N10NSG)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC118N1NSG](http://oom.lt/SZKTRANSISTORFETBSC118N1NSG)

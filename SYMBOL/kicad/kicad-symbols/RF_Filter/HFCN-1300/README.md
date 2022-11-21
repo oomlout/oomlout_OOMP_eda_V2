@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1300
 - Hex ID: SZKRFFILHFCN13
 - Name: RF_Filter : HFCN-1300
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/HFCN-1300/
 - Description: RF_Filter : HFCN-1300
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1300](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-1300)
 - Short Link: [http://oom.lt/SZKRFFILHFCN13](http://oom.lt/SZKRFFILHFCN13)

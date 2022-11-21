@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADT9-1T
 - Hex ID: SZKTRADT91T
 - Name: Transformer : ADT9-1T
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT9-1T/
 - Description: Transformer : ADT9-1T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT9-1T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT9-1T)
 - Short Link: [http://oom.lt/SZKTRADT91T](http://oom.lt/SZKTRADT91T)

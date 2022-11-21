@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IPDD60R125G7
 - Hex ID: SZKTRANSISTORFETIPDD6R125G7
 - Name: Transistor_FET : IPDD60R125G7
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IPDD60R125G7/
 - Description: Transistor_FET : IPDD60R125G7
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPDD60R125G7](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPDD60R125G7)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIPDD6R125G7](http://oom.lt/SZKTRANSISTORFETIPDD6R125G7)

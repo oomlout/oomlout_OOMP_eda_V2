@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-TLP3544
 - Hex ID: SZKRFTLP3544
 - Name: RF : TLP3544
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/TLP3544/
 - Description: RF : TLP3544
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP3544](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-TLP3544)
 - Short Link: [http://oom.lt/SZKRFTLP3544](http://oom.lt/SZKRFTLP3544)

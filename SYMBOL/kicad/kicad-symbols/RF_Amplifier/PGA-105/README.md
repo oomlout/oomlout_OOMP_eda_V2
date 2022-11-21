@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-PGA-105
 - Hex ID: SZKRFAMPLIFIERPGA15
 - Name: RF_Amplifier : PGA-105
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/PGA-105/
 - Description: RF_Amplifier : PGA-105
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-PGA-105](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-PGA-105)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERPGA15](http://oom.lt/SZKRFAMPLIFIERPGA15)

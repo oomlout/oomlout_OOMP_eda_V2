@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD50P10-43L
 - Hex ID: SZKTRANSISTORFETSUD5P143L
 - Name: Transistor_FET : SUD50P10-43L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/SUD50P10-43L/
 - Description: Transistor_FET : SUD50P10-43L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD50P10-43L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD50P10-43L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSUD5P143L](http://oom.lt/SZKTRANSISTORFETSUD5P143L)

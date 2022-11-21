@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-530D
 - Hex ID: SZKRFFILLFCN53D
 - Name: RF_Filter : LFCN-530D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-530D/
 - Description: RF_Filter : LFCN-530D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-530D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-530D)
 - Short Link: [http://oom.lt/SZKRFFILLFCN53D](http://oom.lt/SZKRFFILLFCN53D)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-Si7450DP
 - Hex ID: SZKTRANSISTORFETSI745DP
 - Name: Transistor_FET : Si7450DP
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/Si7450DP/
 - Description: Transistor_FET : Si7450DP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si7450DP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si7450DP)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSI745DP](http://oom.lt/SZKTRANSISTORFETSI745DP)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BF244A
 - Hex ID: SZKTRANSISTORFETBF244A
 - Name: Transistor_FET : BF244A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BF244A/
 - Description: Transistor_FET : BF244A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BF244A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BF244A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBF244A](http://oom.lt/SZKTRANSISTORFETBF244A)

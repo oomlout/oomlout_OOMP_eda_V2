@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1602
 - Hex ID: SZKTIMERRTCDS162
 - Name: Timer_RTC : DS1602
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/DS1602/
 - Description: Timer_RTC : DS1602
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1602](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1602)
 - Short Link: [http://oom.lt/SZKTIMERRTCDS162](http://oom.lt/SZKTIMERRTCDS162)

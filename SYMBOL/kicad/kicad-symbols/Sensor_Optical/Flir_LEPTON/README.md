@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-Flir_LEPTON
 - Hex ID: SZKSENOPTICALFLIRLEPTON
 - Name: Sensor_Optical : Flir_LEPTON
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/Flir_LEPTON/
 - Description: Sensor_Optical : Flir_LEPTON
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-Flir_LEPTON](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-Flir_LEPTON)
 - Short Link: [http://oom.lt/SZKSENOPTICALFLIRLEPTON](http://oom.lt/SZKSENOPTICALFLIRLEPTON)

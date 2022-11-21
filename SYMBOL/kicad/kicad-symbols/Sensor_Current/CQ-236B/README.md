@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-236B
 - Hex ID: SZKSENCURRENTCQ236B
 - Name: Sensor_Current : CQ-236B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CQ-236B/
 - Description: Sensor_Current : CQ-236B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-236B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-236B)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ236B](http://oom.lt/SZKSENCURRENTCQ236B)

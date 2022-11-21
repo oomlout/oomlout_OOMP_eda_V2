@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Module-MDBT50Q-U1MV2
 - Hex ID: SZKRFMOMDBT5QU1MV2
 - Name: RF_Module : MDBT50Q-U1MV2
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Module/MDBT50Q-U1MV2/
 - Description: RF_Module : MDBT50Q-U1MV2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-MDBT50Q-U1MV2](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-MDBT50Q-U1MV2)
 - Short Link: [http://oom.lt/SZKRFMOMDBT5QU1MV2](http://oom.lt/SZKRFMOMDBT5QU1MV2)

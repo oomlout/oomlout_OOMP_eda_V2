@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-PUMX1
 - Hex ID: SZKTRANSISTORBJTPUMX1
 - Name: Transistor_BJT : PUMX1
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/PUMX1/
 - Description: Transistor_BJT : PUMX1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PUMX1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PUMX1)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPUMX1](http://oom.lt/SZKTRANSISTORBJTPUMX1)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Gas-CCS811
 - Hex ID: SZKSENGASCCS811
 - Name: Sensor_Gas : CCS811
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Gas/CCS811/
 - Description: Sensor_Gas : CCS811
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-CCS811](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-CCS811)
 - Short Link: [http://oom.lt/SZKSENGASCCS811](http://oom.lt/SZKSENGASCCS811)

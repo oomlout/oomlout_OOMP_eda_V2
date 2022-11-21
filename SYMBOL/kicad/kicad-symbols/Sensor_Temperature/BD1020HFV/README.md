@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-BD1020HFV
 - Hex ID: SZKSENTEMPERATUREBD12HFV
 - Name: Sensor_Temperature : BD1020HFV
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/BD1020HFV/
 - Description: Sensor_Temperature : BD1020HFV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-BD1020HFV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-BD1020HFV)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREBD12HFV](http://oom.lt/SZKSENTEMPERATUREBD12HFV)

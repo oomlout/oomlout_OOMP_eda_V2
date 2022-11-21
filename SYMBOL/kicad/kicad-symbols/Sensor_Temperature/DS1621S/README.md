@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1621S
 - Hex ID: SZKSENTEMPERATUREDS1621S
 - Name: Sensor_Temperature : DS1621S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/DS1621S/
 - Description: Sensor_Temperature : DS1621S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1621S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1621S)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREDS1621S](http://oom.lt/SZKSENTEMPERATUREDS1621S)

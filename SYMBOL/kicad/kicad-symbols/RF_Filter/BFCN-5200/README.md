@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-5200
 - Hex ID: SZKRFFILBFCN52
 - Name: RF_Filter : BFCN-5200
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-5200/
 - Description: RF_Filter : BFCN-5200
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-5200](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-5200)
 - Short Link: [http://oom.lt/SZKRFFILBFCN52](http://oom.lt/SZKRFFILBFCN52)

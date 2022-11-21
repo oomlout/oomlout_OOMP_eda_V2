@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN24H3D5L
 - Hex ID: SZKTRANSISTORFETDMN24H3D5L
 - Name: Transistor_FET : DMN24H3D5L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN24H3D5L/
 - Description: Transistor_FET : DMN24H3D5L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN24H3D5L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN24H3D5L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN24H3D5L](http://oom.lt/SZKTRANSISTORFETDMN24H3D5L)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-VP0610L
 - Hex ID: SZKTRANSISTORFETVP61L
 - Name: Transistor_FET : VP0610L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/VP0610L/
 - Description: Transistor_FET : VP0610L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-VP0610L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-VP0610L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETVP61L](http://oom.lt/SZKTRANSISTORFETVP61L)

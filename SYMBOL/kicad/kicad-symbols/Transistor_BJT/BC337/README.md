@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC337
 - Hex ID: SZKTRANSISTORBJTBC337
 - Name: Transistor_BJT : BC337
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC337/
 - Description: Transistor_BJT : BC337
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC337](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC337)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC337](http://oom.lt/SZKTRANSISTORBJTBC337)

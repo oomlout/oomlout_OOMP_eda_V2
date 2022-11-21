@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PE-68386NL
 - Hex ID: SZKTRPE68386NL
 - Name: Transformer : PE-68386NL
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/PE-68386NL/
 - Description: Transformer : PE-68386NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PE-68386NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PE-68386NL)
 - Short Link: [http://oom.lt/SZKTRPE68386NL](http://oom.lt/SZKTRPE68386NL)

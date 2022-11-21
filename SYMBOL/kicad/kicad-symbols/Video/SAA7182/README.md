@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-SAA7182
 - Hex ID: SZKVIDEOSAA7182
 - Name: Video : SAA7182
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/SAA7182/
 - Description: Video : SAA7182
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-SAA7182](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-SAA7182)
 - Short Link: [http://oom.lt/SZKVIDEOSAA7182](http://oom.lt/SZKVIDEOSAA7182)

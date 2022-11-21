@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF-FODM3012
 - Hex ID: SZKRFFODM312
 - Name: RF : FODM3012
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/FODM3012/
 - Description: RF : FODM3012
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FODM3012](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FODM3012)
 - Short Link: [http://oom.lt/SZKRFFODM312](http://oom.lt/SZKRFFODM312)

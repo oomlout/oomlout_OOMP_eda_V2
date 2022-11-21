@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-FINDER-34.51.7xxx.x019
 - Hex ID: SZKRELAYFINDER34517XXXX19
 - Name: Relay : FINDER-34.51.7xxx.x019
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/FINDER-34.51.7xxx.x019/
 - Description: Relay : FINDER-34.51.7xxx.x019
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-34.51.7xxx.x019](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-34.51.7xxx.x019)
 - Short Link: [http://oom.lt/SZKRELAYFINDER34517XXXX19](http://oom.lt/SZKRELAYFINDER34517XXXX19)

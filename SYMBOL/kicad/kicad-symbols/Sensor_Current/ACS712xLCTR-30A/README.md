@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS712xLCTR-30A
 - Hex ID: SZKSENCURRENTACS712XLCTR3A
 - Name: Sensor_Current : ACS712xLCTR-30A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS712xLCTR-30A/
 - Description: Sensor_Current : ACS712xLCTR-30A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS712xLCTR-30A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS712xLCTR-30A)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS712XLCTR3A](http://oom.lt/SZKSENCURRENTACS712XLCTR3A)

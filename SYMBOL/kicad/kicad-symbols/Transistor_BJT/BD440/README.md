@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD440
 - Hex ID: SZKTRANSISTORBJTBD44
 - Name: Transistor_BJT : BD440
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD440/
 - Description: Transistor_BJT : BD440
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD440](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD440)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD44](http://oom.lt/SZKTRANSISTORBJTBD44)

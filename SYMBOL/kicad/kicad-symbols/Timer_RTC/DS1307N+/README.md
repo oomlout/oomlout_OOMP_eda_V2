@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1307N+
 - Hex ID: SZKTIMERRTCDS137N+
 - Name: Timer_RTC : DS1307N+
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/DS1307N+/
 - Description: Timer_RTC : DS1307N+
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1307N+](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1307N+)
 - Short Link: [http://oom.lt/SZKTIMERRTCDS137N+](http://oom.lt/SZKTIMERRTCDS137N+)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-TDA2593
 - Hex ID: SZKVIDEOTDA2593
 - Name: Video : TDA2593
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/TDA2593/
 - Description: Video : TDA2593
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA2593](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA2593)
 - Short Link: [http://oom.lt/SZKVIDEOTDA2593](http://oom.lt/SZKVIDEOTDA2593)

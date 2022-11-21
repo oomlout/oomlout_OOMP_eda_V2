@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-NCV1413B
 - Hex ID: SZKTRANSISTORARRAYNCV1413B
 - Name: Transistor_Array : NCV1413B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Array/NCV1413B/
 - Description: Transistor_Array : NCV1413B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-NCV1413B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-NCV1413B)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYNCV1413B](http://oom.lt/SZKTRANSISTORARRAYNCV1413B)

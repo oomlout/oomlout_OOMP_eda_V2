@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT169B
 - Hex ID: SZKTRIACTHYRISTORBT169B
 - Name: Triac_Thyristor : BT169B
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BT169B/
 - Description: Triac_Thyristor : BT169B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT169B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT169B)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORBT169B](http://oom.lt/SZKTRIACTHYRISTORBT169B)

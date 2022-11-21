@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-EE2-4.5NKX
 - Hex ID: SZKRELAYEE245NKX
 - Name: Relay : EE2-4.5NKX
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-4.5NKX/
 - Description: Relay : EE2-4.5NKX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-4.5NKX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-4.5NKX)
 - Short Link: [http://oom.lt/SZKRELAYEE245NKX](http://oom.lt/SZKRELAYEE245NKX)

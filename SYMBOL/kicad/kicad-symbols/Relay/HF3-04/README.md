@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-HF3-04
 - Hex ID: SZKRELAYHF34
 - Name: Relay : HF3-04
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/HF3-04/
 - Description: Relay : HF3-04
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-HF3-04](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-HF3-04)
 - Short Link: [http://oom.lt/SZKRELAYHF34](http://oom.lt/SZKRELAYHF34)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41A
 - Hex ID: SZKTRANSISTORBJTTIP41A
 - Name: Transistor_BJT : TIP41A
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/TIP41A/
 - Description: Transistor_BJT : TIP41A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41A)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP41A](http://oom.lt/SZKTRANSISTORBJTTIP41A)

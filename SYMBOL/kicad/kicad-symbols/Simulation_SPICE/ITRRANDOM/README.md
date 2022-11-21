@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ITRRANDOM
 - Hex ID: SZKSIMULATIONSPICEITRRANDOM
 - Name: Simulation_SPICE : ITRRANDOM
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/ITRRANDOM/
 - Description: Simulation_SPICE : ITRRANDOM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ITRRANDOM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ITRRANDOM)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEITRRANDOM](http://oom.lt/SZKSIMULATIONSPICEITRRANDOM)

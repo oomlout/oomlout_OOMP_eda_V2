@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-34.81-9024
 - Hex ID: SZKRELAYSOLIDSTATE3481924
 - Name: Relay_SolidState : 34.81-9024
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/34.81-9024/
 - Description: Relay_SolidState : 34.81-9024
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-34.81-9024](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-34.81-9024)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATE3481924](http://oom.lt/SZKRELAYSOLIDSTATE3481924)

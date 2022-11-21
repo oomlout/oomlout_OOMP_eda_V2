@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-AB1805
 - Hex ID: SZKTIMERRTCAB185
 - Name: Timer_RTC : AB1805
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/AB1805/
 - Description: Timer_RTC : AB1805
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-AB1805](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-AB1805)
 - Short Link: [http://oom.lt/SZKTIMERRTCAB185](http://oom.lt/SZKTIMERRTCAB185)

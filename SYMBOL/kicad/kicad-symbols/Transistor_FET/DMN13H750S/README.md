@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN13H750S
 - Hex ID: SZKTRANSISTORFETDMN13H75S
 - Name: Transistor_FET : DMN13H750S
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN13H750S/
 - Description: Transistor_FET : DMN13H750S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN13H750S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN13H750S)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN13H75S](http://oom.lt/SZKTRANSISTORFETDMN13H75S)

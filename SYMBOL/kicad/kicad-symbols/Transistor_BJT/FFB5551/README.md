@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB5551
 - Hex ID: SZKTRANSISTORBJTFFB5551
 - Name: Transistor_BJT : FFB5551
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/FFB5551/
 - Description: Transistor_BJT : FFB5551
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB5551](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB5551)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTFFB5551](http://oom.lt/SZKTRANSISTORBJTFFB5551)

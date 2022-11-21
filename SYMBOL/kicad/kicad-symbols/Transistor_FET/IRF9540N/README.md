@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF9540N
 - Hex ID: SZKTRANSISTORFETIRF954N
 - Name: Transistor_FET : IRF9540N
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF9540N/
 - Description: Transistor_FET : IRF9540N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF9540N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF9540N)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF954N](http://oom.lt/SZKTRANSISTORFETIRF954N)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC856
 - Hex ID: SZKTRANSISTORBJTBC856
 - Name: Transistor_BJT : BC856
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BC856/
 - Description: Transistor_BJT : BC856
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC856](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC856)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC856](http://oom.lt/SZKTRANSISTORBJTBC856)

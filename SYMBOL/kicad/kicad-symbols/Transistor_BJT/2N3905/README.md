@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3905
 - Hex ID: SZKTRANSISTORBJT2N395
 - Name: Transistor_BJT : 2N3905
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2N3905/
 - Description: Transistor_BJT : 2N3905
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3905](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3905)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2N395](http://oom.lt/SZKTRANSISTORBJT2N395)

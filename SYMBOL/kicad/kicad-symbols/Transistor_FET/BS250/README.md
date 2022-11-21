@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BS250
 - Hex ID: SZKTRANSISTORFETBS25
 - Name: Transistor_FET : BS250
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/BS250/
 - Description: Transistor_FET : BS250
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BS250](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BS250)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBS25](http://oom.lt/SZKTRANSISTORFETBS25)

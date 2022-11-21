@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-BMI160
 - Hex ID: SZKSENMOTIONBMI16
 - Name: Sensor_Motion : BMI160
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/BMI160/
 - Description: Sensor_Motion : BMI160
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-BMI160](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-BMI160)
 - Short Link: [http://oom.lt/SZKSENMOTIONBMI16](http://oom.lt/SZKSENMOTIONBMI16)

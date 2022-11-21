@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NID60S24-05
 - Hex ID: SZKREGULATORSWINGNID6S245
 - Name: Regulator_Switching : NID60S24-05
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NID60S24-05/
 - Description: Regulator_Switching : NID60S24-05
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NID60S24-05](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NID60S24-05)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGNID6S245](http://oom.lt/SZKREGULATORSWINGNID6S245)

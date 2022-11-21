@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1941
 - Hex ID: SZKTRANSISTORBJT2SC1941
 - Name: Transistor_BJT : 2SC1941
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/2SC1941/
 - Description: Transistor_BJT : 2SC1941
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1941](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1941)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2SC1941](http://oom.lt/SZKTRANSISTORBJT2SC1941)

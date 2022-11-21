@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD133H
 - Hex ID: SZKTRANSISTORBJTDTD133H
 - Name: Transistor_BJT : DTD133H
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/DTD133H/
 - Description: Transistor_BJT : DTD133H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD133H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD133H)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTD133H](http://oom.lt/SZKTRANSISTORBJTDTD133H)

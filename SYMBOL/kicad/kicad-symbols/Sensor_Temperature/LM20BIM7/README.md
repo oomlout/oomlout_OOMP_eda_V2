@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM20BIM7
 - Hex ID: SZKSENTEMPERATURELM2BIM7
 - Name: Sensor_Temperature : LM20BIM7
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM20BIM7/
 - Description: Sensor_Temperature : LM20BIM7
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM20BIM7](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM20BIM7)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURELM2BIM7](http://oom.lt/SZKSENTEMPERATURELM2BIM7)

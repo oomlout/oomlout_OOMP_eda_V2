@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor-BME680
 - Hex ID: SZKSENBME68
 - Name: Sensor : BME680
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor/BME680/
 - Description: Sensor : BME680
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-BME680](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-BME680)
 - Short Link: [http://oom.lt/SZKSENBME68](http://oom.lt/SZKSENBME68)

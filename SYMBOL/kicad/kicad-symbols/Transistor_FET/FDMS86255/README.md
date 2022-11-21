@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86255
 - Hex ID: SZKTRANSISTORFETFDMS86255
 - Name: Transistor_FET : FDMS86255
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS86255/
 - Description: Transistor_FET : FDMS86255
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86255](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86255)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMS86255](http://oom.lt/SZKTRANSISTORFETFDMS86255)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM35-NEB
 - Hex ID: SZKSENTEMPERATURELM35NEB
 - Name: Sensor_Temperature : LM35-NEB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/LM35-NEB/
 - Description: Sensor_Temperature : LM35-NEB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM35-NEB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM35-NEB)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURELM35NEB](http://oom.lt/SZKSENTEMPERATURELM35NEB)

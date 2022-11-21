@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TSIC206-SO8
 - Hex ID: SZKSENTEMPERATURETSIC26SO8
 - Name: Sensor_Temperature : TSIC206-SO8
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TSIC206-SO8/
 - Description: Sensor_Temperature : TSIC206-SO8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TSIC206-SO8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TSIC206-SO8)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETSIC26SO8](http://oom.lt/SZKSENTEMPERATURETSIC26SO8)

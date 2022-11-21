@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-PCT2075D
 - Hex ID: SZKSENTEMPERATUREPCT275D
 - Name: Sensor_Temperature : PCT2075D
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/PCT2075D/
 - Description: Sensor_Temperature : PCT2075D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-PCT2075D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-PCT2075D)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREPCT275D](http://oom.lt/SZKSENTEMPERATUREPCT275D)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM47
 - Hex ID: SZKRELAYIM47
 - Name: Relay : IM47
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/IM47/
 - Description: Relay : IM47
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM47](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM47)
 - Short Link: [http://oom.lt/SZKRELAYIM47](http://oom.lt/SZKRELAYIM47)

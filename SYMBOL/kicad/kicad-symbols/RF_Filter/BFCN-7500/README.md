@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-7500
 - Hex ID: SZKRFFILBFCN75
 - Name: RF_Filter : BFCN-7500
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-7500/
 - Description: RF_Filter : BFCN-7500
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-7500](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-7500)
 - Short Link: [http://oom.lt/SZKRFFILBFCN75](http://oom.lt/SZKRFFILBFCN75)

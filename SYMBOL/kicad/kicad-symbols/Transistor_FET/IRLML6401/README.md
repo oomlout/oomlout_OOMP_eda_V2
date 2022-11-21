@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML6401
 - Hex ID: SZKTRANSISTORFETIRLML641
 - Name: Transistor_FET : IRLML6401
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRLML6401/
 - Description: Transistor_FET : IRLML6401
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML6401](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML6401)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRLML641](http://oom.lt/SZKTRANSISTORFETIRLML641)

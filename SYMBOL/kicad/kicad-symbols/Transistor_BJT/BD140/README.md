@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD140
 - Hex ID: SZKTRANSISTORBJTBD14
 - Name: Transistor_BJT : BD140
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD140/
 - Description: Transistor_BJT : BD140
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD140](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD140)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD14](http://oom.lt/SZKTRANSISTORBJTBD14)

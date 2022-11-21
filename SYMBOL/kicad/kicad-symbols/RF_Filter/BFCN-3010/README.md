@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-3010
 - Hex ID: SZKRFFILBFCN31
 - Name: RF_Filter : BFCN-3010
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/BFCN-3010/
 - Description: RF_Filter : BFCN-3010
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-3010](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-3010)
 - Short Link: [http://oom.lt/SZKRFFILBFCN31](http://oom.lt/SZKRFFILBFCN31)

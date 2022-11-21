@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-R-782.5-0.5
 - Hex ID: SZKREGULATORSWINGR78255
 - Name: Regulator_Switching : R-782.5-0.5
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/R-782.5-0.5/
 - Description: Regulator_Switching : R-782.5-0.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-R-782.5-0.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-R-782.5-0.5)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGR78255](http://oom.lt/SZKREGULATORSWINGR78255)

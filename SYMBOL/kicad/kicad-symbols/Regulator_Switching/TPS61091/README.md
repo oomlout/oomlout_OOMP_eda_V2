@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61091
 - Hex ID: SZKREGULATORSWINGTPS6191
 - Name: Regulator_Switching : TPS61091
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS61091/
 - Description: Regulator_Switching : TPS61091
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61091](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61091)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS6191](http://oom.lt/SZKREGULATORSWINGTPS6191)

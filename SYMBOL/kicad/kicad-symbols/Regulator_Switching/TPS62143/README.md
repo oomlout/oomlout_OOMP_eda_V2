@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62143
 - Hex ID: SZKREGULATORSWINGTPS62143
 - Name: Regulator_Switching : TPS62143
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS62143/
 - Description: Regulator_Switching : TPS62143
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62143](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62143)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS62143](http://oom.lt/SZKREGULATORSWINGTPS62143)

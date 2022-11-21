@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF3205
 - Hex ID: SZKTRANSISTORFETIRF325
 - Name: Transistor_FET : IRF3205
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRF3205/
 - Description: Transistor_FET : IRF3205
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF3205](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF3205)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF325](http://oom.lt/SZKTRANSISTORFETIRF325)

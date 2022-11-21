@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS711xEXLT-15AB
 - Hex ID: SZKSENCURRENTACS711XEXLT15AB
 - Name: Sensor_Current : ACS711xEXLT-15AB
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS711xEXLT-15AB/
 - Description: Sensor_Current : ACS711xEXLT-15AB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS711xEXLT-15AB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS711xEXLT-15AB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS711XEXLT15AB](http://oom.lt/SZKSENCURRENTACS711XEXLT15AB)

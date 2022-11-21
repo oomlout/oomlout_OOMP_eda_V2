@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-320
 - Hex ID: SZKRFFILLFCN32
 - Name: RF_Filter : LFCN-320
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/LFCN-320/
 - Description: RF_Filter : LFCN-320
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-320](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-320)
 - Short Link: [http://oom.lt/SZKRFFILLFCN32](http://oom.lt/SZKRFFILLFCN32)

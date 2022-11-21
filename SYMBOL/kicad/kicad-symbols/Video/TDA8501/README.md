@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Video-TDA8501
 - Hex ID: SZKVIDEOTDA851
 - Name: Video : TDA8501
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/TDA8501/
 - Description: Video : TDA8501
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA8501](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA8501)
 - Short Link: [http://oom.lt/SZKVIDEOTDA851](http://oom.lt/SZKVIDEOTDA851)

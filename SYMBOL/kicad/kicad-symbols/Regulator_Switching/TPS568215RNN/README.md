@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS568215RNN
 - Hex ID: SZKREGULATORSWINGTPS568215RNN
 - Name: Regulator_Switching : TPS568215RNN
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS568215RNN/
 - Description: Regulator_Switching : TPS568215RNN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS568215RNN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS568215RNN)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTPS568215RNN](http://oom.lt/SZKREGULATORSWINGTPS568215RNN)

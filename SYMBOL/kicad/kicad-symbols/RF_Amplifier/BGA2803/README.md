@@ -14,6 +14,7 @@ NO IMAGE
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-BGA2803
 - Hex ID: SZKRFAMPLIFIERBGA283
 - Name: RF_Amplifier : BGA2803
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Amplifier/BGA2803/
 - Description: RF_Amplifier : BGA2803
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-BGA2803](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-BGA2803)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERBGA283](http://oom.lt/SZKRFAMPLIFIERBGA283)

@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3042L
 - Hex ID: SZKTRANSISTORFETDMN342L
 - Name: Transistor_FET : DMN3042L
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMN3042L/
 - Description: Transistor_FET : DMN3042L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3042L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3042L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN342L](http://oom.lt/SZKTRANSISTORFETDMN342L)

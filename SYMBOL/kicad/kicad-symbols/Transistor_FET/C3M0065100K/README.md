@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0065100K
 - Hex ID: SZKTRANSISTORFETC3M651K
 - Name: Transistor_FET : C3M0065100K
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/C3M0065100K/
 - Description: Transistor_FET : C3M0065100K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0065100K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0065100K)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETC3M651K](http://oom.lt/SZKTRANSISTORFETC3M651K)

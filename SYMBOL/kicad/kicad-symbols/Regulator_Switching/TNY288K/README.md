@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY288K
 - Hex ID: SZKREGULATORSWINGTNY288K
 - Name: Regulator_Switching : TNY288K
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TNY288K/
 - Description: Regulator_Switching : TNY288K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY288K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY288K)
 - Short Link: [http://oom.lt/SZKREGULATORSWINGTNY288K](http://oom.lt/SZKREGULATORSWINGTNY288K)

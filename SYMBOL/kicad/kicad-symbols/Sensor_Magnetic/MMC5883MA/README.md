@@ -15,6 +15,7 @@ Contents
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MMC5883MA
 - Hex ID: SZKSENMAGNETICC5883MA
 - Name: Sensor_Magnetic : MMC5883MA
+- Path: oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MMC5883MA/
 - Description: Sensor_Magnetic : MMC5883MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MMC5883MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MMC5883MA)
 - Short Link: [http://oom.lt/SZKSENMAGNETICC5883MA](http://oom.lt/SZKSENMAGNETICC5883MA)
