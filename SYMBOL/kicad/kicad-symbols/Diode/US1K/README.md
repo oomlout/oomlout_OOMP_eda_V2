@@ -39,7 +39,7 @@ Contents
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-US1K|
 |Hex ID (short code)|hexID|SZKDIODEUS1K|
 |name|name|Diode : US1K|
-|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MRA4003T3G'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'US1K'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/ds16008.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Ultra Fast'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '800V</td><td> 1A</td><td> General Purpose Rectifier Diode</td><td> SMA(DO-214AC)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SMA*'</td></tr></table>]|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '1N4001'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'US1K'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/ds16008.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Ultra Fast'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '800V</td><td> 1A</td><td> General Purpose Rectifier Diode</td><td> SMA(DO-214AC)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SMA*'</td></tr></table>]|
 ||||
 
 

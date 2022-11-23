@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEINSCPHE13741S6P > inductors : CPH-E13_7_4-1S-6P](#fzeinscphe13741s6p--inductors--cph-e13_7_4-1s-6p)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: inductors : CPH-E13_7_4-1S-6P
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-CPH-E13_7_4-1S-6P](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductors-CPH-E13_7_4-1S-6P)
 - Short Link: [http://oom.lt/FZEINSCPHE13741S6P](http://oom.lt/FZEINSCPHE13741S6P)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/inductors/CPH-E13_7_4-1S-6P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/inductors/CPH-E13_7_4-1S-6P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/inductors/CPH-E13_7_4-1S-6P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/inductors/CPH-E13_7_4-1S-6P/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/inductors/CPH-E13_7_4-1S-6P/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/inductors/CPH-E13_7_4-1S-6P/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/inductors/CPH-E13_7_4-1S-6P/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/inductors/CPH-E13_7_4-1S-6P/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/inductors/CPH-E13_7_4-1S-6P/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/inductors/CPH-E13_7_4-1S-6P/kicadPcb3d.png)||||
+
 ## Tags
   
 

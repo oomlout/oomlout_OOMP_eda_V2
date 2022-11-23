@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEICPPGA68N > ic-package : PGA68-N](#fzeicppga68n--ic-package--pga68-n)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: ic-package : PGA68-N
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-PGA68-N](http://oom.lt/FOOTPRINT-eagle-eagle-default-ic-package-PGA68-N)
 - Short Link: [http://oom.lt/FZEICPPGA68N](http://oom.lt/FZEICPPGA68N)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/ic-package/PGA68-N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/ic-package/PGA68-N/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/ic-package/PGA68-N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/ic-package/PGA68-N/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/ic-package/PGA68-N/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/ic-package/PGA68-N/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/ic-package/PGA68-N/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/ic-package/PGA68-N/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/ic-package/PGA68-N/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/ic-package/PGA68-N/kicadPcb3d.png)||||
+
 ## Tags
   
 

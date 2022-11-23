@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEDILCDEAD > display-lcd : EA_DIP](#fzedilcdead--display-lcd--ea_dip)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: display-lcd : EA_DIP
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-EA_DIP](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-EA_DIP)
 - Short Link: [http://oom.lt/FZEDILCDEAD](http://oom.lt/FZEDILCDEAD)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/display-lcd/EA_DIP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/display-lcd/EA_DIP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/display-lcd/EA_DIP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/display-lcd/EA_DIP/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/display-lcd/EA_DIP/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/display-lcd/EA_DIP/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/display-lcd/EA_DIP/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/display-lcd/EA_DIP/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/display-lcd/EA_DIP/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/display-lcd/EA_DIP/kicadPcb3d.png)||||
+
 ## Tags
   
 

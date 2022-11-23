@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZECONYAMAICHIIC51644692 > con-yamaichi : IC51-0644-692](#fzeconyamaichiic51644692--con-yamaichi--ic51-0644-692)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: con-yamaichi : IC51-0644-692
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-IC51-0644-692](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-IC51-0644-692)
 - Short Link: [http://oom.lt/FZECONYAMAICHIIC51644692](http://oom.lt/FZECONYAMAICHIIC51644692)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/IC51-0644-692/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/IC51-0644-692/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/IC51-0644-692/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/IC51-0644-692/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/IC51-0644-692/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/IC51-0644-692/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/IC51-0644-692/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/IC51-0644-692/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/IC51-0644-692/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/IC51-0644-692/kicadPcb3d.png)||||
+
 ## Tags
   
 

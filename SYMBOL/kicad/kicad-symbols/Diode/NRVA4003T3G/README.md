@@ -39,7 +39,7 @@ Contents
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-NRVA4003T3G|
 |Hex ID (short code)|hexID|SZKDIODENRVA43T3G|
 |name|name|Diode : NRVA4003T3G|
-|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MRA4003T3G'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NRVA4003T3G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AEC-Q101'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300V</td><td> 1A</td><td> General Purpose Rectifier Diode</td><td> SMA(DO-214AC)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SMA*'</td></tr></table>]|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '1N4001'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NRVA4003T3G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AEC-Q101'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300V</td><td> 1A</td><td> General Purpose Rectifier Diode</td><td> SMA(DO-214AC)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SMA*'</td></tr></table>]|
 ||||
 
 

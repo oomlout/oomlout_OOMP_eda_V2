@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEDILCDMGLS24128TZ > display-lcd : MGLS2401280TZ](#fzedilcdmgls24128tz--display-lcd--mgls2401280tz)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: display-lcd : MGLS2401280TZ
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-MGLS2401280TZ](http://oom.lt/FOOTPRINT-eagle-eagle-default-display-lcd-MGLS2401280TZ)
 - Short Link: [http://oom.lt/FZEDILCDMGLS24128TZ](http://oom.lt/FZEDILCDMGLS24128TZ)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/display-lcd/MGLS2401280TZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/display-lcd/MGLS2401280TZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/display-lcd/MGLS2401280TZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/display-lcd/MGLS2401280TZ/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/display-lcd/MGLS2401280TZ/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/display-lcd/MGLS2401280TZ/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/display-lcd/MGLS2401280TZ/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/display-lcd/MGLS2401280TZ/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/display-lcd/MGLS2401280TZ/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/display-lcd/MGLS2401280TZ/kicadPcb3d.png)||||
+
 ## Tags
   
 

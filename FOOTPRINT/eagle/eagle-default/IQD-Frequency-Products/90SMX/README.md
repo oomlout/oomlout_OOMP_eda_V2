@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEIQDFREQUENCYPRODUCTS9SMX > IQD-Frequency-Products : 90SMX](#fzeiqdfrequencyproducts9smx--iqd-frequency-products--90smx)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: IQD-Frequency-Products : 90SMX
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-90SMX](http://oom.lt/FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-90SMX)
 - Short Link: [http://oom.lt/FZEIQDFREQUENCYPRODUCTS9SMX](http://oom.lt/FZEIQDFREQUENCYPRODUCTS9SMX)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/90SMX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/90SMX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/90SMX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/90SMX/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/90SMX/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/90SMX/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/90SMX/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/90SMX/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/90SMX/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/IQD-Frequency-Products/90SMX/kicadPcb3d.png)||||
+
 ## Tags
   
 

@@ -39,7 +39,7 @@ Contents
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MCL4448|
 |Hex ID (short code)|hexID|SZKDIODEMCL4448|
 |name|name|Diode : MCL4448|
-|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCL4148'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCL4448'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_MicroMELF'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/85566/mlc4148.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '75V 0.2A Switching Diode</td><td> MicroMELF'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*MicroMELF*'</td></tr></table>]|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '1N4001'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCL4448'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_MicroMELF'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/85566/mlc4148.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '75V 0.2A Switching Diode</td><td> MicroMELF'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*MicroMELF*'</td></tr></table>]|
 ||||
 
 

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZECONYAMAICHIMDIN6K > con-yamaichi : MDIN06K](#fzeconyamaichimdin6k--con-yamaichi--mdin06k)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: con-yamaichi : MDIN06K
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN06K](http://oom.lt/FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN06K)
 - Short Link: [http://oom.lt/FZECONYAMAICHIMDIN6K](http://oom.lt/FZECONYAMAICHIMDIN6K)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/MDIN06K/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/MDIN06K/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/MDIN06K/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/MDIN06K/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/MDIN06K/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/MDIN06K/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/MDIN06K/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/MDIN06K/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/MDIN06K/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/con-yamaichi/MDIN06K/kicadPcb3d.png)||||
+
 ## Tags
   
 

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZELSICOMPUTERSYSTEMSSOIC18L > lsi-computer-systems : SOIC18L](#fzelsicomputersystemssoic18l--lsi-computer-systems--soic18l)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: lsi-computer-systems : SOIC18L
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC18L](http://oom.lt/FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC18L)
 - Short Link: [http://oom.lt/FZELSICOMPUTERSYSTEMSSOIC18L](http://oom.lt/FZELSICOMPUTERSYSTEMSSOIC18L)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/SOIC18L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/SOIC18L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/SOIC18L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/SOIC18L/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/SOIC18L/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/SOIC18L/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/SOIC18L/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/SOIC18L/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/SOIC18L/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/lsi-computer-systems/SOIC18L/kicadPcb3d.png)||||
+
 ## Tags
   
 

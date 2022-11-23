@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEINNEOSIDZ447 > inductor-neosid : Z4_47](#fzeinneosidz447--inductor-neosid--z4_47)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: inductor-neosid : Z4_47
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-Z4_47](http://oom.lt/FOOTPRINT-eagle-eagle-default-inductor-neosid-Z4_47)
 - Short Link: [http://oom.lt/FZEINNEOSIDZ447](http://oom.lt/FZEINNEOSIDZ447)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/inductor-neosid/Z4_47/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/inductor-neosid/Z4_47/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/inductor-neosid/Z4_47/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/inductor-neosid/Z4_47/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/inductor-neosid/Z4_47/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/inductor-neosid/Z4_47/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/inductor-neosid/Z4_47/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/inductor-neosid/Z4_47/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/inductor-neosid/Z4_47/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/inductor-neosid/Z4_47/kicadPcb3d.png)||||
+
 ## Tags
   
 

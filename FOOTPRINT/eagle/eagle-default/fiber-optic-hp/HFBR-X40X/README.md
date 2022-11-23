@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEFIBEROPTICHPHFBRX4X > fiber-optic-hp : HFBR-X40X](#fzefiberoptichphfbrx4x--fiber-optic-hp--hfbr-x40x)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: fiber-optic-hp : HFBR-X40X
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-fiber-optic-hp-HFBR-X40X](http://oom.lt/FOOTPRINT-eagle-eagle-default-fiber-optic-hp-HFBR-X40X)
 - Short Link: [http://oom.lt/FZEFIBEROPTICHPHFBRX4X](http://oom.lt/FZEFIBEROPTICHPHFBRX4X)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/fiber-optic-hp/HFBR-X40X/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/fiber-optic-hp/HFBR-X40X/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/fiber-optic-hp/HFBR-X40X/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/fiber-optic-hp/HFBR-X40X/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/fiber-optic-hp/HFBR-X40X/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/fiber-optic-hp/HFBR-X40X/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/fiber-optic-hp/HFBR-X40X/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/fiber-optic-hp/HFBR-X40X/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/fiber-optic-hp/HFBR-X40X/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/fiber-optic-hp/HFBR-X40X/kicadPcb3d.png)||||
+
 ## Tags
   
 
