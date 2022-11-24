@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXGEYERV17X58KXO(V)97 > crystal-geyer_V1_0 : 7.0X5.08_KXO-(V)97
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-7.0X5.08_KXO-(V)97
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXGEYERV17X58KXO(V)97|
 |name|name|crystal-geyer_V1_0 : 7.0X5.08_KXO-(V)97|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

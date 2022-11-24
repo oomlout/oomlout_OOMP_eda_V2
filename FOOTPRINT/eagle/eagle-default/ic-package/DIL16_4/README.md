@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEICPDIL164 > ic-package : DIL16_4
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-DIL16_4
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEICPDIL164|
 |name|name|ic-package : DIL16_4|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTECHNOLOGYTO92PAC > linear-technology : TO92.PAC
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-TO92.PAC
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTECHNOLOGYTO92PAC|
 |name|name|linear-technology : TO92.PAC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

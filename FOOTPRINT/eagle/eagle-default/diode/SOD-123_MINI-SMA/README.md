@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESOD123MS > diode : SOD-123_MINI-SMA
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD-123_MINI-SMA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESOD123MS|
 |name|name|diode : SOD-123_MINI-SMA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

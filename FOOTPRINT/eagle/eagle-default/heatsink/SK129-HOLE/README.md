@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEHSK129H > heatsink : SK129-HOLE
 
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-SK129-HOLE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEHSK129H|
 |name|name|heatsink : SK129-HOLE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

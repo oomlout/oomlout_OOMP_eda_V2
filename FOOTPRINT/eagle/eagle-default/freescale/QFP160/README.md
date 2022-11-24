@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFREESCALEQFP16 > freescale : QFP160
 
 - ID: FOOTPRINT-eagle-eagle-default-freescale-QFP160
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFREESCALEQFP16|
 |name|name|freescale : QFP160|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

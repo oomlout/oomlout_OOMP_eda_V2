@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFUTR5 > fuse : TR5
 
 - ID: FOOTPRINT-eagle-eagle-default-fuse-TR5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFUTR5|
 |name|name|fuse : TR5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

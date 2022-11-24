@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZSCEIA632NOM > SparkFun-Capacitors : EIA6032-NOM](#fzsceia632nom--sparkfun-capacitors--eia6032-nom)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: SparkFun-Capacitors : EIA6032-NOM
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA6032-NOM](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA6032-NOM)
 - Short Link: [http://oom.lt/FZSCEIA632NOM](http://oom.lt/FZSCEIA632NOM)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/EIA6032-NOM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/EIA6032-NOM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/EIA6032-NOM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/EIA6032-NOM/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/EIA6032-NOM/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/EIA6032-NOM/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/EIA6032-NOM/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/EIA6032-NOM/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/EIA6032-NOM/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors/EIA6032-NOM/kicadPcb3d.png)||||
+
 ## Tags
   
 

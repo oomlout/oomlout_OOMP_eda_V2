@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELLZR182 > led : LZR182
 
 - ID: FOOTPRINT-eagle-eagle-default-led-LZR182
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELLZR182|
 |name|name|led : LZR182|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

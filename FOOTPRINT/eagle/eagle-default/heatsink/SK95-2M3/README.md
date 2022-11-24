@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEHSK952M3 > heatsink : SK95-2M3
 
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-SK95-2M3
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEHSK952M3|
 |name|name|heatsink : SK95-2M3|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

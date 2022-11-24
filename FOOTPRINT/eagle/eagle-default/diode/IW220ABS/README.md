@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEIW22ABS > diode : IW220ABS
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-IW220ABS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEIW22ABS|
 |name|name|diode : IW220ABS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONYAMAICHIIEEE1394 > con-yamaichi : IEEE1394
 
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-IEEE1394
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONYAMAICHIIEEE1394|
 |name|name|con-yamaichi : IEEE1394|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

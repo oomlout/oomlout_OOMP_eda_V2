@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONYAMAICHISSVBD3 > con-yamaichi : SSV-BD03
 
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-SSV-BD03
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONYAMAICHISSVBD3|
 |name|name|con-yamaichi : SSV-BD03|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

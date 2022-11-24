@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEER9 > diode : ER900
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-ER900
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEER9|
 |name|name|diode : ER900|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

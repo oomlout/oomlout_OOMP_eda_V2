@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEX11S > crystal : 1100S
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-1100S
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEX11S|
 |name|name|crystal : 1100S|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

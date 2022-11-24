@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELGM1WA55311A > led : GM1WA55311A
 
 - ID: FOOTPRINT-eagle-eagle-default-led-GM1WA55311A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELGM1WA55311A|
 |name|name|led : GM1WA55311A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFRAMESFRAMEA3L > frames : FRAMEA3L
 
 - ID: FOOTPRINT-eagle-eagle-default-frames-FRAMEA3L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFRAMESFRAMEA3L|
 |name|name|frames : FRAMEA3L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

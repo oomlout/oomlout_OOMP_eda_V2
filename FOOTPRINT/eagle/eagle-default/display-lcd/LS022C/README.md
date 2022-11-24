@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDILCDLS22C > display-lcd : LS022C
 
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-LS022C
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDILCDLS22C|
 |name|name|display-lcd : LS022C|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

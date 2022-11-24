@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSBNX2 > inductors : BNX002
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-BNX002
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSBNX2|
 |name|name|inductors : BNX002|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

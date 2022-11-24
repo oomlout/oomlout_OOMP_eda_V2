@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZSIL14QFN > SparkFun-IC-Logic : 14-QFN](#fzsil14qfn--sparkfun-ic-logic--14-qfn)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: SparkFun-IC-Logic : 14-QFN
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-14-QFN](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-14-QFN)
 - Short Link: [http://oom.lt/FZSIL14QFN](http://oom.lt/FZSIL14QFN)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/14-QFN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/14-QFN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/14-QFN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/14-QFN/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/14-QFN/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/14-QFN/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/14-QFN/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/14-QFN/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/14-QFN/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Logic/14-QFN/kicadPcb3d.png)||||
+
 ## Tags
   
 

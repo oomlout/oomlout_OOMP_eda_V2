@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXSG51 > crystal : SG51
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-SG51
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXSG51|
 |name|name|crystal : SG51|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

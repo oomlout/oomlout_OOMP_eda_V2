@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFAIRCHILDSEMICSO28W > fairchild-semic : SO-28W
 
 - ID: FOOTPRINT-eagle-eagle-default-fairchild-semic-SO-28W
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFAIRCHILDSEMICSO28W|
 |name|name|fairchild-semic : SO-28W|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

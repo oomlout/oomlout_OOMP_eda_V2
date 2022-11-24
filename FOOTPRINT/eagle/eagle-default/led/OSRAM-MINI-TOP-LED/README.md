@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELOSRAMMTOPL > led : OSRAM-MINI-TOP-LED
 
 - ID: FOOTPRINT-eagle-eagle-default-led-OSRAM-MINI-TOP-LED
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELOSRAMMTOPL|
 |name|name|led : OSRAM-MINI-TOP-LED|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

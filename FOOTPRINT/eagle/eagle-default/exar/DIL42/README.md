@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEEXARDIL42 > exar : DIL42
 
 - ID: FOOTPRINT-eagle-eagle-default-exar-DIL42
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEEXARDIL42|
 |name|name|exar : DIL42|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

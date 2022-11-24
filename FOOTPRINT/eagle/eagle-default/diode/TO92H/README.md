@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODETO92H > diode : TO92H
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-TO92H
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODETO92H|
 |name|name|diode : TO92H|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

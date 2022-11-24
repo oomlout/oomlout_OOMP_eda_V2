@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARCB36 > linear : CB360
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-CB360
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARCB36|
 |name|name|linear : CB360|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

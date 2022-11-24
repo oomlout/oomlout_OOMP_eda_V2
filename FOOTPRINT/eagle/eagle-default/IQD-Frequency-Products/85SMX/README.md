@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEIQDFREQUENCYPRODUCTS85SMX > IQD-Frequency-Products : 85SMX
 
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-85SMX
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEIQDFREQUENCYPRODUCTS85SMX|
 |name|name|IQD-Frequency-Products : 85SMX|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

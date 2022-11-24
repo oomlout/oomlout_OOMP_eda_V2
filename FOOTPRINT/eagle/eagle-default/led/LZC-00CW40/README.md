@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELLZCCW4 > led : LZC-00CW40
 
 - ID: FOOTPRINT-eagle-eagle-default-led-LZC-00CW40
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELLZCCW4|
 |name|name|led : LZC-00CW40|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

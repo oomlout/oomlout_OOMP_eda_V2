@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZSBOAUDIOAMPMONO > SparkFun-Boards : AUDIO-AMP-MONO](#fzsboaudioampmono--sparkfun-boards--audio-amp-mono)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: SparkFun-Boards : AUDIO-AMP-MONO
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-AUDIO-AMP-MONO](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-AUDIO-AMP-MONO)
 - Short Link: [http://oom.lt/FZSBOAUDIOAMPMONO](http://oom.lt/FZSBOAUDIOAMPMONO)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/AUDIO-AMP-MONO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/AUDIO-AMP-MONO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/AUDIO-AMP-MONO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/AUDIO-AMP-MONO/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/AUDIO-AMP-MONO/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/AUDIO-AMP-MONO/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/AUDIO-AMP-MONO/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/AUDIO-AMP-MONO/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/AUDIO-AMP-MONO/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/AUDIO-AMP-MONO/kicadPcb3d.png)||||
+
 ## Tags
   
 

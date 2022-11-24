@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINFINEONTRICOREPBGA329 > infineon-tricore : P-BGA329
 
 - ID: FOOTPRINT-eagle-eagle-default-infineon-tricore-P-BGA329
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINFINEONTRICOREPBGA329|
 |name|name|infineon-tricore : P-BGA329|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

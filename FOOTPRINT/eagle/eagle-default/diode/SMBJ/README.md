@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESMBJ > diode : SMBJ
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SMBJ
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESMBJ|
 |name|name|diode : SMBJ|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIHPHDP11 > display-hp : HD-P101
 
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HD-P101
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIHPHDP11|
 |name|name|display-hp : HD-P101|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

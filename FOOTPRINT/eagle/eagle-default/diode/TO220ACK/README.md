@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODETO22ACK > diode : TO220ACK
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-TO220ACK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODETO22ACK|
 |name|name|diode : TO220ACK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

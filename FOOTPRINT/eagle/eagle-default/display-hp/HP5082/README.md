@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIHPHP582 > display-hp : HP5082
 
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HP5082
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIHPHP582|
 |name|name|display-hp : HP5082|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

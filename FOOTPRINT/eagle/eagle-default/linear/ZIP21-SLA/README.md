@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARZIP21SLA > linear : ZIP21-SLA
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-ZIP21-SLA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARZIP21SLA|
 |name|name|linear : ZIP21-SLA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

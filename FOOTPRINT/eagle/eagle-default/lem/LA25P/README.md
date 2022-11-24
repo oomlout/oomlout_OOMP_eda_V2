@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELEMLA25P > lem : LA25P
 
 - ID: FOOTPRINT-eagle-eagle-default-lem-LA25P
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELEMLA25P|
 |name|name|lem : LA25P|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELU57X32 > led : U57X32
 
 - ID: FOOTPRINT-eagle-eagle-default-led-U57X32
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELU57X32|
 |name|name|led : U57X32|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

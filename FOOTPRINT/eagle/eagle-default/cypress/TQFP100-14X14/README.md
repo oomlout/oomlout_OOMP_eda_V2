@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECYPRESSTQFP114X14 > cypress : TQFP100-14X14
 
 - ID: FOOTPRINT-eagle-eagle-default-cypress-TQFP100-14X14
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECYPRESSTQFP114X14|
 |name|name|cypress : TQFP100-14X14|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

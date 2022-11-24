@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELGM1BW7814A > led : GM1BW78140A
 
 - ID: FOOTPRINT-eagle-eagle-default-led-GM1BW78140A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELGM1BW7814A|
 |name|name|led : GM1BW78140A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

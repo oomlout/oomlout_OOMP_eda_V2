@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZSAFIDTAB > SparkFun-Aesthetics : FIDUCIALTAB](#fzsafidtab--sparkfun-aesthetics--fiducialtab)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: SparkFun-Aesthetics : FIDUCIALTAB
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIDUCIALTAB](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIDUCIALTAB)
 - Short Link: [http://oom.lt/FZSAFIDTAB](http://oom.lt/FZSAFIDTAB)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FIDUCIALTAB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FIDUCIALTAB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FIDUCIALTAB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FIDUCIALTAB/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FIDUCIALTAB/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FIDUCIALTAB/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FIDUCIALTAB/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FIDUCIALTAB/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FIDUCIALTAB/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FIDUCIALTAB/kicadPcb3d.png)||||
+
 ## Tags
   
 

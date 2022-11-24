@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELCE5 > logo : CE_5MM
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-CE_5MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELCE5|
 |name|name|logo : CE_5MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

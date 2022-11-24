@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONYAMAICHIMD4SSP > con-yamaichi : MD04SSP
 
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-MD04SSP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONYAMAICHIMD4SSP|
 |name|name|con-yamaichi : MD04SSP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

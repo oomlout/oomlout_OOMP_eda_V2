@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEICPMPGA114 > ic-package : MPGA114
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-MPGA114
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEICPMPGA114|
 |name|name|ic-package : MPGA114|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

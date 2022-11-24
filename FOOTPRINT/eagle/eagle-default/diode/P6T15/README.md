@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEP6T15 > diode : P6T15
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-P6T15
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEP6T15|
 |name|name|diode : P6T15|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

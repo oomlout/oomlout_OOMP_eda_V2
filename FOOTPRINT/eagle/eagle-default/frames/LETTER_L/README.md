@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFRAMESLL > frames : LETTER_L
 
 - ID: FOOTPRINT-eagle-eagle-default-frames-LETTER_L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFRAMESLL|
 |name|name|frames : LETTER_L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

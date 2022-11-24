@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINFINEONPGVQFN182 > infineon : PG-VQFN-108-2
 
 - ID: FOOTPRINT-eagle-eagle-default-infineon-PG-VQFN-108-2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINFINEONPGVQFN182|
 |name|name|infineon : PG-VQFN-108-2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZSIUQFN484PITCH > SparkFun-IC-Microcontroller : QFN-48-.4MMPITCH](#fzsiuqfn484pitch--sparkfun-ic-microcontroller--qfn-48-4mmpitch)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: SparkFun-IC-Microcontroller : QFN-48-.4MMPITCH
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-48-.4MMPITCH](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-48-.4MMPITCH)
 - Short Link: [http://oom.lt/FZSIUQFN484PITCH](http://oom.lt/FZSIUQFN484PITCH)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-48-.4MMPITCH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-48-.4MMPITCH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-48-.4MMPITCH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-48-.4MMPITCH/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-48-.4MMPITCH/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-48-.4MMPITCH/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-48-.4MMPITCH/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-48-.4MMPITCH/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-48-.4MMPITCH/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-48-.4MMPITCH/kicadPcb3d.png)||||
+
 ## Tags
   
 

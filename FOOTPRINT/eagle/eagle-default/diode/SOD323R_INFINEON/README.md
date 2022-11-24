@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESOD323RINFINEON > diode : SOD323R_INFINEON
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD323R_INFINEON
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESOD323RINFINEON|
 |name|name|diode : SOD323R_INFINEON|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

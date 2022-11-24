@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEIRSO8 > ir : SO08
 
 - ID: FOOTPRINT-eagle-eagle-default-ir-SO08
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEIRSO8|
 |name|name|ir : SO08|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

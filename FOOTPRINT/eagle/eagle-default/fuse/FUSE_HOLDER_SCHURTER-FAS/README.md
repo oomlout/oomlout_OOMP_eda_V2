@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFUFUHSCHURTERFAS > fuse : FUSE_HOLDER_SCHURTER-FAS
 
 - ID: FOOTPRINT-eagle-eagle-default-fuse-FUSE_HOLDER_SCHURTER-FAS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFUFUHSCHURTERFAS|
 |name|name|fuse : FUSE_HOLDER_SCHURTER-FAS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

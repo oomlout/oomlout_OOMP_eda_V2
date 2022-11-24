@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEL7SLA41 > led-7-segment : LA-401
 
 - ID: FOOTPRINT-eagle-eagle-default-led-7-segment-LA-401
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEL7SLA41|
 |name|name|led-7-segment : LA-401|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

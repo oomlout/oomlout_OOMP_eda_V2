@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELOVSTRGBBCR8 > led : OVSTRGBBCR8
 
 - ID: FOOTPRINT-eagle-eagle-default-led-OVSTRGBBCR8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELOVSTRGBBCR8|
 |name|name|led : OVSTRGBBCR8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEEXARDIL286 > exar : DIL28-6
 
 - ID: FOOTPRINT-eagle-eagle-default-exar-DIL28-6
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEEXARDIL286|
 |name|name|exar : DIL28-6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

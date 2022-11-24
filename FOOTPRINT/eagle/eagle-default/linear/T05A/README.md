@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEART5A > linear : T05A
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-T05A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEART5A|
 |name|name|linear : T05A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

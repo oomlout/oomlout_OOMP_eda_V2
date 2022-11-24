@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZSIUQFN32NOP > SparkFun-IC-Microcontroller : QFN-32-NOPAD](#fzsiuqfn32nop--sparkfun-ic-microcontroller--qfn-32-nopad)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: SparkFun-IC-Microcontroller : QFN-32-NOPAD
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-32-NOPAD](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-32-NOPAD)
 - Short Link: [http://oom.lt/FZSIUQFN32NOP](http://oom.lt/FZSIUQFN32NOP)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-32-NOPAD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-32-NOPAD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-32-NOPAD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-32-NOPAD/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-32-NOPAD/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-32-NOPAD/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-32-NOPAD/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-32-NOPAD/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-32-NOPAD/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/QFN-32-NOPAD/kicadPcb3d.png)||||
+
 ## Tags
   
 

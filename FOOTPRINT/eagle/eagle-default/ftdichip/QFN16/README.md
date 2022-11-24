@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFTDICHIPQFN16 > ftdichip : QFN16
 
 - ID: FOOTPRINT-eagle-eagle-default-ftdichip-QFN16
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFTDICHIPQFN16|
 |name|name|ftdichip : QFN16|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSDR74 > inductors : DR74
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-DR74
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSDR74|
 |name|name|inductors : DR74|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEHOLTEKS18 > holtek : SOP18
 
 - ID: FOOTPRINT-eagle-eagle-default-holtek-SOP18
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEHOLTEKS18|
 |name|name|holtek : SOP18|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

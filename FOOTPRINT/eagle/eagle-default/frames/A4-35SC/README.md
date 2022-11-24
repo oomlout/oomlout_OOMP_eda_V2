@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFRAMESA435SC > frames : A4-35SC
 
 - ID: FOOTPRINT-eagle-eagle-default-frames-A4-35SC
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFRAMESA435SC|
 |name|name|frames : A4-35SC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

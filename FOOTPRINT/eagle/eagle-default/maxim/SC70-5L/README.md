@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIMSC75L > maxim : SC70-5L
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-SC70-5L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIMSC75L|
 |name|name|maxim : SC70-5L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

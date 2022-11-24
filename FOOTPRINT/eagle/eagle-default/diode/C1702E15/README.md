@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEC172E15 > diode : C1702E15
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-C1702E15
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEC172E15|
 |name|name|diode : C1702E15|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

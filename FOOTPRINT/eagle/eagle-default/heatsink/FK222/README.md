@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEHFK222 > heatsink : FK222
 
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-FK222
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEHFK222|
 |name|name|heatsink : FK222|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

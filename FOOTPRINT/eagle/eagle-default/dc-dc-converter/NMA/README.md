@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDCDCCONVERTERNMA > dc-dc-converter : NMA
 
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-NMA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDCDCCONVERTERNMA|
 |name|name|dc-dc-converter : NMA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXCTS46 > crystal : CTS406
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-CTS406
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXCTS46|
 |name|name|crystal : CTS406|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

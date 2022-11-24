@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINS82721K > inductors : 82721K
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-82721K
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINS82721K|
 |name|name|inductors : 82721K|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

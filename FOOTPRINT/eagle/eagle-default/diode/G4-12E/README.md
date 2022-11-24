@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEG412E > diode : G4-12E
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-G4-12E
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEG412E|
 |name|name|diode : G4-12E|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

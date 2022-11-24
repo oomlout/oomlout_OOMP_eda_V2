@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEHD2PAP > heatsink : D02PA-PAD
 
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-D02PA-PAD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEHD2PAP|
 |name|name|heatsink : D02PA-PAD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

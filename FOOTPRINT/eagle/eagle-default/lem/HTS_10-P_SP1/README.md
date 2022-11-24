@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELEMHTS1PSP1 > lem : HTS_10-P_SP1
 
 - ID: FOOTPRINT-eagle-eagle-default-lem-HTS_10-P_SP1
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELEMHTS1PSP1|
 |name|name|lem : HTS_10-P_SP1|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

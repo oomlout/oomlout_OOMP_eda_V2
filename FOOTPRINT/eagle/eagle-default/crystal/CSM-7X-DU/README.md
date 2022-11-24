@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXCSM7XDU > crystal : CSM-7X-DU
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-CSM-7X-DU
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXCSM7XDU|
 |name|name|crystal : CSM-7X-DU|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

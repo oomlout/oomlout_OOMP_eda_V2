@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECYPRESSVFBGA56 > cypress : VFBGA56
 
 - ID: FOOTPRINT-eagle-eagle-default-cypress-VFBGA56
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECYPRESSVFBGA56|
 |name|name|cypress : VFBGA56|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

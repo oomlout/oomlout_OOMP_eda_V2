@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARSC75L > linear : SC70-5L
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-SC70-5L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARSC75L|
 |name|name|linear : SC70-5L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

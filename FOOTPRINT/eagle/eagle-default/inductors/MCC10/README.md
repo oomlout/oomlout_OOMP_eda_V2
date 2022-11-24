@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSMCC1 > inductors : MCC10
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-MCC10
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSMCC1|
 |name|name|inductors : MCC10|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

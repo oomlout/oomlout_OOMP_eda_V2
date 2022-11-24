@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXHC18UV > crystal : HC18U-V
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-HC18U-V
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXHC18UV|
 |name|name|crystal : HC18U-V|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

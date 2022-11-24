@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNKLKS198 > inductor-nkl : KS1908
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-nkl-KS1908
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNKLKS198|
 |name|name|inductor-nkl : KS1908|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

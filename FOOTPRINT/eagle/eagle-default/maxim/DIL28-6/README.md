@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIMDIL286 > maxim : DIL28-6
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-DIL28-6
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIMDIL286|
 |name|name|maxim : DIL28-6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTECHNOLOGYSS16 > linear-technology : SSOP16
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-SSOP16
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTECHNOLOGYSS16|
 |name|name|linear-technology : SSOP16|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

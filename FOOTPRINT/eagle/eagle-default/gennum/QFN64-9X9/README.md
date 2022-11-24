@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEGENNUMQFN649X9 > gennum : QFN64-9X9
 
 - ID: FOOTPRINT-eagle-eagle-default-gennum-QFN64-9X9
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEGENNUMQFN649X9|
 |name|name|gennum : QFN64-9X9|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

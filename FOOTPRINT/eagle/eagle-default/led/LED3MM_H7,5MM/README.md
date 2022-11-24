@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELL3H75 > led : LED3MM_H7,5MM
 
 - ID: FOOTPRINT-eagle-eagle-default-led-LED3MM_H7,5MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELL3H75|
 |name|name|led : LED3MM_H7,5MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

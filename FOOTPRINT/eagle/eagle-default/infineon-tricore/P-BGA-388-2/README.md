@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINFINEONTRICOREPBGA3882 > infineon-tricore : P-BGA-388-2
 
 - ID: FOOTPRINT-eagle-eagle-default-infineon-tricore-P-BGA-388-2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINFINEONTRICOREPBGA3882|
 |name|name|infineon-tricore : P-BGA-388-2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

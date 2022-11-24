@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARPGA68 > linear : PGA68
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-PGA68
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARPGA68|
 |name|name|linear : PGA68|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEAG > diode : AG
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-AG
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEAG|
 |name|name|diode : AG|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELACULRGB > led : ACULED-RGB
 
 - ID: FOOTPRINT-eagle-eagle-default-led-ACULED-RGB
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELACULRGB|
 |name|name|led : ACULED-RGB|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

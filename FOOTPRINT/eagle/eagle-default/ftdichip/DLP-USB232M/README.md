@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFTDICHIPDLPU232M > ftdichip : DLP-USB232M
 
 - ID: FOOTPRINT-eagle-eagle-default-ftdichip-DLP-USB232M
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFTDICHIPDLPU232M|
 |name|name|ftdichip : DLP-USB232M|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

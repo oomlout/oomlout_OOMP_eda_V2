@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNKLB1 > inductor-nkl : B10
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-nkl-B10
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNKLB1|
 |name|name|inductor-nkl : B10|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

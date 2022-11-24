@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXASE > crystal : ASE
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-ASE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXASE|
 |name|name|crystal : ASE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

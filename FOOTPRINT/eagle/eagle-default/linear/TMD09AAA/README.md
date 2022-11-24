@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTMD9AAA > linear : TMD09AAA
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-TMD09AAA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTMD9AAA|
 |name|name|linear : TMD09AAA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

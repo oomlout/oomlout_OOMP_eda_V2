@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONYAMAICHI1491P > con-yamaichi : 149-100P
 
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-149-100P
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONYAMAICHI1491P|
 |name|name|con-yamaichi : 149-100P|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

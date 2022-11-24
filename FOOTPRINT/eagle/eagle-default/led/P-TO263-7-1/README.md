@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELPTO26371 > led : P-TO263-7-1
 
 - ID: FOOTPRINT-eagle-eagle-default-led-P-TO263-7-1
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELPTO26371|
 |name|name|led : P-TO263-7-1|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

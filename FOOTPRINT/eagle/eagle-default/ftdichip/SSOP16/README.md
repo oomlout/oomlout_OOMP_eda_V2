@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFTDICHIPSS16 > ftdichip : SSOP16
 
 - ID: FOOTPRINT-eagle-eagle-default-ftdichip-SSOP16
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFTDICHIPSS16|
 |name|name|ftdichip : SSOP16|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

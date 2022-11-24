@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXDIL84 > crystal : DIL08-4
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-DIL08-4
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXDIL84|
 |name|name|crystal : DIL08-4|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

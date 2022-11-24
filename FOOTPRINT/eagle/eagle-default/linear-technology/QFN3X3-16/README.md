@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTECHNOLOGYQFN3X316 > linear-technology : QFN3X3-16
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-QFN3X3-16
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTECHNOLOGYQFN3X316|
 |name|name|linear-technology : QFN3X3-16|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

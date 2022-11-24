@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELEAGLETOP8 > logo : EAGLE-TOP-8MM
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-EAGLE-TOP-8MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELEAGLETOP8|
 |name|name|logo : EAGLE-TOP-8MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

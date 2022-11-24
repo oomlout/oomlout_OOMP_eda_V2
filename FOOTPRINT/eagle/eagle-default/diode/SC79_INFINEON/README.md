@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESC79INFINEON > diode : SC79_INFINEON
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SC79_INFINEON
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESC79INFINEON|
 |name|name|diode : SC79_INFINEON|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

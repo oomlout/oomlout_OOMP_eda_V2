@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONSAMTECSSW1392GQ > con-samtec : SSW-139-02-G-Q
 
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-SSW-139-02-G-Q
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONSAMTECSSW1392GQ|
 |name|name|con-samtec : SSW-139-02-G-Q|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEEXARSS28 > exar : SSOP28
 
 - ID: FOOTPRINT-eagle-eagle-default-exar-SSOP28
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEEXARSS28|
 |name|name|exar : SSOP28|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

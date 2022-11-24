@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELL5H6 > led : LED5MM_H6,0MM
 
 - ID: FOOTPRINT-eagle-eagle-default-led-LED5MM_H6,0MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELL5H6|
 |name|name|led : LED5MM_H6,0MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

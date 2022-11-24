@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZSSPARKFUNCNS1X8SMALT > SparkFun-Connectors : 1X08_SMD_ALT](#fzssparkfuncns1x8smalt--sparkfun-connectors--1x08_smd_alt)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: SparkFun-Connectors : 1X08_SMD_ALT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X08_SMD_ALT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X08_SMD_ALT)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNS1X8SMALT](http://oom.lt/FZSSPARKFUNCNS1X8SMALT)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X08_SMD_ALT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X08_SMD_ALT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X08_SMD_ALT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X08_SMD_ALT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X08_SMD_ALT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X08_SMD_ALT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X08_SMD_ALT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X08_SMD_ALT/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X08_SMD_ALT/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/1X08_SMD_ALT/kicadPcb3d.png)||||
+
 ## Tags
   
 

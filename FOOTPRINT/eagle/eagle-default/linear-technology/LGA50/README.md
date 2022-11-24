@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTECHNOLOGYLGA5 > linear-technology : LGA50
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-LGA50
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTECHNOLOGYLGA5|
 |name|name|linear-technology : LGA50|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

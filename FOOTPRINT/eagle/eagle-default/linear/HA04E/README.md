@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARHA4E > linear : HA04E
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-HA04E
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARHA4E|
 |name|name|linear : HA04E|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

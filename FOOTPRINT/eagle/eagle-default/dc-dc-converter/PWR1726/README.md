@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDCDCCONVERTERPWR1726 > dc-dc-converter : PWR1726
 
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-PWR1726
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDCDCCONVERTERPWR1726|
 |name|name|dc-dc-converter : PWR1726|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

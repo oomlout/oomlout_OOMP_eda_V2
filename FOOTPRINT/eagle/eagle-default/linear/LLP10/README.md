@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARLLP1 > linear : LLP10
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-LLP10
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARLLP1|
 |name|name|linear : LLP10|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

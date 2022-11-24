@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDILCDHDM64GS12R > display-lcd : HDM64GS12_-R
 
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-HDM64GS12_-R
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDILCDHDM64GS12R|
 |name|name|display-lcd : HDM64GS12_-R|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONYAMAICHIIC51644692 > con-yamaichi : IC51-0644-692
 
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-IC51-0644-692
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONYAMAICHIIC51644692|
 |name|name|con-yamaichi : IC51-0644-692|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

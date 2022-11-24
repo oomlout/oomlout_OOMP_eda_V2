@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEEXARSO16LD > exar : SO-16LD
 
 - ID: FOOTPRINT-eagle-eagle-default-exar-SO-16LD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEEXARSO16LD|
 |name|name|exar : SO-16LD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIKBRSA1811 > display-kingbright : SA18-11
 
 - ID: FOOTPRINT-eagle-eagle-default-display-kingbright-SA18-11
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIKBRSA1811|
 |name|name|display-kingbright : SA18-11|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

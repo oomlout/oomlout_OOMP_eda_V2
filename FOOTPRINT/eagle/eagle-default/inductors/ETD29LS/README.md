@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSETD29LS > inductors : ETD29LS
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-ETD29LS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSETD29LS|
 |name|name|inductors : ETD29LS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

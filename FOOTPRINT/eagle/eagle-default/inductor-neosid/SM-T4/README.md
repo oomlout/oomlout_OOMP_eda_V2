@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDSMT4 > inductor-neosid : SM-T4
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-T4
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDSMT4|
 |name|name|inductor-neosid : SM-T4|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

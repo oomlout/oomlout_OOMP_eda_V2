@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFREESCALEQFP12X128E > freescale : QFP-12X12-80E
 
 - ID: FOOTPRINT-eagle-eagle-default-freescale-QFP-12X12-80E
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFREESCALEQFP12X128E|
 |name|name|freescale : QFP-12X12-80E|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

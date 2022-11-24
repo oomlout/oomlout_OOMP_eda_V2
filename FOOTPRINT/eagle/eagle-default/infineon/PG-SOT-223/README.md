@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINFINEONPGSOT223 > infineon : PG-SOT-223
 
 - ID: FOOTPRINT-eagle-eagle-default-infineon-PG-SOT-223
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINFINEONPGSOT223|
 |name|name|infineon : PG-SOT-223|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

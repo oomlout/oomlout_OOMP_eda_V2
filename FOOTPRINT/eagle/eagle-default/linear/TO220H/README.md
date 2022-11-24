@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTO22H > linear : TO220H
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-TO220H
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTO22H|
 |name|name|linear : TO220H|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

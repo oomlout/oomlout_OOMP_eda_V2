@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELMX6 > led : MX6
 
 - ID: FOOTPRINT-eagle-eagle-default-led-MX6
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELMX6|
 |name|name|led : MX6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

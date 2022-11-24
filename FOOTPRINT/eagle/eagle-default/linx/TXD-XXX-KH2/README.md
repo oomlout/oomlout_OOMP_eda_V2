@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINXTXDXXXKH2 > linx : TXD-XXX-KH2
 
 - ID: FOOTPRINT-eagle-eagle-default-linx-TXD-XXX-KH2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINXTXDXXXKH2|
 |name|name|linx : TXD-XXX-KH2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

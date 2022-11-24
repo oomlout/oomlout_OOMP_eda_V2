@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFRAMESDINADOC > frames : DINA-DOC
 
 - ID: FOOTPRINT-eagle-eagle-default-frames-DINA-DOC
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFRAMESDINADOC|
 |name|name|frames : DINA-DOC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

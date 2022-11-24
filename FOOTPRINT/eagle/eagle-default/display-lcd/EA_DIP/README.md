@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDILCDEAD > display-lcd : EA_DIP
 
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-EA_DIP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDILCDEAD|
 |name|name|display-lcd : EA_DIP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

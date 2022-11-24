@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONWEIDMUELLERSL3598 > con-weidmueller-sl35 : 90-8
 
 - ID: FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-90-8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONWEIDMUELLERSL3598|
 |name|name|con-weidmueller-sl35 : 90-8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

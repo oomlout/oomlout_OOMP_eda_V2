@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELESD1 > logo : ESD_10.00
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-ESD_10.00
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELESD1|
 |name|name|logo : ESD_10.00|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

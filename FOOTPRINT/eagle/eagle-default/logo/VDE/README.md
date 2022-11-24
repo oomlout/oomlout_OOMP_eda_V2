@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELVDE > logo : VDE
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-VDE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELVDE|
 |name|name|logo : VDE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

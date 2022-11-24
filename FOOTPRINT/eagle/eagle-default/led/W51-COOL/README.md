@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELW51COOL > led : W51-COOL
 
 - ID: FOOTPRINT-eagle-eagle-default-led-W51-COOL
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELW51COOL|
 |name|name|led : W51-COOL|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

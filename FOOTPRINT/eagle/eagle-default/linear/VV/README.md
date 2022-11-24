@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARVV > linear : VV
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-VV
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARVV|
 |name|name|linear : VV|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

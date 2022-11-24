@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELL59EGWCA > led : L-59EGW-CA
 
 - ID: FOOTPRINT-eagle-eagle-default-led-L-59EGW-CA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELL59EGWCA|
 |name|name|led : L-59EGW-CA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

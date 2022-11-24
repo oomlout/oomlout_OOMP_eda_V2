@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARMULTIWATSIL17 > linear : MULTIWAT-SIL17
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-MULTIWAT-SIL17
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARMULTIWATSIL17|
 |name|name|linear : MULTIWAT-SIL17|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

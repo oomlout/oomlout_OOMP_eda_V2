@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZSBOSAMD21MBREAKOUT > SparkFun-Boards : SAMD21_MINI_BREAKOUT](#fzsbosamd21mbreakout--sparkfun-boards--samd21_mini_breakout)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: SparkFun-Boards : SAMD21_MINI_BREAKOUT
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SAMD21_MINI_BREAKOUT](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SAMD21_MINI_BREAKOUT)
 - Short Link: [http://oom.lt/FZSBOSAMD21MBREAKOUT](http://oom.lt/FZSBOSAMD21MBREAKOUT)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SAMD21_MINI_BREAKOUT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SAMD21_MINI_BREAKOUT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SAMD21_MINI_BREAKOUT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SAMD21_MINI_BREAKOUT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SAMD21_MINI_BREAKOUT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SAMD21_MINI_BREAKOUT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SAMD21_MINI_BREAKOUT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SAMD21_MINI_BREAKOUT/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SAMD21_MINI_BREAKOUT/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards/SAMD21_MINI_BREAKOUT/kicadPcb3d.png)||||
+
 ## Tags
   
 

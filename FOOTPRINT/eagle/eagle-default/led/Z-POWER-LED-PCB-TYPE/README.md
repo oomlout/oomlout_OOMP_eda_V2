@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELZPOWERLPCBT > led : Z-POWER-LED-PCB-TYPE
 
 - ID: FOOTPRINT-eagle-eagle-default-led-Z-POWER-LED-PCB-TYPE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELZPOWERLPCBT|
 |name|name|led : Z-POWER-LED-PCB-TYPE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

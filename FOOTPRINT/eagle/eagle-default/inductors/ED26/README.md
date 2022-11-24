@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSED26 > inductors : ED26
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-ED26
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSED26|
 |name|name|inductors : ED26|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

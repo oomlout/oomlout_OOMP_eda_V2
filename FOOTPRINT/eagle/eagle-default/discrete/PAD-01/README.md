@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDISCRETEP1 > discrete : PAD-01
 
 - ID: FOOTPRINT-eagle-eagle-default-discrete-PAD-01
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDISCRETEP1|
 |name|name|discrete : PAD-01|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

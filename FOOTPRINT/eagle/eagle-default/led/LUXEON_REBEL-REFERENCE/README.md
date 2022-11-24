@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELLUXEONREBELREFERENCE > led : LUXEON_REBEL-REFERENCE
 
 - ID: FOOTPRINT-eagle-eagle-default-led-LUXEON_REBEL-REFERENCE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELLUXEONREBELREFERENCE|
 |name|name|led : LUXEON_REBEL-REFERENCE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

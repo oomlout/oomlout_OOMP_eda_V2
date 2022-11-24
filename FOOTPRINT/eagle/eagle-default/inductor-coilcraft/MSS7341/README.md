@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINCOILCRAFTMSS7341 > inductor-coilcraft : MSS7341
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-coilcraft-MSS7341
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINCOILCRAFTMSS7341|
 |name|name|inductor-coilcraft : MSS7341|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

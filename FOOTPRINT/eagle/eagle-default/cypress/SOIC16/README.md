@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECYPRESSSOIC16 > cypress : SOIC16
 
 - ID: FOOTPRINT-eagle-eagle-default-cypress-SOIC16
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECYPRESSSOIC16|
 |name|name|cypress : SOIC16|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

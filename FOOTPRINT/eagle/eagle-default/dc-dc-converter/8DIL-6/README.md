@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDCDCCONVERTER8DIL6 > dc-dc-converter : 8DIL-6
 
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-8DIL-6
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDCDCCONVERTER8DIL6|
 |name|name|dc-dc-converter : 8DIL-6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

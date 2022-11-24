@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDCDCCONVERTERDFA2 > dc-dc-converter : DFA20
 
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-DFA20
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDCDCCONVERTERDFA2|
 |name|name|dc-dc-converter : DFA20|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

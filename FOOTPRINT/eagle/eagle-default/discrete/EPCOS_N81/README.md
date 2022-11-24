@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDISCRETEEPCOSN81 > discrete : EPCOS_N81
 
 - ID: FOOTPRINT-eagle-eagle-default-discrete-EPCOS_N81
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDISCRETEEPCOSN81|
 |name|name|discrete : EPCOS_N81|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

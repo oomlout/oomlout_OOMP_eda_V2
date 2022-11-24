@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFREESCALEHS44 > freescale : HSOP44
 
 - ID: FOOTPRINT-eagle-eagle-default-freescale-HSOP44
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFREESCALEHS44|
 |name|name|freescale : HSOP44|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

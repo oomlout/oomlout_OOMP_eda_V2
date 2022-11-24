@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFIBEROPTICHPHFBR15X3 > fiber-optic-hp : HFBR-15X3
 
 - ID: FOOTPRINT-eagle-eagle-default-fiber-optic-hp-HFBR-15X3
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFIBEROPTICHPHFBR15X3|
 |name|name|fiber-optic-hp : HFBR-15X3|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

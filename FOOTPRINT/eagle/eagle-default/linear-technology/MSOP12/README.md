@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTECHNOLOGYMS12 > linear-technology : MSOP12
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-MSOP12
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTECHNOLOGYMS12|
 |name|name|linear-technology : MSOP12|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

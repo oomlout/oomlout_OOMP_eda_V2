@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEELFW > diode : MICROMELF-W
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-MICROMELF-W
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEELFW|
 |name|name|diode : MICROMELF-W|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

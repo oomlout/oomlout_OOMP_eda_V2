@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXSM77H > crystal : SM77H
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-SM77H
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXSM77H|
 |name|name|crystal : SM77H|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

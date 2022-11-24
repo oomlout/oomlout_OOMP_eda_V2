@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINFINEONL > infineon : LOGO
 
 - ID: FOOTPRINT-eagle-eagle-default-infineon-LOGO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINFINEONL|
 |name|name|infineon : LOGO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

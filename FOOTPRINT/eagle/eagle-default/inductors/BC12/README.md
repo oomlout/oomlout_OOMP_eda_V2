@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSBC12 > inductors : BC12
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-BC12
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSBC12|
 |name|name|inductors : BC12|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

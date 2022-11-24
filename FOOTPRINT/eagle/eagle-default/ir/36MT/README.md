@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEIR36MT > ir : 36MT
 
 - ID: FOOTPRINT-eagle-eagle-default-ir-36MT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEIR36MT|
 |name|name|ir : 36MT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

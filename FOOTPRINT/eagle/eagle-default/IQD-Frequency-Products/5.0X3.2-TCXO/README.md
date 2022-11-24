@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEIQDFREQUENCYPRODUCTS5X32TCXO > IQD-Frequency-Products : 5.0X3.2-TCXO
 
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-5.0X3.2-TCXO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEIQDFREQUENCYPRODUCTS5X32TCXO|
 |name|name|IQD-Frequency-Products : 5.0X3.2-TCXO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

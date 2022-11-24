@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINFINEONDIL16 > infineon : DIL16
 
 - ID: FOOTPRINT-eagle-eagle-default-infineon-DIL16
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINFINEONDIL16|
 |name|name|infineon : DIL16|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

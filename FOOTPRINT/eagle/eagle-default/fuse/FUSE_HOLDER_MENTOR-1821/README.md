@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFUFUHMENTOR1821 > fuse : FUSE_HOLDER_MENTOR-1821
 
 - ID: FOOTPRINT-eagle-eagle-default-fuse-FUSE_HOLDER_MENTOR-1821
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFUFUHMENTOR1821|
 |name|name|fuse : FUSE_HOLDER_MENTOR-1821|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

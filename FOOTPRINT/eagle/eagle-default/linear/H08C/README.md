@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARH8C > linear : H08C
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-H08C
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARH8C|
 |name|name|linear : H08C|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

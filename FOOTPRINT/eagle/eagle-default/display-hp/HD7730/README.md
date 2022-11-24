@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIHPHD773 > display-hp : HD7730
 
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HD7730
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIHPHD773|
 |name|name|display-hp : HD7730|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

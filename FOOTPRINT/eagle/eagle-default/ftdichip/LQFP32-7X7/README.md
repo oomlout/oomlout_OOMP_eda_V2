@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFTDICHIPLQFP327X7 > ftdichip : LQFP32-7X7
 
 - ID: FOOTPRINT-eagle-eagle-default-ftdichip-LQFP32-7X7
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFTDICHIPLQFP327X7|
 |name|name|ftdichip : LQFP32-7X7|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

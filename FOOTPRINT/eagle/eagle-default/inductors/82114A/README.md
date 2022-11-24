@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINS82114A > inductors : 82114A
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-82114A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINS82114A|
 |name|name|inductors : 82114A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

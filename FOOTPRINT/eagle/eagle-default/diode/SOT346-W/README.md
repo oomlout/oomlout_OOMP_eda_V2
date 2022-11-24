@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESOT346W > diode : SOT346-W
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOT346-W
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESOT346W|
 |name|name|diode : SOT346-W|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

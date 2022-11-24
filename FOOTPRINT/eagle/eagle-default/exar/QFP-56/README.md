@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEEXARQFP56 > exar : QFP-56
 
 - ID: FOOTPRINT-eagle-eagle-default-exar-QFP-56
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEEXARQFP56|
 |name|name|exar : QFP-56|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

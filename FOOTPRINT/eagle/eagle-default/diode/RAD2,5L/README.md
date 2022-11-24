@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODERAD25L > diode : RAD2,5L
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-RAD2,5L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODERAD25L|
 |name|name|diode : RAD2,5L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

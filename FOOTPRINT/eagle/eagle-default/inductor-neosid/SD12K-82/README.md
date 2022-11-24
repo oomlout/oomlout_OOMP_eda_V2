@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDSD12K82 > inductor-neosid : SD12K-82
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SD12K-82
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDSD12K82|
 |name|name|inductor-neosid : SD12K-82|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

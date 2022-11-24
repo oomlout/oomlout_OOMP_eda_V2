@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDILCDLCDD12864 > display-lcd : LCD-DIP128-64
 
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-LCD-DIP128-64
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDILCDLCDD12864|
 |name|name|display-lcd : LCD-DIP128-64|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

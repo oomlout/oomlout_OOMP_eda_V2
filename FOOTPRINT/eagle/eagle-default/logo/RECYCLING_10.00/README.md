@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELRECYCLING1 > logo : RECYCLING_10.00
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-RECYCLING_10.00
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELRECYCLING1|
 |name|name|logo : RECYCLING_10.00|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

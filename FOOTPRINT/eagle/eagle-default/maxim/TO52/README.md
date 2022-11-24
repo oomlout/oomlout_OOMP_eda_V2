@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIMTO52 > maxim : TO52
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-TO52
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIMTO52|
 |name|name|maxim : TO52|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

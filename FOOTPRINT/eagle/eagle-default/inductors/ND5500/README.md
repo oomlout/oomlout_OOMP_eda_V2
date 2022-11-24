@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSND55 > inductors : ND5500
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-ND5500
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSND55|
 |name|name|inductors : ND5500|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

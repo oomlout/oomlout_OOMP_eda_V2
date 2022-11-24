@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFUPICOFU > fuse : PICOFUSE
 
 - ID: FOOTPRINT-eagle-eagle-default-fuse-PICOFUSE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFUPICOFU|
 |name|name|fuse : PICOFUSE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

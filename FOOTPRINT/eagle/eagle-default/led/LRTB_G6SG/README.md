@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELLRTBG6SG > led : LRTB_G6SG
 
 - ID: FOOTPRINT-eagle-eagle-default-led-LRTB_G6SG
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELLRTBG6SG|
 |name|name|led : LRTB_G6SG|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

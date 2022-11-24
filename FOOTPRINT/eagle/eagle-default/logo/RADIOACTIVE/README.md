@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELRADIOACTIVE > logo : RADIOACTIVE
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-RADIOACTIVE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELRADIOACTIVE|
 |name|name|logo : RADIOACTIVE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

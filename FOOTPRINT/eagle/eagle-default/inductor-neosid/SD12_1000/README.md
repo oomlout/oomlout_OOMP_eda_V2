@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDSD121 > inductor-neosid : SD12_1000
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SD12_1000
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDSD121|
 |name|name|inductor-neosid : SD12_1000|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

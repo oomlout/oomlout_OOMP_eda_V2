@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIHPHCMS2X > display-hp : HCMS200X
 
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HCMS200X
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIHPHCMS2X|
 |name|name|display-hp : HCMS200X|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

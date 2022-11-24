@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESC59R > diode : SC59-R
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SC59-R
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESC59R|
 |name|name|diode : SC59-R|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

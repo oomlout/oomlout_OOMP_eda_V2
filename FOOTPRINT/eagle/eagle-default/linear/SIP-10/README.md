@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARSIP1 > linear : SIP-10
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-SIP-10
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARSIP1|
 |name|name|linear : SIP-10|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

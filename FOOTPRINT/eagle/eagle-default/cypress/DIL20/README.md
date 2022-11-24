@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECYPRESSDIL2 > cypress : DIL20
 
 - ID: FOOTPRINT-eagle-eagle-default-cypress-DIL20
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECYPRESSDIL2|
 |name|name|cypress : DIL20|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEHOLTEKDIL2 > holtek : DIL20
 
 - ID: FOOTPRINT-eagle-eagle-default-holtek-DIL20
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEHOLTEKDIL2|
 |name|name|holtek : DIL20|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

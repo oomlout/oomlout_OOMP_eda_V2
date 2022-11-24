@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIMSO16L > maxim : SO16L
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-SO16L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIMSO16L|
 |name|name|maxim : SO16L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

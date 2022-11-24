@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTECHNOLOGYSO28SW > linear-technology : SO28SW
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-SO28SW
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTECHNOLOGYSO28SW|
 |name|name|linear-technology : SO28SW|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

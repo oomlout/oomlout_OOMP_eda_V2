@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELP47FB > led : P47F-BOTTOM
 
 - ID: FOOTPRINT-eagle-eagle-default-led-P47F-BOTTOM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELP47FB|
 |name|name|led : P47F-BOTTOM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

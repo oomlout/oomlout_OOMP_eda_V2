@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTECHNOLOGYTO225 > linear-technology : TO220-5
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-TO220-5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTECHNOLOGYTO225|
 |name|name|linear-technology : TO220-5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

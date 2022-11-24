@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELUMLUM2KTHP > lumiled : LUMILED_2K_TH-PAD
 
 - ID: FOOTPRINT-eagle-eagle-default-lumiled-LUMILED_2K_TH-PAD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELUMLUM2KTHP|
 |name|name|lumiled : LUMILED_2K_TH-PAD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

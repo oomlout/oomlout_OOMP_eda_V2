@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELCFILKNF21 > lc-filter : KNF21
 
 - ID: FOOTPRINT-eagle-eagle-default-lc-filter-KNF21
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELCFILKNF21|
 |name|name|lc-filter : KNF21|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

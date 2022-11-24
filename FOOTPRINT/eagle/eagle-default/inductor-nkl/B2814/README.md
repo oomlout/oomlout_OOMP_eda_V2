@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNKLB2814 > inductor-nkl : B2814
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-nkl-B2814
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNKLB2814|
 |name|name|inductor-nkl : B2814|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

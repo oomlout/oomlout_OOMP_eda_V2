@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSA26GFC > inductors : A26GFC
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-A26GFC
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSA26GFC|
 |name|name|inductors : A26GFC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

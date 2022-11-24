@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNKLKS3213 > inductor-nkl : KS3213
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-nkl-KS3213
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNKLKS3213|
 |name|name|inductor-nkl : KS3213|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

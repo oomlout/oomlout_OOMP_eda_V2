@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINFINEONSC74INFINEON > infineon : SC74_INFINEON
 
 - ID: FOOTPRINT-eagle-eagle-default-infineon-SC74_INFINEON
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINFINEONSC74INFINEON|
 |name|name|infineon : SC74_INFINEON|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

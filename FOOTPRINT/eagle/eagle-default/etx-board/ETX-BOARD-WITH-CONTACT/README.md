@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEETXBOARDETXBOARDWITHCT > etx-board : ETX-BOARD-WITH-CONTACT
 
 - ID: FOOTPRINT-eagle-eagle-default-etx-board-ETX-BOARD-WITH-CONTACT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEETXBOARDETXBOARDWITHCT|
 |name|name|etx-board : ETX-BOARD-WITH-CONTACT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

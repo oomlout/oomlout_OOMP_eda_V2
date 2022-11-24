@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDZ155 > inductor-neosid : Z15_05
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-Z15_05
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDZ155|
 |name|name|inductor-neosid : Z15_05|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

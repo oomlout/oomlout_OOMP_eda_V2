@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEX2SS > crystal : MM20SS
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-MM20SS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEX2SS|
 |name|name|crystal : MM20SS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

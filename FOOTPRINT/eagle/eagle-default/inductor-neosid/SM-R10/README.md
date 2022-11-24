@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDSMR1 > inductor-neosid : SM-R10
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-R10
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDSMR1|
 |name|name|inductor-neosid : SM-R10|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

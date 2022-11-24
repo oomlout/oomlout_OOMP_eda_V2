@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARK4A > linear : K04A
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-K04A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARK4A|
 |name|name|linear : K04A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

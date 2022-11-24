@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDCDCCONVERTERCMK > dc-dc-converter : CMK
 
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-CMK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDCDCCONVERTERCMK|
 |name|name|dc-dc-converter : CMK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

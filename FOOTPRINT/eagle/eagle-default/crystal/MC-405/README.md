@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXMC45 > crystal : MC-405
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-MC-405
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXMC45|
 |name|name|crystal : MC-405|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

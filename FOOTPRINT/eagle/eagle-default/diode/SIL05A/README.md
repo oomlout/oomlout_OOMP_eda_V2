@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESIL5A > diode : SIL05A
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SIL05A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESIL5A|
 |name|name|diode : SIL05A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

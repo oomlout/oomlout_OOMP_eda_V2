@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFUFUHWICKMANN19596 > fuse : FUSE_HOLDER_WICKMANN-19596
 
 - ID: FOOTPRINT-eagle-eagle-default-fuse-FUSE_HOLDER_WICKMANN-19596
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFUFUHWICKMANN19596|
 |name|name|fuse : FUSE_HOLDER_WICKMANN-19596|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

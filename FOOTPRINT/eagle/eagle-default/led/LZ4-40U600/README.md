@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELLZ44U6 > led : LZ4-40U600
 
 - ID: FOOTPRINT-eagle-eagle-default-led-LZ4-40U600
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELLZ44U6|
 |name|name|led : LZ4-40U600|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIMSOT238L > maxim : SOT23-8L
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-SOT23-8L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIMSOT238L|
 |name|name|maxim : SOT23-8L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

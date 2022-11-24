@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELNFSG36BT > led : NFSG036BT
 
 - ID: FOOTPRINT-eagle-eagle-default-led-NFSG036BT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELNFSG36BT|
 |name|name|led : NFSG036BT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

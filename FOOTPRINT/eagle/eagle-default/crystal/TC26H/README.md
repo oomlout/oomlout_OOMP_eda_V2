@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXTC26H > crystal : TC26H
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-TC26H
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXTC26H|
 |name|name|crystal : TC26H|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

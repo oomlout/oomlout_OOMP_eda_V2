@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESGA1 > diode : SGA-10
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SGA-10
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESGA1|
 |name|name|diode : SGA-10|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

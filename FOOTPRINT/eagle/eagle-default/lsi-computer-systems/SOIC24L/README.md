@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELSICOMPUTERSYSTEMSSOIC24L > lsi-computer-systems : SOIC24L
 
 - ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC24L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELSICOMPUTERSYSTEMSSOIC24L|
 |name|name|lsi-computer-systems : SOIC24L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZSSPARKFUNCNSUBMSMREDPASTE > SparkFun-Connectors : USB-B-MICRO-SMD_RED_PASTE](#fzssparkfuncnsubmsmredpaste--sparkfun-connectors--usb-b-micro-smd_red_paste)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: SparkFun-Connectors : USB-B-MICRO-SMD_RED_PASTE
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-B-MICRO-SMD_RED_PASTE](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-B-MICRO-SMD_RED_PASTE)
 - Short Link: [http://oom.lt/FZSSPARKFUNCNSUBMSMREDPASTE](http://oom.lt/FZSSPARKFUNCNSUBMSMREDPASTE)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-B-MICRO-SMD_RED_PASTE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-B-MICRO-SMD_RED_PASTE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-B-MICRO-SMD_RED_PASTE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-B-MICRO-SMD_RED_PASTE/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-B-MICRO-SMD_RED_PASTE/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-B-MICRO-SMD_RED_PASTE/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-B-MICRO-SMD_RED_PASTE/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-B-MICRO-SMD_RED_PASTE/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-B-MICRO-SMD_RED_PASTE/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors/USB-B-MICRO-SMD_RED_PASTE/kicadPcb3d.png)||||
+
 ## Tags
   
 

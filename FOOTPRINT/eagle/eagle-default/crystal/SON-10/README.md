@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXSON1 > crystal : SON-10
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-SON-10
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXSON1|
 |name|name|crystal : SON-10|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

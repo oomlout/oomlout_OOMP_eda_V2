@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECYPRESSSOIC283 > cypress : SOIC28-3
 
 - ID: FOOTPRINT-eagle-eagle-default-cypress-SOIC28-3
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECYPRESSSOIC283|
 |name|name|cypress : SOIC28-3|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

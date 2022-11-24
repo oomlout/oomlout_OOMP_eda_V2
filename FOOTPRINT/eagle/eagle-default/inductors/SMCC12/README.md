@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSSMCC12 > inductors : SMCC12
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-SMCC12
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSSMCC12|
 |name|name|inductors : SMCC12|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

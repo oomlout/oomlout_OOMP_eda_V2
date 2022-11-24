@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELLUMLUXEONREBEL > led-lumiled : LUXEON_REBEL
 
 - ID: FOOTPRINT-eagle-eagle-default-led-lumiled-LUXEON_REBEL
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELLUMLUXEONREBEL|
 |name|name|led-lumiled : LUXEON_REBEL|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNKLSM > inductor-nkl : SMD
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-nkl-SMD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNKLSM|
 |name|name|inductor-nkl : SMD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

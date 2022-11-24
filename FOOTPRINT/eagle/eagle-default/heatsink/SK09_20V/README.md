@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEHSK92V > heatsink : SK09_20V
 
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-SK09_20V
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEHSK92V|
 |name|name|heatsink : SK09_20V|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

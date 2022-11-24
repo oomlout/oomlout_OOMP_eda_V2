@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELZPOWERLDOMET > led : Z-POWER-LED-DOME-TYPE
 
 - ID: FOOTPRINT-eagle-eagle-default-led-Z-POWER-LED-DOME-TYPE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELZPOWERLDOMET|
 |name|name|led : Z-POWER-LED-DOME-TYPE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

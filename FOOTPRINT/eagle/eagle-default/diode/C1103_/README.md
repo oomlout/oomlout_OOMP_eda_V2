@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEC113 > diode : C1103_
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-C1103_
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEC113|
 |name|name|diode : C1103_|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

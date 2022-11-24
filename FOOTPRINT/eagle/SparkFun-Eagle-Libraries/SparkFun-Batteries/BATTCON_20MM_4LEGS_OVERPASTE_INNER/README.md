@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZSBBC24LEGSOVERPASTEINNER > SparkFun-Batteries : BATTCON_20MM_4LEGS_OVERPASTE_INNER](#fzsbbc24legsoverpasteinner--sparkfun-batteries--battcon_20mm_4legs_overpaste_inner)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: SparkFun-Batteries : BATTCON_20MM_4LEGS_OVERPASTE_INNER
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_20MM_4LEGS_OVERPASTE_INNER](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_20MM_4LEGS_OVERPASTE_INNER)
 - Short Link: [http://oom.lt/FZSBBC24LEGSOVERPASTEINNER](http://oom.lt/FZSBBC24LEGSOVERPASTEINNER)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_20MM_4LEGS_OVERPASTE_INNER/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_20MM_4LEGS_OVERPASTE_INNER/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_20MM_4LEGS_OVERPASTE_INNER/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_20MM_4LEGS_OVERPASTE_INNER/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_20MM_4LEGS_OVERPASTE_INNER/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_20MM_4LEGS_OVERPASTE_INNER/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_20MM_4LEGS_OVERPASTE_INNER/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_20MM_4LEGS_OVERPASTE_INNER/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_20MM_4LEGS_OVERPASTE_INNER/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_20MM_4LEGS_OVERPASTE_INNER/kicadPcb3d.png)||||
+
 ## Tags
   
 

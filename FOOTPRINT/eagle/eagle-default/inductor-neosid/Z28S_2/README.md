@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDZ28S2 > inductor-neosid : Z28S_2
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-Z28S_2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDZ28S2|
 |name|name|inductor-neosid : Z28S_2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

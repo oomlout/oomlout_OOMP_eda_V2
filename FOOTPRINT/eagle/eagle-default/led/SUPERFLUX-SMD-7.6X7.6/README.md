@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELSUPERFLUXSM76X76 > led : SUPERFLUX-SMD-7.6X7.6
 
 - ID: FOOTPRINT-eagle-eagle-default-led-SUPERFLUX-SMD-7.6X7.6
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELSUPERFLUXSM76X76|
 |name|name|led : SUPERFLUX-SMD-7.6X7.6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

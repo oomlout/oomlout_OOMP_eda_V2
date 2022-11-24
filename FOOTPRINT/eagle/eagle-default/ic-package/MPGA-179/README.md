@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEICPMPGA179 > ic-package : MPGA-179
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-MPGA-179
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEICPMPGA179|
 |name|name|ic-package : MPGA-179|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

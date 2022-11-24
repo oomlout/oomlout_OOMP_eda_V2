@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDCDCCONVERTERDIW2 > dc-dc-converter : DIW2
 
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-DIW2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDCDCCONVERTERDIW2|
 |name|name|dc-dc-converter : DIW2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

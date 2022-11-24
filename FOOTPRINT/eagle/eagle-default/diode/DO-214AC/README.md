@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEDO214AC > diode : DO-214AC
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO-214AC
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEDO214AC|
 |name|name|diode : DO-214AC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

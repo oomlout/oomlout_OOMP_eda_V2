@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZSDSTO263D2PAK > SparkFun-DiscreteSemi : TO-263_D2PAK](#fzsdsto263d2pak--sparkfun-discretesemi--to-263_d2pak)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: SparkFun-DiscreteSemi : TO-263_D2PAK
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TO-263_D2PAK](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TO-263_D2PAK)
 - Short Link: [http://oom.lt/FZSDSTO263D2PAK](http://oom.lt/FZSDSTO263D2PAK)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/TO-263_D2PAK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/TO-263_D2PAK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/TO-263_D2PAK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/TO-263_D2PAK/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/TO-263_D2PAK/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/TO-263_D2PAK/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/TO-263_D2PAK/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/TO-263_D2PAK/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/TO-263_D2PAK/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/TO-263_D2PAK/kicadPcb3d.png)||||
+
 ## Tags
   
 

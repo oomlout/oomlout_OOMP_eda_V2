@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDCDCCONVERTEREMCOA12V > dc-dc-converter : EMCO-A_100-2000V
 
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-EMCO-A_100-2000V
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDCDCCONVERTEREMCOA12V|
 |name|name|dc-dc-converter : EMCO-A_100-2000V|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

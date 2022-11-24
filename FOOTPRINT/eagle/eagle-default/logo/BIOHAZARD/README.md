@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELBIOHAZARD > logo : BIOHAZARD
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-BIOHAZARD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELBIOHAZARD|
 |name|name|logo : BIOHAZARD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

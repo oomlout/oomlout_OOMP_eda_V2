@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSBL2RN1 > inductors : BL02RN1
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-BL02RN1
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSBL2RN1|
 |name|name|inductors : BL02RN1|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

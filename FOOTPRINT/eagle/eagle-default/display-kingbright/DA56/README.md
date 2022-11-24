@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIKBRDA56 > display-kingbright : DA56
 
 - ID: FOOTPRINT-eagle-eagle-default-display-kingbright-DA56
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIKBRDA56|
 |name|name|display-kingbright : DA56|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

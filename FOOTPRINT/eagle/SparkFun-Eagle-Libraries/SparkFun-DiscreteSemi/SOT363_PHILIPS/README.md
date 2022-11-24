@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZSDSSOT363PHILIPS > SparkFun-DiscreteSemi : SOT363_PHILIPS](#fzsdssot363philips--sparkfun-discretesemi--sot363_philips)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: SparkFun-DiscreteSemi : SOT363_PHILIPS
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOT363_PHILIPS](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOT363_PHILIPS)
 - Short Link: [http://oom.lt/FZSDSSOT363PHILIPS](http://oom.lt/FZSDSSOT363PHILIPS)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SOT363_PHILIPS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SOT363_PHILIPS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SOT363_PHILIPS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SOT363_PHILIPS/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SOT363_PHILIPS/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SOT363_PHILIPS/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SOT363_PHILIPS/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SOT363_PHILIPS/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SOT363_PHILIPS/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SOT363_PHILIPS/kicadPcb3d.png)||||
+
 ## Tags
   
 

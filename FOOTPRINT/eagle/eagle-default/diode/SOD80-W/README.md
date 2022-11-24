@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESOD8W > diode : SOD80-W
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD80-W
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESOD8W|
 |name|name|diode : SOD80-W|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

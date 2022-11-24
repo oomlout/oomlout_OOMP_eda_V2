@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFIBEROPTICHPHFBRX41XT > fiber-optic-hp : HFBR-X41XT
 
 - ID: FOOTPRINT-eagle-eagle-default-fiber-optic-hp-HFBR-X41XT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFIBEROPTICHPHFBRX41XT|
 |name|name|fiber-optic-hp : HFBR-X41XT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

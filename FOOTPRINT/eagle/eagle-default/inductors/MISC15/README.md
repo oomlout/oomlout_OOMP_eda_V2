@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSMISC15 > inductors : MISC15
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-MISC15
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSMISC15|
 |name|name|inductors : MISC15|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIMTDFN83X3 > maxim : TDFN8-3X3MM
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-TDFN8-3X3MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIMTDFN83X3|
 |name|name|maxim : TDFN8-3X3MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

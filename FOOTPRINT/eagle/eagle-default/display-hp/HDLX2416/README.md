@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIHPHDLX2416 > display-hp : HDLX2416
 
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HDLX2416
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIHPHDLX2416|
 |name|name|display-hp : HDLX2416|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

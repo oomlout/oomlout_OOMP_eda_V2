@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSMFE > inductors : MFE
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-MFE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSMFE|
 |name|name|inductors : MFE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONSAMTECSSW1382GS > con-samtec : SSW-138-02-G-S
 
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-SSW-138-02-G-S
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONSAMTECSSW1382GS|
 |name|name|con-samtec : SSW-138-02-G-S|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEDO22L > diode : DO220L
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO220L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEDO22L|
 |name|name|diode : DO220L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

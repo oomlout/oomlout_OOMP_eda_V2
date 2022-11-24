@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFAIRCHILDSEMICSPM23AA > fairchild-semic : SPM23AA
 
 - ID: FOOTPRINT-eagle-eagle-default-fairchild-semic-SPM23AA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFAIRCHILDSEMICSPM23AA|
 |name|name|fairchild-semic : SPM23AA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

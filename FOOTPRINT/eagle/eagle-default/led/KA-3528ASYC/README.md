@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELKA3528ASYC > led : KA-3528ASYC
 
 - ID: FOOTPRINT-eagle-eagle-default-led-KA-3528ASYC
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELKA3528ASYC|
 |name|name|led : KA-3528ASYC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

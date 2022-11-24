@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARSO14W > linear : SO14W
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-SO14W
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARSO14W|
 |name|name|linear : SO14W|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

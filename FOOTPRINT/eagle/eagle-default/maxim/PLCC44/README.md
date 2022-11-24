@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIMPLCC44 > maxim : PLCC44
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-PLCC44
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIMPLCC44|
 |name|name|maxim : PLCC44|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDILCDH1333C > display-lcd : H1333C
 
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-H1333C
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDILCDH1333C|
 |name|name|display-lcd : H1333C|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

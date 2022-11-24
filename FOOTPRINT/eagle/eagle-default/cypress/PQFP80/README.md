@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECYPRESSPQFP8 > cypress : PQFP80
 
 - ID: FOOTPRINT-eagle-eagle-default-cypress-PQFP80
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECYPRESSPQFP8|
 |name|name|cypress : PQFP80|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

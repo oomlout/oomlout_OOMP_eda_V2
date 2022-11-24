@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINFINEONPGDSO2 > infineon : PG-DSO-20
 
 - ID: FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-20
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINFINEONPGDSO2|
 |name|name|infineon : PG-DSO-20|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

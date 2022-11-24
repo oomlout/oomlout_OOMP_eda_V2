@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELCSA1 > logo : CSA_10MM
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-CSA_10MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELCSA1|
 |name|name|logo : CSA_10MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

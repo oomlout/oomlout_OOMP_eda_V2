@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARSOT235 > linear : SOT23-5
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-SOT23-5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARSOT235|
 |name|name|linear : SOT23-5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

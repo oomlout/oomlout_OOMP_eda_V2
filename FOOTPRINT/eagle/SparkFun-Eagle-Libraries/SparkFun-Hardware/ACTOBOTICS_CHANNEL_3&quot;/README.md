@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZSHACTOBOTICSCHANNEL3&QUOT; > SparkFun-Hardware : ACTOBOTICS_CHANNEL_3&quot;](#fzshactoboticschannel3quot--sparkfun-hardware--actobotics_channel_3quot)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: SparkFun-Hardware : ACTOBOTICS_CHANNEL_3&quot;
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-ACTOBOTICS_CHANNEL_3&quot;](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-ACTOBOTICS_CHANNEL_3&quot;)
 - Short Link: [http://oom.lt/FZSHACTOBOTICSCHANNEL3&QUOT;](http://oom.lt/FZSHACTOBOTICSCHANNEL3&QUOT;)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/ACTOBOTICS_CHANNEL_3&quot;/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/ACTOBOTICS_CHANNEL_3&quot;/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/ACTOBOTICS_CHANNEL_3&quot;/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/ACTOBOTICS_CHANNEL_3&quot;/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/ACTOBOTICS_CHANNEL_3&quot;/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/ACTOBOTICS_CHANNEL_3&quot;/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/ACTOBOTICS_CHANNEL_3&quot;/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/ACTOBOTICS_CHANNEL_3&quot;/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/ACTOBOTICS_CHANNEL_3&quot;/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Hardware/ACTOBOTICS_CHANNEL_3&quot;/kicadPcb3d.png)||||
+
 ## Tags
   
 

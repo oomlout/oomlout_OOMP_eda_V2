@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONYAMAICHIMDIN5K > con-yamaichi : MDIN05K
 
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN05K
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONYAMAICHIMDIN5K|
 |name|name|con-yamaichi : MDIN05K|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

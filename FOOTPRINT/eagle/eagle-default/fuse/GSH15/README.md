@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFUGSH15 > fuse : GSH15
 
 - ID: FOOTPRINT-eagle-eagle-default-fuse-GSH15
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFUGSH15|
 |name|name|fuse : GSH15|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

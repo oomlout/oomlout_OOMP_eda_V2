@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEL126 > led : 1206
 
 - ID: FOOTPRINT-eagle-eagle-default-led-1206
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEL126|
 |name|name|led : 1206|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

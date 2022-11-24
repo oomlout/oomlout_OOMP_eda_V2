@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEZDIO25 > diode : ZDIO-2.5
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-ZDIO-2.5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEZDIO25|
 |name|name|diode : ZDIO-2.5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

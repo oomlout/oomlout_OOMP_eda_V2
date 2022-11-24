@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELPLCC4TOPLRG > led : PLCC4-TOPLED-RG
 
 - ID: FOOTPRINT-eagle-eagle-default-led-PLCC4-TOPLED-RG
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELPLCC4TOPLRG|
 |name|name|led : PLCC4-TOPLED-RG|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

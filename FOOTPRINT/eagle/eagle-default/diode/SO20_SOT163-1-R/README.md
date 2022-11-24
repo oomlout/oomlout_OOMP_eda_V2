@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESO2SOT1631R > diode : SO20_SOT163-1-R
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SO20_SOT163-1-R
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESO2SOT1631R|
 |name|name|diode : SO20_SOT163-1-R|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

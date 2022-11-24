@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELEAGLEPLC12 > logo : EAGLE-PLC-12MM
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-EAGLE-PLC-12MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELEAGLEPLC12|
 |name|name|logo : EAGLE-PLC-12MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

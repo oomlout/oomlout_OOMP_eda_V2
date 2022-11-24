@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEHFK21 > heatsink : FK201
 
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-FK201
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEHFK21|
 |name|name|heatsink : FK201|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

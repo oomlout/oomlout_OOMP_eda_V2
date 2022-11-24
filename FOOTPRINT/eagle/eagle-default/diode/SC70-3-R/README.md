@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESC73R > diode : SC70-3-R
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SC70-3-R
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESC73R|
 |name|name|diode : SC70-3-R|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

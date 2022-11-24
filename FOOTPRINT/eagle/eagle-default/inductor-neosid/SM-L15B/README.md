@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDSML15B > inductor-neosid : SM-L15B
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-L15B
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDSML15B|
 |name|name|inductor-neosid : SM-L15B|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

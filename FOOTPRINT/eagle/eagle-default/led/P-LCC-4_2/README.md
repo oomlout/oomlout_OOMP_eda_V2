@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELPLCC42 > led : P-LCC-4_2
 
 - ID: FOOTPRINT-eagle-eagle-default-led-P-LCC-4_2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELPLCC42|
 |name|name|led : P-LCC-4_2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

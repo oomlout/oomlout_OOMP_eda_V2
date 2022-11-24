@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDMS42 > inductor-neosid : MS42
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-MS42
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDMS42|
 |name|name|inductor-neosid : MS42|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

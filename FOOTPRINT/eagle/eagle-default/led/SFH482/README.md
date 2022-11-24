@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELSFH482 > led : SFH482
 
 - ID: FOOTPRINT-eagle-eagle-default-led-SFH482
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELSFH482|
 |name|name|led : SFH482|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

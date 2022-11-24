@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEICPZIP14 > ic-package : ZIP14
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-ZIP14
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEICPZIP14|
 |name|name|ic-package : ZIP14|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELOSTARLENS > led : OSTAR-LENS_
 
 - ID: FOOTPRINT-eagle-eagle-default-led-OSTAR-LENS_
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELOSTARLENS|
 |name|name|led : OSTAR-LENS_|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

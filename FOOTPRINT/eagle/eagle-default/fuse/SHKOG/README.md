@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFUSHKOG > fuse : SHKOG
 
 - ID: FOOTPRINT-eagle-eagle-default-fuse-SHKOG
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFUSHKOG|
 |name|name|fuse : SHKOG|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELSICOMPUTERSYSTEMSSOIC28L > lsi-computer-systems : SOIC28L
 
 - ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC28L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELSICOMPUTERSYSTEMSSOIC28L|
 |name|name|lsi-computer-systems : SOIC28L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSSBC1 > inductors : SBC10
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-SBC10
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSSBC1|
 |name|name|inductors : SBC10|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

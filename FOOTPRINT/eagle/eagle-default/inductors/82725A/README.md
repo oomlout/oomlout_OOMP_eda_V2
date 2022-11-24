@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINS82725A > inductors : 82725A
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-82725A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINS82725A|
 |name|name|inductors : 82725A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

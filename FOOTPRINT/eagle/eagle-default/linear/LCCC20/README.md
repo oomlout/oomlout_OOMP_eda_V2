@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARLCCC2 > linear : LCCC20
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-LCCC20
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARLCCC2|
 |name|name|linear : LCCC20|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

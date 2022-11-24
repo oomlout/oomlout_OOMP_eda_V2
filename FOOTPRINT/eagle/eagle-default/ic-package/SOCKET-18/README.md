@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEICPSO18 > ic-package : SOCKET-18
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-SOCKET-18
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEICPSO18|
 |name|name|ic-package : SOCKET-18|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

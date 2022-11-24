@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEDO34Z7 > diode : DO34Z7
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO34Z7
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEDO34Z7|
 |name|name|diode : DO34Z7|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

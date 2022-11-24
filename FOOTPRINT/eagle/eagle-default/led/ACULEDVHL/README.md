@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELACULVHL > led : ACULEDVHL
 
 - ID: FOOTPRINT-eagle-eagle-default-led-ACULEDVHL
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELACULVHL|
 |name|name|led : ACULEDVHL|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

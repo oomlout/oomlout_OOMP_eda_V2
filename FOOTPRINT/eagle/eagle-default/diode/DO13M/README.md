@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEDO13M > diode : DO13M
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO13M
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEDO13M|
 |name|name|diode : DO13M|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

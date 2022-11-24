@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSB82535 > inductors : B825-35
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-B825-35
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSB82535|
 |name|name|inductors : B825-35|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

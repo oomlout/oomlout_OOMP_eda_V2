@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELSO8 > led : SO-8
 
 - ID: FOOTPRINT-eagle-eagle-default-led-SO-8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELSO8|
 |name|name|led : SO-8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

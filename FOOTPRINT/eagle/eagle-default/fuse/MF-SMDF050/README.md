@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFUMFSMF5 > fuse : MF-SMDF050
 
 - ID: FOOTPRINT-eagle-eagle-default-fuse-MF-SMDF050
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFUMFSMF5|
 |name|name|fuse : MF-SMDF050|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

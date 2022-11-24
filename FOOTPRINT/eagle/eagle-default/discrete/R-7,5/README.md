@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDISCRETER75 > discrete : R-7,5
 
 - ID: FOOTPRINT-eagle-eagle-default-discrete-R-7,5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDISCRETER75|
 |name|name|discrete : R-7,5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

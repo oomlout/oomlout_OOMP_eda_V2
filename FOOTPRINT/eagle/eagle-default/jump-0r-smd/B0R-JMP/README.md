@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEJUMPRSMBRJMP > jump-0r-smd : B0R-JMP
 
 - ID: FOOTPRINT-eagle-eagle-default-jump-0r-smd-B0R-JMP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEJUMPRSMBRJMP|
 |name|name|jump-0r-smd : B0R-JMP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

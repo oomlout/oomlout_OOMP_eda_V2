@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDISCRETET23A23X > discrete : T23-A230X
 
 - ID: FOOTPRINT-eagle-eagle-default-discrete-T23-A230X
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDISCRETET23A23X|
 |name|name|discrete : T23-A230X|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

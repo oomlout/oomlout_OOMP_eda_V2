@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEIRBGAIP22 > ir : BGA-IP2002
 
 - ID: FOOTPRINT-eagle-eagle-default-ir-BGA-IP2002
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEIRBGAIP22|
 |name|name|ir : BGA-IP2002|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

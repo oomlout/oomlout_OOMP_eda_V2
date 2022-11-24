@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTO46 > linear : TO46
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-TO46
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTO46|
 |name|name|linear : TO46|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

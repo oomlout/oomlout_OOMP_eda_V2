@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARM8 > linear : MICRO8
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-MICRO8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARM8|
 |name|name|linear : MICRO8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

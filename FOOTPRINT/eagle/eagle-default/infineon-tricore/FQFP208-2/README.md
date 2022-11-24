@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINFINEONTRICOREFQFP282 > infineon-tricore : FQFP208-2
 
 - ID: FOOTPRINT-eagle-eagle-default-infineon-tricore-FQFP208-2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINFINEONTRICOREFQFP282|
 |name|name|infineon-tricore : FQFP208-2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

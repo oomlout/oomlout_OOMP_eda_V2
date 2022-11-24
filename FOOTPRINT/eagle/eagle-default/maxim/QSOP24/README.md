@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIMQS24 > maxim : QSOP24
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-QSOP24
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIMQS24|
 |name|name|maxim : QSOP24|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

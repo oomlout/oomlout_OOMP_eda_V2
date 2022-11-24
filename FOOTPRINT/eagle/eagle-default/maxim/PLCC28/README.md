@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIMPLCC28 > maxim : PLCC28
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-PLCC28
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIMPLCC28|
 |name|name|maxim : PLCC28|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

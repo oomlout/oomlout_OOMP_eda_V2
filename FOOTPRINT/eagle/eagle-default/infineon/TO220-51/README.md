@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINFINEONTO2251 > infineon : TO220-51
 
 - ID: FOOTPRINT-eagle-eagle-default-infineon-TO220-51
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINFINEONTO2251|
 |name|name|infineon : TO220-51|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

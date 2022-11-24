@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEJOHANSONTECHNOLOGY245BM15A2 > johanson-technology : 2450BM15A0002
 
 - ID: FOOTPRINT-eagle-eagle-default-johanson-technology-2450BM15A0002
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEJOHANSONTECHNOLOGY245BM15A2|
 |name|name|johanson-technology : 2450BM15A0002|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

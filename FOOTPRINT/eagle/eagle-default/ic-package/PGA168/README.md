@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEICPPGA168 > ic-package : PGA168
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-PGA168
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEICPPGA168|
 |name|name|ic-package : PGA168|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

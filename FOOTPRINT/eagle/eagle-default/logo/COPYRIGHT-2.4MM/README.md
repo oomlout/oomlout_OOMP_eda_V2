@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELCOPYR24 > logo : COPYRIGHT-2.4MM
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-COPYRIGHT-2.4MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELCOPYR24|
 |name|name|logo : COPYRIGHT-2.4MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

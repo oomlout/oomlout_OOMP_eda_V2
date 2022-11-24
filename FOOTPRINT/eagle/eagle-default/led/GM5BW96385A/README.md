@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELGM5BW96385A > led : GM5BW96385A
 
 - ID: FOOTPRINT-eagle-eagle-default-led-GM5BW96385A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELGM5BW96385A|
 |name|name|led : GM5BW96385A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

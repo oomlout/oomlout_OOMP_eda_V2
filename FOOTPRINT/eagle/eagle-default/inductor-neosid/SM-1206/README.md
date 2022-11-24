@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDSM126 > inductor-neosid : SM-1206
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-1206
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDSM126|
 |name|name|inductor-neosid : SM-1206|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

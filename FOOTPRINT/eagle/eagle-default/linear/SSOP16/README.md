@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARSS16 > linear : SSOP16
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-SSOP16
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARSS16|
 |name|name|linear : SSOP16|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

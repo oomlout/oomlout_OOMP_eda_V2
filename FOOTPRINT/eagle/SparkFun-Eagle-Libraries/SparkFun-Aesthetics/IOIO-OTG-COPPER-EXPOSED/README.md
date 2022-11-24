@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZSAIOIOOTGCEXPOSED > SparkFun-Aesthetics : IOIO-OTG-COPPER-EXPOSED](#fzsaioiootgcexposed--sparkfun-aesthetics--ioio-otg-copper-exposed)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,14 @@ NO IMAGE
 - Description: SparkFun-Aesthetics : IOIO-OTG-COPPER-EXPOSED
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-IOIO-OTG-COPPER-EXPOSED](http://oom.lt/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-IOIO-OTG-COPPER-EXPOSED)
 - Short Link: [http://oom.lt/FZSAIOIOOTGCEXPOSED](http://oom.lt/FZSAIOIOOTGCEXPOSED)
+
+## Images
   
-NO IMAGES  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/IOIO-OTG-COPPER-EXPOSED/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/IOIO-OTG-COPPER-EXPOSED/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/IOIO-OTG-COPPER-EXPOSED/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/IOIO-OTG-COPPER-EXPOSED/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/IOIO-OTG-COPPER-EXPOSED/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/IOIO-OTG-COPPER-EXPOSED/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/IOIO-OTG-COPPER-EXPOSED/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/IOIO-OTG-COPPER-EXPOSED/kicadPcb3dBack.png)|
+| :---: | :---: | :---: | :---: |
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/IOIO-OTG-COPPER-EXPOSED/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics/IOIO-OTG-COPPER-EXPOSED/kicadPcb3d.png)||||
+
 ## Tags
   
 

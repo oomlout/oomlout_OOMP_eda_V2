@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONSAMTECTSW157GT > con-samtec : TSW-105-07-G-T
 
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-105-07-G-T
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONSAMTECTSW157GT|
 |name|name|con-samtec : TSW-105-07-G-T|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

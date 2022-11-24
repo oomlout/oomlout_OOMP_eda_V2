@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEEXARPLCC52 > exar : PLCC52
 
 - ID: FOOTPRINT-eagle-eagle-default-exar-PLCC52
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEEXARPLCC52|
 |name|name|exar : PLCC52|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

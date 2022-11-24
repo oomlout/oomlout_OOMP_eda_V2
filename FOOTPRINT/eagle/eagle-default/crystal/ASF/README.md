@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXASF > crystal : ASF
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-ASF
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXASF|
 |name|name|crystal : ASF|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

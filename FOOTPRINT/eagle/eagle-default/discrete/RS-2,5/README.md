@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDISCRETERS25 > discrete : RS-2,5
 
 - ID: FOOTPRINT-eagle-eagle-default-discrete-RS-2,5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDISCRETERS25|
 |name|name|discrete : RS-2,5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

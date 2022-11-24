@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEIQDFREQUENCYPRODUCTSWATCH3X8 > IQD-Frequency-Products : WATCH-3X8
 
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-WATCH-3X8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEIQDFREQUENCYPRODUCTSWATCH3X8|
 |name|name|IQD-Frequency-Products : WATCH-3X8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

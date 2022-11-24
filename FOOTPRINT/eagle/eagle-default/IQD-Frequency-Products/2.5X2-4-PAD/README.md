@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEIQDFREQUENCYPRODUCTS25X24P > IQD-Frequency-Products : 2.5X2-4-PAD
 
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-2.5X2-4-PAD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEIQDFREQUENCYPRODUCTS25X24P|
 |name|name|IQD-Frequency-Products : 2.5X2-4-PAD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

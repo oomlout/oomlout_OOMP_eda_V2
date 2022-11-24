@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSSD5 > inductors : SD50
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-SD50
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSSD5|
 |name|name|inductors : SD50|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

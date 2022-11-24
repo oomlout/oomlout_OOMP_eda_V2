@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELCLN6A > led : CLN6A
 
 - ID: FOOTPRINT-eagle-eagle-default-led-CLN6A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELCLN6A|
 |name|name|led : CLN6A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

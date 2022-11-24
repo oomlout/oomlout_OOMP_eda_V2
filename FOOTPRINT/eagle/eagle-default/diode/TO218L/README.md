@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODETO218L > diode : TO218L
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-TO218L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODETO218L|
 |name|name|diode : TO218L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

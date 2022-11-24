@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEDO214BA > diode : DO214BA
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO214BA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEDO214BA|
 |name|name|diode : DO214BA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

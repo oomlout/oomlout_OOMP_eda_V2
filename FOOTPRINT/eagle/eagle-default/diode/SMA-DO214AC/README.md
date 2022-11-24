@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESDO214AC > diode : SMA-DO214AC
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SMA-DO214AC
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESDO214AC|
 |name|name|diode : SMA-DO214AC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

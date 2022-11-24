@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSRKE6 > inductors : RKE6
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-RKE6
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSRKE6|
 |name|name|inductors : RKE6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

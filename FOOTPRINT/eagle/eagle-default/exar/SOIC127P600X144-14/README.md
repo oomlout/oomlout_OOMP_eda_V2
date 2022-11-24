@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEEXARSOIC127P6X14414 > exar : SOIC127P600X144-14
 
 - ID: FOOTPRINT-eagle-eagle-default-exar-SOIC127P600X144-14
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEEXARSOIC127P6X14414|
 |name|name|exar : SOIC127P600X144-14|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

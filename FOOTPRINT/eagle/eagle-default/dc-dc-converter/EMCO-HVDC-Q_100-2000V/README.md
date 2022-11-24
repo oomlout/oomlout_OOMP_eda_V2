@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDCDCCONVERTEREMCOHVDCQ12V > dc-dc-converter : EMCO-HVDC-Q_100-2000V
 
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-EMCO-HVDC-Q_100-2000V
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDCDCCONVERTEREMCOHVDCQ12V|
 |name|name|dc-dc-converter : EMCO-HVDC-Q_100-2000V|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELCS216L2 > logo : CS-2016-LOGO-20MM
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-CS-2016-LOGO-20MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELCS216L2|
 |name|name|logo : CS-2016-LOGO-20MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

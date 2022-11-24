@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXTC48 > crystal : TC48
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-TC48
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXTC48|
 |name|name|crystal : TC48|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

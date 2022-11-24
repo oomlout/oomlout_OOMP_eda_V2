@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINFINEONTRICOREPLBGA26 > infineon-tricore : P-LBGA-260
 
 - ID: FOOTPRINT-eagle-eagle-default-infineon-tricore-P-LBGA-260
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINFINEONTRICOREPLBGA26|
 |name|name|infineon-tricore : P-LBGA-260|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

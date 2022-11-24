@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONSAMTECTSW13XXGS > con-samtec : TSW-103-XX-G-S
 
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-103-XX-G-S
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONSAMTECTSW13XXGS|
 |name|name|con-samtec : TSW-103-XX-G-S|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

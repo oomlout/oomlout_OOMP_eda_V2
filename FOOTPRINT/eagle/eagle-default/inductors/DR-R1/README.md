@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSDRR1 > inductors : DR-R1
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-DR-R1
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSDRR1|
 |name|name|inductors : DR-R1|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

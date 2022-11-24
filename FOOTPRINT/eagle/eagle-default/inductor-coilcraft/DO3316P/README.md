@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINCOILCRAFTDO3316P > inductor-coilcraft : DO3316P
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-coilcraft-DO3316P
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINCOILCRAFTDO3316P|
 |name|name|inductor-coilcraft : DO3316P|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

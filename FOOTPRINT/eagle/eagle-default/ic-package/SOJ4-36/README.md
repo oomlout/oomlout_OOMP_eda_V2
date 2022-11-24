@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEICPSOJ436 > ic-package : SOJ4-36
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-SOJ4-36
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEICPSOJ436|
 |name|name|ic-package : SOJ4-36|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

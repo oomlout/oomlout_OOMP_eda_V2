@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIKBRTA211HWA > display-kingbright : TA20-11HWA
 
 - ID: FOOTPRINT-eagle-eagle-default-display-kingbright-TA20-11HWA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIKBRTA211HWA|
 |name|name|display-kingbright : TA20-11HWA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

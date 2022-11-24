@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELDUOL2X5 > led : DUOLED2X5
 
 - ID: FOOTPRINT-eagle-eagle-default-led-DUOLED2X5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELDUOL2X5|
 |name|name|led : DUOLED2X5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

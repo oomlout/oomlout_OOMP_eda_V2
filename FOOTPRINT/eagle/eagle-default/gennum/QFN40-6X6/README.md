@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEGENNUMQFN46X6 > gennum : QFN40-6X6
 
 - ID: FOOTPRINT-eagle-eagle-default-gennum-QFN40-6X6
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEGENNUMQFN46X6|
 |name|name|gennum : QFN40-6X6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

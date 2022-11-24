@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELLSU26 > led : LSU260
 
 - ID: FOOTPRINT-eagle-eagle-default-led-LSU260
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELLSU26|
 |name|name|led : LSU260|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

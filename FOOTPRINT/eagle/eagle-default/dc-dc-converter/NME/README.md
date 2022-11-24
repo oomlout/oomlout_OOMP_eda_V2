@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDCDCCONVERTERNME > dc-dc-converter : NME
 
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-NME
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDCDCCONVERTERNME|
 |name|name|dc-dc-converter : NME|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELMUELLEIMER > logo : MUELLEIMER
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-MUELLEIMER
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELMUELLEIMER|
 |name|name|logo : MUELLEIMER|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

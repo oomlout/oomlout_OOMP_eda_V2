@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTECHNOLOGYQFN649X9 > linear-technology : QFN64-9X9
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-QFN64-9X9
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTECHNOLOGYQFN649X9|
 |name|name|linear-technology : QFN64-9X9|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

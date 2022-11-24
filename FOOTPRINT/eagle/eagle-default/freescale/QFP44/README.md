@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFREESCALEQFP44 > freescale : QFP44
 
 - ID: FOOTPRINT-eagle-eagle-default-freescale-QFP44
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFREESCALEQFP44|
 |name|name|freescale : QFP44|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

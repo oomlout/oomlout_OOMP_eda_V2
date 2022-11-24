@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONSAMTECTSW128GQRA > con-samtec : TSW-102-08-G-Q-RA
 
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-102-08-G-Q-RA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONSAMTECTSW128GQRA|
 |name|name|con-samtec : TSW-102-08-G-Q-RA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

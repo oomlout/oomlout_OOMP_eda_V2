@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEG415 > diode : G4-15
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-G4-15
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEG415|
 |name|name|diode : G4-15|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

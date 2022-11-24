@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXHC33UV > crystal : HC33U-V
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-HC33U-V
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXHC33UV|
 |name|name|crystal : HC33U-V|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

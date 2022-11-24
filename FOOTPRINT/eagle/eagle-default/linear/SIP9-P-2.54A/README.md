@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARSIP9P254A > linear : SIP9-P-2.54A
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-SIP9-P-2.54A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARSIP9P254A|
 |name|name|linear : SIP9-P-2.54A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

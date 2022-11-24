@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDILCDMGLS24128TZ > display-lcd : MGLS2401280TZ
 
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-MGLS2401280TZ
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDILCDMGLS24128TZ|
 |name|name|display-lcd : MGLS2401280TZ|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

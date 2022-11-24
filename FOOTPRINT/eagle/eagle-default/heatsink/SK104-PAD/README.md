@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEHSK14P > heatsink : SK104-PAD
 
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-SK104-PAD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEHSK14P|
 |name|name|heatsink : SK104-PAD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESOT223W > diode : SOT223-W
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOT223-W
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESOT223W|
 |name|name|diode : SOT223-W|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

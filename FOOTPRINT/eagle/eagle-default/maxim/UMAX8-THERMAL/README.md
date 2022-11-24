@@ -6,6 +6,7 @@ Contents
 ========
 
 * [FZEMAXIMUMAX8TH > maxim : UMAX8-THERMAL](#fzemaximumax8th--maxim--umax8-thermal)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -18,8 +19,13 @@ NO IMAGE
 - Description: maxim : UMAX8-THERMAL
 - Long Link: [http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-UMAX8-THERMAL](http://oom.lt/FOOTPRINT-eagle-eagle-default-maxim-UMAX8-THERMAL)
 - Short Link: [http://oom.lt/FZEMAXIMUMAX8TH](http://oom.lt/FZEMAXIMUMAX8TH)
+
+## Images
   
-NO IMAGES  
+
+|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/maxim/UMAX8-THERMAL/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/maxim/UMAX8-THERMAL/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/maxim/UMAX8-THERMAL/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/maxim/UMAX8-THERMAL/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/eagle-default/maxim/UMAX8-THERMAL/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/eagle-default/maxim/UMAX8-THERMAL/kicadPcb3d.png)||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 

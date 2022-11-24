@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSDSH1 > inductors : DSH01
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-DSH01
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSDSH1|
 |name|name|inductors : DSH01|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

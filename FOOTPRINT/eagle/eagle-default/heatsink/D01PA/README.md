@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEHD1PA > heatsink : D01PA
 
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-D01PA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEHD1PA|
 |name|name|heatsink : D01PA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

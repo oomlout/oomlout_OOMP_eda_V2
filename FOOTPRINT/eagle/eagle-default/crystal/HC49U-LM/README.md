@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXHC49ULM > crystal : HC49U-LM
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-HC49U-LM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXHC49ULM|
 |name|name|crystal : HC49U-LM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNKLKS261 > inductor-nkl : KS2610
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-nkl-KS2610
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNKLKS261|
 |name|name|inductor-nkl : KS2610|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

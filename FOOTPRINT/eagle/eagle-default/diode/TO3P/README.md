@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODETO3P > diode : TO3P
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-TO3P
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODETO3P|
 |name|name|diode : TO3P|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

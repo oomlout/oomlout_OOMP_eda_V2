@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEC182B > diode : C182B
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-C182B
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEC182B|
 |name|name|diode : C182B|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

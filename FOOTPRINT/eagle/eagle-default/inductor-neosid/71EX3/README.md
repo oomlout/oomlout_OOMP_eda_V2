@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSID71EX3 > inductor-neosid : 71EX3
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-71EX3
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSID71EX3|
 |name|name|inductor-neosid : 71EX3|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

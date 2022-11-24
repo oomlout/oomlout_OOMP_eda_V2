@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONSAMTECSSW152GD > con-samtec : SSW-150-02-G-D
 
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-SSW-150-02-G-D
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONSAMTECSSW152GD|
 |name|name|con-samtec : SSW-150-02-G-D|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

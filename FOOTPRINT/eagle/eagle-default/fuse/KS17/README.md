@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFUKS17 > fuse : KS17
 
 - ID: FOOTPRINT-eagle-eagle-default-fuse-KS17
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFUKS17|
 |name|name|fuse : KS17|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

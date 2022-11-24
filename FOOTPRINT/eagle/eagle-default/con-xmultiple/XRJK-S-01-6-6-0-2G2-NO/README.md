@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONXMULTIPLEXRJKS1662G2NO > con-xmultiple : XRJK-S-01-6-6-0-2G2-NO
 
 - ID: FOOTPRINT-eagle-eagle-default-con-xmultiple-XRJK-S-01-6-6-0-2G2-NO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONXMULTIPLEXRJKS1662G2NO|
 |name|name|con-xmultiple : XRJK-S-01-6-6-0-2G2-NO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

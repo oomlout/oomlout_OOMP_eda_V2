@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEHSK1255 > heatsink : SK125_50
 
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-SK125_50
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEHSK1255|
 |name|name|heatsink : SK125_50|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

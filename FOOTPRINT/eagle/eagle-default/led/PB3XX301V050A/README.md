@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELPB3XX31V5A > led : PB3XX301V050A
 
 - ID: FOOTPRINT-eagle-eagle-default-led-PB3XX301V050A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELPB3XX31V5A|
 |name|name|led : PB3XX301V050A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

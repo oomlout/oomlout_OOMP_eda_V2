@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESMB > diode : SMB
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SMB
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESMB|
 |name|name|diode : SMB|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

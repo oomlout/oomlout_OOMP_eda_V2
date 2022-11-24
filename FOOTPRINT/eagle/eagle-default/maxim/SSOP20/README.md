@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIMSS2 > maxim : SSOP20
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-SSOP20
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIMSS2|
 |name|name|maxim : SSOP20|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESOD523 > diode : SOD523
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD523
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESOD523|
 |name|name|diode : SOD523|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

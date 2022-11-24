@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEBR22S > diode : BR220S
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-BR220S
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEBR22S|
 |name|name|diode : BR220S|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

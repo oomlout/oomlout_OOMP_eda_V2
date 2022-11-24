@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESMC > diode : SMC
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SMC
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESMC|
 |name|name|diode : SMC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

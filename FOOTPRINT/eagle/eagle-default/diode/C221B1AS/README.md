@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEC221B1AS > diode : C221B1AS
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-C221B1AS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEC221B1AS|
 |name|name|diode : C221B1AS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSDFKH14 > inductors : DFKH14
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-DFKH14
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSDFKH14|
 |name|name|inductors : DFKH14|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTECHNOLOGYDFN62X3 > linear-technology : DFN6-2X3
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-DFN6-2X3
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTECHNOLOGYDFN62X3|
 |name|name|linear-technology : DFN6-2X3|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINXANTXXXSP > linx : ANT-XXX-SP
 
 - ID: FOOTPRINT-eagle-eagle-default-linx-ANT-XXX-SP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINXANTXXXSP|
 |name|name|linx : ANT-XXX-SP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDILCDTUXGR2X2 > display-lcd : TUXGR_20X2
 
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-TUXGR_20X2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDILCDTUXGR2X2|
 |name|name|display-lcd : TUXGR_20X2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

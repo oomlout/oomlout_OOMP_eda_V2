@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTECHNOLOGYSOT223 > linear-technology : SOT223
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-SOT223
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTECHNOLOGYSOT223|
 |name|name|linear-technology : SOT223|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELSOT23 > led : SOT23
 
 - ID: FOOTPRINT-eagle-eagle-default-led-SOT23
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELSOT23|
 |name|name|led : SOT23|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

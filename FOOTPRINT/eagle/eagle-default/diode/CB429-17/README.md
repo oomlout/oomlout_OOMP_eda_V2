@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODECB42917 > diode : CB429-17
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-CB429-17
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODECB42917|
 |name|name|diode : CB429-17|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

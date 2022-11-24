@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONYAMAICHIFPS934 > con-yamaichi : FPS009-3004
 
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-FPS009-3004
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONYAMAICHIFPS934|
 |name|name|con-yamaichi : FPS009-3004|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELLP2C63STRGBSR > led : LP2C63-ST-RGB-SR0
 
 - ID: FOOTPRINT-eagle-eagle-default-led-LP2C63-ST-RGB-SR0
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELLP2C63STRGBSR|
 |name|name|led : LP2C63-ST-RGB-SR0|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

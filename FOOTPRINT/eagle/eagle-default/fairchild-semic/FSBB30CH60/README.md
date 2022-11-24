@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFAIRCHILDSEMICFSBB3CH6 > fairchild-semic : FSBB30CH60
 
 - ID: FOOTPRINT-eagle-eagle-default-fairchild-semic-FSBB30CH60
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFAIRCHILDSEMICFSBB3CH6|
 |name|name|fairchild-semic : FSBB30CH60|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

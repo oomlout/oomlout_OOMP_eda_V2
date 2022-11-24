@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELCOPYR8 > logo : COPYRIGHT-8MM
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-COPYRIGHT-8MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELCOPYR8|
 |name|name|logo : COPYRIGHT-8MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

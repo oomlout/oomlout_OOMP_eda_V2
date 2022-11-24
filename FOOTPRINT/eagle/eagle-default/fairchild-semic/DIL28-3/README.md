@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFAIRCHILDSEMICDIL283 > fairchild-semic : DIL28-3
 
 - ID: FOOTPRINT-eagle-eagle-default-fairchild-semic-DIL28-3
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFAIRCHILDSEMICDIL283|
 |name|name|fairchild-semic : DIL28-3|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

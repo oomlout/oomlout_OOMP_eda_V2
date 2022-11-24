@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESOD16AR > diode : SOD106A-R
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD106A-R
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESOD16AR|
 |name|name|diode : SOD106A-R|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

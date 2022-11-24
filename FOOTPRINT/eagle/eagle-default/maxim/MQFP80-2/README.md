@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIMMQFP82 > maxim : MQFP80-2
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-MQFP80-2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIMMQFP82|
 |name|name|maxim : MQFP80-2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

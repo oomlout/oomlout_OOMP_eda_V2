@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARUDN2954W > linear : UDN2954W
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-UDN2954W
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARUDN2954W|
 |name|name|linear : UDN2954W|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

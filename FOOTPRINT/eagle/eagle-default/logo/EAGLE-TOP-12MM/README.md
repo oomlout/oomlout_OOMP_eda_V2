@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELEAGLETOP12 > logo : EAGLE-TOP-12MM
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-EAGLE-TOP-12MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELEAGLETOP12|
 |name|name|logo : EAGLE-TOP-12MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

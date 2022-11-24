@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELSICOMPUTERSYSTEMSTSS28 > lsi-computer-systems : TSSOP28
 
 - ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP28
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELSICOMPUTERSYSTEMSTSS28|
 |name|name|lsi-computer-systems : TSSOP28|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELCP41B > led : CP41B
 
 - ID: FOOTPRINT-eagle-eagle-default-led-CP41B
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELCP41B|
 |name|name|led : CP41B|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

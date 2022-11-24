@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELCSL43 > logo : CS-LOGO-43MM
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-CS-LOGO-43MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELCSL43|
 |name|name|logo : CS-LOGO-43MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

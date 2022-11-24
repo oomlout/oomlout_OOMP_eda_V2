@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEJJUMPY > jumper : JUMP-Y
 
 - ID: FOOTPRINT-eagle-eagle-default-jumper-JUMP-Y
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEJJUMPY|
 |name|name|jumper : JUMP-Y|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

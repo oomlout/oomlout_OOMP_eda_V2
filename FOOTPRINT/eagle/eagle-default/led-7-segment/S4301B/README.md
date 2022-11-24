@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEL7SS431B > led-7-segment : S4301B
 
 - ID: FOOTPRINT-eagle-eagle-default-led-7-segment-S4301B
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEL7SS431B|
 |name|name|led-7-segment : S4301B|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

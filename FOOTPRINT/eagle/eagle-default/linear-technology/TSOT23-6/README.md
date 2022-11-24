@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTECHNOLOGYTSOT236 > linear-technology : TSOT23-6
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-TSOT23-6
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTECHNOLOGYTSOT236|
 |name|name|linear-technology : TSOT23-6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

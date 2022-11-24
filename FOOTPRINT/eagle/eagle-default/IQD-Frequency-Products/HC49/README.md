@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEIQDFREQUENCYPRODUCTSHC49 > IQD-Frequency-Products : HC49
 
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-HC49
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEIQDFREQUENCYPRODUCTSHC49|
 |name|name|IQD-Frequency-Products : HC49|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

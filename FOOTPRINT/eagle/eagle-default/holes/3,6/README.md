@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEH36 > holes : 3,6
 
 - ID: FOOTPRINT-eagle-eagle-default-holes-3,6
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEH36|
 |name|name|holes : 3,6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

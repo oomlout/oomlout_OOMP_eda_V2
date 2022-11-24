@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXFA128 > crystal : FA-128
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-FA-128
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXFA128|
 |name|name|crystal : FA-128|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

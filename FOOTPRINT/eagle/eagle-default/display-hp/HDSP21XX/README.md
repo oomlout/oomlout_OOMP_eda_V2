@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIHPHDSP21XX > display-hp : HDSP21XX
 
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HDSP21XX
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIHPHDSP21XX|
 |name|name|display-hp : HDSP21XX|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

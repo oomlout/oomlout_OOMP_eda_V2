@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELMSDL > led : MICRO-SIDELED
 
 - ID: FOOTPRINT-eagle-eagle-default-led-MICRO-SIDELED
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELMSDL|
 |name|name|led : MICRO-SIDELED|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

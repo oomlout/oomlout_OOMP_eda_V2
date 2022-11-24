@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFUSH225 > fuse : SH22,5
 
 - ID: FOOTPRINT-eagle-eagle-default-fuse-SH22,5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFUSH225|
 |name|name|fuse : SH22,5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

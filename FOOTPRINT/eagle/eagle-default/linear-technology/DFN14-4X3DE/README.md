@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTECHNOLOGYDFN144X3DE > linear-technology : DFN14-4X3DE
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-DFN14-4X3DE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTECHNOLOGYDFN144X3DE|
 |name|name|linear-technology : DFN14-4X3DE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

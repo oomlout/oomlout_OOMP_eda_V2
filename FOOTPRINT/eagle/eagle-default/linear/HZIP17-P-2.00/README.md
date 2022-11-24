@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARHZIP17P2 > linear : HZIP17-P-2.00
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-HZIP17-P-2.00
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARHZIP17P2|
 |name|name|linear : HZIP17-P-2.00|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

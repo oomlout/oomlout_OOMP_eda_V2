@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDMS4 > inductor-neosid : MS40
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-MS40
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDMS4|
 |name|name|inductor-neosid : MS40|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

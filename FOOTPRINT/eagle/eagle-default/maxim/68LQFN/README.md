@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIM68LQFN > maxim : 68LQFN
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-68LQFN
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIM68LQFN|
 |name|name|maxim : 68LQFN|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

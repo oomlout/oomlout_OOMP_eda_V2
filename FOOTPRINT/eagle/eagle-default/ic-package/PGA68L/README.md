@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEICPPGA68L > ic-package : PGA68L
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-PGA68L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEICPPGA68L|
 |name|name|ic-package : PGA68L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFREESCALESQFPS1X164 > freescale : SQFP-S-10X10-64
 
 - ID: FOOTPRINT-eagle-eagle-default-freescale-SQFP-S-10X10-64
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFREESCALESQFPS1X164|
 |name|name|freescale : SQFP-S-10X10-64|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

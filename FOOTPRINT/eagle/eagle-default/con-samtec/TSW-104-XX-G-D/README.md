@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONSAMTECTSW14XXGD > con-samtec : TSW-104-XX-G-D
 
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-104-XX-G-D
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONSAMTECTSW14XXGD|
 |name|name|con-samtec : TSW-104-XX-G-D|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

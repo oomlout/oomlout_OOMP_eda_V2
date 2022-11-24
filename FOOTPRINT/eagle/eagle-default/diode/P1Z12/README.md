@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEP1Z12 > diode : P1Z12
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-P1Z12
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEP1Z12|
 |name|name|diode : P1Z12|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

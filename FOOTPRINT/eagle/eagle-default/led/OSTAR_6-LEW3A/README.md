@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELOSTAR6LEW3A > led : OSTAR_6-LEW3A
 
 - ID: FOOTPRINT-eagle-eagle-default-led-OSTAR_6-LEW3A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELOSTAR6LEW3A|
 |name|name|led : OSTAR_6-LEW3A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

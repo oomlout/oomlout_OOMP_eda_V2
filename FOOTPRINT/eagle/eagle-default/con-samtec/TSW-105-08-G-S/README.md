@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONSAMTECTSW158GS > con-samtec : TSW-105-08-G-S
 
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-105-08-G-S
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONSAMTECTSW158GS|
 |name|name|con-samtec : TSW-105-08-G-S|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELPRSSIL5 > lprs : SIL5
 
 - ID: FOOTPRINT-eagle-eagle-default-lprs-SIL5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELPRSSIL5|
 |name|name|lprs : SIL5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

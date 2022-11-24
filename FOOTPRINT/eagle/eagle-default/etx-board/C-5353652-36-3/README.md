@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEETXBOARDC5353652363 > etx-board : C-5353652-36-3
 
 - ID: FOOTPRINT-eagle-eagle-default-etx-board-C-5353652-36-3
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEETXBOARDC5353652363|
 |name|name|etx-board : C-5353652-36-3|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

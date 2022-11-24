@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNKLB42 > inductor-nkl : B42
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-nkl-B42
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNKLB42|
 |name|name|inductor-nkl : B42|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEC411115 > diode : C4111-15
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-C4111-15
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEC411115|
 |name|name|diode : C4111-15|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

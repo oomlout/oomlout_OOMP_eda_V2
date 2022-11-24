@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEHD2AL > heatsink : D02A-L
 
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-D02A-L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEHD2AL|
 |name|name|heatsink : D02A-L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

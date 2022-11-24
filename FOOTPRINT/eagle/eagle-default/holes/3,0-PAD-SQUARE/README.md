@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEH3PSQ > holes : 3,0-PAD-SQUARE
 
 - ID: FOOTPRINT-eagle-eagle-default-holes-3,0-PAD-SQUARE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEH3PSQ|
 |name|name|holes : 3,0-PAD-SQUARE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

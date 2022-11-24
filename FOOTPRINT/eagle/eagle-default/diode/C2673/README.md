@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEC2673 > diode : C2673
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-C2673
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEC2673|
 |name|name|diode : C2673|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECYPRESSSS56 > cypress : SSOP56
 
 - ID: FOOTPRINT-eagle-eagle-default-cypress-SSOP56
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECYPRESSSS56|
 |name|name|cypress : SSOP56|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

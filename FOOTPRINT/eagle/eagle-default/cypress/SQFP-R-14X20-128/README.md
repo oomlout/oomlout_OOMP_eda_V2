@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECYPRESSSQFPR14X2128 > cypress : SQFP-R-14X20-128
 
 - ID: FOOTPRINT-eagle-eagle-default-cypress-SQFP-R-14X20-128
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECYPRESSSQFPR14X2128|
 |name|name|cypress : SQFP-R-14X20-128|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

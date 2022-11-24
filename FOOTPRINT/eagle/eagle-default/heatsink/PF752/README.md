@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEHPF752 > heatsink : PF752
 
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-PF752
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEHPF752|
 |name|name|heatsink : PF752|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

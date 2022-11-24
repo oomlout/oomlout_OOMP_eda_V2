@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELLUM > led : LUMILED
 
 - ID: FOOTPRINT-eagle-eagle-default-led-LUMILED
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELLUM|
 |name|name|led : LUMILED|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDRM645 > inductor-neosid : RM6-45
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-RM6-45
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDRM645|
 |name|name|inductor-neosid : RM6-45|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

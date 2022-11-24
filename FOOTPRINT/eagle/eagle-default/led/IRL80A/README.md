@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELIRL8A > led : IRL80A
 
 - ID: FOOTPRINT-eagle-eagle-default-led-IRL80A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELIRL8A|
 |name|name|led : IRL80A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

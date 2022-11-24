@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELLD26 > led : LD260
 
 - ID: FOOTPRINT-eagle-eagle-default-led-LD260
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELLD26|
 |name|name|led : LD260|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXM1 > crystal : M-1
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-M-1
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXM1|
 |name|name|crystal : M-1|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

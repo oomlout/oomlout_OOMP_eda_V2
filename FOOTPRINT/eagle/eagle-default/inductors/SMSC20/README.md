@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSSMSC2 > inductors : SMSC20
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-SMSC20
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSSMSC2|
 |name|name|inductors : SMSC20|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

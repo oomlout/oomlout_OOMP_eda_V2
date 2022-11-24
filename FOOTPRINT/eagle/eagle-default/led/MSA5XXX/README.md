@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELMSA5XXX > led : MSA5XXX
 
 - ID: FOOTPRINT-eagle-eagle-default-led-MSA5XXX
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELMSA5XXX|
 |name|name|led : MSA5XXX|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

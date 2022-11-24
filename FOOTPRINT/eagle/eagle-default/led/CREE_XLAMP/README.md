@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELCREEXLAMP > led : CREE_XLAMP
 
 - ID: FOOTPRINT-eagle-eagle-default-led-CREE_XLAMP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELCREEXLAMP|
 |name|name|led : CREE_XLAMP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

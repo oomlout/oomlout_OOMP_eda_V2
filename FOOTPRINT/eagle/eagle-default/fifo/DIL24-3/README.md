@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFIFODIL243 > fifo : DIL24-3
 
 - ID: FOOTPRINT-eagle-eagle-default-fifo-DIL24-3
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFIFODIL243|
 |name|name|fifo : DIL24-3|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

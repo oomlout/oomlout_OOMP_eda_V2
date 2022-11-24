@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEECLDIL243 > ecl : DIL24-3
 
 - ID: FOOTPRINT-eagle-eagle-default-ecl-DIL24-3
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEECLDIL243|
 |name|name|ecl : DIL24-3|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

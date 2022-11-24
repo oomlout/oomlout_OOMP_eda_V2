@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELLD269 > led : LD269
 
 - ID: FOOTPRINT-eagle-eagle-default-led-LD269
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELLD269|
 |name|name|led : LD269|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

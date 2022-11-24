@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINXTRMXXXLT > linx : TRM-XXX-LT
 
 - ID: FOOTPRINT-eagle-eagle-default-linx-TRM-XXX-LT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINXTRMXXXLT|
 |name|name|linx : TRM-XXX-LT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

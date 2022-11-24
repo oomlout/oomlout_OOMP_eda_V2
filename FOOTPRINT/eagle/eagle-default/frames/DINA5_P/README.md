@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFRAMESDINA5P > frames : DINA5_P
 
 - ID: FOOTPRINT-eagle-eagle-default-frames-DINA5_P
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFRAMESDINA5P|
 |name|name|frames : DINA5_P|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

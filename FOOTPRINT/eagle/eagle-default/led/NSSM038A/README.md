@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELNSSM38A > led : NSSM038A
 
 - ID: FOOTPRINT-eagle-eagle-default-led-NSSM038A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELNSSM38A|
 |name|name|led : NSSM038A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

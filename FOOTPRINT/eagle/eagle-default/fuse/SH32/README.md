@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFUSH32 > fuse : SH32
 
 - ID: FOOTPRINT-eagle-eagle-default-fuse-SH32
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFUSH32|
 |name|name|fuse : SH32|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

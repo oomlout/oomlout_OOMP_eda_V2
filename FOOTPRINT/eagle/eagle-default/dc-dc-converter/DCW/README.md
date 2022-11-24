@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDCDCCONVERTERDCW > dc-dc-converter : DCW
 
 - ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-DCW
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDCDCCONVERTERDCW|
 |name|name|dc-dc-converter : DCW|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

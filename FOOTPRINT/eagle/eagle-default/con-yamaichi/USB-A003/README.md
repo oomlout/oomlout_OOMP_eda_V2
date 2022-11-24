@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONYAMAICHIUA3 > con-yamaichi : USB-A003
 
 - ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-USB-A003
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONYAMAICHIUA3|
 |name|name|con-yamaichi : USB-A003|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

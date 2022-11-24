@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESOT54A > diode : SOT54A
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOT54A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESOT54A|
 |name|name|diode : SOT54A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

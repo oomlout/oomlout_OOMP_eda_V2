@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELPLCC6TOPL > led : P-LCC-6_TOPLED
 
 - ID: FOOTPRINT-eagle-eagle-default-led-P-LCC-6_TOPLED
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELPLCC6TOPL|
 |name|name|led : P-LCC-6_TOPLED|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDSMF51 > inductor-neosid : SMF5_1
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SMF5_1
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDSMF51|
 |name|name|inductor-neosid : SMF5_1|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

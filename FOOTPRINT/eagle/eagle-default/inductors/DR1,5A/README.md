@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSDR15A > inductors : DR1,5A
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-DR1,5A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSDR15A|
 |name|name|inductors : DR1,5A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

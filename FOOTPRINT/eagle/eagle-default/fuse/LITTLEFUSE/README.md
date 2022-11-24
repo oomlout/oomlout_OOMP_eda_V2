@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFULITTLEFU > fuse : LITTLEFUSE
 
 - ID: FOOTPRINT-eagle-eagle-default-fuse-LITTLEFUSE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFULITTLEFU|
 |name|name|fuse : LITTLEFUSE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

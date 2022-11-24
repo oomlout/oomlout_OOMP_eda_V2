@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSEMC9714 > inductors : EMC9714
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-EMC9714
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSEMC9714|
 |name|name|inductors : EMC9714|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

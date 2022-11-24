@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDILCDLS24C > display-lcd : LS024C
 
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-LS024C
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDILCDLS24C|
 |name|name|display-lcd : LS024C|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

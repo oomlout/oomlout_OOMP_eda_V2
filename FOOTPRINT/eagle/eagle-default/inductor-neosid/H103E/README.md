@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDH13E > inductor-neosid : H103E
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-H103E
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDH13E|
 |name|name|inductor-neosid : H103E|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

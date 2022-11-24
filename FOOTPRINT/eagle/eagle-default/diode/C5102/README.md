@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEC512 > diode : C5102
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-C5102
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEC512|
 |name|name|diode : C5102|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

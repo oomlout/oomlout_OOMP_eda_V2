@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFREESCALEMAPGBA196 > freescale : MAPGBA196
 
 - ID: FOOTPRINT-eagle-eagle-default-freescale-MAPGBA196
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFREESCALEMAPGBA196|
 |name|name|freescale : MAPGBA196|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

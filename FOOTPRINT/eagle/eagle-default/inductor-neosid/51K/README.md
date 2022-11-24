@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSID51K > inductor-neosid : 51K
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-51K
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSID51K|
 |name|name|inductor-neosid : 51K|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

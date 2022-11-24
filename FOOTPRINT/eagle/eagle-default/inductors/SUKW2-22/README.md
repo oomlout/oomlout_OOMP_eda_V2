@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSSUKW222 > inductors : SUKW2-22
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-SUKW2-22
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSSUKW222|
 |name|name|inductors : SUKW2-22|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

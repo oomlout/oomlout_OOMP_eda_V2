@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECYPRESSL > cypress : LOGO
 
 - ID: FOOTPRINT-eagle-eagle-default-cypress-LOGO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECYPRESSL|
 |name|name|cypress : LOGO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

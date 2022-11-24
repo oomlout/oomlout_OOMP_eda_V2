@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIKBRPSA1211 > display-kingbright : PSA12-11
 
 - ID: FOOTPRINT-eagle-eagle-default-display-kingbright-PSA12-11
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIKBRPSA1211|
 |name|name|display-kingbright : PSA12-11|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

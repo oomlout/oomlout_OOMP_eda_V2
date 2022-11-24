@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARPS24 > linear : PSOP24
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-PSOP24
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARPS24|
 |name|name|linear : PSOP24|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

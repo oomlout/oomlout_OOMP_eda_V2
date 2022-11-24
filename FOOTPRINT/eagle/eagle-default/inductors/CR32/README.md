@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSCR32 > inductors : CR32
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-CR32
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSCR32|
 |name|name|inductors : CR32|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSMESC26 > inductors : MESC26
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-MESC26
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSMESC26|
 |name|name|inductors : MESC26|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

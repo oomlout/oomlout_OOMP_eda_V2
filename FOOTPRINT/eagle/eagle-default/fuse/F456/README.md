@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFUF456 > fuse : F456
 
 - ID: FOOTPRINT-eagle-eagle-default-fuse-F456
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFUF456|
 |name|name|fuse : F456|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

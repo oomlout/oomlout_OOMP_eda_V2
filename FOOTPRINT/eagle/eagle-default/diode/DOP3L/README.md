@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEDOP3L > diode : DOP3L
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-DOP3L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEDOP3L|
 |name|name|diode : DOP3L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

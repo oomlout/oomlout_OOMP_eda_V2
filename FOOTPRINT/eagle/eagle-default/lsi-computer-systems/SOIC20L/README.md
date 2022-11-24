@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELSICOMPUTERSYSTEMSSOIC2L > lsi-computer-systems : SOIC20L
 
 - ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC20L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELSICOMPUTERSYSTEMSSOIC2L|
 |name|name|lsi-computer-systems : SOIC20L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

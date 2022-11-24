@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEART3B > linear : T03B
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-T03B
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEART3B|
 |name|name|linear : T03B|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

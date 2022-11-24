@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELSICOMPUTERSYSTEMSSOIC16LWB > lsi-computer-systems : SOIC16LWB
 
 - ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC16LWB
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELSICOMPUTERSYSTEMSSOIC16LWB|
 |name|name|lsi-computer-systems : SOIC16LWB|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

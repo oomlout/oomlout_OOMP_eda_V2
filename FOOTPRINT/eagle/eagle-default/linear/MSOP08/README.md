@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARMS8 > linear : MSOP08
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-MSOP08
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARMS8|
 |name|name|linear : MSOP08|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

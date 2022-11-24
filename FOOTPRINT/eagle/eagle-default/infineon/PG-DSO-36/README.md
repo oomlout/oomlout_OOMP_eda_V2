@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINFINEONPGDSO36 > infineon : PG-DSO-36
 
 - ID: FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-36
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINFINEONPGDSO36|
 |name|name|infineon : PG-DSO-36|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

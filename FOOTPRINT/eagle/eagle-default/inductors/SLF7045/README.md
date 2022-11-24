@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSSLF745 > inductors : SLF7045
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-SLF7045
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSSLF745|
 |name|name|inductors : SLF7045|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

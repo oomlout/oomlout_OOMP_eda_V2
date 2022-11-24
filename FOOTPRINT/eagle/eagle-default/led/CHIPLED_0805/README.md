@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELCHIPL85 > led : CHIPLED_0805
 
 - ID: FOOTPRINT-eagle-eagle-default-led-CHIPLED_0805
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELCHIPL85|
 |name|name|led : CHIPLED_0805|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

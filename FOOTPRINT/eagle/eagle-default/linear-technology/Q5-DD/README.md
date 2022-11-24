@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTECHNOLOGYQ5DD > linear-technology : Q5-DD
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-Q5-DD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTECHNOLOGYQ5DD|
 |name|name|linear-technology : Q5-DD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSETD29LN2 > inductors : ETD29LN2
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-ETD29LN2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSETD29LN2|
 |name|name|inductors : ETD29LN2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESOT186S > diode : SOT186S
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOT186S
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESOT186S|
 |name|name|diode : SOT186S|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

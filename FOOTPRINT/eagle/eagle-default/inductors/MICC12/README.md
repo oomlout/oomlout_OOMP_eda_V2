@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSMICC12 > inductors : MICC12
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-MICC12
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSMICC12|
 |name|name|inductors : MICC12|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

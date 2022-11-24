@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEGT32 > diode : GT32
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-GT32
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEGT32|
 |name|name|diode : GT32|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECYPRESSQFN32 > cypress : QFN32
 
 - ID: FOOTPRINT-eagle-eagle-default-cypress-QFN32
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECYPRESSQFN32|
 |name|name|cypress : QFN32|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

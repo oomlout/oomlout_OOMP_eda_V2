@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARPLCC28S > linear : PLCC28S
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-PLCC28S
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARPLCC28S|
 |name|name|linear : PLCC28S|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARDFN84X4 > linear : DFN8-4X4
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-DFN8-4X4
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARDFN84X4|
 |name|name|linear : DFN8-4X4|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

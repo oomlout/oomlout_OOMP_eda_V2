@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEDO2115 > diode : DO201-15
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO201-15
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEDO2115|
 |name|name|diode : DO201-15|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

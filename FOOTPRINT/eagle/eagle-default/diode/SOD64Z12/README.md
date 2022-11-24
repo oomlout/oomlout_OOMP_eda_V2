@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESOD64Z12 > diode : SOD64Z12
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD64Z12
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESOD64Z12|
 |name|name|diode : SOD64Z12|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEIQDFREQUENCYPRODUCTSCO151 > IQD-Frequency-Products : CO-15-1
 
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-CO-15-1
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEIQDFREQUENCYPRODUCTSCO151|
 |name|name|IQD-Frequency-Products : CO-15-1|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

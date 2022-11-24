@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSP762NL > inductors : P0762NL
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-P0762NL
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSP762NL|
 |name|name|inductors : P0762NL|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

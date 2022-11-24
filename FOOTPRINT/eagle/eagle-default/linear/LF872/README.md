@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARLF872 > linear : LF872
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-LF872
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARLF872|
 |name|name|linear : LF872|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

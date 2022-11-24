@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSDK41 > inductors : DK41
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-DK41
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSDK41|
 |name|name|inductors : DK41|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINFINEONTRICOREL5 > infineon-tricore : LOGO_5MM
 
 - ID: FOOTPRINT-eagle-eagle-default-infineon-tricore-LOGO_5MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINFINEONTRICOREL5|
 |name|name|infineon-tricore : LOGO_5MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFRAMESA4LLOC > frames : A4L-LOC
 
 - ID: FOOTPRINT-eagle-eagle-default-frames-A4L-LOC
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFRAMESA4LLOC|
 |name|name|frames : A4L-LOC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

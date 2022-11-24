@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFRAMESTABLL > frames : TABL_L
 
 - ID: FOOTPRINT-eagle-eagle-default-frames-TABL_L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFRAMESTABLL|
 |name|name|frames : TABL_L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELUMLUM2KGULLWING > lumiled : LUMILED_2K_GULLWING
 
 - ID: FOOTPRINT-eagle-eagle-default-lumiled-LUMILED_2K_GULLWING
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELUMLUM2KGULLWING|
 |name|name|lumiled : LUMILED_2K_GULLWING|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

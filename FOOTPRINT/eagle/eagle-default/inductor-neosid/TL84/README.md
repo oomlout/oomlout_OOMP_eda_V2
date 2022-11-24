@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDTL84 > inductor-neosid : TL84
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-TL84
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDTL84|
 |name|name|inductor-neosid : TL84|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

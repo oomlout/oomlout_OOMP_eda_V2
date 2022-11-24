@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDTL25 > inductor-neosid : TL25
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-TL25
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDTL25|
 |name|name|inductor-neosid : TL25|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODES73791 > diode : S7379-01
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-S7379-01
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODES73791|
 |name|name|diode : S7379-01|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

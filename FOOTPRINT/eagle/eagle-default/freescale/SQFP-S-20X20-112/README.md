@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFREESCALESQFPS2X2112 > freescale : SQFP-S-20X20-112
 
 - ID: FOOTPRINT-eagle-eagle-default-freescale-SQFP-S-20X20-112
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFREESCALESQFPS2X2112|
 |name|name|freescale : SQFP-S-20X20-112|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

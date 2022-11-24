@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTECHNOLOGYS8 > linear-technology : S8
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-S8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTECHNOLOGYS8|
 |name|name|linear-technology : S8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

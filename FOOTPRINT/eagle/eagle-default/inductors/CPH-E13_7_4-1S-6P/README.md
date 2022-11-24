@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSCPHE13741S6P > inductors : CPH-E13_7_4-1S-6P
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-CPH-E13_7_4-1S-6P
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSCPHE13741S6P|
 |name|name|inductors : CPH-E13_7_4-1S-6P|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZECONSAMTECSSW1412GSRA > con-samtec : SSW-141-02-G-S-RA
 
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-SSW-141-02-G-S-RA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZECONSAMTECSSW1412GSRA|
 |name|name|con-samtec : SSW-141-02-G-S-RA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

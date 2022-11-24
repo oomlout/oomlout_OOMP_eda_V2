@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESCD8INFINEON > diode : SCD80_INFINEON
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SCD80_INFINEON
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESCD8INFINEON|
 |name|name|diode : SCD80_INFINEON|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

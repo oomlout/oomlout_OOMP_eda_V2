@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARK2B > linear : K02B
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-K02B
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARK2B|
 |name|name|linear : K02B|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

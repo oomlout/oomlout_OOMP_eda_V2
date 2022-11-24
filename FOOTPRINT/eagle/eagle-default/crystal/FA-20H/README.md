@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXFA2H > crystal : FA-20H
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-FA-20H
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXFA2H|
 |name|name|crystal : FA-20H|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

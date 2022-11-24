@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINS42 > inductors : 0402
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-0402
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINS42|
 |name|name|inductors : 0402|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

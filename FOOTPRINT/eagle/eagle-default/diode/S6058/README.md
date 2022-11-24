@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODES658 > diode : S6058
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-S6058
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODES658|
 |name|name|diode : S6058|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

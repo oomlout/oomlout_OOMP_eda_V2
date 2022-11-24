@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEPOWERMITE > diode : POWERMITE
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-POWERMITE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEPOWERMITE|
 |name|name|diode : POWERMITE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

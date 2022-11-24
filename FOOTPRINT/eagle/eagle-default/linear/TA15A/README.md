@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTA15A > linear : TA15A
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-TA15A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTA15A|
 |name|name|linear : TA15A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELOSTAR4 > led : OSTAR_4_
 
 - ID: FOOTPRINT-eagle-eagle-default-led-OSTAR_4_
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELOSTAR4|
 |name|name|led : OSTAR_4_|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

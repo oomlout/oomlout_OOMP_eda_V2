@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFRAMESDOCSL > frames : DOCSMAL
 
 - ID: FOOTPRINT-eagle-eagle-default-frames-DOCSMAL
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFRAMESDOCSL|
 |name|name|frames : DOCSMAL|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

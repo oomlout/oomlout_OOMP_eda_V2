@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEMMELF > diode : MINIMELF
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-MINIMELF
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEMMELF|
 |name|name|diode : MINIMELF|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

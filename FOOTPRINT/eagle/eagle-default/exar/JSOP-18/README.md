@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEEXARJS18 > exar : JSOP-18
 
 - ID: FOOTPRINT-eagle-eagle-default-exar-JSOP-18
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEEXARJS18|
 |name|name|exar : JSOP-18|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

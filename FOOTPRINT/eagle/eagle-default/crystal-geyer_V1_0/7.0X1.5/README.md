@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXGEYERV17X15 > crystal-geyer_V1_0 : 7.0X1.5
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-7.0X1.5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXGEYERV17X15|
 |name|name|crystal-geyer_V1_0 : 7.0X1.5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

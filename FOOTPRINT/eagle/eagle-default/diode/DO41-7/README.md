@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEDO417 > diode : DO41-7
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-DO41-7
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEDO417|
 |name|name|diode : DO41-7|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

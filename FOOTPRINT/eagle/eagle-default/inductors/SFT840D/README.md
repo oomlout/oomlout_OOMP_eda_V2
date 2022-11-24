@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSSFT84D > inductors : SFT840D
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-SFT840D
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSSFT84D|
 |name|name|inductors : SFT840D|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

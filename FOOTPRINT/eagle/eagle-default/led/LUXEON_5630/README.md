@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELLUXEON563 > led : LUXEON_5630
 
 - ID: FOOTPRINT-eagle-eagle-default-led-LUXEON_5630
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELLUXEON563|
 |name|name|led : LUXEON_5630|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

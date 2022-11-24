@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEPOWERDI323 > diode : POWERDI323
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-POWERDI323
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEPOWERDI323|
 |name|name|diode : POWERDI323|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

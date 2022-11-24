@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEHKK185 > heatsink : KK185
 
 - ID: FOOTPRINT-eagle-eagle-default-heatsink-KK185
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEHKK185|
 |name|name|heatsink : KK185|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

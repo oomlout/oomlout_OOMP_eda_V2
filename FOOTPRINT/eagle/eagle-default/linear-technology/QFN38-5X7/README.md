@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTECHNOLOGYQFN385X7 > linear-technology : QFN38-5X7
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-technology-QFN38-5X7
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTECHNOLOGYQFN385X7|
 |name|name|linear-technology : QFN38-5X7|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

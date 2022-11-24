@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTQFP52 > linear : TQFP52
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-TQFP52
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTQFP52|
 |name|name|linear : TQFP52|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

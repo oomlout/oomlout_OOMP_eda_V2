@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARTO78H > linear : TO78H
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-TO78H
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARTO78H|
 |name|name|linear : TO78H|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

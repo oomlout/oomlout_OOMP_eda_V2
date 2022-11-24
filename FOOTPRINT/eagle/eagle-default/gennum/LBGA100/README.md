@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEGENNUMLBGA1 > gennum : LBGA100
 
 - ID: FOOTPRINT-eagle-eagle-default-gennum-LBGA100
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEGENNUMLBGA1|
 |name|name|gennum : LBGA100|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

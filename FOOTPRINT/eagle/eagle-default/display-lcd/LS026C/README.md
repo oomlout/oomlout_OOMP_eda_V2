@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDILCDLS26C > display-lcd : LS026C
 
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-LS026C
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDILCDLS26C|
 |name|name|display-lcd : LS026C|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

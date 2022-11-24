@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARDPACK > linear : DPACK
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-DPACK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARDPACK|
 |name|name|linear : DPACK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

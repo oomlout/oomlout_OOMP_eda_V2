@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEH45P > holes : 4,5-PAD
 
 - ID: FOOTPRINT-eagle-eagle-default-holes-4,5-PAD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEH45P|
 |name|name|holes : 4,5-PAD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

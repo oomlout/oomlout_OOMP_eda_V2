@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODES > diode : SMA
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SMA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODES|
 |name|name|diode : SMA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

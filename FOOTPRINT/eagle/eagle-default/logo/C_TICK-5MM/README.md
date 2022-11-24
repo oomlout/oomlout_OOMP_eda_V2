@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELCTICK5 > logo : C_TICK-5MM
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-C_TICK-5MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELCTICK5|
 |name|name|logo : C_TICK-5MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

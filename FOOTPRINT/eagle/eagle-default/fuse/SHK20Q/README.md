@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFUSHK2Q > fuse : SHK20Q
 
 - ID: FOOTPRINT-eagle-eagle-default-fuse-SHK20Q
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFUSHK2Q|
 |name|name|fuse : SHK20Q|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

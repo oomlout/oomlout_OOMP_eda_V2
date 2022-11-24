@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARDRPDSOG8 > linear : D_R-PDSO-G8
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-D_R-PDSO-G8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARDRPDSOG8|
 |name|name|linear : D_R-PDSO-G8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

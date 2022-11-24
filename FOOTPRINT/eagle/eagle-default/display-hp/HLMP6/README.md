@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIHPHLMP6 > display-hp : HLMP6
 
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HLMP6
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIHPHLMP6|
 |name|name|display-hp : HLMP6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELOSRAMSDL > led : OSRAM-SIDELED
 
 - ID: FOOTPRINT-eagle-eagle-default-led-OSRAM-SIDELED
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELOSRAMSDL|
 |name|name|led : OSRAM-SIDELED|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

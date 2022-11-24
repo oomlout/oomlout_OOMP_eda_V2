@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEEXARSILP1 > exar : SILP-10
 
 - ID: FOOTPRINT-eagle-eagle-default-exar-SILP-10
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEEXARSILP1|
 |name|name|exar : SILP-10|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

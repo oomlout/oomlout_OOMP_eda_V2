@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEXF1812P > crystal : F18_12P
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-F18_12P
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEXF1812P|
 |name|name|crystal : F18_12P|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

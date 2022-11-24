@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDILCDSBLCDA4 > display-lcd : SBLCDA4
 
 - ID: FOOTPRINT-eagle-eagle-default-display-lcd-SBLCDA4
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDILCDSBLCDA4|
 |name|name|display-lcd : SBLCDA4|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

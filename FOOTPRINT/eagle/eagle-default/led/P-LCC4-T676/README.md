@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELPLCC4T676 > led : P-LCC4-T676
 
 - ID: FOOTPRINT-eagle-eagle-default-led-P-LCC4-T676
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELPLCC4T676|
 |name|name|led : P-LCC4-T676|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

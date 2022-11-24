@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEP215 > diode : P2-15
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-P2-15
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEP215|
 |name|name|diode : P2-15|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

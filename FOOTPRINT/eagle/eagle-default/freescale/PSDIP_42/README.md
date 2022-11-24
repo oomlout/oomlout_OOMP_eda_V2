@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFREESCALEPSD42 > freescale : PSDIP_42
 
 - ID: FOOTPRINT-eagle-eagle-default-freescale-PSDIP_42
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFREESCALEPSD42|
 |name|name|freescale : PSDIP_42|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

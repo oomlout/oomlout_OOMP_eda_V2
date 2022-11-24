@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFTDICHIPSS28 > ftdichip : SSOP28
 
 - ID: FOOTPRINT-eagle-eagle-default-ftdichip-SSOP28
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFTDICHIPSS28|
 |name|name|ftdichip : SSOP28|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

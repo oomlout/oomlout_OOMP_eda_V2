@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEETXBOARDETXBOARDHPOS > etx-board : ETX-BOARD-HOLE-POS
 
 - ID: FOOTPRINT-eagle-eagle-default-etx-board-ETX-BOARD-HOLE-POS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEETXBOARDETXBOARDHPOS|
 |name|name|etx-board : ETX-BOARD-HOLE-POS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

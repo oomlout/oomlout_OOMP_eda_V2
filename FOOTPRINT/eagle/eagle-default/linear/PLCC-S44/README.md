@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARPLCCS44 > linear : PLCC-S44
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-PLCC-S44
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARPLCCS44|
 |name|name|linear : PLCC-S44|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

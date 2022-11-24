@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODEIW22ACS > diode : IW220ACS
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-IW220ACS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODEIW22ACS|
 |name|name|diode : IW220ACS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

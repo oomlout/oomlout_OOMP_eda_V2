@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEX86SMX > crystal : 86SMX
 
 - ID: FOOTPRINT-eagle-eagle-default-crystal-86SMX
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEX86SMX|
 |name|name|crystal : 86SMX|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

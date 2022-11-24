@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEICPSO32 > ic-package : SOCKET-32
 
 - ID: FOOTPRINT-eagle-eagle-default-ic-package-SOCKET-32
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEICPSO32|
 |name|name|ic-package : SOCKET-32|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

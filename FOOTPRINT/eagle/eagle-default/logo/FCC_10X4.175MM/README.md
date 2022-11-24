@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELFCC1X4175 > logo : FCC_10X4.175MM
 
 - ID: FOOTPRINT-eagle-eagle-default-logo-FCC_10X4.175MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELFCC1X4175|
 |name|name|logo : FCC_10X4.175MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

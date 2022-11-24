@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELQ6292B152 > led : Q62902-B152
 
 - ID: FOOTPRINT-eagle-eagle-default-led-Q62902-B152
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELQ6292B152|
 |name|name|led : Q62902-B152|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

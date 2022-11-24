@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSID71EX2RM225 > inductor-neosid : 71EX2RM225
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-71EX2RM225
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSID71EX2RM225|
 |name|name|inductor-neosid : 71EX2RM225|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

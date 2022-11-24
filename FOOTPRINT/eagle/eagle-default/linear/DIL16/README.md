@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARDIL16 > linear : DIL16
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-DIL16
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARDIL16|
 |name|name|linear : DIL16|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

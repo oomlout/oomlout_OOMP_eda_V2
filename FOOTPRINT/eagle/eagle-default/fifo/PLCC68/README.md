@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEFIFOPLCC68 > fifo : PLCC68
 
 - ID: FOOTPRINT-eagle-eagle-default-fifo-PLCC68
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEFIFOPLCC68|
 |name|name|fifo : PLCC68|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEETXBOARDFX81SSV > etx-board : FX8-100S-SV
 
 - ID: FOOTPRINT-eagle-eagle-default-etx-board-FX8-100S-SV
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEETXBOARDFX81SSV|
 |name|name|etx-board : FX8-100S-SV|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

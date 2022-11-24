@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIKBRSA3911SRWA > display-kingbright : SA39-11SRWA
 
 - ID: FOOTPRINT-eagle-eagle-default-display-kingbright-SA39-11SRWA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIKBRSA3911SRWA|
 |name|name|display-kingbright : SA39-11SRWA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

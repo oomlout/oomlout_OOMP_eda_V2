@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSLBC15A > inductors : LBC15A
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-LBC15A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSLBC15A|
 |name|name|inductors : LBC15A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

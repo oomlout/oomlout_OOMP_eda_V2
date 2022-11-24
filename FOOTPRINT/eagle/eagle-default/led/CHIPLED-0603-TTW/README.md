@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELCHIPL63TTW > led : CHIPLED-0603-TTW
 
 - ID: FOOTPRINT-eagle-eagle-default-led-CHIPLED-0603-TTW
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELCHIPL63TTW|
 |name|name|led : CHIPLED-0603-TTW|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

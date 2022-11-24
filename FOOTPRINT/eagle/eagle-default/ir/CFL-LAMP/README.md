@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEIRCFLLAMP > ir : CFL-LAMP
 
 - ID: FOOTPRINT-eagle-eagle-default-ir-CFL-LAMP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEIRCFLLAMP|
 |name|name|ir : CFL-LAMP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

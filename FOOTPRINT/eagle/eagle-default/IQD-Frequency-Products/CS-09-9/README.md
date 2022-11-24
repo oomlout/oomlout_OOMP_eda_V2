@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEIQDFREQUENCYPRODUCTSCS99 > IQD-Frequency-Products : CS-09-9
 
 - ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-CS-09-9
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEIQDFREQUENCYPRODUCTSCS99|
 |name|name|IQD-Frequency-Products : CS-09-9|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

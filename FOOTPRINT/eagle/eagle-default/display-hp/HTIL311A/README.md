@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIHPHTIL311A > display-hp : HTIL311A
 
 - ID: FOOTPRINT-eagle-eagle-default-display-hp-HTIL311A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIHPHTIL311A|
 |name|name|display-hp : HTIL311A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

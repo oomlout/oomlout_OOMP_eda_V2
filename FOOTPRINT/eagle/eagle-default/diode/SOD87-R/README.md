@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEDIODESOD87R > diode : SOD87-R
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SOD87-R
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEDIODESOD87R|
 |name|name|diode : SOD87-R|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

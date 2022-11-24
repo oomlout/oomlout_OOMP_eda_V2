@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSLBCSE > inductors : LBC-SE
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-LBC-SE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSLBCSE|
 |name|name|inductors : LBC-SE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

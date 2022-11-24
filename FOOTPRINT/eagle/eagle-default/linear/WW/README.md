@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZELINEARWW > linear : WW
 
 - ID: FOOTPRINT-eagle-eagle-default-linear-WW
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZELINEARWW|
 |name|name|linear : WW|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

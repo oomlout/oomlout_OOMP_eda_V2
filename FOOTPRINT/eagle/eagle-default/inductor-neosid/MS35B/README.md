@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINNEOSIDMS35B > inductor-neosid : MS35B
 
 - ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-MS35B
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINNEOSIDMS35B|
 |name|name|inductor-neosid : MS35B|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

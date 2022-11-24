@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEINSDS1A > inductors : DS10A
 
 - ID: FOOTPRINT-eagle-eagle-default-inductors-DS10A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEINSDS1A|
 |name|name|inductors : DS10A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png
