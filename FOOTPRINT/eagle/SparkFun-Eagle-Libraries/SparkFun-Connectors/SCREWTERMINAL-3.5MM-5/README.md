@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSSCT355 > SparkFun-Connectors : SCREWTERMINAL-3.5MM-5
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SCREWTERMINAL-3.5MM-5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSSCT355|
 |name|name|SparkFun-Connectors : SCREWTERMINAL-3.5MM-5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

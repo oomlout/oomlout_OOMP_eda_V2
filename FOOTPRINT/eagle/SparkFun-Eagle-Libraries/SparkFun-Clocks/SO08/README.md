@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLSO8 > SparkFun-Clocks : SO08
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-SO08
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLSO8|
 |name|name|SparkFun-Clocks : SO08|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

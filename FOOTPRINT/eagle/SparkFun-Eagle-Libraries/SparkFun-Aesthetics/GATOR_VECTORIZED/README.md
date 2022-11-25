@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAGATORVECTORIZED > SparkFun-Aesthetics : GATOR_VECTORIZED
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-GATOR_VECTORIZED
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAGATORVECTORIZED|
 |name|name|SparkFun-Aesthetics : GATOR_VECTORIZED|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

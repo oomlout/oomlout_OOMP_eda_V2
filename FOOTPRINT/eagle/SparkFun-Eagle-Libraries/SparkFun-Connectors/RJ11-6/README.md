@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSRJ116 > SparkFun-Connectors : RJ11-6
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RJ11-6
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSRJ116|
 |name|name|SparkFun-Connectors : RJ11-6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

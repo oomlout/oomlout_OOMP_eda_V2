@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBBAT1865H > SparkFun-Batteries : BATTERY_18650-HOLDER
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTERY_18650-HOLDER
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBBAT1865H|
 |name|name|SparkFun-Batteries : BATTERY_18650-HOLDER|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X4SPT > SparkFun-Connectors : 1X04_SPRING_TERMINAL
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04_SPRING_TERMINAL
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X4SPT|
 |name|name|SparkFun-Connectors : 1X04_SPRING_TERMINAL|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

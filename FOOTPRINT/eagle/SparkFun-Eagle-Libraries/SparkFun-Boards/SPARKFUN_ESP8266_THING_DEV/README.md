@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOSPARKFUNESP8266THINGDEV > SparkFun-Boards : SPARKFUN_ESP8266_THING_DEV
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_ESP8266_THING_DEV
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOSPARKFUNESP8266THINGDEV|
 |name|name|SparkFun-Boards : SPARKFUN_ESP8266_THING_DEV|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

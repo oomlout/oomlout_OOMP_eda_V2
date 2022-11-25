@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSFPC24AMPHENOLSFV24R1STE1HLF > SparkFun-Connectors : FPC-24-AMPHENOL-SFV24R-1STE1HLF
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC-24-AMPHENOL-SFV24R-1STE1HLF
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSFPC24AMPHENOLSFV24R1STE1HLF|
 |name|name|SparkFun-Connectors : FPC-24-AMPHENOL-SFV24R-1STE1HLF|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

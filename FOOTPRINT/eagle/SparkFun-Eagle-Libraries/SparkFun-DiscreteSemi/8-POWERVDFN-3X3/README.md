@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDS8POWERVDFN3X3 > SparkFun-DiscreteSemi : 8-POWERVDFN-3X3
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-8-POWERVDFN-3X3
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDS8POWERVDFN3X3|
 |name|name|SparkFun-DiscreteSemi : 8-POWERVDFN-3X3|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

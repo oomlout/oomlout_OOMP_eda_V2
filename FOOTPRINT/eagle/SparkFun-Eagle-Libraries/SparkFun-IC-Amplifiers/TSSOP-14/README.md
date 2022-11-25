@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIATSS14 > SparkFun-IC-Amplifiers : TSSOP-14
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-TSSOP-14
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIATSS14|
 |name|name|SparkFun-IC-Amplifiers : TSSOP-14|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

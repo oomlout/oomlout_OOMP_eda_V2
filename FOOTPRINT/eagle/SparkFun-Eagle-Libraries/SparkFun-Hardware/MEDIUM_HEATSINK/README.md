@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSHMH > SparkFun-Hardware : MEDIUM_HEATSINK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-MEDIUM_HEATSINK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSHMH|
 |name|name|SparkFun-Hardware : MEDIUM_HEATSINK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

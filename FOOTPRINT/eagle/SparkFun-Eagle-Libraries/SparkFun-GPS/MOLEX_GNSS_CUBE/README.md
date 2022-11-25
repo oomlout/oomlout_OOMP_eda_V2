@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGMXGNSSCUBE > SparkFun-GPS : MOLEX_GNSS_CUBE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-MOLEX_GNSS_CUBE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGMXGNSSCUBE|
 |name|name|SparkFun-GPS : MOLEX_GNSS_CUBE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

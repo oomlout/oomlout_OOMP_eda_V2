@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSHMAGNET18 > SparkFun-Hardware : MAGNET-18MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-MAGNET-18MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSHMAGNET18|
 |name|name|SparkFun-Hardware : MAGNET-18MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

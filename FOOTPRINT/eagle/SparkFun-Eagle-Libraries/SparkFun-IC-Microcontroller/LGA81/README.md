@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIULGA81 > SparkFun-IC-Microcontroller : LGA81
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-LGA81
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIULGA81|
 |name|name|SparkFun-IC-Microcontroller : LGA81|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSICPCA936DC > SparkFun-IC-Comms : PCA9306DC
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-PCA9306DC
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSICPCA936DC|
 |name|name|SparkFun-IC-Comms : PCA9306DC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

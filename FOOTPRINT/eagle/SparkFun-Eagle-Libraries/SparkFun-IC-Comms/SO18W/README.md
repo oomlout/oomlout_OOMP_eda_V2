@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSICSO18W > SparkFun-IC-Comms : SO18W
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SO18W
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSICSO18W|
 |name|name|SparkFun-IC-Comms : SO18W|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

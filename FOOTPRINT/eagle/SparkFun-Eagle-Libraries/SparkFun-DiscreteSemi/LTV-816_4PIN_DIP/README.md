@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSLTV8164PD > SparkFun-DiscreteSemi : LTV-816_4PIN_DIP
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-LTV-816_4PIN_DIP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSLTV8164PD|
 |name|name|SparkFun-DiscreteSemi : LTV-816_4PIN_DIP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

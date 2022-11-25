@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGUBLOXZOEM81 > SparkFun-GPS : UBLOX_ZOE_M8-0-10
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-UBLOX_ZOE_M8-0-10
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGUBLOXZOEM81|
 |name|name|SparkFun-GPS : UBLOX_ZOE_M8-0-10|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

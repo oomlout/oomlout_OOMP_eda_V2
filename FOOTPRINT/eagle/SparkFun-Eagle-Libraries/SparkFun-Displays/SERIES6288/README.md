@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISSERIES6288 > SparkFun-Displays : SERIES6288
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-SERIES6288
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISSERIES6288|
 |name|name|SparkFun-Displays : SERIES6288|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

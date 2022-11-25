@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSEPCCSMP > SparkFun-Electromechanical : PCC-SMP
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-PCC-SMP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSEPCCSMP|
 |name|name|SparkFun-Electromechanical : PCC-SMP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

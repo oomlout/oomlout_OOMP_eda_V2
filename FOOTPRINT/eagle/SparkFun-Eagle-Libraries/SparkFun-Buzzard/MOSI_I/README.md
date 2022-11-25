@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBUMOSII > SparkFun-Buzzard : MOSI_I
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MOSI_I
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBUMOSII|
 |name|name|SparkFun-Buzzard : MOSI_I|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

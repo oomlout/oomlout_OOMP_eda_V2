@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOSPARKFUNNRF52832BREAKOUT > SparkFun-Boards : SPARKFUN_NRF52832_BREAKOUT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_NRF52832_BREAKOUT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOSPARKFUNNRF52832BREAKOUT|
 |name|name|SparkFun-Boards : SPARKFUN_NRF52832_BREAKOUT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

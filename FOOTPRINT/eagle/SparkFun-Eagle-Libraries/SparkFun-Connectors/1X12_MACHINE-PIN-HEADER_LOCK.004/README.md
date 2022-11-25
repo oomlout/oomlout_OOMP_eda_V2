@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X12MACHINEPHL4 > SparkFun-Connectors : 1X12_MACHINE-PIN-HEADER_LOCK.004
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X12_MACHINE-PIN-HEADER_LOCK.004
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X12MACHINEPHL4|
 |name|name|SparkFun-Connectors : 1X12_MACHINE-PIN-HEADER_LOCK.004|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

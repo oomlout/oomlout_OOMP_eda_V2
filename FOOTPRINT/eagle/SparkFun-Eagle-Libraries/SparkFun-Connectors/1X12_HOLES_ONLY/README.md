@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X12HONLY > SparkFun-Connectors : 1X12_HOLES_ONLY
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X12_HOLES_ONLY
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X12HONLY|
 |name|name|SparkFun-Connectors : 1X12_HOLES_ONLY|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

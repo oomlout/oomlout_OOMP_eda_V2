@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLRV883 > SparkFun-Clocks : RV-8803
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RV-8803
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLRV883|
 |name|name|SparkFun-Clocks : RV-8803|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

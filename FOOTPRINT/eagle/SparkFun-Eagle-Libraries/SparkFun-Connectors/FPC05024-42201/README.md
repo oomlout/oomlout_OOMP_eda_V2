@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSFPC5244221 > SparkFun-Connectors : FPC05024-42201
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC05024-42201
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSFPC5244221|
 |name|name|SparkFun-Connectors : FPC05024-42201|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

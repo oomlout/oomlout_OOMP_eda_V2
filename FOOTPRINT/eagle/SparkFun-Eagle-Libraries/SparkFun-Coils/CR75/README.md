@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCOCR75 > SparkFun-Coils : CR75
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-CR75
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCOCR75|
 |name|name|SparkFun-Coils : CR75|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

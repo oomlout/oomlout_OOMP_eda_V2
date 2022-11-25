@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLXSM2X16WE > SparkFun-Clocks : CRYSTAL-SMD-2.0X1.6MM-WE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-2.0X1.6MM-WE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLXSM2X16WE|
 |name|name|SparkFun-Clocks : CRYSTAL-SMD-2.0X1.6MM-WE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

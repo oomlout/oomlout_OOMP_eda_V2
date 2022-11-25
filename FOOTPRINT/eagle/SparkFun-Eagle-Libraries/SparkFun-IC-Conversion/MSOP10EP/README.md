@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIVMS1EP > SparkFun-IC-Conversion : MSOP10EP
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-MSOP10EP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIVMS1EP|
 |name|name|SparkFun-IC-Conversion : MSOP10EP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

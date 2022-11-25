@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSSSR4DAH > SparkFun-DiscreteSemi : SSR-40DA-H
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SSR-40DA-H
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSSSR4DAH|
 |name|name|SparkFun-DiscreteSemi : SSR-40DA-H|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

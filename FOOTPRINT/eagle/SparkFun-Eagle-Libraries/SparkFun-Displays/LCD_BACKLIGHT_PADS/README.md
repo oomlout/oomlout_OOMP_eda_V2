@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISLCDBLIGHTPS > SparkFun-Displays : LCD_BACKLIGHT_PADS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-LCD_BACKLIGHT_PADS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISLCDBLIGHTPS|
 |name|name|SparkFun-Displays : LCD_BACKLIGHT_PADS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

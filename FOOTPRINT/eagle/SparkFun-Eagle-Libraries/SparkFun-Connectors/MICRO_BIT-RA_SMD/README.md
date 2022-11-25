@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSMBITRASM > SparkFun-Connectors : MICRO_BIT-RA_SMD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICRO_BIT-RA_SMD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSMBITRASM|
 |name|name|SparkFun-Connectors : MICRO_BIT-RA_SMD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

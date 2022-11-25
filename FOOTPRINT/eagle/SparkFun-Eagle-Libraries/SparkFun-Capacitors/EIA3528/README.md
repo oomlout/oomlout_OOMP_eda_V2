@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCEIA3528 > SparkFun-Capacitors : EIA3528
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA3528
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCEIA3528|
 |name|name|SparkFun-Capacitors : EIA3528|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

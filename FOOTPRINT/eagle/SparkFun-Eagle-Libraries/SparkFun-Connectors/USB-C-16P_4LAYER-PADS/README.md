@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSUC16P4LAYERPS > SparkFun-Connectors : USB-C-16P_4LAYER-PADS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-C-16P_4LAYER-PADS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSUC16P4LAYERPS|
 |name|name|SparkFun-Connectors : USB-C-16P_4LAYER-PADS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

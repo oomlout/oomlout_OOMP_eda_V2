@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS2X8SHL > SparkFun-Connectors : 2X8-SHROUDED_LOCK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X8-SHROUDED_LOCK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS2X8SHL|
 |name|name|SparkFun-Connectors : 2X8-SHROUDED_LOCK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

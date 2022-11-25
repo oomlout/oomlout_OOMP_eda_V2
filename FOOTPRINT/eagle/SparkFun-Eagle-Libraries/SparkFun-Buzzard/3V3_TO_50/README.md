@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBU3V3TO5 > SparkFun-Buzzard : 3V3_TO_50
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-3V3_TO_50
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBU3V3TO5|
 |name|name|SparkFun-Buzzard : 3V3_TO_50|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

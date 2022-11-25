@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOELECTRICIMPIMP2 > SparkFun-Boards : ELECTRIC_IMP_IMP002
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ELECTRIC_IMP_IMP002
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOELECTRICIMPIMP2|
 |name|name|SparkFun-Boards : ELECTRIC_IMP_IMP002|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBONANO > SparkFun-Boards : NANO
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-NANO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBONANO|
 |name|name|SparkFun-Boards : NANO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISOLUG2832TSWGG1 > SparkFun-Displays : OLED-UG-2832TSWGG01
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OLED-UG-2832TSWGG01
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISOLUG2832TSWGG1|
 |name|name|SparkFun-Displays : OLED-UG-2832TSWGG01|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGVENUS638FLPX > SparkFun-GPS : VENUS638FLPX
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-VENUS638FLPX
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGVENUS638FLPX|
 |name|name|SparkFun-GPS : VENUS638FLPX|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

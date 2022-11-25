@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSFPC61LIF > SparkFun-Connectors : FPC_6_1MM-LIF
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC_6_1MM-LIF
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSFPC61LIF|
 |name|name|SparkFun-Connectors : FPC_6_1MM-LIF|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

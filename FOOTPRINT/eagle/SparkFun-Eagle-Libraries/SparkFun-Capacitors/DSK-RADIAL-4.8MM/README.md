@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCDSKR48 > SparkFun-Capacitors : DSK-RADIAL-4.8MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-DSK-RADIAL-4.8MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCDSKR48|
 |name|name|SparkFun-Capacitors : DSK-RADIAL-4.8MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

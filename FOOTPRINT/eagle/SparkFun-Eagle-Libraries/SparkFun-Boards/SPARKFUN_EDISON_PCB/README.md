@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOSPARKFUNEDISONPCB > SparkFun-Boards : SPARKFUN_EDISON_PCB
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_EDISON_PCB
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOSPARKFUNEDISONPCB|
 |name|name|SparkFun-Boards : SPARKFUN_EDISON_PCB|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

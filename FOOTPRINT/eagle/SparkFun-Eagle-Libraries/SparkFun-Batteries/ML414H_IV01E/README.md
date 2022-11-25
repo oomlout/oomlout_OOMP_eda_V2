@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBML414HIV1E > SparkFun-Batteries : ML414H_IV01E
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-ML414H_IV01E
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBML414HIV1E|
 |name|name|SparkFun-Batteries : ML414H_IV01E|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCOTR > SparkFun-Coils : TRANSFORMER_SMD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-TRANSFORMER_SMD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCOTR|
 |name|name|SparkFun-Coils : TRANSFORMER_SMD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

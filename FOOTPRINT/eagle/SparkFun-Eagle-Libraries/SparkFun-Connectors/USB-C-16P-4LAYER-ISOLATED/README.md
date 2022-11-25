@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSUC16P4LAYERISOLATED > SparkFun-Connectors : USB-C-16P-4LAYER-ISOLATED
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-C-16P-4LAYER-ISOLATED
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSUC16P4LAYERISOLATED|
 |name|name|SparkFun-Connectors : USB-C-16P-4LAYER-ISOLATED|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

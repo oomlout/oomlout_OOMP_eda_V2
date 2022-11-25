@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLRV185 > SparkFun-Clocks : RV-1805
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RV-1805
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLRV185|
 |name|name|SparkFun-Clocks : RV-1805|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

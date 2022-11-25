@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X6FL1 > SparkFun-Connectors : 1X06_FEMALE_LOCK.010
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_FEMALE_LOCK.010
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X6FL1|
 |name|name|SparkFun-Connectors : 1X06_FEMALE_LOCK.010|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

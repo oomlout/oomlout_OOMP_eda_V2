@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSDIN7 > SparkFun-Connectors : DIN7
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DIN7
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSDIN7|
 |name|name|SparkFun-Connectors : DIN7|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X1NSK > SparkFun-Connectors : 1X01NS_KIT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01NS_KIT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X1NSK|
 |name|name|SparkFun-Connectors : 1X01NS_KIT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

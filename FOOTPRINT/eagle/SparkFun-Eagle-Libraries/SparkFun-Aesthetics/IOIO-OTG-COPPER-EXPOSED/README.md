@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAIOIOOTGCEXPOSED > SparkFun-Aesthetics : IOIO-OTG-COPPER-EXPOSED
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-IOIO-OTG-COPPER-EXPOSED
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAIOIOOTGCEXPOSED|
 |name|name|SparkFun-Aesthetics : IOIO-OTG-COPPER-EXPOSED|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

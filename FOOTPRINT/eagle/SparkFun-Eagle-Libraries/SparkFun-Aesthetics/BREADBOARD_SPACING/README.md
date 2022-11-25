@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSABREADBOARDSPACING > SparkFun-Aesthetics : BREADBOARD_SPACING
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-BREADBOARD_SPACING
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSABREADBOARDSPACING|
 |name|name|SparkFun-Aesthetics : BREADBOARD_SPACING|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

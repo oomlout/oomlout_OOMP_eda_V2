@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCO42T > SparkFun-Coils : 0402-TIGHT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0402-TIGHT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCO42T|
 |name|name|SparkFun-Coils : 0402-TIGHT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

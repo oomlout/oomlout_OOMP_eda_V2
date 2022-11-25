@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAREDBOTL > SparkFun-Aesthetics : REDBOT_LOGO
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-REDBOT_LOGO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAREDBOTL|
 |name|name|SparkFun-Aesthetics : REDBOT_LOGO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

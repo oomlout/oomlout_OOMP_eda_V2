@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X12SMALT > SparkFun-Connectors : 1X12_SMD_ALT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X12_SMD_ALT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X12SMALT|
 |name|name|SparkFun-Connectors : 1X12_SMD_ALT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSPOWERJPBREAD > SparkFun-Connectors : POWER_JACK_PTH_BREAD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_BREAD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSPOWERJPBREAD|
 |name|name|SparkFun-Connectors : POWER_JACK_PTH_BREAD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSSTEREOJ25SPECIALPPS > SparkFun-Connectors : STEREOJACK2.5MM_SPECIAL_POGOPINS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-STEREOJACK2.5MM_SPECIAL_POGOPINS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSSTEREOJ25SPECIALPPS|
 |name|name|SparkFun-Connectors : STEREOJACK2.5MM_SPECIAL_POGOPINS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

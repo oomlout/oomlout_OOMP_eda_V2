@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOISL29125 > SparkFun-Boards : ISL29125
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ISL29125
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOISL29125|
 |name|name|SparkFun-Boards : ISL29125|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

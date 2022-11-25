@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOSERLCDQWIIC2X4 > SparkFun-Boards : SER_LCD_QWIIC_20X4
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SER_LCD_QWIIC_20X4
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOSERLCDQWIIC2X4|
 |name|name|SparkFun-Boards : SER_LCD_QWIIC_20X4|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

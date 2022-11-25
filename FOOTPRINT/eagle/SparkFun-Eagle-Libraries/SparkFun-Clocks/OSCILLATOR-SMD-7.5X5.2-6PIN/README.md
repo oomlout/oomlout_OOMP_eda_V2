@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLOCSSM75X526P > SparkFun-Clocks : OSCILLATOR-SMD-7.5X5.2-6PIN
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-OSCILLATOR-SMD-7.5X5.2-6PIN
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLOCSSM75X526P|
 |name|name|SparkFun-Clocks : OSCILLATOR-SMD-7.5X5.2-6PIN|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

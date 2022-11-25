@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSFPC15 > SparkFun-Connectors : FPC_10_0.5MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC_10_0.5MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSFPC15|
 |name|name|SparkFun-Connectors : FPC_10_0.5MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

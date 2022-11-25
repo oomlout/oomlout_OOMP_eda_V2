@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDS12128 > SparkFun-DiscreteSemi : 1212-8
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-1212-8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDS12128|
 |name|name|SparkFun-DiscreteSemi : 1212-8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIMUMAX8TH > maxim : UMAX8-THERMAL
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-UMAX8-THERMAL
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIMUMAX8TH|
 |name|name|maxim : UMAX8-THERMAL|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSMBS > SparkFun-Connectors : MICRO-B-SMT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICRO-B-SMT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSMBS|
 |name|name|SparkFun-Connectors : MICRO-B-SMT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

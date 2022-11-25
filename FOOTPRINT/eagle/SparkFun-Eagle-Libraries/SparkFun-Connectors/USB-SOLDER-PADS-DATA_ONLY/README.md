@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSUSOLDERPSDATAONLY > SparkFun-Connectors : USB-SOLDER-PADS-DATA_ONLY
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-SOLDER-PADS-DATA_ONLY
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSUSOLDERPSDATAONLY|
 |name|name|SparkFun-Connectors : USB-SOLDER-PADS-DATA_ONLY|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUARTEMISFP > SparkFun-IC-Microcontroller : ARTEMIS_FP
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-ARTEMIS_FP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUARTEMISFP|
 |name|name|SparkFun-IC-Microcontroller : ARTEMIS_FP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIMTSS16 > maxim : TSSOP16
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-TSSOP16
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIMTSS16|
 |name|name|maxim : TSSOP16|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

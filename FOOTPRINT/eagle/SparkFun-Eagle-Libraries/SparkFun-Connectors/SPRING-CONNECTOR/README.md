@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSSPCN > SparkFun-Connectors : SPRING-CONNECTOR
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SPRING-CONNECTOR
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSSPCN|
 |name|name|SparkFun-Connectors : SPRING-CONNECTOR|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

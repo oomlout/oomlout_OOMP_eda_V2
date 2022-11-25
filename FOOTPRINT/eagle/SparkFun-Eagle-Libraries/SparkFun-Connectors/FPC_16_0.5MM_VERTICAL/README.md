@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSFPC165F > SparkFun-Connectors : FPC_16_0.5MM_VERTICAL
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC_16_0.5MM_VERTICAL
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSFPC165F|
 |name|name|SparkFun-Connectors : FPC_16_0.5MM_VERTICAL|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

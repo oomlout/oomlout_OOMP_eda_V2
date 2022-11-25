@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSDIL283ZIFSO > SparkFun-Connectors : DIL28-3-ZIF_SOCKET
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DIL28-3-ZIF_SOCKET
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSDIL283ZIFSO|
 |name|name|SparkFun-Connectors : DIL28-3-ZIF_SOCKET|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

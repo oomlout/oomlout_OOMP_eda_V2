@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSDO214BA > SparkFun-DiscreteSemi : DO-214BA
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DO-214BA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSDO214BA|
 |name|name|SparkFun-DiscreteSemi : DO-214BA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

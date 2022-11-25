@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBODIL49 > SparkFun-Boards : DIL40_0.9
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-DIL40_0.9
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBODIL49|
 |name|name|SparkFun-Boards : DIL40_0.9|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

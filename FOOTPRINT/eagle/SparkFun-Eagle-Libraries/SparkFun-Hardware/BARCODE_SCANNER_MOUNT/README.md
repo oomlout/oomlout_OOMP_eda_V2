@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSHBARCODESCANNERM > SparkFun-Hardware : BARCODE_SCANNER_MOUNT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-BARCODE_SCANNER_MOUNT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSHBARCODESCANNERM|
 |name|name|SparkFun-Hardware : BARCODE_SCANNER_MOUNT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

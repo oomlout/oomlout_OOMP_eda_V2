@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSSO8 > SparkFun-DiscreteSemi : SO08
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SO08
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSSO8|
 |name|name|SparkFun-DiscreteSemi : SO08|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

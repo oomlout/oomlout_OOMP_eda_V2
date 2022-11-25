@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIVMQFN2 > SparkFun-IC-Conversion : MQFN-20
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-MQFN-20
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIVMQFN2|
 |name|name|SparkFun-IC-Conversion : MQFN-20|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

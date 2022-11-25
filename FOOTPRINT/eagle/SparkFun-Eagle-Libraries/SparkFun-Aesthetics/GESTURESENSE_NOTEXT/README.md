@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAGSNOT > SparkFun-Aesthetics : GESTURESENSE_NOTEXT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-GESTURESENSE_NOTEXT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAGSNOT|
 |name|name|SparkFun-Aesthetics : GESTURESENSE_NOTEXT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

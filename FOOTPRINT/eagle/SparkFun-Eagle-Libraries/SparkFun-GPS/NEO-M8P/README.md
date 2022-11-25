@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGNEOM8P > SparkFun-GPS : NEO-M8P
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-NEO-M8P
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGNEOM8P|
 |name|name|SparkFun-GPS : NEO-M8P|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

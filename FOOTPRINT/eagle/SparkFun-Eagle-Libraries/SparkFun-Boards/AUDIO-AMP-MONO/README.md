@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOAUDIOAMPMONO > SparkFun-Boards : AUDIO-AMP-MONO
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-AUDIO-AMP-MONO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOAUDIOAMPMONO|
 |name|name|SparkFun-Boards : AUDIO-AMP-MONO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

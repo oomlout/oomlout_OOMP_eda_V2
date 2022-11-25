@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCOMA5532AE > SparkFun-Coils : MA5532-AE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-MA5532-AE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCOMA5532AE|
 |name|name|SparkFun-Coils : MA5532-AE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

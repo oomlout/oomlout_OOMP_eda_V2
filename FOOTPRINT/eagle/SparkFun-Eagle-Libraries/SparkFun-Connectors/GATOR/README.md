@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSGATOR > SparkFun-Connectors : GATOR
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-GATOR
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSGATOR|
 |name|name|SparkFun-Connectors : GATOR|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

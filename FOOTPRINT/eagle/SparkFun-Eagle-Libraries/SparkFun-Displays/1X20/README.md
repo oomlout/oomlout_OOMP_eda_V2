@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDIS1X2 > SparkFun-Displays : 1X20
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-1X20
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDIS1X2|
 |name|name|SparkFun-Displays : 1X20|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

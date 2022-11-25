@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISHT16K33 > SparkFun-Displays : HT16K33
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-HT16K33
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISHT16K33|
 |name|name|SparkFun-Displays : HT16K33|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSNANOSIMPP > SparkFun-Connectors : NANO_SIM_PP
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-NANO_SIM_PP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSNANOSIMPP|
 |name|name|SparkFun-Connectors : NANO_SIM_PP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

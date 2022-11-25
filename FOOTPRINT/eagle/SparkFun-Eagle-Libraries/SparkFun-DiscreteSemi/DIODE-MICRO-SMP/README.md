@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSDIODEMSMP > SparkFun-DiscreteSemi : DIODE-MICRO-SMP
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIODE-MICRO-SMP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSDIODEMSMP|
 |name|name|SparkFun-DiscreteSemi : DIODE-MICRO-SMP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

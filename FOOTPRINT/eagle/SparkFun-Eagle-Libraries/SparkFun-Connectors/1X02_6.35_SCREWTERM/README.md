@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X2635SCTERM > SparkFun-Connectors : 1X02_6.35_SCREWTERM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_6.35_SCREWTERM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X2635SCTERM|
 |name|name|SparkFun-Connectors : 1X02_6.35_SCREWTERM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

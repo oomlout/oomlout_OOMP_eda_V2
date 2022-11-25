@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSP3X4 > SparkFun-Connectors : PAD.03X.04
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-PAD.03X.04
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSP3X4|
 |name|name|SparkFun-Connectors : PAD.03X.04|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

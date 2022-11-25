@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOSAMD21MBREAKOUT > SparkFun-Boards : SAMD21_MINI_BREAKOUT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SAMD21_MINI_BREAKOUT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOSAMD21MBREAKOUT|
 |name|name|SparkFun-Boards : SAMD21_MINI_BREAKOUT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

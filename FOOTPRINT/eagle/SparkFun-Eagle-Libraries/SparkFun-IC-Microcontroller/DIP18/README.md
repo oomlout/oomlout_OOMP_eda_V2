@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUD18 > SparkFun-IC-Microcontroller : DIP18
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-DIP18
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUD18|
 |name|name|SparkFun-IC-Microcontroller : DIP18|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

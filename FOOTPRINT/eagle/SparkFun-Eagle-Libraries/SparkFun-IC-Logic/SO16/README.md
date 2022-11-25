@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSILSO16 > SparkFun-IC-Logic : SO16
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-SO16
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSILSO16|
 |name|name|SparkFun-IC-Logic : SO16|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

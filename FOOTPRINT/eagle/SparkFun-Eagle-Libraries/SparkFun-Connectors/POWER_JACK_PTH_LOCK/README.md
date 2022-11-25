@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSPOWERJPL > SparkFun-Connectors : POWER_JACK_PTH_LOCK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_LOCK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSPOWERJPL|
 |name|name|SparkFun-Connectors : POWER_JACK_PTH_LOCK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

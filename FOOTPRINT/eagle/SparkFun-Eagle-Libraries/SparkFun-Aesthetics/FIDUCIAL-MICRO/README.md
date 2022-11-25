@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAFIDM > SparkFun-Aesthetics : FIDUCIAL-MICRO
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIDUCIAL-MICRO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAFIDM|
 |name|name|SparkFun-Aesthetics : FIDUCIAL-MICRO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

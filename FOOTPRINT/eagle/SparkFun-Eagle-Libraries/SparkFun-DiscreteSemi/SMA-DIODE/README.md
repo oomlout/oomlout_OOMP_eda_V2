@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSSDIODE > SparkFun-DiscreteSemi : SMA-DIODE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SMA-DIODE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSSDIODE|
 |name|name|SparkFun-DiscreteSemi : SMA-DIODE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

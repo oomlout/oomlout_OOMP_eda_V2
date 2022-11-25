@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCAPACITORSPD > SparkFun-Capacitors : PANASONIC_D
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-PANASONIC_D
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCAPACITORSPD|
 |name|name|SparkFun-Capacitors : PANASONIC_D|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

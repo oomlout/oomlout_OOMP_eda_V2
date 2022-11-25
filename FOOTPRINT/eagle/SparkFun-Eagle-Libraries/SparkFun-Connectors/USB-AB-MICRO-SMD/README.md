@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSUABMSM > SparkFun-Connectors : USB-AB-MICRO-SMD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-AB-MICRO-SMD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSUABMSM|
 |name|name|SparkFun-Connectors : USB-AB-MICRO-SMD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

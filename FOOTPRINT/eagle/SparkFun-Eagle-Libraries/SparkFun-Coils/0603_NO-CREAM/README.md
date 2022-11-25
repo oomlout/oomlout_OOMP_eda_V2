@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCO63NOCREAM > SparkFun-Coils : 0603_NO-CREAM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0603_NO-CREAM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCO63NOCREAM|
 |name|name|SparkFun-Coils : 0603_NO-CREAM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

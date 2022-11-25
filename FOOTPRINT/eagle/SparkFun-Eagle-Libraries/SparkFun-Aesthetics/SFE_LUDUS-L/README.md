@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSASFELUDUSL > SparkFun-Aesthetics : SFE_LUDUS-L
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SFE_LUDUS-L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSASFELUDUSL|
 |name|name|SparkFun-Aesthetics : SFE_LUDUS-L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

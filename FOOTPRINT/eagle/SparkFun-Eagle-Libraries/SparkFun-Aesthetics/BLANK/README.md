@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSABLANK > SparkFun-Aesthetics : BLANK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-BLANK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSABLANK|
 |name|name|SparkFun-Aesthetics : BLANK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

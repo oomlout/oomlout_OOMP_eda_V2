@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X6SMSALT > SparkFun-Connectors : 1X06_SMD_STRAIGHT_ALT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_SMD_STRAIGHT_ALT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X6SMSALT|
 |name|name|SparkFun-Connectors : 1X06_SMD_STRAIGHT_ALT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

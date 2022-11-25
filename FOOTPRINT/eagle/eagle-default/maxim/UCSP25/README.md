@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIMUCSP25 > maxim : UCSP25
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-UCSP25
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIMUCSP25|
 |name|name|maxim : UCSP25|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

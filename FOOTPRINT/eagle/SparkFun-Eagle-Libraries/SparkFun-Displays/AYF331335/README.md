@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISAYF331335 > SparkFun-Displays : AYF331335
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-AYF331335
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISAYF331335|
 |name|name|SparkFun-Displays : AYF331335|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

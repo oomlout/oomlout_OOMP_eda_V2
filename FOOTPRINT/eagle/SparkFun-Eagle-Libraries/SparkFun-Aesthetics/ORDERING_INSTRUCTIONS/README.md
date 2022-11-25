@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAOIN > SparkFun-Aesthetics : ORDERING_INSTRUCTIONS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-ORDERING_INSTRUCTIONS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAOIN|
 |name|name|SparkFun-Aesthetics : ORDERING_INSTRUCTIONS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSSC76 > SparkFun-DiscreteSemi : SC70-6
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SC70-6
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSSC76|
 |name|name|SparkFun-DiscreteSemi : SC70-6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOBREADBOARDM > SparkFun-Boards : BREADBOARD-MINI
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-BREADBOARD-MINI
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOBREADBOARDM|
 |name|name|SparkFun-Boards : BREADBOARD-MINI|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

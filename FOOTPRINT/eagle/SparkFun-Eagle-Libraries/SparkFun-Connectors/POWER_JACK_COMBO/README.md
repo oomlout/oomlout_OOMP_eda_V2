@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSPOWERJCOMBO > SparkFun-Connectors : POWER_JACK_COMBO
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_COMBO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSPOWERJCOMBO|
 |name|name|SparkFun-Connectors : POWER_JACK_COMBO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

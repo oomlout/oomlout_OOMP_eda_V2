@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSECVS158PCBSPKR > SparkFun-Electromechanical : CVS-1508_PCBSPKR
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-CVS-1508_PCBSPKR
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSECVS158PCBSPKR|
 |name|name|SparkFun-Electromechanical : CVS-1508_PCBSPKR|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSUMBF > SparkFun-Connectors : USB_MICROB_VERTICAL
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB_MICROB_VERTICAL
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSUMBF|
 |name|name|SparkFun-Connectors : USB_MICROB_VERTICAL|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

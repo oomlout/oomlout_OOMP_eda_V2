@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAACLELTITLE35X7 > SparkFun-Aesthetics : SPECTACLE_LOGO_TITLE_0.35X0.70
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SPECTACLE_LOGO_TITLE_0.35X0.70
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAACLELTITLE35X7|
 |name|name|SparkFun-Aesthetics : SPECTACLE_LOGO_TITLE_0.35X0.70|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

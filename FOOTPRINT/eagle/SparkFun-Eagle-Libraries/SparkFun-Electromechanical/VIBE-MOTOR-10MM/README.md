@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSEVIBEMOTOR1 > SparkFun-Electromechanical : VIBE-MOTOR-10MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-VIBE-MOTOR-10MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSEVIBEMOTOR1|
 |name|name|SparkFun-Electromechanical : VIBE-MOTOR-10MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

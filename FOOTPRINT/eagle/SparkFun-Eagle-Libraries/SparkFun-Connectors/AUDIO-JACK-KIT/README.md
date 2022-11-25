@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSAUDIOJK > SparkFun-Connectors : AUDIO-JACK-KIT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-AUDIO-JACK-KIT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSAUDIOJK|
 |name|name|SparkFun-Connectors : AUDIO-JACK-KIT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

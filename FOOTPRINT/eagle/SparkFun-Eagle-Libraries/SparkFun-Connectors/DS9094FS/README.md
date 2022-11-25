@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSDS994FS > SparkFun-Connectors : DS9094FS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DS9094FS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSDS994FS|
 |name|name|SparkFun-Connectors : DS9094FS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

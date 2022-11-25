@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAREVISION > SparkFun-Aesthetics : REVISION
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-REVISION
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAREVISION|
 |name|name|SparkFun-Aesthetics : REVISION|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

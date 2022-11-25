@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSSIMH > SparkFun-Connectors : SIMHOLDER
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SIMHOLDER
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSSIMH|
 |name|name|SparkFun-Connectors : SIMHOLDER|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCCPOLR51 > SparkFun-Capacitors : CPOL-RADIAL-5MM-10MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CPOL-RADIAL-5MM-10MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCCPOLR51|
 |name|name|SparkFun-Capacitors : CPOL-RADIAL-5MM-10MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

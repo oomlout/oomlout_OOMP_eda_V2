@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAQWIIC1 > SparkFun-Aesthetics : QWIIC_10MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QWIIC_10MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAQWIIC1|
 |name|name|SparkFun-Aesthetics : QWIIC_10MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

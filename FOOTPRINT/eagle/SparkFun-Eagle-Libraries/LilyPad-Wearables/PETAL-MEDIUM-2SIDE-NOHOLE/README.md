@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSLWPM2SIDENH > LilyPad-Wearables : PETAL-MEDIUM-2SIDE-NOHOLE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-PETAL-MEDIUM-2SIDE-NOHOLE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSLWPM2SIDENH|
 |name|name|LilyPad-Wearables : PETAL-MEDIUM-2SIDE-NOHOLE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

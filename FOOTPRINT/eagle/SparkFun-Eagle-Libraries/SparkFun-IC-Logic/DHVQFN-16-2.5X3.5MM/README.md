@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSILDHVQFN1625X35 > SparkFun-IC-Logic : DHVQFN-16-2.5X3.5MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-DHVQFN-16-2.5X3.5MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSILDHVQFN1625X35|
 |name|name|SparkFun-IC-Logic : DHVQFN-16-2.5X3.5MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

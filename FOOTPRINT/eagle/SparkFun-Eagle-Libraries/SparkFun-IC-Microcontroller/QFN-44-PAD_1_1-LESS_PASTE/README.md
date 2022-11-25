@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUQFN44P11LESSPASTE > SparkFun-IC-Microcontroller : QFN-44-PAD_1_1-LESS_PASTE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-44-PAD_1_1-LESS_PASTE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUQFN44P11LESSPASTE|
 |name|name|SparkFun-IC-Microcontroller : QFN-44-PAD_1_1-LESS_PASTE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

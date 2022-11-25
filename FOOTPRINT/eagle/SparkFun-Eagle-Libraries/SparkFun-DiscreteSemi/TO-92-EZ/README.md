@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSTO92EZ > SparkFun-DiscreteSemi : TO-92-EZ
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TO-92-EZ
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSTO92EZ|
 |name|name|SparkFun-DiscreteSemi : TO-92-EZ|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSSOT223 > SparkFun-DiscreteSemi : SOT223
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOT223
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSSOT223|
 |name|name|SparkFun-DiscreteSemi : SOT223|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

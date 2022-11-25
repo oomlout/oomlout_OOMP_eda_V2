@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCOINSDR137 > SparkFun-Coils : INDUCTOR_SDR1307
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_SDR1307
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCOINSDR137|
 |name|name|SparkFun-Coils : INDUCTOR_SDR1307|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

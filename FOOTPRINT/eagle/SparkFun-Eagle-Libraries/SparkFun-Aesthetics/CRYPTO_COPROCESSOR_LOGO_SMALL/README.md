@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSACRYPTOCOPLSLL > SparkFun-Aesthetics : CRYPTO_COPROCESSOR_LOGO_SMALL
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-CRYPTO_COPROCESSOR_LOGO_SMALL
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSACRYPTOCOPLSLL|
 |name|name|SparkFun-Aesthetics : CRYPTO_COPROCESSOR_LOGO_SMALL|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

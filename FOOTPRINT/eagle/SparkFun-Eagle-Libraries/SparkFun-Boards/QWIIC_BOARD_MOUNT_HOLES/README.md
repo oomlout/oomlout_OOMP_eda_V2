@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOQWIICBOARDMH > SparkFun-Boards : QWIIC_BOARD_MOUNT_HOLES
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-QWIIC_BOARD_MOUNT_HOLES
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOQWIICBOARDMH|
 |name|name|SparkFun-Boards : QWIIC_BOARD_MOUNT_HOLES|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

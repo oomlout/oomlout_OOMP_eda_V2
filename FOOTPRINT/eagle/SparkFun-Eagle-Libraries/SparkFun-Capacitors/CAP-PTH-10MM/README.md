@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCCAPP1 > SparkFun-Capacitors : CAP-PTH-10MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-PTH-10MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCCAPP1|
 |name|name|SparkFun-Capacitors : CAP-PTH-10MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGTITANX1GPS > SparkFun-GPS : TITAN_X1_GPS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-TITAN_X1_GPS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGTITANX1GPS|
 |name|name|SparkFun-GPS : TITAN_X1_GPS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

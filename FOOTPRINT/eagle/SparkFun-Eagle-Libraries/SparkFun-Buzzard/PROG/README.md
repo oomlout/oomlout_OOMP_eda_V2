@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBUPROG > SparkFun-Buzzard : PROG
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-PROG
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBUPROG|
 |name|name|SparkFun-Buzzard : PROG|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

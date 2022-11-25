@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X2RAPF > SparkFun-Connectors : 1X02_RA_PTH_FEMALE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_RA_PTH_FEMALE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X2RAPF|
 |name|name|SparkFun-Connectors : 1X02_RA_PTH_FEMALE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSJST41RA > SparkFun-Connectors : JST04_1MM_RA
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST04_1MM_RA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSJST41RA|
 |name|name|SparkFun-Connectors : JST04_1MM_RA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

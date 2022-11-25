@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSILTSS28 > SparkFun-IC-Logic : TSSOP28
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-TSSOP28
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSILTSS28|
 |name|name|SparkFun-IC-Logic : TSSOP28|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

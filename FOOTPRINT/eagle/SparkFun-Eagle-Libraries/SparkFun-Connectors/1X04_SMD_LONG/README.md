@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X4SML > SparkFun-Connectors : 1X04_SMD_LONG
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04_SMD_LONG
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X4SML|
 |name|name|SparkFun-Connectors : 1X04_SMD_LONG|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS2X13SH > SparkFun-Connectors : 2X13-SHROUDED
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X13-SHROUDED
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS2X13SH|
 |name|name|SparkFun-Connectors : 2X13-SHROUDED|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

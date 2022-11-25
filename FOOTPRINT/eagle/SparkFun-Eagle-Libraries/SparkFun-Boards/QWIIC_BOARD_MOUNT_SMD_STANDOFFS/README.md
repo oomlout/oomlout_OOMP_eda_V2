@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOQWIICBOARDMSMSTANDOFFS > SparkFun-Boards : QWIIC_BOARD_MOUNT_SMD_STANDOFFS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-QWIIC_BOARD_MOUNT_SMD_STANDOFFS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOQWIICBOARDMSMSTANDOFFS|
 |name|name|SparkFun-Boards : QWIIC_BOARD_MOUNT_SMD_STANDOFFS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

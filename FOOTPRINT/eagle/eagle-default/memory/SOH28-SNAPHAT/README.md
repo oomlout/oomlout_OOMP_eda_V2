@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMEMORYSOH28SNAPHAT > memory : SOH28-SNAPHAT
 
 - ID: FOOTPRINT-eagle-eagle-default-memory-SOH28-SNAPHAT
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMEMORYSOH28SNAPHAT|
 |name|name|memory : SOH28-SNAPHAT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

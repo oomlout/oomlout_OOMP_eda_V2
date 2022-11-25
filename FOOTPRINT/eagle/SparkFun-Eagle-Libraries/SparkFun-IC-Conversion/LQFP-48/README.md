@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIVLQFP48 > SparkFun-IC-Conversion : LQFP-48
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-LQFP-48
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIVLQFP48|
 |name|name|SparkFun-IC-Conversion : LQFP-48|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

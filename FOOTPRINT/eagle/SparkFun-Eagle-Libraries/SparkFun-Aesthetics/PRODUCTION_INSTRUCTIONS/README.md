@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAP > SparkFun-Aesthetics : PRODUCTION_INSTRUCTIONS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-PRODUCTION_INSTRUCTIONS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAP|
 |name|name|SparkFun-Aesthetics : PRODUCTION_INSTRUCTIONS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

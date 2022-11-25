@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSC63POLAR > SparkFun-Capacitors : 0603-POLAR
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0603-POLAR
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSC63POLAR|
 |name|name|SparkFun-Capacitors : 0603-POLAR|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

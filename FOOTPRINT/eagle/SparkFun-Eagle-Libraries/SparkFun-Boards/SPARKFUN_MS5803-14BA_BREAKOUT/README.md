@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOSPARKFUNMS58314BABREAKOUT > SparkFun-Boards : SPARKFUN_MS5803-14BA_BREAKOUT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_MS5803-14BA_BREAKOUT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOSPARKFUNMS58314BABREAKOUT|
 |name|name|SparkFun-Boards : SPARKFUN_MS5803-14BA_BREAKOUT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X6SMSCOMBO > SparkFun-Connectors : 1X06_SMD_STRAIGHT_COMBO
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_SMD_STRAIGHT_COMBO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X6SMSCOMBO|
 |name|name|SparkFun-Connectors : 1X06_SMD_STRAIGHT_COMBO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

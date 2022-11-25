@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSEB85A > SparkFun-Connectors : EB-85A
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-EB-85A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSEB85A|
 |name|name|SparkFun-Connectors : EB-85A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

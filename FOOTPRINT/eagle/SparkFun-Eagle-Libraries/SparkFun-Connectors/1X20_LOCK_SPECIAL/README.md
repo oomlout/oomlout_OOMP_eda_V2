@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X2LSPECIAL > SparkFun-Connectors : 1X20_LOCK_SPECIAL
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X20_LOCK_SPECIAL
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X2LSPECIAL|
 |name|name|SparkFun-Connectors : 1X20_LOCK_SPECIAL|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

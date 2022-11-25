@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS2X5P127 > SparkFun-Connectors : 2X5-PTH-1.27MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X5-PTH-1.27MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS2X5P127|
 |name|name|SparkFun-Connectors : 2X5-PTH-1.27MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

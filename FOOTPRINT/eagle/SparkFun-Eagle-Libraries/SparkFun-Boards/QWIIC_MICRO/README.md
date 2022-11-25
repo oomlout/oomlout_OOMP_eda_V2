@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOQWIICM > SparkFun-Boards : QWIIC_MICRO
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-QWIIC_MICRO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOQWIICM|
 |name|name|SparkFun-Boards : QWIIC_MICRO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

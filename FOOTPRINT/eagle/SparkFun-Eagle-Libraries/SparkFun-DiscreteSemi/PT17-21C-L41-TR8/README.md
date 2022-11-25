@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSPT1721CL41TR8 > SparkFun-DiscreteSemi : PT17-21C-L41-TR8
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-PT17-21C-L41-TR8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSPT1721CL41TR8|
 |name|name|SparkFun-DiscreteSemi : PT17-21C-L41-TR8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

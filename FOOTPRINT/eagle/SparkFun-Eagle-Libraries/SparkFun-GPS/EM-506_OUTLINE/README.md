@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGEM56OUTLINE > SparkFun-GPS : EM-506_OUTLINE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-EM-506_OUTLINE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGEM56OUTLINE|
 |name|name|SparkFun-GPS : EM-506_OUTLINE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

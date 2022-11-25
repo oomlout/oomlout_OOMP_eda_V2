@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOMSDBREAKOUT > SparkFun-Boards : MICROSD-BREAKOUT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-MICROSD-BREAKOUT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOMSDBREAKOUT|
 |name|name|SparkFun-Boards : MICROSD-BREAKOUT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

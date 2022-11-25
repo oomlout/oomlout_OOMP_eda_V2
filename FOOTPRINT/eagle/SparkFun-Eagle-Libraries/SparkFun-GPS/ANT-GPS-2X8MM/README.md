@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGANTGPS2X8 > SparkFun-GPS : ANT-GPS-2X8MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-ANT-GPS-2X8MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGANTGPS2X8|
 |name|name|SparkFun-GPS : ANT-GPS-2X8MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

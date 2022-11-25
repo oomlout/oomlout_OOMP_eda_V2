@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSSCREENKEYMATINGCN > SparkFun-Connectors : SCREENKEY_MATING_CONNECTOR
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SCREENKEY_MATING_CONNECTOR
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSSCREENKEYMATINGCN|
 |name|name|SparkFun-Connectors : SCREENKEY_MATING_CONNECTOR|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

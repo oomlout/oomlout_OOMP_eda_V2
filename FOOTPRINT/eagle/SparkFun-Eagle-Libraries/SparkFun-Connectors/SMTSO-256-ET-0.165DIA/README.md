@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSSSO256ET165DIA > SparkFun-Connectors : SMTSO-256-ET-0.165DIA
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SMTSO-256-ET-0.165DIA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSSSO256ET165DIA|
 |name|name|SparkFun-Connectors : SMTSO-256-ET-0.165DIA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

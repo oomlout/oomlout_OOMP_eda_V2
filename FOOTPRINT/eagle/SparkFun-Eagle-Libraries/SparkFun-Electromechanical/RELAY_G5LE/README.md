@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSERELAYG5LE > SparkFun-Electromechanical : RELAY_G5LE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-RELAY_G5LE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSERELAYG5LE|
 |name|name|SparkFun-Electromechanical : RELAY_G5LE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

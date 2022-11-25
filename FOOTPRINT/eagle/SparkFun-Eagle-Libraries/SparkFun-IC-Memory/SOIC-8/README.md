@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIMSOIC8 > SparkFun-IC-Memory : SOIC-8
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-SOIC-8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIMSOIC8|
 |name|name|SparkFun-IC-Memory : SOIC-8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSHSTHKEYEDNOC > SparkFun-Hardware : SMA-THREADED-KEYED_NO-COPPER
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED-KEYED_NO-COPPER
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSHSTHKEYEDNOC|
 |name|name|SparkFun-Hardware : SMA-THREADED-KEYED_NO-COPPER|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

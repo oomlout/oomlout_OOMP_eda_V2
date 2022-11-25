@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCEIA7343 > SparkFun-Capacitors : EIA7343
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA7343
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCEIA7343|
 |name|name|SparkFun-Capacitors : EIA7343|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

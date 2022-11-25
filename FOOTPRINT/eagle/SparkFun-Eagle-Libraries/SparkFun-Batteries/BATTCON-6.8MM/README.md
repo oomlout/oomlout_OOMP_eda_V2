@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBBC68 > SparkFun-Batteries : BATTCON-6.8MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON-6.8MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBBC68|
 |name|name|SparkFun-Batteries : BATTCON-6.8MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

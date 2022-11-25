@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSADUY > SparkFun-Aesthetics : DUMMY
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-DUMMY
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSADUY|
 |name|name|SparkFun-Aesthetics : DUMMY|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

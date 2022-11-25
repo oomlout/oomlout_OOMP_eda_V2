@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISOL6664X48 > SparkFun-Displays : OLED-0.66-64X48
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OLED-0.66-64X48
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISOL6664X48|
 |name|name|SparkFun-Displays : OLED-0.66-64X48|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSARIONBOARDL4 > SparkFun-Aesthetics : RASPI_ON_BOARD_LOGO_40MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-RASPI_ON_BOARD_LOGO_40MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSARIONBOARDL4|
 |name|name|SparkFun-Aesthetics : RASPI_ON_BOARD_LOGO_40MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

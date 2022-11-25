@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMEMORYTS5II > memory : TSOP50-II
 
 - ID: FOOTPRINT-eagle-eagle-default-memory-TSOP50-II
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMEMORYTS5II|
 |name|name|memory : TSOP50-II|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

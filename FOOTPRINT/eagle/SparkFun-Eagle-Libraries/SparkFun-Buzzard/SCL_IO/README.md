@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBUSCLIO > SparkFun-Buzzard : SCL_IO
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-SCL_IO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBUSCLIO|
 |name|name|SparkFun-Buzzard : SCL_IO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

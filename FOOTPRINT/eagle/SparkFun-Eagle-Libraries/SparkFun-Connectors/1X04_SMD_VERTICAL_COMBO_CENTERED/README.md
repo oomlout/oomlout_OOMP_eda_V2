@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X4SMFCOMBOCENTERED > SparkFun-Connectors : 1X04_SMD_VERTICAL_COMBO_CENTERED
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X04_SMD_VERTICAL_COMBO_CENTERED
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X4SMFCOMBOCENTERED|
 |name|name|SparkFun-Connectors : 1X04_SMD_VERTICAL_COMBO_CENTERED|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIASS28P > SparkFun-IC-Amplifiers : SSOP28_PAD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SSOP28_PAD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIASS28P|
 |name|name|SparkFun-IC-Amplifiers : SSOP28_PAD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

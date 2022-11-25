@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISKWH18ST14F1H > SparkFun-Displays : KWH018ST14-F01_HOLES
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-KWH018ST14-F01_HOLES
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISKWH18ST14F1H|
 |name|name|SparkFun-Displays : KWH018ST14-F01_HOLES|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

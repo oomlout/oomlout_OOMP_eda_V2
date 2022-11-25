@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSALORAMARKPNG > SparkFun-Aesthetics : LORA_MARK_PNG
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-LORA_MARK_PNG
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSALORAMARKPNG|
 |name|name|SparkFun-Aesthetics : LORA_MARK_PNG|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

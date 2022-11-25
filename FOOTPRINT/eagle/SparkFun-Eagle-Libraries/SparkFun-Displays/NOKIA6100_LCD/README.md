@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISNOKIA61LCD > SparkFun-Displays : NOKIA6100_LCD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-NOKIA6100_LCD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISNOKIA61LCD|
 |name|name|SparkFun-Displays : NOKIA6100_LCD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

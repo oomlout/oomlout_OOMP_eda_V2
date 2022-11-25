@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSICSTNSCANTOOLQFN28S > SparkFun-IC-Comms : _STN_SCANTOOL_QFN-28-S
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-_STN_SCANTOOL_QFN-28-S
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSICSTNSCANTOOLQFN28S|
 |name|name|SparkFun-IC-Comms : _STN_SCANTOOL_QFN-28-S|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSSTEREOJ25SPECIALHONLY > SparkFun-Connectors : STEREOJACK2.5MM_SPECIAL_HOLES-ONLY
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-STEREOJACK2.5MM_SPECIAL_HOLES-ONLY
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSSTEREOJ25SPECIALHONLY|
 |name|name|SparkFun-Connectors : STEREOJACK2.5MM_SPECIAL_HOLES-ONLY|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

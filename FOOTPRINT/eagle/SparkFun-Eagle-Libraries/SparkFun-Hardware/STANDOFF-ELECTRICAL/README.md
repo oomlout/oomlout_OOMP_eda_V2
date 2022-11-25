@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSHSTANDOFFELECTRICAL > SparkFun-Hardware : STANDOFF-ELECTRICAL
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STANDOFF-ELECTRICAL
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSHSTANDOFFELECTRICAL|
 |name|name|SparkFun-Hardware : STANDOFF-ELECTRICAL|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

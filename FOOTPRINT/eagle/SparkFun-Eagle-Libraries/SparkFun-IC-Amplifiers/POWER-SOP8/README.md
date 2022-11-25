@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIAPOWERS8 > SparkFun-IC-Amplifiers : POWER-SOP8
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-POWER-SOP8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIAPOWERS8|
 |name|name|SparkFun-IC-Amplifiers : POWER-SOP8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUQFN22M1 > SparkFun-IC-Microcontroller : QFN20_20M1
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN20_20M1
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUQFN22M1|
 |name|name|SparkFun-IC-Microcontroller : QFN20_20M1|
 ||||
+
+
+
+[im]: kicadPcb3dBack_450.png

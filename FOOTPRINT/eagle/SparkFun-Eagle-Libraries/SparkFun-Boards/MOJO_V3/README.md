@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOMOJOV3 > SparkFun-Boards : MOJO_V3
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-MOJO_V3
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOMOJOV3|
 |name|name|SparkFun-Boards : MOJO_V3|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

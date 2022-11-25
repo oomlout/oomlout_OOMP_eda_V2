@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBUL32 > SparkFun-Buzzard : LED_32
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-LED_32
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBUL32|
 |name|name|SparkFun-Buzzard : LED_32|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

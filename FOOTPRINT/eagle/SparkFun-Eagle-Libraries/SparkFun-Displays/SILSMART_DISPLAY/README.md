@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISSILSRTDI > SparkFun-Displays : SILSMART_DISPLAY
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-SILSMART_DISPLAY
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISSILSRTDI|
 |name|name|SparkFun-Displays : SILSMART_DISPLAY|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

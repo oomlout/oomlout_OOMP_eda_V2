@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X6SMMALE > SparkFun-Connectors : 1X06_SMD_MALE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_SMD_MALE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X6SMMALE|
 |name|name|SparkFun-Connectors : 1X06_SMD_MALE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

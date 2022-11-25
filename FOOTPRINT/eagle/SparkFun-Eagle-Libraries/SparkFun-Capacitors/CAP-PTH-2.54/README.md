@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCCAPP254 > SparkFun-Capacitors : CAP-PTH-2.54
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-PTH-2.54
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCCAPP254|
 |name|name|SparkFun-Capacitors : CAP-PTH-2.54|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOESP32THING > SparkFun-Boards : ESP32_THING
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ESP32_THING
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOESP32THING|
 |name|name|SparkFun-Boards : ESP32_THING|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

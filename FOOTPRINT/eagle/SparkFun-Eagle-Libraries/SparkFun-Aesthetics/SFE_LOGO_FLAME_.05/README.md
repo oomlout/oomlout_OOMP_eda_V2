@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSASFELF5 > SparkFun-Aesthetics : SFE_LOGO_FLAME_.05
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SFE_LOGO_FLAME_.05
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSASFELF5|
 |name|name|SparkFun-Aesthetics : SFE_LOGO_FLAME_.05|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

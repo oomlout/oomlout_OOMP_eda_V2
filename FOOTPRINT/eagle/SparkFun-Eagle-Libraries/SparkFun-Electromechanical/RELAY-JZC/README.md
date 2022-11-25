@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSERELAYJZC > SparkFun-Electromechanical : RELAY-JZC
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-RELAY-JZC
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSERELAYJZC|
 |name|name|SparkFun-Electromechanical : RELAY-JZC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

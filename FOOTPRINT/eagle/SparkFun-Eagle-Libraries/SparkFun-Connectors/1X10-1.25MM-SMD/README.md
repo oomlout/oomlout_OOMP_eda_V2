@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X1125SM > SparkFun-Connectors : 1X10-1.25MM-SMD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X10-1.25MM-SMD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X1125SM|
 |name|name|SparkFun-Connectors : 1X10-1.25MM-SMD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

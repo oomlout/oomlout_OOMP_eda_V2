@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSHSTANDOFFT > SparkFun-Hardware : STAND-OFF-TIGHT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STAND-OFF-TIGHT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSHSTANDOFFT|
 |name|name|SparkFun-Hardware : STAND-OFF-TIGHT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

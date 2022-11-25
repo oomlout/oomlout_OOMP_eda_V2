@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBBATAAA > SparkFun-Batteries : BATTERY-AAA
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTERY-AAA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBBATAAA|
 |name|name|SparkFun-Batteries : BATTERY-AAA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

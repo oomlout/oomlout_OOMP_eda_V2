@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIATQFN16 > SparkFun-IC-Amplifiers : TQFN-16
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-TQFN-16
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIATQFN16|
 |name|name|SparkFun-IC-Amplifiers : TQFN-16|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

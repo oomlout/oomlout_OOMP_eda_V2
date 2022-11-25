@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSMAGJSYML > SparkFun-Connectors : MAGJACK-SYM_LED
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MAGJACK-SYM_LED
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSMAGJSYML|
 |name|name|SparkFun-Connectors : MAGJACK-SYM_LED|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

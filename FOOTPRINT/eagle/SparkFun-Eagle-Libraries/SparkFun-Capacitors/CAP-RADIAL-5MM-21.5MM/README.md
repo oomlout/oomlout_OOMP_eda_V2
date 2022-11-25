@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCCAPR5215 > SparkFun-Capacitors : CAP-RADIAL-5MM-21.5MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-RADIAL-5MM-21.5MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCCAPR5215|
 |name|name|SparkFun-Capacitors : CAP-RADIAL-5MM-21.5MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

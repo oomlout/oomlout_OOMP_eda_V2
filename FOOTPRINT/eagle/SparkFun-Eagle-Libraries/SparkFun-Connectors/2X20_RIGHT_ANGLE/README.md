@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS2X2RANGLE > SparkFun-Connectors : 2X20_RIGHT_ANGLE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X20_RIGHT_ANGLE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS2X2RANGLE|
 |name|name|SparkFun-Connectors : 2X20_RIGHT_ANGLE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

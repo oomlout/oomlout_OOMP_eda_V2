@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCCPOLR255K > SparkFun-Capacitors : CPOL-RADIAL-2.5MM-5MM-KIT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CPOL-RADIAL-2.5MM-5MM-KIT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCCPOLR255K|
 |name|name|SparkFun-Capacitors : CPOL-RADIAL-2.5MM-5MM-KIT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

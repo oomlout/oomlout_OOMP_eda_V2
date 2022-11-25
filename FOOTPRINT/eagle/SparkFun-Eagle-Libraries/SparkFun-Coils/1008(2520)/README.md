@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCO18(252) > SparkFun-Coils : 1008(2520)
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-1008(2520)
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCO18(252)|
 |name|name|SparkFun-Coils : 1008(2520)|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

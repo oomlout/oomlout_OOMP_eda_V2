@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGSAMM8Q > SparkFun-GPS : SAM-M8Q
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-SAM-M8Q
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGSAMM8Q|
 |name|name|SparkFun-GPS : SAM-M8Q|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

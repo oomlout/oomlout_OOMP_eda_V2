@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSDIN5RAP > SparkFun-Connectors : DIN5-RA-PTH
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DIN5-RA-PTH
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSDIN5RAP|
 |name|name|SparkFun-Connectors : DIN5-RA-PTH|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

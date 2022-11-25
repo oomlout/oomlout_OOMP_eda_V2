@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNFUS1812 > SparkFun-Fuses : 1812
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Fuses-1812
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNFUS1812|
 |name|name|SparkFun-Fuses : 1812|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

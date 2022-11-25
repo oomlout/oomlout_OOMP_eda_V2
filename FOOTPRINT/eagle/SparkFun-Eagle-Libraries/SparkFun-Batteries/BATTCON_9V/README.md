@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBBC9V > SparkFun-Batteries : BATTCON_9V
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_9V
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBBC9V|
 |name|name|SparkFun-Batteries : BATTCON_9V|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

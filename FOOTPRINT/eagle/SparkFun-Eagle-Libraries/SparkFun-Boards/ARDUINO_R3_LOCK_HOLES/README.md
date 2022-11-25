@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOARDR3LH > SparkFun-Boards : ARDUINO_R3_LOCK_HOLES
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ARDUINO_R3_LOCK_HOLES
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOARDR3LH|
 |name|name|SparkFun-Boards : ARDUINO_R3_LOCK_HOLES|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCL1DFN(26X26) > SparkFun-Clocks : 10-DFN(2.6X2.6)
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-10-DFN(2.6X2.6)
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCL1DFN(26X26)|
 |name|name|SparkFun-Clocks : 10-DFN(2.6X2.6)|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOSPARKFUNBLACKBERRYTRACKBALLER > SparkFun-Boards : SPARKFUN_BLACKBERRY_TRACKBALLER
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_BLACKBERRY_TRACKBALLER
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOSPARKFUNBLACKBERRYTRACKBALLER|
 |name|name|SparkFun-Boards : SPARKFUN_BLACKBERRY_TRACKBALLER|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

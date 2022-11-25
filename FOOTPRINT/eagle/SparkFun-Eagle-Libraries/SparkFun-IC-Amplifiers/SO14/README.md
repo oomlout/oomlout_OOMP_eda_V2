@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIASO14 > SparkFun-IC-Amplifiers : SO14
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SO14
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIASO14|
 |name|name|SparkFun-IC-Amplifiers : SO14|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

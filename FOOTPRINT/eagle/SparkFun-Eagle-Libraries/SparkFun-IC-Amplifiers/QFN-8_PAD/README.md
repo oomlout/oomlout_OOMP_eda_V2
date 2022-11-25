@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIAQFN8P > SparkFun-IC-Amplifiers : QFN-8_PAD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-QFN-8_PAD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIAQFN8P|
 |name|name|SparkFun-IC-Amplifiers : QFN-8_PAD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

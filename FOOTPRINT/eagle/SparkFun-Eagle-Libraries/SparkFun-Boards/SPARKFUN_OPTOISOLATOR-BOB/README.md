@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOSPARKFUNOPTOISOLATORBOB > SparkFun-Boards : SPARKFUN_OPTOISOLATOR-BOB
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_OPTOISOLATOR-BOB
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOSPARKFUNOPTOISOLATORBOB|
 |name|name|SparkFun-Boards : SPARKFUN_OPTOISOLATOR-BOB|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

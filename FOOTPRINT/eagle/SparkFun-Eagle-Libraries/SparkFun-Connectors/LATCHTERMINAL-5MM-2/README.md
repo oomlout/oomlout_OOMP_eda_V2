@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSLATCHT52 > SparkFun-Connectors : LATCHTERMINAL-5MM-2
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-LATCHTERMINAL-5MM-2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSLATCHT52|
 |name|name|SparkFun-Connectors : LATCHTERMINAL-5MM-2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

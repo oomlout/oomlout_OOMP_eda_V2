@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X5SMFCOMBO > SparkFun-Connectors : 1X05_SMD_VERTICAL_COMBO
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X05_SMD_VERTICAL_COMBO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X5SMFCOMBO|
 |name|name|SparkFun-Connectors : 1X05_SMD_VERTICAL_COMBO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

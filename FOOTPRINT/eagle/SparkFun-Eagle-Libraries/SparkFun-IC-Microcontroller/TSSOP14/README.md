@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUTSS14 > SparkFun-IC-Microcontroller : TSSOP14
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-TSSOP14
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUTSS14|
 |name|name|SparkFun-IC-Microcontroller : TSSOP14|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

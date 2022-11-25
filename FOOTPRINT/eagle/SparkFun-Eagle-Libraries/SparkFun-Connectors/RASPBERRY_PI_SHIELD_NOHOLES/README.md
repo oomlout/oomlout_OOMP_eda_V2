@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSRPISHNOH > SparkFun-Connectors : RASPBERRY_PI_SHIELD_NOHOLES
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RASPBERRY_PI_SHIELD_NOHOLES
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSRPISHNOH|
 |name|name|SparkFun-Connectors : RASPBERRY_PI_SHIELD_NOHOLES|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

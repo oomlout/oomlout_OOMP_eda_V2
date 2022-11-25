@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIVSS2 > SparkFun-IC-Conversion : SSOP20
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-SSOP20
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIVSS2|
 |name|name|SparkFun-IC-Conversion : SSOP20|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

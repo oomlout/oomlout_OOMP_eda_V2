@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSDIODE1N4148K > SparkFun-DiscreteSemi : DIODE-1N4148-KIT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIODE-1N4148-KIT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSDIODE1N4148K|
 |name|name|SparkFun-DiscreteSemi : DIODE-1N4148-KIT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

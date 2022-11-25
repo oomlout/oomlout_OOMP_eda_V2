@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUQFN484PITCH > SparkFun-IC-Microcontroller : QFN-48-.4MMPITCH
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-48-.4MMPITCH
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUQFN484PITCH|
 |name|name|SparkFun-IC-Microcontroller : QFN-48-.4MMPITCH|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

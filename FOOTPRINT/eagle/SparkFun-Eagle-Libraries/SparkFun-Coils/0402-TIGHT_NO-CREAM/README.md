@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCO42TNOCREAM > SparkFun-Coils : 0402-TIGHT_NO-CREAM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0402-TIGHT_NO-CREAM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCO42TNOCREAM|
 |name|name|SparkFun-Coils : 0402-TIGHT_NO-CREAM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBUGNDP > SparkFun-Buzzard : GND_P
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-GND_P
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBUGNDP|
 |name|name|SparkFun-Buzzard : GND_P|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

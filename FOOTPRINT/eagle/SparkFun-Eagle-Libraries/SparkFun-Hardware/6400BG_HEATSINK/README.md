@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSH64BGH > SparkFun-Hardware : 6400BG_HEATSINK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-6400BG_HEATSINK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSH64BGH|
 |name|name|SparkFun-Hardware : 6400BG_HEATSINK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

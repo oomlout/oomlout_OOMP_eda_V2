@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOFDREDENCLOSUREOUTLINE > SparkFun-Boards : FLANGED_RED_ENCLOSURE-OUTLINE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-FLANGED_RED_ENCLOSURE-OUTLINE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOFDREDENCLOSUREOUTLINE|
 |name|name|SparkFun-Boards : FLANGED_RED_ENCLOSURE-OUTLINE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

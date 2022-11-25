@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBMS421RIV3E > SparkFun-Batteries : MS421R_IV03E
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-MS421R_IV03E
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBMS421RIV3E|
 |name|name|SparkFun-Batteries : MS421R_IV03E|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

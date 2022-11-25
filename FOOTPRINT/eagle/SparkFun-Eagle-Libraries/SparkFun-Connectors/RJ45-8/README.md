@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSRJ458 > SparkFun-Connectors : RJ45-8
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RJ45-8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSRJ458|
 |name|name|SparkFun-Connectors : RJ45-8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

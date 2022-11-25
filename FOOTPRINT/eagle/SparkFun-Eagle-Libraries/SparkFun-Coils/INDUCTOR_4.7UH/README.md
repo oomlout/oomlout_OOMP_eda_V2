@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCOIN47UH > SparkFun-Coils : INDUCTOR_4.7UH
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_4.7UH
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCOIN47UH|
 |name|name|SparkFun-Coils : INDUCTOR_4.7UH|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBBC24LEGS > SparkFun-Batteries : BATTCON_20MM_4LEGS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_20MM_4LEGS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBBC24LEGS|
 |name|name|SparkFun-Batteries : BATTCON_20MM_4LEGS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

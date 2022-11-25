@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOCAN485OUTERONLY > SparkFun-Boards : CAN485_OUTER_ONLY
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-CAN485_OUTER_ONLY
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOCAN485OUTERONLY|
 |name|name|SparkFun-Boards : CAN485_OUTER_ONLY|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

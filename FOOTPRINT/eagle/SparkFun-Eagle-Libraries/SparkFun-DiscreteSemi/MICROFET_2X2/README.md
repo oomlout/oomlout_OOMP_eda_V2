@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSMFET2X2 > SparkFun-DiscreteSemi : MICROFET_2X2
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-MICROFET_2X2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSMFET2X2|
 |name|name|SparkFun-DiscreteSemi : MICROFET_2X2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAGATORBITFINALFORSILK#1#1##JPG > SparkFun-Aesthetics : GATORBIT_FINAL_FOR_SILK#01_#1##JPG
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-GATORBIT_FINAL_FOR_SILK#01_#1##JPG
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAGATORBITFINALFORSILK#1#1##JPG|
 |name|name|SparkFun-Aesthetics : GATORBIT_FINAL_FOR_SILK#01_#1##JPG|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png
