@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSC126 > SparkFun-Capacitors : 1206
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-1206
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSC126|
 |name|name|SparkFun-Capacitors : 1206|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

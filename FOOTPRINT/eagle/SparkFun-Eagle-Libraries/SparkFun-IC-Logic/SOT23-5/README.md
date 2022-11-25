@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSILSOT235 > SparkFun-IC-Logic : SOT23-5
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-SOT23-5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSILSOT235|
 |name|name|SparkFun-IC-Logic : SOT23-5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

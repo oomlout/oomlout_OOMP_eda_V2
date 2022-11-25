@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAFID1X2 > SparkFun-Aesthetics : FIDUCIAL-1X2
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIDUCIAL-1X2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAFID1X2|
 |name|name|SparkFun-Aesthetics : FIDUCIAL-1X2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

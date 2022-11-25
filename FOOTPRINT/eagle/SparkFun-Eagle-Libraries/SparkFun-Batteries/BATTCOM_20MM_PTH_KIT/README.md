@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBBATTCOM2PK > SparkFun-Batteries : BATTCOM_20MM_PTH_KIT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCOM_20MM_PTH_KIT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBBATTCOM2PK|
 |name|name|SparkFun-Batteries : BATTCOM_20MM_PTH_KIT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

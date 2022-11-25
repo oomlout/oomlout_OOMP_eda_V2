@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBLIPO2 > SparkFun-Batteries : LIPO-2000
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-LIPO-2000
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBLIPO2|
 |name|name|SparkFun-Batteries : LIPO-2000|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

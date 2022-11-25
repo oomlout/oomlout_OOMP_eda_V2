@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISEXTDISP > SparkFun-Displays : EXT_DISP
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-EXT_DISP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISEXTDISP|
 |name|name|SparkFun-Displays : EXT_DISP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

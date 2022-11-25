@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIMUSON3X2 > SparkFun-IC-Memory : USON_3X2MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-USON_3X2MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIMUSON3X2|
 |name|name|SparkFun-IC-Memory : USON_3X2MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

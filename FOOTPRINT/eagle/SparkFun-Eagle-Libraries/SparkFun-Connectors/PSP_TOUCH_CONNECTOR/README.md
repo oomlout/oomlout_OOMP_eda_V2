@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSPSPTOUCHCN > SparkFun-Connectors : PSP_TOUCH_CONNECTOR
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-PSP_TOUCH_CONNECTOR
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSPSPTOUCHCN|
 |name|name|SparkFun-Connectors : PSP_TOUCH_CONNECTOR|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAFIOL > SparkFun-Aesthetics : FIO_LOGO
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIO_LOGO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAFIOL|
 |name|name|SparkFun-Aesthetics : FIO_LOGO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

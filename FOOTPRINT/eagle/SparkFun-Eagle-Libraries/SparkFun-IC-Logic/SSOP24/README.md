@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSILSS24 > SparkFun-IC-Logic : SSOP24
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-SSOP24
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSILSS24|
 |name|name|SparkFun-IC-Logic : SSOP24|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

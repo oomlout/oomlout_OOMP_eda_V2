@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOATLASCONDUCTIVITY > SparkFun-Boards : ATLAS_CONDUCTIVITY
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ATLAS_CONDUCTIVITY
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOATLASCONDUCTIVITY|
 |name|name|SparkFun-Boards : ATLAS_CONDUCTIVITY|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

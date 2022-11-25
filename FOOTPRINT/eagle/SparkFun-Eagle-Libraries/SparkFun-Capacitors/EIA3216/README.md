@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCEIA3216 > SparkFun-Capacitors : EIA3216
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA3216
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCEIA3216|
 |name|name|SparkFun-Capacitors : EIA3216|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

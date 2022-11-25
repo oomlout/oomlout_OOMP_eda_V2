@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSICSS28DB > SparkFun-IC-Comms : SSOP28DB
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SSOP28DB
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSICSS28DB|
 |name|name|SparkFun-IC-Comms : SSOP28DB|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

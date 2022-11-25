@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMEMORYPLCC32R > memory : PLCC32R
 
 - ID: FOOTPRINT-eagle-eagle-default-memory-PLCC32R
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMEMORYPLCC32R|
 |name|name|memory : PLCC32R|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLXP3X8CYL > SparkFun-Clocks : CRYSTAL-PTH-3X8-CYL
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-PTH-3X8-CYL
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLXP3X8CYL|
 |name|name|SparkFun-Clocks : CRYSTAL-PTH-3X8-CYL|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLRSM32X13 > SparkFun-Clocks : RESONATOR-SMD-3.2X1.3
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-SMD-3.2X1.3
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLRSM32X13|
 |name|name|SparkFun-Clocks : RESONATOR-SMD-3.2X1.3|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

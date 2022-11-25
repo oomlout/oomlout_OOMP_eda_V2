@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLOCSSM5X32 > SparkFun-Clocks : OSCILLATOR-SMD-5X3.2
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-OSCILLATOR-SMD-5X3.2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLOCSSM5X32|
 |name|name|SparkFun-Clocks : OSCILLATOR-SMD-5X3.2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSUMBPML > SparkFun-Connectors : USB-MICROB-PTH-MILL
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-MICROB-PTH-MILL
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSUMBPML|
 |name|name|SparkFun-Connectors : USB-MICROB-PTH-MILL|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGGP396TLP > SparkFun-GPS : GP3906-TLP
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-GP3906-TLP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGGP396TLP|
 |name|name|SparkFun-GPS : GP3906-TLP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

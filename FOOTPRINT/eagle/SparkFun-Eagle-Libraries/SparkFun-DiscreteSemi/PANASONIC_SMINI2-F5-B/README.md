@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISCRETESEMIPSM2F5B > SparkFun-DiscreteSemi : PANASONIC_SMINI2-F5-B
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-PANASONIC_SMINI2-F5-B
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISCRETESEMIPSM2F5B|
 |name|name|SparkFun-DiscreteSemi : PANASONIC_SMINI2-F5-B|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

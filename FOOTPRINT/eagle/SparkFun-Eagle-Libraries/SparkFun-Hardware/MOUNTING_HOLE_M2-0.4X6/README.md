@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSHMHM24X6 > SparkFun-Hardware : MOUNTING_HOLE_M2-0.4X6
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-MOUNTING_HOLE_M2-0.4X6
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSHMHM24X6|
 |name|name|SparkFun-Hardware : MOUNTING_HOLE_M2-0.4X6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

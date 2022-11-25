@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSEBUZZER12K > SparkFun-Electromechanical : BUZZER-12MM-KIT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-BUZZER-12MM-KIT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSEBUZZER12K|
 |name|name|SparkFun-Electromechanical : BUZZER-12MM-KIT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

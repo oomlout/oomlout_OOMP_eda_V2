@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOBEAGLEBONEBLACKCAPE > SparkFun-Boards : BEAGLE_BONE_BLACK_CAPE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-BEAGLE_BONE_BLACK_CAPE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOBEAGLEBONEBLACKCAPE|
 |name|name|SparkFun-Boards : BEAGLE_BONE_BLACK_CAPE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSDF4XC(XX)7DS4V(51) > SparkFun-Connectors : DF40-XC-(X.X)-70DS-0.4V(51)
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DF40-XC-(X.X)-70DS-0.4V(51)
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSDF4XC(XX)7DS4V(51)|
 |name|name|SparkFun-Connectors : DF40-XC-(X.X)-70DS-0.4V(51)|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

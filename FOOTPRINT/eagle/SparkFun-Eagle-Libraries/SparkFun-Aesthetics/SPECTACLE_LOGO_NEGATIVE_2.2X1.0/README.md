@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAACLELN22X1 > SparkFun-Aesthetics : SPECTACLE_LOGO_NEGATIVE_2.2X1.0
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SPECTACLE_LOGO_NEGATIVE_2.2X1.0
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAACLELN22X1|
 |name|name|SparkFun-Aesthetics : SPECTACLE_LOGO_NEGATIVE_2.2X1.0|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

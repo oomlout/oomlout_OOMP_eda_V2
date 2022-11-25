@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSICLQFP64 > SparkFun-IC-Comms : LQFP-64
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-LQFP-64
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSICLQFP64|
 |name|name|SparkFun-IC-Comms : LQFP-64|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

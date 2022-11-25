@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIVS65P64X1216N > SparkFun-IC-Conversion : SOP65P640X120-16N
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-SOP65P640X120-16N
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIVS65P64X1216N|
 |name|name|SparkFun-IC-Conversion : SOP65P640X120-16N|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

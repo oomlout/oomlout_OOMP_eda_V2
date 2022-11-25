@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGZEDF9P > SparkFun-GPS : ZED-F9P
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-ZED-F9P
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGZEDF9P|
 |name|name|SparkFun-GPS : ZED-F9P|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

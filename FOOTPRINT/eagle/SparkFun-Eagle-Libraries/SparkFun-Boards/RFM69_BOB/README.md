@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBORFM69BOB > SparkFun-Boards : RFM69_BOB
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-RFM69_BOB
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBORFM69BOB|
 |name|name|SparkFun-Boards : RFM69_BOB|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

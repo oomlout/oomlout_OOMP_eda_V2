@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMEMORYDIL8 > memory : DIL08
 
 - ID: FOOTPRINT-eagle-eagle-default-memory-DIL08
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMEMORYDIL8|
 |name|name|memory : DIL08|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

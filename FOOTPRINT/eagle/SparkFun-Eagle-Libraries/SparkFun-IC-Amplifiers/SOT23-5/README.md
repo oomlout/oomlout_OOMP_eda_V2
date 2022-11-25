@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIASOT235 > SparkFun-IC-Amplifiers : SOT23-5
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SOT23-5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIASOT235|
 |name|name|SparkFun-IC-Amplifiers : SOT23-5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGMXGNSSCHIP > SparkFun-GPS : MOLEX_GNSS_CHIP
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-MOLEX_GNSS_CHIP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGMXGNSSCHIP|
 |name|name|SparkFun-GPS : MOLEX_GNSS_CHIP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

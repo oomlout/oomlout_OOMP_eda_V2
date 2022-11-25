@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCDFN6 > SparkFun-Capacitors : DFN6
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-DFN6
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCDFN6|
 |name|name|SparkFun-Capacitors : DFN6|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

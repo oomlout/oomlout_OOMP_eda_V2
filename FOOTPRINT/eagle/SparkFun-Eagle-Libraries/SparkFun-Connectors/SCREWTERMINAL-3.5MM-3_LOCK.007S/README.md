@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSSCT353L7S > SparkFun-Connectors : SCREWTERMINAL-3.5MM-3_LOCK.007S
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SCREWTERMINAL-3.5MM-3_LOCK.007S
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSSCT353L7S|
 |name|name|SparkFun-Connectors : SCREWTERMINAL-3.5MM-3_LOCK.007S|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

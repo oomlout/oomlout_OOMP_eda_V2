@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAQTECHKNOWLLSILK > SparkFun-Aesthetics : QTECHKNOW-LOGO-LARGE-SILK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-QTECHKNOW-LOGO-LARGE-SILK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAQTECHKNOWLLSILK|
 |name|name|SparkFun-Aesthetics : QTECHKNOW-LOGO-LARGE-SILK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

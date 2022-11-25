@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSC42M > SparkFun-Capacitors : 0402_MURATA
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0402_MURATA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSC42M|
 |name|name|SparkFun-Capacitors : 0402_MURATA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

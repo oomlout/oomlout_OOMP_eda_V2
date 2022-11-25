@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIMUSON8 > SparkFun-IC-Memory : USON-8
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-USON-8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIMUSON8|
 |name|name|SparkFun-IC-Memory : USON-8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X6SCTBL > SparkFun-Connectors : 1X06_SCREW_TERMINAL_BLOCK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_SCREW_TERMINAL_BLOCK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X6SCTBL|
 |name|name|SparkFun-Connectors : 1X06_SCREW_TERMINAL_BLOCK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

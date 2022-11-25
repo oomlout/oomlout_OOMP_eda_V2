@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSICPS8 > SparkFun-IC-Comms : PSOP-8
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-PSOP-8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSICPS8|
 |name|name|SparkFun-IC-Comms : PSOP-8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

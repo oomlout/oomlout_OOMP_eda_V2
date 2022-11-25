@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSHSTANDOFFREFLOWM25 > SparkFun-Hardware : STAND-OFF-REFLOW-M2.5
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STAND-OFF-REFLOW-M2.5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSHSTANDOFFREFLOWM25|
 |name|name|SparkFun-Hardware : STAND-OFF-REFLOW-M2.5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

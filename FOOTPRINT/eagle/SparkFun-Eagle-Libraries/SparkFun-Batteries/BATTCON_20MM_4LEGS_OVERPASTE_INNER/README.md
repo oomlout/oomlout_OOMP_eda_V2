@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBBC24LEGSOVERPASTEINNER > SparkFun-Batteries : BATTCON_20MM_4LEGS_OVERPASTE_INNER
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_20MM_4LEGS_OVERPASTE_INNER
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBBC24LEGSOVERPASTEINNER|
 |name|name|SparkFun-Batteries : BATTCON_20MM_4LEGS_OVERPASTE_INNER|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

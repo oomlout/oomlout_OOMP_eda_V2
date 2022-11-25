@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSMSDSO > SparkFun-Connectors : MICRO-SD-SOCKET
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICRO-SD-SOCKET
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSMSDSO|
 |name|name|SparkFun-Connectors : MICRO-SD-SOCKET|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

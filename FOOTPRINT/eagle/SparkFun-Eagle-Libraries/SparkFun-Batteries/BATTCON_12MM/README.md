@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBBC12 > SparkFun-Batteries : BATTCON_12MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_12MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBBC12|
 |name|name|SparkFun-Batteries : BATTCON_12MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLXSM5X324P > SparkFun-Clocks : CRYSTAL-SMD-5X3.2-4PAD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-5X3.2-4PAD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLXSM5X324P|
 |name|name|SparkFun-Clocks : CRYSTAL-SMD-5X3.2-4PAD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNFUSP > SparkFun-Fuses : PTH
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Fuses-PTH
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNFUSP|
 |name|name|SparkFun-Fuses : PTH|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

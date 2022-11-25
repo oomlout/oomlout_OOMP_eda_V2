@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIASIP6MPAK > SparkFun-IC-Amplifiers : SIP6_MICROPAK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SIP6_MICROPAK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIASIP6MPAK|
 |name|name|SparkFun-IC-Amplifiers : SIP6_MICROPAK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

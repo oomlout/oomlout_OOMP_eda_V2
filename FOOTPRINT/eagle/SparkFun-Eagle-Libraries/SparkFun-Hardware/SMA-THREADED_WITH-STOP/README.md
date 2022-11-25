@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSHSTHWITHSTOP > SparkFun-Hardware : SMA-THREADED_WITH-STOP
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-SMA-THREADED_WITH-STOP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSHSTHWITHSTOP|
 |name|name|SparkFun-Hardware : SMA-THREADED_WITH-STOP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIASO8P > SparkFun-IC-Amplifiers : SO08_PAD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SO08_PAD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIASO8P|
 |name|name|SparkFun-IC-Amplifiers : SO08_PAD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

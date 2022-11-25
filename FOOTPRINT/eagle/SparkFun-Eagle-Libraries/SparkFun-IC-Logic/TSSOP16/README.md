@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSILTSS16 > SparkFun-IC-Logic : TSSOP16
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-TSSOP16
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSILTSS16|
 |name|name|SparkFun-IC-Logic : TSSOP16|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

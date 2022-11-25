@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSASFELN8 > SparkFun-Aesthetics : SFE_LOGO_NAME_8MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SFE_LOGO_NAME_8MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSASFELN8|
 |name|name|SparkFun-Aesthetics : SFE_LOGO_NAME_8MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

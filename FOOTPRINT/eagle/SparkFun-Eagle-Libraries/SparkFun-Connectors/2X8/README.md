@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS2X8 > SparkFun-Connectors : 2X8
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS2X8|
 |name|name|SparkFun-Connectors : 2X8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

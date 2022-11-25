@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISOEL18FPCY3B > SparkFun-Displays : OEL_1.8_FPC_Y3B
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OEL_1.8_FPC_Y3B
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISOEL18FPCY3B|
 |name|name|SparkFun-Displays : OEL_1.8_FPC_Y3B|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

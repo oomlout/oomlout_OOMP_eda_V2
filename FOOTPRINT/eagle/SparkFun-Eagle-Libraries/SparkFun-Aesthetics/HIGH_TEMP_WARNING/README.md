@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAHIGHTEMPWARNING > SparkFun-Aesthetics : HIGH_TEMP_WARNING
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-HIGH_TEMP_WARNING
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAHIGHTEMPWARNING|
 |name|name|SparkFun-Aesthetics : HIGH_TEMP_WARNING|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

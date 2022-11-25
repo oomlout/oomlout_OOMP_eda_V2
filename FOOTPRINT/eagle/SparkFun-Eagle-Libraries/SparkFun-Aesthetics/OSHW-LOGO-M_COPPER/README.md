@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAOSHWLMC > SparkFun-Aesthetics : OSHW-LOGO-M_COPPER
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-OSHW-LOGO-M_COPPER
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAOSHWLMC|
 |name|name|SparkFun-Aesthetics : OSHW-LOGO-M_COPPER|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

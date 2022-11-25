@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDS8SM > SparkFun-DiscreteSemi : 8-SMD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-8-SMD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDS8SM|
 |name|name|SparkFun-DiscreteSemi : 8-SMD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

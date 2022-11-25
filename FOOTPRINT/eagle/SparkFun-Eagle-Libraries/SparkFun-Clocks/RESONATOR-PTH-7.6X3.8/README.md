@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLRP76X38 > SparkFun-Clocks : RESONATOR-PTH-7.6X3.8
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-PTH-7.6X3.8
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLRP76X38|
 |name|name|SparkFun-Clocks : RESONATOR-PTH-7.6X3.8|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

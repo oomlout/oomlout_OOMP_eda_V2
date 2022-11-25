@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCNIC1X15CAP > SparkFun-Capacitors : NIC_10X10.5_CAP
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-NIC_10X10.5_CAP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCNIC1X15CAP|
 |name|name|SparkFun-Capacitors : NIC_10X10.5_CAP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

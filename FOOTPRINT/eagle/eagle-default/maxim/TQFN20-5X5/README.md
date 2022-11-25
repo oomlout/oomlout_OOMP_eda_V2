@@ -44,4 +44,4 @@ Contents
 
 
 
-[im]: kicadPcb3dFront_450.png
+[im]: kicadPcb3d_450.png

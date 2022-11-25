@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSBINDINGPOST > SparkFun-Connectors : BINDING_POST
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BINDING_POST
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSBINDINGPOST|
 |name|name|SparkFun-Connectors : BINDING_POST|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

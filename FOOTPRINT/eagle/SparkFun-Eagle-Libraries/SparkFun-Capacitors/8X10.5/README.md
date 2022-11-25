@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSC8X15 > SparkFun-Capacitors : 8X10.5
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-8X10.5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSC8X15|
 |name|name|SparkFun-Capacitors : 8X10.5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

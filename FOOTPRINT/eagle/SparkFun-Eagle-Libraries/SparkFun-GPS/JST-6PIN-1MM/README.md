@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGJST6P1 > SparkFun-GPS : JST-6PIN-1MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-JST-6PIN-1MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGJST6P1|
 |name|name|SparkFun-GPS : JST-6PIN-1MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

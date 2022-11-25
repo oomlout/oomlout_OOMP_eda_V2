@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOTEENSY > SparkFun-Boards : TEENSY
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-TEENSY
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOTEENSY|
 |name|name|SparkFun-Boards : TEENSY|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSLWBHSM > LilyPad-Wearables : BUTTONHOLE-SM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-BUTTONHOLE-SM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSLWBHSM|
 |name|name|LilyPad-Wearables : BUTTONHOLE-SM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

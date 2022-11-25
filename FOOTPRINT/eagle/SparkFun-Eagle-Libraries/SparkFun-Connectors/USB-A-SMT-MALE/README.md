@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSUASMALE > SparkFun-Connectors : USB-A-SMT-MALE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-SMT-MALE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSUASMALE|
 |name|name|SparkFun-Connectors : USB-A-SMT-MALE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

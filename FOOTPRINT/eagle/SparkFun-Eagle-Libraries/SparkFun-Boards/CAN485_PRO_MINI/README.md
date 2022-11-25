@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOCAN485PROM > SparkFun-Boards : CAN485_PRO_MINI
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-CAN485_PRO_MINI
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOCAN485PROM|
 |name|name|SparkFun-Boards : CAN485_PRO_MINI|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

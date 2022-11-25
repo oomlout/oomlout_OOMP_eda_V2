@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLXSM32X25GEYER126421 > SparkFun-Clocks : CRYSTAL-SMD-3.2X2.5MM_GEYER_12.60421
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-3.2X2.5MM_GEYER_12.60421
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLXSM32X25GEYER126421|
 |name|name|SparkFun-Clocks : CRYSTAL-SMD-3.2X2.5MM_GEYER_12.60421|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS6PSERIALTARGETSIDEWSILK > SparkFun-Connectors : 6_PIN_SERIAL_TARGET_SIDE_W_SILK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-6_PIN_SERIAL_TARGET_SIDE_W_SILK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS6PSERIALTARGETSIDEWSILK|
 |name|name|SparkFun-Connectors : 6_PIN_SERIAL_TARGET_SIDE_W_SILK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

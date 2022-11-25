@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSCOMPUTERPERIPHERALPOWERRAVT > SparkFun-Connectors : COMPUTER-PERIPHERAL-POWER-RA-VT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-COMPUTER-PERIPHERAL-POWER-RA-VT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSCOMPUTERPERIPHERALPOWERRAVT|
 |name|name|SparkFun-Connectors : COMPUTER-PERIPHERAL-POWER-RA-VT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

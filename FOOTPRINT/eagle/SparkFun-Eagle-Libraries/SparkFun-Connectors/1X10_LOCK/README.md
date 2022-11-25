@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X1L > SparkFun-Connectors : 1X10_LOCK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X10_LOCK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X1L|
 |name|name|SparkFun-Connectors : 1X10_LOCK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

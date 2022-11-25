@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSPICICSPM5P > SparkFun-Connectors : PIC_ICSP_MINI_5_PIN
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-PIC_ICSP_MINI_5_PIN
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSPICICSPM5P|
 |name|name|SparkFun-Connectors : PIC_ICSP_MINI_5_PIN|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

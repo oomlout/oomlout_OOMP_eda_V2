@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBUMEAS > SparkFun-Buzzard : MEAS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MEAS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBUMEAS|
 |name|name|SparkFun-Buzzard : MEAS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

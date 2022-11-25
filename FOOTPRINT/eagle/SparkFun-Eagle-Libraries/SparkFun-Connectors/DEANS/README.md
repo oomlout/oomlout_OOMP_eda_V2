@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSDEANS > SparkFun-Connectors : DEANS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-DEANS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSDEANS|
 |name|name|SparkFun-Connectors : DEANS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

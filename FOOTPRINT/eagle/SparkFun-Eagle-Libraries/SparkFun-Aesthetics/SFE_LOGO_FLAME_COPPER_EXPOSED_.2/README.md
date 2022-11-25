@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSASFELFCEXPOSED2 > SparkFun-Aesthetics : SFE_LOGO_FLAME_COPPER_EXPOSED_.2
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SFE_LOGO_FLAME_COPPER_EXPOSED_.2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSASFELFCEXPOSED2|
 |name|name|SparkFun-Aesthetics : SFE_LOGO_FLAME_COPPER_EXPOSED_.2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

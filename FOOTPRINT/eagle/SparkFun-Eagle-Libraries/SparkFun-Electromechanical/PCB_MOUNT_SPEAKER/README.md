@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSEPCBMSPEAKER > SparkFun-Electromechanical : PCB_MOUNT_SPEAKER
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-PCB_MOUNT_SPEAKER
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSEPCBMSPEAKER|
 |name|name|SparkFun-Electromechanical : PCB_MOUNT_SPEAKER|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

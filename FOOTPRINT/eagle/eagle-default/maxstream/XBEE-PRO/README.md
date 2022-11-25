@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXSTREAMXBEEPRO > maxstream : XBEE-PRO
 
 - ID: FOOTPRINT-eagle-eagle-default-maxstream-XBEE-PRO
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXSTREAMXBEEPRO|
 |name|name|maxstream : XBEE-PRO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

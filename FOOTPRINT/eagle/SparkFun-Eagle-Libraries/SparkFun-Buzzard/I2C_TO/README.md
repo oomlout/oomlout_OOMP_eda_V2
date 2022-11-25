@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBUI2CTO > SparkFun-Buzzard : I2C_TO
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-I2C_TO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBUI2CTO|
 |name|name|SparkFun-Buzzard : I2C_TO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

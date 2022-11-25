@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUBGA815X5 > SparkFun-IC-Microcontroller : BGA-81-5X5MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-BGA-81-5X5MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUBGA815X5|
 |name|name|SparkFun-IC-Microcontroller : BGA-81-5X5MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

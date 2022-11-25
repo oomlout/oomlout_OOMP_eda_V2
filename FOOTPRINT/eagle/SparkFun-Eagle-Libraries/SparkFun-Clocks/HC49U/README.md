@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLHC49U > SparkFun-Clocks : HC49U
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-HC49U
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLHC49U|
 |name|name|SparkFun-Clocks : HC49U|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

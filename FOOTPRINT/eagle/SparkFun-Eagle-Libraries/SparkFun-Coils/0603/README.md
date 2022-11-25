@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCO63 > SparkFun-Coils : 0603
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0603
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCO63|
 |name|name|SparkFun-Coils : 0603|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

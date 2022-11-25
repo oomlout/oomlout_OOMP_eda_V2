@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCOCOILCRAFTDA23X > SparkFun-Coils : COILCRAFT_DA230X
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-COILCRAFT_DA230X
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCOCOILCRAFTDA23X|
 |name|name|SparkFun-Coils : COILCRAFT_DA230X|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

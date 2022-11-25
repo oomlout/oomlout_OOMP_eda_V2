@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSEDISONDAUGHTER > SparkFun-Connectors : EDISON_DAUGHTER
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-EDISON_DAUGHTER
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSEDISONDAUGHTER|
 |name|name|SparkFun-Connectors : EDISON_DAUGHTER|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

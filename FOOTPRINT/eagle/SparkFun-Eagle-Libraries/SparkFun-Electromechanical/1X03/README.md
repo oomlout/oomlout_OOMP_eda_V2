@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSE1X3 > SparkFun-Electromechanical : 1X03
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-1X03
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSE1X3|
 |name|name|SparkFun-Electromechanical : 1X03|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

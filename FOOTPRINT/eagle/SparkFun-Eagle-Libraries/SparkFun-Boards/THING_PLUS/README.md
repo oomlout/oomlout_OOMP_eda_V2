@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOTHINGPLUS > SparkFun-Boards : THING_PLUS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-THING_PLUS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOTHINGPLUS|
 |name|name|SparkFun-Boards : THING_PLUS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

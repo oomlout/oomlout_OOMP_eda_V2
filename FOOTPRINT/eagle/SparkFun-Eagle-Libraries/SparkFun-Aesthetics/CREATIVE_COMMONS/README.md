@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSACREATIVECOONS > SparkFun-Aesthetics : CREATIVE_COMMONS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-CREATIVE_COMMONS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSACREATIVECOONS|
 |name|name|SparkFun-Aesthetics : CREATIVE_COMMONS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

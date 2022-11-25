@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZEMAXIMTQFN32 > maxim : TQFN32
 
 - ID: FOOTPRINT-eagle-eagle-default-maxim-TQFN32
@@ -40,3 +40,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZEMAXIMTQFN32|
 |name|name|maxim : TQFN32|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

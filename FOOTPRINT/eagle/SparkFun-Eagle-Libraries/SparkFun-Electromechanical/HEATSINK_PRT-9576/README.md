@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSEHPRT9576 > SparkFun-Electromechanical : HEATSINK_PRT-9576
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-HEATSINK_PRT-9576
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSEHPRT9576|
 |name|name|SparkFun-Electromechanical : HEATSINK_PRT-9576|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

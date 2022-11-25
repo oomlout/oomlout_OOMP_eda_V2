@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIASC74A > SparkFun-IC-Amplifiers : SC-74A
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-SC-74A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIASC74A|
 |name|name|SparkFun-IC-Amplifiers : SC-74A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

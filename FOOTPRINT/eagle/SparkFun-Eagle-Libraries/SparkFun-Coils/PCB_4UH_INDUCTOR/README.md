@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCOPCB4UHIN > SparkFun-Coils : PCB_4UH_INDUCTOR
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-PCB_4UH_INDUCTOR
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCOPCB4UHIN|
 |name|name|SparkFun-Coils : PCB_4UH_INDUCTOR|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

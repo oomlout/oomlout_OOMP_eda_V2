@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCO85WIDE > SparkFun-Coils : 0805-WIDE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0805-WIDE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCO85WIDE|
 |name|name|SparkFun-Coils : 0805-WIDE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

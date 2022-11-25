@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAROHSL18IN > SparkFun-Aesthetics : ROHS_LOGO_0.18_IN
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-ROHS_LOGO_0.18_IN
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAROHSL18IN|
 |name|name|SparkFun-Aesthetics : ROHS_LOGO_0.18_IN|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

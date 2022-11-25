@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSFPC541724 > SparkFun-Connectors : FPC05040-17204
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FPC05040-17204
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSFPC541724|
 |name|name|SparkFun-Connectors : FPC05040-17204|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

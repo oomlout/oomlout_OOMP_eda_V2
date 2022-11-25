@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSUFLTE1997631 > SparkFun-Connectors : U.FL-TE_1909763-1
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-U.FL-TE_1909763-1
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSUFLTE1997631|
 |name|name|SparkFun-Connectors : U.FL-TE_1909763-1|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

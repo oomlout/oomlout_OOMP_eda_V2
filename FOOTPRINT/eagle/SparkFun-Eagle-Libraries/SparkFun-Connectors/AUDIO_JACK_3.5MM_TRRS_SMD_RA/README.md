@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSAUDIOJ35TRRSSMRA > SparkFun-Connectors : AUDIO_JACK_3.5MM_TRRS_SMD_RA
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-AUDIO_JACK_3.5MM_TRRS_SMD_RA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSAUDIOJ35TRRSSMRA|
 |name|name|SparkFun-Connectors : AUDIO_JACK_3.5MM_TRRS_SMD_RA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUSOIC28 > SparkFun-IC-Microcontroller : SOIC-28
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-SOIC-28
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUSOIC28|
 |name|name|SparkFun-IC-Microcontroller : SOIC-28|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

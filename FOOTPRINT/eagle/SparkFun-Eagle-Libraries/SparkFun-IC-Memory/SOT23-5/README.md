@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIMSOT235 > SparkFun-IC-Memory : SOT23-5
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-SOT23-5
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIMSOT235|
 |name|name|SparkFun-IC-Memory : SOT23-5|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

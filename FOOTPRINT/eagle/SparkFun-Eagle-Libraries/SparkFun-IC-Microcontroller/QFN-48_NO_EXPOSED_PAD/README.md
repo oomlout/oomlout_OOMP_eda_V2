@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUQFN48NOEXPOSEDP > SparkFun-IC-Microcontroller : QFN-48_NO_EXPOSED_PAD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-QFN-48_NO_EXPOSED_PAD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUQFN48NOEXPOSEDP|
 |name|name|SparkFun-IC-Microcontroller : QFN-48_NO_EXPOSED_PAD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

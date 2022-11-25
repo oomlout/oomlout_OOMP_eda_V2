@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSASPARKPUNKL2 > SparkFun-Aesthetics : SPARKPUNK_LOGO_.2
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SPARKPUNK_LOGO_.2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSASPARKPUNKL2|
 |name|name|SparkFun-Aesthetics : SPARKPUNK_LOGO_.2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

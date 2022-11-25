@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSJST6SM125LING > SparkFun-Connectors : JST-6-SMD-1.25MM-LOCKING
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-6-SMD-1.25MM-LOCKING
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSJST6SM125LING|
 |name|name|SparkFun-Connectors : JST-6-SMD-1.25MM-LOCKING|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

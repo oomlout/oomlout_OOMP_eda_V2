@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSRPIHAT4PSMSTACKABLE > SparkFun-Connectors : RASPBERRY_PI_HAT_40_PIN_SMD_STACKABLE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RASPBERRY_PI_HAT_40_PIN_SMD_STACKABLE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSRPIHAT4PSMSTACKABLE|
 |name|name|SparkFun-Connectors : RASPBERRY_PI_HAT_40_PIN_SMD_STACKABLE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

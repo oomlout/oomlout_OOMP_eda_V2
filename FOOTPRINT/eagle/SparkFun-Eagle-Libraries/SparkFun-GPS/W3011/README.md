@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGW311 > SparkFun-GPS : W3011
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-W3011
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGW311|
 |name|name|SparkFun-GPS : W3011|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIL14QFN > SparkFun-IC-Logic : 14-QFN
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-14-QFN
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIL14QFN|
 |name|name|SparkFun-IC-Logic : 14-QFN|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

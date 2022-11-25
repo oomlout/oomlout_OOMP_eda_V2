@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSTLP3475SRHA > SparkFun-DiscreteSemi : TLP3475SRHA
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TLP3475SRHA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSTLP3475SRHA|
 |name|name|SparkFun-DiscreteSemi : TLP3475SRHA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

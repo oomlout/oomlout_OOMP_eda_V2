@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISFPC13 > SparkFun-Displays : FPC-13
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-FPC-13
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISFPC13|
 |name|name|SparkFun-Displays : FPC-13|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUBGA116 > SparkFun-IC-Microcontroller : BGA-116
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-BGA-116
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUBGA116|
 |name|name|SparkFun-IC-Microcontroller : BGA-116|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

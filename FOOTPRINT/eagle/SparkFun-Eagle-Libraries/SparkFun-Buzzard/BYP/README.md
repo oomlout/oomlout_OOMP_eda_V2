@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBUBYP > SparkFun-Buzzard : BYP
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-BYP
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBUBYP|
 |name|name|SparkFun-Buzzard : BYP|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

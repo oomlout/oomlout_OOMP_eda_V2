@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X6254SCP > SparkFun-Connectors : 1X06_2.54MM_SCREWPIN
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06_2.54MM_SCREWPIN
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X6254SCP|
 |name|name|SparkFun-Connectors : 1X06_2.54MM_SCREWPIN|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

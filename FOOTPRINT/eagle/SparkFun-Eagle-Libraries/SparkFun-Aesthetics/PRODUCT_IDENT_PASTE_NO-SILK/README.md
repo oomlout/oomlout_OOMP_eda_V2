@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAPRODUCTIDENTPASTENOSILK > SparkFun-Aesthetics : PRODUCT_IDENT_PASTE_NO-SILK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-PRODUCT_IDENT_PASTE_NO-SILK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAPRODUCTIDENTPASTENOSILK|
 |name|name|SparkFun-Aesthetics : PRODUCT_IDENT_PASTE_NO-SILK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

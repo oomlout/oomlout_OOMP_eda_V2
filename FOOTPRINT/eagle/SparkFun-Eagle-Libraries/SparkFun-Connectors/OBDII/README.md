@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSOBDII > SparkFun-Connectors : OBDII
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-OBDII
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSOBDII|
 |name|name|SparkFun-Connectors : OBDII|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

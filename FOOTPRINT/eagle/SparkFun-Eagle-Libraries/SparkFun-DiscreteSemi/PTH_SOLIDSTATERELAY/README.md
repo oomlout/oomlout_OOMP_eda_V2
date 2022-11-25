@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSPSOLIDSTATERELAY > SparkFun-DiscreteSemi : PTH_SOLIDSTATERELAY
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-PTH_SOLIDSTATERELAY
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSPSOLIDSTATERELAY|
 |name|name|SparkFun-DiscreteSemi : PTH_SOLIDSTATERELAY|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

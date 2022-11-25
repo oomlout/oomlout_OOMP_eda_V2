@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOARDR3 > SparkFun-Boards : ARDUINO_R3
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ARDUINO_R3
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOARDR3|
 |name|name|SparkFun-Boards : ARDUINO_R3|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

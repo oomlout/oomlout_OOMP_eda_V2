@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSTO22V > SparkFun-DiscreteSemi : TO220V
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TO220V
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSTO22V|
 |name|name|SparkFun-DiscreteSemi : TO220V|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

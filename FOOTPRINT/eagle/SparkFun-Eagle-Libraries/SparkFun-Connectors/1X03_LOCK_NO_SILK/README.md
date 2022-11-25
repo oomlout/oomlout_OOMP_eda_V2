@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X3LNOSILK > SparkFun-Connectors : 1X03_LOCK_NO_SILK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03_LOCK_NO_SILK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X3LNOSILK|
 |name|name|SparkFun-Connectors : 1X03_LOCK_NO_SILK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

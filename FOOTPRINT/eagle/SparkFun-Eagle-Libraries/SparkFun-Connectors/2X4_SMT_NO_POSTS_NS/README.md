@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS2X4SNOPOSTSNS > SparkFun-Connectors : 2X4_SMT_NO_POSTS_NS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X4_SMT_NO_POSTS_NS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS2X4SNOPOSTSNS|
 |name|name|SparkFun-Connectors : 2X4_SMT_NO_POSTS_NS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

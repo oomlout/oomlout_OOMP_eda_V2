@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSCIRCULARP > SparkFun-Connectors : CIRCULARPAD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-CIRCULARPAD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSCIRCULARP|
 |name|name|SparkFun-Connectors : CIRCULARPAD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

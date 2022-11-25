@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSICD16 > SparkFun-IC-Comms : DIP16
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-DIP16
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSICD16|
 |name|name|SparkFun-IC-Comms : DIP16|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISFPC541724 > SparkFun-Displays : FPC05040-17204
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-FPC05040-17204
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISFPC541724|
 |name|name|SparkFun-Displays : FPC05040-17204|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

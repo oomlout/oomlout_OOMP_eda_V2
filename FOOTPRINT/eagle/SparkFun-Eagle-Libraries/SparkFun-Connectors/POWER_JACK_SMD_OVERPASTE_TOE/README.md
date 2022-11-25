@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSPOWERJSMOVERPASTETOE > SparkFun-Connectors : POWER_JACK_SMD_OVERPASTE_TOE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_SMD_OVERPASTE_TOE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSPOWERJSMOVERPASTETOE|
 |name|name|SparkFun-Connectors : POWER_JACK_SMD_OVERPASTE_TOE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X8SMCOMBINEDNC > SparkFun-Connectors : 1X08_SMD_COMBINED_NC
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X08_SMD_COMBINED_NC
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X8SMCOMBINEDNC|
 |name|name|SparkFun-Connectors : 1X08_SMD_COMBINED_NC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

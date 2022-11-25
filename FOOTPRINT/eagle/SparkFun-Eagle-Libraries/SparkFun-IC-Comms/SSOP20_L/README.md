@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSICSS2L > SparkFun-IC-Comms : SSOP20_L
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SSOP20_L
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSICSS2L|
 |name|name|SparkFun-IC-Comms : SSOP20_L|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

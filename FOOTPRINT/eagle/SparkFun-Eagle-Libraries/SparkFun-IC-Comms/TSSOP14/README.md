@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSICTSS14 > SparkFun-IC-Comms : TSSOP14
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-TSSOP14
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSICTSS14|
 |name|name|SparkFun-IC-Comms : TSSOP14|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

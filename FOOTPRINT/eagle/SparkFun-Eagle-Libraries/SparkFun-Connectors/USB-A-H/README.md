@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSUAH > SparkFun-Connectors : USB-A-H
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-H
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSUAH|
 |name|name|SparkFun-Connectors : USB-A-H|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

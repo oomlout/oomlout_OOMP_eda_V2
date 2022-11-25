@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSJST2SM > SparkFun-Connectors : JST-2-SMD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-2-SMD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSJST2SM|
 |name|name|SparkFun-Connectors : JST-2-SMD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

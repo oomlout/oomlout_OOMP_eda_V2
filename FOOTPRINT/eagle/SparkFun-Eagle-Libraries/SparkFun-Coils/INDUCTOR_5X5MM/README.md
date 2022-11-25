@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCOIN5X5 > SparkFun-Coils : INDUCTOR_5X5MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_5X5MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCOIN5X5|
 |name|name|SparkFun-Coils : INDUCTOR_5X5MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

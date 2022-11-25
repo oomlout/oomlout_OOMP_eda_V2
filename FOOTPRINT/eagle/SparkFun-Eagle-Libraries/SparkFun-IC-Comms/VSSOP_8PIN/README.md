@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSICVSS8P > SparkFun-IC-Comms : VSSOP_8PIN
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-VSSOP_8PIN
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSICVSS8P|
 |name|name|SparkFun-IC-Comms : VSSOP_8PIN|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

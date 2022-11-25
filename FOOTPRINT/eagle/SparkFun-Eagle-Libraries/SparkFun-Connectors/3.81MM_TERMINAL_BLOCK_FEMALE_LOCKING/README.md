@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS381TBLFLING > SparkFun-Connectors : 3.81MM_TERMINAL_BLOCK_FEMALE_LOCKING
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-3.81MM_TERMINAL_BLOCK_FEMALE_LOCKING
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS381TBLFLING|
 |name|name|SparkFun-Connectors : 3.81MM_TERMINAL_BLOCK_FEMALE_LOCKING|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

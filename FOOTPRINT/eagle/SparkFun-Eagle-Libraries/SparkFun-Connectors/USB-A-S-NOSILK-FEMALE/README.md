@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSUASNOSILKF > SparkFun-Connectors : USB-A-S-NOSILK-FEMALE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-A-S-NOSILK-FEMALE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSUASNOSILKF|
 |name|name|SparkFun-Connectors : USB-A-S-NOSILK-FEMALE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

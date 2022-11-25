@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X1PPH61DIA > SparkFun-Connectors : 1X01_POGOPIN_HOLE_0.061_DIA
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_POGOPIN_HOLE_0.061_DIA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X1PPH61DIA|
 |name|name|SparkFun-Connectors : 1X01_POGOPIN_HOLE_0.061_DIA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

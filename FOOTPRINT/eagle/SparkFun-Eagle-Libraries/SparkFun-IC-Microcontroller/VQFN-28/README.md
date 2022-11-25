@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUVQFN28 > SparkFun-IC-Microcontroller : VQFN-28
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-VQFN-28
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUVQFN28|
 |name|name|SparkFun-IC-Microcontroller : VQFN-28|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUD28SIMONK > SparkFun-IC-Microcontroller : DIP28-SIMON-KIT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-DIP28-SIMON-KIT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUD28SIMONK|
 |name|name|SparkFun-IC-Microcontroller : DIP28-SIMON-KIT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

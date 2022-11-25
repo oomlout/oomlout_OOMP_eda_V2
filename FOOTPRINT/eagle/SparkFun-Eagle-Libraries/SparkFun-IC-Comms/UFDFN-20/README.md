@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSICUFDFN2 > SparkFun-IC-Comms : UFDFN-20
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-UFDFN-20
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSICUFDFN2|
 |name|name|SparkFun-IC-Comms : UFDFN-20|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSSOLDERP2 > SparkFun-Connectors : SOLDER_PAD_2
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SOLDER_PAD_2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSSOLDERP2|
 |name|name|SparkFun-Connectors : SOLDER_PAD_2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

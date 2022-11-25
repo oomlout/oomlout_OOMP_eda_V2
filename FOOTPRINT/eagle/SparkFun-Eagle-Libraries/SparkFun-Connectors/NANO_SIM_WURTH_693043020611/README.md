@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSNANOSIMWURTH693432611 > SparkFun-Connectors : NANO_SIM_WURTH_693043020611
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-NANO_SIM_WURTH_693043020611
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSNANOSIMWURTH693432611|
 |name|name|SparkFun-Connectors : NANO_SIM_WURTH_693043020611|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

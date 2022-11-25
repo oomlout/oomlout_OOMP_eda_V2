@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAOSHWLM > SparkFun-Aesthetics : OSHW-LOGO-M
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-OSHW-LOGO-M
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAOSHWLM|
 |name|name|SparkFun-Aesthetics : OSHW-LOGO-M|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

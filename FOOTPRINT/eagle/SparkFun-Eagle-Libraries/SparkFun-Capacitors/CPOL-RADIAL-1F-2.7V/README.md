@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCCPOLR1F27V > SparkFun-Capacitors : CPOL-RADIAL-1F-2.7V
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CPOL-RADIAL-1F-2.7V
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCCPOLR1F27V|
 |name|name|SparkFun-Capacitors : CPOL-RADIAL-1F-2.7V|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

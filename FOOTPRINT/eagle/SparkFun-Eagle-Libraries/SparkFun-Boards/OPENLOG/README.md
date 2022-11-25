@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOOPENLOG > SparkFun-Boards : OPENLOG
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-OPENLOG
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOOPENLOG|
 |name|name|SparkFun-Boards : OPENLOG|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

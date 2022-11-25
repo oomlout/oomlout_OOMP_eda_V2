@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLRSM74X34 > SparkFun-Clocks : RESONATOR-SMD-7.4X3.4
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-SMD-7.4X3.4
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLRSM74X34|
 |name|name|SparkFun-Clocks : RESONATOR-SMD-7.4X3.4|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

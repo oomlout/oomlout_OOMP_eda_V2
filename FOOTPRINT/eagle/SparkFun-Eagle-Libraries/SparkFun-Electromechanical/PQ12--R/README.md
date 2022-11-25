@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSEPQ12R > SparkFun-Electromechanical : PQ12--R
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-PQ12--R
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSEPQ12R|
 |name|name|SparkFun-Electromechanical : PQ12--R|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

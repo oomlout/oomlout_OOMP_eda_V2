@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOPROMC > SparkFun-Boards : PRO_MICRO_C
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-PRO_MICRO_C
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOPROMC|
 |name|name|SparkFun-Boards : PRO_MICRO_C|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

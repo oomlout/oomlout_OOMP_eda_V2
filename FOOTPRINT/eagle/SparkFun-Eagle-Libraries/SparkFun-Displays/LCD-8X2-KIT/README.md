@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISLCD8X2K > SparkFun-Displays : LCD-8X2-KIT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-LCD-8X2-KIT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISLCD8X2K|
 |name|name|SparkFun-Displays : LCD-8X2-KIT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

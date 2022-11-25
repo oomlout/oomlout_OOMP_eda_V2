@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS2X5PSILK5 > SparkFun-Connectors : 2X5_PTH_SILK_.05
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-2X5_PTH_SILK_.05
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS2X5PSILK5|
 |name|name|SparkFun-Connectors : 2X5_PTH_SILK_.05|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

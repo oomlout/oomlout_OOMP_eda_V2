@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X4O > SparkFun-Connectors : 1X40_OFFSET
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X40_OFFSET
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X4O|
 |name|name|SparkFun-Connectors : 1X40_OFFSET|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

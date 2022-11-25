@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCCAPPSLLK > SparkFun-Capacitors : CAP-PTH-SMALL-KIT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CAP-PTH-SMALL-KIT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCCAPPSLLK|
 |name|name|SparkFun-Capacitors : CAP-PTH-SMALL-KIT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

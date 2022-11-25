@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X61 > SparkFun-Connectors : 1X06-1MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X06-1MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X61|
 |name|name|SparkFun-Connectors : 1X06-1MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCOSRN645 > SparkFun-Coils : SRN6045
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-SRN6045
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCOSRN645|
 |name|name|SparkFun-Coils : SRN6045|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

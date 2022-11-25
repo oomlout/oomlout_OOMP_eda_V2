@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOMSDCARD > SparkFun-Boards : MICRO-SDCARD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-MICRO-SDCARD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOMSDCARD|
 |name|name|SparkFun-Boards : MICRO-SDCARD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

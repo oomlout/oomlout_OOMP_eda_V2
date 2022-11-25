@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCOIN22UH > SparkFun-Coils : INDUCTOR_2.2UH
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_2.2UH
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCOIN22UH|
 |name|name|SparkFun-Coils : INDUCTOR_2.2UH|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

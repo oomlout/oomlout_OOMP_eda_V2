@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSRPIHAT4PPWITHREFERNCE > SparkFun-Connectors : RASPBERRY_PI_HAT_40_PIN_PTH_WITH_REFERNCE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-RASPBERRY_PI_HAT_40_PIN_PTH_WITH_REFERNCE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSRPIHAT4PPWITHREFERNCE|
 |name|name|SparkFun-Connectors : RASPBERRY_PI_HAT_40_PIN_PTH_WITH_REFERNCE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

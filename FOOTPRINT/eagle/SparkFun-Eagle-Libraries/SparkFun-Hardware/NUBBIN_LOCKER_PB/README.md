@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSHNUBBINLERPB > SparkFun-Hardware : NUBBIN_LOCKER_PB
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-NUBBIN_LOCKER_PB
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSHNUBBINLERPB|
 |name|name|SparkFun-Hardware : NUBBIN_LOCKER_PB|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

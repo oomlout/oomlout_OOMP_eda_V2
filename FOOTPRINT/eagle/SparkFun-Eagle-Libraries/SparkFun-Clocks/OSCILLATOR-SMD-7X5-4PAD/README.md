@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLOCSSM7X54P > SparkFun-Clocks : OSCILLATOR-SMD-7X5-4PAD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-OSCILLATOR-SMD-7X5-4PAD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLOCSSM7X54P|
 |name|name|SparkFun-Clocks : OSCILLATOR-SMD-7X5-4PAD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSATX24RANGLE > SparkFun-Connectors : ATX24_RIGHT_ANGLE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-ATX24_RIGHT_ANGLE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSATX24RANGLE|
 |name|name|SparkFun-Connectors : ATX24_RIGHT_ANGLE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

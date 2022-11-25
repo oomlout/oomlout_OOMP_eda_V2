@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSASRTBASICL > SparkFun-Aesthetics : SMART_BASIC_LOGO
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SMART_BASIC_LOGO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSASRTBASICL|
 |name|name|SparkFun-Aesthetics : SMART_BASIC_LOGO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

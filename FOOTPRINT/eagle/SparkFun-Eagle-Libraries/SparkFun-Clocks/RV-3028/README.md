@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLRV328 > SparkFun-Clocks : RV-3028
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RV-3028
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLRV328|
 |name|name|SparkFun-Clocks : RV-3028|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

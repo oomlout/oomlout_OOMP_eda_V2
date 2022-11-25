@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUATTINY85 > SparkFun-IC-Microcontroller : ATTINY85
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-ATTINY85
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUATTINY85|
 |name|name|SparkFun-IC-Microcontroller : ATTINY85|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

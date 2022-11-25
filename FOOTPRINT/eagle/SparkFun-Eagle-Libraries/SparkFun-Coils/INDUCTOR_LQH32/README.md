@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCOINLQH32 > SparkFun-Coils : INDUCTOR_LQH32
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_LQH32
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCOINLQH32|
 |name|name|SparkFun-Coils : INDUCTOR_LQH32|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

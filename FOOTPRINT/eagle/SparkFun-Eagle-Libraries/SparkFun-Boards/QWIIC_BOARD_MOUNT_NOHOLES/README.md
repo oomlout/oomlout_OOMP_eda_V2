@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOQWIICBOARDMNOH > SparkFun-Boards : QWIIC_BOARD_MOUNT_NOHOLES
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-QWIIC_BOARD_MOUNT_NOHOLES
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOQWIICBOARDMNOH|
 |name|name|SparkFun-Boards : QWIIC_BOARD_MOUNT_NOHOLES|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

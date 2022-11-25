@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOOPENLOGFLIPPED > SparkFun-Boards : OPENLOG_FLIPPED
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-OPENLOG_FLIPPED
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOOPENLOGFLIPPED|
 |name|name|SparkFun-Boards : OPENLOG_FLIPPED|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

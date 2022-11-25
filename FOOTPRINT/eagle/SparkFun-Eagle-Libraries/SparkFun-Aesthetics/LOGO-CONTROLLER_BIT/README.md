@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSALCONTROLLERBIT > SparkFun-Aesthetics : LOGO-CONTROLLER_BIT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-LOGO-CONTROLLER_BIT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSALCONTROLLERBIT|
 |name|name|SparkFun-Aesthetics : LOGO-CONTROLLER_BIT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

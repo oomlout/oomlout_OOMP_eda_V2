@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSARPIHATSPECIFICATION > SparkFun-Aesthetics : RASP_PI_HAT_SPECIFICATION
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-RASP_PI_HAT_SPECIFICATION
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSARPIHATSPECIFICATION|
 |name|name|SparkFun-Aesthetics : RASP_PI_HAT_SPECIFICATION|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

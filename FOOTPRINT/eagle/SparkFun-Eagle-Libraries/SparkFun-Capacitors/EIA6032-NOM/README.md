@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCEIA632NOM > SparkFun-Capacitors : EIA6032-NOM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA6032-NOM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCEIA632NOM|
 |name|name|SparkFun-Capacitors : EIA6032-NOM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

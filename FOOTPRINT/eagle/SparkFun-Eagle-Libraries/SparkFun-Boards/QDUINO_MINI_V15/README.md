@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOQDUINOMV15 > SparkFun-Boards : QDUINO_MINI_V15
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-QDUINO_MINI_V15
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOQDUINOMV15|
 |name|name|SparkFun-Boards : QDUINO_MINI_V15|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSC63 > SparkFun-Capacitors : 0603
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0603
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSC63|
 |name|name|SparkFun-Capacitors : 0603|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

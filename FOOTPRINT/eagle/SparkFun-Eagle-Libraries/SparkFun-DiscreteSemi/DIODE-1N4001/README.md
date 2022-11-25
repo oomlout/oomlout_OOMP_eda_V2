@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSDIODE1N41 > SparkFun-DiscreteSemi : DIODE-1N4001
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIODE-1N4001
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSDIODE1N41|
 |name|name|SparkFun-DiscreteSemi : DIODE-1N4001|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

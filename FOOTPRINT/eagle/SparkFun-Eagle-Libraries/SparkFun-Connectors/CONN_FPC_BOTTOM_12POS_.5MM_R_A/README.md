@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSCFPCB12POS5RA > SparkFun-Connectors : CONN_FPC_BOTTOM_12POS_.5MM_R_A
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-CONN_FPC_BOTTOM_12POS_.5MM_R_A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSCFPCB12POS5RA|
 |name|name|SparkFun-Connectors : CONN_FPC_BOTTOM_12POS_.5MM_R_A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

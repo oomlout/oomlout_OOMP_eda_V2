@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSUFLREDUCEDFOOTPRINT > SparkFun-Connectors : U.FL_REDUCED_FOOTPRINT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-U.FL_REDUCED_FOOTPRINT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSUFLREDUCEDFOOTPRINT|
 |name|name|SparkFun-Connectors : U.FL_REDUCED_FOOTPRINT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

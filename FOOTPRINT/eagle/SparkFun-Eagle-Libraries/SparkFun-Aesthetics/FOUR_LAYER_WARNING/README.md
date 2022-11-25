@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAFOURLAYERWARNING > SparkFun-Aesthetics : FOUR_LAYER_WARNING
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FOUR_LAYER_WARNING
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAFOURLAYERWARNING|
 |name|name|SparkFun-Aesthetics : FOUR_LAYER_WARNING|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

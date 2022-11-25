@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOUNOR3SH > SparkFun-Boards : UNO_R3_SHIELD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-UNO_R3_SHIELD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOUNOR3SH|
 |name|name|SparkFun-Boards : UNO_R3_SHIELD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

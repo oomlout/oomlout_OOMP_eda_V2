@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGMLOEXGNSSMOLDED > SparkFun-GPS : MLOEX_GNSS_MOLDED
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-MLOEX_GNSS_MOLDED
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGMLOEXGNSSMOLDED|
 |name|name|SparkFun-GPS : MLOEX_GNSS_MOLDED|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

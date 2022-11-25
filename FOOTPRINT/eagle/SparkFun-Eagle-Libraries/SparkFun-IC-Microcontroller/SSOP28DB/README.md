@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUSS28DB > SparkFun-IC-Microcontroller : SSOP28DB
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-SSOP28DB
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUSS28DB|
 |name|name|SparkFun-IC-Microcontroller : SSOP28DB|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

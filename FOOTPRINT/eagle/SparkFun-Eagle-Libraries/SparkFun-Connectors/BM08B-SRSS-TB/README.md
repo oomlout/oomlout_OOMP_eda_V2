@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSBM8BSRSSTB > SparkFun-Connectors : BM08B-SRSS-TB
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BM08B-SRSS-TB
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSBM8BSRSSTB|
 |name|name|SparkFun-Connectors : BM08B-SRSS-TB|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

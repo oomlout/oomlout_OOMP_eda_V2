@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X13L > SparkFun-Connectors : 1X13-LONGPADS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X13-LONGPADS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X13L|
 |name|name|SparkFun-Connectors : 1X13-LONGPADS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

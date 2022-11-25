@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUTQFP64 > SparkFun-IC-Microcontroller : TQFP64
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-TQFP64
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUTQFP64|
 |name|name|SparkFun-IC-Microcontroller : TQFP64|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

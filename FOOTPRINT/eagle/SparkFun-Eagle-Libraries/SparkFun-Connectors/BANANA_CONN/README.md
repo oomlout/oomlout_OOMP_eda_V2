@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSBANANAC > SparkFun-Connectors : BANANA_CONN
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BANANA_CONN
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSBANANAC|
 |name|name|SparkFun-Connectors : BANANA_CONN|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

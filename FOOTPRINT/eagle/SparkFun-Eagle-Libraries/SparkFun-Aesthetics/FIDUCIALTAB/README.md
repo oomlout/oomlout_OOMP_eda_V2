@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAFIDTAB > SparkFun-Aesthetics : FIDUCIALTAB
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIDUCIALTAB
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAFIDTAB|
 |name|name|SparkFun-Aesthetics : FIDUCIALTAB|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

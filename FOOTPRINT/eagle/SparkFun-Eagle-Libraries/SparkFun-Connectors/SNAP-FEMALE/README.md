@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSSNAPF > SparkFun-Connectors : SNAP-FEMALE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SNAP-FEMALE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSSNAPF|
 |name|name|SparkFun-Connectors : SNAP-FEMALE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

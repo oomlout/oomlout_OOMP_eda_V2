@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIAD8K > SparkFun-IC-Amplifiers : DIP08-KIT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Amplifiers-DIP08-KIT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIAD8K|
 |name|name|SparkFun-IC-Amplifiers : DIP08-KIT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

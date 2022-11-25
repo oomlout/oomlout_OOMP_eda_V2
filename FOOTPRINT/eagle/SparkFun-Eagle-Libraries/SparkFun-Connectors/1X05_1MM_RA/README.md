@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X51RA > SparkFun-Connectors : 1X05_1MM_RA
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X05_1MM_RA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X51RA|
 |name|name|SparkFun-Connectors : 1X05_1MM_RA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

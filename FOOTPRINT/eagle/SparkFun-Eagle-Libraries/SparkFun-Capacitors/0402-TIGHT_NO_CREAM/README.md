@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSC42TNC > SparkFun-Capacitors : 0402-TIGHT_NO_CREAM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0402-TIGHT_NO_CREAM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSC42TNC|
 |name|name|SparkFun-Capacitors : 0402-TIGHT_NO_CREAM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLXSMMC146 > SparkFun-Clocks : CRYSTAL-SMD-MC-146
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-MC-146
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLXSMMC146|
 |name|name|SparkFun-Clocks : CRYSTAL-SMD-MC-146|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

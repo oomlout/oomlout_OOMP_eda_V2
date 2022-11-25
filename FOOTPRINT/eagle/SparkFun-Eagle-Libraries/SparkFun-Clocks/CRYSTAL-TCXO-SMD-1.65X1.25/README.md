@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCLXTCXOSM165X125 > SparkFun-Clocks : CRYSTAL-TCXO-SMD-1.65X1.25
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-TCXO-SMD-1.65X1.25
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCLXTCXOSM165X125|
 |name|name|SparkFun-Clocks : CRYSTAL-TCXO-SMD-1.65X1.25|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

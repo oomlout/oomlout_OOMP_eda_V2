@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSAUDIOJ25&QUOT;TRSPRA > SparkFun-Connectors : AUDIO_JACK_0.25&quot;_TRS_PTH_RA
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-AUDIO_JACK_0.25&quot;_TRS_PTH_RA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSAUDIOJ25&QUOT;TRSPRA|
 |name|name|SparkFun-Connectors : AUDIO_JACK_0.25&quot;_TRS_PTH_RA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

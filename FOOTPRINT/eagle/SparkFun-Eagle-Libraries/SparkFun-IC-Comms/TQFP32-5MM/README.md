@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSICTQFP325 > SparkFun-IC-Comms : TQFP32-5MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-TQFP32-5MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSICTQFP325|
 |name|name|SparkFun-IC-Comms : TQFP32-5MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUSS2 > SparkFun-IC-Microcontroller : SSOP20
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-SSOP20
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUSS2|
 |name|name|SparkFun-IC-Microcontroller : SSOP20|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

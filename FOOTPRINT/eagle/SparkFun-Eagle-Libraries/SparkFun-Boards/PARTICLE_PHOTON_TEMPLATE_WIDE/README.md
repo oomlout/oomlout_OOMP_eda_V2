@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOPARTICLEPHOTONTEMPLATEWIDE > SparkFun-Boards : PARTICLE_PHOTON_TEMPLATE_WIDE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-PARTICLE_PHOTON_TEMPLATE_WIDE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOPARTICLEPHOTONTEMPLATEWIDE|
 |name|name|SparkFun-Boards : PARTICLE_PHOTON_TEMPLATE_WIDE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

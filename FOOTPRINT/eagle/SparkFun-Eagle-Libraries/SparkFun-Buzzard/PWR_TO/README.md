@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBUPWRTO > SparkFun-Buzzard : PWR_TO
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-PWR_TO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBUPWRTO|
 |name|name|SparkFun-Buzzard : PWR_TO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

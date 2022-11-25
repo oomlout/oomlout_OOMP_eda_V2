@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSUBFP > SparkFun-Connectors : USB_B_VERTICAL_PTH
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB_B_VERTICAL_PTH
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSUBFP|
 |name|name|SparkFun-Connectors : USB_B_VERTICAL_PTH|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

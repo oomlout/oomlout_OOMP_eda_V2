@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSILLCC2 > SparkFun-IC-Logic : LCC20
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Logic-LCC20
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSILLCC2|
 |name|name|SparkFun-IC-Logic : LCC20|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

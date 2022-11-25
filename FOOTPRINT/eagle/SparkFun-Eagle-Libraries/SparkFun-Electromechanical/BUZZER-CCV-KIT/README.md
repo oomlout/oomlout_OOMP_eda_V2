@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSEBUZZERCCVK > SparkFun-Electromechanical : BUZZER-CCV-KIT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-BUZZER-CCV-KIT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSEBUZZERCCVK|
 |name|name|SparkFun-Electromechanical : BUZZER-CCV-KIT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

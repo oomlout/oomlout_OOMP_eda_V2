@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X16SMSQNOSILK > SparkFun-Connectors : 1X16_SM_SQ_NOSILK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X16_SM_SQ_NOSILK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X16SMSQNOSILK|
 |name|name|SparkFun-Connectors : 1X16_SM_SQ_NOSILK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSPOWERJPSLOTNOOVRHNGSILK > SparkFun-Connectors : POWER_JACK_PTH_SLOT_NO_OVRHNG_SILK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-POWER_JACK_PTH_SLOT_NO_OVRHNG_SILK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSPOWERJPSLOTNOOVRHNGSILK|
 |name|name|SparkFun-Connectors : POWER_JACK_PTH_SLOT_NO_OVRHNG_SILK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

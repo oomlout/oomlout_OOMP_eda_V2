@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGTEPUCK > SparkFun-GPS : TE_PUCK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-TE_PUCK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGTEPUCK|
 |name|name|SparkFun-GPS : TE_PUCK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

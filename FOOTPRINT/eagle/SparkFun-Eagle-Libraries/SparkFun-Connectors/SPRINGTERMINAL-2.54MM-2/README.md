@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSSPT2542 > SparkFun-Connectors : SPRINGTERMINAL-2.54MM-2
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-SPRINGTERMINAL-2.54MM-2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSSPT2542|
 |name|name|SparkFun-Connectors : SPRINGTERMINAL-2.54MM-2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

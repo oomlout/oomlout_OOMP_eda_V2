@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSBC9VPCK > SparkFun-Connectors : BC9VPC_KIT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-BC9VPC_KIT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSBC9VPCK|
 |name|name|SparkFun-Connectors : BC9VPC_KIT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

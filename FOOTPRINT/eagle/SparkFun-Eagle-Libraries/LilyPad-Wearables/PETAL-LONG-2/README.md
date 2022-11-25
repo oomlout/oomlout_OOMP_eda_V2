@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSLWPL2 > LilyPad-Wearables : PETAL-LONG-2
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-PETAL-LONG-2
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSLWPL2|
 |name|name|LilyPad-Wearables : PETAL-LONG-2|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

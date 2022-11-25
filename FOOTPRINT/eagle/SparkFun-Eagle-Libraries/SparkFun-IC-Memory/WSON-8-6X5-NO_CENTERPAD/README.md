@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIMWSON86X5NOCENTERP > SparkFun-IC-Memory : WSON-8-6X5-NO_CENTERPAD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-WSON-8-6X5-NO_CENTERPAD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIMWSON86X5NOCENTERP|
 |name|name|SparkFun-IC-Memory : WSON-8-6X5-NO_CENTERPAD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

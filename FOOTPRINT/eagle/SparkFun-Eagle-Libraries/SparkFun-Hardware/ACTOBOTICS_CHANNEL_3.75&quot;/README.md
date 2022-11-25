@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSHACTOBOTICSCHANNEL375&QUOT; > SparkFun-Hardware : ACTOBOTICS_CHANNEL_3.75&quot;
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-ACTOBOTICS_CHANNEL_3.75&quot;
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSHACTOBOTICSCHANNEL375&QUOT;|
 |name|name|SparkFun-Hardware : ACTOBOTICS_CHANNEL_3.75&quot;|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

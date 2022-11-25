@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSARIRP24L65 > SparkFun-Aesthetics : RASPI_RP2040_LOGO_6_5MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-RASPI_RP2040_LOGO_6_5MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSARIRP24L65|
 |name|name|SparkFun-Aesthetics : RASPI_RP2040_LOGO_6_5MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

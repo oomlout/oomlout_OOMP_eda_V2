@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIV16SOIC > SparkFun-IC-Conversion : 16SOIC
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Conversion-16SOIC
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIV16SOIC|
 |name|name|SparkFun-IC-Conversion : 16SOIC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

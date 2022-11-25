@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBUVINTO5 > SparkFun-Buzzard : VIN_TO_50
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-VIN_TO_50
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBUVINTO5|
 |name|name|SparkFun-Buzzard : VIN_TO_50|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

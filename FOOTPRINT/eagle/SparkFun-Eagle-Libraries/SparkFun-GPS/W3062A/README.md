@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSGW362A > SparkFun-GPS : W3062A
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-W3062A
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSGW362A|
 |name|name|SparkFun-GPS : W3062A|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

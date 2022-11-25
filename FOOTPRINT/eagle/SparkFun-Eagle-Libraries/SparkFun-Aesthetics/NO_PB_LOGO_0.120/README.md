@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSANOPBL12 > SparkFun-Aesthetics : NO_PB_LOGO_0.120
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-NO_PB_LOGO_0.120
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSANOPBL12|
 |name|name|SparkFun-Aesthetics : NO_PB_LOGO_0.120|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

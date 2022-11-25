@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSMSDTINY > SparkFun-Connectors : MICROSD_TINY
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MICROSD_TINY
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSMSDTINY|
 |name|name|SparkFun-Connectors : MICROSD_TINY|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

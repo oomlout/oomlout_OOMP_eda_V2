@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSAUDIOJ35SM > SparkFun-Connectors : AUDIO-JACK-3.5MM-SMD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-AUDIO-JACK-3.5MM-SMD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSAUDIOJ35SM|
 |name|name|SparkFun-Connectors : AUDIO-JACK-3.5MM-SMD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

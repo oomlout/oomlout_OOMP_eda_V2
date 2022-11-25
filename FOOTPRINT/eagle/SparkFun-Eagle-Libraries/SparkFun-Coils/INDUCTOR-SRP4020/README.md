@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCOINSRP42 > SparkFun-Coils : INDUCTOR-SRP4020
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR-SRP4020
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCOINSRP42|
 |name|name|SparkFun-Coils : INDUCTOR-SRP4020|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

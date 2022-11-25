@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBU!INTI > SparkFun-Buzzard : !INT_I
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-!INT_I
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBU!INTI|
 |name|name|SparkFun-Buzzard : !INT_I|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

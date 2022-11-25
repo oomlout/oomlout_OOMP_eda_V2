@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSFTDIBASIC > SparkFun-Connectors : FTDI_BASIC
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-FTDI_BASIC
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSFTDIBASIC|
 |name|name|SparkFun-Connectors : FTDI_BASIC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

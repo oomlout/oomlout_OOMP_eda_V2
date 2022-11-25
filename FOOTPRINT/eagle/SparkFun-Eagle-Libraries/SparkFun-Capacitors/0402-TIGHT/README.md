@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSC42T > SparkFun-Capacitors : 0402-TIGHT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0402-TIGHT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSC42T|
 |name|name|SparkFun-Capacitors : 0402-TIGHT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

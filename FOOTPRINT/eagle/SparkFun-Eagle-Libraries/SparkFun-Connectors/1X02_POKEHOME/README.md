@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X2POKEHOME > SparkFun-Connectors : 1X02_POKEHOME
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_POKEHOME
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X2POKEHOME|
 |name|name|SparkFun-Connectors : 1X02_POKEHOME|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

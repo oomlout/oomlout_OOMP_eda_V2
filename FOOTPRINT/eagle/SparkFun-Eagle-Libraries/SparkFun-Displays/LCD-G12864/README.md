@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISLCDG12864 > SparkFun-Displays : LCD-G12864
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-LCD-G12864
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISLCDG12864|
 |name|name|SparkFun-Displays : LCD-G12864|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

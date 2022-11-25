@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X1THINNOSILK > SparkFun-Connectors : 1X01_THIN_NO-SILK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X01_THIN_NO-SILK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X1THINNOSILK|
 |name|name|SparkFun-Connectors : 1X01_THIN_NO-SILK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

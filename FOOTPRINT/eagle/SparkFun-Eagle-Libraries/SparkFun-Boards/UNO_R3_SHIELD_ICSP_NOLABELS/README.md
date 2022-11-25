@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOUNOR3SHICSPNOLABELS > SparkFun-Boards : UNO_R3_SHIELD_ICSP_NOLABELS
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-UNO_R3_SHIELD_ICSP_NOLABELS
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOUNOR3SHICSPNOLABELS|
 |name|name|SparkFun-Boards : UNO_R3_SHIELD_ICSP_NOLABELS|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

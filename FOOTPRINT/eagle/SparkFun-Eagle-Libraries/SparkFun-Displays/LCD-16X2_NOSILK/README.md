@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNDISLCD16X2NOSILK > SparkFun-Displays : LCD-16X2_NOSILK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-LCD-16X2_NOSILK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNDISLCD16X2NOSILK|
 |name|name|SparkFun-Displays : LCD-16X2_NOSILK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

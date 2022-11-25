@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOFDREDENCLOSUREDENSION > SparkFun-Boards : FLANGED_RED_ENCLOSURE-DIMENSION
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-FLANGED_RED_ENCLOSURE-DIMENSION
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOFDREDENCLOSUREDENSION|
 |name|name|SparkFun-Boards : FLANGED_RED_ENCLOSURE-DIMENSION|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

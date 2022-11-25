@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIUMLF32 > SparkFun-IC-Microcontroller : MLF32
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-MLF32
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIUMLF32|
 |name|name|SparkFun-IC-Microcontroller : MLF32|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

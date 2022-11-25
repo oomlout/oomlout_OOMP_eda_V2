@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCO63M > SparkFun-Coils : 0603_MURATA
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0603_MURATA
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCO63M|
 |name|name|SparkFun-Coils : 0603_MURATA|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

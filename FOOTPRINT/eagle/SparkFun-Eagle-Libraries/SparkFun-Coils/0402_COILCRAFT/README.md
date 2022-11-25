@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCO42COILCRAFT > SparkFun-Coils : 0402_COILCRAFT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-0402_COILCRAFT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCO42COILCRAFT|
 |name|name|SparkFun-Coils : 0402_COILCRAFT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

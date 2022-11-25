@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X3SMRAMALEPOST > SparkFun-Connectors : 1X03_SMD_RA_MALE_POST
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X03_SMD_RA_MALE_POST
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X3SMRAMALEPOST|
 |name|name|SparkFun-Connectors : 1X03_SMD_RA_MALE_POST|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

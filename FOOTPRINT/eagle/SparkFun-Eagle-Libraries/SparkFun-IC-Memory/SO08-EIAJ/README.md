@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSIMSO8EIAJ > SparkFun-IC-Memory : SO08-EIAJ
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Memory-SO08-EIAJ
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSIMSO8EIAJ|
 |name|name|SparkFun-IC-Memory : SO08-EIAJ|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

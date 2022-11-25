@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSAPOLARITYMARKCENTERPOSITIVE#JPG > SparkFun-Aesthetics : POLARITY_MARKING_CENTER_POSITIVE#JPG
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-POLARITY_MARKING_CENTER_POSITIVE#JPG
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSAPOLARITYMARKCENTERPOSITIVE#JPG|
 |name|name|SparkFun-Aesthetics : POLARITY_MARKING_CENTER_POSITIVE#JPG|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

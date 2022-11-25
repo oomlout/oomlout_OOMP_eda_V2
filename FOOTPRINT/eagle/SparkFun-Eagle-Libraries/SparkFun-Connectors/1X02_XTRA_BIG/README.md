@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNS1X2XTRABIG > SparkFun-Connectors : 1X02_XTRA_BIG
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-1X02_XTRA_BIG
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNS1X2XTRABIG|
 |name|name|SparkFun-Connectors : 1X02_XTRA_BIG|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSMX1X4 > SparkFun-Connectors : MOLEX-1X4
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-MOLEX-1X4
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSMX1X4|
 |name|name|SparkFun-Connectors : MOLEX-1X4|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSC42 > SparkFun-Capacitors : 0402
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0402
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSC42|
 |name|name|SparkFun-Capacitors : 0402|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

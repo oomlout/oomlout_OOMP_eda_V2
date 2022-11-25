@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSJST3PVERT > SparkFun-Connectors : JST-3-PTH-VERT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-3-PTH-VERT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSJST3PVERT|
 |name|name|SparkFun-Connectors : JST-3-PTH-VERT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

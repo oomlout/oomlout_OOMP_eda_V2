@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSJST41RASTRESSRELIEF > SparkFun-Connectors : JST04_1MM_RA_STRESSRELIEF
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST04_1MM_RA_STRESSRELIEF
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSJST41RASTRESSRELIEF|
 |name|name|SparkFun-Connectors : JST04_1MM_RA_STRESSRELIEF|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

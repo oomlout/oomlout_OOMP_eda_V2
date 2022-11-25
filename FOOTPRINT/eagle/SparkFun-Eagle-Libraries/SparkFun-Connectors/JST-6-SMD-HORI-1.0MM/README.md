@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSJST6SMHORI1 > SparkFun-Connectors : JST-6-SMD-HORI-1.0MM
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-JST-6-SMD-HORI-1.0MM
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSJST6SMHORI1|
 |name|name|SparkFun-Connectors : JST-6-SMD-HORI-1.0MM|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

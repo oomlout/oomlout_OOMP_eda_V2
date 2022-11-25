@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBUSTAT > SparkFun-Buzzard : STAT
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-STAT
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBUSTAT|
 |name|name|SparkFun-Buzzard : STAT|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

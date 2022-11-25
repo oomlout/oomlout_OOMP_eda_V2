@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOATLASBNC > SparkFun-Boards : ATLAS_BNC
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ATLAS_BNC
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOATLASBNC|
 |name|name|SparkFun-Boards : ATLAS_BNC|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

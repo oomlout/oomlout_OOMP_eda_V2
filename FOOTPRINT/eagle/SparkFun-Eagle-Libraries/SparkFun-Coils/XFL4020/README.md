@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSCOXFL42 > SparkFun-Coils : XFL4020
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-XFL4020
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSCOXFL42|
 |name|name|SparkFun-Coils : XFL4020|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

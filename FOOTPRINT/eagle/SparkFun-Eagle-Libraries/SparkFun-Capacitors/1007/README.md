@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSC17 > SparkFun-Capacitors : 1007
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-1007
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSC17|
 |name|name|SparkFun-Capacitors : 1007|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

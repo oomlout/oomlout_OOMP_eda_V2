@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSXLR3F > SparkFun-Connectors : XLR-3_FEMALE
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-XLR-3_FEMALE
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSXLR3F|
 |name|name|SparkFun-Connectors : XLR-3_FEMALE|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

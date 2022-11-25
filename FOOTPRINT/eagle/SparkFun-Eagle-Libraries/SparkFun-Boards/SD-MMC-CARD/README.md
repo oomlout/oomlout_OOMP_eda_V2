@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBOSDCCARD > SparkFun-Boards : SD-MMC-CARD
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SD-MMC-CARD
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBOSDCCARD|
 |name|name|SparkFun-Boards : SD-MMC-CARD|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

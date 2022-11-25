@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSERELAYT9 > SparkFun-Electromechanical : RELAY-T90
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-RELAY-T90
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSERELAYT9|
 |name|name|SparkFun-Electromechanical : RELAY-T90|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

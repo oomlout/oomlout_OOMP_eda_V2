@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSBULIPOTO > SparkFun-Buzzard : LIPO_TO
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-LIPO_TO
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSBULIPOTO|
 |name|name|SparkFun-Buzzard : LIPO_TO|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

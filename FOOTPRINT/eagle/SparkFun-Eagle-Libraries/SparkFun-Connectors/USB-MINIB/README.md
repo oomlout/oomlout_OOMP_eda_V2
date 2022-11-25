@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSSPARKFUNCNSUMB > SparkFun-Connectors : USB-MINIB
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-USB-MINIB
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSSPARKFUNCNSUMB|
 |name|name|SparkFun-Connectors : USB-MINIB|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

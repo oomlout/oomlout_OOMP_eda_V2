@@ -9,7 +9,7 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # FZSDSTO252DPAK > SparkFun-DiscreteSemi : TO-252_DPAK
 
 - ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-TO-252_DPAK
@@ -41,3 +41,7 @@ NO IMAGE
 |Hex ID (short code)|hexID|FZSDSTO252DPAK|
 |name|name|SparkFun-DiscreteSemi : TO-252_DPAK|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png
