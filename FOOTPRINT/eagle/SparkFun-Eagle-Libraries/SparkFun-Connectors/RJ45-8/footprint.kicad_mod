@@ -1,7 +1,7 @@
 (footprint "RJ45-8" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>RJ45 Socket with PCB Mounting Posts</h3>\n<p>Specifications:\n<ul><li>Pin count:8</li>\n</ul></p>\n<p><a href=”https://cdn.sparkfun.com/datasheets/Prototyping/04908.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>RJ45-8</li>\n</ul></p>")
+  (descr "<h3>RJ45 Socket with PCB Mounting Posts</h3>\n<p>Specifications:\n<ul><li>Pin count:8</li>\n</ul></p>\n<p><a href="https://cdn.sparkfun.com/datasheets/Prototyping/04908.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>RJ45-8</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -1.3208 6.477) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 5b134ba8-7bee-4ea0-a300-8a724c12be8d)

@@ -1,7 +1,7 @@
 (footprint "2X5-SHROUDED_SMD" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>Surface Mount - 2x5 Shrouded Header</h3>\n<p>Specifications:\n<ul><li>Pin count:10</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p><a href=”https://www.sparkfun.com/datasheets/Prototyping/Shrouded-10pin.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_05x2</li>\n</ul></p>")
+  (descr "<h3>Surface Mount - 2x5 Shrouded Header</h3>\n<p>Specifications:\n<ul><li>Pin count:10</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p><a href="https://www.sparkfun.com/datasheets/Prototyping/Shrouded-10pin.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_05x2</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -4.445 -10.287) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 3a4eb9d6-41c2-4c6a-abe1-b791567c131d)

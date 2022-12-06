@@ -1,7 +1,7 @@
 (footprint "OLGA-14" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>OLGA - 14 Pin</h3>\n<p>Specifications:\n<ul><li>Pin count: 14</li>\n</ul></p>\n<p><a href=”https://datasheets.maximintegrated.com/en/ds/MAX30105.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>MAX30105</li>\n</ul></p>")
+  (descr "<h3>OLGA - 14 Pin</h3>\n<p>Specifications:\n<ul><li>Pin count: 14</li>\n</ul></p>\n<p><a href="https://datasheets.maximintegrated.com/en/ds/MAX30105.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>MAX30105</li>\n</ul></p>")
   (fp_text reference ">NAME" (at 0 -3) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify bottom))
     (tstamp 93263c72-ffc3-4f49-bec2-5b0a964c7fdf)

@@ -1,7 +1,7 @@
 (footprint "MOLEX_1X6_RA_LOCK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>Molex 6-Pin Plated Through-Hole Right Angle Locking Footprint</h3>\nHoles are offset 0.005\" from center to hold pins in place during soldering.  \ntPlace shows location of connector.\n<p>Specifications:\n<ul><li>Pin count:6</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p><a href=”https://www.sparkfun.com/datasheets/Prototyping/2pin_molex_set_19iv10.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_06</li>\n</ul></p>")
+  (descr "<h3>Molex 6-Pin Plated Through-Hole Right Angle Locking Footprint</h3>\nHoles are offset 0.005\" from center to hold pins in place during soldering.  \ntPlace shows location of connector.\n<p>Specifications:\n<ul><li>Pin count:6</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p><a href="https://www.sparkfun.com/datasheets/Prototyping/2pin_molex_set_19iv10.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_06</li>\n</ul></p>")
   (fp_text reference ">NAME" (at 4.826 -5.588) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp d5b185e8-89d9-4734-b852-ce2b0f462f04)

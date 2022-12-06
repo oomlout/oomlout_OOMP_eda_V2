@@ -1,7 +1,7 @@
 (footprint "MOLEX-1X6" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>Molex 6-Pin Plated Through-Hole</h3>\n<p>Specifications:\n<ul><li>Pin count:6</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p><a href=”https://www.sparkfun.com/datasheets/Prototyping/2pin_molex_set_19iv10.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_06</li>\n</ul></p>")
+  (descr "<h3>Molex 6-Pin Plated Through-Hole</h3>\n<p>Specifications:\n<ul><li>Pin count:6</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p><a href="https://www.sparkfun.com/datasheets/Prototyping/2pin_molex_set_19iv10.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_06</li>\n</ul></p>")
   (fp_text reference ">NAME" (at 4.699 -3.302) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp fc376938-6d9b-4b33-bec7-ce2e0a43c7ae)

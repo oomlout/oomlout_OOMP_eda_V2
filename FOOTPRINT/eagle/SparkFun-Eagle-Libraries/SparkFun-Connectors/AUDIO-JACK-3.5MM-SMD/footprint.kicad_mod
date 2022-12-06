@@ -1,7 +1,7 @@
 (footprint "AUDIO-JACK-3.5MM-SMD" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>3.5mm Stereo Audio Jack - Surface Mount</h3>\n2.5mm Height. \n<p>Specifications:\n<ul><li>Pin count:5</li>\n</ul></p>\n<p><a href=”http://www.4uconnector.com/online/object/4udrawing/19269.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>Audio_Jack</li>\n</ul></p>")
+  (descr "<h3>3.5mm Stereo Audio Jack - Surface Mount</h3>\n2.5mm Height. \n<p>Specifications:\n<ul><li>Pin count:5</li>\n</ul></p>\n<p><a href="http://www.4uconnector.com/online/object/4udrawing/19269.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>Audio_Jack</li>\n</ul></p>")
   (fp_text reference ">NAME" (at 5.715 -0.762) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 656d1d9a-0325-4fd2-99d2-dce716e399b7)

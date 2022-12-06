@@ -1,7 +1,7 @@
 (footprint "BC9VPC" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>9V Battery Holder (Open) - PTH</h3>\n<p>Specifications:\n<ul><li>Pin count:2</li>\n<li>Area: 2.15\"x1.20\"</li>\n</ul></p>\n<p><a href=”http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>BC9VPC</li>\n</ul></p>")
+  (descr "<h3>9V Battery Holder (Open) - PTH</h3>\n<p>Specifications:\n<ul><li>Pin count:2</li>\n<li>Area: 2.15\"x1.20\"</li>\n</ul></p>\n<p><a href="http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>BC9VPC</li>\n</ul></p>")
   (fp_text reference ">NAME" (at 25.4 -16.637) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 53d7e718-680b-4cae-9769-0bb896fef970)

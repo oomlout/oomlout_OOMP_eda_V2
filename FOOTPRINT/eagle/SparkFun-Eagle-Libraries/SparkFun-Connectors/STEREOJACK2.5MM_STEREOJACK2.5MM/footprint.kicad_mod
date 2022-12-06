@@ -1,7 +1,7 @@
 (footprint "STEREOJACK2.5MM_STEREOJACK2.5MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>2.5mm Stereo Audio Jack - PTH</h3>\n<p>Specifications:\n<ul><li>Pin count:4</li>\n</ul></p>\n<p><a href=”http://www.4uconnector.com/online/object/4udrawing/19726.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>Audio_Jack_2.5MM</li>\n</ul></p>")
+  (descr "<h3>2.5mm Stereo Audio Jack - PTH</h3>\n<p>Specifications:\n<ul><li>Pin count:4</li>\n</ul></p>\n<p><a href="http://www.4uconnector.com/online/object/4udrawing/19726.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>Audio_Jack_2.5MM</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -2.54 -2.794) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp ee56004e-6c25-43ad-95a1-87cdf97d42fc)

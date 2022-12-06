@@ -1,7 +1,7 @@
 (footprint "USB-B-PTH" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>USB Type B Female PTH Mounted</h3>\n<p>Specifications:\n<ul><li>Pin count:4 main, 2 shield</li>\n</ul></p>\n<p><a href=”https://www.sparkfun.com/datasheets/Prototyping/USB-B%20Connector.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>USB_B</li>\n</ul></p>")
+  (descr "<h3>USB Type B Female PTH Mounted</h3>\n<p>Specifications:\n<ul><li>Pin count:4 main, 2 shield</li>\n</ul></p>\n<p><a href="https://www.sparkfun.com/datasheets/Prototyping/USB-B%20Connector.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>USB_B</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -7.43 -6.35) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp ce350c30-0f7a-4a40-9a3d-77570e129d03)

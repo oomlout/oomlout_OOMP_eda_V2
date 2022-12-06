@@ -1,7 +1,7 @@
 (footprint "USB-MINIB" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>USB Type Mini-B Surface Mounted</h3>\n<p>Specifications:\n<ul><li>Pin count: 5 main, 4 shield pins</li>\n</ul></p>\n<p><a href=”https://www.sparkfun.com/datasheets/Prototyping/miniUSB-Dimensional.pdf”>Datasheet referenced for footprint</a></p>\n\n<p>Example device(s):\n<ul><li>USB_Mini-B</li>\n</ul></p>")
+  (descr "<h3>USB Type Mini-B Surface Mounted</h3>\n<p>Specifications:\n<ul><li>Pin count: 5 main, 4 shield pins</li>\n</ul></p>\n<p><a href="https://www.sparkfun.com/datasheets/Prototyping/miniUSB-Dimensional.pdf">Datasheet referenced for footprint</a></p>\n\n<p>Example device(s):\n<ul><li>USB_Mini-B</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -3.81 -6.35) (layer "F.SilkS")
     (effects (font (size 0.65024 0.65024) (thickness 0.16256)) (justify left bottom))
     (tstamp 4660039f-ba89-480f-9e49-215b3a34578c)

@@ -1,7 +1,7 @@
 (footprint "USB-B-MICRO-SMD_RED_PASTE" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>USB - microB SMD Reduced Paste</h3>\n 70% paste area under D+ D- USBID pins for applications where those pins aren't required, to reduce the likelihood of bridges.\n<p>Specifications:\n<ul><li>Pin count:5</li>\n</ul></p>\n<p><a href=”https://www.sparkfun.com/datasheets/Prototyping/Micro-USB.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>USB_MICRO-B</li>\n</ul></p>")
+  (descr "<h3>USB - microB SMD Reduced Paste</h3>\n 70% paste area under D+ D- USBID pins for applications where those pins aren't required, to reduce the likelihood of bridges.\n<p>Specifications:\n<ul><li>Pin count:5</li>\n</ul></p>\n<p><a href="https://www.sparkfun.com/datasheets/Prototyping/Micro-USB.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>USB_MICRO-B</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -1.27 -4.8006) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 0de208e4-1f62-44b8-b5d0-c350e36733df)

@@ -1,7 +1,7 @@
 (footprint "2X4_SMT_NO_POSTS_NS" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>Surface Mount - 2x3 Male Header with Keying Posts</h3>\n<p>Specifications:\n<ul><li>Pin count:6</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p><a href=”http://www.4uconnector.com/online/object/4udrawing/15881.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_03x2</li>\n</ul></p>")
+  (descr "<h3>Surface Mount - 2x3 Male Header with Keying Posts</h3>\n<p>Specifications:\n<ul><li>Pin count:6</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p><a href="http://www.4uconnector.com/online/object/4udrawing/15881.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_03x2</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -1.397 -4.445) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 0136021d-2d4f-4d19-8347-58d6c43d2eb2)

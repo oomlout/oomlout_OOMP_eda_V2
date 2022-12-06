@@ -1,7 +1,7 @@
 (footprint "BM08B-SRSS-TB" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>JST Vertical Crimp Connect</h3>\n<p>Specifications:\n<ul><li>Pin count: 8</li>\n<li>Pin pitch:1mm</li>\n</ul></p>\n<p><a href=”http://www.jst-mfg.com/product/pdf/eng/eSR.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_08</li>\n</ul></p>")
+  (descr "<h3>JST Vertical Crimp Connect</h3>\n<p>Specifications:\n<ul><li>Pin count: 8</li>\n<li>Pin pitch:1mm</li>\n</ul></p>\n<p><a href="http://www.jst-mfg.com/product/pdf/eng/eSR.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_08</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -1.397 -2.159) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 174dbc08-817a-484c-a607-da4d4d5fbe8a)

@@ -1,7 +1,7 @@
 (footprint "VFQFN-20" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>VFQFN-20 - A Small SMD Package</h3>\n<p>Specifications:\n<ul><li>Pin count: 20</li>\n<li>Pin pitch: 0.5 mm</li>\n<li>Area: 4.5 x 3.5 mm</li>\n</ul></p>\n<p><a href=”http://www.ti.com/lit/ds/symlink/txs0108e.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>TXS0108</li>\n</ul></p>")
+  (descr "<h3>VFQFN-20 - A Small SMD Package</h3>\n<p>Specifications:\n<ul><li>Pin count: 20</li>\n<li>Pin pitch: 0.5 mm</li>\n<li>Area: 4.5 x 3.5 mm</li>\n</ul></p>\n<p><a href="http://www.ti.com/lit/ds/symlink/txs0108e.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>TXS0108</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -1.5 -2.5) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 79bf44ce-3ac4-4c58-bd00-5c8461f0d13c)

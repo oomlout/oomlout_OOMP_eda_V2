@@ -1,7 +1,7 @@
 (footprint "EB-85A" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>EB-85A Connector</h3>\nHorizontal surface mount connector for the EB-85A/FV-M8 GPS receiver.\n<p>Specifications:\n<ul><li>Pin count: 10</li>\n</ul></p>\n<p><a href=”https://www.sparkfun.com/datasheets/GPS/EB-85A-Connector.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>EB-85A</li>\n</ul></p>")
+  (descr "<h3>EB-85A Connector</h3>\nHorizontal surface mount connector for the EB-85A/FV-M8 GPS receiver.\n<p>Specifications:\n<ul><li>Pin count: 10</li>\n</ul></p>\n<p><a href="https://www.sparkfun.com/datasheets/GPS/EB-85A-Connector.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>EB-85A</li>\n</ul></p>")
   (fp_text reference ">NAME" (at 2.032 2.286) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp aaa46d91-2fcb-44f3-9646-8988c367aa07)

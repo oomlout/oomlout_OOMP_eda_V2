@@ -1,7 +1,7 @@
 (footprint "SIMHOLDER" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>SIM Card Socket SMT</h3>\n<p>Specifications:\n<ul><li>Pin count: 6</li>\n<li>Pin pitch:2.54mm</li>\n</ul></p>\n<p><a href=”http://www.morethanall.com/upload/products_pdf/144626051352e1f8ebd5c5c.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>SIMHOLDER</li>\n</ul></p>")
+  (descr "<h3>SIM Card Socket SMT</h3>\n<p>Specifications:\n<ul><li>Pin count: 6</li>\n<li>Pin pitch:2.54mm</li>\n</ul></p>\n<p><a href="http://www.morethanall.com/upload/products_pdf/144626051352e1f8ebd5c5c.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>SIMHOLDER</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -4 3) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 49d64511-0ed1-48f5-a9e9-6e0cac10af6d)

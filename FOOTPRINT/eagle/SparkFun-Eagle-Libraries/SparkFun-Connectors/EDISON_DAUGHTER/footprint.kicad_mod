@@ -1,7 +1,7 @@
 (footprint "EDISON_DAUGHTER" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>Hirose DF30C-70DP-0.4V(51) Receiver Footprint w/ Edison Outline</h3>\nPackage can be used as basic guideline for creating Edison-mating daughter boards.\n<br>Includes keepout area for antenna. \n<p>Specifications:\n<ul><li>Pin count:70</li>\n<li>Pin pitch: 0.4mm</li>\n</ul></p>\n<p><a href=”http://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/DF40C-70DP-0.4V(51).pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>EDISON_FULL_CONNECTOR</li>\n</ul></p>")
+  (descr "<h3>Hirose DF30C-70DP-0.4V(51) Receiver Footprint w/ Edison Outline</h3>\nPackage can be used as basic guideline for creating Edison-mating daughter boards.\n<br>Includes keepout area for antenna. \n<p>Specifications:\n<ul><li>Pin count:70</li>\n<li>Pin pitch: 0.4mm</li>\n</ul></p>\n<p><a href="http://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/DF40C-70DP-0.4V(51).pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>EDISON_FULL_CONNECTOR</li>\n</ul></p>")
   (fp_text reference ">NAME" (at 0.616 -34.992 90) (layer "F.SilkS")
     (effects (font (size 0.69088 0.69088) (thickness 0.12192)) (justify right top))
     (tstamp 242248fa-2df5-48d0-a5ff-592b2b111c3e)

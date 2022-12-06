@@ -1,7 +1,7 @@
 (footprint "LED_BAR_SMD" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>SMA-B520LB LED Bargraph - 5 segment</h3>\n<p>Specifications:\n<ul><li>Pin count:6</li>\n</ul></p>\n<p><a href=””>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>[EXAMPLE DEVICE 1]</li>\n<li>[EXAMPLE DEVICE 2]</li>\n</ul></p>")
+  (descr "<h3>SMA-B520LB LED Bargraph - 5 segment</h3>\n<p>Specifications:\n<ul><li>Pin count:6</li>\n</ul></p>\n<p><a href="">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>[EXAMPLE DEVICE 1]</li>\n<li>[EXAMPLE DEVICE 2]</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -10.414 0 90) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify bottom))
     (tstamp b4703061-145b-463c-95b0-18eb7e5b5b68)

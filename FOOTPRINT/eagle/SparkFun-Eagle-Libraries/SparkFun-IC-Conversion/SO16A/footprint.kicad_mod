@@ -1,7 +1,7 @@
 (footprint "SO16A" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>SOP-16L</h3>\n<p>Specifications:\n<ul><li>Pin count: 16</li>\n</ul></p>\n<p><a href=”https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>HX711</li>\n</ul></p>")
+  (descr "<h3>SOP-16L</h3>\n<p>Specifications:\n<ul><li>Pin count: 16</li>\n</ul></p>\n<p><a href="https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>HX711</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -5.461 1.778 90) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp d5ae7444-cce3-4a2f-8553-db2bde54e3a2)

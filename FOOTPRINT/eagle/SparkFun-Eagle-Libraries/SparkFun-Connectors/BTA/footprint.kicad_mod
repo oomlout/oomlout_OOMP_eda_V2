@@ -1,7 +1,7 @@
 (footprint "BTA" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>British Telecom Connector - Analog Right Angle</h3>\n<p>Specifications:\n<ul><li>Pin count: 6</li>\n</ul></p>\n<p><a href=”http://cdn.sparkfun.com/datasheets/Prototyping/BTA-Connector%20Datasheet.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>VERNIER_ANALOG</li>\n</ul></p>")
+  (descr "<h3>British Telecom Connector - Analog Right Angle</h3>\n<p>Specifications:\n<ul><li>Pin count: 6</li>\n</ul></p>\n<p><a href="http://cdn.sparkfun.com/datasheets/Prototyping/BTA-Connector%20Datasheet.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>VERNIER_ANALOG</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -1.397 -2.159) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp bbe57e7e-c11a-4a86-b501-de41c88102b7)

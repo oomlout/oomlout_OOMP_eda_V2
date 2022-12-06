@@ -1,7 +1,7 @@
 (footprint "1X12_SMD_COMBINED_NC" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>SMD - 12 Pin Vertical Female SMD Combined No Connect</h3>\n<p>Specifications:\n<ul><li>Pin count: 12</li>\n<li>Pin pitch: 0.1\"</li>\n</ul></p>\n<p><a href=”http://cdn.sparkfun.com/datasheets/Prototyping/maleSMDheader.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_12</li>\n</ul></p>")
+  (descr "<h3>SMD - 12 Pin Vertical Female SMD Combined No Connect</h3>\n<p>Specifications:\n<ul><li>Pin count: 12</li>\n<li>Pin pitch: 0.1\"</li>\n</ul></p>\n<p><a href="http://cdn.sparkfun.com/datasheets/Prototyping/maleSMDheader.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_12</li>\n</ul></p>")
   (fp_text reference "Ref**" (at 0 0) (layer "F.SilkS")
     (effects (font (size 1.27 1.27) (thickness 0.15)))
     (tstamp 8a767ffa-ef74-44f5-91a1-e4dd71e1c861)

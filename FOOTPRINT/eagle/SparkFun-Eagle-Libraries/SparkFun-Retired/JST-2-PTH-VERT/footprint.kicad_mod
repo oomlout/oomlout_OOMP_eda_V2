@@ -1,7 +1,7 @@
 (footprint "JST-2-PTH-VERT" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>JST -XH Male 2.5mm Vertical Plated-Through-Hole</h3>\n<p>Specifications:\n<ul><li>Pin count: 2</li>\n<li>Pin pitch: 2mm</li>\n</ul></p>\n<p><a href=”http://www.jst-mfg.com/product/pdf/eng/eXH.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_02</li>\n</ul></p>")
+  (descr "<h3>JST -XH Male 2.5mm Vertical Plated-Through-Hole</h3>\n<p>Specifications:\n<ul><li>Pin count: 2</li>\n<li>Pin pitch: 2mm</li>\n</ul></p>\n<p><a href="http://www.jst-mfg.com/product/pdf/eng/eXH.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_02</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -2.032 -2.54) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 96283162-2498-4640-b120-2fa2d3aca4dd)

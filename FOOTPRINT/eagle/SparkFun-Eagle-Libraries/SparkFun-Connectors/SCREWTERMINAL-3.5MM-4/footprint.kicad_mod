@@ -1,7 +1,7 @@
 (footprint "SCREWTERMINAL-3.5MM-4" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>Screw Terminal  3.5mm Pitch -4 Pin PTH</h3>\n<p>Specifications:\n<ul><li>Pin count: 4</li>\n<li>Pin pitch: 3.5mm/138mil</li>\n</ul></p>\n<p><a href=”https://www.sparkfun.com/datasheets/Prototyping/Screw-Terminal-3.5mm.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_04</li>\n</ul></p>")
+  (descr "<h3>Screw Terminal  3.5mm Pitch -4 Pin PTH</h3>\n<p>Specifications:\n<ul><li>Pin count: 4</li>\n<li>Pin pitch: 3.5mm/138mil</li>\n</ul></p>\n<p><a href="https://www.sparkfun.com/datasheets/Prototyping/Screw-Terminal-3.5mm.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_04</li>\n</ul></p>")
   (fp_text reference ">NAME" (at 0 -2.413) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 78632c60-dc60-4e98-978e-73b0e2d7a44e)

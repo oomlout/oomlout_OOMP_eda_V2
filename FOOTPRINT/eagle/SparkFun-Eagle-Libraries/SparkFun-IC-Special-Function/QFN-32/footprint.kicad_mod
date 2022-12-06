@@ -1,7 +1,7 @@
 (footprint "QFN-32" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>QFN-32 - Used for WM8960 Audio Codec</h3>\n<p>Specifications:\n<ul><li>Pin count: 32</li>\n<li>Pin pitch: 0.5mm</li>\n<li>Area: 5mm x 5mm</li>\n</ul></p>\n<p><a href=”https://statics.cirrus.com/pubs/proDatasheet/WM8960_v4.4.pdf”>Datasheet referenced for footprint</a></p>")
+  (descr "<h3>QFN-32 - Used for WM8960 Audio Codec</h3>\n<p>Specifications:\n<ul><li>Pin count: 32</li>\n<li>Pin pitch: 0.5mm</li>\n<li>Area: 5mm x 5mm</li>\n</ul></p>\n<p><a href="https://statics.cirrus.com/pubs/proDatasheet/WM8960_v4.4.pdf">Datasheet referenced for footprint</a></p>")
   (fp_text reference "Ref**" (at 0 0) (layer "F.SilkS")
     (effects (font (size 1.27 1.27) (thickness 0.15)))
     (tstamp c7de4a35-21db-4e02-9e1a-b8d6817c2832)

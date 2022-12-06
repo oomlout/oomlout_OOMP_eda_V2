@@ -1,7 +1,7 @@
 (footprint "DF40-XC-(X.X)-70DS-0.4V(51)" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>Hirose DF40C-70DP-0.4V(51) Plug</h3>\n<p>Specifications:\n<ul><li>Pin count:70</li>\n<li>Pin pitch: 0.4mm</li>\n</ul></p>\n<p><a href=”http://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/DF40C-70DP-0.4V(51).pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>EDISON_FULL_CONNECTOR</li>\n</ul></p>")
+  (descr "<h3>Hirose DF40C-70DP-0.4V(51) Plug</h3>\n<p>Specifications:\n<ul><li>Pin count:70</li>\n<li>Pin pitch: 0.4mm</li>\n</ul></p>\n<p><a href="http://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/DF40C-70DP-0.4V(51).pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>EDISON_FULL_CONNECTOR</li>\n</ul></p>")
   (fp_text reference "Ref**" (at 0 0) (layer "F.SilkS")
     (effects (font (size 1.27 1.27) (thickness 0.15)))
     (tstamp bd31dd4a-8c2d-402c-9001-428140bea8d0)

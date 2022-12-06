@@ -1,7 +1,7 @@
 (footprint "USB-A-S-NOSILK-FEMALE" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>USB Type 'A' Female Connector - SMT No Silk</h3>\nShield pins may be grounded.\n<br> tDocu shows plug end. \n<p>Specifications:\n<ul><li>Pin count:6</li>\n</ul></p>\n<p><a href=” https://www.sparkfun.com/datasheets/Prototyping/Connectors/USBFemaleTypeA.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>USB_A</li>\n</ul></p>")
+  (descr "<h3>USB Type 'A' Female Connector - SMT No Silk</h3>\nShield pins may be grounded.\n<br> tDocu shows plug end. \n<p>Specifications:\n<ul><li>Pin count:6</li>\n</ul></p>\n<p><a href=" https://www.sparkfun.com/datasheets/Prototyping/Connectors/USBFemaleTypeA.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>USB_A</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -6.35 -6.858) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp f55e8f01-2219-4933-b173-d439826c2fb7)

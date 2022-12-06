@@ -1,7 +1,7 @@
 (footprint "LGA-28" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>LGA-28 - LGA-28 package for the BNO080 IMU</h3>\n<p>Specifications:\n<ul><li>Pin count: 28</li>\n<li>Pin pitch: 0.5mm</li>\n<li>Area: 3.8mm X 5.2mm</li>\n</ul></p>\n<p><a href=”http://www.hillcrestlabs.com/download/5a05f340566d07c196001ec1”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li><a href=”https://www.sparkfun.com/products/14618”>BNO080</a></li>\n\n</ul></p>")
+  (descr "<h3>LGA-28 - LGA-28 package for the BNO080 IMU</h3>\n<p>Specifications:\n<ul><li>Pin count: 28</li>\n<li>Pin pitch: 0.5mm</li>\n<li>Area: 3.8mm X 5.2mm</li>\n</ul></p>\n<p><a href="http://www.hillcrestlabs.com/download/5a05f340566d07c196001ec1">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li><a href="https://www.sparkfun.com/products/14618">BNO080</a></li>\n\n</ul></p>")
   (fp_text reference ">NAME" (at -1 -3.2) (layer "F.SilkS")
     (effects (font (size 0.373888 0.373888) (thickness 0.032512)) (justify left bottom))
     (tstamp c80848c3-3925-4a07-96ae-10cec92386d3)

@@ -1,7 +1,7 @@
 (footprint "TMF882X" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>OLGA12</h3>\n<p>Mechanical Specifications:\n<ul>\n<li>Pad Size:.5mm x .3mm</li>\n<li>Pin count: 12</li>\n<li>Pin pitch: .82mm</li>\n<li>Package Size: 1.4mm x 2mm</li>\n</ul></p>\n<p><a href=”https://ams.com/documents/20143/6015057/TMF882X_DS000693_4-00.pdf”>Datasheet</a></p>")
+  (descr "<h3>OLGA12</h3>\n<p>Mechanical Specifications:\n<ul>\n<li>Pad Size:.5mm x .3mm</li>\n<li>Pin count: 12</li>\n<li>Pin pitch: .82mm</li>\n<li>Package Size: 1.4mm x 2mm</li>\n</ul></p>\n<p><a href="https://ams.com/documents/20143/6015057/TMF882X_DS000693_4-00.pdf">Datasheet</a></p>")
   (fp_text reference ">NAME" (at -1.0414 -2.4638) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp a3dc8b0c-a9ea-46fd-ab03-8816985513ce)

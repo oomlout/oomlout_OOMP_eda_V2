@@ -1,7 +1,7 @@
 (footprint "1X10_SMD_MALE" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>SMD -10 Pin</h3>\n<p>Specifications:\n<ul><li>Pin count:10</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p><a href=”http://cdn.sparkfun.com/datasheets/Prototyping/maleSMDheader.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_10</li>\n</ul></p>")
+  (descr "<h3>SMD -10 Pin</h3>\n<p>Specifications:\n<ul><li>Pin count:10</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p><a href="http://cdn.sparkfun.com/datasheets/Prototyping/maleSMDheader.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_10</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -1.397 -3.302) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 6c93e3dd-da5e-44e7-9ea4-f6a73f75d6e2)

@@ -1,7 +1,7 @@
 (footprint "AUDIO_JACK_3.5MM_TRRS_SMD_RA" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>TRRS 3.5MM Right Angle Stereo Jack - SMT</h3>\n<p>Specifications:\n<ul><li>Pin count: 4</li>\n</ul></p>\n<p><a href=”http://cdn.sparkfun.com/datasheets/Prototyping/20153.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>AUDIO_JACK_TRRS</li>\n</ul></p>")
+  (descr "<h3>TRRS 3.5MM Right Angle Stereo Jack - SMT</h3>\n<p>Specifications:\n<ul><li>Pin count: 4</li>\n</ul></p>\n<p><a href="http://cdn.sparkfun.com/datasheets/Prototyping/20153.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>AUDIO_JACK_TRRS</li>\n</ul></p>")
   (fp_text reference ">NAME" (at 3.175 -0.127) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp e920423e-50e5-4dee-9a5f-fbc81d4d1ba2)

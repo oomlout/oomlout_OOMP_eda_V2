@@ -1,7 +1,7 @@
 (footprint "2X5-SHROUDED_LOCK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>Plated Through Hole - 2x5 Shrouded Header Locking Footprint</h3>\nHoles are offset 0.005\" from center, to hold pins in place during soldering. \n<p>Specifications:\n<ul><li>Pin count:10</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p><a href=”https://www.sparkfun.com/datasheets/Prototyping/Shrouded-10pin.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_05x2</li>\n</ul></p>")
+  (descr "<h3>Plated Through Hole - 2x5 Shrouded Header Locking Footprint</h3>\nHoles are offset 0.005\" from center, to hold pins in place during soldering. \n<p>Specifications:\n<ul><li>Pin count:10</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p><a href="https://www.sparkfun.com/datasheets/Prototyping/Shrouded-10pin.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_05x2</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -4.191 -10.541) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 3df3d818-bbbc-420b-ab68-805659151141)

@@ -1,7 +1,7 @@
 (footprint "SOT25" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>SOT-25</h3>\n<p>Mechanical Specifications:\n<ul>\n<li>Pad Size: .7mm x 1.2mm</li>\n<li>Pin count: 5</li>\n<li>Pin pitch: .95mm</li>\n<li>Package Size:2.9mm x 1.6mm</li>\n</ul></p>\n<p><a href=”https://www.diodes.com/assets/Datasheets/AP7347DQ.pdf”>Datasheet referenced for footprint</a></p>")
+  (descr "<h3>SOT-25</h3>\n<p>Mechanical Specifications:\n<ul>\n<li>Pad Size: .7mm x 1.2mm</li>\n<li>Pin count: 5</li>\n<li>Pin pitch: .95mm</li>\n<li>Package Size:2.9mm x 1.6mm</li>\n</ul></p>\n<p><a href="https://www.diodes.com/assets/Datasheets/AP7347DQ.pdf">Datasheet referenced for footprint</a></p>")
   (fp_text reference ">NAME" (at -1.524 -2.286) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp aacb0826-27f7-41a4-aa4c-33f35d687c43)

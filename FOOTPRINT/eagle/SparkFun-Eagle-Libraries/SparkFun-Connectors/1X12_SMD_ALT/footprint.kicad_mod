@@ -1,7 +1,7 @@
 (footprint "1X12_SMD_ALT" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>SMD - 12 Pin Vertical Female SMD Alt</h3>\nAlternate pin configuration\n<p>Specifications:\n<ul><li>Pin count: 12</li>\n<li>Pin pitch: 0.1\"</li>\n</ul></p>\n<p><a href=”http://cdn.sparkfun.com/datasheets/Prototyping/femaleSMDheader.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_12</li>\n</ul></p>")
+  (descr "<h3>SMD - 12 Pin Vertical Female SMD Alt</h3>\nAlternate pin configuration\n<p>Specifications:\n<ul><li>Pin count: 12</li>\n<li>Pin pitch: 0.1\"</li>\n</ul></p>\n<p><a href="http://cdn.sparkfun.com/datasheets/Prototyping/femaleSMDheader.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_12</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -18.796 -2.921) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 16e8168f-4518-47ef-8911-1c17b42c1653)

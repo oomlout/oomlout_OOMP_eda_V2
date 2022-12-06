@@ -1,7 +1,7 @@
 (footprint "E19-915M30S" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>E19-915M30S - 1W 915MHz TRX Using SX1276</h3>\n<p>Specifications:\n<ul><li>Pin count: 22</li>\n<li>Pin pitch: Varies</li>\n<li>Area: 1.15 in x 1.65 in</li>\n</ul></p>\n<p><a href=”https://cdn.sparkfun.com/assets/d/8/3/6/e/E19__915M30S__Datasheet_EN_v1.0.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s): \n<ul><li>SAMD21 ProRF 1W</li>\n<li></li>\n</ul></p>")
+  (descr "<h3>E19-915M30S - 1W 915MHz TRX Using SX1276</h3>\n<p>Specifications:\n<ul><li>Pin count: 22</li>\n<li>Pin pitch: Varies</li>\n<li>Area: 1.15 in x 1.65 in</li>\n</ul></p>\n<p><a href="https://cdn.sparkfun.com/assets/d/8/3/6/e/E19__915M30S__Datasheet_EN_v1.0.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s): \n<ul><li>SAMD21 ProRF 1W</li>\n<li></li>\n</ul></p>")
   (fp_text reference ">NAME" (at 0 -1) (layer "F.SilkS")
     (effects (font (size 0.644 0.644) (thickness 0.056)))
     (tstamp 2b7ce529-ac9d-42e6-93f1-20d3c8d2a8a5)

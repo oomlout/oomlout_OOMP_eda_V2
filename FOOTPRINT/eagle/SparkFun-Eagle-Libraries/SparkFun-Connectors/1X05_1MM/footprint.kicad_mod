@@ -1,7 +1,7 @@
 (footprint "1X05_1MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>SMD - 5 Pin</h3>\n<p>Specifications:\n<ul><li>Pin count:5</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p><a href=”http://www.sparkfun.com/datasheets/GPS/EM408-SMDConnector.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_05</li>\n<li>EM-408</li>\n</ul></p>")
+  (descr "<h3>SMD - 5 Pin</h3>\n<p>Specifications:\n<ul><li>Pin count:5</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p><a href="http://www.sparkfun.com/datasheets/GPS/EM408-SMDConnector.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_05</li>\n<li>EM-408</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -1.524 -1.905) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 4df693aa-f565-4869-bac1-02fb99f45138)

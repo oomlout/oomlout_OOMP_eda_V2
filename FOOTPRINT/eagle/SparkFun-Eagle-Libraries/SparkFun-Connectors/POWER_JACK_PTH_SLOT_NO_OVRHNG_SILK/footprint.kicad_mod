@@ -1,7 +1,7 @@
 (footprint "POWER_JACK_PTH_SLOT_NO_OVRHNG_SILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>DC Barrel Power Jack/Connector PTH</h3>\n5.5mm jack, 2.1mm center pole diameter\n<p>Specifications:\n<ul><li>Pin count: 3</li>\n</ul></p>\n<p><a href=”https://www.sparkfun.com/datasheets/Prototyping/Barrel-Connector-PJ-202A.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>POWER_JACK</li>\n</ul></p>")
+  (descr "<h3>DC Barrel Power Jack/Connector PTH</h3>\n5.5mm jack, 2.1mm center pole diameter\n<p>Specifications:\n<ul><li>Pin count: 3</li>\n</ul></p>\n<p><a href="https://www.sparkfun.com/datasheets/Prototyping/Barrel-Connector-PJ-202A.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>POWER_JACK</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -4.3 3.1) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp d74c5779-d2ae-4e14-95e9-900e69a64640)

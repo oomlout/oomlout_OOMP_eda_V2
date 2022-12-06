@@ -1,7 +1,7 @@
 (footprint "FPC05040-17204" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>FPC05040 - This is a 0.5mm pitch FPC connector with 40 positions </h3>\n<p>Specifications:\n<ul><li>Pin count: 40</li>\n<li>Pin pitch: 0.5mm</li>\n<li>Area: 20mm x 5mm</li>\n</ul></p>\n<p><a href=”https://sparkle.sparkfun.com/sparkle/file_store/parts/13272/15/2018-12-18_16:19:15/FPC05040-17204.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul>\n<li></li>\n<li></li>\n</ul>\n</p>")
+  (descr "<h3>FPC05040 - This is a 0.5mm pitch FPC connector with 40 positions </h3>\n<p>Specifications:\n<ul><li>Pin count: 40</li>\n<li>Pin pitch: 0.5mm</li>\n<li>Area: 20mm x 5mm</li>\n</ul></p>\n<p><a href="https://sparkle.sparkfun.com/sparkle/file_store/parts/13272/15/2018-12-18_16:19:15/FPC05040-17204.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul>\n<li></li>\n<li></li>\n</ul>\n</p>")
   (fp_text reference "Ref**" (at 0 0) (layer "F.SilkS")
     (effects (font (size 1.27 1.27) (thickness 0.15)))
     (tstamp 050d6417-e0d7-475e-99e9-8e0ed28d7693)

@@ -1,7 +1,7 @@
 (footprint "PIC_ICSP_MINI_5_PIN" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>Mini ICSP Connector - 5 Pin</h3>\n<p>Specifications:\n<ul><li>Pin count:5</li>\n<li>Pin pitch: 1.5mm</li>\n</ul></p>\n<p><a href=”http://www.jst-mfg.com/product/pdf/eng/eZH.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>PIC_ICSP_MINI_5_PIN</li>\n</ul></p>")
+  (descr "<h3>Mini ICSP Connector - 5 Pin</h3>\n<p>Specifications:\n<ul><li>Pin count:5</li>\n<li>Pin pitch: 1.5mm</li>\n</ul></p>\n<p><a href="http://www.jst-mfg.com/product/pdf/eng/eZH.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>PIC_ICSP_MINI_5_PIN</li>\n</ul></p>")
   (fp_text reference "Ref**" (at 0 0) (layer "F.SilkS")
     (effects (font (size 1.27 1.27) (thickness 0.15)))
     (tstamp 49cff33f-5f15-4f4a-96d0-7d10b7fead08)

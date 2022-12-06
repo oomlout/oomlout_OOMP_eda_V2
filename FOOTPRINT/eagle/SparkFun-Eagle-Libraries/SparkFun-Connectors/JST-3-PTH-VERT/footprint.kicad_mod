@@ -1,7 +1,7 @@
 (footprint "JST-3-PTH-VERT" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>JST 3 Pin Vertical Plated Through Hole</h3>\n<p>Specifications:\n<ul><li>Pin count:3</li>\n<li>Pin pitch:2mm</li>\n</ul></p>\n<p><a href=”https://www.sparkfun.com/datasheets/Prototyping/ePH.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_03</li>\n</ul></p>")
+  (descr "<h3>JST 3 Pin Vertical Plated Through Hole</h3>\n<p>Specifications:\n<ul><li>Pin count:3</li>\n<li>Pin pitch:2mm</li>\n</ul></p>\n<p><a href="https://www.sparkfun.com/datasheets/Prototyping/ePH.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>CONN_03</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -1.397 -2.54) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 86cf815c-00b1-4973-b90d-270b9940544c)

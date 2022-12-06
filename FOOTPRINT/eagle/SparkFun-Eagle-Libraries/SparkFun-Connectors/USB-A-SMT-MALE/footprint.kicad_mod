@@ -1,7 +1,7 @@
 (footprint "USB-A-SMT-MALE" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>USB Type 'A' Male Connector - SMT</h3>\nShield pins may be grounded.\n<br> tDocu shows plug end. \n<p>Specifications:\n<ul><li>Pin count:6</li>\n</ul></p>\n<p><a href=” http://www.molex.com/pdm_docs/sd/480371000_sd.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>USB_A</li>\n</ul></p>")
+  (descr "<h3>USB Type 'A' Male Connector - SMT</h3>\nShield pins may be grounded.\n<br> tDocu shows plug end. \n<p>Specifications:\n<ul><li>Pin count:6</li>\n</ul></p>\n<p><a href=" http://www.molex.com/pdm_docs/sd/480371000_sd.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>USB_A</li>\n</ul></p>")
   (fp_text reference ">NAME" (at -2.7 -6.17) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify left bottom))
     (tstamp 1f14ab82-0d02-43b8-9541-6ad6aa296cb1)

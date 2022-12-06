@@ -1,7 +1,7 @@
 (footprint "QFN48-6X6MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "<h3>QFN-48 pin 6x6mm</h3>\n<p>Specifications:\n<ul><li>Pin count: 48</li>\n<li>Area: 6x6mm</li>\n</ul></p>\n<p><a href=”https://cdn.sparkfun.com/datasheets/Wireless/Bluetooth/nRF52832_PS_v1.0.pdf”>Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>nRF52832</li>\n</ul></p>")
+  (descr "<h3>QFN-48 pin 6x6mm</h3>\n<p>Specifications:\n<ul><li>Pin count: 48</li>\n<li>Area: 6x6mm</li>\n</ul></p>\n<p><a href="https://cdn.sparkfun.com/datasheets/Wireless/Bluetooth/nRF52832_PS_v1.0.pdf">Datasheet referenced for footprint</a></p>\n<p>Example device(s):\n<ul><li>nRF52832</li>\n</ul></p>")
   (fp_text reference ">NAME" (at 0 -3.3) (layer "F.SilkS")
     (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify bottom))
     (tstamp c514d6bc-d498-49a2-90c5-4f6f7cfa1728)
